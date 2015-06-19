@@ -1,0 +1,11 @@
+net-analyzer/ettercap plugins
+net-analyzer/metasploit pcaprub
+net-analyzer/nmap ipv6 lua nping gtk python
+net-analyzer/rrdtool -ruby
+net-analyzer/scapy gnuplot pyx
+net-analyzer/snort dynamicplugin zlib
+net-analyzer/ucsniff ffmpeg plugins
+net-analyzer/wireshark gcrypt gnutls kerberos threads ares geoip portaudio smi -qt4
+
+#https://bugs.gentoo.org/show_bug.cgi?id=334329
+#net-analyzer/tcpdump -chroot

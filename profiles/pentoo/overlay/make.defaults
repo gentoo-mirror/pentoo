@@ -1,0 +1,34 @@
+# Adding -Wl,--hash-style=gnu to default LDFLAGS for linux/amd64 dev profile
+# This will help developers track packages, that don't respect LDFLAGS, down
+# more effectively
+LDFLAGS="${LDFLAGS} -Wl,--hash-style=gnu"
+
+#the settings below are disabled temporary due to the nasty bug:
+#https://bugs.gentoo.org/show_bug.cgi?id=492892
+
+#Adding -frecord-gcc-switches to help track down packages which don't respect *FLAGS
+#should probably leave a note in /etc/portage/make.conf about keeping this when override
+#CFLAGS="${CFLAGS} -frecord-gcc-switches"
+#CXXFLAGS="${CXXFLAGS} -frecord-gcc-switches"
+#FFLAGS="${FFLAGS} -frecord-gcc-switches"
+#FCFLAGS="${FCFLAGS} -frecord-gcc-switches"
+
+#for major use of binpkgs, we need to "fix" a few of gentoo's flaws:
+#a package built against kernel A will attempt to be used even when remerging on kernel B (often to hilarious consequences)
+#so we will define a long list of such packages and exclude them from being built and used (catch it on both ends to avoid issues)
+PENTOO_BINPKG_RESTRICTED="sys-kernel/compat-drivers sys-kernel/ax88179_178a x11-drivers/ati-drivers x11-drivers/nvidia-drivers sys-fs/zfs-kmod sys-kernel/spl \
+			sys-power/bbswitch pentoo/pentoo-installer x11-drivers/xf86-video-virtualbox app-emulation/virtualbox-guest-additions \
+			app-emulation/virtualbox-modules app-emulation/vmware-modules app-emulation/open-vm-tools-kmod sys-kernel/genkernel sys-kernel/pentoo-sources"
+EMERGE_DEFAULT_OPTS="${EMERGE_DEFAULT_OPTS} --ask-enter-invalid --keep-going=y --binpkg-respect-use=y --tree --verbose --with-bdeps=y --autounmask=n"
+EMERGE_DEFAULT_OPTS="${EMERGE_DEFAULT_OPTS} --buildpkg-exclude \"${PENTOO_BINPKG_RESTRICTED}\" --usepkg-exclude \"${PENTOO_BINPKG_RESTRICTED}\""
+
+XFCE_PLUGINS="${XFCE_PLUGINS} brightness menu logout trash"
+
+RUBY_TARGETS="ruby19 ruby21"
+
+USE="${USE} xinerama"
+
+GRUB_PLATFORMS="coreboot efi-32 efi-64 emu multiboot pc qemu"
+
+#mgorny suggested this speeds up sync, in my testing it makes a rather large difference
+PORTAGE_RSYNC_EXTRA_OPTS="--omit-dir-times"

@@ -1,0 +1,10 @@
+net-libs/gtk-vnc python
+
+#global curl flag requires special net-misc/curl settings so we disable it
+net-libs/liboauth -curl
+
+# required by net-analyzer/openvas
+net-libs/libmicrohttpd messages
+
+#zarp
+net-libs/nfqueue-bindings python perl

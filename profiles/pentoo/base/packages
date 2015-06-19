@@ -1,0 +1,6 @@
+# This file extends the base packages file for the default profile that all
+# architectures will enjoy.
+
+*dev-lang/python:2.7
+*app-arch/xz-utils
+*app-arch/lbzip2

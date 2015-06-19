@@ -1,0 +1,17 @@
+~app-forensics/rdd-3.0.4
+~app-forensics/volatility-2.4.1
+~app-forensics/pasco-20040505_p1
+~app-forensics/galleta-20040505_p1
+
+app-forensics/dff
+app-forensics/libbfio
+~app-forensics/libpff-0.0.20120802_alpha
+
+~app-forensics/inception-0.4.0
+~app-forensics/libforensic1394-0.2
+
+~app-misc/hivex-1.3.11
+
+app-forensics/libvshadow
+
+~app-forensics/guymager-0.7.3

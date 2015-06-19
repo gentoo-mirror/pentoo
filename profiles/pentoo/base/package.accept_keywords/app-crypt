@@ -1,0 +1,64 @@
+~app-crypt/acsccid-1.1.0
+
+<app-crypt/yubikey-neo-manager-9999 **
+<app-crypt/libykneomgr-9999 **
+<app-crypt/libu2f-host-9999 **
+
+app-crypt/steghide
+=app-crypt/hashkill-0.3.1_p2013*
+
+app-crypt/hashcat-gui
+app-crypt/hashcat-bin
+app-crypt/oclhashcat-plus-bin
+app-crypt/oclhashcat-lite-bin
+
+#remove when >1.31 is released
+app-crypt/cryptohaze-combined **
+
+~app-crypt/samdump2-3.0.0
+
+~app-crypt/wisecracker-1.0
+
+#likely needs cleanup below this point
+app-crypt/asedriveiiie-serial
+app-crypt/asedriveiiie-usb
+app-crypt/asekey
+app-crypt/bsign
+app-crypt/ccid
+app-crypt/cfs
+app-crypt/chntpw
+app-crypt/coolkey
+app-crypt/cuda-multiforcer
+app-crypt/elettra
+app-crypt/gifshuffle
+app-crypt/gnupg-pkcs11-scd
+app-crypt/gpa
+app-crypt/gpgstats
+app-crypt/heimdal
+app-crypt/johntheripper
+app-crypt/keylookup
+app-crypt/keynote
+app-crypt/md4sum
+app-crypt/md5deep
+app-crypt/mdcrack
+app-crypt/nasty
+app-crypt/nistp224
+app-crypt/onak
+app-crypt/openssl-blacklist
+app-crypt/openssl-tpm-engine
+app-crypt/openvpn-blacklist
+app-crypt/ophcrack
+app-crypt/ophcrack-tables
+app-crypt/pdfcrack
+app-crypt/pkcrack
+app-crypt/qca-pkcs11
+app-crypt/rainbowcrack
+app-crypt/rcracki_mt
+app-crypt/ssh-multiadd
+app-crypt/stan
+app-crypt/tpm-emulator
+app-crypt/tpm-tools
+app-crypt/truecrypt
+app-crypt/SIPcrack
+app-crypt/md5bf
+app-crypt/plaintoo

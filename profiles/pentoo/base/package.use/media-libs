@@ -1,0 +1,10 @@
+media-libs/emotion vlc
+media-libs/gd truetype fontconfig jpeg
+media-libs/imlib2 gif
+media-libs/libcanberra gstreamer
+media-libs/libpng apng
+media-libs/mesa gbm gles2 pic xa
+media-libs/gst-plugins-base theora
+
+#required by app-office/libreoffice
+media-libs/harfbuzz icu

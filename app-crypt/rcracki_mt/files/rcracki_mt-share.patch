@@ -1,0 +1,11 @@
+--- ChainWalkContext.cpp.orig	2012-02-27 14:42:16.872356385 +0100
++++ ChainWalkContext.cpp	2012-02-27 14:42:53.213356364 +0100
+@@ -92,6 +92,8 @@
+ 			readCharset = true;
+ 		else if ( ReadLinesFromFile(GetApplicationPath() + "charset.txt", vLine) )
+ 			readCharset = true;
++		else if ( ReadLinesFromFile("@@SHARE@@/charset.txt", vLine ) )
++		        readCharset = true;
+ 	#endif
+ 
+ 	if ( readCharset )

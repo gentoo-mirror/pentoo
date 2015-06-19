@@ -1,0 +1,51 @@
+# Copyright 2004-2013 Gentoo Foundation.
+# Distributed under the terms of the GNU General Public License v2
+# $Header: $
+
+# Adding -Wl,--hash-style=gnu to default LDFLAGS for linux/amd64 dev profile
+# This will help developers track packages, that don't respect LDFLAGS, down
+# more effectively
+LDFLAGS="${LDFLAGS} -Wl,--hash-style=gnu"
+
+#Adding -frecord-gcc-switches to help track down packages which don't respect *FLAGS
+#should probably leave a note in /etc/portage/make.conf about keeping this when override
+CFLAGS="${CFLAGS} -frecord-gcc-switches"
+CXXFLAGS="${CXXFLAGS} -frecord-gcc-switches"
+FFLAGS="${FFLAGS} -frecord-gcc-switches"
+FCFLAGS="${FCFLAGS} -frecord-gcc-switches"
+
+FEATURES="${FEATURES} usersandbox protect-owned userpriv userfetch fixlafiles news parallel-fetch sfperms unmerge-orphans unknown-features-warn usersync multilib-strict preserve-libs"
+
+#for major use of binpkgs, we need to "fix" a few of gentoo's flaws:
+#a package built against kernel A will attempt to be used even when remerging on kernel B (often to hilarious consequences)
+#so we will define a long list of such packages and exclude them from being built and used (catch it on both ends to avoid issues)
+PENTOO_BINPKG_RESTRICTED="sys-kernel/compat-drivers sys-kernel/ax88179_178a x11-drivers/ati-drivers x11-drivers/nvidia-drivers sys-fs/zfs-kmod sys-kernel/spl \
+			sys-power/bbswitch pentoo/pentoo-installer x11-drivers/xf86-video-virtualbox app-emulation/virtualbox-guest-additions \
+			app-emulation/virtualbox-modules app-emulation/vmware-modules app-emulation/open-vm-tools-kmod sys-kernel/genkernel sys-kernel/pentoo-sources"
+EMERGE_DEFAULT_OPTS="${EMERGE_DEFAULT_OPTS} --ask-enter-invalid --keep-going=y --binpkg-respect-use=y --tree --verbose --with-bdeps=y --autounmask=n"
+EMERGE_DEFAULT_OPTS="${EMERGE_DEFAULT_OPTS} --buildpkg-exclude \"${PENTOO_BINPKG_RESTRICTED}\" --usepkg-exclude \"${PENTOO_BINPKG_RESTRICTED}\""
+#EMERGE_DEFAULT_OPTS="${EMERGE_DEFAULT_OPTS} --binpkg-changed-deps=y"
+
+XFCE_PLUGINS="${XFCE_PLUGINS} brightness menu logout trash"
+
+INPUT_DEVICES="evdev"
+
+# Log eqawarn messages
+PORTAGE_ELOG_CLASSES="${PORTAGE_ELOG_CLASSES} qa"
+
+PORTAGE_NICENESS="9"
+PORTAGE_IO_NICENESS="ionice -c 3 -p \${PID}"
+
+RUBY_TARGETS="ruby19 ruby20 ruby21"
+
+USE="${USE} X abi_x86_32 adns caps curl directfb fbcon gps jack lm_sensors lua lzma oss perl pulseaudio python ruby samba sqlite subversion xattr xinerama -ruby_targets_ruby18"
+
+PORTAGE_BZIP2_COMMAND="lbzip2"
+
+# Env vars to expand into USE vars.  
+USE_EXPAND="${USE_EXPAND} COMPAT_DRIVERS_WIFI COMPAT_DRIVERS_ETHERNET COMPAT_DRIVERS_VARIOUS"
+
+#mgorny suggested this speeds up sync, in my testing it makes a rather large difference
+PORTAGE_RSYNC_EXTRA_OPTS="--omit-dir-times"
+
+INSTALL_MASK="/usr/lib/debug"
