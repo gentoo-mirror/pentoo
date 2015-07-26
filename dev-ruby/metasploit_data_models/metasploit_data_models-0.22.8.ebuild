@@ -32,6 +32,8 @@ ruby_add_rdepend "
 		dev-ruby/metasploit-concern:0.3
 		>=dev-ruby/metasploit-model-0.28.0-r3"
 
+ruby_add_bdepend "dev-ruby/bundler"
+
 all_ruby_prepare() {
 	[ -f Gemfile.lock ] && rm Gemfile.lock
 	#if ! use development; then

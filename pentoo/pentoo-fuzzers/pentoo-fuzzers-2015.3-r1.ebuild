@@ -2,23 +2,23 @@
 # Distributed under the terms of the GNU General Public License v2
 # $Header: $
 
-EAPI=5
+EAPI="5"
 
-DESCRIPTION="Pentoo database attack meta ebuild"
+DESCRIPTION="Pentoo fuzzers meta ebuild"
 HOMEPAGE="http://www.pentoo.ch"
 KEYWORDS="~amd64 ~arm ~x86"
 SLOT="0"
 LICENSE="GPL-3"
 IUSE="minipentoo"
 
-PDEPEND="
-	dev-db/sqlmap
-	dev-db/sqlitebrowser
+DEPEND=""
+RDEPEND="net-analyzer/wfuzz
 	!minipentoo? (
-		net-analyzer/sqlninja
-		dev-db/minimysqlator
-		dev-db/mssqlscan
-		dev-db/oat
-		dev-db/sqlibf
-	)
-"
+		app-fuzz/bed
+		app-fuzz/fuzzdb
+		app-fuzz/fuzzer-server
+		app-fuzz/http-fuzz
+		app-fuzz/ohrwurm
+		app-fuzz/slowhttptest
+		app-fuzz/smtp-fuzz
+	)"
