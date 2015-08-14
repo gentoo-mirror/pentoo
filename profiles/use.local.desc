@@ -1,2 +1,64 @@
-app-forensics/data-carver-processors:stego - Add stegonagraphy support
+# This file is deprecated as per GLEP 56 in favor of metadata.xml. Please add
+# your descriptions to your package's metadata.xml ONLY.
+# * generated automatically using pmaint *
+
+app-emulation/vmware-modules:pax_kernel - Apply patch needed for pax enabled kernels
+app-emulation/vmware-modules:vmci - Build the Virtual Machine Communication Interface module; disable this if you want to use the module from the mainline kernel
+app-emulation/vmware-modules:vsock - Build the VMware VMCI transport for Virtual Sockets; disable this if you want to use the module from the mainline kernel
+app-forensics/dff:doc - Enables the help option within the program, which is optional because it requires further qt dependencies.
+dev-python/lxml:beautifulsoup3 - Enable support for Beautiful Soup 3
+dev-util/radare2:gui - Enable the graphical user interface of radare (broken)
+dev-util/radare2:vala - Enable support for the vala programming language
+net-analyzer/whatweb:json - Enables the json output option
+net-libs/libpcap:canusb - Use virtual/libusb to support Controller Area Network over USB (CAN USB)
+net-libs/libpcap:netlink - Use dev-libs/libnl to put wireless interfaces in monitor mode.
+net-misc/wicd:ambiance - Install icons from Ubuntu's ambiance theme
+net-misc/wicd:gtk - Installs a gtk UI. This is enabled by default because it is intended behavior. Requires dev-python/pygtk
+net-misc/wicd:gtk-autostart - Start the gtk UI in tray modus with startx. This is enabled by default because it is intended behavior.
+net-misc/wicd:ioctl - Installs additional python libraries to use as a backend. This will improve speed but is experimental.
+net-misc/wicd:mac4lin - Change default icons to mac4lin icon set
+net-misc/wicd:ncurses - Installs a ncurses UI
+net-misc/wicd:pm-utils - Installs the pm-utils hooks for suspend/resume and requires sys-power/pm-utils
 net-wireless/compat-wireless:injection - Add patches for better wifi injection support
+net-wireless/hostapd:debug - Enables debugging
+net-wireless/hostapd:logwatch - Install support files for sys-app/logwatch
+net-wireless/hostapd:madwifi - Add support for madwifi (Atheros chipset)
+net-wireless/hostapd:wps - Add support for Wi-Fi Protected Setup
+net-wireless/wifite:dict - installes an extra dictionary
+net-wireless/wifite:extra - Enables use of extra functions
+net-wireless/wifite:tk - Enables use of the TK gui
+sys-firmware/edk2:hello-world - Creates a HelloWorld.efi, ready to use with app-emulation/qemu.
+sys-firmware/edk2:qemu - Creates the uefi-bios for app-emulation/qemu.
+sys-firmware/edk2:shell - Creates the uefi-shell.
+sys-firmware/edk2-bin:hello-world - Creates a HelloWorld.efi, ready to use with app-emulation/qemu.
+sys-firmware/edk2-bin:qemu - Creates the uefi-bios for app-emulation/qemu.
+sys-firmware/edk2-bin:shell - Creates the uefi-shell.
+sys-kernel/compat-drivers:build-all-modules - Bypass any filtering of the modules and build them all. Use only when no other flag works!
+sys-kernel/compat-drivers:compat_drivers_ethernet_alx - COMPAT_DRIVERS_ETHERNET setting to build driver for alx ethernet cards
+sys-kernel/compat-drivers:compat_drivers_ethernet_atl1 - COMPAT_DRIVERS_ETHERNET setting to build driver for atl1 ethernet cards
+sys-kernel/compat-drivers:compat_drivers_ethernet_atl1c - COMPAT_DRIVERS_ETHERNET setting to build driver for atl1c ethernet cards
+sys-kernel/compat-drivers:compat_drivers_ethernet_atl1e - COMPAT_DRIVERS_ETHERNET setting to build driver for atl1e ethernet cards
+sys-kernel/compat-drivers:compat_drivers_ethernet_atl2 - COMPAT_DRIVERS_ETHERNET setting to build driver for atl2 ethernet cards
+sys-kernel/compat-drivers:compat_drivers_ethernet_atlxx - COMPAT_DRIVERS_ETHERNET setting to build driver for atlxx ethernet cards
+sys-kernel/compat-drivers:compat_drivers_various_bt - COMPAT_DRIVERS_VARIOUS setting to build driver for bluetooth devices
+sys-kernel/compat-drivers:compat_drivers_various_drm - COMPAT_DRIVERS_VARIOUS setting to build driver for drm devices
+sys-kernel/compat-drivers:compat_drivers_various_i915 - COMPAT_DRIVERS_VARIOUS setting to build driver for i915 devices
+sys-kernel/compat-drivers:compat_drivers_various_staging - COMPAT_DRIVERS_VARIOUS setting to build driver for staging devices
+sys-kernel/compat-drivers:compat_drivers_various_usbnet - COMPAT_DRIVERS_VARIOUS setting to build driver for usbnet devices
+sys-kernel/compat-drivers:compat_drivers_wifi_ath5k - COMPAT_DRIVERS_WIFI setting to build driver for ath5k wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_ath6kl - COMPAT_DRIVERS_WIFI setting to build driver for ath6kl wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_ath9k - COMPAT_DRIVERS_WIFI setting to build driver for ath9k wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_ath9k_ap - COMPAT_DRIVERS_WIFI setting to build driver for ath9k_ap wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_ath9k_htc - COMPAT_DRIVERS_WIFI setting to build driver for ath9k_htc wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_b43 - COMPAT_DRIVERS_WIFI setting to build driver for b43 wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_b44 - COMPAT_DRIVERS_WIFI setting to build driver for b44 wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_brcmfmac - COMPAT_DRIVERS_WIFI setting to build driver for brcmfmac wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_brcmsmac - COMPAT_DRIVERS_WIFI setting to build driver for brcmsmac wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_carl9170 - COMPAT_DRIVERS_WIFI setting to build driver for carl9170 wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_rt2x00 - COMPAT_DRIVERS_WIFI setting to build driver for rt2x00 wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_wil6210 - COMPAT_DRIVERS_WIFI setting to build driver for wil6210 wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_wl1251 - COMPAT_DRIVERS_WIFI setting to build driver for wl1251 wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_wl12xx - COMPAT_DRIVERS_WIFI setting to build driver for wl12xx wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_wl18xx - COMPAT_DRIVERS_WIFI setting to build driver for wl18xx wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_zd1211rw - COMPAT_DRIVERS_WIFI setting to build driver for zd1211rw wireless cards
+sys-kernel/compat-drivers:injection - Add patches for better wifi injection support
