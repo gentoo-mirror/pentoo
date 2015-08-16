@@ -44,14 +44,14 @@ PDEPEND="
 			!arm? ( www-client/firefox-bin )
 			net-ftp/filezilla
 			!arm? ( www-plugins/chrome-binary-plugins:stable )
-			www-client/chromium
+			!arm? ( www-client/chromium )
 			!arm? ( www-client/google-chrome )
 			app-office/libreoffice
 			!arm? ( app-emulation/virtualbox[extensions] )
 			!arm? ( sys-apps/preload )
 			x11-misc/slim
 			!arm? ( www-plugins/google-talkplugin )
-			net-p2p/vuze
+			!arm? ( net-p2p/vuze )
 			!arm? ( app-emulation/wine )
 			media-gfx/gimp
 			x11-apps/mesa-progs
