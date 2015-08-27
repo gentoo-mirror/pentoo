@@ -102,7 +102,7 @@ dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
 dev-perl/Tie-CharArray 1.00: Manipulate perl strings through tied array
 dev-python/DartsPyLRU 0.5: LRU Dictionaries
 dev-python/PyGithub 1.21.0: Python library to access the Github API v3
-dev-python/capstone-python 2.1.2: A lightweight multi-platform, multi-architecture disassembly framework
+dev-python/capstone-python 2.1.2 3.0.4: A lightweight multi-platform, multi-architecture disassembly framework
 dev-python/clamd 1.0.1: Clamd is a python interface to Clamd (Clamav daemon)
 dev-python/cxoracle 4.2: Python extension module that allows access to Oracle Databases
 dev-python/enum34 1.0: Python 3.4 Enum backported to 3.3, 3.2, 3.1, 2.7, 2.6, 2.5 and 2.4
@@ -202,7 +202,7 @@ dev-util/ati-app-sdk-bin 2.9: AMD Accelerated Parallel Processing (APP) SDK (for
 dev-util/ati-stream-sdk-bin 2.01 2.2 2.3: Enable compiling code and loading it on ATI/AMD GPU
 dev-util/bokken 1.6 1.7-r1 1.8: GUI for the Pyew malware analysis tool and Radare the reverse engineering framework
 dev-util/calpp 0.87-r1 0.90 0.90-r1: A library for efficient use of ATI CAL with C++
-dev-util/capstone 3.0.1 3.0.2 3.0.3: A lightweight multi-platform, multi-architecture disassembly framework
+dev-util/capstone 3.0.1 3.0.2 3.0.3 3.0.4: A lightweight multi-platform, multi-architecture disassembly framework
 dev-util/catalyst 9999: release metatool used for creating releases based on Gentoo Linux
 dev-util/collabreate 0.2.0 0.3.0 0.3.0-r1 0.3.0-r2 0.3.0.1 0.3.0.1-r1: A plugin for IDA Pro designed to provide collaborative reverse engineering
 dev-util/dex2jar 0.0.9.13 0.0.9.15: Tools to work with android .dex and java .class files
