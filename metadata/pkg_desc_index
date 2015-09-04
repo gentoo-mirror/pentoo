@@ -130,7 +130,6 @@ dev-ruby/activerecord 3.2.21: Implements the ActiveRecord pattern (Fowler, PoEAA
 dev-ruby/ansi 1.4.3: A superlative collection of ANSI escape code
 dev-ruby/arachni-rpc 0.1.3: Arachni-RPC is a simple and lightweight Remote Procedure Call protocol
 dev-ruby/arachni-rpc-em 0.2: EventMachine-based client and server implementation of Arachni-RPC
-dev-ruby/arel-helpers 2.0.1: Tools to help construct database queries
 dev-ruby/backports 3.3.3: Enables many features of Ruby for earlier versions
 dev-ruby/celluloid 0.16.0: Celluloid provides a simple and natural way to build fault-tolerant concurrent programs in Ruby
 dev-ruby/celluloid-io 0.16.1: Evented IO for Celluloid actors
@@ -158,25 +157,16 @@ dev-ruby/jsmin 1.0.1: Ruby implementation of Douglas Crockford's JSMin JavaScrip
 dev-ruby/jsobfu 0.2.1: A Javascript code obfuscator
 dev-ruby/librex 0.0.68: Rex provides a variety of classes useful for security testing and exploit development
 dev-ruby/linecache 0.43: LineCache is a module for reading and caching lines.
-dev-ruby/metasploit-concern 0.1.1 0.3.0-r2 0.4.0 1.0.0: Metasploit concern allows you to define concerns in app/concerns.
-dev-ruby/metasploit-credential 0.14.5 1.0.0: Code for modeling and managing credentials in Metasploit
-dev-ruby/metasploit-model 0.25.7 0.26.1-r1 0.28.0-r4 0.29.0 1.0.0: Common code, such as validators and mixins, that are shared between ActiveModels in metasploit-framework and ActiveRecords in metasploit_data_models
-dev-ruby/metasploit-payloads 0.0.3 0.0.7 1.0.3 1.0.4 1.0.6 1.0.7-r2 1.0.9 1.0.12: Compiled binaries for Metasploit's Meterpreter
-dev-ruby/metasploit_data_models 0.22.8 0.24.0-r2 1.2.5: The database layer for Metasploit
-dev-ruby/meterpreter_bins 0.0.6-r1 0.0.11-r1 0.0.12 0.0.13 0.0.14 0.0.17 0.0.21 0.0.22: Compiled binaries for Metasploit's Meterpreter
+dev-ruby/metasploit-payloads 1.0.12: Compiled binaries for Metasploit's Meterpreter
 dev-ruby/mini_exiftool 2.5.1: wrapper for exiftool
 dev-ruby/mini_portile 0.5.1: Simplified way to compile against dependency libraries without messing up your system
 dev-ruby/mongrel 1.1.5: A small fast HTTP library and server that runs Rails, Camping, Nitro and Iowa apps.
 dev-ruby/msfrpc-client 1.0.1: This gem provides a Ruby client API to access the Rapid7 Metasploit Pro RPC service
 dev-ruby/nio4r 1.0.1: A high performance selector API for monitoring IO objects
 dev-ruby/parseconfig 1.0.2: Provides simple parsing of standard *nix style config files.
-dev-ruby/pg_array_parser 0.0.9: Adds missing native PostgreSQL data types to ActiveRecord and convenient querying extensions for ActiveRecord and Arel
 dev-ruby/pony 1.5: Send email in one command
-dev-ruby/postgres_ext 2.4.1: Adds missing native PostgreSQL data types to ActiveRecord and convenient querying extensions for ActiveRecord and Arel
 dev-ruby/rack-protection 1.4.0-r1: This gem protects against typical web attacks.
 dev-ruby/railties 3.2.21: Tools for creating, working with, and running Rails applications
-dev-ruby/rb-readline-r7 0.5.2.0: Ruby implementation of the GNU readline C library forked by r7
-dev-ruby/recog 1.0.0-r1 2.0.0-r1 2.0.6: Pattern recognition for hosts, services, and content
 dev-ruby/rspec-its 1.0.1-r1: RSpec extension gem for attribute matching
 dev-ruby/rubinius-coverage 2.0.3: Rubinius coverage tool.
 dev-ruby/rubinius-debugger 2.0.3: Rubinius debugger.
@@ -184,7 +174,6 @@ dev-ruby/rubinius-developer_tools 2.0.0: A meta-gem for the Rubinius developer c
 dev-ruby/rubinius-profiler 2.0.1: Rubinius profiler.
 dev-ruby/ruby-progressbar 1.1.0: A Text Progress Bar Library for Ruby
 dev-ruby/rubydns 0.9.2 1.0.1: A tool to intercept and modify DNS requests
-dev-ruby/rubyntlm 0.4.0: Ruby/NTLM provides message creator and parser for the NTLM authentication.
 dev-ruby/sinatra 1.3.6 1.4.2: Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort.
 dev-ruby/sinatra-contrib 1.3.2-r1 1.4.2: Collection of useful Sinatra extensions
 dev-ruby/sourcify 0.5.0-r1: Workarounds before ruby-core officially supports Proc#to_source (& friends)
@@ -255,7 +244,7 @@ net-analyzer/masscan 1.0.1 1.0.3 1.0.3-r2: Mass IP port scanner
 net-analyzer/medusa 2.1.1 2.2_rc1 2.2_rc2: A Modular,Parallel,Multiprotocol, Network Login Auditor
 net-analyzer/metacoretex-ng 9999: A nice, java-based, MYSQL/Oracle/MSSQL/ODBC attack framework
 net-analyzer/metagoofil 1.4b-r1: Metagoofil is an information gathering tool designed for extracting metadata of public documents
-net-analyzer/metasploit 4.11.4_p2015072701 4.11.4_p2015090201 9999: Advanced open-source framework for developing, testing, and using vulnerability exploit code
+net-analyzer/metasploit 9999: Advanced open-source framework for developing, testing, and using vulnerability exploit code
 net-analyzer/mosref 2.0_beta3: A secure remote execution framework using a compact Scheme-influenced VM
 net-analyzer/nacker 0.0.1_pre20130916: Bypass NAC by hijacking non-802.1x configurable hosts
 net-analyzer/nbtool 0.05_alpha2: Some tools for NetBIOS and DNS investigation, attacks, and communication
