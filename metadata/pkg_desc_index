@@ -299,7 +299,7 @@ net-analyzer/wolpertinger 0.6-r2: a distributed portscanner
 net-analyzer/wpscan 2.7 2.8: Wordpress security scanner
 net-analyzer/xplico 1.1.0-r3: Extract data from TCP/IP traffic
 net-analyzer/zarp 0.1.5 0.1.7: Local network attack toolkit
-net-dialup/freeradius 2.2.0-r1 2.2.5: Highly configurable free RADIUS server
+net-dialup/freeradius 2.2.0-r1 2.2.5-r1: Highly configurable free RADIUS server
 net-fs/afpfs-ng 0.8.1: a client for the Apple Filing Protocol
 net-fs/winexe 1.0.0-r1 9999: remotely execute commands on Windows NT/2000/XP/2003 systems, with lmhash passthrough support
 net-im/jitsi-bin 2.0 2.2 2.4: Secure IM communicator that supports SIP, XMPP/Jabber, AIM/ICQ, Windows Live, Yahoo
