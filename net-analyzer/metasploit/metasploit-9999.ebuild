@@ -49,7 +49,7 @@ RUBY_COMMON_DEPEND="virtual/ruby-ssl
 	=dev-ruby/metasploit_data_models-1.2.5
 	dev-ruby/meterpreter_bins:0.0.22
 	dev-ruby/metasploit-payloads:1.0.12
-	>=dev-ruby/metasploit-credential-1.0.0:1.0
+	>=dev-ruby/metasploit-credential-1.0.1:1.0
 	>=dev-ruby/metasploit-concern-1.0.0:1.0
 	>=dev-ruby/metasploit-model-1.0.0:1.0
 	dev-ruby/msgpack
@@ -58,7 +58,7 @@ RUBY_COMMON_DEPEND="virtual/ruby-ssl
 	=dev-ruby/rkelly-remix-0.0.6
 	dev-ruby/sqlite3
 	>=dev-ruby/pg-0.11
-	~dev-ruby/packetfu-1.1.11
+	dev-ruby/packetfu:1.1.11
 	>=dev-ruby/rubyzip-1.1
 	dev-ruby/rb-readline-r7
 	dev-ruby/robots
