@@ -334,6 +334,7 @@ net-proxy/proxystrike 2.0 9999: A tool designed to find vulnerabilities while br
 net-proxy/redsocks 0.4 0.4-r1 9999: Transparent redirector of any TCP connection to proxy
 net-proxy/sshttp 0.25: an easy to use OSI-Layer5 switching daemon
 net-proxy/webscarab 20110329: A framework for analysing applications that communicate using the HTTP and HTTPS protocols
+net-proxy/zaproxy 2.3.0.1 2.3.1 2.4.0-r1: An easy to use integrated penetration testing tool for finding vulnerabilities in web applications
 net-wireless/aircrackgui-m4 0.7.0: 
 net-wireless/airoscript 9999: N00b scripts for aircrack-ng :-)
 net-wireless/b43-openfwwf 5.2: OpenBroadcom Firmware
