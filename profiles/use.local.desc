@@ -7,6 +7,7 @@ app-emulation/vmware-modules:vmci - Build the Virtual Machine Communication Inte
 app-emulation/vmware-modules:vsock - Build the VMware VMCI transport for Virtual Sockets; disable this if you want to use the module from the mainline kernel
 app-forensics/dff:doc - Enables the help option within the program, which is optional because it requires further qt dependencies.
 dev-python/lxml:beautifulsoup3 - Enable support for Beautiful Soup 3
+dev-util/catalyst:ccache - Enables ccache support
 dev-util/radare2:gui - Enable the graphical user interface of radare (broken)
 dev-util/radare2:vala - Enable support for the vala programming language
 net-analyzer/whatweb:json - Enables the json output option
