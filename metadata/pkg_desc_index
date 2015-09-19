@@ -157,7 +157,7 @@ dev-ruby/jsmin 1.0.1: Ruby implementation of Douglas Crockford's JSMin JavaScrip
 dev-ruby/jsobfu 0.2.1: A Javascript code obfuscator
 dev-ruby/librex 0.0.68: Rex provides a variety of classes useful for security testing and exploit development
 dev-ruby/linecache 0.43: LineCache is a module for reading and caching lines.
-dev-ruby/metasm 1.0.2: cross-architecture assembler, disassembler, linker, and debugger
+dev-ruby/metasm 1.0.2-r1: cross-architecture assembler, disassembler, linker, and debugger
 dev-ruby/metasploit-credential 1.0.1: Code for modeling and managing credentials in Metasploit
 dev-ruby/metasploit-payloads 1.0.13: Compiled binaries for Metasploit's Meterpreter
 dev-ruby/mini_exiftool 2.5.1: wrapper for exiftool
