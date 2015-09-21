@@ -112,6 +112,7 @@ dev-python/halberd 0.2.4-r1: HTTP load balancer detector
 dev-python/impacket 0.9.12-r2 9999: A collection of Python classes focused on providing access to network packets
 dev-python/lxml 2.3.2: A Pythonic binding for the libxml2 and libxslt libraries
 dev-python/nassl 0.7_p20131129 0.8 0.9 0.9-r1 0.10-r1 0.11: Experimental Python wrapper for OpenSSL
+dev-python/nltk 2.0.4: Natural Language Toolkit
 dev-python/phply 0.9.1-r1 9999: Parser for PHP written using PLY
 dev-python/poster 0.8.1: Make HTTP POST/PUT with multipart/form-data encoding
 dev-python/pyamf 0.6.2 0.6.2_p20150122: Action Message Format (AMF) support for Python including integration with mutliple frameworks
