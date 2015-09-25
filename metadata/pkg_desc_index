@@ -43,6 +43,8 @@ app-forensics/make-pdf 0.1.4-r2: This tool will embed javascript inside a PDF do
 app-forensics/origami-pdf 1.2.6: A Ruby framework designed to parse, analyze, and forge PDF documents
 app-forensics/pdf-parser 0.4.3-r1 0.6.4: This tool will parse a PDF document to identify the fundamental elements used
 app-forensics/pdfid 0.0.11 0.0.12: This tool will scan a PDF document looking for certain keyword
+app-forensics/rekall-core 9999: Rekall Memory Forensic Framework
+app-forensics/rekall-gui 9999: Rekall Memory Forensic Framework
 app-forensics/stegdetect 0.6 0.6-r1: A Steganography detector for JPEG
 app-forensics/streams 0.1.0: streams is a tool for browsing, mining and processing TCP streams in pcap files
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
