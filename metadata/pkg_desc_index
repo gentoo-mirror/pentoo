@@ -104,19 +104,23 @@ dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
 dev-perl/Tie-CharArray 1.00: Manipulate perl strings through tied array
 dev-python/DartsPyLRU 0.5: LRU Dictionaries
 dev-python/PyGithub 1.21.0: Python library to access the Github API v3
+dev-python/acora 9999: Fast multi-keyword search engine for text strings
 dev-python/capstone-python 2.1.2 3.0.4: A lightweight multi-platform, multi-architecture disassembly framework
 dev-python/clamd 1.0.1: Clamd is a python interface to Clamd (Clamav daemon)
 dev-python/cxoracle 4.2: Python extension module that allows access to Oracle Databases
+dev-python/dotty 9999: EFILTER Query Language
 dev-python/enum34 1.0: Python 3.4 Enum backported to 3.3, 3.2, 3.1, 2.7, 2.6, 2.5 and 2.4
 dev-python/esmre 0.3.1: Regular expression accelerator
 dev-python/guess-language 0.2: Guess the natural language of a text
 dev-python/halberd 0.2.4-r1: HTTP load balancer detector
 dev-python/impacket 0.9.12-r2 9999: A collection of Python classes focused on providing access to network packets
+dev-python/intervaltree 9999: Editable interval tree data structure for Python 2 and 3
 dev-python/lxml 2.3.2: A Pythonic binding for the libxml2 and libxslt libraries
 dev-python/nassl 0.11 0.12: Experimental Python wrapper for OpenSSL
 dev-python/nltk 2.0.4: Natural Language Toolkit
 dev-python/phply 0.9.1-r1 9999: Parser for PHP written using PLY
 dev-python/poster 0.8.1: Make HTTP POST/PUT with multipart/form-data encoding
+dev-python/pyaff4 9999: Python Advanced Forensic Format Version 4 library.
 dev-python/pyamf 0.6.2 0.6.2_p20150122: Action Message Format (AMF) support for Python including integration with mutliple frameworks
 dev-python/pybonjour 1.1.1: Python interface to Apple Bonjour and compatible DNS-SD libraries (Avahi)
 dev-python/pygoogle-ajax 9999: a very basic Google search module for Python using the AJAX API
@@ -125,6 +129,7 @@ dev-python/pynetfilter_conntrack 0.4.2: Python binding of libnetfilter_conntrack
 dev-python/pyscard 9999: pyscard is a python module adding smart cards support to python.
 dev-python/python-ntlm 1.0.1: Clamd is a python interface to Clamd (Clamav daemon)
 dev-python/python-registry 1.0.4: A pure Python module that provides read access to Windows Registry files
+dev-python/sortedcontainers 9999: Python Sorted Container Types: SortedList, SortedDict, and SortedSet
 dev-python/xdot 0.6: Interactive viewer for Graphviz dot files
 dev-python/xmpppy 0.5.0_rc1-r2: Python library providing easy scripting with Jabber
 dev-python/yara-python 2.1.0 3.3.0: A malware identification and classification tool
