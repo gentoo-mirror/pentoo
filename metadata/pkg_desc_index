@@ -167,7 +167,7 @@ dev-ruby/librex 0.0.68: Rex provides a variety of classes useful for security te
 dev-ruby/linecache 0.43: LineCache is a module for reading and caching lines.
 dev-ruby/metasm 1.0.2-r1: cross-architecture assembler, disassembler, linker, and debugger
 dev-ruby/metasploit-credential 1.0.1: Code for modeling and managing credentials in Metasploit
-dev-ruby/metasploit-payloads 1.0.13: Compiled binaries for Metasploit's Meterpreter
+dev-ruby/metasploit-payloads 1.0.13 1.0.15: Compiled binaries for Metasploit's Meterpreter
 dev-ruby/mini_exiftool 2.5.1: wrapper for exiftool
 dev-ruby/mini_portile 0.5.1: Simplified way to compile against dependency libraries without messing up your system
 dev-ruby/mongrel 1.1.5: A small fast HTTP library and server that runs Rails, Camping, Nitro and Iowa apps.
