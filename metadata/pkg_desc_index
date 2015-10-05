@@ -226,6 +226,7 @@ net-analyzer/armitage-bin 20140818 20141120: Cyber Attack Management for Metaspl
 net-analyzer/arpantispoofer 1.0.1.32: An utility to detect and resist arp spoofing
 net-analyzer/autoscan-network 1.50: Utility for network exploration with Samba support.
 net-analyzer/blindelephant 9999: generic web application fingerprinter that produces results by examining a small set of static files
+net-analyzer/bonesi 9999: BoNeSi - the DDoS Botnet Simulator
 net-analyzer/bro 2.2 2.3 2.3.1: a advanced intrusion detection system
 net-analyzer/cisco-auditing-tool 1: Perl script which scans cisco routers for common vulnerabilities.
 net-analyzer/cisco-bruteforce-enabler 1: cisco internal bruteforcer
