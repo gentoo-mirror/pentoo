@@ -164,9 +164,6 @@ dev-ruby/jsmin 1.0.1: Ruby implementation of Douglas Crockford's JSMin JavaScrip
 dev-ruby/jsobfu 0.2.1: A Javascript code obfuscator
 dev-ruby/librex 0.0.68: Rex provides a variety of classes useful for security testing and exploit development
 dev-ruby/linecache 0.43: LineCache is a module for reading and caching lines.
-dev-ruby/metasm 1.0.2-r1: cross-architecture assembler, disassembler, linker, and debugger
-dev-ruby/metasploit-credential 1.0.1: Code for modeling and managing credentials in Metasploit
-dev-ruby/metasploit-payloads 1.0.13 1.0.15: Compiled binaries for Metasploit's Meterpreter
 dev-ruby/mini_exiftool 2.5.1: wrapper for exiftool
 dev-ruby/mini_portile 0.5.1: Simplified way to compile against dependency libraries without messing up your system
 dev-ruby/mongrel 1.1.5: A small fast HTTP library and server that runs Rails, Camping, Nitro and Iowa apps.
@@ -253,7 +250,6 @@ net-analyzer/masscan 1.0.1 1.0.3 1.0.3-r2: Mass IP port scanner
 net-analyzer/medusa 2.1.1 2.2_rc1 2.2_rc2: A Modular,Parallel,Multiprotocol, Network Login Auditor
 net-analyzer/metacoretex-ng 9999: A nice, java-based, MYSQL/Oracle/MSSQL/ODBC attack framework
 net-analyzer/metagoofil 1.4b-r1: Metagoofil is an information gathering tool designed for extracting metadata of public documents
-net-analyzer/metasploit 9999: Advanced open-source framework for developing, testing, and using vulnerability exploit code
 net-analyzer/mosref 2.0_beta3: A secure remote execution framework using a compact Scheme-influenced VM
 net-analyzer/nacker 0.0.1_pre20130916: Bypass NAC by hijacking non-802.1x configurable hosts
 net-analyzer/nbtool 0.05_alpha2: Some tools for NetBIOS and DNS investigation, attacks, and communication
