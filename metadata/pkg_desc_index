@@ -434,7 +434,7 @@ sys-kernel/pf_ring-kmod 5.6.1 6.0.2 20140110: A new type of network socket that 
 sys-libs/libkudzu 1.2.85.1: Red Hat Hardware detection tools
 sys-libs/newlib 1.17.0: Newlib is a C library intended for use on embedded systems
 sys-power/acpid 2.0.23: Daemon for Advanced Configuration and Power Interface
-virtual/jdk 1.6.0-r2 1.7.0: Virtual for Java Development Kit (JDK)
+virtual/jdk 1.7.0: Virtual for Java Development Kit (JDK)
 virtual/linux-sources 0 1: Virtual for Linux kernel sources
 virtual/opencl-sdk 1.1 1.1-r1: Virtual for nv/ati/intel opencl SDK
 virtual/pkgconfig 0: Virtual for the pkg-config implementation
