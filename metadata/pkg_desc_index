@@ -456,7 +456,7 @@ www-plugins/showip 2.7.2 2.7.7 9999: Firefox extensions which shows the IP addre
 www-plugins/sql-inject-me 0.4.7-r2 9999: SQL Inject Me is the Exploit-Me tool used to test for SQL Injection vulnerabilities.
 www-plugins/sqlite_manager 0.8.1 9999: Extension for Firefox and other apps to manage any sqlite database
 www-plugins/user-agent-switcher 0.7.3-r4 9999: Adds a menu and a toolbar button to switch the user agent of firefox
-www-plugins/web_developer 1.2.5-r1 9999: Adds various web developer tools to firefox.
+www-plugins/web_developer 1.2.5-r2 9999: Adds various web developer tools to firefox.
 www-plugins/xss-me 0.4.6-r4 9999: Firefox extension to test for reflected cross-site-scripting vulnerabilities.
 x11-drivers/ati-drivers 14.12-r3: Ati precompiled drivers for Radeon Evergreen (HD5000 Series) and newer chipsets
 x11-drivers/xf86-input-tslib 0.0.6-r3: xorg input driver for use of tslib based touchscreen devices
