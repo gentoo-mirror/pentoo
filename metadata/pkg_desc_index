@@ -245,7 +245,7 @@ net-analyzer/inguma 0.4-r1: Inguma is an open source penetration testing toolkit
 net-analyzer/jmsdigger-bin 20130815: JMSDigger is an Enterprise Messaging Application assessment tool focuses on ActiveMQ
 net-analyzer/loki 0.2.7: Layer3 attacking tool
 net-analyzer/maketh 0.2.0: Ethernet packet injector and creator
-net-analyzer/masscan 1.0.1 1.0.3 1.0.3-r2: Mass IP port scanner
+net-analyzer/masscan 1.0.1 1.0.3 1.0.3-r3: Mass IP port scanner
 net-analyzer/medusa 2.1.1 2.2_rc1 2.2_rc2: A Modular,Parallel,Multiprotocol, Network Login Auditor
 net-analyzer/metacoretex-ng 9999: A nice, java-based, MYSQL/Oracle/MSSQL/ODBC attack framework
 net-analyzer/metagoofil 1.4b-r1: Metagoofil is an information gathering tool designed for extracting metadata of public documents
