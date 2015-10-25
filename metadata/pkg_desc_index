@@ -90,7 +90,7 @@ dev-db/themole 0.3: An automatic SQL Injection exploitation tool
 dev-dotnet/wxnet 0.7.2: wxWidgets bindings for mono
 dev-embedded/mphidflash 1.6: ommand-line tool for communicating with the USB-Bootloader in PIC microcontrollers
 dev-java/jgraphx 1.4.2.3: Open-source graph component for Java
-dev-java/msgpack 0.5.1: MessagePack for Java is a binary-based efficient object serialization library in Java.
+dev-java/msgpack 0.5.1 0.6.12: MessagePack for Java is a binary-based efficient object serialization library in Java.
 dev-java/sleep 2.1: Duct Tape for the Java platform
 dev-lang/swig 3.0.2: Simplified Wrapper and Interface Generator
 dev-libs/libdisasm 0.23: x86 Disassembler Library
@@ -217,8 +217,8 @@ gnome-base/gdm 3.4.1-r3 3.6.2: GNOME Display Manager
 kde-apps/okular-backend-mupdf 0.0.4-r1 0.0.5: Okular is a universal document viewer based on KPDF for KDE 4
 media-libs/mbelib 1.2.5 9999: P25 Phase 1 and ProVoice vocoder
 media-sound/g72x++ 1: Decoder for the g72x++ codec, commonly used by DECT phones
-net-analyzer/armitage 9999 20141129: Cyber Attack Management for Metasploit
-net-analyzer/armitage-bin 20140818 20141120: Cyber Attack Management for Metasploit
+net-analyzer/armitage 9999 20141129 20150813: Cyber Attack Management for Metasploit
+net-analyzer/armitage-bin 20140818 20141120 20150813: Cyber Attack Management for Metasploit
 net-analyzer/arpantispoofer 1.0.1.32: An utility to detect and resist arp spoofing
 net-analyzer/autoscan-network 1.50: Utility for network exploration with Samba support.
 net-analyzer/blindelephant 9999: generic web application fingerprinter that produces results by examining a small set of static files
@@ -297,7 +297,7 @@ net-analyzer/wafp 9999: A webapplication fingerprinter written in ruby
 net-analyzer/wapiti 2.3.0_p20141111: Web application security auditor
 net-analyzer/webshag 1.1-r1: An enhanced HTTP URL Scanner and fuzzer
 net-analyzer/wfuzz 2.0-r1 2.1.3: Wfuzz is a tool designed for bruteforcing Web Applications
-net-analyzer/whatweb 0.4.7-r5 0.4.7_p20150505: Next generation web scanner, identifies what software websites are running
+net-analyzer/whatweb 0.4.7-r5 0.4.7_p20150505 0.4.7_p20150818: Next generation web scanner, identifies what software websites are running
 net-analyzer/wireshark 1.12.4 1.12.6: A network protocol analyzer formerly known as ethereal
 net-analyzer/wolpertinger 0.6-r2: a distributed portscanner
 net-analyzer/wpscan 2.8-r1: Wordpress security scanner
@@ -381,6 +381,7 @@ net-wireless/reaver-wps-fork-t6x 1.5.2_p20150516 1.5.2_p20150605: Utilise Pixie 
 net-wireless/rfidler 0.01_p20150718: Software defined RFID (LF) Reader/Writer/Emulator
 net-wireless/rfidtool 0.01: command line rfid interface
 net-wireless/rtl8812au 4.2.5 4.2.5_p20150623 4.2.5_p20150929 9999: Driver for AC1200 (801.11ac) Wireless Dual-Band USB Adapter
+net-wireless/rtl8812au_asus 4.3.2_p20150929: Linux kernel module for ASUS USB-AC56
 net-wireless/ska 0.2: Fake Shared Key Authentication
 net-wireless/virtualradar-bin 1.0.5 1.2.2 1.2.3 2.0.1: Open-source .NET application for ads-b mapping
 net-wireless/wifitap 0.4.0-r4: A wireless tool to do direct connection to client without passing through an AP
