@@ -159,7 +159,6 @@ dev-ruby/gem_plugin 0.2.3: A plugin system based on rubygems that uses dependenc
 dev-ruby/hitimes 1.2.2: A fast, high resolution timer library
 dev-ruby/http_configuration 1.0.4: set configuration for Net::HTTP
 dev-ruby/jsmin 1.0.1: Ruby implementation of Douglas Crockford's JSMin JavaScript minifier
-dev-ruby/jsobfu 0.2.1: A Javascript code obfuscator
 dev-ruby/librex 0.0.68: Rex provides a variety of classes useful for security testing and exploit development
 dev-ruby/linecache 0.43: LineCache is a module for reading and caching lines.
 dev-ruby/mini_exiftool 2.5.1: wrapper for exiftool
