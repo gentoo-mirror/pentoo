@@ -21,6 +21,9 @@ net-misc/wicd:ioctl - Installs additional python libraries to use as a backend. 
 net-misc/wicd:mac4lin - Change default icons to mac4lin icon set
 net-misc/wicd:ncurses - Installs a ncurses UI
 net-misc/wicd:pm-utils - Installs the pm-utils hooks for suspend/resume and requires sys-power/pm-utils
+net-wireless/bluez:hid2hci - The HID proxying makes the keyboard / mouse show up as regular USB HID devices, but needs them to be paired before enabling this, otherwise they won't be detected
+net-wireless/bluez:obex - Enable OBEX transfer support.
+net-wireless/bluez:test-programs - Install tools for testing of various Bluetooth functions
 net-wireless/compat-wireless:injection - Add patches for better wifi injection support
 net-wireless/hostapd:debug - Enables debugging
 net-wireless/hostapd:logwatch - Install support files for sys-app/logwatch

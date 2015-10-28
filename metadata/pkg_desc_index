@@ -342,6 +342,7 @@ net-wireless/airoscript 9999: N00b scripts for aircrack-ng :-)
 net-wireless/b43-openfwwf 5.2: OpenBroadcom Firmware
 net-wireless/b43-tools 9999: Tools for developers working on broadcom drivers/firmware
 net-wireless/bluemaho 090417-r2: BlueMaho is GUI-shell (interface) for suite of tools for testing security of bluetooth devices
+net-wireless/bluez 5.35-r1: Bluetooth Tools and System Daemons for Linux
 net-wireless/broadcom-firmware-downloader 0.1-r2 0.2: Closed Broadcom Commercial Firmware Downloader
 net-wireless/broadcom-firmware-installer 0.1-r3 0.2: Closed Broadcom Commercial Firmware Installer
 net-wireless/bt-audit 0.1.1-r1: A small bluetooth audit suite
@@ -409,7 +410,7 @@ pentoo/pentoo-proxies 2015.3: Pentoo proxy meta ebuild
 pentoo/pentoo-radio 2015.3-r3: Radio tools for pentoo
 pentoo/pentoo-rce 2014.1: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2014.0: Pentoo scanner meta ebuild
-pentoo/pentoo-system 2015.4-r2: Pentoo meta ebuild to install system
+pentoo/pentoo-system 2015.4-r3: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2014.3: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2015.3-r1: Pentoo wireless meta ebuild
 pentoo/tribe 2012.0: Tribe meta ebuild
