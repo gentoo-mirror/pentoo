@@ -129,7 +129,7 @@ dev-python/python-ntlm 1.0.1: Clamd is a python interface to Clamd (Clamav daemo
 dev-python/python-registry 1.0.4: A pure Python module that provides read access to Windows Registry files
 dev-python/sortedcontainers 9999: Python Sorted Container Types: SortedList, SortedDict, and SortedSet
 dev-python/xdot 0.6: Interactive viewer for Graphviz dot files
-dev-python/xmpppy 0.5.0_rc1-r3: Python library providing easy scripting with Jabber
+dev-python/xmpppy 0.5.0_rc1-r4: Python library providing easy scripting with Jabber
 dev-python/yara-python 2.1.0 3.3.0: A malware identification and classification tool
 dev-ruby/actionpack 3.2.21: Eases web-request routing, handling, and response
 dev-ruby/activerecord 3.2.21: Implements the ActiveRecord pattern (Fowler, PoEAA) for ORM
