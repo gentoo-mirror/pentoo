@@ -431,7 +431,7 @@ sys-kernel/compat-drivers 3.8-r1: Stable kernel pre-release wifi subsystem backp
 sys-kernel/odroid-sources 9999: Linux kernel source for the ODROID-[UX]2 products
 sys-kernel/odroidxu-sources 9999: Linux kernel source for the ODROIDXU products
 sys-kernel/pentoo-sources 4.0.8: Pentoo kernel sources (kernel series 4.0)
-sys-kernel/pf_ring-kmod 5.6.1 6.0.2 20140110: A new type of network socket that improves packet capture speed.
+sys-kernel/pf_ring-kmod 6.0.3: A new type of network socket that improves packet capture speed.
 sys-libs/libkudzu 1.2.85.1: Red Hat Hardware detection tools
 sys-libs/newlib 1.17.0: Newlib is a C library intended for use on embedded systems
 sys-power/acpid 2.0.23: Daemon for Advanced Configuration and Power Interface
