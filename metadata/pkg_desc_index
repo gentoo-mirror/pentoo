@@ -235,16 +235,19 @@ net-analyzer/dsniff 2.4_beta1-r4 2.4_beta1-r5: A collection of tools for network
 net-analyzer/enum4linux 0.8.7 0.8.8 0.8.9 0.8.9-r1: a tool for enumerating information from Windows and Samba systems
 net-analyzer/evilgrade 2.0.0 2.0.6: A modular framework that takes advantage of poor upgrade implementations by injecting fake updates.
 net-analyzer/fierce 1.0.3: Fierce is a DNS reconnaissance tool written in perl
+net-analyzer/geoedge 0.2-r2: This little tools is designed to get geolocalization information of a host
 net-analyzer/geoipgen 0.4: Generate a list of hostnames based on country
 net-analyzer/httprint 301: HTTP fingerprinter tool
 net-analyzer/hyenae 0.36_p1 0.36_p1-r1: a highly flexible packet generator
 net-analyzer/ike-scan 1.9_p20140311 1.9_p20140730 1.9_p20150524: A utility for finding, fingerprinting and testing IKE VPN servers
+net-analyzer/inguma 0.4-r1: Inguma is an open source penetration testing toolkit written completely in Python
 net-analyzer/jmsdigger-bin 20130815: JMSDigger is an Enterprise Messaging Application assessment tool focuses on ActiveMQ
 net-analyzer/loki 0.2.7: Layer3 attacking tool
 net-analyzer/maketh 0.2.0: Ethernet packet injector and creator
 net-analyzer/masscan 1.0.1 1.0.3 1.0.3-r3: Mass IP port scanner
 net-analyzer/medusa 2.1.1 2.2_rc1 2.2_rc2: A Modular,Parallel,Multiprotocol, Network Login Auditor
 net-analyzer/metacoretex-ng 9999: A nice, java-based, MYSQL/Oracle/MSSQL/ODBC attack framework
+net-analyzer/metagoofil 1.4b-r1: Metagoofil is an information gathering tool designed for extracting metadata of public documents
 net-analyzer/mosref 2.0_beta3: A secure remote execution framework using a compact Scheme-influenced VM
 net-analyzer/nacker 0.0.1_pre20130916: Bypass NAC by hijacking non-802.1x configurable hosts
 net-analyzer/nbtool 0.05_alpha2: Some tools for NetBIOS and DNS investigation, attacks, and communication
@@ -258,6 +261,7 @@ net-analyzer/onesixtyone 0.3.2-r2 0.6 0.7: An efficient SNMP scanner
 net-analyzer/packet-o-matic 9999: packet-o-matic is a real time packet processor
 net-analyzer/padbuster 20110928: Automated script for performing Padding Oracle attacks
 net-analyzer/plecost 9999: Wordpress finger printing tool, retrieve information about the plugins and versions installed
+net-analyzer/polenum 0.2-r2: a python script for extracting the password policy information from a Windows/Samba machine.
 net-analyzer/post-it-dos 9999: A simple piece of PoC code written to demonstrate HTTP POST Denial of Service vulnerabilies
 net-analyzer/ppscan 0.3: port scanner with HTTP and FTP tunneling support
 net-analyzer/recon-ng 4.4.0 9999: Web Reconnaissance Framework
@@ -266,6 +270,7 @@ net-analyzer/scamper 20140530: A tool that actively probes the Internet in order
 net-analyzer/scapy 1.1.1-r2: A Python interactive packet manipulation program for mastering the network
 net-analyzer/sessionlist 1.0-r1: A HTTP packets sniffer
 net-analyzer/set 5.3.4 5.4.8 6.0 9999: A social engineering framework
+net-analyzer/sipvicious 0.2.8-r3: A voip pentest tools suite
 net-analyzer/smtpmap 0.8.234_beta: a very complete and well done fingerprinter for SMTP, FTP and POP3 fingerprinter
 net-analyzer/snmpenum 1.0: A perl script to enumerate SNMP table dumper
 net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
@@ -274,6 +279,7 @@ net-analyzer/sslscan 9999: SSLScan determines what ciphers are supported on SSL-
 net-analyzer/sslstrip 0.9-r1: sslstrip remove https and forwards http
 net-analyzer/ssltest 0.4 0.4-r1: SSL testing tool written in perl
 net-analyzer/sslyze 0.11 0.12: Fast and full-featured SSL scanner
+net-analyzer/subdomainer 1.3-r2: This script will search in Google, Msn.search and Yahoo for subdomains related to the target domain
 net-analyzer/suricata 1.0.5: next generation intrusion detection and prevention engine
 net-analyzer/thc-pptp-bruter 0.1.4: a brute force program that works against pptp vpn endpoints
 net-analyzer/thc-ssl-dos 1.4: THC-SSL-DOS is a tool to verify the performance of SSL servers
@@ -288,6 +294,8 @@ net-analyzer/w3af 1.6.0.5-r2 9999: Web Application Attack and Audit Framework
 net-analyzer/waffit 9999: web application firewall (waf) scanner
 net-analyzer/wafp 9999: A webapplication fingerprinter written in ruby
 net-analyzer/wapiti 2.3.0_p20141111: Web application security auditor
+net-analyzer/webshag 1.1-r1: An enhanced HTTP URL Scanner and fuzzer
+net-analyzer/wfuzz 2.0-r1 2.1.3: Wfuzz is a tool designed for bruteforcing Web Applications
 net-analyzer/whatweb 0.4.7-r5 0.4.7_p20150505 0.4.7_p20150818: Next generation web scanner, identifies what software websites are running
 net-analyzer/wireshark 1.12.4 1.12.6: A network protocol analyzer formerly known as ethereal
 net-analyzer/wolpertinger 0.6-r2: a distributed portscanner
@@ -320,6 +328,7 @@ net-misc/wicd 1.7.2.4-r3 1.7.9999_p874: A lightweight wired and wireless network
 net-misc/wireshark-sap-plugin 0.2.2 9999: Wireshark plugin provides dissection on SAP's NI, Message Server, Router, Diag and Enqueue protocols
 net-misc/wlan2eth 0.1: Wlan2eth is a tool that converts wlan pcap to ethernet-like frames.
 net-proxy/burpsuite 1.6.01: an interactive HTTP/S proxy server for attacking and debugging web-enabled applications
+net-proxy/mallory 0.2.0_p20130109: An TCP/UDP transparent proxy that can be used to intercept network streams
 net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal network via reverse connection
 net-proxy/proxenet 0.3.1: A hacker friendly proxy for web application penetration tests.
 net-proxy/proxenet-plugins 9999: Repository for proxenet plugins
