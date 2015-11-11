@@ -129,7 +129,7 @@ dev-python/python-ntlm 1.0.1: Clamd is a python interface to Clamd (Clamav daemo
 dev-python/python-registry 1.0.4: A pure Python module that provides read access to Windows Registry files
 dev-python/sortedcontainers 9999: Python Sorted Container Types: SortedList, SortedDict, and SortedSet
 dev-python/xdot 0.6: Interactive viewer for Graphviz dot files
-dev-python/xmpppy 0.5.0_rc1-r4: Python library providing easy scripting with Jabber
+dev-python/xmpppy 0.5.0_rc1-r5: Python library providing easy scripting with Jabber
 dev-python/yara-python 2.1.0 3.3.0: A malware identification and classification tool
 dev-ruby/actionpack 3.2.21: Eases web-request routing, handling, and response
 dev-ruby/activerecord 3.2.21: Implements the ActiveRecord pattern (Fowler, PoEAA) for ORM
@@ -230,7 +230,7 @@ net-analyzer/cisco-torch 0.4b: Cisco mass scanning, fingerprinting, and exploita
 net-analyzer/davtest 1.0-r1: tests WebDAV enabled servers
 net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden content
 net-analyzer/dnsa 0.5-r1: Swiss-army knife tool for dns auditing
-net-analyzer/dnsrecon 0.8.9-r2: DNS Enumeration Script
+net-analyzer/dnsrecon 0.8.9-r3: DNS Enumeration Script
 net-analyzer/dsniff 2.4_beta1-r4 2.4_beta1-r5: A collection of tools for network auditing and penetration testing
 net-analyzer/enum4linux 0.8.7 0.8.8 0.8.9 0.8.9-r1: a tool for enumerating information from Windows and Samba systems
 net-analyzer/evilgrade 2.0.0 2.0.6: A modular framework that takes advantage of poor upgrade implementations by injecting fake updates.
