@@ -9,8 +9,6 @@ app-forensics/dff:doc - Enables the help option within the program, which is opt
 dev-python/lxml:beautifulsoup3 - Enable support for Beautiful Soup 3
 dev-python/nltk:numpy - Use numpy for the saved word tokenizer
 dev-util/catalyst:ccache - Enables ccache support
-dev-util/radare2:gui - Enable the graphical user interface of radare (broken)
-dev-util/radare2:vala - Enable support for the vala programming language
 net-analyzer/whatweb:json - Enables the json output option
 net-libs/libpcap:canusb - Use virtual/libusb to support Controller Area Network over USB (CAN USB)
 net-libs/libpcap:netlink - Use dev-libs/libnl to put wireless interfaces in monitor mode.
