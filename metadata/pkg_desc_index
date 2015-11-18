@@ -207,7 +207,6 @@ dev-util/premake 3.2: A makefile generation tool
 dev-util/pyew 2.0: Hexadecimal viewer and disassembler
 dev-util/radare 1.5.2: Advanced command line hexadecimail editor and more
 dev-util/radare2 0.9.7.3 0.9.8 0.9.9: Advanced command line hexadecimal editor and more
-dev-util/radare2-capstone 2.1: Plugins for r2 to use capstone as disassembler and code analysis
 dev-util/soapui 5.0.0 5.2.0: The Swiss-Army Knife for SOAP Testing
 dev-util/sonarqube-bin 4.5 4.5.2: SonarQube is an open platform to manage code quality.
 dev-util/valabind 0.8.0 0.9.0 0.9.2: Valabind is a tool to parse vala or vapi files to transform them into swig files
