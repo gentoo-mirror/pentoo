@@ -295,7 +295,6 @@ net-analyzer/wapiti 2.3.0_p20141111: Web application security auditor
 net-analyzer/webshag 1.1-r1: An enhanced HTTP URL Scanner and fuzzer
 net-analyzer/wfuzz 2.0-r1 2.1.3: Wfuzz is a tool designed for bruteforcing Web Applications
 net-analyzer/whatweb 0.4.7-r5 0.4.7_p20150505 0.4.7_p20150818: Next generation web scanner, identifies what software websites are running
-net-analyzer/wireshark 1.12.4 1.12.6: A network protocol analyzer formerly known as ethereal
 net-analyzer/wolpertinger 0.6-r2: a distributed portscanner
 net-analyzer/wpscan 2.9: Wordpress security scanner
 net-analyzer/xplico 1.1.0-r3: Extract data from TCP/IP traffic
@@ -323,7 +322,7 @@ net-misc/tcpick 0.2.1-r1: A tcp stream sniffer, tracker and capturer.
 net-misc/voipong 2.0: tool for detecting all VoIP calls on a pipeline and dumps actual conversation to seperate wav files
 net-misc/warvox 1.0.1 1.0.1-r2 9999: VoIP war dialing suite of tools
 net-misc/wicd 1.7.2.4-r3 1.7.9999_p874: A lightweight wired and wireless network manager for Linux
-net-misc/wireshark-sap-plugin 0.2.2 9999: Wireshark plugin provides dissection on SAP's NI, Message Server, Router, Diag and Enqueue protocols
+net-misc/wireshark-sap-plugin 0.2.2 0.2.3: Wireshark plugin for SAP's protocols
 net-misc/wlan2eth 0.1: Wlan2eth is a tool that converts wlan pcap to ethernet-like frames.
 net-proxy/burpsuite 1.6.01: an interactive HTTP/S proxy server for attacking and debugging web-enabled applications
 net-proxy/mallory 0.2.0_p20130109: An TCP/UDP transparent proxy that can be used to intercept network streams
