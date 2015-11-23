@@ -8,7 +8,6 @@ app-emulation/vmware-modules:vsock - Build the VMware VMCI transport for Virtual
 app-forensics/dff:doc - Enables the help option within the program, which is optional because it requires further qt dependencies.
 dev-python/lxml:beautifulsoup3 - Enable support for Beautiful Soup 3
 dev-python/nltk:numpy - Use numpy for the saved word tokenizer
-dev-util/catalyst:ccache - Enables ccache support
 net-analyzer/whatweb:json - Enables the json output option
 net-libs/libpcap:canusb - Use virtual/libusb to support Controller Area Network over USB (CAN USB)
 net-libs/libpcap:netlink - Use dev-libs/libnl to put wireless interfaces in monitor mode.
