@@ -1,0 +1,14 @@
+DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
+DEPEND=nls? ( dev-python/Babel ) =dev-lang/python-2* =dev-lang/python-2*[ncurses?,xml] virtual/pkgconfig >=dev-vcs/bzr-2.0.1
+DESCRIPTION=A lightweight wired and wireless network manager for Linux
+EAPI=5
+HOMEPAGE=https://launchpad.net/wicd
+IUSE=X ambiance +gtk +gtk-autostart ioctl libnotify mac4lin ncurses nls +pm-utils
+KEYWORDS=~amd64 ~arm ~mips ~ppc ~ppc64 ~x86
+LICENSE=GPL-2
+RDEPEND=dev-python/dbus-python X? ( gtk? ( dev-python/pygtk || ( x11-misc/ktsuss x11-libs/gksu kde-base/kdesu ) ) ) || ( net-misc/dhcpcd net-misc/dhcp net-misc/pump ) net-wireless/wireless-tools net-wireless/wpa_supplicant || ( sys-apps/net-tools sys-apps/ethtool ) !gtk? ( dev-python/pygobject:2 ) ioctl? ( dev-python/python-iwscan dev-python/python-wpactrl ) libnotify? ( dev-python/notify-python ) ncurses? ( dev-python/urwid dev-python/pygobject:2 ) pm-utils? ( >=sys-power/pm-utils-1.1.1 ) =dev-lang/python-2* =dev-lang/python-2*[ncurses?,xml]
+SLOT=0
+SRC_URI=mac4lin? ( http://dev.gentoo.org/~anarchy/dist/wicd-mac4lin-icons.tar.xz ) ambiance? ( http://freetimesblog.altervista.org/blog/wp-content/uploads/downloads/2010/05/Icone-Wicd-Lucid.tar.gz )
+_eclass_exported_funcs=pkg_postrm:distutils pkg_postinst:- pkg_setup:python src_unpack:bzr src_prepare:- src_configure:- src_compile:distutils src_install:-
+_eclasses_=bzr	745bed5705ae699c707ba26ca9e8929a	distutils	ad9e4720eb3e69090dd968b152fc611b	eutils	f20548a2f7b0128068388cd2ec26708a	multilib	3972ca401cf7dbb430df9995f5d8d580	python	0c2c16ea4f9074d3248bd4365d03890c	systemd	6b4f0cefa642270eded7e6ca816fd181	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=4e773a41b954a08d73b84ec4080afb96

@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install prepare
+DESCRIPTION=Next generation web scanner, identifies what software websites are running
+EAPI=5
+HOMEPAGE=http://www.morningstarsecurity.com/research/whatweb
+IUSE=json
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=json? ( dev-ruby/json )
+SLOT=0
+SRC_URI=http://dev.gentoo.org/~zerochaos/distfiles/whatweb-0.4.7.tar.gz
+_eclass_exported_funcs=src_prepare:- src_compile:- src_install:-
+_md5_=12dcce1b503d8a90b82856780d62a1ab

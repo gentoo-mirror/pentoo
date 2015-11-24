@@ -1,0 +1,11 @@
+DEFINED_PHASES=-
+DEPEND=www-plugins/firebug www-plugins/foxyproxy www-plugins/hackbar www-plugins/httpfox www-plugins/live-http-headers www-plugins/noscript www-plugins/showip www-plugins/user-agent-switcher www-plugins/sql-inject-me www-plugins/xss-me
+DESCRIPTION=Collection of firefox extensions for application security auditing and assessment.
+EAPI=5
+HOMEPAGE=http://www.firecat.fr/
+KEYWORDS=amd64 x86
+LICENSE=GPL-2
+RDEPEND=www-plugins/firebug www-plugins/foxyproxy www-plugins/hackbar www-plugins/httpfox www-plugins/live-http-headers www-plugins/noscript www-plugins/showip www-plugins/user-agent-switcher www-plugins/sql-inject-me www-plugins/xss-me
+SLOT=0
+_eclass_exported_funcs=-
+_md5_=b319af9285d709807104295868b07712

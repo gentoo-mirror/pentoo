@@ -1,0 +1,11 @@
+DEFINED_PHASES=-
+DESCRIPTION=Pentoo proxy meta ebuild
+EAPI=5
+HOMEPAGE=http://www.pentoo.ch
+IUSE=java minipentoo
+KEYWORDS=~amd64 ~arm ~x86
+LICENSE=GPL
+RDEPEND=java? ( net-proxy/zaproxy ) !minipentoo? ( x86? ( net-proxy/httpush ) net-proxy/3proxy net-misc/iodine net-misc/proxychains net-proxy/mitmproxy net-proxy/privoxy net-proxy/ratproxy net-proxy/redsocks net-misc/tor net-proxy/tsocks )
+SLOT=0
+_eclass_exported_funcs=-
+_md5_=94014314d520007756a432bfec4de012

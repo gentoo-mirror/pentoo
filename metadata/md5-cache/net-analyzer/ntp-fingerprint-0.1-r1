@@ -1,0 +1,11 @@
+DEFINED_PHASES=install
+DESCRIPTION=NTP fingerprinting utility
+EAPI=5
+HOMEPAGE=http://www.arhont.com/en/category/resources/tools-utilities/
+KEYWORDS=~amd64 ~x86 ~ppc
+LICENSE=GPL-2
+RDEPEND=dev-lang/perl
+SLOT=0
+SRC_URI=http://www.arhont.com/en/wp-content/uploads/2010/01/ntp-fingerprint.tar.gz
+_eclass_exported_funcs=src_install:-
+_md5_=810b3c8977ee5e055804abea7f5e6a0f

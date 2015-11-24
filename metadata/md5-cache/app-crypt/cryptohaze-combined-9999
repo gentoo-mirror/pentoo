@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile configure install preinst prepare test unpack
+DEPEND=dev-libs/argtable net-misc/curl dev-libs/protobuf dev-util/nvidia-cuda-sdk >=dev-util/nvidia-cuda-toolkit-5.5.22 >=dev-libs/boost-1.48.0:= video_cards_nvidia? ( x11-drivers/nvidia-drivers ) video_cards_fglrx? ( x11-drivers/ati-drivers ) sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 ) || ( dev-vcs/subversion[http] dev-vcs/subversion[webdav-neon] dev-vcs/subversion[webdav-serf] ) net-misc/rsync
+DESCRIPTION=GPU and OpenCL accelerated password auditing tools for security professionals
+EAPI=5
+HOMEPAGE=http://www.cryptohaze.com/
+IUSE=video_cards_fglrx video_cards_nvidia pax_kernel
+LICENSE=GPL-2
+RDEPEND=dev-libs/argtable net-misc/curl dev-libs/protobuf dev-util/nvidia-cuda-sdk >=dev-util/nvidia-cuda-toolkit-5.5.22 >=dev-libs/boost-1.48.0:= video_cards_nvidia? ( x11-drivers/nvidia-drivers ) video_cards_fglrx? ( x11-drivers/ati-drivers )
+REQUIRED_USE=|| ( video_cards_nvidia video_cards_fglrx )
+SLOT=0
+_eclass_exported_funcs=pkg_preinst:subversion src_unpack:subversion src_prepare:- src_configure:- src_compile:cmake-utils src_test:cmake-utils src_install:-
+_eclasses_=cmake-utils	f16fa5681153277df51f001deaf17ff8	cuda	005e306be76ac11f3468389ef2e4da10	eutils	f20548a2f7b0128068388cd2ec26708a	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	multilib	3972ca401cf7dbb430df9995f5d8d580	pax-utils	9dd3f9de6dccb2463faf55e568439d1c	subversion	4fee0a764150bb4dda27ed4d2c4ed7ce	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_md5_=16b33ec72ee582e8bb3a4e7e7bcf7904

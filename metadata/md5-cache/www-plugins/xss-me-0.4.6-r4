@@ -1,0 +1,14 @@
+DEFINED_PHASES=install unpack
+DEPEND=app-arch/unzip
+DESCRIPTION=Firefox extension to test for reflected cross-site-scripting vulnerabilities.
+EAPI=5
+HOMEPAGE=http://labs.securitycompass.com/exploit-me/xss-me
+IUSE=+symlink_all_targets target_firefox target_firefox-bin
+KEYWORDS=amd64 x86
+LICENSE=GPL-3
+RDEPEND=!symlink_all_targets? ( target_firefox? ( www-client/firefox ) target_firefox-bin? ( www-client/firefox-bin ) )
+SLOT=0
+SRC_URI=http://addons.mozilla.org/downloads/file/148902 -> xss-me-0.4.6.xpi
+_eclass_exported_funcs=src_unpack:mozilla-addon src_install:mozilla-addon
+_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	mozextension	3d8ee4835f89ff39d4666656aa603433	mozilla-addon	8d5d6700a00c98468e9e6c7269e50064	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=06201a4ca28826600aa3b442795485d2

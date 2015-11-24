@@ -1,0 +1,11 @@
+DEFINED_PHASES=-
+DESCRIPTION=Pentoo cracking meta ebuild
+EAPI=5
+HOMEPAGE=http://www.pentoo.ch
+IUSE=cuda opencl dict video_cards_fglrx video_cards_nvidia livecd-stage1 minipentoo
+KEYWORDS=~amd64 ~arm ~x86
+LICENSE=GPL
+RDEPEND=app-crypt/johntheripper net-analyzer/hydra net-analyzer/medusa !minipentoo? ( !arm? ( app-crypt/chntpw app-crypt/hashcat-gui ) !livecd-stage1? ( video_cards_nvidia? ( opencl? ( app-crypt/pyrit ) cuda? ( app-crypt/pyrit ) ) ) dict? ( app-dicts/raft-wordlists app-misc/crunch ) app-crypt/ophcrack app-text/cewl app-crypt/SIPcrack net-analyzer/ncrack net-misc/rdesktop-brute )
+SLOT=0
+_eclass_exported_funcs=-
+_md5_=733b5d7ff14c02c99c117fd95387e99f

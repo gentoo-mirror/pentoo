@@ -1,0 +1,9 @@
+DEFINED_PHASES=-
+DESCRIPTION=Radio tools for pentoo
+EAPI=5
+IUSE=livecd-stage1 minipentoo mono
+KEYWORDS=amd64 arm x86
+PDEPEND=net-wireless/gnuradio net-wireless/gqrx net-wireless/gr-osmosdr net-wireless/hackrf-tools net-wireless/rtl-sdr net-wireless/bladerf !minipentoo? ( net-wireless/portapack-firmware net-wireless/inspectrum net-wireless/uhd net-wireless/chirp media-radio/fldigi net-wireless/dump1090 net-wireless/gr-air-modes net-analyzer/multimon-ng app-mobilephone/dfu-util net-wireless/yatebts media-radio/qsstv media-sound/audacity !livecd-stage1? ( mono? ( net-wireless/virtualradar-bin ) ) )
+SLOT=0
+_eclass_exported_funcs=-
+_md5_=5d7c4186da7a28597da6bc82ee4bd121

@@ -1,0 +1,13 @@
+DEFINED_PHASES=install prepare
+DEPEND=!net-analyzer/armitage
+DESCRIPTION=Cyber Attack Management for Metasploit
+EAPI=5
+HOMEPAGE=http://www.fastandeasyhacking.com/
+KEYWORDS=~amd64 ~arm ~x86
+LICENSE=BSD
+PDEPEND=net-analyzer/metasploit net-analyzer/nmap virtual/jre
+SLOT=0
+SRC_URI=http://www.fastandeasyhacking.com/download/armitage141120.tgz
+_eclass_exported_funcs=src_prepare:- src_install:-
+_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=ee6fe2caf609b193e4fcadd4fa882745

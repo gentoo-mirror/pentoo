@@ -1,0 +1,11 @@
+DEFINED_PHASES=install unpack
+DESCRIPTION=A tool for reengineering 3rd party, closed, binary Android apps.
+EAPI=5
+HOMEPAGE=http://code.google.com/p/android-apktool/
+KEYWORDS=amd64 x86
+LICENSE=GPL-3
+RDEPEND=|| ( >=virtual/jre-1.7 >=virtual/jdk-1.7 ) dev-util/android-sdk-update-manager
+SLOT=0
+SRC_URI=http://miui.connortumbleson.com/other/apktool/test_versions/apktool_2.0.0b7.jar
+_eclass_exported_funcs=src_unpack:- src_install:-
+_md5_=a5203a2dd63a73fd690e5c3d530e4a48
