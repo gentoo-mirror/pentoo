@@ -1,0 +1,10 @@
+DEFINED_PHASES=compile install prepare
+DESCRIPTION=A simple utility to dump all memory of a running process
+EAPI=2
+HOMEPAGE=http://lcamtuf.coredump.cx/
+KEYWORDS=~x86 ~amd64
+LICENSE=GPL-2
+SLOT=0
+SRC_URI=http://lcamtuf.coredump.cx/soft/memfetch.tgz
+_eclass_exported_funcs=src_prepare:- src_compile:- src_install:-
+_md5_=0fcaa1ddb3bf444855998213eecbbf85

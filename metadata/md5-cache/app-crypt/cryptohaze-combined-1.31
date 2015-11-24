@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile install
+DEPEND=dev-libs/argtable net-misc/curl dev-libs/protobuf dev-util/nvidia-cuda-sdk[examples] >=dev-libs/boost-1.47.0
+DESCRIPTION=GPU and OpenCL accelerated password auditing tools for security professionals
+EAPI=4
+HOMEPAGE=http://www.cryptohaze.com/
+IUSE=+grt +multiforcer
+KEYWORDS=amd64 x86
+LICENSE=GPL-2
+RDEPEND=dev-libs/argtable net-misc/curl dev-libs/protobuf dev-util/nvidia-cuda-sdk[examples] >=dev-libs/boost-1.47.0
+SLOT=0
+SRC_URI=mirror://sourceforge/cryptohaze/Cryptohaze-Src_1_31.tar.bz2
+_eclass_exported_funcs=src_compile:- src_install:-
+_md5_=7ed14765925c4ce9c3613484d201bd3d

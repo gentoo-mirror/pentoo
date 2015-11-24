@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install postinst postrm preinst prepare unpack
+DEPEND==dev-lang/python-2* || ( dev-vcs/subversion[http] dev-vcs/subversion[webdav-neon] dev-vcs/subversion[webdav-serf] ) net-misc/rsync
+DESCRIPTION=pyscard is a python module adding smart cards support to python.
+EAPI=3
+HOMEPAGE=http://pyscard.sourceforge.net/ http://pypi.python.org/pypi/pyscard
+KEYWORDS=~amd64
+LICENSE=LGPL-2.1
+RDEPEND==dev-lang/python-2*
+SLOT=0
+_eclass_exported_funcs=pkg_preinst:subversion pkg_postrm:distutils pkg_postinst:distutils src_unpack:subversion src_prepare:subversion src_compile:distutils src_install:distutils
+_eclasses_=distutils	ad9e4720eb3e69090dd968b152fc611b	eutils	f20548a2f7b0128068388cd2ec26708a	multilib	3972ca401cf7dbb430df9995f5d8d580	python	0c2c16ea4f9074d3248bd4365d03890c	subversion	4fee0a764150bb4dda27ed4d2c4ed7ce	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=4fb3bf03dc1a5ecd214e44d7b53ba92f

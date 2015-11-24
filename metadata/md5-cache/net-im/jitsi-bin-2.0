@@ -1,0 +1,14 @@
+DEFINED_PHASES=install unpack
+DEPEND=|| ( virtual/jre virtual/jdk ) app-arch/rpm2targz >=app-arch/rpm2targz-9.0.0.3g
+DESCRIPTION=Secure IM communicator that supports SIP, XMPP/Jabber, AIM/ICQ, Windows Live, Yahoo
+EAPI=4
+HOMEPAGE=https://jitsi.org/
+KEYWORDS=~amd64 ~x86
+LICENSE=LGPL-2
+RDEPEND=|| ( virtual/jre virtual/jdk )
+RESTRICT=strip
+SLOT=0
+SRC_URI=x86? ( https://download.jitsi.org/jitsi/rpm/jitsi-2.0-4506.10553.i386.rpm ) amd64? ( https://download.jitsi.org/jitsi/rpm/jitsi-2.0-4506.10553.x86_64.rpm )
+_eclass_exported_funcs=src_unpack:- src_install:-
+_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	multilib	3972ca401cf7dbb430df9995f5d8d580	rpm	514a1840ee796656311a029ea952faa9	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=5e16335ed961f324373d921374950acd

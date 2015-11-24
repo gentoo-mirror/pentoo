@@ -1,0 +1,12 @@
+DEFINED_PHASES=install postinst unpack
+DEPEND=>=x11-libs/gtk+-2.4 >=dev-lang/python-2.3 gnome-base/libglade >=dev-python/pygtk-2.4
+DESCRIPTION=A utility to find and clean various forms of lint on a filesystem.
+EAPI=0
+HOMEPAGE=http://www.pixelbeat.org/fslint/
+KEYWORDS=-* x86 amd64
+LICENSE=GPL-2
+RDEPEND=>=x11-libs/gtk+-2.4 >=dev-lang/python-2.3 gnome-base/libglade >=dev-python/pygtk-2.4
+SLOT=0
+SRC_URI=http://www.pixelbeat.org/fslint/fslint-2.42.tar.gz
+_eclass_exported_funcs=pkg_postinst:- src_unpack:- src_install:-
+_md5_=a5850e4fa74b45f1e24392f1897f6149

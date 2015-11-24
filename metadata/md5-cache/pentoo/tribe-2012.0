@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=Tribe meta ebuild
+EAPI=2
+HOMEPAGE=http://www.pentoo.ch
+KEYWORDS=x86
+LICENSE=GPL
+RDEPEND=net-wireless/aircrack-ng[airdrop-ng] app-crypt/truecrypt app-arch/p7zip net-irc/ngircd app-crypt/steghide virtual/jdk net-misc/tor
+SLOT=0
+_eclass_exported_funcs=-
+_md5_=92e9b4acd7003236f8ae5c831d24cff9

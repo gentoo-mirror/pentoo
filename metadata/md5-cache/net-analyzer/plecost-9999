@@ -1,0 +1,12 @@
+DEFINED_PHASES=install postinst postrm prepare setup unpack
+DEPEND=dev-python/beautifulsoup:python-2 =dev-lang/python-2* dev-vcs/git
+DESCRIPTION=Wordpress finger printing tool, retrieve information about the plugins and versions installed
+EAPI=4
+HOMEPAGE=http://www.iniqua.com/labs/plecost/
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=dev-python/beautifulsoup:python-2 =dev-lang/python-2*
+SLOT=0
+_eclass_exported_funcs=pkg_postrm:- pkg_postinst:- pkg_setup:python src_unpack:git-2 src_prepare:- src_install:-
+_eclasses_=git-2	df00117322129fb906bb0a53c3d6a020	multilib	3972ca401cf7dbb430df9995f5d8d580	python	0c2c16ea4f9074d3248bd4365d03890c	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=d134de730a428fbd4d9c6fc5a87a5674

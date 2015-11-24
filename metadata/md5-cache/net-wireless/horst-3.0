@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile install
+DEPEND=sys-libs/ncurses pcap? ( net-libs/libpcap )
+DESCRIPTION=Small 802.11 wireless LAN analyzer
+EAPI=4
+HOMEPAGE=http://br1.einfach.org/tech/horst/
+IUSE=+pcap
+KEYWORDS=~amd64 ~arm ~x86
+LICENSE=GPL-2
+RDEPEND=sys-libs/ncurses pcap? ( net-libs/libpcap )
+SLOT=0
+SRC_URI=http://br1.einfach.org/horst_dl/horst-3.0.tar.gz
+_eclass_exported_funcs=src_compile:- src_install:-
+_md5_=eae5a70dea32370bfb1415dddd8bd691

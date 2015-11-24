@@ -1,0 +1,10 @@
+DEFINED_PHASES=install
+DESCRIPTION=Attack and Discovery Pattern Database for Application Fuzz Testing
+EAPI=3
+HOMEPAGE=https://code.google.com/p/fuzzdb/
+KEYWORDS=amd64 arm x86
+LICENSE=BSD
+SLOT=0
+SRC_URI=http://fuzzdb.googlecode.com/files/fuzzdb-1.09.tgz
+_eclass_exported_funcs=src_install:-
+_md5_=d20a36f90700bcb7d3cc91ff2e96b554

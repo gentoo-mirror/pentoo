@@ -1,0 +1,14 @@
+DEFINED_PHASES=compile install
+DEPEND=qt4? ( dev-python/PyQt4 ) dev-python/pyopenssl dev-python/pycurl dev-python/sip
+DESCRIPTION=A tool designed to find vulnerabilities while browsing an application
+EAPI=0
+HOMEPAGE=http://code.google.com/p/proxystrike/
+IUSE=qt4
+KEYWORDS=amd64 ~ppc x86
+LICENSE=GPL-2
+RDEPEND=qt4? ( dev-python/PyQt4 ) dev-python/pyopenssl dev-python/pycurl dev-python/sip
+SLOT=0
+SRC_URI=http://www.edge-security.com/soft/proxystrike-v2.0.tar.gz
+_eclass_exported_funcs=src_compile:- src_install:-
+_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=1bbcbd9e73965070cfd77d9bd52a5da4
