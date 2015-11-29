@@ -47,7 +47,7 @@ app-forensics/stegdetect 0.6 0.6-r1: A Steganography detector for JPEG
 app-forensics/streams 0.1.0: streams is a tool for browsing, mining and processing TCP streams in pcap files
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
 app-forensics/volatility 2.1 2.2 2.3.1: Forensic tool for analyzing volatile memory
-app-forensics/xmount 0.5.0 0.6.0: Convert on-the-fly between multiple input and output harddisk image types
+app-forensics/xmount 0.5.0 0.7.3: Convert on-the-fly between multiple input and output harddisk image types
 app-forensics/yara 3.3.0: A malware identification and classification tool
 app-fuzz/Peach 1.0: A generic fuzzer framework
 app-fuzz/bed 0.5: BED is a multi-protocol fuzzer written in perl
