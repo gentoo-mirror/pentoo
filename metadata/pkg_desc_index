@@ -26,7 +26,6 @@ app-exploits/exploitdb 9999: All exploits from exploit-db.com
 app-exploits/packetstormexploits 2012.13 2013.13 2014.13 2015.05: Archive of packetstorm exploits
 app-exploits/packetstormexploits-meta 2000: Meta ebuild of packetstorm exploits
 app-exploits/shellstorm 9999: Search and display all shellcodes in shell-storm database.
-app-exploits/weevely 1.1: Weevely is a stealth PHP web shell that simulate telnet-like console
 app-forensics/bulk_extractor 1.5.5: Scans a disk image, directory or file and extracts useful information
 app-forensics/data-carver-processors 0: Data carving analysis for JPEG, PDF and Videos
 app-forensics/dff 1.2.0-r2 1.3.0: A digital forensics framework which aims to analyze and recover any kind of digital artifact.
@@ -36,11 +35,8 @@ app-forensics/guymager 0.7.3-r1: Guymager is a fast and user friendly forensic i
 app-forensics/inception 0.3.0 0.3.4 0.3.5 0.4.0 0.4.1: Firewire physical memory manipulation tool exploiting IEEE 1394 SBP-2 DMA
 app-forensics/libforensic1394 0.2 9999: Library for carrying out memory forensics using firewire/ieee1394.
 app-forensics/libpff 0.0.20110413_alpha 0.0.20120513_alpha 0.0.20120611_alpha 0.0.20120802_alpha: Library for accessing Personal Folder Files.
-app-forensics/libvshadow 0.0.20131209_alpha 0.0.20140731_alpha: Library and tools to support the Volume Shadow Snapshot (VSS) format.
 app-forensics/linen 61: Encase's linen utility
-app-forensics/make-pdf 0.1.4-r2: This tool will embed javascript inside a PDF document
 app-forensics/origami-pdf 1.2.6: A Ruby framework designed to parse, analyze, and forge PDF documents
-app-forensics/pdf-parser 0.4.3-r1 0.6.4: This tool will parse a PDF document to identify the fundamental elements used
 app-forensics/pdfid 0.0.11 0.0.12: This tool will scan a PDF document looking for certain keyword
 app-forensics/rekall-core 9999: Rekall Memory Forensic Framework
 app-forensics/rekall-gui 9999: Rekall Memory Forensic Framework
@@ -85,7 +81,6 @@ dev-db/oat 1.3.1: a toolkit that could be used to audit security within Oracle d
 dev-db/sqid 0.3: A SQL injection digger
 dev-db/sqlbf 1.0.1-r1: SQLBF is a tool to audit mssql passwords strength offline
 dev-db/sqlitebrowser 3.3.1-r1: SQLite Database Browser
-dev-db/sqlmap 0.9_p20151207 9999: A tool that automates the process of detecting and exploiting SQL injection flaws
 dev-db/sqlsus 0.7.2: MySQL injection and takeover tool
 dev-db/themole 0.3: An automatic SQL Injection exploitation tool
 dev-dotnet/wxnet 0.7.2: wxWidgets bindings for mono
@@ -98,7 +93,6 @@ dev-libs/libdisasm 0.23: x86 Disassembler Library
 dev-libs/libguytools2 2.0.1-r1: Library for guymager
 dev-libs/libhijack 0.5.2 0.6: Make injecting arbitrary code and other shared objects into another process during runtime easy
 dev-libs/libndef 1.1.3 1.2.0: a C++ library for NDEF specification
-dev-libs/radare2-bindings 0.9.9-r3: Language bindings for radare2
 dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
 dev-perl/Tie-CharArray 1.00: Manipulate perl strings through tied array
 dev-python/DartsPyLRU 0.5: LRU Dictionaries
@@ -192,7 +186,6 @@ dev-ruby/yard 0.8.7.3: Documentation generation tool for the Ruby programming la
 dev-util/apktool 1.5.2-r1 2.0.0_beta7 2.0.0_beta9 2.0.1 2.0.2: A tool for reengineering 3rd party, closed, binary Android apps.
 dev-util/ati-app-sdk-bin 2.9: AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream)
 dev-util/ati-stream-sdk-bin 2.01 2.2 2.3: Enable compiling code and loading it on ATI/AMD GPU
-dev-util/bokken 1.6 1.7-r1 1.8: GUI for the Pyew malware analysis tool and Radare the reverse engineering framework
 dev-util/calpp 0.87-r1 0.90 0.90-r1: A library for efficient use of ATI CAL with C++
 dev-util/capstone 3.0.1 3.0.2 3.0.3 3.0.4: A lightweight multi-platform, multi-architecture disassembly framework
 dev-util/collabreate 0.2.0 0.3.0 0.3.0-r1 0.3.0-r2 0.3.0.1 0.3.0.1-r1: A plugin for IDA Pro designed to provide collaborative reverse engineering
@@ -204,7 +197,6 @@ dev-util/memfetch 0: A simple utility to dump all memory of a running process
 dev-util/metasm 9999: Metasm is a cross-architecture assembler, disassembler, compiler, linker and debugger
 dev-util/nvidia-cuda-sdk 6.5.14 6.5.19: NVIDIA CUDA Software Development Kit
 dev-util/premake 3.2: A makefile generation tool
-dev-util/pyew 2.0: Hexadecimal viewer and disassembler
 dev-util/radare 1.5.2: Advanced command line hexadecimail editor and more
 dev-util/radare2 0.9.9-r1: Advanced command line hexadecimal editor and more
 dev-util/soapui 5.0.0 5.2.0: The Swiss-Army Knife for SOAP Testing
@@ -234,19 +226,16 @@ net-analyzer/dsniff 2.4_beta1-r4 2.4_beta1-r5: A collection of tools for network
 net-analyzer/enum4linux 0.8.7 0.8.8 0.8.9 0.8.9-r1: a tool for enumerating information from Windows and Samba systems
 net-analyzer/evilgrade 2.0.0 2.0.6: A modular framework that takes advantage of poor upgrade implementations by injecting fake updates.
 net-analyzer/fierce 1.0.3: Fierce is a DNS reconnaissance tool written in perl
-net-analyzer/geoedge 0.2-r2: This little tools is designed to get geolocalization information of a host
 net-analyzer/geoipgen 0.4: Generate a list of hostnames based on country
 net-analyzer/httprint 301: HTTP fingerprinter tool
 net-analyzer/hyenae 0.36_p1 0.36_p1-r1: a highly flexible packet generator
 net-analyzer/ike-scan 1.9_p20140311 1.9_p20140730 1.9_p20150524: A utility for finding, fingerprinting and testing IKE VPN servers
-net-analyzer/inguma 0.4-r1: Inguma is an open source penetration testing toolkit written completely in Python
 net-analyzer/jmsdigger-bin 20130815: JMSDigger is an Enterprise Messaging Application assessment tool focuses on ActiveMQ
 net-analyzer/loki 0.2.7: Layer3 attacking tool
 net-analyzer/maketh 0.2.0: Ethernet packet injector and creator
 net-analyzer/masscan 1.0.1 1.0.3 1.0.3-r3: Mass IP port scanner
 net-analyzer/medusa 2.1.1 2.2: A Modular,Parallel,Multiprotocol, Network Login Auditor
 net-analyzer/metacoretex-ng 9999: A nice, java-based, MYSQL/Oracle/MSSQL/ODBC attack framework
-net-analyzer/metagoofil 1.4b-r1: Metagoofil is an information gathering tool designed for extracting metadata of public documents
 net-analyzer/mosref 2.0_beta3: A secure remote execution framework using a compact Scheme-influenced VM
 net-analyzer/nacker 0.0.1_pre20130916: Bypass NAC by hijacking non-802.1x configurable hosts
 net-analyzer/nbtool 0.05_alpha2: Some tools for NetBIOS and DNS investigation, attacks, and communication
@@ -260,16 +249,14 @@ net-analyzer/onesixtyone 0.3.2-r2 0.6 0.7: An efficient SNMP scanner
 net-analyzer/packet-o-matic 9999: packet-o-matic is a real time packet processor
 net-analyzer/padbuster 20110928: Automated script for performing Padding Oracle attacks
 net-analyzer/plecost 9999: Wordpress finger printing tool, retrieve information about the plugins and versions installed
-net-analyzer/polenum 0.2-r2: a python script for extracting the password policy information from a Windows/Samba machine.
 net-analyzer/post-it-dos 9999: A simple piece of PoC code written to demonstrate HTTP POST Denial of Service vulnerabilies
 net-analyzer/ppscan 0.3: port scanner with HTTP and FTP tunneling support
-net-analyzer/recon-ng 4.4.0 9999: Web Reconnaissance Framework
+net-analyzer/recon-ng 9999: Web Reconnaissance Framework
 net-analyzer/rpcapd 4.1.2: Remote packet capture daemon
 net-analyzer/scamper 20140530: A tool that actively probes the Internet in order to analyze topology and performance
 net-analyzer/scapy 1.1.1-r2: A Python interactive packet manipulation program for mastering the network
 net-analyzer/sessionlist 1.0-r1: A HTTP packets sniffer
 net-analyzer/set 5.3.4 5.4.8 6.0 9999: A social engineering framework
-net-analyzer/sipvicious 0.2.8-r3: A voip pentest tools suite
 net-analyzer/smtpmap 0.8.234_beta: a very complete and well done fingerprinter for SMTP, FTP and POP3 fingerprinter
 net-analyzer/snmpenum 1.0: A perl script to enumerate SNMP table dumper
 net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
@@ -277,8 +264,6 @@ net-analyzer/sslcat 1.0: netcat like application with ssl support
 net-analyzer/sslscan 9999: SSLScan determines what ciphers are supported on SSL-based services.
 net-analyzer/sslstrip 0.9-r1: sslstrip remove https and forwards http
 net-analyzer/ssltest 0.4 0.4-r1: SSL testing tool written in perl
-net-analyzer/sslyze 0.11 0.12: Fast and full-featured SSL scanner
-net-analyzer/subdomainer 1.3-r2: This script will search in Google, Msn.search and Yahoo for subdomains related to the target domain
 net-analyzer/suricata 1.0.5: next generation intrusion detection and prevention engine
 net-analyzer/thc-pptp-bruter 0.1.4: a brute force program that works against pptp vpn endpoints
 net-analyzer/thc-ssl-dos 1.4: THC-SSL-DOS is a tool to verify the performance of SSL servers
@@ -293,8 +278,6 @@ net-analyzer/w3af 1.6.0.5-r2 9999: Web Application Attack and Audit Framework
 net-analyzer/waffit 9999: web application firewall (waf) scanner
 net-analyzer/wafp 9999: A webapplication fingerprinter written in ruby
 net-analyzer/wapiti 2.3.0_p20141111: Web application security auditor
-net-analyzer/webshag 1.1-r1: An enhanced HTTP URL Scanner and fuzzer
-net-analyzer/wfuzz 2.0-r1 2.1.3: Wfuzz is a tool designed for bruteforcing Web Applications
 net-analyzer/whatweb 0.4.7-r5 0.4.7_p20150505 0.4.7_p20150818: Next generation web scanner, identifies what software websites are running
 net-analyzer/wolpertinger 0.6-r2: a distributed portscanner
 net-analyzer/wpscan 2.9: Wordpress security scanner
@@ -302,13 +285,11 @@ net-analyzer/xplico 1.1.0-r3: Extract data from TCP/IP traffic
 net-analyzer/zarp 0.1.5 0.1.7: Local network attack toolkit
 net-dialup/freeradius 2.2.0-r1 2.2.5-r1: Highly configurable free RADIUS server
 net-fs/afpfs-ng 0.8.1: a client for the Apple Filing Protocol
-net-fs/winexe 1.0.0-r1 9999: remotely execute commands on Windows NT/2000/XP/2003 systems, with lmhash passthrough support
 net-im/jitsi-bin 2.0 2.2 2.4: Secure IM communicator that supports SIP, XMPP/Jabber, AIM/ICQ, Windows Live, Yahoo
 net-libs/libndpi 1.5.0 1.5.1: ntop-maintained superset of the popular OpenDPI library
 net-libs/libpcap 1.6.2-r1: A system-independent library for user-level network packet capture
 net-libs/libvidcap 0.2.1: a cross-platform library for capturing video from webcams and other video capture devices
 net-libs/nfqueue-bindings 0.4: Set of high-level modules for languages such as Perl or Python, for libnetfilter_queue
-net-libs/nodejs 0.12.7-r1: Evented IO for V8 Javascript
 net-mail/davmail-bin 4.6.1 4.6.2: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
 net-misc/f5vpn-login 9999: F5 VPN Command-line client
 net-misc/faifa 0.1 9999: Power Line Communication device manager
@@ -326,7 +307,6 @@ net-misc/wicd 1.7.2.4-r3 1.7.9999_p874: A lightweight wired and wireless network
 net-misc/wireshark-sap-plugin 0.2.2 0.2.3: Wireshark plugin for SAP's protocols
 net-misc/wlan2eth 0.1: Wlan2eth is a tool that converts wlan pcap to ethernet-like frames.
 net-proxy/burpsuite 1.6.01: an interactive HTTP/S proxy server for attacking and debugging web-enabled applications
-net-proxy/mallory 0.2.0_p20130109: An TCP/UDP transparent proxy that can be used to intercept network streams
 net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal network via reverse connection
 net-proxy/proxenet 0.3.1: A hacker friendly proxy for web application penetration tests.
 net-proxy/proxenet-plugins 9999: Repository for proxenet plugins
@@ -340,7 +320,6 @@ net-wireless/airoscript 9999: N00b scripts for aircrack-ng :-)
 net-wireless/b43-openfwwf 5.2: OpenBroadcom Firmware
 net-wireless/b43-tools 9999: Tools for developers working on broadcom drivers/firmware
 net-wireless/bluemaho 090417-r2: BlueMaho is GUI-shell (interface) for suite of tools for testing security of bluetooth devices
-net-wireless/bluez 5.35-r1: Bluetooth Tools and System Daemons for Linux
 net-wireless/broadcom-firmware-downloader 0.1-r2 0.2: Closed Broadcom Commercial Firmware Downloader
 net-wireless/broadcom-firmware-installer 0.1-r3 0.2: Closed Broadcom Commercial Firmware Installer
 net-wireless/bt-audit 0.1.1-r1: A small bluetooth audit suite
@@ -383,7 +362,6 @@ net-wireless/rtl8812au_asus 4.3.2_p20150929: Linux kernel module for ASUS USB-AC
 net-wireless/ska 0.2: Fake Shared Key Authentication
 net-wireless/virtualradar-bin 1.0.5 1.2.2 1.2.3 2.0.1: Open-source .NET application for ads-b mapping
 net-wireless/wifitap 0.4.0-r4: A wireless tool to do direct connection to client without passing through an AP
-net-wireless/wifite 2.85_p20150526: An automated wireless attack tool
 net-wireless/wireless-regdb 20090130-r1 20090309 20090817 20091125 20091125-r1: Binary regulatory database for CRDA
 pentoo/pentoo 2014.3-r1 2015.1: Pentoo meta ebuild to install all apps
 pentoo/pentoo-analyzer 2015.3: Pentoo analyzers meta ebuild
