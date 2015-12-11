@@ -1,0 +1,13 @@
+DEFINED_PHASES=install setup
+DESCRIPTION=GUI for the Pyew malware analysis tool and Radare the reverse engineering framework
+EAPI=5
+HOMEPAGE=https://inguma.eu/projects/bokken
+IUSE=+radare python_targets_python2_7
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=radare? ( dev-libs/radare2-bindings[python] >=dev-util/radare2-0.9.6 dev-python/pillow dev-python/pygtksourceview dev-python/pygraphviz dev-python/psycopg )
+SLOT=0
+SRC_URI=https://github.com/inguma/bokken/archive/1.8.tar.gz -> bokken-1.8.tar.gz
+_eclass_exported_funcs=pkg_setup:python-single-r1 src_install:-
+_eclasses_=eutils	d9bd2ddd85a58e470b49ca997e255a4c	multilib	3972ca401cf7dbb430df9995f5d8d580	python-single-r1	caecf590709cc0fcf0b6582bdc49150f	python-utils-r1	832cb17726d498a182de6b9ee2adc0dc	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=bc7f7bdecc173b994f0f6244a3d41f95
