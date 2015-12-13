@@ -401,7 +401,7 @@ pentoo/pentoo-gnome 2.32.1-r3: Meta package for the GNOME desktop, merge this pa
 pentoo/pentoo-installer 20140930 99999999: Installer for pentoo, based on the ncurses Arch Linux installer
 pentoo/pentoo-livecd 2015.4: things needed by pentoo for livecd only
 pentoo/pentoo-misc 2015.0: Pentoo misc meta ebuild
-pentoo/pentoo-mitm 2014.3: Pentoo mitm meta ebuild
+pentoo/pentoo-mitm 2015.4: Pentoo mitm meta ebuild
 pentoo/pentoo-mobile 2013.0 2014.0 2014.1: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2015.3: Collection of NFC tools
 pentoo/pentoo-proxies 2015.3: Pentoo proxy meta ebuild
