@@ -325,7 +325,7 @@ net-misc/warvox 1.0.1 1.0.1-r2 9999: VoIP war dialing suite of tools
 net-misc/wicd 1.7.2.4-r3 1.7.9999_p874: A lightweight wired and wireless network manager for Linux
 net-misc/wireshark-sap-plugin 0.2.2 0.2.3: Wireshark plugin for SAP's protocols
 net-misc/wlan2eth 0.1: Wlan2eth is a tool that converts wlan pcap to ethernet-like frames.
-net-proxy/burpsuite 1.6.01: an interactive HTTP/S proxy server for attacking and debugging web-enabled applications
+net-proxy/burpsuite 1.6.01 1.6.32: an interactive HTTP/S proxy server for attacking and debugging web-enabled applications
 net-proxy/mallory 0.2.0_p20130109: An TCP/UDP transparent proxy that can be used to intercept network streams
 net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal network via reverse connection
 net-proxy/proxenet 0.3.1: A hacker friendly proxy for web application penetration tests.

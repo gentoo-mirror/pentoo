@@ -1,0 +1,12 @@
+DEFINED_PHASES=install unpack
+DESCRIPTION=an interactive HTTP/S proxy server for attacking and debugging web-enabled applications
+EAPI=5
+HOMEPAGE=https://portswigger.net/burp/
+KEYWORDS=amd64 x86
+LICENSE=BURP
+RDEPEND=virtual/jre
+RESTRICT=fetch
+SLOT=0
+SRC_URI=http://portswigger.net/burp/burpsuite_free_v1.6.32.jar
+_eclass_exported_funcs=src_unpack:- src_install:-
+_md5_=4da2cd3c632720c5e0a0f8efac1dd9a5
