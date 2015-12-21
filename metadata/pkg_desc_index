@@ -140,7 +140,6 @@ dev-ruby/celluloid 0.16.0: Celluloid provides a simple and natural way to build 
 dev-ruby/celluloid-io 0.16.1: Evented IO for Celluloid actors
 dev-ruby/cgi_multipart_eof_fix 2.5.0: Fix an exploitable bug in CGI multipart parsing.
 dev-ruby/cookiejar 0.3.2: Allows for parsing and returning cookies in Ruby HTTP client code
-dev-ruby/coveralls 0.7.1: A Ruby implementation of the Coveralls API.
 dev-ruby/data_objects 0.10.13: The Core DataObjects class
 dev-ruby/dm-core 1.2.1: An Object/Relational Mapper for Ruby
 dev-ruby/dm-do-adapter 1.2.0: A DataObjects Adapter for DataMapper
@@ -160,7 +159,6 @@ dev-ruby/hitimes 1.2.2: A fast, high resolution timer library
 dev-ruby/http_configuration 1.0.4: set configuration for Net::HTTP
 dev-ruby/jsmin 1.0.1: Ruby implementation of Douglas Crockford's JSMin JavaScript minifier
 dev-ruby/librex 0.0.68: Rex provides a variety of classes useful for security testing and exploit development
-dev-ruby/linecache 0.43: LineCache is a module for reading and caching lines.
 dev-ruby/mini_exiftool 2.5.1: wrapper for exiftool
 dev-ruby/mini_portile 0.5.1: Simplified way to compile against dependency libraries without messing up your system
 dev-ruby/mongrel 1.1.5: A small fast HTTP library and server that runs Rails, Camping, Nitro and Iowa apps.
@@ -171,10 +169,6 @@ dev-ruby/pony 1.5: Send email in one command
 dev-ruby/rack-protection 1.4.0-r1: This gem protects against typical web attacks.
 dev-ruby/railties 3.2.21: Tools for creating, working with, and running Rails applications
 dev-ruby/rspec-its 1.0.1-r1: RSpec extension gem for attribute matching
-dev-ruby/rubinius-coverage 2.0.3: Rubinius coverage tool.
-dev-ruby/rubinius-debugger 2.0.3: Rubinius debugger.
-dev-ruby/rubinius-developer_tools 2.0.0: A meta-gem for the Rubinius developer components like the debugger, profiler, coverage tool, etc.
-dev-ruby/rubinius-profiler 2.0.1: Rubinius profiler.
 dev-ruby/ruby-progressbar 1.1.0 1.7.5: A Text Progress Bar Library for Ruby
 dev-ruby/rubydns 0.9.2 1.0.1: A tool to intercept and modify DNS requests
 dev-ruby/sinatra 1.3.6 1.4.2: Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort.
@@ -185,7 +179,6 @@ dev-ruby/sys-proctable 0.9.3: An interface for providing process table informati
 dev-ruby/terminal-table 1.4.5: Simple, feature rich ascii table generation library
 dev-ruby/timers 4.0.1: Pure Ruby one-shot and periodic timers
 dev-ruby/typhoeus 0.3.3 0.4.2 0.6.8: Typhoeus runs HTTP requests in parallel while cleanly encapsulating handling logic
-dev-ruby/vcr 1.11.3: VCR provides a simple API to record and replay your test suite's HTTP interactions.
 dev-ruby/webmock 1.9.3: Allows stubbing HTTP requests and setting expectations on HTTP requests
 dev-ruby/websocket 1.2.1-r1: Universal Ruby library to handle WebSocket protocol
 dev-ruby/yard 0.8.7.3: Documentation generation tool for the Ruby programming language
