@@ -170,7 +170,7 @@ dev-ruby/nokogiri 1.6.6.2-r1: Nokogiri is an HTML, XML, SAX, and Reader parser
 dev-ruby/oj 2.12.14 2.14.2: The fastest JSON parser and object serializer
 dev-ruby/oj_mimic_json 1.0.1: An experimental Object-base Parallel Evaluation Environment.
 dev-ruby/parseconfig 1.0.6: Provides simple parsing of standard *nix style config files.
-dev-ruby/pony 1.5 1.8: Send email in one command
+dev-ruby/pony 1.5-r1 1.8-r1: Send email in one command
 dev-ruby/rack-protection 1.4.0-r1: This gem protects against typical web attacks.
 dev-ruby/railties 3.2.21: Tools for creating, working with, and running Rails applications
 dev-ruby/rspec-its 1.0.1-r1: RSpec extension gem for attribute matching
@@ -184,10 +184,10 @@ dev-ruby/spider 0.4.4-r2: web spidering library
 dev-ruby/sys-proctable 0.9.3: An interface for providing process table information
 dev-ruby/terminal-table 1.4.5: Simple, feature rich ascii table generation library
 dev-ruby/timers 4.0.1: Pure Ruby one-shot and periodic timers
-dev-ruby/typhoeus 0.3.3 0.4.2 0.6.8: Typhoeus runs HTTP requests in parallel while cleanly encapsulating handling logic
+dev-ruby/typhoeus 0.3.3 0.4.2 0.6.9: Runs HTTP requests in parallel while cleanly encapsulating handling logic
 dev-ruby/watir-webdriver 0.6.9: WebDriver-backed Watir
 dev-ruby/webmock 1.9.3: Allows stubbing HTTP requests and setting expectations on HTTP requests
-dev-ruby/websocket 1.2.1-r1: Universal Ruby library to handle WebSocket protocol
+dev-ruby/websocket 1.2.2: Universal Ruby library to handle WebSocket protocol
 dev-util/apktool 1.5.2-r1 2.0.0_beta7 2.0.0_beta9 2.0.1 2.0.2: A tool for reengineering 3rd party, closed, binary Android apps.
 dev-util/ati-app-sdk-bin 2.9: AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream)
 dev-util/ati-stream-sdk-bin 2.01 2.2 2.3: Enable compiling code and loading it on ATI/AMD GPU
@@ -437,7 +437,7 @@ virtual/jdk 1.7.0: Virtual for Java Development Kit (JDK)
 virtual/linux-sources 0 1: Virtual for Linux kernel sources
 virtual/opencl-sdk 1.1 1.1-r1: Virtual for nv/ati/intel opencl SDK
 virtual/pkgconfig 0: Virtual for the pkg-config implementation
-www-apps/arachni 0.4.7: Arachni is a feature-full web application scanner
+www-apps/arachni 0.4.7 1.3.2: Arachni is a feature-full web application scanner
 www-apps/beef 0.4.4.8-r2 0.4.4.9 0.4.5.0 0.4.5.1-r1 0.4.6.1: Browser exploitation framework
 www-misc/firefox-bookmarks 0.3-r1: Firefox bookmarks for the Pento ISO only
 www-plugins/adblock_plus 2.6.5 2.6.6 2.6.7 9999: Firefox extension to block annoying ads automatically, no distractions.
