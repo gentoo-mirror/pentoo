@@ -183,7 +183,7 @@ dev-ruby/spider 0.4.4-r2: web spidering library
 dev-ruby/sys-proctable 0.9.3: An interface for providing process table information
 dev-ruby/terminal-table 1.4.5: Simple, feature rich ascii table generation library
 dev-ruby/timers 4.0.1: Pure Ruby one-shot and periodic timers
-dev-ruby/typhoeus 0.3.3 0.4.2 0.6.9: Runs HTTP requests in parallel while cleanly encapsulating handling logic
+dev-ruby/typhoeus 0.3.3 0.6.9: Runs HTTP requests in parallel while cleanly encapsulating handling logic
 dev-ruby/watir-webdriver 0.6.9: WebDriver-backed Watir
 dev-ruby/webmock 1.9.3: Allows stubbing HTTP requests and setting expectations on HTTP requests
 dev-ruby/websocket 1.2.2: Universal Ruby library to handle WebSocket protocol
