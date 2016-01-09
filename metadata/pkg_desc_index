@@ -323,7 +323,7 @@ net-misc/tcpick 0.2.1-r1: A tcp stream sniffer, tracker and capturer.
 net-misc/voipong 2.0: tool for detecting all VoIP calls on a pipeline and dumps actual conversation to seperate wav files
 net-misc/warvox 1.0.1 1.0.1-r2 9999: VoIP war dialing suite of tools
 net-misc/wicd 1.7.2.4-r3 1.7.9999_p874: A lightweight wired and wireless network manager for Linux
-net-misc/wireshark-sap-plugin 0.2.3: Wireshark plugin for SAP's protocols
+net-misc/wireshark-sap-plugin 0.2.3 0.2.3_p20160108: Wireshark plugin for SAP's protocols
 net-misc/wlan2eth 0.1: Wlan2eth is a tool that converts wlan pcap to ethernet-like frames.
 net-proxy/burpsuite 1.6.01 1.6.32: an interactive HTTP/S proxy server for attacking and debugging web-enabled applications
 net-proxy/mallory 0.2.0_p20130109: An TCP/UDP transparent proxy that can be used to intercept network streams
