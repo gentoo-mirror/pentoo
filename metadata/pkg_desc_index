@@ -117,7 +117,6 @@ dev-python/intervaltree 9999: Editable interval tree data structure for Python 2
 dev-python/lxml 2.3.2: A Pythonic binding for the libxml2 and libxslt libraries
 dev-python/nassl 0.11 0.12: Experimental Python wrapper for OpenSSL
 dev-python/nltk 2.0.4: Natural Language Toolkit
-dev-python/ordereddict 0.4.6: a version of dict that keeps keys in insertion resp. sorted order
 dev-python/phply 0.9.1-r1 9999: Parser for PHP written using PLY
 dev-python/poster 0.8.1: Make HTTP POST/PUT with multipart/form-data encoding
 dev-python/pyaff4 9999: Python Advanced Forensic Format Version 4 library.
@@ -129,6 +128,7 @@ dev-python/pynetfilter_conntrack 0.4.2: Python binding of libnetfilter_conntrack
 dev-python/pyscard 9999: pyscard is a python module adding smart cards support to python.
 dev-python/python-ntlm 1.0.1: Clamd is a python interface to Clamd (Clamav daemon)
 dev-python/python-registry 1.0.4: A pure Python module that provides read access to Windows Registry files
+dev-python/ruamel-ordereddict 0.4.6: An ordered dictionary with KIO/KVIO
 dev-python/sortedcontainers 9999: Python Sorted Container Types: SortedList, SortedDict, and SortedSet
 dev-python/tblib 1.2.0: Traceback fiddling library
 dev-python/vulndb 0.0.19: Python SDK to access the vulnerability database
