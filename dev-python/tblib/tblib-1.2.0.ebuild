@@ -10,22 +10,22 @@ inherit distutils-r1
 
 DESCRIPTION="Traceback fiddling library"
 HOMEPAGE="https://github.com/ionelmc/python-tblib"
-                                                                                                                                                                                                                    
+
 if [[ ${PV} == "9999" ]] ; then
-    EGIT_REPO_URI="https://github.com/ionelmc/python-tblib" 
-    KEYWORDS=""
-    inherit git-r3                                                                                                                                                                                                  
+	EGIT_REPO_URI="https://github.com/ionelmc/python-tblib"
+	KEYWORDS=""
+	inherit git-r3
 else
-    SRC_URI="https://github.com/ionelmc/python-tblib/archive/v${PV}.tar.gz -> ${P}.tar.gz"
-    KEYWORDS="~amd64 ~x86"
+	SRC_URI="https://github.com/ionelmc/python-tblib/archive/v${PV}.tar.gz -> ${P}.tar.gz"
+	KEYWORDS="~amd64 ~x86"
 fi
 
-LICENSE="as-is"
+LICENSE="BSD"
 SLOT="0"
-KEYWORDS="~amd64"
+KEYWORDS="~amd64 ~x86"
 IUSE=""
 
-S=${WORKDIR}/python-${P}
+S="${WORKDIR}/python-${P}"
 
 DEPEND=""
 RDEPEND="${DEPEND}"
