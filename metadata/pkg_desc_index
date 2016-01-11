@@ -128,7 +128,7 @@ dev-python/pynetfilter_conntrack 0.4.2: Python binding of libnetfilter_conntrack
 dev-python/pyscard 9999: pyscard is a python module adding smart cards support to python.
 dev-python/python-ntlm 1.0.1: Clamd is a python interface to Clamd (Clamav daemon)
 dev-python/python-registry 1.0.4: A pure Python module that provides read access to Windows Registry files
-dev-python/ruamel-ordereddict 0.4.6: An ordered dictionary with KIO/KVIO
+dev-python/ruamel-ordereddict 0.4.9: An ordered dictionary with KIO/KVIO
 dev-python/sortedcontainers 9999: Python Sorted Container Types: SortedList, SortedDict, and SortedSet
 dev-python/tblib 1.2.0: Traceback fiddling library
 dev-python/vulndb 0.0.19: Python SDK to access the vulnerability database
@@ -292,7 +292,7 @@ net-analyzer/upnpwn 0.8.0-r1: UPNP pentesting tool and library
 net-analyzer/videojak 1.00 2.0: VideoJak is an IP Video security assessment tool
 net-analyzer/voiphopper 2.04 2.04-r1: VoIP Hopper is a tool that rapidly runs a VLAN Hop into the Voice VLAN
 net-analyzer/vomit 0.2c: Converts a Cisco IP phone conversation into a wav file
-net-analyzer/w3af 1.6.0.5-r2 1.6.54 9999: Web Application Attack and Audit Framework
+net-analyzer/w3af 1.6.0.5-r2 1.6.54-r1 9999: Web Application Attack and Audit Framework
 net-analyzer/waffit 9999: web application firewall (waf) scanner
 net-analyzer/wafp 9999: A webapplication fingerprinter written in ruby
 net-analyzer/wapiti 2.3.0_p20141111: Web application security auditor
