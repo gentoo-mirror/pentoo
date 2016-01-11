@@ -77,7 +77,6 @@ app-pda/libusbmuxd 1.0.10: USB multiplex daemon for use with Apple iPhone/iPod T
 app-pda/usbmuxd 1.1.0: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
 app-text/cewl 5.1: A custom word list generator
 app-text/mujs 20140925 20150108: An embeddable Javascript interpreter in C.
-app-text/pdfminer 20110515 20140328: Python tool for extracting information from PDF documents
 dev-db/absinthe 1.4.1: a gui-based tool for aiding in Blind SQL Injection
 dev-db/minimysqlator 05: Minimysqlator is a MySQL injection tools that facilitates the retrieval of DB and more
 dev-db/mssqlscan 0.8.4: A small multi-threaded tool that scans for Microsoft SQL Servers
