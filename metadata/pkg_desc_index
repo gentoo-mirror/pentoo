@@ -374,6 +374,7 @@ net-wireless/linux-wlan-ng-modules 0.2.5: Kernel modules for Prism2/2.5/3 based 
 net-wireless/morse2txt 1.0.0: Morse code decoder
 net-wireless/n4p 2.2-r1: Comprehensive Wireless and Network packet based hacking framework.Compare to Metasploit
 net-wireless/nfcd 9999: a daemon which access NFC Devices and Targets
+net-wireless/nfcpy 0.10.2: A tool to read/write NFC tags or communicate with another NFC device
 net-wireless/op25 9999: software-defined analyzer for APCO P25 signals
 net-wireless/pixiewps 1.1: Bruteforce offline the WPS pin exploiting the low or non-existing entropy
 net-wireless/prism54 20050724: Driver for Intersil Prism GT / Prism Duette wireless chipsets with injection patch
