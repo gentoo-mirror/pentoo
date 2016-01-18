@@ -130,6 +130,7 @@ dev-python/python-registry 1.0.4: A pure Python module that provides read access
 dev-python/ruamel-ordereddict 0.4.9: An ordered dictionary with KIO/KVIO
 dev-python/sortedcontainers 9999: Python Sorted Container Types: SortedList, SortedDict, and SortedSet
 dev-python/stopit 1.1.1: Timeout control decorator and context managers
+dev-python/symmetricjsonrpc 0.1.0: A more beautiful JSON-RPC implemenation in python
 dev-python/tblib 1.2.0: Traceback fiddling library
 dev-python/vulndb 0.0.19: Python SDK to access the vulnerability database
 dev-python/xdot 0.6: Interactive viewer for Graphviz dot files
