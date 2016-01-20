@@ -117,7 +117,7 @@ dev-python/intervaltree 9999: Editable interval tree data structure for Python 2
 dev-python/lxml 2.3.2: A Pythonic binding for the libxml2 and libxslt libraries
 dev-python/nassl 0.11 0.12: Experimental Python wrapper for OpenSSL
 dev-python/nltk 2.0.4: Natural Language Toolkit
-dev-python/pefile 1.2.10_p139: Module to read and work with Portable Executable (PE) files
+dev-python/pefile 1.2.10_p139-r1: Module to read and work with Portable Executable (PE) files
 dev-python/phply 0.9.1-r1 9999: Parser for PHP written using PLY
 dev-python/poster 0.8.1: Make HTTP POST/PUT with multipart/form-data encoding
 dev-python/pyaff4 9999: Python Advanced Forensic Format Version 4 library.
