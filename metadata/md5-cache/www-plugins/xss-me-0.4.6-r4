@@ -10,5 +10,5 @@ RDEPEND=!symlink_all_targets? ( target_firefox? ( www-client/firefox ) target_fi
 SLOT=0
 SRC_URI=http://addons.mozilla.org/downloads/file/148902 -> xss-me-0.4.6.xpi
 _eclass_exported_funcs=src_unpack:mozilla-addon src_install:mozilla-addon
-_eclasses_=eutils	7332d4dd366dcd51c0014dde21f21897	mozextension	3d8ee4835f89ff39d4666656aa603433	mozilla-addon	8d5d6700a00c98468e9e6c7269e50064	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_eclasses_=eutils	8982475656ba7ade9b3201397efbd612	mozextension	3d8ee4835f89ff39d4666656aa603433	mozilla-addon	8d5d6700a00c98468e9e6c7269e50064	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
 _md5_=06201a4ca28826600aa3b442795485d2

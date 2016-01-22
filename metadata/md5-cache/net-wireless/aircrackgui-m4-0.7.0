@@ -6,5 +6,5 @@ RDEPEND=>=x11-libs/qt-gui-4.7.3 >=x11-libs/qt-core-4.7.3 net-analyzer/macchanger
 SLOT=0
 SRC_URI=http://aircrackgui-m4.googlecode.com/files/aircrack-GUI-M4%200.7.0%20Final-Source.tar.bz2 -> aircrackgui-m4-0.7.0.tar.bz2
 _eclass_exported_funcs=src_unpack:qt4-r2 src_prepare:- src_configure:qt4-r2 src_compile:- src_install:-
-_eclasses_=base	3fe4f8980633fd7bc69e9887209ba2fe	eutils	7332d4dd366dcd51c0014dde21f21897	multilib	3972ca401cf7dbb430df9995f5d8d580	qmake-utils	0a242e7177789b0028b4045f336dd4db	qt4-r2	d6c113024bb3086a1facc65cd338930e	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_eclasses_=base	3fe4f8980633fd7bc69e9887209ba2fe	eutils	8982475656ba7ade9b3201397efbd612	multilib	3972ca401cf7dbb430df9995f5d8d580	qmake-utils	0a242e7177789b0028b4045f336dd4db	qt4-r2	d6c113024bb3086a1facc65cd338930e	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
 _md5_=d40891a8f985728e60b35da2049a8da9
