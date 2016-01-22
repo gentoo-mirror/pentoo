@@ -171,6 +171,7 @@ dev-ruby/mini_portile 0.5.3 0.6.2: Simplified way to compile against dependency 
 dev-ruby/mini_portile2 2.0.0: Simplistic port-like solution for developers
 dev-ruby/mongrel 1.1.5: A small fast HTTP library and server that runs Rails, Camping, Nitro and Iowa apps.
 dev-ruby/msfrpc-client 1.0.1: This gem provides a Ruby client API to access the Rapid7 Metasploit Pro RPC service
+dev-ruby/net-dns 0.8.0: Ruby DNS library, with a clean OO interface and an extensible API
 dev-ruby/nio4r 1.0.1: A high performance selector API for monitoring IO objects
 dev-ruby/nokogiri 1.6.6.2-r1: Nokogiri is an HTML, XML, SAX, and Reader parser
 dev-ruby/oj 2.12.14 2.14.2: The fastest JSON parser and object serializer
@@ -222,7 +223,7 @@ net-analyzer/armitage 9999 20141129 20150813: Cyber Attack Management for Metasp
 net-analyzer/armitage-bin 20140818 20141120 20150813: Cyber Attack Management for Metasploit
 net-analyzer/arpantispoofer 1.0.1.32: An utility to detect and resist arp spoofing
 net-analyzer/autoscan-network 1.50: Utility for network exploration with Samba support.
-net-analyzer/bettercap 1.1.7: A complete, modular, portable and easily extensible MITM framework
+net-analyzer/bettercap 1.1.7 1.2.4: A complete, modular, portable and easily extensible MITM framework
 net-analyzer/blindelephant 9999: generic web application fingerprinter that produces results by examining a small set of static files
 net-analyzer/bonesi 9999: BoNeSi - the DDoS Botnet Simulator
 net-analyzer/bro 2.2 2.3 2.3.1: a advanced intrusion detection system
