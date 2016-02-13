@@ -21,7 +21,7 @@ app-fuzz/spike 2.9-r1: A generic network fuzzer
 app-fuzz/taof 0.3.2: A generic fuzzer framework
 pentoo/pentoo 2014.3-r1 2015.1: Pentoo meta ebuild to install all apps
 pentoo/pentoo-analyzer 2016.0: Pentoo analyzers meta ebuild
-pentoo/pentoo-bluetooth 2014.3: Pentoo bluetooth meta ebuild
+pentoo/pentoo-bluetooth 2015.3: Pentoo bluetooth meta ebuild
 pentoo/pentoo-cinnamon 2012.0: Pentoo cinnamon meta ebuild
 pentoo/pentoo-cracking 2015.4-r3: Pentoo cracking meta ebuild
 pentoo/pentoo-database 2015.3-r1: Pentoo database attack meta ebuild
