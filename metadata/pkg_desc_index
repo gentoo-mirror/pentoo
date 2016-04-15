@@ -2,7 +2,7 @@ app-exploits/exploitdb 9999: All exploits from exploit-db.com
 app-exploits/packetstormexploits 2012.13 2013.13 2014.13 2015.05: Archive of packetstorm exploits
 app-exploits/packetstormexploits-meta 2000: Meta ebuild of packetstorm exploits
 app-exploits/shellstorm 9999: Search and display all shellcodes in shell-storm database.
-app-exploits/weevely 1.1: Weevely is a stealth PHP web shell that simulate telnet-like console
+app-exploits/weevely 3.2.0: Weevely is a stealth PHP web shell that simulate telnet-like console
 app-fuzz/Peach 1.0: A generic fuzzer framework
 app-fuzz/bed 0.5: BED is a multi-protocol fuzzer written in perl
 app-fuzz/bss 0.8-r1: Bluetooth stack smasher / fuzzer
