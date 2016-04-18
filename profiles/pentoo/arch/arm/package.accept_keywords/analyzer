@@ -1,3 +1,5 @@
+~dev-perl/Crypt-Rijndael-1.130.0
+~dev-perl/Regexp-IPv6-0.30.0 **
 dev-perl/Net-Whois-IP ~amd64
 dev-perl/Unix-Syslog amd64
 net-analyzer/gnome-nettool amd64
@@ -45,3 +47,4 @@ net-analyzer/wireshark
 =net-nds/jxplorer-3.2-r2 ~arm
 <net-analyzer/dnsrecon-99999999 **
 <net-analyzer/sslyze-9999 **
+~net-analyzer/ipv6-toolkit-1.4.1 **
