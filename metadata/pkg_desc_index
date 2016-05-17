@@ -20,12 +20,12 @@ app-fuzz/snmp-fuzzer 0.1.1: A very complete snmp fuzzer
 app-fuzz/spike 2.9-r1: A generic network fuzzer
 app-fuzz/taof 0.3.2: A generic fuzzer framework
 pentoo/pentoo 2014.3-r1 2015.1: Pentoo meta ebuild to install all apps
-pentoo/pentoo-analyzer 2016.0: Pentoo analyzers meta ebuild
+pentoo/pentoo-analyzer 2016.1: Pentoo analyzers meta ebuild
 pentoo/pentoo-bluetooth 2015.3: Pentoo bluetooth meta ebuild
 pentoo/pentoo-cinnamon 2012.0: Pentoo cinnamon meta ebuild
 pentoo/pentoo-cracking 2015.4-r3: Pentoo cracking meta ebuild
 pentoo/pentoo-database 2015.3-r1: Pentoo database attack meta ebuild
-pentoo/pentoo-desktop 2016.1: Pentoo meta ebuild to install all X and WM/DE related things
+pentoo/pentoo-desktop 2016.2: Pentoo meta ebuild to install all X and WM/DE related things
 pentoo/pentoo-exploit 2015.4-r2: Pentoo exploit meta ebuild
 pentoo/pentoo-footprint 2013.0 2014.0 2016.0: Pentoo footprint meta ebuild
 pentoo/pentoo-forensics 2015.0: Pentoo forensics meta ebuild
