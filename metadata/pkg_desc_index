@@ -23,7 +23,7 @@ pentoo/pentoo 2014.3-r1 2015.1: Pentoo meta ebuild to install all apps
 pentoo/pentoo-analyzer 2016.1: Pentoo analyzers meta ebuild
 pentoo/pentoo-bluetooth 2015.3: Pentoo bluetooth meta ebuild
 pentoo/pentoo-cinnamon 2012.0: Pentoo cinnamon meta ebuild
-pentoo/pentoo-cracking 2015.4-r3: Pentoo cracking meta ebuild
+pentoo/pentoo-cracking 2016.0: Pentoo cracking meta ebuild
 pentoo/pentoo-database 2015.3-r1: Pentoo database attack meta ebuild
 pentoo/pentoo-desktop 2016.2: Pentoo meta ebuild to install all X and WM/DE related things
 pentoo/pentoo-exploit 2015.4-r2: Pentoo exploit meta ebuild
@@ -44,6 +44,6 @@ pentoo/pentoo-rce 2014.1: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2014.0: Pentoo scanner meta ebuild
 pentoo/pentoo-system 2016.2-r1: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2014.3: Pentoo voip meta ebuild
-pentoo/pentoo-wireless 2015.3-r1: Pentoo wireless meta ebuild
+pentoo/pentoo-wireless 2016.0: Pentoo wireless meta ebuild
 pentoo/tribe 2012.0: Tribe meta ebuild
 pentoo/zero-system 9999: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
