@@ -1,6 +1,6 @@
-# Copyright 1999-2015 Gentoo Foundation
+# Copyright 1999-2016 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header: $
+# $Id$
 
 EAPI="5"
 
@@ -18,14 +18,17 @@ RDEPEND="${DEPEND}
 	app-crypt/johntheripper
 	net-analyzer/hydra
 	net-analyzer/medusa
+	!app-crypt/pyrit
 
 	!minipentoo? (
 		!arm? ( app-crypt/chntpw
 		    app-crypt/hashcat-gui
 		)
 		!livecd-stage1? (
-			video_cards_nvidia? ( opencl? ( app-crypt/pyrit )
-						cuda? ( app-crypt/pyrit ) )
+			video_cards_nvidia? (
+				opencl? ( net-wireless/pyrit[opencl] )
+				cuda? ( net-wireless/pyrit[cuda] )
+			)
 		)
 		dict? ( app-dicts/raft-wordlists
 			app-misc/crunch )
@@ -46,4 +49,3 @@ RDEPEND="${DEPEND}
 
 #bad cert
 #		net-analyzer/thc-pptp-bruter
-

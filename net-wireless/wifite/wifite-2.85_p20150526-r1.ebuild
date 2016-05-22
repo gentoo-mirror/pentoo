@@ -1,6 +1,6 @@
-# Copyright 1999-2015 Gentoo Foundation
+# Copyright 1999-2016 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header: $
+# $Id$
 
 EAPI=5
 
@@ -21,7 +21,8 @@ DEPEND=""
 RDEPEND="net-wireless/aircrack-ng
 	dev-python/pexpect
 	dict? ( sys-apps/cracklib-words )
-	extra? ( app-crypt/pyrit[cuda?]
+	!app-crypt/pyrit
+	extra? ( net-wireless/pyrit[cuda?]
 		net-wireless/cowpatty
 		net-analyzer/macchanger
 		net-wireless/reaver-wps-fork-t6x
