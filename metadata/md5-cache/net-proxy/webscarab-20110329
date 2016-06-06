@@ -1,0 +1,11 @@
+DEFINED_PHASES=install postinst unpack
+DESCRIPTION=A framework for analysing applications that communicate using the HTTP and HTTPS protocols
+EAPI=3
+HOMEPAGE=http://www.owasp.org/software/webscarab.html
+KEYWORDS=~amd64 ~ppc ~x86
+LICENSE=GPL-2
+RDEPEND=|| ( virtual/jre virtual/jdk )
+SLOT=0
+SRC_URI=http://dawes.za.net/rogan/webscarab/webscarab-one-20110329-1330.jar
+_eclass_exported_funcs=pkg_postinst:- src_unpack:- src_install:-
+_md5_=483d1410a8cfe0e059a5a72a49090cc0

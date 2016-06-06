@@ -1,0 +1,11 @@
+DEFINED_PHASES=install prepare
+DEPEND=>=sci-libs/itpp-4.3.1 media-libs/libsndfile sci-libs/fftw:3.0
+DESCRIPTION=Digital Speech Decoder
+EAPI=5
+HOMEPAGE=https://github.com/szechyjs/dsd
+KEYWORDS=~amd64 ~x86
+LICENSE=bsd
+SLOT=0
+SRC_URI=https://github.com/szechyjs/dsd/archive/v1.6.0.tar.gz -> dsd-1.6.0.tar.gz
+_eclass_exported_funcs=src_prepare:- src_install:-
+_md5_=01e599a3b7c77d4fb10eb62ba80c3ba9

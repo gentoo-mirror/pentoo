@@ -1,0 +1,14 @@
+DEFINED_PHASES=compile configure install prepare setup test unpack
+DEPEND=>=dev-lang/python-2.7.5-r2:2.7 >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_jython2_7(-),-python_single_target_pypy(-),-python_single_target_pypy3(-),-python_single_target_python3_3(-),-python_single_target_python3_4(-),-python_single_target_python3_5(-),python_single_target_python2_7(+)] >=dev-vcs/git-1.8.2.1
+DESCRIPTION=Framework and Tools for Attacking ZigBee and IEEE 802.15.4 networks
+EAPI=5
+HOMEPAGE=https://github.com/riverloopsec/killerbee
+IUSE=python_targets_python2_7
+KEYWORDS=-* ~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=dev-python/pyserial dev-python/pyusb dev-python/pycrypto dev-python/pygtk dev-python/pycairo >=dev-lang/python-2.7.5-r2:2.7 >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_jython2_7(-),-python_single_target_pypy(-),-python_single_target_pypy3(-),-python_single_target_python3_3(-),-python_single_target_python3_4(-),-python_single_target_python3_5(-),python_single_target_python2_7(+)]
+REQUIRED_USE=python_targets_python2_7
+SLOT=0
+_eclass_exported_funcs=pkg_setup:python-single-r1 src_unpack:git-r3 src_prepare:distutils-r1 src_configure:distutils-r1 src_compile:distutils-r1 src_test:distutils-r1 src_install:distutils-r1
+_eclasses_=distutils-r1	3a17743abcc9335483329f33c87b472d	eutils	792f83d5ec9536cb5ccef375469d8bde	git-r3	00f60a84fc7b499c99edfe99caea9f95	multilib	d062ae4ba2fc40a19c11de2ad89b6616	python-single-r1	2ebea8fbab356d63110245129a67a6dd	python-utils-r1	13d5b02ea59b21da41c77c9294f3b7f7	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_md5_=8453243d9a0107e90e5554a05913cdfb

@@ -1,0 +1,11 @@
+DEFINED_PHASES=install
+DEPEND=net-analyzer/ettercap
+DESCRIPTION=VideoJak is an IP Video security assessment tool
+EAPI=2
+HOMEPAGE=http://videojak.sourceforge.net/
+LICENSE=GPL-2
+RDEPEND=net-analyzer/ettercap
+SLOT=0
+SRC_URI=mirror://sourceforge/videojak/videojak-2.0.tar.gz
+_eclass_exported_funcs=src_install:-
+_md5_=fbc8946941f2463931a59751baad34ab

@@ -1,0 +1,14 @@
+DEFINED_PHASES=install postinst
+DEPEND=dev-ruby/rake dev-ruby/sqlite3 dev-ruby/rubygems mysql? ( dev-ruby/mysql-ruby )
+DESCRIPTION=A framework for effective information sharing
+EAPI=2
+HOMEPAGE=http://dradisframework.org/
+IUSE=mysql
+KEYWORDS=~x86 ~amd64
+LICENSE=GPL-2
+RDEPEND=dev-ruby/rake dev-ruby/sqlite3 dev-ruby/rubygems mysql? ( dev-ruby/mysql-ruby )
+SLOT=0
+SRC_URI=mirror://sourceforge/dradis/dradis-v2.5.2.tar.bz2
+_eclass_exported_funcs=pkg_postinst:- src_install:-
+_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_md5_=93a7bf1d3094d0adbbf551c4b0ffd04a

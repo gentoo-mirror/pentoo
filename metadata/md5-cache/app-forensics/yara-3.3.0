@@ -1,0 +1,14 @@
+DEFINED_PHASES=prepare
+DEPEND=!<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DESCRIPTION=A malware identification and classification tool
+EAPI=5
+HOMEPAGE=http://plusvic.github.io/yara/
+IUSE=python
+KEYWORDS=~amd64 ~x86
+LICENSE=Apache-2.0
+PDEPEND=python? ( ~dev-python/yara-python-3.3.0 )
+SLOT=0
+SRC_URI=https://github.com/plusvic/yara/archive/v3.3.0.tar.gz -> yara-3.3.0.tar.gz
+_eclass_exported_funcs=src_prepare:-
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	libtool	4890219c51da247200223277f993e054	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_md5_=19aaf3dca7fa2b6c85fe53541656df43

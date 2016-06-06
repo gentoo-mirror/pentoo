@@ -1,0 +1,14 @@
+DEFINED_PHASES=compile configure install postinst postrm preinst prepare unpack
+DEPEND=net-analyzer/nmap gnome? ( >=gnome-base/libgnomeui-2.0 >=gnome-base/gnome-keyring-0.4.2 ) samba? ( net-fs/samba ) gtk? ( >=x11-libs/gtk+-2.6.0 >=gnome-extra/gtkhtml-2.0 >=gnome-base/gnome-vfs-2.8.4 >=x11-libs/pango-1.8.1 ) vnc? ( >=net-libs/gtk-vnc-0.2.0 ) console? ( >=x11-libs/vte-0.11.12 ) sound? ( >=media-libs/libao-0.8.5 >=media-libs/libvorbis-1.1.0 ) nessus? ( net-analyzer/nessus ) snmp? ( >=net-analyzer/net-snmp-5.0 ) >=dev-libs/glib-2.6.3 dev-libs/libelf virtual/pkgconfig app-arch/xz-utils >=sys-apps/sed-4 dev-util/desktop-file-utils x11-misc/shared-mime-info
+DESCRIPTION=Utility for network exploration with Samba support.
+EAPI=5
+HOMEPAGE=http://autoscan-network.com/
+IUSE=snmp samba nessus trayicon gtk gnome vnc +console sound debug
+KEYWORDS=~x86
+LICENSE=GPL-2
+RDEPEND=net-analyzer/nmap gnome? ( >=gnome-base/libgnomeui-2.0 >=gnome-base/gnome-keyring-0.4.2 ) samba? ( net-fs/samba ) gtk? ( >=x11-libs/gtk+-2.6.0 >=gnome-extra/gtkhtml-2.0 >=gnome-base/gnome-vfs-2.8.4 >=x11-libs/pango-1.8.1 ) vnc? ( >=net-libs/gtk-vnc-0.2.0 ) console? ( >=x11-libs/vte-0.11.12 ) sound? ( >=media-libs/libao-0.8.5 >=media-libs/libvorbis-1.1.0 ) nessus? ( net-analyzer/nessus ) snmp? ( >=net-analyzer/net-snmp-5.0 ) >=dev-libs/glib-2.6.3 dev-libs/libelf
+SLOT=0
+SRC_URI=http://autoscan-network.com/download_files/autoscan-network-1.50.tar.gz
+_eclass_exported_funcs=pkg_preinst:gnome2 pkg_postrm:gnome2 pkg_postinst:gnome2 src_unpack:gnome2 src_prepare:- src_configure:- src_compile:- src_install:gnome2
+_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	gnome.org	ad34f378a3d57a6f2f2b8b4aaca4543e	gnome2	21c81ea94c12e45a63f7f14fba666e3d	gnome2-utils	c6dcdf3a2c22b578b16adb945dc85c35	libtool	4890219c51da247200223277f993e054	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	d513d423d449877e49d99af3f7af7acb	versionator	99ae9d758cbe7cfed19170e7d48f5a9c	xdg	a5c4c5ce4f5ce9a2e777f5d9a40a8723	xdg-utils	e2b2bd56125ce8cf59ce30c642b59d48
+_md5_=3fa0d82564629310d9f6e33dc1a0703a

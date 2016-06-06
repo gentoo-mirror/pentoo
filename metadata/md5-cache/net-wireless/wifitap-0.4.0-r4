@@ -1,0 +1,13 @@
+DEFINED_PHASES=install postinst postrm
+DEPEND=<net-analyzer/scapy-2.0 dev-python/gnuplot-py dev-python/pyx
+DESCRIPTION=A wireless tool to do direct connection to client without passing through an AP
+EAPI=0
+HOMEPAGE=http://sid.rstack.org/index.php/Wifitap_EN
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=<net-analyzer/scapy-2.0 dev-python/gnuplot-py dev-python/pyx
+SLOT=0
+SRC_URI=http://sid.rstack.org/code/wifitap/wifitap-0.4.0.tgz
+_eclass_exported_funcs=pkg_postrm:- pkg_postinst:- src_install:-
+_eclasses_=multilib	d062ae4ba2fc40a19c11de2ad89b6616	python	efc1c55fc44c5b7272fc2ffba73c3e6f	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_md5_=f0ef5d3918f11aad4a052edea8ac3987

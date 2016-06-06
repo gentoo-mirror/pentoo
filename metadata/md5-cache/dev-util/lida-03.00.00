@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install prepare
+DESCRIPTION=interactive ELF disambler
+EAPI=2
+HOMEPAGE=http://lida.sourceforge.net/
+KEYWORDS=~amd64
+LICENSE=GPL-1
+RDEPEND=dev-perl/perl-tk
+RESTRICT=strip
+SLOT=0
+SRC_URI=mirror://sourceforge/lida/lida-03.00.00.tgz mirror://sourceforge/bastard/libdisasm-0.16.tgz
+_eclass_exported_funcs=src_prepare:- src_compile:- src_install:-
+_md5_=648252384ee06c9918bca0cd25ba12ac

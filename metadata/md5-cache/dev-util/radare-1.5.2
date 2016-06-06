@@ -1,0 +1,14 @@
+DEFINED_PHASES=compile configure install prepare setup unpack
+DEPEND=dev-lang/python dev-lang/perl ewf? ( app-forensics/libewf ) gtk? ( x11-libs/gtk+:2 x11-libs/vte ) lua? ( dev-lang/lua ) readline? ( sys-libs/readline ) virtual/pkgconfig vala? ( >=dev-lang/vala-0.5:0 )
+DESCRIPTION=Advanced command line hexadecimail editor and more
+EAPI=3
+HOMEPAGE=http://www.radare.org
+IUSE=gtk lua readline vala ewf
+KEYWORDS=~x86 ~amd64
+LICENSE=GPL-2
+RDEPEND=dev-lang/python dev-lang/perl ewf? ( app-forensics/libewf ) gtk? ( x11-libs/gtk+:2 x11-libs/vte ) lua? ( dev-lang/lua ) readline? ( sys-libs/readline )
+SLOT=0
+SRC_URI=http://www.radare.org/get/radare-1.5.2.tar.gz
+_eclass_exported_funcs=pkg_setup:- src_unpack:base src_prepare:- src_configure:- src_compile:- src_install:-
+_eclasses_=base	3fe4f8980633fd7bc69e9887209ba2fe	eutils	792f83d5ec9536cb5ccef375469d8bde	flag-o-matic	d270fa247153df66074f795fa42dba3e	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_md5_=e3d5a09cd7335fe87ac30633228d72c7

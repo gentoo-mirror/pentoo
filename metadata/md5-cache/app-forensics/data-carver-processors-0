@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile install
+DEPEND=sys-apps/file media-gfx/imagemagick media-libs/exiftool stego? ( app-forensics/stegdetect ) mplayer? ( media-video/mplayer )
+DESCRIPTION=Data carving analysis for JPEG, PDF and Videos
+EAPI=2
+HOMEPAGE=http://www.citadelsystems.net/index.php/forensics-tools/34-data-carver/56-data-carver-processors
+IUSE=mplayer +stego
+KEYWORDS=~x86
+LICENSE=GPL-2
+RDEPEND=sys-apps/file media-gfx/imagemagick media-libs/exiftool stego? ( app-forensics/stegdetect ) mplayer? ( media-video/mplayer )
+SLOT=0
+SRC_URI=http://www.citadelsystems.net/downloads/data_carver_processors.tar.gz
+_eclass_exported_funcs=src_compile:- src_install:-
+_md5_=224c4502b312afc0fb8272d7d69a67bd

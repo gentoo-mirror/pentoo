@@ -1,0 +1,15 @@
+DEFINED_PHASES=compile configure install postinst postrm preinst prepare setup
+DEPEND=!net-wireless/compat-wireless-builder !net-wireless/compat-wireless kernel_linux? ( virtual/modutils ) sys-apps/sed kernel_linux? ( virtual/linux-sources )
+DESCRIPTION=Stable kernel pre-release wifi subsystem backport
+EAPI=5
+HOMEPAGE=http://backports.wiki.kernel.org
+IUSE=atheros_obey_crda debugfs debug-driver full-debug injection livecd loadmodules noleds pax_kernel kernel_linux +build-all-modules compat_drivers_wifi_ath5k compat_drivers_wifi_ath9k compat_drivers_wifi_ath9k_ap compat_drivers_wifi_ath9k_htc compat_drivers_wifi_ath6kl compat_drivers_wifi_b43 compat_drivers_wifi_brcmsmac compat_drivers_wifi_brcmfmac compat_drivers_wifi_carl9170 compat_drivers_wifi_rt2x00 compat_drivers_wifi_wil6210 compat_drivers_wifi_wl1251 compat_drivers_wifi_wl12xx compat_drivers_wifi_zd1211rw compat_drivers_ethernet_alx compat_drivers_ethernet_atl1 compat_drivers_ethernet_atl1c compat_drivers_ethernet_atl1e compat_drivers_ethernet_atl2 compat_drivers_various_i915
+LICENSE=GPL-2
+RDEPEND=!net-wireless/compat-wireless-builder !net-wireless/compat-wireless >=sys-kernel/linux-firmware-20110219 virtual/udev kernel_linux? ( virtual/modutils )
+REQUIRED_USE=|| ( compat_drivers_wifi_ath5k build-all-modules compat_drivers_wifi_ath9k build-all-modules compat_drivers_wifi_ath9k_ap build-all-modules compat_drivers_wifi_ath9k_htc build-all-modules compat_drivers_wifi_ath6kl build-all-modules compat_drivers_wifi_b43 build-all-modules compat_drivers_wifi_brcmsmac build-all-modules compat_drivers_wifi_brcmfmac build-all-modules compat_drivers_wifi_carl9170 build-all-modules compat_drivers_wifi_rt2x00 build-all-modules compat_drivers_wifi_wil6210 build-all-modules compat_drivers_wifi_wl1251 build-all-modules compat_drivers_wifi_wl12xx build-all-modules compat_drivers_wifi_zd1211rw build-all-modules compat_drivers_ethernet_alx build-all-modules compat_drivers_ethernet_atl1 build-all-modules compat_drivers_ethernet_atl1c build-all-modules compat_drivers_ethernet_atl1e build-all-modules compat_drivers_ethernet_atl2 build-all-modules compat_drivers_various_i915 build-all-modules )
+RESTRICT=strip
+SLOT=0
+SRC_URI=mirror://kernel/linux/kernel/projects/backports/stable/v3.8/compat-drivers-3.8-1-u.tar.xz
+_eclass_exported_funcs=pkg_preinst:linux-mod pkg_postrm:- pkg_postinst:- pkg_setup:- src_prepare:- src_configure:compat-drivers-3.8-r1 src_compile:- src_install:-
+_eclasses_=compat-drivers-3.8-r1	d0af8c330696c5669e8df1c15328e3b1	eutils	792f83d5ec9536cb5ccef375469d8bde	linux-info	fd1e29abbb02cbc49f1a14299846e9c4	linux-mod	4755518412586c2fd655ff6e55780bcb	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	d513d423d449877e49d99af3f7af7acb	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_md5_=622279293a8095cf01631015e51f9915

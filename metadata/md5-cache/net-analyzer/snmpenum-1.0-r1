@@ -1,0 +1,12 @@
+DEFINED_PHASES=configure install
+DESCRIPTION=A perl script to enumerate SNMP table dumper
+EAPI=5
+HOMEPAGE=http://packetstormsecurity.org
+KEYWORDS=amd64 x86
+LICENSE=GPL-2
+RDEPEND=dev-perl/Net-SNMP
+SLOT=0
+SRC_URI=https://dl.packetstormsecurity.net/UNIX/scanners/snmpenum.zip
+_eclass_exported_funcs=src_configure:- src_install:-
+_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_md5_=e61d19e9d0c5c2dba0a9b2cb9c02bf49

@@ -1,0 +1,14 @@
+DEFINED_PHASES=install postinst unpack
+DEPEND=app-arch/unzip
+DESCRIPTION=Firefox extension to block annoying ads automatically, no distractions.
+EAPI=5
+HOMEPAGE=http://adblockplus.org/en/firefox
+IUSE=+symlink_all_targets target_firefox target_thunderbird target_seamonkey target_firefox-bin target_thunderbird-bin target_seamonkey-bin
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=!symlink_all_targets? ( target_firefox? ( www-client/firefox ) target_firefox-bin? ( www-client/firefox-bin ) target_seamonkey? ( www-client/seamonkey ) target_seamonkey-bin? ( www-client/seamonkey-bin ) target_thunderbird? ( mail-client/thunderbird ) target_thunderbird-bin? ( mail-client/thunderbird-bin ) )
+SLOT=0
+SRC_URI=http://addons.mozilla.org/downloads/latest/1865 -> adblock_plus-9999.xpi
+_eclass_exported_funcs=pkg_postinst:- src_unpack:mozilla-addon src_install:mozilla-addon
+_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	mozextension	3d8ee4835f89ff39d4666656aa603433	mozilla-addon	8d5d6700a00c98468e9e6c7269e50064	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_md5_=2cfcc6a68c7602841392727c3d8ce2f0

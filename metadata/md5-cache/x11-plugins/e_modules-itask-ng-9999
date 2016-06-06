@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile configure install preinst prepare unpack
+DEPEND=>=x11-wm/enlightenment-9999 || ( dev-vcs/subversion[http] dev-vcs/subversion[webdav-neon] dev-vcs/subversion[webdav-serf] ) net-misc/rsync !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4 doc? ( app-doc/doxygen )
+DESCRIPTION=Itask NG Module for E17
+EAPI=2
+HOMEPAGE=http://www.enlightenment.org/
+IUSE=nls doc
+LICENSE=BSD
+RDEPEND=>=x11-wm/enlightenment-9999 nls? ( sys-devel/gettext )
+SLOT=0
+_eclass_exported_funcs=pkg_preinst:subversion src_unpack:enlightenment src_prepare:enlightenment src_configure:enlightenment src_compile:enlightenment src_install:enlightenment
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	enlightenment	c185b1fa0d87798fd07fb1cd85866b23	eutils	792f83d5ec9536cb5ccef375469d8bde	libtool	4890219c51da247200223277f993e054	multilib	d062ae4ba2fc40a19c11de2ad89b6616	subversion	4fee0a764150bb4dda27ed4d2c4ed7ce	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_md5_=109b1f8a759ba10898d02e0761804f18

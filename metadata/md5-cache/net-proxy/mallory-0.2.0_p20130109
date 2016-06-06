@@ -1,0 +1,14 @@
+DEFINED_PHASES=install prepare setup
+DEPEND=dev-python/pynetfilter_conntrack dev-python/m2crypto dev-python/twisted-web dev-python/pyasn1 dev-python/paramiko dev-python/pillow
+DESCRIPTION=An TCP/UDP transparent proxy that can be used to intercept network streams
+EAPI=5
+HOMEPAGE=https://intrepidusgroup.com/insight/mallory/
+IUSE=python_targets_python2_7
+KEYWORDS=~amd64 ~arm ~x86
+LICENSE=GPL-2
+RDEPEND=dev-python/pynetfilter_conntrack dev-python/m2crypto dev-python/twisted-web dev-python/pyasn1 dev-python/paramiko dev-python/pillow
+SLOT=0
+SRC_URI=https://bitbucket.org/IntrepidusGroup/mallory/get/tip.tar.bz2 -> mallory-0.2.0_p20130109.tar.bz2
+_eclass_exported_funcs=pkg_setup:python-single-r1 src_prepare:- src_install:-
+_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	d062ae4ba2fc40a19c11de2ad89b6616	python-single-r1	2ebea8fbab356d63110245129a67a6dd	python-utils-r1	13d5b02ea59b21da41c77c9294f3b7f7	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_md5_=7bf9f381fc5cc78b8238573c11529a6b

@@ -1,0 +1,10 @@
+DEFINED_PHASES=install prepare
+DESCRIPTION=Toggles touchpads on/off. Supports Synaptics and Elantech touchpads
+EAPI=4
+HOMEPAGE=http://pentoo.ch
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=|| ( x11-drivers/xf86-input-synaptics x11-apps/xinput )
+SLOT=0
+_eclass_exported_funcs=src_prepare:- src_install:-
+_md5_=10f876ac088327d633ff3a7db279d0f1

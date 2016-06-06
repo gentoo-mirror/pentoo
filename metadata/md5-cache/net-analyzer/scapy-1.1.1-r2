@@ -1,0 +1,14 @@
+DEFINED_PHASES=install postinst postrm prepare
+DEPEND=dev-lang/python
+DESCRIPTION=A Python interactive packet manipulation program for mastering the network
+EAPI=3
+HOMEPAGE=http://www.secdev.org/projects/scapy/
+IUSE=gnuplot pyx crypt graphviz imagemagick visual tcpreplay
+KEYWORDS=amd64 x86
+LICENSE=GPL-2
+RDEPEND=net-analyzer/tcpdump gnuplot? ( dev-python/gnuplot-py ) pyx? ( dev-python/pyx ) crypt? ( dev-python/pycrypto ) graphviz? ( media-gfx/graphviz ) imagemagick? ( || ( media-gfx/imagemagick media-gfx/graphicsmagick[imagemagick] ) ) visual? ( dev-python/visual ) tcpreplay? ( net-analyzer/tcpreplay )
+SLOT=0
+SRC_URI=http://www.secdev.org/projects/scapy/files/scapy-1.1.1.tar.gz
+_eclass_exported_funcs=pkg_postrm:- pkg_postinst:- src_prepare:- src_install:-
+_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	d062ae4ba2fc40a19c11de2ad89b6616	python	efc1c55fc44c5b7272fc2ffba73c3e6f	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_md5_=2c4fd28be1bf4b7a836e725046e6f741

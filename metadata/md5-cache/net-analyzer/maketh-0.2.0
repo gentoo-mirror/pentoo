@@ -1,0 +1,10 @@
+DEFINED_PHASES=install
+DESCRIPTION=Ethernet packet injector and creator
+EAPI=2
+HOMEPAGE=http://simpp-kode.tuxfamily.org/maketh/index.html
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+SLOT=0
+SRC_URI=http://packetstorm.wowhacker.com/UNIX/scanners/maketh-0.2.0.tar.gz
+_eclass_exported_funcs=src_install:-
+_md5_=b9aa22021910de286e6eb4553cc9983a

@@ -1,0 +1,12 @@
+DEFINED_PHASES=install
+DEPEND=dev-libs/libdnet net-libs/libpcap dev-libs/libnl
+DESCRIPTION=a highly flexible packet generator
+EAPI=3
+HOMEPAGE=http://sourceforge.net/projects/hyenae/
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=dev-libs/libdnet net-libs/libpcap dev-libs/libnl
+SLOT=0
+SRC_URI=mirror://sourceforge/hyenae/hyenae-0.36-1.tar.gz
+_eclass_exported_funcs=src_install:-
+_md5_=22afa34c8093653664f9654380176918

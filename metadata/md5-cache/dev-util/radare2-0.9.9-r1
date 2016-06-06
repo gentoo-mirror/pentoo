@@ -1,0 +1,14 @@
+DEFINED_PHASES=configure prepare
+DEPEND=capstone? ( >dev-util/capstone-2.1.2:= ) !dev-util/radare2-capstone ssl? ( dev-libs/openssl:= ) virtual/pkgconfig
+DESCRIPTION=Advanced command line hexadecimal editor and more
+EAPI=5
+HOMEPAGE=http://www.radare.org
+IUSE=+capstone debug ssl
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=capstone? ( >dev-util/capstone-2.1.2:= ) !dev-util/radare2-capstone ssl? ( dev-libs/openssl:= )
+SLOT=0
+SRC_URI=https://github.com/radare/radare2/archive/0.9.9.tar.gz -> radare2-0.9.9.tar.gz
+_eclass_exported_funcs=src_prepare:- src_configure:-
+_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_md5_=e3c1401c3b3a79bfb353a919dbea11a4

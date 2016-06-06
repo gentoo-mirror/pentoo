@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install prepare unpack
+DEPEND=dev-libs/openssl dev-vcs/git
+DESCRIPTION=SSLScan determines what ciphers are supported on SSL-based services.
+EAPI=3
+HOMEPAGE=https://github.com/ioerror/sslscan
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=dev-libs/openssl
+SLOT=0
+_eclass_exported_funcs=src_unpack:git-2 src_prepare:- src_compile:- src_install:-
+_eclasses_=git-2	672c3929a162f221a53b4ccb4d25d8a2	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_md5_=2780934fcef3517737c091e20f1afe0e

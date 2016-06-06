@@ -1,0 +1,9 @@
+DEFINED_PHASES=setup
+DESCRIPTION=Virtual for nv/ati/intel opencl SDK
+EAPI=4
+IUSE=video_cards_intel video_cards_fglrx video_cards_nvidia
+KEYWORDS=amd64 x86
+RDEPEND=app-eselect/eselect-opencl video_cards_intel? ( dev-util/intel-ocl-sdk ) video_cards_fglrx? ( dev-util/ati-app-sdk-bin ) video_cards_nvidia? ( >=dev-util/nvidia-cuda-sdk-3.0[opencl] )
+SLOT=0
+_eclass_exported_funcs=pkg_setup:-
+_md5_=511d1ab0174f36de82ba459d5e7226db

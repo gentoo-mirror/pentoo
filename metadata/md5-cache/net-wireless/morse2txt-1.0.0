@@ -1,0 +1,12 @@
+DEFINED_PHASES=-
+DEPEND=dev-libs/atk dev-libs/glib gnome-base/libgnome gnome-base/libgnomeui sci-libs/gsl x11-libs/gdk-pixbuf x11-libs/gtk+
+DESCRIPTION=Morse code decoder
+EAPI=5
+HOMEPAGE=http://morse2txt.sourceforge.net/
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=dev-libs/atk dev-libs/glib gnome-base/libgnome gnome-base/libgnomeui sci-libs/gsl x11-libs/gdk-pixbuf x11-libs/gtk+
+SLOT=0
+SRC_URI=mirror://sourceforge/morse2txt/morse2txt-1.0.0.tar.gz
+_eclass_exported_funcs=-
+_md5_=15ef2ba5e81e6517e85f269308ae233c

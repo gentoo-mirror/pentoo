@@ -1,0 +1,14 @@
+DEFINED_PHASES=install unpack
+DEPEND=app-arch/unzip
+DESCRIPTION=Extension for Firefox and other apps to manage any sqlite database
+EAPI=5
+HOMEPAGE=http://code.google.com/p/sqlite-manager
+IUSE=+symlink_all_targets target_firefox target_firefox-bin
+KEYWORDS=amd64 x86
+LICENSE=MPL-1.1
+RDEPEND=!symlink_all_targets? ( target_firefox? ( www-client/firefox ) target_firefox-bin? ( www-client/firefox-bin ) )
+SLOT=0
+SRC_URI=http://addons.mozilla.org/downloads/file/228658 -> sqlite_manager-0.8.1.xpi
+_eclass_exported_funcs=src_unpack:mozilla-addon src_install:mozilla-addon
+_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	mozextension	3d8ee4835f89ff39d4666656aa603433	mozilla-addon	8d5d6700a00c98468e9e6c7269e50064	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_md5_=2a51601b0ec0bf357fdb341d82d7989e

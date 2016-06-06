@@ -1,0 +1,12 @@
+DEFINED_PHASES=prepare unpack
+DEPEND=>=app-pda/libimobiledevice-1.1.4:= >=app-pda/libplist-1.8:= >=dev-libs/libzip-0.8 virtual/pkgconfig dev-vcs/git !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DESCRIPTION=A tool to interact with the installation_proxy of an Apple's iDevice
+EAPI=5
+HOMEPAGE=http://www.libimobiledevice.org/
+KEYWORDS=amd64 x86
+LICENSE=GPL-2
+RDEPEND=>=app-pda/libimobiledevice-1.1.4:= >=app-pda/libplist-1.8:= >=dev-libs/libzip-0.8
+SLOT=0
+_eclass_exported_funcs=src_unpack:git-2 src_prepare:-
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	git-2	672c3929a162f221a53b4ccb4d25d8a2	libtool	4890219c51da247200223277f993e054	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_md5_=5a740dc8496d198f67317cc9d1085030

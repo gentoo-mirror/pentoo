@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile install unpack
+DEPEND=fwcutter? ( net-wireless/b43-fwcutter ) sys-devel/flex dev-vcs/git
+DESCRIPTION=Tools for developers working on broadcom drivers/firmware
+EAPI=2
+HOMEPAGE=http://bu3sch.de/gitweb?p=b43-tools.git;a=summary
+IUSE=+assembler debug disassembler fwcutter +ssb_sprom
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=fwcutter? ( net-wireless/b43-fwcutter )
+SLOT=0
+_eclass_exported_funcs=src_unpack:git-2 src_compile:- src_install:-
+_eclasses_=git-2	672c3929a162f221a53b4ccb4d25d8a2	multilib	d062ae4ba2fc40a19c11de2ad89b6616	python	efc1c55fc44c5b7272fc2ffba73c3e6f	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_md5_=9e905f95273048dd15d5c494f168baa1

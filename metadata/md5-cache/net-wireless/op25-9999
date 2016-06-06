@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile configure install preinst prepare setup unpack
+DEPEND=<net-wireless/gnuradio-3.7:= sci-libs/itpp dev-libs/boost net-libs/libpcap || ( dev-vcs/subversion[http] dev-vcs/subversion[webdav-neon] dev-vcs/subversion[webdav-serf] ) net-misc/rsync !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4 =dev-lang/python-2*
+DESCRIPTION=software-defined analyzer for APCO P25 signals
+EAPI=5
+HOMEPAGE=http://op25.osmocom.org/wiki
+KEYWORDS=-*
+LICENSE=GPL
+RDEPEND=<net-wireless/gnuradio-3.7:= sci-libs/itpp dev-libs/boost net-libs/libpcap =dev-lang/python-2*
+SLOT=0
+_eclass_exported_funcs=pkg_preinst:subversion pkg_setup:- src_unpack:subversion src_prepare:- src_configure:- src_compile:- src_install:-
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	792f83d5ec9536cb5ccef375469d8bde	libtool	4890219c51da247200223277f993e054	multilib	d062ae4ba2fc40a19c11de2ad89b6616	python	efc1c55fc44c5b7272fc2ffba73c3e6f	subversion	4fee0a764150bb4dda27ed4d2c4ed7ce	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_md5_=fe03dd00601430a9c9b64343a62faf2d

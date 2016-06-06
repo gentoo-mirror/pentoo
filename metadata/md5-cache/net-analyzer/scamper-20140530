@@ -1,0 +1,11 @@
+DEFINED_PHASES=configure
+DESCRIPTION=A tool that actively probes the Internet in order to analyze topology and performance
+EAPI=5
+HOMEPAGE=http://www.caida.org/tools/measurement/scamper/
+IUSE=privsep debug
+KEYWORDS=~x86
+LICENSE=GPL-2
+SLOT=0
+SRC_URI=http://www.caida.org/tools/measurement/scamper/code/scamper-cvs-20140530.tar.gz
+_eclass_exported_funcs=src_configure:-
+_md5_=1f81b49b07e9a7530ce5f5e0df81272c

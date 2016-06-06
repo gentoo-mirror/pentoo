@@ -1,0 +1,13 @@
+DEFINED_PHASES=install postinst setup
+DESCRIPTION=Juniper Networks SSL VPN
+EAPI=0
+HOMEPAGE=http://www.juniper.net/products_and_services/ssl_vpn_secure_access/
+IUSE=lesstif +rpm
+KEYWORDS=-* ~amd64 x86
+LICENSE=Juniper
+RDEPEND=amd64? ( app-emulation/emul-linux-x86-java ) rpm? ( app-arch/rpm ) dev-libs/openssl sys-libs/lib-compat sys-libs/zlib >=virtual/jre-1.4.2 !lesstif? ( x11-libs/openmotif ) lesstif? ( x11-libs/lesstif )
+RESTRICT=nomirror
+SLOT=0
+_eclass_exported_funcs=pkg_postinst:- pkg_setup:- src_install:-
+_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	libtool	4890219c51da247200223277f993e054	linux-info	fd1e29abbb02cbc49f1a14299846e9c4	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	d513d423d449877e49d99af3f7af7acb	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_md5_=a5c6d7d40b8c62d63ae25553d8a0c64c
