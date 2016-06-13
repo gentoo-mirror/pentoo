@@ -144,12 +144,9 @@ dev-python/tblib 1.2.0: Traceback fiddling library
 dev-python/vulndb 0.0.19: Python SDK to access the vulnerability database
 dev-python/xdot 0.6: Interactive viewer for Graphviz dot files
 dev-python/yara-python 2.1.0 3.3.0: A malware identification and classification tool
-dev-ruby/actionpack 3.2.21: Eases web-request routing, handling, and response
-dev-ruby/activerecord 3.2.21: Implements the ActiveRecord pattern (Fowler, PoEAA) for ORM
 dev-ruby/arachni-reactor 0.1.0 0.1.1: A simple, lightweight, pure-Ruby implementation of the Reactor pattern
 dev-ruby/arachni-rpc 0.2.1.2 0.2.1.3: Arachni-RPC is a simple and lightweight Remote Procedure Call protocol
 dev-ruby/arachni-rpc-em 0.2: EventMachine-based client and server implementation of Arachni-RPC
-dev-ruby/backports 3.3.3: Enables many features of Ruby for earlier versions
 dev-ruby/cgi_multipart_eof_fix 2.5.0: Fix an exploitable bug in CGI multipart parsing.
 dev-ruby/concurrent-ruby-ext 1.0.1: C extensions to optimize the concurrent-ruby gem when running under MRI
 dev-ruby/cookiejar 0.3.2: Allows for parsing and returning cookies in Ruby HTTP client code
@@ -165,49 +162,30 @@ dev-ruby/em-socksify 0.3.0: Transparent proxy support for any EventMachine proto
 dev-ruby/em-synchrony 1.0.3: Fiber aware EventMachine libraries
 dev-ruby/em-websocket 0.3.8 0.5.1-r1: EventMachine based WebSocket server
 dev-ruby/em-websocket-client 0.1.2-r1: A WebSocket client implementation for EventMachine
-dev-ruby/ethon 0.5.10 0.5.11 0.7.0: Very lightweight libcurl wrapper
 dev-ruby/fastthread 1.0.7: Optimized replacement for thread.rb primitives
-dev-ruby/ffi 1.3.1: Ruby extension for programmatically loading dynamic libraries
 dev-ruby/gem_plugin 0.2.3: A plugin system based on rubygems that uses dependencies only
-dev-ruby/hitimes 1.2.2: A fast, high resolution timer library
 dev-ruby/http_configuration 1.0.4: set configuration for Net::HTTP
 dev-ruby/jsmin 1.0.1: Ruby implementation of Douglas Crockford's JSMin JavaScript minifier
 dev-ruby/librex 0.0.68: Rex provides a variety of classes useful for security testing and exploit development
-dev-ruby/metasploit-concern 2.0.1: Metasploit concern allows you to define concerns in app/concerns.
-dev-ruby/metasploit-credential 2.0.3: Code for modeling and managing credentials in Metasploit
-dev-ruby/metasploit-model 2.0.0: Common code, such as validators and mixins
-dev-ruby/metasploit-payloads 1.1.11: Compiled binaries for Metasploit's Meterpreter
-dev-ruby/metasploit_data_models 2.0.0: The database layer for Metasploit
 dev-ruby/mini_exiftool 2.5.1: wrapper for exiftool
 dev-ruby/mini_portile 0.5.3 0.6.2: Simplified way to compile against dependency libraries
 dev-ruby/mini_portile2 2.0.0 2.1.0: Simplistic port-like solution for developers
 dev-ruby/mongrel 1.1.5: A small fast HTTP library and server that runs Rails, Camping, Nitro and Iowa apps.
 dev-ruby/msfrpc-client 1.0.1: This gem provides a Ruby client API to access the Rapid7 Metasploit Pro RPC service
 dev-ruby/net-dns 0.8.0: Ruby DNS library, with a clean OO interface and an extensible API
-dev-ruby/nio4r 1.0.1: A high performance selector API for monitoring IO objects
-dev-ruby/nokogiri 1.6.6.2-r1 1.6.8_rc3: Nokogiri is an HTML, XML, SAX, and Reader parser
 dev-ruby/oj 2.12.14 2.14.2 2.14.6: The fastest JSON parser and object serializer
 dev-ruby/oj_mimic_json 1.0.1: An experimental Object-base Parallel Evaluation Environment.
 dev-ruby/parseconfig 1.0.6: Provides simple parsing of standard *nix style config files.
-dev-ruby/patch_finder 1.0.2: Generic Patch Finder
 dev-ruby/pony 1.8-r1: Send email in one command
 dev-ruby/puma 2.14.0 2.16.0: Puma is a simple, fast, threaded, and highly concurrent HTTP 1.1 server
-dev-ruby/rack-protection 1.4.0-r1: This gem protects against typical web attacks.
-dev-ruby/railties 3.2.21: Tools for creating, working with, and running Rails applications
-dev-ruby/rspec-its 1.0.1-r1: RSpec extension gem for attribute matching
-dev-ruby/ruby-progressbar 1.1.0 1.7.5: A Text Progress Bar Library for Ruby
 dev-ruby/rubydns 1.0.3: A tool to intercept and modify DNS requests
-dev-ruby/sinatra 1.3.6 1.4.2: Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort.
 dev-ruby/sinatra-contrib 1.3.2-r1 1.4.2 1.4.6: Collection of useful Sinatra extensions
 dev-ruby/sourcify 0.5.0-r1: Workarounds before ruby-core officially supports Proc#to_source (& friends)
 dev-ruby/spider 0.4.4-r2: web spidering library
 dev-ruby/sys-proctable 0.9.3: An interface for providing process table information
 dev-ruby/terminal-table 1.4.5-r1: Simple, feature rich ascii table generation library
 dev-ruby/typhoeus 0.3.3 0.6.9: Runs HTTP requests in parallel while cleanly encapsulating handling logic
-dev-ruby/tzinfo-data 1.2016.4: Contains a set of Ruby modules generated from the IANA Time Zone Database
 dev-ruby/watir-webdriver 0.6.9 0.8.0: WebDriver-backed Watir
-dev-ruby/webmock 1.9.3: Allows stubbing HTTP requests and setting expectations on HTTP requests
-dev-ruby/websocket 1.2.2: Universal Ruby library to handle WebSocket protocol
 dev-util/apktool 2.0.2 2.0.3: A tool for reengineering 3rd party, closed, binary Android apps.
 dev-util/ati-app-sdk-bin 2.9: AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream)
 dev-util/ati-stream-sdk-bin 2.01 2.2 2.3: Enable compiling code and loading it on ATI/AMD GPU
@@ -268,7 +246,6 @@ net-analyzer/masscan 1.0.1 1.0.3 1.0.3-r3: Mass IP port scanner
 net-analyzer/medusa 2.2-r1: A Modular,Parallel,Multiprotocol, Network Login Auditor
 net-analyzer/metacoretex-ng 9999: A nice, java-based, MYSQL/Oracle/MSSQL/ODBC attack framework
 net-analyzer/metagoofil 1.4b-r1: Metagoofil is an information gathering tool designed for extracting metadata of public documents
-net-analyzer/metasploit 4.12.5: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/mosref 2.0_beta3: A secure remote execution framework using a compact Scheme-influenced VM
 net-analyzer/nacker 0.0.1_pre20130916: Bypass NAC by hijacking non-802.1x configurable hosts
 net-analyzer/nbtool 0.05_alpha2: Some tools for NetBIOS and DNS investigation, attacks, and communication
