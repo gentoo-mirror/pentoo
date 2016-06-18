@@ -120,7 +120,7 @@ dev-python/halberd 0.2.4-r1: HTTP load balancer detector
 dev-python/impacket 0.9.13 0.9.14 0.9.15_pre20160604 9999: A collection of Python classes focused on providing access to network packets
 dev-python/intervaltree 9999: Editable interval tree data structure for Python 2 and 3
 dev-python/lxml 2.3.2: A Pythonic binding for the libxml2 and libxslt libraries
-dev-python/nassl 0.11 0.12 0.13.1 0.13.5: Experimental Python wrapper for OpenSSL
+dev-python/nassl 0.13.6: Experimental Python wrapper for OpenSSL
 dev-python/nltk 2.0.4: Natural Language Toolkit
 dev-python/olefile 0.43: Python package to parse, read and write Microsoft OLE2 files
 dev-python/pefile 1.2.10_p139-r1: Module to read and work with Portable Executable (PE) files
@@ -276,7 +276,7 @@ net-analyzer/sslcat 1.0: netcat like application with ssl support
 net-analyzer/sslscan 9999: SSLScan determines what ciphers are supported on SSL-based services.
 net-analyzer/sslstrip 0.9-r1: sslstrip remove https and forwards http
 net-analyzer/ssltest 0.4 0.4-r1: SSL testing tool written in perl
-net-analyzer/sslyze 0.13.5: Fast and full-featured SSL scanner
+net-analyzer/sslyze 0.13.6: Fast and full-featured SSL scanner
 net-analyzer/subdomainer 1.3-r2: This script will search in Google, Msn.search and Yahoo for subdomains related to the target domain
 net-analyzer/suricata 1.0.5: next generation intrusion detection and prevention engine
 net-analyzer/thc-pptp-bruter 0.1.4: a brute force program that works against pptp vpn endpoints
