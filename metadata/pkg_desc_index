@@ -73,7 +73,7 @@ app-misc/binwalk 2.1.1: A tool for identifying files embedded inside firmware im
 app-misc/dradis 2.5.2 2.5.2-r1: A framework for effective information sharing
 app-misc/fslint 2.42: A utility to find and clean various forms of lint on a filesystem.
 app-misc/libmsr 9999: 
-app-misc/openobd 9999: neat
+app-misc/openobd 0.5.0: OBD-II Scan Tool supporting ELM327 devices
 app-pda/ideviceinstaller 1.0.1_p20140314 1.0.1_p20140527 1.1.0: A tool to interact with the installation_proxy of an Apple's iDevice
 app-pda/libimobiledevice 1.1.7 1.2.0 1.2.0-r1: Support library to communicate with Apple iPhone/iPod Touch devices
 app-pda/libplist 1.12: Support library to deal with Apple Property Lists (Binary & XML)
