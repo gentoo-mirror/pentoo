@@ -76,7 +76,7 @@ app-misc/fslint 2.42: A utility to find and clean various forms of lint on a fil
 app-misc/libmsr 9999: 
 app-misc/openobd 0.5.0: OBD-II Scan Tool supporting ELM327 devices
 app-pda/ideviceinstaller 1.0.1_p20140314 1.0.1_p20140527 1.1.0: A tool to interact with the installation_proxy of an Apple's iDevice
-app-pda/libimobiledevice 1.1.7 1.2.0 1.2.0-r1: Support library to communicate with Apple iPhone/iPod Touch devices
+app-pda/libimobiledevice 1.2.0-r2: Support library to communicate with Apple iPhone/iPod Touch devices
 app-pda/libplist 1.12: Support library to deal with Apple Property Lists (Binary & XML)
 app-pda/libusbmuxd 1.0.10: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
 app-pda/usbmuxd 1.1.0: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
@@ -252,7 +252,7 @@ net-analyzer/nacker 0.0.1_pre20130916: Bypass NAC by hijacking non-802.1x config
 net-analyzer/nbtool 0.05_alpha2: Some tools for NetBIOS and DNS investigation, attacks, and communication
 net-analyzer/nessus-bin 6.7.0: A remote security scanner for Linux
 net-analyzer/netmap 0.1.3: A tool for creating a graphical representation of your network
-net-analyzer/nikto 2.1.5-r4 2.1.6 2.1.6_p20160428: Web Server vulnerability scanner
+net-analyzer/nikto 2.1.5-r4 2.1.6 2.1.6_p20160624: Web Server vulnerability scanner
 net-analyzer/nmap_vulscan 2.0-r1: A NSE vulnerability scanner which uses an offline version of scip VulDB
 net-analyzer/ntop 5.0.1: Network traffic analyzer with web interface
 net-analyzer/ntp-fingerprint 0.1-r1: NTP fingerprinting utility
@@ -295,7 +295,7 @@ net-analyzer/wafw00f 0.9.4: Identifies and fingerprints Web Application Firewall
 net-analyzer/wapiti 2.3.0_p20141111: Web application security auditor
 net-analyzer/webshag 1.1-r1: An enhanced HTTP URL Scanner and fuzzer
 net-analyzer/wfuzz 2.0-r1 2.1.3: Wfuzz is a tool designed for bruteforcing Web Applications
-net-analyzer/whatweb 0.4.7-r5 0.4.7_p20160430: Next generation web scanner, identifies what software websites are running
+net-analyzer/whatweb 0.4.7-r5 0.4.7_p20160611: Next generation web scanner, identifies what software websites are running
 net-analyzer/wolpertinger 0.6-r2: a distributed portscanner
 net-analyzer/wpscan 2.9.1: Wordpress security scanner
 net-analyzer/xplico 1.1.0-r4 1.1.2: Extract data from TCP/IP traffic
