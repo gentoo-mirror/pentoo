@@ -417,6 +417,8 @@ pentoo/tribe 2012.0: Tribe meta ebuild
 pentoo/zero-system 9999: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
 sys-apps/become 1.0 1.0-r1: utility for changing the current real, effective or group id
 sys-apps/magic-pax 0.0.1: 
+sys-auth/pam_yubico 2.23: Library for authenticating against PAM with a Yubikey
+sys-auth/ykclient 2.15: Yubico C client library
 sys-boot/grub-static 0.97-r9 0.97-r10: GNU GRUB Legacy boot loader (static build)
 sys-devel/gcc-arm-embedded-bin 4.6_p20120316: Code Sourcery's CodeBench for ARM EABI
 sys-devel/sourcery-arm-gcc-bin 2011.03: Code Sourcery's CodeBench for ARM EABI
