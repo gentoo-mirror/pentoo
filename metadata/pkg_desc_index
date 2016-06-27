@@ -263,7 +263,7 @@ net-analyzer/plecost 9999: Wordpress finger printing tool, retrieve information 
 net-analyzer/polenum 0.2-r2: a python script for extracting the password policy information from a Windows/Samba machine.
 net-analyzer/post-it-dos 9999: A simple piece of PoC code written to demonstrate HTTP POST Denial of Service vulnerabilies
 net-analyzer/ppscan 0.3: Port scanner with HTTP and FTP tunneling support
-net-analyzer/recon-ng 4.4.0 4.7.3 9999: Web Reconnaissance Framework
+net-analyzer/recon-ng 4.7.3 4.8.0 9999: Web Reconnaissance Framework
 net-analyzer/rpcapd 4.1.2: Remote packet capture daemon
 net-analyzer/scamper 20140530: A tool that actively probes the Internet in order to analyze topology and performance
 net-analyzer/scapy 1.1.1-r2: A Python interactive packet manipulation program for mastering the network
