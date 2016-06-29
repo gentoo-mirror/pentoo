@@ -391,7 +391,7 @@ pentoo/pentoo 2014.3-r1 2015.1: Pentoo meta ebuild to install all apps
 pentoo/pentoo-analyzer 2016.1: Pentoo analyzers meta ebuild
 pentoo/pentoo-bluetooth 2015.3: Pentoo bluetooth meta ebuild
 pentoo/pentoo-cinnamon 2012.0: Pentoo cinnamon meta ebuild
-pentoo/pentoo-cracking 2016.0: Pentoo cracking meta ebuild
+pentoo/pentoo-cracking 2016.2: Pentoo cracking meta ebuild
 pentoo/pentoo-database 2015.3-r1: Pentoo database attack meta ebuild
 pentoo/pentoo-desktop 2016.2-r1: Pentoo meta ebuild to install all X and WM/DE related things
 pentoo/pentoo-exploit 2015.4-r2: Pentoo exploit meta ebuild
