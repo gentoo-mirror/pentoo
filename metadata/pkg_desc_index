@@ -13,7 +13,7 @@ app-crypt/hashcat 9999: An advanced CPU-based password recovery utility
 app-crypt/hashkill 0.3.1-r1 0.3.1_p20131031 0.3.1_p20140204 9999: Multi-threaded password recovery tool with multi-GPU support
 app-crypt/johntheripper 1.8.0: fast password cracker
 app-crypt/md5bf 0.1: A tool to crack md5 hashes by bruteforce or dictionary attack
-app-crypt/oclhashcat 3.0.0_pre20160610: An advanced GPU-based password recovery utility
+app-crypt/oclhashcat 3.0.0_pre20160610 3.0.0: An advanced GPU-based password recovery utility
 app-crypt/plaintoo 0.1: Plaintoo is a pygtk frontend to bkhive and samdump2 (included)
 app-crypt/rcracki_mt 0.6.6 0.7.0: perform a rainbow table attack on password hashes
 app-crypt/samdump2 3.0.0-r1: Windows NT/2k/XP/Vista sam hash dumper
