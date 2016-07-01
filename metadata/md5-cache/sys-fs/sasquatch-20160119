@@ -10,5 +10,5 @@ RDEPEND=sys-libs/zlib !xz? ( !lzo? ( sys-libs/zlib ) ) lz4? ( app-arch/lz4 ) lzm
 SLOT=0
 SRC_URI=mirror://sourceforge/squashfs/squashfs4.3.tar.gz https://raw.githubusercontent.com/devttys0/sasquatch/f6229d2cce3e07c2e96961086bc3e0c0522d7a65/patches/patch0.txt -> sasquatch-20160119.patch
 _eclass_exported_funcs=src_prepare:- src_configure:- src_compile:- src_install:-
-_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	e886935aae2b45a545665444ab0667cf
+_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	82165206dedb2075f9a0fb8f9b1f9441
 _md5_=0d4c80034fc3bba3f71c1a7da2bc47eb
