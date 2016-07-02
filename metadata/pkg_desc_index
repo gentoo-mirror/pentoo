@@ -199,7 +199,7 @@ dev-util/jd-gui-bin 0.3.5-r1 1.4.0: A standalone graphical utility that displays
 dev-util/lida 03.00.00: interactive ELF disambler
 dev-util/memfetch 0: A simple utility to dump all memory of a running process
 dev-util/metasm 9999: Cross-architecture assembler, disassembler, compiler, linker and debugger
-dev-util/nvidia-cuda-sdk 6.5.14 6.5.19: NVIDIA CUDA Software Development Kit
+dev-util/nvidia-cuda-sdk 6.5.19: NVIDIA CUDA Software Development Kit
 dev-util/premake 3.2: A makefile generation tool
 dev-util/pyew 2.0: Hexadecimal viewer and disassembler
 dev-util/radare 1.5.2: Advanced command line hexadecimail editor and more
