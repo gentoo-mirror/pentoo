@@ -309,7 +309,7 @@ net-libs/libpcap 1.6.2-r1: A system-independent library for user-level network p
 net-libs/libvidcap 0.2.1: a cross-platform library for capturing video from webcams and other video capture devices
 net-libs/nfqueue-bindings 0.4: Set of high-level modules for languages such as Perl or Python, for libnetfilter_queue
 net-libs/nodejs 0.12.7-r1: Evented IO for V8 Javascript
-net-mail/davmail-bin 4.6.2 4.7.2: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
+net-mail/davmail-bin 4.7.2: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
 net-misc/f5vpn-login 9999: F5 VPN Command-line client
 net-misc/faifa 0.1 9999: Power Line Communication device manager
 net-misc/fwknop 2.6.0 2.6.0-r1 2.6.1: Single Packet Authorization and Port Knocking application
