@@ -149,7 +149,7 @@ dev-ruby/arachni-reactor 0.1.0 0.1.1: A simple, lightweight, pure-Ruby implement
 dev-ruby/arachni-rpc 0.2.1.2 0.2.1.3: Arachni-RPC is a simple and lightweight Remote Procedure Call protocol
 dev-ruby/arachni-rpc-em 0.2: EventMachine-based client and server implementation of Arachni-RPC
 dev-ruby/cgi_multipart_eof_fix 2.5.0: Fix an exploitable bug in CGI multipart parsing.
-dev-ruby/ckeditor_rails 4.5.3: CKEditor is a javascript library of the WYSIWYG rich-text editor
+dev-ruby/ckeditor_rails 4.5.3-r1: CKEditor is a javascript library of the WYSIWYG rich-text editor
 dev-ruby/concurrent-ruby-ext 1.0.1: C extensions to optimize the concurrent-ruby gem when running under MRI
 dev-ruby/cookiejar 0.3.2: Allows for parsing and returning cookies in Ruby HTTP client code
 dev-ruby/data_objects 0.10.13: The Core DataObjects class
@@ -179,7 +179,7 @@ dev-ruby/oj 2.12.14 2.14.2 2.14.6: The fastest JSON parser and object serializer
 dev-ruby/oj_mimic_json 1.0.1: An experimental Object-base Parallel Evaluation Environment.
 dev-ruby/parseconfig 1.0.6: Provides simple parsing of standard *nix style config files.
 dev-ruby/pony 1.8-r1: Send email in one command
-dev-ruby/protected_attributes 1.1.3: Protect attributes from mass assignment
+dev-ruby/protected_attributes 1.1.3-r1: Protect attributes from mass assignment
 dev-ruby/puma 2.14.0 2.16.0: Puma is a simple, fast, threaded, and highly concurrent HTTP 1.1 server
 dev-ruby/rubydns 1.0.3: A tool to intercept and modify DNS requests
 dev-ruby/similar_text 0.0.4: Calculate the similarity between two strings
