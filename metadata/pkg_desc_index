@@ -135,7 +135,7 @@ dev-python/pymills 3.4-r2: Powerful event library enabling asyncronous and event
 dev-python/pynetfilter_conntrack 0.4.2: Python binding of libnetfilter_conntrack
 dev-python/pyscard 9999: pyscard is a python module adding smart cards support to python.
 dev-python/python-isc-dhcp-leases 0.8.1: Small python module for reading /var/lib/dhcp/dhcpd.leases from isc-dhcp-server
-dev-python/python-nmap 0.5.0: This is a python class to use nmap and access scan results from python3
+dev-python/python-nmap 0.6.0: a python library which helps in using nmap port scanner
 dev-python/python-ntlm 1.0.1 1.1.0: Clamd is a python interface to Clamd (Clamav daemon)
 dev-python/python-registry 1.0.4: A pure Python module that provides read access to Windows Registry files
 dev-python/ruamel-ordereddict 0.4.9: An ordered dictionary with KIO/KVIO
