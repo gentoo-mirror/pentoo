@@ -124,6 +124,7 @@ dev-python/isc_dhcp_leases 0.8.1: Small python module for reading /var/lib/dhcp/
 dev-python/nassl 0.13.6: Experimental Python wrapper for OpenSSL
 dev-python/nltk 2.0.4: Natural Language Toolkit
 dev-python/olefile 0.43: Python package to parse, read and write Microsoft OLE2 files
+dev-python/pcapy 0.10.10: Python pcap extension
 dev-python/pefile 1.2.10_p139-r1 2016.3.28: Module to read and work with Portable Executable (PE) files
 dev-python/phply 0.9.1-r1 9999: Parser for PHP written using PLY
 dev-python/pluginbase 0.3: A support library for building plugins sytems in Python.
@@ -132,6 +133,7 @@ dev-python/pyaff4 9999: Python Advanced Forensic Format Version 4 library.
 dev-python/pyamf 0.6.2 0.6.2_p20150122: Action Message Format (AMF) support for Python including integration with mutliple frameworks
 dev-python/pybonjour 1.1.1: Python interface to Apple Bonjour and compatible DNS-SD libraries (Avahi)
 dev-python/pygoogle-ajax 9999: a very basic Google search module for Python using the AJAX API
+dev-python/pygtail 0.7.0: Reads log file lines that have not been read
 dev-python/pymills 3.4-r2: Powerful event library enabling asyncronous and event-driven applications and system to be developed
 dev-python/pynetfilter_conntrack 0.4.2: Python binding of libnetfilter_conntrack
 dev-python/pyscard 9999: pyscard is a python module adding smart cards support to python.
@@ -389,6 +391,7 @@ net-wireless/rtl8812au 4.2.5 4.2.5_p20150623 4.2.5_p20150929 9999: Driver for AC
 net-wireless/rtl8812au_asus 4.3.2_p20150929 4.3.2_p20160101: Linux kernel module for ASUS USB-AC56
 net-wireless/ska 0.2: Fake Shared Key Authentication
 net-wireless/virtualradar-bin 1.0.5 1.2.2 1.2.3 2.0.1: Open-source .NET application for ads-b mapping
+net-wireless/wifi-pumpkin 0.7.8: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifitap 0.4.0-r4: A wireless tool to do direct connection to client without passing through an AP
 net-wireless/wifite 2.85_p20150526-r1: An automated wireless attack tool
 net-wireless/wireless-regdb 20090130-r1 20090309 20090817 20091125 20091125-r1: Binary regulatory database for CRDA
