@@ -118,7 +118,7 @@ dev-python/enum34 1.0: Python 3.4 Enum backported to 3.3, 3.2, 3.1, 2.7, 2.6, 2.
 dev-python/esmre 0.3.1: Regular expression accelerator
 dev-python/guess-language 0.2: Guess the natural language of a text
 dev-python/halberd 0.2.4-r1: HTTP load balancer detector
-dev-python/impacket 0.9.13 0.9.14 0.9.15_pre20160604 9999: A collection of Python classes focused on providing access to network packets
+dev-python/impacket 0.9.13 0.9.14 0.9.15 9999: A collection of Python classes focused on providing access to network packets
 dev-python/intervaltree 9999: Editable interval tree data structure for Python 2 and 3
 dev-python/nassl 0.13.6: Experimental Python wrapper for OpenSSL
 dev-python/nltk 2.0.4: Natural Language Toolkit
