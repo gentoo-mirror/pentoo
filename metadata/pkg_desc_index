@@ -366,7 +366,7 @@ net-wireless/gr-air-modes 9999: This module implements a complete Mode S and ADS
 net-wireless/grimwepa 1.10_p5-r101: A password cracker for both WEP and WPA-encrypted access points
 net-wireless/haraldscan 0.41: A Bluetooth discovery scanner
 net-wireless/horst 3.0: Small 802.11 wireless LAN analyzer
-net-wireless/hostapd 1.0-r4 1.0-r6 1.0-r7 2.0 2.0-r1 2.2-r1 2.2-r2 2.5: IEEE 802.11 wireless LAN Host AP daemon
+net-wireless/hostapd 1.0-r4 1.0-r6 1.0-r7 2.0 2.0-r1 2.2-r1 2.2-r2 2.5-r1: IEEE 802.11 wireless LAN Host AP daemon
 net-wireless/intel-wimax-binary-supplicant 1.4.0: Authentication information for WiMax Networks
 net-wireless/intel-wimax-network-service 1.4.0 1.4.0-r1: Intel WiMAX daemon used to interface to the hardware
 net-wireless/intel-wimax-tools 1.4.2 1.4.2.1: Tools to use Intel's WiMax cards
