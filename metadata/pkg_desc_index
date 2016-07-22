@@ -79,7 +79,7 @@ app-pda/libimobiledevice 1.2.0-r2: Support library to communicate with Apple iPh
 app-pda/libplist 1.12: Support library to deal with Apple Property Lists (Binary & XML)
 app-pda/libusbmuxd 1.0.10: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
 app-pda/usbmuxd 1.1.0: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
-app-text/cewl 5.1: A custom word list generator
+app-text/cewl 5.1 5.2: A custom word list generator
 dev-db/absinthe 1.4.1: a gui-based tool for aiding in Blind SQL Injection
 dev-db/minimysqlator 05: Minimysqlator is a MySQL injection tools that facilitates the retrieval of DB and more
 dev-db/mssqlscan 0.8.4: A small multi-threaded tool that scans for Microsoft SQL Servers
