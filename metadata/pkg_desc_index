@@ -389,7 +389,9 @@ net-wireless/rfidler 0.01_p20160313: Software defined RFID (LF) Reader/Writer/Em
 net-wireless/rfidtool 0.01: command line rfid interface
 net-wireless/rtl8812au 4.2.5 4.2.5_p20150623 4.2.5_p20150929 9999: Driver for AC1200 (801.11ac) Wireless Dual-Band USB Adapter
 net-wireless/rtl8812au_asus 4.3.2_p20150929 4.3.2_p20160101: Linux kernel module for ASUS USB-AC56
+net-wireless/rx_tools 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
 net-wireless/ska 0.2: Fake Shared Key Authentication
+net-wireless/soapysdr 9999: vendor and platform neutral SDR support library
 net-wireless/virtualradar-bin 1.0.5 1.2.2 1.2.3 2.0.1: Open-source .NET application for ads-b mapping
 net-wireless/wifi-pumpkin 0.7.8-r1: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifitap 0.4.0-r4: A wireless tool to do direct connection to client without passing through an AP
