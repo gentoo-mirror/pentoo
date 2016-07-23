@@ -348,7 +348,9 @@ net-wireless/aircrackgui-m4 0.7.0:
 net-wireless/airoscript 9999: N00b scripts for aircrack-ng :-)
 net-wireless/b43-openfwwf 5.2: OpenBroadcom Firmware
 net-wireless/b43-tools 9999: Tools for developers working on broadcom drivers/firmware
+net-wireless/blue_hydra 9999: bluetooth discovery service built on top of bluez
 net-wireless/bluemaho 090417-r2: BlueMaho is GUI-shell (interface) for suite of tools for testing security of bluetooth devices
+net-wireless/bluez 5.39: Bluetooth Tools and System Daemons for Linux
 net-wireless/broadcom-firmware-downloader 0.1-r2 0.2: Closed Broadcom Commercial Firmware Downloader
 net-wireless/broadcom-firmware-installer 0.1-r3 0.2: Closed Broadcom Commercial Firmware Installer
 net-wireless/bt-audit 0.1.1-r1: A small bluetooth audit suite
