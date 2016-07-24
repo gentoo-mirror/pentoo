@@ -364,6 +364,7 @@ net-wireless/dedected 9999: DECT Sniffer
 net-wireless/desknfc 9999: a KDE4 plasmoid which offer NFC content access
 net-wireless/dsd 1.6.0 9999: Digital Speech Decoder
 net-wireless/fern-wifi-cracker 2.2: Wireless tool for WEP/WPA cracking and WPS keys recovery
+net-wireless/gps-sdr-sim 9999: GPS Spoofing tool for transmit capable SDR's like the HackRF, bladeRF and USRP
 net-wireless/gr-air-modes 9999: This module implements a complete Mode S and ADS-B receiver for Gnuradio
 net-wireless/grimwepa 1.10_p5-r101: A password cracker for both WEP and WPA-encrypted access points
 net-wireless/haraldscan 0.41: A Bluetooth discovery scanner
