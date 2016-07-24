@@ -216,6 +216,7 @@ dev-util/soapui 5.0.0 5.2.0: The Swiss-Army Knife for SOAP Testing
 dev-util/sonarqube-bin 4.5 4.5.2: SonarQube is an open platform to manage code quality.
 dev-util/valabind 0.9.2 0.10.0: Valabind is a tool to parse vala or vapi files to transform them into swig files
 gnome-base/gdm 3.4.1-r3 3.6.2: GNOME Display Manager
+gnome-base/gnome-keyring 3.18.3-r2: Password and keyring managing daemon
 gnome-base/libgnomeui 2.24.5-r2: User Interface routines for Gnome
 kde-apps/okular-backend-mupdf 0.0.4-r1 0.0.5: Okular is a universal document viewer based on KPDF for KDE 4
 media-libs/mbelib 1.2.5 9999: P25 Phase 1 and ProVoice vocoder
@@ -366,6 +367,7 @@ net-wireless/dsd 1.6.0 9999: Digital Speech Decoder
 net-wireless/fern-wifi-cracker 2.2: Wireless tool for WEP/WPA cracking and WPS keys recovery
 net-wireless/gps-sdr-sim 9999: GPS Spoofing tool for transmit capable SDR's like the HackRF, bladeRF and USRP
 net-wireless/gr-air-modes 9999: This module implements a complete Mode S and ADS-B receiver for Gnuradio
+net-wireless/gr-gsm 9999: Set of tools for receiving information transmitted by GSM equipment/devices
 net-wireless/grimwepa 1.10_p5-r101: A password cracker for both WEP and WPA-encrypted access points
 net-wireless/haraldscan 0.41: A Bluetooth discovery scanner
 net-wireless/horst 3.0: Small 802.11 wireless LAN analyzer
