@@ -10,4 +10,4 @@ PDEPEND=livecd? ( pentoo/pentoo-livecd ) !livecd? ( !pentoo/pentoo-livecd !app-m
 SLOT=0
 _eclass_exported_funcs=pkg_pretend:mount-boot pkg_prerm:mount-boot pkg_preinst:mount-boot pkg_postrm:mount-boot pkg_postinst:- src_install:-
 _eclasses_=mount-boot	41ed556fa5641393d5323e421c8e5bcf
-_md5_=eceecb49108612108badb07e7f6293d9
+_md5_=bf8a86280bae3c8bb873ebe72b6e50a2
