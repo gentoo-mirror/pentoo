@@ -22,8 +22,8 @@ app-dicts/raft-wordlists 20110803: Raft wordlists
 app-emulation/qemu-charm 0.13.0: QEMU arm user-land emulation for CHroot ARM setup on x86*
 app-emulation/vmware-modules 279.2-r1: VMware kernel modules
 app-exploits/exploitdb 9999: All exploits from exploit-db.com
-app-exploits/packetstormexploits 2012.13 2013.13 2014.13 2015.13 2016.04: Archive of packetstorm exploits
-app-exploits/packetstormexploits-meta 2010 2015: Meta ebuild of packetstorm exploits
+app-exploits/packetstormexploits 2012.13 2013.13 2014.13 2015.13 2016.06: Archive of packetstorm exploits
+app-exploits/packetstormexploits-meta 2016: Meta ebuild of packetstorm exploits
 app-exploits/shellstorm 9999: Search and display all shellcodes in shell-storm database.
 app-exploits/weevely 3.2.0: Weevely is a stealth PHP web shell that simulate telnet-like console
 app-forensics/bulk_extractor 1.5.5: Scans a disk image, directory or file and extracts useful information
