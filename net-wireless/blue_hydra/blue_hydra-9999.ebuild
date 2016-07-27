@@ -66,7 +66,7 @@ each_ruby_prepare() {
 }
 
 each_ruby_test() {
-	${RUBY} -S rspec || die
+	ruby-ng_rspec || die
 }
 
 each_ruby_install() {
@@ -89,4 +89,7 @@ each_ruby_install() {
 		exec ${RUBY} -S ./bin/blue_hydra \$@
 	EOF
 	fperms +x /usr/sbin/blue_hydra
+
+	#touch these files so we know who owns them
+	touch blue_hydra.yml blue_hydra_rssi.log blue_hydra.log
 }
