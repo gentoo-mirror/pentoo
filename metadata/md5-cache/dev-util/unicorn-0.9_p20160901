@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile configure unpack
+DEPEND=dev-libs/glib:2 >=dev-vcs/git-1.8.2.1
+DESCRIPTION=A lightweight multi-platform, multi-architecture CPU emulator framework
+EAPI=5
+HOMEPAGE=http://www.unicorn-engine.org
+IUSE=unicorn_targets_x86 unicorn_targets_m68k unicorn_targets_arm unicorn_targets_aarch64 unicorn_targets_mips unicorn_targets_sparc
+KEYWORDS=~amd64 ~x86 ~m68k ~arm ~arm64 ~mips ~sparc
+LICENSE=GPL-2
+RDEPEND=dev-libs/glib:2 virtual/pkgconfig
+SLOT=0
+_eclass_exported_funcs=src_unpack:git-r3 src_configure:- src_compile:-
+_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	git-r3	00f60a84fc7b499c99edfe99caea9f95	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	82165206dedb2075f9a0fb8f9b1f9441
+_md5_=ad4b37441f5d1e3ab439cab7cd9de423

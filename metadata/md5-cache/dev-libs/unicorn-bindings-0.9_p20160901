@@ -1,0 +1,13 @@
+DEFINED_PHASES=prepare setup unpack
+DEPEND=go? ( dev-lang/go ) ruby? ( || ( dev-lang/ruby:2.1 dev-lang/ruby:2.2 dev-lang/ruby:2.3 ) ) ~dev-util/unicorn-0.9_p20160901 virtual/pkgconfig >=dev-vcs/git-1.8.2.1
+DESCRIPTION=Unicorn bindings
+EAPI=5
+HOMEPAGE=http://www.unicorn-engine.org
+IUSE=go java python ruby python_targets_python2_7
+KEYWORDS=~x86 ~amd64
+LICENSE=GPL-2
+RDEPEND=go? ( dev-lang/go ) ruby? ( || ( dev-lang/ruby:2.1 dev-lang/ruby:2.2 dev-lang/ruby:2.3 ) )
+SLOT=0
+_eclass_exported_funcs=pkg_setup:python-single-r1 src_unpack:git-r3 src_prepare:-
+_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	git-r3	00f60a84fc7b499c99edfe99caea9f95	multilib	d062ae4ba2fc40a19c11de2ad89b6616	python-single-r1	2ebea8fbab356d63110245129a67a6dd	python-utils-r1	c0ed2a2f233d3af6dd556048695dc5cb	toolchain-funcs	82165206dedb2075f9a0fb8f9b1f9441
+_md5_=8a265178d19fd83ed8522963107c9741
