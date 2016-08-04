@@ -94,7 +94,7 @@ dev-db/themole 0.3: An automatic SQL Injection exploitation tool
 dev-dotnet/wxnet 0.7.2: wxWidgets bindings for mono
 dev-embedded/libmpsse 1.3_p20150711: Open source library for SPI/I2C control via FTDI chips
 dev-embedded/mphidflash 1.6: ommand-line tool for communicating with the USB-Bootloader in PIC microcontrollers
-dev-java/icedtea 3.0.1-r1: A harness to build OpenJDK using Free Software build tools and dependencies
+dev-java/icedtea 3.0.1-r1 3.1.0-r1: A harness to build OpenJDK using Free Software build tools and dependencies
 dev-java/jgraphx 1.4.2.3: Open-source graph component for Java
 dev-java/msgpack 0.5.1 0.6.12: MessagePack for Java is a binary-based efficient object serialization library in Java.
 dev-java/sleep 2.1-r1: Duct Tape for the Java platform
