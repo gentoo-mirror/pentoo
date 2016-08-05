@@ -1,7 +1,7 @@
 app-admin/genmenu 9999: a tool for generating freedesktop-compliant menus
 app-admin/sunpatchcheck 3.3: Sun Missing Patch checker
 app-antivirus/malheur 0.5.2-r1 0.5.3: malware analysis tool
-app-antivirus/veil-evasion 2.24 2.26.2 2.26.5: A tool for payloads generation that bypass common anti-virus solutions
+app-antivirus/veil-evasion 2.26.5 2.28.1: A tool for payloads generation that bypass common anti-virus solutions
 app-crypt/SIPcrack 0.4-r1: SIPcrack is a SIP protocol login cracker
 app-crypt/acsccid 1.1.0: Generic driver for ACS (CCID and non-CCID) Smart Card Reader.
 app-crypt/asleap 2.2: exploiting cisco leap; As in asleap behind the wheel.
@@ -22,7 +22,7 @@ app-dicts/raft-wordlists 20110803: Raft wordlists
 app-emulation/qemu-charm 0.13.0: QEMU arm user-land emulation for CHroot ARM setup on x86*
 app-emulation/vmware-modules 279.2-r1: VMware kernel modules
 app-exploits/exploitdb 9999: All exploits from exploit-db.com
-app-exploits/packetstormexploits 2012.13 2013.13 2014.13 2015.13 2016.06: Archive of packetstorm exploits
+app-exploits/packetstormexploits 2012.13 2013.13 2014.13 2015.13 2016.07: Archive of packetstorm exploits
 app-exploits/packetstormexploits-meta 2016: Meta ebuild of packetstorm exploits
 app-exploits/shellstorm 9999: Search and display all shellcodes in shell-storm database.
 app-exploits/weevely 3.2.0: Weevely is a stealth PHP web shell that simulate telnet-like console
