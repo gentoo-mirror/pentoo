@@ -11,8 +11,8 @@ MY_P="${MY_PN}_${PV}"
 ZAP_EXTENSIONS_URI="https://github.com/zaproxy/zap-extensions/releases/download/2.5"
 
 declare -a PLUGINS
-PLUGINS[0]="ascanrules;release;23"
-PLUGINS[1]="pscanrules;release;16"
+PLUGINS[0]="ascanrules;release;24"
+PLUGINS[1]="pscanrules;release;17"
 PLUGINS[2]="directorylistv1;release;3"
 PLUGINS[3]="directorylistv2_3;release;3"
 PLUGINS[4]="directorylistv2_3_lc;release;3"
@@ -24,11 +24,12 @@ PLUGINS[9]="beanshell;beta;5"
 PLUGINS[10]="fuzzdb;release;4"
 PLUGINS[11]="quickstart;release;18"
 PLUGINS[12]="plugnhack;beta;9"
-PLUGINS[13]="sqliplugin;beta;10"
+PLUGINS[13]="sqliplugin;beta;11"
 PLUGINS[14]="wappalyzer;alpha;7"
-PLUGINS[15]="selenium;release;5"
+PLUGINS[15]="selenium;release;7"
 PLUGINS[16]='spiderAjax;release;15'
-PLUGINS[17]='zest;beta;21'
+PLUGINS[17]='zest;beta;22'
+PLUGINS[18]='invoke;beta;4'
 
 for i in "${PLUGINS[@]}"
 do
@@ -61,6 +62,7 @@ src_prepare() {
 		rm "${S}"/plugin/plugnhack-*.zap
 		rm "${S}"/plugin/pscanrules-*.zap
 		rm "${S}"/plugin/quickstart-*.zap
+		rm "${S}"/plugin/invoke-*.zap
 
 		for i in "${PLUGINS[@]}"
 		do
