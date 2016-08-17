@@ -6,4 +6,4 @@ KEYWORDS=~arm ~amd64 ~x86
 RDEPEND=!<pentoo/pentoo-system-2014.3-r4 livecd? ( pentoo/pentoo-installer app-misc/livecd-tools virtual/eject sys-apps/hwsetup sys-block/disktype x11-misc/mkxf86config sys-apps/gentoo-functions )
 SLOT=0
 _eclass_exported_funcs=pkg_setup:- src_install:-
-_md5_=cfd77a198440ddfe2bc3d9e9c583ed78
+_md5_=f75b82d3ca6792783e3dbc8d0acff501
