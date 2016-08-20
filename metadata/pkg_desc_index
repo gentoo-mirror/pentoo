@@ -9,7 +9,7 @@ app-crypt/bob-the-butcher 0.7.1: a distributed password cracker
 app-crypt/cpyrit_calpp 0.4.0 9999: A GPU-based WPA-PSK and WPA2-PSK cracking tool
 app-crypt/cryptohaze-combined 1.31 9999: GPU and OpenCL accelerated password auditing tools for security professionals
 app-crypt/cuda-rarcrypt 3.2-r1: A Nvidia GPU-based RAR bruteforcer
-app-crypt/hashcat 3.00-r1: An advanced CPU-based password recovery utility
+app-crypt/hashcat 3.10: An advanced CPU-based password recovery utility
 app-crypt/hashkill 0.3.1-r1 0.3.1_p20131031 0.3.1_p20140204 9999: Multi-threaded password recovery tool with multi-GPU support
 app-crypt/johntheripper 1.8.0: fast password cracker
 app-crypt/md5bf 0.1: A tool to crack md5 hashes by bruteforce or dictionary attack
