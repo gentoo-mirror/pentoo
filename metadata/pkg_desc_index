@@ -109,7 +109,9 @@ dev-libs/unicorn-bindings 0.9_p20160901: Unicorn bindings
 dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
 dev-perl/Tie-CharArray 1.00: Manipulate perl strings through tied array
 dev-python/DartsPyLRU 0.5: LRU Dictionaries
+dev-python/PTP 0.3.0: Pentester's Tools Parser
 dev-python/PyGithub 1.21.0: Python library to access the Github API v3
+dev-python/PyVirtualDisplay 0.2: python wrapper for Xvfb, Xephyr and Xvnc
 dev-python/acora 9999: Fast multi-keyword search engine for text strings
 dev-python/capstone-python 2.1.2 3.0.4: A lightweight multi-platform, multi-architecture disassembly framework
 dev-python/clamd 1.0.1: Clamd is a python interface to Clamd (Clamav daemon)
@@ -142,6 +144,7 @@ dev-python/pynetfilter_conntrack 0.4.2: Python binding of libnetfilter_conntrack
 dev-python/pyscard 9999: pyscard is a python module adding smart cards support to python.
 dev-python/python-nmap 0.6.0: a python library which helps in using nmap port scanner
 dev-python/python-ntlm 1.0.1 1.1.0: Clamd is a python interface to Clamd (Clamav daemon)
+dev-python/python-owasp-zap-v2 0.0.9: OWASP ZAP Python API
 dev-python/python-registry 1.0.4: A pure Python module that provides read access to Windows Registry files
 dev-python/ruamel-ordereddict 0.4.9: An ordered dictionary with KIO/KVIO
 dev-python/sortedcontainers 9999: Python Sorted Container Types: SortedList, SortedDict, and SortedSet
@@ -273,6 +276,7 @@ net-analyzer/nmap_vulscan 2.0-r1: A NSE vulnerability scanner which uses an offl
 net-analyzer/ntop 5.0.1: Network traffic analyzer with web interface
 net-analyzer/ntp-fingerprint 0.1-r1: NTP fingerprinting utility
 net-analyzer/onesixtyone 0.3.2-r2 0.6 0.7: An efficient SNMP scanner
+net-analyzer/owtf 2.0a: OWASP ZAP Python API
 net-analyzer/packet-o-matic 9999: packet-o-matic is a real time packet processor
 net-analyzer/padbuster 20110928: Automated script for performing Padding Oracle attacks
 net-analyzer/plecost 9999: Wordpress finger printing tool, retrieve information about the plugins and versions installed
