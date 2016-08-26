@@ -19,9 +19,11 @@ KEYWORDS=""
 IUSE="python"
 REQUIRED_USE="python? ( ${PYTHON_REQUIRED_USE} )"
 
-RDEPEND="python? ( ${PYTHON_DEPS} )"
+RDEPEND="python? ( ${PYTHON_DEPS} )
+		net-wireless/soapysdr
+		net-wireless/hackrf"
 DEPEND="${RDEPEND}
-	python? ( dev-lang/swig:0 )
+		python? ( dev-lang/swig:0 )
 "
 
 src_prepare() {
