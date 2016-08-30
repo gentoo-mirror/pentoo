@@ -9,4 +9,4 @@ SLOT=0
 SRC_URI=https://github.com/owtf/owtf/archive/v2.0a.tar.gz -> owtf-2.0a.tar.gz
 _eclass_exported_funcs=pkg_postinst:- pkg_setup:python-single-r1 src_prepare:- src_install:-
 _eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	d062ae4ba2fc40a19c11de2ad89b6616	python-single-r1	2ebea8fbab356d63110245129a67a6dd	python-utils-r1	c0ed2a2f233d3af6dd556048695dc5cb	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
-_md5_=cddbf88c732764327e260d088eb3abc7
+_md5_=77f9295a0e52f9a6b97668bbadf17f6e
