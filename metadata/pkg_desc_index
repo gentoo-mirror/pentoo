@@ -276,7 +276,7 @@ net-analyzer/nmap_vulscan 2.0-r1: A NSE vulnerability scanner which uses an offl
 net-analyzer/ntop 5.0.1: Network traffic analyzer with web interface
 net-analyzer/ntp-fingerprint 0.1-r1: NTP fingerprinting utility
 net-analyzer/onesixtyone 0.3.2-r2 0.6 0.7: An efficient SNMP scanner
-net-analyzer/owtf 2.0a-r1: OWASP ZAP Python API
+net-analyzer/owtf 2.0a-r2: The Offensive Web Testing Framework
 net-analyzer/packet-o-matic 9999: packet-o-matic is a real time packet processor
 net-analyzer/padbuster 20110928: Automated script for performing Padding Oracle attacks
 net-analyzer/plecost 9999: Wordpress finger printing tool, retrieve information about the plugins and versions installed
