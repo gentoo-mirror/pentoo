@@ -10,5 +10,5 @@ RDEPEND=!symlink_all_targets? ( target_firefox? ( www-client/firefox ) target_fi
 SLOT=0
 SRC_URI=http://addons.mozilla.org/downloads/file/229626 -> sql-inject-me-0.4.7.xpi
 _eclass_exported_funcs=src_unpack:mozilla-addon src_install:-
-_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	mozextension	3d8ee4835f89ff39d4666656aa603433	mozilla-addon	8d5d6700a00c98468e9e6c7269e50064	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
+_eclasses_=eutils	b83a2420b796f7c6eff682679d08fe25	mozextension	3d8ee4835f89ff39d4666656aa603433	mozilla-addon	8d5d6700a00c98468e9e6c7269e50064	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
 _md5_=b7858bf5709ad322cfc7e423e8cb0a56
