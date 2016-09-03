@@ -10,5 +10,5 @@ RDEPEND=!symlink_all_targets? ( target_firefox? ( www-client/firefox ) target_fi
 SLOT=0
 SRC_URI=http://addons.mozilla.org/downloads/latest/59 -> user-agent-switcher-9999.xpi
 _eclass_exported_funcs=pkg_postinst:- src_unpack:mozilla-addon src_install:-
-_eclasses_=eutils	b83a2420b796f7c6eff682679d08fe25	mozextension	3d8ee4835f89ff39d4666656aa603433	mozilla-addon	8d5d6700a00c98468e9e6c7269e50064	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
+_eclasses_=eutils	b83a2420b796f7c6eff682679d08fe25	mozextension	3d8ee4835f89ff39d4666656aa603433	mozilla-addon	8d5d6700a00c98468e9e6c7269e50064	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
 _md5_=2a56e7f0776fb5d9e83fe64e77ffd5b3
