@@ -477,7 +477,7 @@ www-misc/firefox-bookmarks 0.3-r1: Firefox bookmarks for the Pento ISO only
 www-plugins/adblock_plus 2.6.7 9999: Firefox extension to block annoying ads automatically, no distractions.
 www-plugins/cookies_exportimport 1.0-r2 9999: Imports/exports cookies following Netscape standard
 www-plugins/exif_viewer 2.00-r3 9999: Firefox extension to display the Exif and IPTC data in local and remote JPEG images.
-www-plugins/firebug 1.12.8b_p1 2.0.7 9999: Powerful web development tool for firefox
+www-plugins/firebug 2.0.17 9999: Powerful web development tool for firefox
 www-plugins/foxyproxy 4.5.7 9999: A set of proxy management tools for firefox
 www-plugins/hackbar 1.6.3 9999: Simple security audit / penetration test tool.
 www-plugins/hackplugins-meta 1.1-r1: Collection of browser's plugins for application security testing
