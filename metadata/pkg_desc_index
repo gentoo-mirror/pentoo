@@ -366,7 +366,7 @@ net-wireless/broadcom-firmware-downloader 0.1-r2 0.2: Closed Broadcom Commercial
 net-wireless/broadcom-firmware-installer 0.1-r3 0.2: Closed Broadcom Commercial Firmware Installer
 net-wireless/bt-audit 0.1.1-r1: A small bluetooth audit suite
 net-wireless/btscanner 2.1-r4: A utility for bluetooth scanning and discovery
-net-wireless/bully 1.0.22: A wifi-protected-setup (WPS) brute force attack tool, similar to reaver
+net-wireless/bully 1.0.22 1.1: A wifi-protected-setup (WPS) brute force attack tool, similar to reaver
 net-wireless/compat-wireless 2.6.32.8 2.6.33-r1 2.6.34-r2 2.6.35-r1 2.6.36 2.6.37-r7 2.6.37-r8 2.6.38.2-r1 2.6.39-r1 3.0 3.1.1 3.2 3.2.5 3.3 3.3-r1 3.4_rc1 3.4_rc1-r1 3.4_rc3 3.5_rc3 3.5 3.5-r1 3.5.4 3.6_rc5 3.6_rc7 3.6.2 3.6.6 3.6.6-r1: Stable kernel pre-release wifi subsystem backport
 net-wireless/compat-wireless-builder 3.3.6 3.4_rc3 3.4_rc7: Stable kernel pre-release wifi subsystem backport
 net-wireless/cowpatty 4.3-r2 4.6-r4: WLAN tools for bruteforcing 802.11 WPA/WPA2 keys
@@ -400,7 +400,7 @@ net-wireless/pixiewps 1.1 1.2.2: Bruteforce offline the WPS pin exploiting the l
 net-wireless/pyrit 0.4.0-r3: GPU-accelerated attack against WPA-PSK authentication
 net-wireless/qspectrumanalyzer 9999: vendor and platform neutral SDR support library
 net-wireless/reaver 1.4-r1 1.4-r2 1.4-r3: Brute force attack against Wifi Protected Setup
-net-wireless/reaver-wps-fork-t6x 1.5.2_p20160815: Utilise Pixie Dust Attack to find the correct WPS PIN.
+net-wireless/reaver-wps-fork-t6x 1.5.2_p20160909: Utilise Pixie Dust Attack to find the correct WPS PIN.
 net-wireless/rfidler 0.01_p20160313: Software defined RFID (LF) Reader/Writer/Emulator
 net-wireless/rfidtool 0.01: command line rfid interface
 net-wireless/rtl8812au 4.2.5 4.2.5_p20160712 9999: Driver for AC1200 (801.11ac) Wireless Dual-Band USB Adapter
