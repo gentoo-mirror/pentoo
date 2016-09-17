@@ -348,7 +348,7 @@ net-misc/wlan2eth 0.1: Wlan2eth is a tool that converts wlan pcap to ethernet-li
 net-proxy/burpsuite 1.6.32 1.7.03: Interactive proxy for attacking and debugging web applications
 net-proxy/mallory 0.2.0_p20130109: An TCP/UDP transparent proxy that can be used to intercept network streams
 net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal network via reverse connection
-net-proxy/proxenet 0.3.1: A hacker friendly proxy for web application penetration tests.
+net-proxy/proxenet 0.4.1: A hacker friendly proxy for web application penetration tests.
 net-proxy/proxenet-plugins 9999: Repository for proxenet plugins
 net-proxy/proxystrike 2.0 9999: A tool designed to find vulnerabilities while browsing an application
 net-proxy/redsocks 0.4 0.4-r1 9999: Transparent redirector of any TCP connection to proxy
