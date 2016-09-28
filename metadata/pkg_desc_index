@@ -242,7 +242,7 @@ net-analyzer/cisco-auditing-tool 1: Perl script which scans cisco routers for co
 net-analyzer/cisco-bruteforce-enabler 1: cisco internal bruteforcer
 net-analyzer/cisco-scanner 1.3: scan a network for cisco routers with default passwords
 net-analyzer/cisco-torch 0.4b: Cisco mass scanning, fingerprinting, and exploitation tool
-net-analyzer/crackmapexec 2.3 3.1: A swiss army knife for pentesting Windows/Active Directory environments
+net-analyzer/crackmapexec 3.1 3.1.4: A swiss army knife for pentesting Windows/Active Directory environments
 net-analyzer/davtest 1.0-r1: tests WebDAV enabled servers
 net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden content
 net-analyzer/dnsa 0.5-r1: Swiss-army knife tool for dns auditing
@@ -421,7 +421,7 @@ pentoo/pentoo-bluetooth 2016.3: Pentoo bluetooth meta ebuild
 pentoo/pentoo-cinnamon 2012.0: Pentoo cinnamon meta ebuild
 pentoo/pentoo-cracking 2016.3-r1: Pentoo cracking meta ebuild
 pentoo/pentoo-database 2015.3-r1: Pentoo database attack meta ebuild
-pentoo/pentoo-desktop 2016.3-r1: Pentoo meta ebuild to install all X and WM/DE related things
+pentoo/pentoo-desktop 2016.3-r2: Pentoo meta ebuild to install all X and WM/DE related things
 pentoo/pentoo-exploit 2016.3-r1: Pentoo exploit meta ebuild
 pentoo/pentoo-footprint 2013.0 2014.0 2016.0: Pentoo footprint meta ebuild
 pentoo/pentoo-forensics 2015.0: Pentoo forensics meta ebuild
