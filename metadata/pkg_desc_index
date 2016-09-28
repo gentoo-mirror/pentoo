@@ -210,7 +210,7 @@ dev-util/calpp 0.87-r1 0.90 0.90-r1: A library for efficient use of ATI CAL with
 dev-util/capstone 3.0.1 3.0.2 3.0.3 3.0.4: A lightweight multi-platform, multi-architecture disassembly framework
 dev-util/collabreate 0.2.0 0.3.0 0.3.0-r1 0.3.0-r2 0.3.0.1 0.3.0.1-r1: A plugin for IDA Pro designed to provide collaborative reverse engineering
 dev-util/dex2jar 0.0.9.13 0.0.9.15: Tools to work with android .dex and java .class files
-dev-util/edb 0.9.18 0.9.20 9999: EDB "Evan's Debugger" (OllyDbg workalike for Linux)
+dev-util/edb 0.9.20 0.9.20_p20160928 9999: edb is a cross platform x86/x86-64 debugger, inspired by Ollydbg
 dev-util/jd-gui-bin 0.3.5-r1 1.4.0: A standalone graphical utility that displays Java source codes of .class file
 dev-util/lida 03.00.00: interactive ELF disambler
 dev-util/memfetch 0: A simple utility to dump all memory of a running process
@@ -462,7 +462,7 @@ sys-kernel/chromeos-sources 9999: Linux kernel source for the Samsung Chromebook
 sys-kernel/compat-drivers 3.8-r1: Stable kernel pre-release wifi subsystem backport
 sys-kernel/odroid-sources 9999: Linux kernel source for the ODROID-[UX]2 products
 sys-kernel/odroidxu-sources 9999: Linux kernel source for the ODROIDXU products
-sys-kernel/pentoo-sources 4.0.8 4.4.2 4.4.8-r2: Pentoo kernel sources (kernel series 4.4)
+sys-kernel/pentoo-sources 4.0.8 4.4.2 4.4.8-r2 4.7.4: Pentoo kernel sources (kernel series 4.7)
 sys-kernel/pf_ring-kmod 6.0.3: A new type of network socket that improves packet capture speed.
 sys-libs/libkudzu 1.2.85.1: Red Hat Hardware detection tools
 sys-libs/newlib 1.17.0: Newlib is a C library intended for use on embedded systems
