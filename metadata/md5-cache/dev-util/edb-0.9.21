@@ -1,16 +1,14 @@
 DEFINED_PHASES=compile configure install postinst prepare test
-DEPEND=qt4? ( >=dev-qt/qtcore-4.6.0:4 >=dev-qt/qtgui-4.6.0:4 ) qt5? ( dev-qt/qtcore:5 dev-qt/qtgui:5 ) >=dev-libs/boost-1.35.0 sys-devel/make >=dev-util/cmake-2.8.12
-DESCRIPTION=EDB "Evan's Debugger" (OllyDbg workalike for Linux)
-EAPI=5
-HOMEPAGE=http://www.codef00.com/projects.php#debugger
-IUSE=qt4 qt5
-KEYWORDS=amd64 x86
+DEPEND=>=dev-libs/boost-1.35.0 >=dev-libs/capstone-3.0 graphviz? ( >=media-gfx/graphviz-2.38.0 ) dev-qt/qtwidgets:5 dev-qt/qtxml:5 dev-qt/qtxmlpatterns:5 dev-qt/qtnetwork:5 dev-qt/qtconcurrent:5 dev-qt/qtgui:5 dev-qt/qtcore:5 sys-devel/make >=dev-util/cmake-2.8.12
+DESCRIPTION=edb is a cross platform x86/x86-64 debugger, inspired by Ollydbg
+EAPI=6
+HOMEPAGE=https://github.com/eteran/edb-debugger
+IUSE=graphviz legacy-mem-write pax_kernel
+KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
-RDEPEND=qt4? ( >=dev-qt/qtcore-4.6.0:4 >=dev-qt/qtgui-4.6.0:4 ) qt5? ( dev-qt/qtcore:5 dev-qt/qtgui:5 ) >=dev-libs/boost-1.35.0
-REQUIRED_USE=|| ( qt4 qt5 )
-RESTRICT=strip
+RDEPEND=>=dev-libs/capstone-3.0 graphviz? ( >=media-gfx/graphviz-2.38.0 ) dev-qt/qtwidgets:5 dev-qt/qtxml:5 dev-qt/qtxmlpatterns:5 dev-qt/qtnetwork:5 dev-qt/qtconcurrent:5 dev-qt/qtgui:5 dev-qt/qtcore:5
 SLOT=0
 SRC_URI=https://github.com/eteran/edb-debugger/releases/download/0.9.21/edb-debugger-0.9.21.tgz
-_eclass_exported_funcs=pkg_postinst:- src_prepare:cmake-utils src_configure:- src_compile:cmake-utils src_test:cmake-utils src_install:cmake-utils
+_eclass_exported_funcs=pkg_postinst:- src_prepare:- src_configure:- src_compile:cmake-utils src_test:cmake-utils src_install:cmake-utils
 _eclasses_=cmake-utils	f3d38665b0a86e08ba3a5473cdbfafd3	eutils	b83a2420b796f7c6eff682679d08fe25	flag-o-matic	8632fcd33a047954f007dee9a137bdcc	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	6198c04daba0e1307bd844df7d37f423	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
-_md5_=09a8486b65690a2902b3e15e3418455d
+_md5_=2b63e9c20b0d6ce5ac8933b13cff65d7
