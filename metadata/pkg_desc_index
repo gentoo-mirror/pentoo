@@ -99,6 +99,7 @@ dev-java/icedtea 3.0.1-r1 3.1.0-r1: A harness to build OpenJDK using Free Softwa
 dev-java/jgraphx 1.4.2.3: Open-source graph component for Java
 dev-java/msgpack 0.5.1 0.6.12: MessagePack for Java is a binary-based efficient object serialization library in Java.
 dev-java/sleep 2.1-r1: Duct Tape for the Java platform
+dev-libs/capstone 3.0.1 3.0.2 3.0.3 3.0.4: A lightweight multi-platform, multi-architecture disassembly framework
 dev-libs/libdisasm 0.23: x86 Disassembler Library
 dev-libs/libguytools2 2.0.1-r1: Library for guymager
 dev-libs/libhijack 0.5.2 0.6: Make injecting arbitrary code and other shared objects into another process during runtime easy
@@ -207,7 +208,6 @@ dev-util/ati-app-sdk-bin 2.9: AMD Accelerated Parallel Processing (APP) SDK (for
 dev-util/ati-stream-sdk-bin 2.01 2.2 2.3: Enable compiling code and loading it on ATI/AMD GPU
 dev-util/bokken 1.8-r1: GUI for the Pyew malware analysis and Radare the reverse engineering framework
 dev-util/calpp 0.87-r1 0.90 0.90-r1: A library for efficient use of ATI CAL with C++
-dev-util/capstone 3.0.1 3.0.2 3.0.3 3.0.4: A lightweight multi-platform, multi-architecture disassembly framework
 dev-util/collabreate 0.2.0 0.3.0 0.3.0-r1 0.3.0-r2 0.3.0.1 0.3.0.1-r1: A plugin for IDA Pro designed to provide collaborative reverse engineering
 dev-util/dex2jar 0.0.9.13 0.0.9.15: Tools to work with android .dex and java .class files
 dev-util/edb 0.9.21 9999: edb is a cross platform x86/x86-64 debugger, inspired by Ollydbg
