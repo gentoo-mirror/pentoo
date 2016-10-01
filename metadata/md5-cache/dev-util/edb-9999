@@ -1,12 +1,12 @@
-DEFINED_PHASES=compile configure install postinst prepare test unpack
+DEFINED_PHASES=compile configure install prepare test unpack
 DEPEND=>=dev-libs/boost-1.35.0 >=dev-libs/capstone-3.0 graphviz? ( >=media-gfx/graphviz-2.38.0 ) dev-qt/qtwidgets:5 dev-qt/qtxml:5 dev-qt/qtxmlpatterns:5 dev-qt/qtnetwork:5 dev-qt/qtconcurrent:5 dev-qt/qtgui:5 dev-qt/qtcore:5 sys-devel/make >=dev-util/cmake-2.8.12 >=dev-vcs/git-1.8.2.1
 DESCRIPTION=edb is a cross platform x86/x86-64 debugger, inspired by Ollydbg
 EAPI=6
 HOMEPAGE=https://github.com/eteran/edb-debugger
-IUSE=graphviz legacy-mem-write pax_kernel
+IUSE=debug graphviz
 LICENSE=GPL-2
 RDEPEND=>=dev-libs/capstone-3.0 graphviz? ( >=media-gfx/graphviz-2.38.0 ) dev-qt/qtwidgets:5 dev-qt/qtxml:5 dev-qt/qtxmlpatterns:5 dev-qt/qtnetwork:5 dev-qt/qtconcurrent:5 dev-qt/qtgui:5 dev-qt/qtcore:5
 SLOT=0
-_eclass_exported_funcs=pkg_postinst:- src_unpack:git-r3 src_prepare:- src_configure:- src_compile:cmake-utils src_test:cmake-utils src_install:cmake-utils
+_eclass_exported_funcs=src_unpack:git-r3 src_prepare:- src_configure:- src_compile:cmake-utils src_test:cmake-utils src_install:cmake-utils
 _eclasses_=cmake-utils	f3d38665b0a86e08ba3a5473cdbfafd3	eutils	b83a2420b796f7c6eff682679d08fe25	flag-o-matic	8632fcd33a047954f007dee9a137bdcc	git-r3	00f60a84fc7b499c99edfe99caea9f95	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	6198c04daba0e1307bd844df7d37f423	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
-_md5_=5826bb1dc9437523dc5cb8899d4ad99f
+_md5_=50b1f2e35adc120c56eeea3be5abeffa
