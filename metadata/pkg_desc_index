@@ -17,6 +17,7 @@ app-crypt/rcracki_mt 0.6.6 0.7.0: perform a rainbow table attack on password has
 app-crypt/samdump2 3.0.0-r1: Windows NT/2k/XP/Vista sam hash dumper
 app-crypt/steghide 0.5.1: A steganography program which hides data in various media files
 app-crypt/wisecracker 1.0-r1: An open source framework for tools that can distribute brute force cryptanalysis
+app-crypt/yubioath-desktop 3.0.1: Library and tool for personalization of Yubico's YubiKey NEO
 app-dicts/raft-wordlists 20110803: Raft wordlists
 app-emulation/qemu-charm 0.13.0: QEMU arm user-land emulation for CHroot ARM setup on x86*
 app-emulation/vmware-modules 279.2-r1: VMware kernel modules
@@ -141,7 +142,6 @@ dev-python/pygoogle-ajax 9999: a very basic Google search module for Python usin
 dev-python/pygtail 0.7.0: Reads log file lines that have not been read
 dev-python/pymills 3.4-r2: Powerful event library enabling asyncronous and event-driven applications and system to be developed
 dev-python/pynetfilter_conntrack 0.4.2: Python binding of libnetfilter_conntrack
-dev-python/pyscard 9999: pyscard is a python module adding smart cards support to python.
 dev-python/python-nmap 0.6.0: a python library which helps in using nmap port scanner
 dev-python/python-ntlm 1.0.1 1.1.0: Clamd is a python interface to Clamd (Clamav daemon)
 dev-python/python-owasp-zap-v2 0.0.9: OWASP ZAP Python API
