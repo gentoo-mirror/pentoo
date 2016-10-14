@@ -465,7 +465,7 @@ sys-kernel/pentoo-sources 4.0.8 4.4.2 4.4.8-r2 4.7.7: Pentoo kernel sources (ker
 sys-kernel/pf_ring-kmod 6.0.3: A new type of network socket that improves packet capture speed.
 sys-libs/libkudzu 1.2.85.1: Red Hat Hardware detection tools
 sys-libs/newlib 1.17.0: Newlib is a C library intended for use on embedded systems
-sys-power/acpid 2.0.23: Daemon for Advanced Configuration and Power Interface
+sys-power/acpid 2.0.23 2.0.27: Daemon for Advanced Configuration and Power Interface
 virtual/jdk 1.7.0-r3 1.8.0-r4: Virtual for Java Development Kit (JDK)
 virtual/linux-sources 1-r1: Virtual for Linux kernel sources
 virtual/pkgconfig 0: Virtual for the pkg-config implementation
