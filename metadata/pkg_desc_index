@@ -1,7 +1,7 @@
 app-admin/genmenu 9999: a tool for generating freedesktop-compliant menus
 app-admin/sunpatchcheck 3.3: Sun Missing Patch checker
 app-antivirus/malheur 0.5.2-r1 0.5.3: malware analysis tool
-app-antivirus/veil-evasion 2.26.5 2.28.1: A tool for payloads generation that bypass common anti-virus solutions
+app-antivirus/veil-evasion 2.28.2: A tool for payloads generation that bypass common anti-virus solutions
 app-crypt/SIPcrack 0.4-r1: SIPcrack is a SIP protocol login cracker
 app-crypt/acsccid 1.1.0: Generic driver for ACS (CCID and non-CCID) Smart Card Reader.
 app-crypt/asleap 2.2: exploiting cisco leap; As in asleap behind the wheel.
