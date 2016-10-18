@@ -2,12 +2,12 @@ DEFINED_PHASES=install setup
 DESCRIPTION=A tool for payloads generation that bypass common anti-virus solutions
 EAPI=5
 HOMEPAGE=https://github.com/Veil-Framework/Veil-Evasion
-IUSE=tools python_targets_python2_7
-KEYWORDS=~amd64 ~x86
+IUSE=tools windows python_targets_python2_7
+KEYWORDS=~amd64
 LICENSE=GPL-3
-RDEPEND=>=dev-python/pycrypto-2.3 dev-python/symmetricjsonrpc dev-python/pefile dev-python/capstone-python dev-python/pyinstaller tools? ( dev-lang/go app-emulation/wine net-analyzer/metasploit )
+RDEPEND=>=dev-python/pycrypto-2.3 dev-python/symmetricjsonrpc dev-python/pefile dev-python/capstone-python windows? ( dev-python/pyinstaller app-emulation/wine ) tools? ( dev-lang/go net-analyzer/metasploit )
 SLOT=0
 SRC_URI=https://github.com/Veil-Framework/Veil-Evasion/archive/2.28.2.tar.gz -> veil-evasion-2.28.2.tar.gz
 _eclass_exported_funcs=pkg_setup:python-single-r1 src_install:-
 _eclasses_=eutils	b83a2420b796f7c6eff682679d08fe25	multilib	165fc17c38d1b11dac2008280dab6e80	python-single-r1	2ebea8fbab356d63110245129a67a6dd	python-utils-r1	1797277ea0e7cee5c7de7ce74cf8acd8	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
-_md5_=de003b9219ee93c25a2712288485314f
+_md5_=a753608070561a81e5e4b650e4a83053
