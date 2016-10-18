@@ -1,7 +1,7 @@
 app-admin/genmenu 9999: a tool for generating freedesktop-compliant menus
 app-admin/sunpatchcheck 3.3: Sun Missing Patch checker
 app-antivirus/malheur 0.5.2-r1 0.5.3: malware analysis tool
-app-antivirus/veil-evasion 2.28.2: A tool for payloads generation that bypass common anti-virus solutions
+app-antivirus/veil-evasion 2.28.2-r1: A tool for payloads generation that bypass common anti-virus solutions
 app-crypt/SIPcrack 0.4-r1: SIPcrack is a SIP protocol login cracker
 app-crypt/acsccid 1.1.0: Generic driver for ACS (CCID and non-CCID) Smart Card Reader.
 app-crypt/asleap 2.2: exploiting cisco leap; As in asleap behind the wheel.
@@ -100,7 +100,7 @@ dev-java/icedtea 3.0.1-r1 3.1.0-r1: A harness to build OpenJDK using Free Softwa
 dev-java/jgraphx 1.4.2.3: Open-source graph component for Java
 dev-java/msgpack 0.5.1 0.6.12: MessagePack for Java is a binary-based efficient object serialization library in Java.
 dev-java/sleep 2.1-r1: Duct Tape for the Java platform
-dev-libs/capstone 3.0.1 3.0.2 3.0.3 3.0.4: A lightweight multi-platform, multi-architecture disassembly framework
+dev-libs/capstone 3.0.4-r2: disassembly/disassembler framework + bindings
 dev-libs/libdisasm 0.23: x86 Disassembler Library
 dev-libs/libguytools2 2.0.1-r1: Library for guymager
 dev-libs/libhijack 0.5.2 0.6: Make injecting arbitrary code and other shared objects into another process during runtime easy
@@ -140,6 +140,7 @@ dev-python/pyamf 0.6.2 0.6.2_p20150122: Action Message Format (AMF) support for 
 dev-python/pybonjour 1.1.1: Python interface to Apple Bonjour and compatible DNS-SD libraries (Avahi)
 dev-python/pygoogle-ajax 9999: a very basic Google search module for Python using the AJAX API
 dev-python/pygtail 0.7.0: Reads log file lines that have not been read
+dev-python/pyinstaller 3.2: Program converting Python programs into stand-alone executables
 dev-python/pymills 3.4-r2: Powerful event library enabling asyncronous and event-driven applications and system to be developed
 dev-python/pynetfilter_conntrack 0.4.2: Python binding of libnetfilter_conntrack
 dev-python/python-nmap 0.6.0: a python library which helps in using nmap port scanner
