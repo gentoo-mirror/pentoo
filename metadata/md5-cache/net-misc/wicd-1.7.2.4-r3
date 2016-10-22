@@ -10,5 +10,5 @@ RDEPEND=dev-python/dbus-python X? ( gtk? ( dev-python/pygtk || ( x11-misc/ktsuss
 SLOT=0
 SRC_URI=http://launchpad.net/wicd/1.7/1.7.2.4/+download/wicd-1.7.2.4.tar.gz mac4lin? ( http://dev.gentoo.org/~anarchy/dist/wicd-mac4lin-icons.tar.xz ) ambiance? ( http://freetimesblog.altervista.org/blog/wp-content/uploads/downloads/2010/05/Icone-Wicd-Lucid.tar.gz )
 _eclass_exported_funcs=pkg_postrm:distutils pkg_postinst:- pkg_setup:python src_prepare:- src_configure:- src_compile:distutils src_install:-
-_eclasses_=distutils	ad9e4720eb3e69090dd968b152fc611b	eutils	b83a2420b796f7c6eff682679d08fe25	multilib	165fc17c38d1b11dac2008280dab6e80	python	efc1c55fc44c5b7272fc2ffba73c3e6f	systemd	5b6ca8b2fc1307ca593223f327342c96	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
+_eclasses_=distutils	ad9e4720eb3e69090dd968b152fc611b	eutils	b83a2420b796f7c6eff682679d08fe25	multilib	165fc17c38d1b11dac2008280dab6e80	python	efc1c55fc44c5b7272fc2ffba73c3e6f	systemd	5b6ca8b2fc1307ca593223f327342c96	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
 _md5_=7aff5d88d939ea9133ab9676394530bb

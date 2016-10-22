@@ -10,5 +10,5 @@ RDEPEND=capstone? ( >dev-libs/capstone-2.1.2:= ) !dev-util/radare2-capstone ssl?
 SLOT=0
 SRC_URI=https://github.com/radare/radare2/archive/0.9.9.tar.gz -> radare2-0.9.9.tar.gz
 _eclass_exported_funcs=src_prepare:- src_configure:-
-_eclasses_=eutils	b83a2420b796f7c6eff682679d08fe25	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
+_eclasses_=eutils	b83a2420b796f7c6eff682679d08fe25	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
 _md5_=c38c01e9072d7091c2c73fe4afbe3425
