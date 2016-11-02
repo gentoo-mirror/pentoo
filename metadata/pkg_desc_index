@@ -475,7 +475,6 @@ virtual/pkgconfig 0: Virtual for the pkg-config implementation
 www-apps/arachni 1.3.2-r3 1.4: Arachni is a feature-full web application scanner
 www-apps/beef 0.4.4.8-r2 0.4.4.9 0.4.5.0 0.4.5.1-r1 0.4.6.1: Browser exploitation framework
 www-apps/rda 2.1: Web-based application for effective reporting writing
-www-client/firefox 45.4.0 49.0: Firefox Web Browser
 www-misc/firefox-bookmarks 0.3-r1: Firefox bookmarks for the Pento ISO only
 www-plugins/adblock_plus 2.6.7 9999: Firefox extension to block annoying ads automatically, no distractions.
 www-plugins/cookies_exportimport 1.0-r2 9999: Imports/exports cookies following Netscape standard
