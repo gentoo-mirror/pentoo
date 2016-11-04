@@ -101,6 +101,7 @@ dev-java/jgraphx 1.4.2.3: Open-source graph component for Java
 dev-java/msgpack 0.5.1 0.6.12: MessagePack for Java is a binary-based efficient object serialization library in Java.
 dev-java/sleep 2.1-r1: Duct Tape for the Java platform
 dev-libs/capstone 3.0.4-r2: disassembly/disassembler framework + bindings
+dev-libs/glib 2.48.2 2.50.1: The GLib library of C routines
 dev-libs/libdisasm 0.23: x86 Disassembler Library
 dev-libs/libguytools2 2.0.1-r1: Library for guymager
 dev-libs/libhijack 0.5.2 0.6: Make injecting arbitrary code and other shared objects into another process during runtime easy
