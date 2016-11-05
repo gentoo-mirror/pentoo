@@ -1,0 +1,14 @@
+DEFINED_PHASES=configure prepare setup
+DEPEND=cxx? ( sys-devel/gcc:*[cxx] ) perl? ( dev-lang/perl ) guile? ( dev-scheme/guile:* ) lua? ( >=dev-lang/lua-5.1.4:* ) php5? ( >=dev-lang/php-5.3.8:* ) ruby? ( || ( dev-lang/ruby:2.1 dev-lang/ruby:2.2 ) ) ~dev-util/radare2-0.10.6 virtual/pkgconfig dev-util/valabind dev-lang/swig >=dev-lang/vala-0.14
+DESCRIPTION=Language bindings for radare2
+EAPI=5
+HOMEPAGE=https://github.com/radare/radare2-bindings
+IUSE=ctypes cxx guile lua perl php5 python ruby python_targets_python2_7
+KEYWORDS=~x86 ~amd64
+LICENSE=GPL-3
+RDEPEND=cxx? ( sys-devel/gcc:*[cxx] ) perl? ( dev-lang/perl ) guile? ( dev-scheme/guile:* ) lua? ( >=dev-lang/lua-5.1.4:* ) php5? ( >=dev-lang/php-5.3.8:* ) ruby? ( || ( dev-lang/ruby:2.1 dev-lang/ruby:2.2 ) )
+SLOT=0
+SRC_URI=https://github.com/radare/radare2-bindings/archive/0.10.6.tar.gz -> radare2-bindings-0.10.6.tar.gz
+_eclass_exported_funcs=pkg_setup:python-single-r1 src_prepare:- src_configure:-
+_eclasses_=eutils	b83a2420b796f7c6eff682679d08fe25	multilib	165fc17c38d1b11dac2008280dab6e80	python-single-r1	2ebea8fbab356d63110245129a67a6dd	python-utils-r1	d142329ab093dd20c1dd0edb5f094108	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
+_md5_=40ac0ed5045d4682c41141374a037d06
