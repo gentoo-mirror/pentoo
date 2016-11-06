@@ -49,7 +49,7 @@ app-forensics/samhain 4.1.4: Advanced file integrity and intrusion detection too
 app-forensics/stegdetect 0.6 0.6-r1: A Steganography detector for JPEG
 app-forensics/streams 0.1.0: streams is a tool for browsing, mining and processing TCP streams in pcap files
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
-app-forensics/volatility 2.1 2.2 2.3.1: Forensic tool for analyzing volatile memory
+app-forensics/volatility 2.5: Framework for analyzing volatile memory
 app-forensics/xmount 0.5.0 0.7.3: Convert on-the-fly between multiple input and output harddisk image types
 app-forensics/yara 3.3.0 3.5.0: A malware identification and classification tool
 app-forensics/yim2text 0.1.0: A python script to decode yahoo instant message archive files
