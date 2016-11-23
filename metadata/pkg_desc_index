@@ -78,7 +78,7 @@ app-misc/libmsr 9999:
 app-misc/openobd 0.5.0: OBD-II Scan Tool supporting ELM327 devices
 app-pda/ideviceinstaller 1.0.1_p20140314 1.0.1_p20140527 1.1.0: A tool to interact with the installation_proxy of an Apple's iDevice
 app-pda/libimobiledevice 1.2.0-r2: Support library to communicate with Apple iPhone/iPod Touch devices
-app-pda/libplist 1.12: Support library to deal with Apple Property Lists (Binary & XML)
+app-pda/libplist 1.12 1.12-r1: Support library to deal with Apple Property Lists (Binary & XML)
 app-pda/libusbmuxd 1.0.10: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
 app-pda/usbmuxd 1.1.0: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
 app-text/cewl 5.1 5.2: A custom word list generator
