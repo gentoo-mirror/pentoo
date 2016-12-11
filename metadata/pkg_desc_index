@@ -6,6 +6,7 @@ app-crypt/SIPcrack 0.4-r1: SIPcrack is a SIP protocol login cracker
 app-crypt/acsccid 1.1.0: Generic driver for ACS (CCID and non-CCID) Smart Card Reader.
 app-crypt/asleap 2.2: exploiting cisco leap; As in asleap behind the wheel.
 app-crypt/bob-the-butcher 0.7.1: a distributed password cracker
+app-crypt/certbot-nginx 0.9.3: Apache NGINX plugin for certbot (Let's Encrypt Client)
 app-crypt/cpyrit_calpp 0.4.0 9999: A GPU-based WPA-PSK and WPA2-PSK cracking tool
 app-crypt/cryptohaze-combined 1.31 9999: GPU and OpenCL accelerated password auditing tools for security professionals
 app-crypt/cuda-rarcrypt 3.2-r1: A Nvidia GPU-based RAR bruteforcer
