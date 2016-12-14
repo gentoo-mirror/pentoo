@@ -204,7 +204,6 @@ dev-ruby/sourcify 0.5.0-r1: Workarounds before ruby-core officially supports Pro
 dev-ruby/spider 0.4.4-r2: web spidering library
 dev-ruby/sys-proctable 0.9.3: An interface for providing process table information
 dev-ruby/terminal-table 1.4.5-r1: Simple, feature rich ascii table generation library
-dev-ruby/typhoeus 0.3.3 0.6.9: Runs HTTP requests in parallel while cleanly encapsulating handling logic
 dev-ruby/watir-webdriver 0.6.9 0.8.0: WebDriver-backed Watir
 dev-util/apktool 2.0.2 2.0.3: A tool for reengineering 3rd party, closed, binary Android apps.
 dev-util/ati-app-sdk-bin 2.9: AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream)
@@ -476,7 +475,7 @@ sys-power/acpid 2.0.23 2.0.27: Daemon for Advanced Configuration and Power Inter
 virtual/jdk 1.7.0-r3 1.8.0-r4: Virtual for Java Development Kit (JDK)
 virtual/linux-sources 1-r1: Virtual for Linux kernel sources
 virtual/pkgconfig 0: Virtual for the pkg-config implementation
-www-apps/arachni 1.3.2-r3 1.4: Arachni is a feature-full web application scanner
+www-apps/arachni 1.4: Arachni is a feature-full web application scanner
 www-apps/beef 0.4.4.8-r2 0.4.4.9 0.4.5.0 0.4.5.1-r1 0.4.6.1: Browser exploitation framework
 www-apps/rda 2.1: Web-based application for effective reporting writing
 www-misc/firefox-bookmarks 0.3-r1: Firefox bookmarks for the Pento ISO only
