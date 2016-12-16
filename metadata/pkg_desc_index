@@ -360,7 +360,7 @@ net-wireless/aircrackgui-m4 0.7.0:
 net-wireless/airoscript 9999: N00b scripts for aircrack-ng :-)
 net-wireless/b43-openfwwf 5.2: OpenBroadcom Firmware
 net-wireless/b43-tools 9999: Tools for developers working on broadcom drivers/firmware
-net-wireless/blue_hydra 9999: bluetooth discovery service built on top of bluez
+net-wireless/blue_hydra 1.7.28 9999: bluetooth discovery service built on top of bluez
 net-wireless/bluemaho 090417-r2: BlueMaho is GUI-shell (interface) for suite of tools for testing security of bluetooth devices
 net-wireless/bluez 5.39: Bluetooth Tools and System Daemons for Linux
 net-wireless/broadcom-firmware-downloader 0.1-r2 0.2: Closed Broadcom Commercial Firmware Downloader
@@ -423,7 +423,7 @@ pentoo/pentoo 2014.3-r1 2015.1: Pentoo meta ebuild to install all apps
 pentoo/pentoo-analyzer 2016.3: Pentoo analyzers meta ebuild
 pentoo/pentoo-bluetooth 2016.3: Pentoo bluetooth meta ebuild
 pentoo/pentoo-cinnamon 2012.0: Pentoo cinnamon meta ebuild
-pentoo/pentoo-cracking 2016.3-r1: Pentoo cracking meta ebuild
+pentoo/pentoo-cracking 2016.3-r2: Pentoo cracking meta ebuild
 pentoo/pentoo-database 2015.3-r1: Pentoo database attack meta ebuild
 pentoo/pentoo-desktop 2016.3-r2: Pentoo meta ebuild to install all X and WM/DE related things
 pentoo/pentoo-exploit 2016.3-r1: Pentoo exploit meta ebuild
@@ -444,7 +444,7 @@ pentoo/pentoo-rce 2014.1: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2014.0: Pentoo scanner meta ebuild
 pentoo/pentoo-system 2016.3-r11: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2014.3: Pentoo voip meta ebuild
-pentoo/pentoo-wireless 2016.3: Pentoo wireless meta ebuild
+pentoo/pentoo-wireless 2016.3-r1: Pentoo wireless meta ebuild
 pentoo/tribe 2012.0: Tribe meta ebuild
 pentoo/zero-system 9999: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
 sys-apps/become 1.0 1.0-r1: utility for changing the current real, effective or group id

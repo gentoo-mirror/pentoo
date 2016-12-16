@@ -1,0 +1,16 @@
+DEFINED_PHASES=compile configure install prepare setup test unpack
+DEPEND=ruby_targets_ruby21? ( dev-ruby/bundler[ruby_targets_ruby21] test? ( dev-ruby/rake[ruby_targets_ruby21] dev-ruby/rspec:*[ruby_targets_ruby21] ) ) test? ( ruby_targets_ruby21? ( dev-ruby/dm-migrations[ruby_targets_ruby21] dev-ruby/dm-sqlite-adapter[ruby_targets_ruby21] dev-ruby/dm-timestamps[ruby_targets_ruby21] dev-ruby/dm-validations[ruby_targets_ruby21] dev-ruby/louis[ruby_targets_ruby21] development? ( dev-ruby/pry[ruby_targets_ruby21] dev-ruby/rake[ruby_targets_ruby21] dev-ruby/rspec:*[ruby_targets_ruby21] ) ) ) ruby_targets_ruby21? ( dev-lang/ruby:2.1 )
+DESCRIPTION=bluetooth discovery service built on top of bluez
+EAPI=5
+HOMEPAGE=https://github.com/pwnieexpress/blue_hydra
+IUSE=development ubertooth test elibc_FreeBSD ruby_targets_ruby21
+KEYWORDS=amd64 x86 arm
+LICENSE=BSD-4
+PDEPEND=dev-python/dbus-python net-wireless/bluez[test-programs] ubertooth? ( net-wireless/ubertooth )
+RDEPEND=ruby_targets_ruby21? ( dev-ruby/dm-migrations[ruby_targets_ruby21] dev-ruby/dm-sqlite-adapter[ruby_targets_ruby21] dev-ruby/dm-timestamps[ruby_targets_ruby21] dev-ruby/dm-validations[ruby_targets_ruby21] dev-ruby/louis[ruby_targets_ruby21] development? ( dev-ruby/pry[ruby_targets_ruby21] dev-ruby/rake[ruby_targets_ruby21] dev-ruby/rspec:*[ruby_targets_ruby21] ) ) ruby_targets_ruby21? ( dev-lang/ruby:2.1 )
+REQUIRED_USE=|| ( ruby_targets_ruby21 )
+SLOT=0
+SRC_URI=https://github.com/pwnieexpress/blue_hydra/archive/1.7.28.tar.gz -> blue_hydra-1.7.28.tar.gz
+_eclass_exported_funcs=pkg_setup:ruby-ng src_unpack:ruby-ng src_prepare:ruby-ng src_configure:ruby-ng src_compile:ruby-ng src_test:ruby-ng src_install:ruby-ng
+_eclasses_=eutils	b83a2420b796f7c6eff682679d08fe25	java-utils-2	a50950a73b5d5db46f42638e2996a087	multilib	165fc17c38d1b11dac2008280dab6e80	ruby-ng	e7d26f9077ef49f07eaa5d0c7758fe7b	ruby-utils	2f896785ed65442d7e84ab5f5eef3bd3	toolchain-funcs	1b1da0c45c555989dc5d832b54880783	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_md5_=a543f5f1901ee4252815b5989b86f18c
