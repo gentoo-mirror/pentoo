@@ -46,8 +46,6 @@ net-wireless/hostapd:debug - Enables debugging
 net-wireless/hostapd:logwatch - Install support files for sys-app/logwatch
 net-wireless/hostapd:madwifi - Add support for madwifi (Atheros chipset)
 net-wireless/hostapd:wps - Add support for Wi-Fi Protected Setup
-net-wireless/pyrit:cuda - Enable CUDA support via net-wireless/cpyrit-cuda
-net-wireless/pyrit:opencl - Enable OpenCL support via net-wireless/cpyrit-opencl
 sys-firmware/edk2:hello-world - Creates a HelloWorld.efi, ready to use with app-emulation/qemu.
 sys-firmware/edk2:qemu - Creates the uefi-bios for app-emulation/qemu.
 sys-firmware/edk2:shell - Creates the uefi-shell.

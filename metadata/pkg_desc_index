@@ -400,7 +400,6 @@ net-wireless/nfcd 9999: a daemon which access NFC Devices and Targets
 net-wireless/nfcpy 0.10.2: A tool to read/write NFC tags or communicate with another NFC device
 net-wireless/op25 9999: software-defined analyzer for APCO P25 signals
 net-wireless/pixiewps 1.1 1.2.2: Bruteforce offline the WPS pin exploiting the low or non-existing entropy
-net-wireless/pyrit 0.4.0-r3: GPU-accelerated attack against WPA-PSK authentication
 net-wireless/qspectrumanalyzer 9999: vendor and platform neutral SDR support library
 net-wireless/reaver 1.4-r1 1.4-r2 1.4-r3: Brute force attack against Wifi Protected Setup
 net-wireless/reaver-wps-fork-t6x 1.5.2_p20160909: Utilise Pixie Dust Attack to find the correct WPS PIN.
