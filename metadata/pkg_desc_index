@@ -73,7 +73,7 @@ app-fuzz/taof 0.3.2: A generic fuzzer framework
 app-misc/ROPgadget 5.4: Tool to search for gadgets in binaries to facilitate your ROP exploitation
 app-misc/binwalk 2.1.1: A tool for identifying files embedded inside firmware images
 app-misc/dradis 2.5.2 2.5.2-r1: A framework for effective information sharing
-app-misc/freediag 1.0.7: Free diagnostic software for OBD-II compliant motor vehicles
+app-misc/freediag 1.0.7 1.0.8: Free diagnostic software for OBD-II compliant motor vehicles
 app-misc/fslint 2.42: A utility to find and clean various forms of lint on a filesystem.
 app-misc/libmsr 9999: 
 app-misc/openobd 0.5.0: OBD-II Scan Tool supporting ELM327 devices
