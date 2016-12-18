@@ -62,7 +62,8 @@ src_prepare() {
 	else
 		cd "${MY_P}-${JUMBO}" || die
 	fi
-	epatch ${FILESDIR}/480e95b0e449863be3e1a5b0bc634a67df28b618.patch
+	epatch ${FILESDIR}/${PV}-fix-32bit.patch
+	epatch ${FILESDIR}/${PV}-gcc5.patch
 }
 
 src_configure() {
@@ -128,7 +129,7 @@ src_install() {
 	dosbin run/john
 	newsbin run/mailer john-mailer
 
-	pax-mark -mr "${ED}usr/sbin/john" || die
+	pax-mark -mr "${ED}usr/sbin/john"
 
 	if ! use minimal; then
 		# grep '$(LN)' Makefile.in | head -n-3 | tail -n+2 | cut -d' ' -f3 | cut -d/ -f3
