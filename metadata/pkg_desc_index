@@ -11,7 +11,7 @@ app-crypt/cpyrit_calpp 0.4.0 9999: A GPU-based WPA-PSK and WPA2-PSK cracking too
 app-crypt/cryptohaze-combined 1.31 9999: GPU and OpenCL accelerated password auditing tools for security professionals
 app-crypt/cuda-rarcrypt 3.2-r1: A Nvidia GPU-based RAR bruteforcer
 app-crypt/hashkill 0.3.1-r1 0.3.1_p20131031 0.3.1_p20140204 9999: Multi-threaded password recovery tool with multi-GPU support
-app-crypt/johntheripper 1.8.0 1.8.0-r1: fast password cracker
+app-crypt/johntheripper 1.8.0-r1: fast password cracker
 app-crypt/md5bf 0.1: A tool to crack md5 hashes by bruteforce or dictionary attack
 app-crypt/plaintoo 0.1: Plaintoo is a pygtk frontend to bkhive and samdump2 (included)
 app-crypt/rcracki_mt 0.6.6 0.7.0: perform a rainbow table attack on password hashes
