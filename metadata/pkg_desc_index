@@ -236,7 +236,7 @@ net-analyzer/armitage 9999 20141129 20150813: Cyber Attack Management for Metasp
 net-analyzer/armitage-bin 20140818 20141120 20150813: Cyber Attack Management for Metasploit
 net-analyzer/arpantispoofer 1.0.1.32: An utility to detect and resist arp spoofing
 net-analyzer/autoscan-network 1.50: Utility for network exploration with Samba support.
-net-analyzer/bettercap 1.5.6 1.5.8: A complete, modular, portable and easily extensible MITM framework
+net-analyzer/bettercap 1.5.8 1.5.9: A complete, modular, portable and easily extensible MITM framework
 net-analyzer/blindelephant 9999: generic web application fingerprinter that produces results by examining a small set of static files
 net-analyzer/bonesi 9999: BoNeSi - the DDoS Botnet Simulator
 net-analyzer/bro 2.2 2.3 2.3.1: a advanced intrusion detection system
