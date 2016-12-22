@@ -10,5 +10,5 @@ RDEPEND=>=net-wireless/ieee80211-1.2.15 >=net-wireless/ipw2200-firmware-3.0 net-
 SLOT=0
 SRC_URI=mirror://sourceforge/ipw2200/ipw2200-1.2.0.tgz
 _eclass_exported_funcs=pkg_preinst:linux-mod pkg_postrm:linux-mod pkg_postinst:linux-mod pkg_setup:- src_unpack:- src_compile:- src_install:-
-_eclasses_=eutils	b83a2420b796f7c6eff682679d08fe25	linux-info	af49d8ab3be91bb1d38b7201dc9e5123	linux-mod	4755518412586c2fd655ff6e55780bcb	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_eclasses_=eutils	b83a2420b796f7c6eff682679d08fe25	linux-info	af49d8ab3be91bb1d38b7201dc9e5123	linux-mod	0ccff2c1a7d70cf1678059b64bcf9183	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
 _md5_=64eb5e6360fea4d673b39c96f20a96c9
