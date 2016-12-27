@@ -295,7 +295,7 @@ net-analyzer/smtpmap 0.8.234_beta: a very complete and well done fingerprinter f
 net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
 net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
 net-analyzer/sslcat 1.0: netcat like application with ssl support
-net-analyzer/sslscan 1.11.8: Fast SSL configuration scanner
+net-analyzer/sslscan 1.11.8-r1: Fast SSL configuration scanner
 net-analyzer/sslstrip 0.9-r1: sslstrip remove https and forwards http
 net-analyzer/ssltest 0.5: SSL testing tool written in perl
 net-analyzer/sslyze 0.14.1: Fast and full-featured SSL scanner
