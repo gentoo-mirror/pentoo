@@ -116,19 +116,24 @@ dev-python/PTP 0.3.0: Pentester's Tools Parser
 dev-python/PyGithub 1.21.0: Python library to access the Github API v3
 dev-python/PyVirtualDisplay 0.2: python wrapper for Xvfb, Xephyr and Xvnc
 dev-python/acora 9999: Fast multi-keyword search engine for text strings
+dev-python/brotlipy 0.6.0: Python binding to the Brotli library
 dev-python/capstone-python 2.1.2 3.0.4: A lightweight multi-platform, multi-architecture disassembly framework
 dev-python/clamd 1.0.1: Clamd is a python interface to Clamd (Clamav daemon)
 dev-python/config 0.3.9-r1: This module allows a hierarchical configuration scheme with support for mappings and sequences
+dev-python/construct 2.8.10: Construct is a powerful declarative parser (and builder) for binary data
 dev-python/cxoracle 4.2: Python extension module that allows access to Oracle Databases
 dev-python/dotty 9999: EFILTER Query Language
 dev-python/dpkt 1.8.7: Fast, simple packet creation / parsing, with definitions for the basic TCP/IP protocols
+dev-python/editorconfig 0.12.1: EditorConfig File Locator and Interpreter for Python
 dev-python/enum34 1.0: Python 3.4 Enum backported to 3.3, 3.2, 3.1, 2.7, 2.6, 2.5 and 2.4
 dev-python/esmre 0.3.1: Regular expression accelerator
 dev-python/guess-language 0.2: Guess the natural language of a text
+dev-python/h2 2.5.1: Hyper: HTTP/2 Client for Python
 dev-python/halberd 0.2.4-r1: HTTP load balancer detector
 dev-python/impacket 0.9.13 0.9.14 0.9.15 9999: A collection of Python classes focused on providing access to network packets
 dev-python/intervaltree 9999: Editable interval tree data structure for Python 2 and 3
 dev-python/isc_dhcp_leases 0.8.1: Small python module for reading /var/lib/dhcp/dhcpd.leases from isc-dhcp-server
+dev-python/jsbeautifier 1.6.4: Beautify, unpack or deobfuscate JavaScript
 dev-python/nassl 0.14.1: Experimental Python wrapper for OpenSSL
 dev-python/nltk 2.0.4: Natural Language Toolkit
 dev-python/olefile 0.43: Python package to parse, read and write Microsoft OLE2 files
@@ -145,12 +150,15 @@ dev-python/pygtail 0.7.0: Reads log file lines that have not been read
 dev-python/pyinstaller 3.2: Program converting Python programs into stand-alone executables
 dev-python/pymills 3.4-r2: Powerful event library enabling asyncronous and event-driven applications and system to be developed
 dev-python/pynetfilter_conntrack 0.4.2: Python binding of libnetfilter_conntrack
+dev-python/pyperclip 1.5.27: Cross-platform clipboard module
 dev-python/python-nmap 0.6.0: a python library which helps in using nmap port scanner
 dev-python/python-ntlm 1.0.1 1.1.0: Clamd is a python interface to Clamd (Clamav daemon)
 dev-python/python-owasp-zap-v2 0.0.9: OWASP ZAP Python API
 dev-python/python-registry 1.0.4: A pure Python module that provides read access to Windows Registry files
+dev-python/ruamel-base 1.0.0: common routines for ruamel packages
 dev-python/ruamel-ordereddict 0.4.9: An ordered dictionary with KIO/KVIO
-dev-python/sortedcontainers 9999: Python Sorted Container Types: SortedList, SortedDict, and SortedSet
+dev-python/ruamel-yaml 0.13.7: YAML parser/emitter that supports roundtrip comment preservation
+dev-python/sortedcontainers 1.5.7: Python Sorted Container Types: SortedList, SortedDict, and SortedSet
 dev-python/stopit 1.1.1: Timeout control decorator and context managers
 dev-python/symmetricjsonrpc 0.1.0: A more beautiful JSON-RPC implemenation in python
 dev-python/tblib 1.2.0: Traceback fiddling library
@@ -348,6 +356,7 @@ net-misc/wireshark-sap-plugin 0.3.1 0.3.2 9999: Wireshark plugin for SAP's proto
 net-misc/wlan2eth 0.1: Wlan2eth is a tool that converts wlan pcap to ethernet-like frames.
 net-proxy/burpsuite 1.6.32 1.7.03: Interactive proxy for attacking and debugging web applications
 net-proxy/mallory 0.2.0_p20130109: An TCP/UDP transparent proxy that can be used to intercept network streams
+net-proxy/mitmproxy 1.0.2: An interactive, SSL-capable, man-in-the-middle HTTP proxy
 net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal network via reverse connection
 net-proxy/proxenet 0.4.1: A hacker friendly proxy for web application penetration tests.
 net-proxy/proxenet-plugins 9999: Repository for proxenet plugins
