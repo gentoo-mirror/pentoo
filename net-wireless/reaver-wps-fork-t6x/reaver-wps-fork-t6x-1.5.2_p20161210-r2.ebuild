@@ -32,6 +32,11 @@ src_prepare() {
 	epatch "${FILESDIR}"/0006-announce-fcs.patch
 }
 
+src_compile() {
+	cd src
+	emake -j1
+}
+
 src_install() {
 	cd src
 	dobin wash reaver
