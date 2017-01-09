@@ -91,7 +91,7 @@ dev-db/oat 1.3.1: a toolkit that could be used to audit security within Oracle d
 dev-db/sqid 0.3: A SQL injection digger
 dev-db/sqlbf 1.0.1-r1: SQLBF is a tool to audit mssql passwords strength offline
 dev-db/sqlitebrowser 3.3.1-r1 3.7.0-r2 3.8.0-r1: SQLite Database Browser
-dev-db/sqlmap 1.0.12 9999: Automatic SQL injection and database takeover tool
+dev-db/sqlmap 1.0.12 1.1 9999: Automatic SQL injection and database takeover tool
 dev-db/sqlsus 0.7.2: MySQL injection and takeover tool
 dev-db/themole 0.3: An automatic SQL Injection exploitation tool
 dev-dotnet/wxnet 0.7.2: wxWidgets bindings for mono
@@ -134,7 +134,9 @@ dev-python/impacket 0.9.13 0.9.14 0.9.15 9999: A collection of Python classes fo
 dev-python/intervaltree 9999: Editable interval tree data structure for Python 2 and 3
 dev-python/isc_dhcp_leases 0.8.1: Small python module for reading /var/lib/dhcp/dhcpd.leases from isc-dhcp-server
 dev-python/jsbeautifier 1.6.4: Beautify, unpack or deobfuscate JavaScript
+dev-python/libarchive-c 2.7: Python interface to libarchive
 dev-python/nassl 0.14.1: Experimental Python wrapper for OpenSSL
+dev-python/netfilterqueue 0.8: Python bindings for libnetfilter_queue
 dev-python/nltk 2.0.4: Natural Language Toolkit
 dev-python/olefile 0.43: Python package to parse, read and write Microsoft OLE2 files
 dev-python/pcapy 0.10.10: Python pcap extension
