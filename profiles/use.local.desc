@@ -5,7 +5,6 @@
 app-emulation/vmware-modules:pax_kernel - Apply patch needed for pax enabled kernels
 app-emulation/vmware-modules:vmci - Build the Virtual Machine Communication Interface module; disable this if you want to use the module from the mainline kernel
 app-emulation/vmware-modules:vsock - Build the VMware VMCI transport for Virtual Sockets; disable this if you want to use the module from the mainline kernel
-app-forensics/dff:doc - Enables the help option within the program, which is optional because it requires further qt dependencies.
 app-misc/binwalk:graph - Enable support for generating entropy graphs
 dev-java/icedtea:cacao - Use the CACAO virtual machine rather than HotSpot.
 dev-java/icedtea:headless-awt - Don't install the X backend for AWT, needed by some GUIs (used to be X flag)
