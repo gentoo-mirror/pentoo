@@ -425,7 +425,7 @@ net-wireless/soapyhackrf 9999: vendor and platform neutral SDR support library
 net-wireless/soapyrtlsdr 9999: vendor and platform neutral SDR support library
 net-wireless/soapysdr 9999: vendor and platform neutral SDR support library
 net-wireless/virtualradar-bin 2.0.1 2.3.1: Open-source .NET application for ads-b mapping
-net-wireless/wifi-pumpkin 0.7.8-r1: Framework for Rogue Wi-Fi Access Point Attack
+net-wireless/wifi-pumpkin 0.7.8-r1 0.8.4: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifitap 0.4.0-r4: A wireless tool to do direct connection to client without passing through an AP
 net-wireless/wifite 2.85_p20150526-r1: An automated wireless attack tool
 net-wireless/wifite2 9999: An automated wireless attack tool, v2
