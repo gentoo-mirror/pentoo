@@ -260,7 +260,7 @@ net-analyzer/davtest 1.0-r1: tests WebDAV enabled servers
 net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden content
 net-analyzer/dnsa 0.5-r1: Swiss-army knife tool for dns auditing
 net-analyzer/dnsrecon 0.8.9-r3: DNS Enumeration Script
-net-analyzer/dripcap-bin 0.5.1: Caffeinated Modern Packet Analyzer
+net-analyzer/dripcap-bin 0.5.1 0.6.2: Caffeinated Modern Packet Analyzer
 net-analyzer/dsniff 2.4_beta1-r9: A collection of tools for network auditing and penetration testing
 net-analyzer/enum4linux 0.8.7 0.8.8 0.8.9 0.8.9-r1: a tool for enumerating information from Windows and Samba systems
 net-analyzer/evilgrade 2.0.0 2.0.6: A modular framework that takes advantage of poor upgrade implementations by injecting fake updates.
