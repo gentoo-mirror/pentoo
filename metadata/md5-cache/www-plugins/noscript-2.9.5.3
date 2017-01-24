@@ -1,0 +1,14 @@
+DEFINED_PHASES=install unpack
+DEPEND=app-arch/unzip
+DESCRIPTION=Allow active content in firefox to run only from trusted sites.
+EAPI=5
+HOMEPAGE=http://noscript.net
+IUSE=+symlink_all_targets target_firefox target_seamonkey target_firefox-bin target_seamonkey-bin
+KEYWORDS=amd64 x86
+LICENSE=GPL-2
+RDEPEND=!symlink_all_targets? ( target_firefox? ( www-client/firefox ) target_firefox-bin? ( www-client/firefox-bin ) target_seamonkey? ( www-client/seamonkey ) target_seamonkey-bin? ( www-client/seamonkey-bin ) )
+SLOT=0
+SRC_URI=https://addons.mozilla.org/downloads/file/572177 -> noscript-2.9.5.3.xpi
+_eclass_exported_funcs=src_unpack:mozilla-addon src_install:-
+_eclasses_=eutils	ea170b525f6a38a006be05c9d9429f13	mozextension	3d8ee4835f89ff39d4666656aa603433	mozilla-addon	8d5d6700a00c98468e9e6c7269e50064	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
+_md5_=50bdfcda21cb91e6426458493046b0a3
