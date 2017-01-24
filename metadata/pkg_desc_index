@@ -60,7 +60,7 @@ app-fuzz/bed 0.5: BED is a multi-protocol fuzzer written in perl
 app-fuzz/bss 0.8-r1: Bluetooth stack smasher / fuzzer
 app-fuzz/dotdotpwn 3.0: The Directory Traversal Fuzzer.
 app-fuzz/fuzz 0.4: Python based fuzzer for multi protocols, and faultinject
-app-fuzz/fuzzdb 1.09: Attack and Discovery Pattern Database for Application Fuzz Testing
+app-fuzz/fuzzdb 1.09 1.09_p20170117: Attack and Discovery Pattern Database for Application Fuzz Testing
 app-fuzz/fuzzer-server 0.1: A html/wml fuzzer for proxy or client
 app-fuzz/http-fuzz 0.1: A http fuzzer
 app-fuzz/ohrwurm 0.1: Ohrwurm is a small and simple RTP fuzzer
