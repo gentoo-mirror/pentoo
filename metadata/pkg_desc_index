@@ -222,7 +222,7 @@ dev-util/ati-stream-sdk-bin 2.01 2.2 2.3: Enable compiling code and loading it o
 dev-util/bokken 1.8-r1: GUI for the Pyew malware analysis and Radare the reverse engineering framework
 dev-util/calpp 0.87-r1 0.90 0.90-r1: A library for efficient use of ATI CAL with C++
 dev-util/collabreate 0.2.0 0.3.0 0.3.0-r1 0.3.0-r2 0.3.0.1 0.3.0.1-r1: A plugin for IDA Pro designed to provide collaborative reverse engineering
-dev-util/dex2jar 0.0.9.13 0.0.9.15: Tools to work with android .dex and java .class files
+dev-util/dex2jar 2.1_pre20150601: Tools to work with android .dex and java .class files
 dev-util/edb 0.9.21 9999: edb is a cross platform x86/x86-64 debugger, inspired by Ollydbg
 dev-util/jd-gui-bin 0.3.5-r1 1.4.0: A standalone graphical utility that displays Java source codes of .class file
 dev-util/lida 03.00.00: interactive ELF disambler
