@@ -36,7 +36,6 @@ app-forensics/disitool 0.3: This tool will allow the manipulation of Authenticod
 app-forensics/dpapick 0.2_p20130826 0.3: Open-source tool that allows decryption of DPAPI structures in an offline way
 app-forensics/guymager 0.7.3-r1: Guymager is a fast and user friendly forensic imager.
 app-forensics/inception 0.4.0 0.4.1: Firewire physical memory manipulation tool exploiting IEEE 1394 SBP-2 DMA
-app-forensics/libforensic1394 0.2 9999: Library for carrying out memory forensics using firewire/ieee1394.
 app-forensics/libpff 0.0.20110413_alpha 0.0.20120513_alpha 0.0.20120611_alpha 0.0.20120802_alpha: Library for accessing Personal Folder Files.
 app-forensics/libvshadow 0.0.20131209_alpha 0.0.20140731_alpha: Library and tools to support the Volume Shadow Snapshot (VSS) format.
 app-forensics/linen 61: Encase's linen utility
@@ -340,7 +339,6 @@ net-im/jitsi-bin 2.8-r1: Secure IM communicator that supports SIP, XMPP, AIM/ICQ
 net-libs/libndpi 1.5.0 1.5.1: ntop-maintained superset of the popular OpenDPI library
 net-libs/libpcap 1.6.2-r1: A system-independent library for user-level network packet capture
 net-libs/libvidcap 0.2.1: a cross-platform library for capturing video from webcams and other video capture devices
-net-libs/nfqueue-bindings 0.4: Set of high-level modules for languages such as Perl or Python, for libnetfilter_queue
 net-mail/davmail-bin 4.7.2: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
 net-misc/f5vpn-login 9999: F5 VPN Command-line client
 net-misc/faifa 0.1 9999: Power Line Communication device manager
@@ -408,7 +406,6 @@ net-wireless/libfreefare 0.3.2: a library for high level manipulation of MIFARE 
 net-wireless/linux-wlan-ng-modules 0.2.5: Kernel modules for Prism2/2.5/3 based 802.11b USB wireless LAN products
 net-wireless/morse2txt 1.0.0: Morse code decoder
 net-wireless/n4p 2.2-r1: Comprehensive Wireless and Network packet based hacking framework.Compare to Metasploit
-net-wireless/nfcd 9999: a daemon which access NFC Devices and Targets
 net-wireless/nfcpy 0.10.2: A tool to read/write NFC tags or communicate with another NFC device
 net-wireless/op25 9999: software-defined analyzer for APCO P25 signals
 net-wireless/pixiewps 1.1 1.2.2: Bruteforce offline the WPS pin exploiting the low or non-existing entropy
