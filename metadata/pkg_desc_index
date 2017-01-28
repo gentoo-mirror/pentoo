@@ -173,7 +173,7 @@ dev-ruby/arachni-reactor 0.1.0 0.1.1: A simple, lightweight, pure-Ruby implement
 dev-ruby/arachni-rpc 0.2.1.2 0.2.1.3: Arachni-RPC is a simple and lightweight Remote Procedure Call protocol
 dev-ruby/arachni-rpc-em 0.2: EventMachine-based client and server implementation of Arachni-RPC
 dev-ruby/cgi_multipart_eof_fix 2.5.0: Fix an exploitable bug in CGI multipart parsing.
-dev-ruby/ckeditor_rails 4.5.3-r1: CKEditor is a javascript library of the WYSIWYG rich-text editor
+dev-ruby/ckeditor_rails 4.6.2: CKEditor is a javascript library of the WYSIWYG rich-text editor
 dev-ruby/concurrent-ruby-ext 1.0.1: C extensions to optimize the concurrent-ruby gem when running under MRI
 dev-ruby/cookiejar 0.3.2: Allows for parsing and returning cookies in Ruby HTTP client code
 dev-ruby/data_objects 0.10.13: The Core DataObjects class
