@@ -49,7 +49,6 @@ app-forensics/rekall-core 9999: Rekall Memory Forensic Framework
 app-forensics/rekall-gui 9999: Rekall Memory Forensic Framework
 app-forensics/samhain 4.1.4: Advanced file integrity and intrusion detection tool.
 app-forensics/stegdetect 0.6 0.6-r1: A Steganography detector for JPEG
-app-forensics/streams 0.1.0: streams is a tool for browsing, mining and processing TCP streams in pcap files
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
 app-forensics/volatility 2.5 2.6: Framework for analyzing volatile memory
 app-forensics/xmount 0.5.0 0.7.3: Convert on-the-fly between multiple input and output harddisk image types
@@ -151,7 +150,6 @@ dev-python/pybonjour 1.1.1: Python interface to Apple Bonjour and compatible DNS
 dev-python/pygoogle-ajax 9999: a very basic Google search module for Python using the AJAX API
 dev-python/pygtail 0.7.0: Reads log file lines that have not been read
 dev-python/pyinstaller 3.2: Program converting Python programs into stand-alone executables
-dev-python/pymills 3.4-r2: Powerful event library enabling asyncronous and event-driven applications and system to be developed
 dev-python/pynetfilter_conntrack 0.4.2: Python binding of libnetfilter_conntrack
 dev-python/pyperclip 1.5.27: Cross-platform clipboard module
 dev-python/python-nmap 0.6.0: a python library which helps in using nmap port scanner
