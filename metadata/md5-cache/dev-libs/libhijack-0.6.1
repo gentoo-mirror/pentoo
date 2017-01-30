@@ -1,11 +1,11 @@
-DEFINED_PHASES=compile install
+DEFINED_PHASES=install prepare
 DESCRIPTION=Make injecting arbitrary code and other shared objects into another process during runtime easy
-EAPI=3
+EAPI=6
 HOMEPAGE=http://0xfeedface.org/
 KEYWORDS=~amd64 ~x86
 LICENSE=BSD
 SLOT=0
-SRC_URI=https://github.com/downloads/lattera/libhijack/libhijack-0.6.tgz
-_eclass_exported_funcs=src_compile:- src_install:-
+SRC_URI=https://github.com/SoldierX/libhijack/archive/v0.6.1.tar.gz -> libhijack-0.6.1.tar.gz
+_eclass_exported_funcs=src_prepare:- src_install:-
 _eclasses_=multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
-_md5_=c028e77e267489b17f06e2954400a974
+_md5_=d7504a6da2d809b745555211057c88f4
