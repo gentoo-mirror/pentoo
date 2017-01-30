@@ -401,7 +401,7 @@ net-wireless/kalibrate-hackrf 9999: A tool to scan GSM base stations and calcula
 net-wireless/karmetasploit 0.1-r3: KARMA + Metasploit 3 == Karmetasploit
 net-wireless/killerbee 9999: Framework and Tools for Attacking ZigBee and IEEE 802.15.4 networks
 net-wireless/kismet-dect 9999: DECT plugin for kismet
-net-wireless/libfreefare 0.3.2: a library for high level manipulation of MIFARE tags
+net-wireless/libfreefare 0.4.0: a library for high level manipulation of MIFARE tags
 net-wireless/linux-wlan-ng-modules 0.2.5: Kernel modules for Prism2/2.5/3 based 802.11b USB wireless LAN products
 net-wireless/morse2txt 1.0.0: Morse code decoder
 net-wireless/n4p 2.2-r1: Comprehensive Wireless and Network packet based hacking framework.Compare to Metasploit
