@@ -466,6 +466,7 @@ sys-fs/squashfs-tools 9999: Tool for creating compressed filesystem type squashf
 sys-kernel/ax88179_178a 1.3.0 1.4.0: A kernel module for the ASIX USB 3.0 AX88179 ethernet controller
 sys-kernel/chromeos-sources 9999: Linux kernel source for the Samsung Chromebook
 sys-kernel/compat-drivers 3.8-r1: Stable kernel pre-release wifi subsystem backport
+sys-kernel/genkernel 3.5.0.8 9999: Gentoo automatic kernel building scripts
 sys-kernel/odroid-sources 9999: Linux kernel source for the ODROID-[UX]2 products
 sys-kernel/odroidxu-sources 9999: Linux kernel source for the ODROIDXU products
 sys-kernel/pentoo-sources 4.0.8 4.4.2 4.4.8-r2 4.7.7 4.7.10: Pentoo kernel sources (kernel series 4.7)
