@@ -110,6 +110,7 @@ dev-libs/radare2-bindings 0.10.2 0.10.6: Language bindings for radare2
 dev-libs/unicorn-bindings 0.9_p20160901: Unicorn bindings
 dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
 dev-perl/Tie-CharArray 1.00: Manipulate perl strings through tied array
+dev-php/evalhook 0.1: Decode/Deobfuscate PHP Scripts
 dev-python/DartsPyLRU 0.5: LRU Dictionaries
 dev-python/PTP 0.3.0: Pentester's Tools Parser
 dev-python/PyGithub 1.21.0: Python library to access the Github API v3
