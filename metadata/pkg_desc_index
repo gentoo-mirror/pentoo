@@ -410,6 +410,7 @@ net-wireless/reaver-wps-fork-t6x 1.5.2_p20161210-r2: Utilise Pixie Dust Attack t
 net-wireless/rfidler 0.01_p20160313: Software defined RFID (LF) Reader/Writer/Emulator
 net-wireless/rfidtool 0.01: command line rfid interface
 net-wireless/rtl8812au 4.2.5 4.2.5_p20160712 9999: Driver for AC1200 (801.11ac) Wireless Dual-Band USB Adapter
+net-wireless/rtl8812au_astsam 9999: Driver for AC1200 (801.11ac) Wireless Dual-Band USB Adapter
 net-wireless/rtl8812au_asus 4.3.2_p20150929 4.3.2_p20160101: Linux kernel module for ASUS USB-AC56
 net-wireless/rx_tools 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
 net-wireless/ska 0.2: Fake Shared Key Authentication
