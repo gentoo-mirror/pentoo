@@ -94,13 +94,13 @@ dev-db/sqlmap 1.0.12 1.1 9999: Automatic SQL injection and database takeover too
 dev-db/sqlsus 0.7.2: MySQL injection and takeover tool
 dev-db/themole 0.3: An automatic SQL Injection exploitation tool
 dev-dotnet/wxnet 0.7.2: wxWidgets bindings for mono
-dev-embedded/libmpsse 1.3_p20150711: Open source library for SPI/I2C control via FTDI chips
+dev-embedded/libmpsse 1.3_p20150711 1.3_p20160602: Open source library for SPI/I2C control via FTDI chips
 dev-embedded/mphidflash 1.6: ommand-line tool for communicating with the USB-Bootloader in PIC microcontrollers
 dev-java/icedtea 3.0.1-r1 3.1.0-r1: A harness to build OpenJDK using Free Software build tools and dependencies
 dev-java/jgraphx 1.4.2.3: Open-source graph component for Java
 dev-java/msgpack 0.5.1 0.6.12: MessagePack for Java is a binary-based efficient object serialization library in Java.
 dev-java/sleep 2.1-r1: Duct Tape for the Java platform
-dev-libs/capstone 3.0.4-r2: disassembly/disassembler framework + bindings
+dev-libs/capstone 3.0.4-r2 4.0_alpha4: disassembly/disassembler framework + bindings
 dev-libs/glib 2.48.2 2.50.1: The GLib library of C routines
 dev-libs/libdisasm 0.23: x86 Disassembler Library
 dev-libs/libguytools2 2.0.1-r1: Library for guymager
@@ -117,7 +117,7 @@ dev-python/PyGithub 1.21.0: Python library to access the Github API v3
 dev-python/PyVirtualDisplay 0.2: python wrapper for Xvfb, Xephyr and Xvnc
 dev-python/acora 9999: Fast multi-keyword search engine for text strings
 dev-python/brotlipy 0.6.0-r1: Python binding to the Brotli library
-dev-python/capstone-python 2.1.2 3.0.4: A lightweight multi-platform, multi-architecture disassembly framework
+dev-python/capstone-python 2.1.2 3.0.4 4.0_alpha4: A lightweight multi-platform, multi-architecture disassembly framework
 dev-python/clamd 1.0.1: Clamd is a python interface to Clamd (Clamav daemon)
 dev-python/config 0.3.9-r1: This module allows a hierarchical configuration scheme with support for mappings and sequences
 dev-python/construct 2.8.10: Construct is a powerful declarative parser (and builder) for binary data
