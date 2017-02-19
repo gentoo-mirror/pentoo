@@ -229,7 +229,7 @@ dev-util/nvidia-cuda-sdk 6.5.19: NVIDIA CUDA Software Development Kit
 dev-util/premake 3.2: A makefile generation tool
 dev-util/pyew 2.0: Hexadecimal viewer and disassembler
 dev-util/radare 1.5.2: Advanced command line hexadecimail editor and more
-dev-util/radare2 0.10.2-r1 0.10.6: Advanced command line hexadecimal editor and more
+dev-util/radare2 0.10.2-r1 0.10.6 1.2.1: Advanced command line hexadecimal editor and more
 dev-util/soapui 5.0.0 5.2.0: The Swiss-Army Knife for SOAP Testing
 dev-util/sonarqube-bin 4.5 4.5.2: SonarQube is an open platform to manage code quality.
 dev-util/unicorn 0.9_p20160901: A lightweight multi-platform, multi-architecture CPU emulator framework
