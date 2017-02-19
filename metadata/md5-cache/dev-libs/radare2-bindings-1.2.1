@@ -1,14 +1,14 @@
-DEFINED_PHASES=configure prepare setup
-DEPEND=cxx? ( sys-devel/gcc:*[cxx] ) perl? ( dev-lang/perl ) guile? ( dev-scheme/guile:* ) lua? ( >=dev-lang/lua-5.1.4:* ) php5? ( >=dev-lang/php-5.3.8:* ) ruby? ( || ( dev-lang/ruby:2.1 dev-lang/ruby:2.2 ) ) ~dev-util/radare2-0.10.2 virtual/pkgconfig dev-util/valabind dev-lang/swig >=dev-lang/vala-0.14
+DEFINED_PHASES=configure install prepare setup
+DEPEND=cxx? ( sys-devel/gcc:*[cxx] ) perl? ( dev-lang/perl ) guile? ( dev-scheme/guile:* ) lua? ( >=dev-lang/lua-5.1.4:* ) php5? ( >=dev-lang/php-5.3.8:* ) ruby? ( || ( dev-lang/ruby:2.1 dev-lang/ruby:2.2 ) ) ~dev-util/radare2-1.2.1 virtual/pkgconfig dev-util/valabind dev-lang/swig >=dev-lang/vala-0.14
 DESCRIPTION=Language bindings for radare2
-EAPI=5
+EAPI=6
 HOMEPAGE=https://github.com/radare/radare2-bindings
 IUSE=ctypes cxx guile lua perl php5 python ruby python_targets_python2_7
 KEYWORDS=~x86 ~amd64
 LICENSE=GPL-3
 RDEPEND=cxx? ( sys-devel/gcc:*[cxx] ) perl? ( dev-lang/perl ) guile? ( dev-scheme/guile:* ) lua? ( >=dev-lang/lua-5.1.4:* ) php5? ( >=dev-lang/php-5.3.8:* ) ruby? ( || ( dev-lang/ruby:2.1 dev-lang/ruby:2.2 ) )
 SLOT=0
-SRC_URI=https://github.com/radare/radare2-bindings/archive/0.10.2.tar.gz -> radare2-bindings-0.10.2.tar.gz
-_eclass_exported_funcs=pkg_setup:python-single-r1 src_prepare:- src_configure:-
+SRC_URI=https://github.com/radare/radare2-bindings/archive/1.2.1.tar.gz -> radare2-bindings-1.2.1.tar.gz
+_eclass_exported_funcs=pkg_setup:python-single-r1 src_prepare:- src_configure:- src_install:-
 _eclasses_=eutils	ea170b525f6a38a006be05c9d9429f13	multilib	165fc17c38d1b11dac2008280dab6e80	python-single-r1	6793fc854691a2320226801400573568	python-utils-r1	50dad5f912d4c16c130f5679777f25e8	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
-_md5_=8e208282dcb04adce74b9a473c69c051
+_md5_=62062cf7108ed7c50c6ac3216b4a5382
