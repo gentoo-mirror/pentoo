@@ -9,5 +9,5 @@ LICENSE=GPL-2
 RDEPEND=opencl? ( virtual/opencl ) video_cards_nvidia? ( x11-drivers/nvidia-drivers ) video_cards_fglrx? ( x11-drivers/ati-drivers ) json? ( <dev-libs/json-c-0.11 )
 SLOT=0
 _eclass_exported_funcs=pkg_setup:- src_unpack:git-2 src_prepare:- src_configure:- src_compile:- src_test:- src_install:-
-_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	git-2	7af5d170bfc02983b4bcd3167dc5edd4	libtool	4890219c51da247200223277f993e054	multilib	165fc17c38d1b11dac2008280dab6e80	pax-utils	4c2654a34ebe732e85fda354f6ee642f	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	git-2	7af5d170bfc02983b4bcd3167dc5edd4	libtool	84763589a795fb127b537cac01e5359f	multilib	165fc17c38d1b11dac2008280dab6e80	pax-utils	4c2654a34ebe732e85fda354f6ee642f	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
 _md5_=1f848f99f1fa1f80e01a49990beada61
