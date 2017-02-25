@@ -6,7 +6,6 @@ app-crypt/SIPcrack 0.4-r1: SIPcrack is a SIP protocol login cracker
 app-crypt/acsccid 1.1.0: Generic driver for ACS (CCID and non-CCID) Smart Card Reader.
 app-crypt/asleap 2.2: exploiting cisco leap; As in asleap behind the wheel.
 app-crypt/bob-the-butcher 0.7.1: A distributed password cracker
-app-crypt/certbot-nginx 0.9.3: Nginx plugin for Certbot
 app-crypt/cryptohaze-combined 1.31 9999: GPU and OpenCL accelerated password auditing tools for security professionals
 app-crypt/cuda-rarcrypt 3.2-r1: A Nvidia GPU-based RAR bruteforcer
 app-crypt/hashkill 0.3.1-r1 0.3.1_p20131031 0.3.1_p20140204 9999: Multi-threaded password recovery tool with multi-GPU support
@@ -135,7 +134,7 @@ dev-python/intervaltree 9999: Editable interval tree data structure for Python 2
 dev-python/isc_dhcp_leases 0.8.1: Small python module for reading /var/lib/dhcp/dhcpd.leases from isc-dhcp-server
 dev-python/jsbeautifier 1.6.4: Beautify, unpack or deobfuscate JavaScript
 dev-python/libarchive-c 2.7: Python interface to libarchive
-dev-python/nassl 0.14.1 0.14.2: Experimental Python wrapper for OpenSSL
+dev-python/nassl 0.14.2 0.15.1: Experimental Python wrapper for OpenSSL
 dev-python/netfilterqueue 0.8: Python bindings for libnetfilter_queue
 dev-python/nltk 2.0.4: Natural Language Toolkit
 dev-python/olefile 0.43: Python package to parse, read and write Microsoft OLE2 files
@@ -304,7 +303,7 @@ net-analyzer/sslcat 1.0: netcat like application with ssl support
 net-analyzer/sslscan-chacha 1.11.8: Fast SSL configuration scanner, using openssl chacha branch
 net-analyzer/sslstrip 0.9-r1: sslstrip remove https and forwards http
 net-analyzer/ssltest 0.5: SSL testing tool written in perl
-net-analyzer/sslyze 0.14.1 0.14.2: Fast and full-featured SSL scanner
+net-analyzer/sslyze 0.14.1 0.14.2 1.0.0: Fast and full-featured SSL scanner
 net-analyzer/subdomainer 1.3-r2: This script will search in Google, Msn.search and Yahoo for subdomains related to the target domain
 net-analyzer/suricata 1.0.5: next generation intrusion detection and prevention engine
 net-analyzer/thc-pptp-bruter 0.1.4: a brute force program that works against pptp vpn endpoints
