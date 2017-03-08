@@ -9,5 +9,5 @@ RDEPEND==dev-lang/python-2*
 SLOT=0
 SRC_URI=http://dev.pentoo.ch/~grimmlin/distfiles/smudge.tar.gz
 _eclass_exported_funcs=pkg_postrm:- pkg_postinst:- pkg_setup:python src_prepare:distutils src_compile:- src_install:-
-_eclasses_=distutils	211b731505cd31ff9638734ae186b82d	multilib	0236be304ee52e7f179ed2f337075515	python	bc5dc5d43bf20a6e1f59f99b5f49df4f	toolchain-funcs	53b75b4a49cf3e61530a523804045432
+_eclasses_=distutils	211b731505cd31ff9638734ae186b82d	multilib	0236be304ee52e7f179ed2f337075515	python	bc5dc5d43bf20a6e1f59f99b5f49df4f	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee
 _md5_=8c61670c38d1eb9b2395e9d1527438d7
