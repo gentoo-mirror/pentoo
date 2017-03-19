@@ -28,13 +28,6 @@ dev-util/edb:graphviz - Add support for the Graphviz library
 dev-util/edb:legacy-mem-write - Probe if writes to /proc/PID/mem are broken.
 net-libs/libpcap:canusb - Use virtual/libusb to support Controller Area Network over USB (CAN USB)
 net-libs/libpcap:netlink - Use dev-libs/libnl to put wireless interfaces in monitor mode.
-net-misc/wicd:ambiance - Install icons from Ubuntu's ambiance theme
-net-misc/wicd:gtk - Installs a gtk UI. This is enabled by default because it is intended behavior. Requires dev-python/pygtk
-net-misc/wicd:gtk-autostart - Start the gtk UI in tray modus with startx. This is enabled by default because it is intended behavior.
-net-misc/wicd:ioctl - Installs additional python libraries to use as a backend. This will improve speed but is experimental.
-net-misc/wicd:mac4lin - Change default icons to mac4lin icon set
-net-misc/wicd:ncurses - Installs a ncurses UI
-net-misc/wicd:pm-utils - Installs the pm-utils hooks for suspend/resume and requires sys-power/pm-utils
 net-wireless/bluez:deprecated - Build deprecated plugins
 net-wireless/bluez:experimental - Build experimental plugins
 net-wireless/bluez:extra-tools - Install tools that upstream doesn't install on purpose by default. All this tools shouldn't be used. Then, please notify upstream about you still need them to let them know the situation.
