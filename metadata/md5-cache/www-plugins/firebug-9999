@@ -4,11 +4,10 @@ DESCRIPTION=Powerful web development tool for firefox
 EAPI=5
 HOMEPAGE=http://getfirebug.com
 IUSE=+symlink_all_targets target_firefox target_firefox-bin
-KEYWORDS=~amd64 ~x86
 LICENSE=BSD
 RDEPEND=!symlink_all_targets? ( target_firefox? ( >=www-client/firefox-31.2.0-r1 ) target_firefox-bin? ( >=www-client/firefox-bin-31.2.0-r1 ) )
 SLOT=0
 SRC_URI=http://addons.mozilla.org/downloads/latest/1843 -> firebug-9999.xpi
 _eclass_exported_funcs=pkg_postinst:- src_unpack:mozilla-addon src_install:-
 _eclasses_=epatch	122e1264e67c4f59a1482f2095e0b35d	estack	5ac2a138d0b33354b764d84f9e835db8	eutils	1ef31aee2bd63ffbfcae8a1843c9208d	ltprune	2770eed66a9b8ef944714cd0e968182e	mozextension	e5d920147bfccf4930062e462e2a417d	mozilla-addon	8d5d6700a00c98468e9e6c7269e50064	multilib	0236be304ee52e7f179ed2f337075515	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee
-_md5_=2e451131c19c9eb850df549fe578d214
+_md5_=6630fce4b4dd1e3b4350c2ee2ef2da83
