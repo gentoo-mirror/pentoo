@@ -1,0 +1,12 @@
+DEFINED_PHASES=install prepare setup
+DESCRIPTION=The Harvester is a tool designed to collect email accounts of the target domain
+EAPI=6
+HOMEPAGE=http://www.edge-security.com/theharvester.php
+IUSE=python_targets_python2_7
+KEYWORDS=~amd64 ~ppc ~x86
+LICENSE=GPL-2
+SLOT=0
+SRC_URI=https://github.com/laramies/theHarvester/archive/2.7.tar.gz -> theHarvester-2.7.tar.gz
+_eclass_exported_funcs=pkg_setup:python-single-r1 src_prepare:- src_install:-
+_eclasses_=multilib	0236be304ee52e7f179ed2f337075515	python-single-r1	c3e54dd0dc1e70c6252f2551a55bf053	python-utils-r1	a166d0f5815d7f1e67bb60a196f1bf7e	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee
+_md5_=236d27d53105cfe4b1a0c7c4abf2d065

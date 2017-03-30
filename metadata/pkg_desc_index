@@ -41,7 +41,7 @@ app-forensics/linen 61: Encase's linen utility
 app-forensics/make-pdf 0.1.4-r2: This tool will embed javascript inside a PDF document
 app-forensics/origami-pdf 1.2.6: A Ruby framework designed to parse, analyze, and forge PDF documents
 app-forensics/pdf-parser 0.4.3-r1 0.6.4: This tool will parse a PDF document to identify the fundamental elements used
-app-forensics/pdfid 0.0.11 0.0.12: This tool will scan a PDF document looking for certain keyword
+app-forensics/pdfid 0.2.1: This tool will scan a PDF document looking for certain keyword
 app-forensics/reglookup 1.0.1-r1 9999: An utility for reading and querying Windows NT/2K/XP registries
 app-forensics/rekall-core 9999: Rekall Memory Forensic Framework
 app-forensics/rekall-gui 9999: Rekall Memory Forensic Framework
@@ -94,7 +94,7 @@ dev-db/sqlsus 0.7.2: MySQL injection and takeover tool
 dev-db/themole 0.3: An automatic SQL Injection exploitation tool
 dev-dotnet/wxnet 0.7.2: wxWidgets bindings for mono
 dev-embedded/libmpsse 1.3_p20150711 1.3_p20160602: Open source library for SPI/I2C control via FTDI chips
-dev-embedded/mphidflash 1.6: ommand-line tool for communicating with the USB-Bootloader in PIC microcontrollers
+dev-embedded/mphidflash 1.6 1.8: Tool for communicating with the USB-Bootloader in PIC microcontrollers
 dev-java/icedtea 3.0.1-r1 3.1.0-r1: A harness to build OpenJDK using Free Software build tools and dependencies
 dev-java/jgraphx 1.4.2.3: Open-source graph component for Java
 dev-java/msgpack 0.5.1 0.6.12: MessagePack for Java is a binary-based efficient object serialization library in Java.
@@ -143,6 +143,7 @@ dev-python/pefile 1.2.10_p139-r1 2016.3.28: Module to read and work with Portabl
 dev-python/phply 0.9.1-r1 9999: Parser for PHP written using PLY
 dev-python/pluginbase 0.3: A support library for building plugins sytems in Python.
 dev-python/poster 0.8.1: Make HTTP POST/PUT with multipart/form-data encoding
+dev-python/pyFFTW 0.10.4 9999: A pythonic python wrapper around FFTW
 dev-python/pyaff4 9999: Python Advanced Forensic Format Version 4 library.
 dev-python/pyamf 0.6.2 0.6.2_p20150122: Action Message Format (AMF) support for Python including integration with mutliple frameworks
 dev-python/pybonjour 1.1.1: Python interface to Apple Bonjour and compatible DNS-SD libraries (Avahi)
@@ -154,9 +155,12 @@ dev-python/python-nmap 0.6.0: a python library which helps in using nmap port sc
 dev-python/python-ntlm 1.0.1 1.1.0: Clamd is a python interface to Clamd (Clamav daemon)
 dev-python/python-owasp-zap-v2 0.0.9: OWASP ZAP Python API
 dev-python/python-registry 1.0.4: A pure Python module that provides read access to Windows Registry files
+dev-python/qtpy 0.6.9 9999: Minimal Python 2 & 3 shim around all Qt bindings
 dev-python/ruamel-base 1.0.0: common routines for ruamel packages
 dev-python/ruamel-ordereddict 0.4.9: An ordered dictionary with KIO/KVIO
 dev-python/ruamel-yaml 0.13.7: YAML parser/emitter that supports roundtrip comment preservation
+dev-python/simplesoapy 1.3.0 9999: Simple pythonic wrapper for SoapySDR library
+dev-python/simplespectral 1.0.0 9999: Heavily simplified scipy.signal.spectral module
 dev-python/sortedcontainers 1.5.7: Python Sorted Container Types: SortedList, SortedDict, and SortedSet
 dev-python/stopit 1.1.1: Timeout control decorator and context managers
 dev-python/symmetricjsonrpc 0.1.0: A more beautiful JSON-RPC implemenation in python
@@ -228,7 +232,7 @@ dev-util/nvidia-cuda-sdk 6.5.19: NVIDIA CUDA Software Development Kit
 dev-util/premake 3.2: A makefile generation tool
 dev-util/pyew 2.0: Hexadecimal viewer and disassembler
 dev-util/radare 1.5.2: Advanced command line hexadecimail editor and more
-dev-util/radare2 0.10.2-r1 0.10.6 1.2.1: Advanced command line hexadecimal editor and more
+dev-util/radare2 1.2.1 1.3.0: Advanced command line hexadecimal editor and more
 dev-util/soapui 5.0.0 5.2.0: The Swiss-Army Knife for SOAP Testing
 dev-util/sonarqube-bin 4.5 4.5.2: SonarQube is an open platform to manage code quality.
 dev-util/unicorn 0.9_p20160901: A lightweight multi-platform, multi-architecture CPU emulator framework
@@ -256,8 +260,8 @@ net-analyzer/davtest 1.0: tests WebDAV enabled servers
 net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden content
 net-analyzer/dnsa 0.5-r1: Swiss-army knife tool for dns auditing
 net-analyzer/dnsrecon 0.8.9-r3: DNS Enumeration Script
-net-analyzer/dripcap-bin 0.5.1 0.6.2: Caffeinated Modern Packet Analyzer
-net-analyzer/dsniff 2.4_beta1-r9: A collection of tools for network auditing and penetration testing
+net-analyzer/dripcap-bin 0.6.15: Caffeinated Modern Packet Analyzer
+net-analyzer/dsniff 2.4_beta1-r10: A collection of tools for network auditing and penetration testing
 net-analyzer/enum4linux 0.8.7 0.8.8 0.8.9 0.8.9-r1: a tool for enumerating information from Windows and Samba systems
 net-analyzer/evilgrade 2.0.0 2.0.6: A modular framework that takes advantage of poor upgrade implementations by injecting fake updates.
 net-analyzer/fierce 1.0.3: Fierce is a DNS reconnaissance tool written in perl
@@ -293,7 +297,6 @@ net-analyzer/ppscan 0.3: Port scanner with HTTP and FTP tunneling support
 net-analyzer/recon-ng 4.7.3 4.8.0 9999: Web Reconnaissance Framework
 net-analyzer/rpcapd 4.1.2: Remote packet capture daemon
 net-analyzer/scamper 20140530: A tool that actively probes the Internet in order to analyze topology and performance
-net-analyzer/scapy 1.1.1-r2: A Python interactive packet manipulation program for mastering the network
 net-analyzer/sessionlist 1.0-r1: A HTTP packets sniffer
 net-analyzer/set 6.0-r1 9999: A social engineering framework
 net-analyzer/sipvicious 0.2.8-r3: A voip pentest tools suite
@@ -304,12 +307,12 @@ net-analyzer/sslcat 1.0: netcat like application with ssl support
 net-analyzer/sslscan-chacha 1.11.8: Fast SSL configuration scanner, using openssl chacha branch
 net-analyzer/sslstrip 0.9-r2: sslstrip remove https and forwards http
 net-analyzer/ssltest 0.5: SSL testing tool written in perl
-net-analyzer/sslyze 0.14.1 0.14.2 1.0.0: Fast and full-featured SSL scanner
+net-analyzer/sslyze 0.14.1 0.14.2 1.0.0-r1: Fast and full-featured SSL scanner
 net-analyzer/subdomainer 1.3-r2: This script will search in Google, Msn.search and Yahoo for subdomains related to the target domain
 net-analyzer/suricata 1.0.5: next generation intrusion detection and prevention engine
 net-analyzer/thc-pptp-bruter 0.1.4: a brute force program that works against pptp vpn endpoints
 net-analyzer/thc-ssl-dos 1.4: THC-SSL-DOS is a tool to verify the performance of SSL servers
-net-analyzer/theHarvester 2.0 2.2 2.2a 2.7: The Harvester is a tool designed to collect email accounts of the target domain
+net-analyzer/theHarvester 2.7-r1: The Harvester is a tool designed to collect email accounts of the target domain
 net-analyzer/ucsniff 3.20 3.20-r1: VoIP audio & video sniffer
 net-analyzer/unicornscan 0.4.7 0.4.7-r1: A utility for information gathering or security auditing
 net-analyzer/upnpwn 0.8.0-r1: UPNP pentesting tool and library
@@ -323,16 +326,15 @@ net-analyzer/wapiti 2.3.0_p20141111: Web application security auditor
 net-analyzer/webshag 1.1-r1: An enhanced HTTP URL Scanner and fuzzer
 net-analyzer/wfuzz 2.0-r1 2.1.3: Wfuzz is a tool designed for bruteforcing Web Applications
 net-analyzer/whatweb 0.4.7-r5 0.4.7_p20160611: Next generation web scanner, identifies what software websites are running
-net-analyzer/wolpertinger 0.6-r2: a distributed portscanner
-net-analyzer/wpscan 2.9.2-r2: Wordpress security scanner
+net-analyzer/wpscan 2.9.2-r3: Wordpress security scanner
 net-analyzer/xplico 1.1.0-r4 1.1.2: Extract data from TCP/IP traffic
 net-analyzer/zarp 0.1.8: Local network attack toolkit
-net-dialup/freeradius 2.2.0-r1 2.2.5-r1: Highly configurable free RADIUS server
+net-dialup/freeradius 2.2.5-r1: Highly configurable free RADIUS server
 net-dialup/minimodem 0.22.1-r1: General-purpose software audio FSK modem.
 net-fs/afpfs-ng 0.8.1: a client for the Apple Filing Protocol
 net-fs/winexe 1.0.0-r1 9999: remotely execute commands on Windows NT/2000/XP/2003 systems, with lmhash passthrough support
 net-im/jitsi-bin 2.8-r1: Secure IM communicator that supports SIP, XMPP, AIM/ICQ, Windows Live, Yahoo
-net-libs/libndpi 1.5.0 1.5.1: ntop-maintained superset of the popular OpenDPI library
+net-libs/libndpi 1.5.0 1.5.1 1.6: ntop-maintained superset of the popular OpenDPI library
 net-libs/libpcap 1.6.2-r1: A system-independent library for user-level network packet capture
 net-libs/libvidcap 0.2.1: a cross-platform library for capturing video from webcams and other video capture devices
 net-mail/davmail-bin 4.7.3: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
@@ -385,7 +387,6 @@ net-wireless/gps-sdr-sim 9999: GPS Spoofing tool for transmit capable SDR's like
 net-wireless/gr-air-modes 9999: This module implements a complete Mode S and ADS-B receiver for Gnuradio
 net-wireless/gr-gsm 9999: Set of tools for receiving information transmitted by GSM equipment/devices
 net-wireless/grimwepa 1.10_p5-r101: A password cracker for both WEP and WPA-encrypted access points
-net-wireless/haraldscan 0.41: A Bluetooth discovery scanner
 net-wireless/horst 3.0: Small 802.11 wireless LAN analyzer
 net-wireless/hostapd 1.0-r4 1.0-r6 1.0-r7 2.0 2.0-r1 2.2-r1 2.2-r2 2.5-r1 2.6: IEEE 802.11 wireless LAN Host AP daemon
 net-wireless/intel-wimax-binary-supplicant 1.4.0: Authentication information for WiMax Networks
@@ -403,7 +404,7 @@ net-wireless/n4p 2.2-r1: Comprehensive Wireless and Network packet based hacking
 net-wireless/nfcpy 0.10.2: A tool to read/write NFC tags or communicate with another NFC device
 net-wireless/op25 9999: software-defined analyzer for APCO P25 signals
 net-wireless/pixiewps 1.1 1.2.2: Bruteforce offline the WPS pin exploiting the low or non-existing entropy
-net-wireless/qspectrumanalyzer 9999: vendor and platform neutral SDR support library
+net-wireless/qspectrumanalyzer 2.1.0 9999: vendor and platform neutral SDR support library
 net-wireless/reaver 1.4-r1 1.4-r2 1.4-r3: Brute force attack against Wifi Protected Setup
 net-wireless/reaver-wps-fork-t6x 1.5.2_p20161210-r2: Utilise Pixie Dust Attack to find the correct WPS PIN.
 net-wireless/rfidler 0.01_p20160313: Software defined RFID (LF) Reader/Writer/Emulator
@@ -411,11 +412,14 @@ net-wireless/rfidtool 0.01: command line rfid interface
 net-wireless/rtl8812au 4.2.5 4.2.5_p20160712 9999: Driver for AC1200 (801.11ac) Wireless Dual-Band USB Adapter
 net-wireless/rtl8812au_astsam 9999: Driver for AC1200 (801.11ac) Wireless Dual-Band USB Adapter
 net-wireless/rtl8812au_asus 4.3.2_p20150929 4.3.2_p20160101: Linux kernel module for ASUS USB-AC56
-net-wireless/rx_tools 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
+net-wireless/rx_tools 1.0.3 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
 net-wireless/ska 0.2: Fake Shared Key Authentication
-net-wireless/soapyhackrf 9999: vendor and platform neutral SDR support library
-net-wireless/soapyrtlsdr 9999: vendor and platform neutral SDR support library
-net-wireless/soapysdr 9999: vendor and platform neutral SDR support library
+net-wireless/soapy_power 1.6.0 9999: Obtain power spectrum from SoapySDR devices
+net-wireless/soapybladerf 0.3.2 9999: Soapy SDR plugin for the Blade RF
+net-wireless/soapyhackrf 0.2.2 9999: SoapySDR HackRF module
+net-wireless/soapyrtlsdr 0.2.2 9999: SoapySDR RTL-SDR Support Module
+net-wireless/soapysdr 0.5.4 9999: vendor and platform neutral SDR support library
+net-wireless/soapyuhd 0.3.2 9999: Soapy SDR plugins for UHD supported SDR devices
 net-wireless/virtualradar-bin 2.0.1 2.3.1: Open-source .NET application for ads-b mapping
 net-wireless/wifi-pumpkin 0.7.8-r1 0.8.4: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifitap 0.4.0-r4: A wireless tool to do direct connection to client without passing through an AP
@@ -424,7 +428,7 @@ net-wireless/wifite2 9999: An automated wireless attack tool, v2
 net-wireless/wireless-regdb 20090130-r1 20090309 20090817 20091125 20091125-r1: Binary regulatory database for CRDA
 pentoo/pentoo 2014.3-r1 2015.1: Pentoo meta ebuild to install all apps
 pentoo/pentoo-analyzer 2016.3 2016.4: Pentoo analyzers meta ebuild
-pentoo/pentoo-bluetooth 2017.0: Pentoo bluetooth meta ebuild
+pentoo/pentoo-bluetooth 2017.1: Pentoo bluetooth meta ebuild
 pentoo/pentoo-cinnamon 2012.0: Pentoo cinnamon meta ebuild
 pentoo/pentoo-cracking 2016.3-r2: Pentoo cracking meta ebuild
 pentoo/pentoo-database 2015.3-r1: Pentoo database attack meta ebuild
@@ -436,15 +440,15 @@ pentoo/pentoo-forging 2012.0: Pentoo forging meta ebuild
 pentoo/pentoo-fuzzers 2015.3-r1: Pentoo fuzzers meta ebuild
 pentoo/pentoo-gnome 2.32.1-r3: Meta package for the GNOME desktop, merge this package to install
 pentoo/pentoo-installer 20140930 99999999: Installer for pentoo, based on the ncurses Arch Linux installer
-pentoo/pentoo-livecd 2016.3-r5: things needed by pentoo for livecd only
+pentoo/pentoo-livecd 2017.0: things needed by pentoo for livecd only
 pentoo/pentoo-misc 2017.0: Pentoo misc meta ebuild
 pentoo/pentoo-mitm 2015.4: Pentoo mitm meta ebuild
 pentoo/pentoo-mobile 2013.0 2014.0 2014.1: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2015.3: Collection of NFC tools
 pentoo/pentoo-proxies 2017.0: Pentoo proxy meta ebuild
-pentoo/pentoo-radio 2017.0: Radio tools for pentoo
+pentoo/pentoo-radio 2017.0-r1: Radio tools for pentoo
 pentoo/pentoo-rce 2014.1: Pentoo RCE meta ebuild
-pentoo/pentoo-scanner 2016.3: Pentoo scanner meta ebuild
+pentoo/pentoo-scanner 2017.0: Pentoo scanner meta ebuild
 pentoo/pentoo-system 2016.3-r13: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2014.3: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2016.3-r1: Pentoo wireless meta ebuild

@@ -1,14 +1,15 @@
 DEFINED_PHASES=compile configure install postinst prepare setup
-DEPEND=sys-apps/gawk dev-lang/perl sys-libs/gdbm dev-libs/libevent net-libs/libpcap media-libs/gd media-libs/libpng net-analyzer/rrdtool ssl? ( dev-libs/openssl ) sys-libs/zlib dev-libs/geoip dev-lang/lua snmp? ( net-analyzer/net-snmp[ipv6] ) >=sys-devel/libtool-1.5.26 !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4 =dev-lang/python-2*
+DEPEND=dev-lang/lua:= dev-lang/perl dev-libs/geoip dev-libs/libevent media-libs/gd media-libs/libpng:0= net-analyzer/rrdtool[graph] net-libs/libpcap snmp? ( net-analyzer/net-snmp[ipv6] ) ssl? ( dev-libs/openssl:0= ) sys-libs/gdbm sys-libs/zlib virtual/awk system-ndpi? ( net-libs/libndpi ) python_targets_python2_7? ( >=dev-lang/python-2.7.5-r2:2.7 ) >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_jython2_7(-),-python_single_target_pypy(-),-python_single_target_pypy3(-),-python_single_target_python3_4(-),-python_single_target_python3_5(-),-python_single_target_python3_6(-),python_single_target_python2_7(+)] >=sys-devel/libtool-1.5.26 >=app-portage/elt-patches-20170317 !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
 DESCRIPTION=Network traffic analyzer with web interface
-EAPI=4
+EAPI=6
 HOMEPAGE=http://www.ntop.org/products/ntop/
-IUSE=snmp ssl
+IUSE=snmp ssl system-ndpi python_targets_python2_7
 KEYWORDS=~amd64 ~arm ~hppa ~ia64 ~ppc ~ppc64 ~s390 ~sh ~sparc ~x86
-LICENSE=GPL-2
-RDEPEND=sys-apps/gawk dev-lang/perl sys-libs/gdbm dev-libs/libevent net-libs/libpcap media-libs/gd media-libs/libpng net-analyzer/rrdtool ssl? ( dev-libs/openssl ) sys-libs/zlib dev-libs/geoip dev-lang/lua snmp? ( net-analyzer/net-snmp[ipv6] ) media-fonts/corefonts media-gfx/graphviz net-misc/wget app-arch/gzip !arm? ( dev-libs/gdome2 ) dev-libs/glib:2 =dev-lang/python-2*
+LICENSE=GPL-3
+RDEPEND=dev-lang/lua:= dev-lang/perl dev-libs/geoip dev-libs/libevent media-libs/gd media-libs/libpng:0= net-analyzer/rrdtool[graph] net-libs/libpcap snmp? ( net-analyzer/net-snmp[ipv6] ) ssl? ( dev-libs/openssl:0= ) sys-libs/gdbm sys-libs/zlib virtual/awk system-ndpi? ( net-libs/libndpi ) app-arch/gzip dev-libs/glib:2 dev-python/mako media-fonts/corefonts media-gfx/graphviz net-misc/wget
+REQUIRED_USE=python_targets_python2_7
 SLOT=0
 SRC_URI=mirror://sourceforge/ntop/ntop/Stable/ntop-5.0.1.tar.gz
 _eclass_exported_funcs=pkg_postinst:- pkg_setup:- src_prepare:- src_configure:- src_compile:- src_install:-
-_eclasses_=autotools	7027963e8e8cc12c91117bdb9225dc26	epatch	122e1264e67c4f59a1482f2095e0b35d	estack	5ac2a138d0b33354b764d84f9e835db8	eutils	1ef31aee2bd63ffbfcae8a1843c9208d	libtool	48b1b9f6194d2842456514d1184ca72e	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	0236be304ee52e7f179ed2f337075515	python	bc5dc5d43bf20a6e1f59f99b5f49df4f	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee	user	9903ef4e6829343eb83f1da3bda64d33
-_md5_=b476068f2d39ba0700ab5300dd5c098a
+_eclasses_=autotools	7027963e8e8cc12c91117bdb9225dc26	epatch	8233751dc5105a6ae8fcd86ce2bb0247	epunt-cxx	f8073339d152f56626493f43d8ba4691	estack	5ac2a138d0b33354b764d84f9e835db8	eutils	e7491451996e8b54c3caeb713285b0fb	libtool	e32ea84bf82cf8987965b574672dba93	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	0236be304ee52e7f179ed2f337075515	python-single-r1	c3e54dd0dc1e70c6252f2551a55bf053	python-utils-r1	a166d0f5815d7f1e67bb60a196f1bf7e	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee	user	9903ef4e6829343eb83f1da3bda64d33
+_md5_=1673ab6c23458181eedef8ef52cf0e71
