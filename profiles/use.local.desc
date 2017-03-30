@@ -38,9 +38,6 @@ net-wireless/hostapd:debug - Enables debugging
 net-wireless/hostapd:logwatch - Install support files for sys-app/logwatch
 net-wireless/hostapd:madwifi - Add support for madwifi (Atheros chipset)
 net-wireless/hostapd:wps - Add support for Wi-Fi Protected Setup
-sys-firmware/edk2-bin:hello-world - Creates a HelloWorld.efi, ready to use with app-emulation/qemu.
-sys-firmware/edk2-bin:qemu - Creates the uefi-bios for app-emulation/qemu.
-sys-firmware/edk2-bin:shell - Creates the uefi-shell.
 sys-kernel/compat-drivers:build-all-modules - Bypass any filtering of the modules and build them all. Use only when no other flag works!
 sys-kernel/compat-drivers:compat_drivers_ethernet_alx - COMPAT_DRIVERS_ETHERNET setting to build driver for alx ethernet cards
 sys-kernel/compat-drivers:compat_drivers_ethernet_atl1 - COMPAT_DRIVERS_ETHERNET setting to build driver for atl1 ethernet cards

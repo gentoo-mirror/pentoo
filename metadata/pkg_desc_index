@@ -24,13 +24,11 @@ app-exploits/exploitdb 9999: All exploits from exploit-db.com
 app-exploits/osslsigncode 1.7.1_p20150831: OpenSSL-based signcode utility
 app-exploits/packetstormexploits 2012.13 2013.13 2014.13 2015.13 2016.13 2017.01: Archive of packetstorm exploits
 app-exploits/packetstormexploits-meta 2017: Meta ebuild of packetstorm exploits
-app-exploits/shellstorm 9999: Search and display all shellcodes in shell-storm database.
 app-exploits/the-backdoor-factory 3.4.1 3.4.2: BDF allows to patch executable binaries with user desired shellcode
 app-exploits/weevely 3.3.1: Weevely is a stealth PHP web shell that simulate telnet-like console
 app-forensics/bulk_extractor 1.5.5: Scans a disk image, directory or file and extracts useful information
 app-forensics/data-carver-processors 0: Data carving analysis for JPEG, PDF and Videos
 app-forensics/dff 1.3.0-r8: A framework which aims to analyze and recover any kind of digital artifact
-app-forensics/disitool 0.3: This tool will allow the manipulation of Authenticode digital signatures
 app-forensics/dpapick 0.2_p20130826 0.3: Open-source tool that allows decryption of DPAPI structures in an offline way
 app-forensics/guymager 0.7.3-r1: Guymager is a fast and user friendly forensic imager.
 app-forensics/inception 0.4.1: Firewire physical memory manipulation tool exploiting IEEE 1394 SBP-2 DMA
@@ -67,7 +65,6 @@ app-fuzz/smtp-fuzz 0.1: A smtp fuzzer
 app-fuzz/smudge 0.8-r2: Smudge is basically a port of SPIKE into python scripts
 app-fuzz/snmp-fuzzer 0.1.1: A very complete snmp fuzzer
 app-fuzz/spike 2.9-r1: A generic network fuzzer
-app-fuzz/taof 0.3.2: A generic fuzzer framework
 app-misc/ROPgadget 5.4: Tool to search for gadgets in binaries to facilitate your ROP exploitation
 app-misc/binwalk 2.1.1: A tool for identifying files embedded inside firmware images
 app-misc/dradis 2.5.2 2.5.2-r1: A framework for effective information sharing
@@ -91,7 +88,6 @@ dev-db/sqlbf 1.0.1-r1: SQLBF is a tool to audit mssql passwords strength offline
 dev-db/sqlitebrowser 3.3.1-r1 3.7.0-r2 3.8.0-r1: SQLite Database Browser
 dev-db/sqlmap 1.1 1.1.3 9999: Automatic SQL injection and database takeover tool
 dev-db/sqlsus 0.7.2: MySQL injection and takeover tool
-dev-db/themole 0.3: An automatic SQL Injection exploitation tool
 dev-dotnet/wxnet 0.7.2: wxWidgets bindings for mono
 dev-embedded/libmpsse 1.3_p20150711 1.3_p20160602: Open source library for SPI/I2C control via FTDI chips
 dev-embedded/mphidflash 1.6 1.8: Tool for communicating with the USB-Bootloader in PIC microcontrollers
@@ -272,7 +268,6 @@ net-analyzer/hyenae 0.36_p1-r1: a highly flexible packet generator
 net-analyzer/ike-scan 1.9_p20151114: A utility for finding, fingerprinting and testing IKE VPN servers
 net-analyzer/inguma 0.4-r1: Inguma is an open source penetration testing toolkit written completely in Python
 net-analyzer/jmsdigger-bin 20130815: JMSDigger is an Enterprise Messaging Application assessment tool focuses on ActiveMQ
-net-analyzer/loki 0.2.7: Layer3 attacking tool
 net-analyzer/maketh 0.2.0: Ethernet packet injector and creator
 net-analyzer/masscan 1.0.3-r4: Mass IP port scanner
 net-analyzer/medusa 2.2-r1: A Modular,Parallel,Multiprotocol, Network Login Auditor
@@ -292,7 +287,6 @@ net-analyzer/packet-o-matic 9999: packet-o-matic is a real time packet processor
 net-analyzer/padbuster 20110928: Automated script for performing Padding Oracle attacks
 net-analyzer/plecost 9999: Wordpress finger printing tool, retrieve information about the plugins and versions installed
 net-analyzer/polenum 0.2-r2: a python script for extracting the password policy information from a Windows/Samba machine.
-net-analyzer/post-it-dos 9999: A simple piece of PoC code written to demonstrate HTTP POST Denial of Service vulnerabilies
 net-analyzer/ppscan 0.3: Port scanner with HTTP and FTP tunneling support
 net-analyzer/recon-ng 4.7.3 4.8.0 9999: Web Reconnaissance Framework
 net-analyzer/rpcapd 4.1.2: Remote packet capture daemon
@@ -422,7 +416,7 @@ net-wireless/soapysdr 0.5.4 9999: vendor and platform neutral SDR support librar
 net-wireless/soapyuhd 0.3.2 9999: Soapy SDR plugins for UHD supported SDR devices
 net-wireless/virtualradar-bin 2.0.1 2.3.1: Open-source .NET application for ads-b mapping
 net-wireless/wifi-pumpkin 0.7.8-r1 0.8.4: Framework for Rogue Wi-Fi Access Point Attack
-net-wireless/wifitap 0.4.0-r4: A wireless tool to do direct connection to client without passing through an AP
+net-wireless/wifitap 0.4.1: A wireless tool to do direct connection to client without passing through an AP
 net-wireless/wifite 2.85_p20150526-r1: An automated wireless attack tool
 net-wireless/wifite2 9999: An automated wireless attack tool, v2
 net-wireless/wireless-regdb 20090130-r1 20090309 20090817 20091125 20091125-r1: Binary regulatory database for CRDA
@@ -461,9 +455,6 @@ sys-auth/ykclient 2.15: Yubico C client library
 sys-boot/grub-static 0.97-r9 0.97-r10: GNU GRUB Legacy boot loader (static build)
 sys-devel/gcc-arm-embedded-bin 4.6_p20120316: Code Sourcery's CodeBench for ARM EABI
 sys-devel/sourcery-arm-gcc-bin 2011.03: Code Sourcery's CodeBench for ARM EABI
-sys-firmware/edk2 9999-r11337: A modern, feature-rich, cross-platform firmware development env. for the UEFI and PI specifications
-sys-firmware/edk2-bin 9999-r11337: Binaries for the EDK2 plattform (UEFI tools)
-sys-firmware/edk2-efishell-bin 9999: EFI-Shell - provides native UDK implemenations of a UEFI Shell 2.0.
 sys-fs/ext4-crypt 9999: This is a userspace tool to manage encrypted ext4 directories since Linux kernel 4.1 introduced native encryption
 sys-fs/linux-live 1.0: Some functions like tgz2mo, mo2dir, dir2mo, etc.
 sys-fs/sasquatch 20160119: The sasquatch project is a set of patches to the standard unsquashfs utility
