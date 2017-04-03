@@ -472,7 +472,7 @@ sys-libs/libkudzu 1.2.85.1: Red Hat Hardware detection tools
 sys-libs/newlib 1.17.0: Newlib is a C library intended for use on embedded systems
 sys-power/acpid 2.0.23 2.0.27 2.0.28: Daemon for Advanced Configuration and Power Interface
 virtual/jdk 1.7.0-r3 1.8.0-r4: Virtual for Java Development Kit (JDK)
-virtual/linux-sources 1-r1: Virtual for Linux kernel sources
+virtual/linux-sources 1-r1 3-r1: Virtual for Linux kernel sources
 virtual/opencl 0-r4: Virtual for OpenCL implementations
 virtual/pkgconfig 0: Virtual for the pkg-config implementation
 www-apps/arachni 1.4: Arachni is a feature-full web application scanner
