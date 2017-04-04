@@ -155,7 +155,7 @@ dev-python/qtpy 0.6.9 9999: Minimal Python 2 & 3 shim around all Qt bindings
 dev-python/ruamel-base 1.0.0: common routines for ruamel packages
 dev-python/ruamel-ordereddict 0.4.9: An ordered dictionary with KIO/KVIO
 dev-python/ruamel-yaml 0.13.7: YAML parser/emitter that supports roundtrip comment preservation
-dev-python/simplesoapy 1.3.0 9999: Simple pythonic wrapper for SoapySDR library
+dev-python/simplesoapy 1.4.0 9999: Simple pythonic wrapper for SoapySDR library
 dev-python/simplespectral 1.0.0 9999: Heavily simplified scipy.signal.spectral module
 dev-python/sortedcontainers 1.5.7: Python Sorted Container Types: SortedList, SortedDict, and SortedSet
 dev-python/stopit 1.1.1: Timeout control decorator and context managers
@@ -398,7 +398,7 @@ net-wireless/n4p 2.2-r1: Comprehensive Wireless and Network packet based hacking
 net-wireless/nfcpy 0.10.2: A tool to read/write NFC tags or communicate with another NFC device
 net-wireless/op25 9999: software-defined analyzer for APCO P25 signals
 net-wireless/pixiewps 1.1 1.2.2: Bruteforce offline the WPS pin exploiting the low or non-existing entropy
-net-wireless/qspectrumanalyzer 2.1.0 9999: vendor and platform neutral SDR support library
+net-wireless/qspectrumanalyzer 2.2.0 9999: vendor and platform neutral SDR support library
 net-wireless/reaver 1.4-r1 1.4-r2 1.4-r3: Brute force attack against Wifi Protected Setup
 net-wireless/reaver-wps-fork-t6x 1.5.2_p20161210-r2: Utilise Pixie Dust Attack to find the correct WPS PIN.
 net-wireless/rfidler 0.01_p20160313: Software defined RFID (LF) Reader/Writer/Emulator
