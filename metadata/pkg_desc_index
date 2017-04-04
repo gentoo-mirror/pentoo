@@ -155,7 +155,7 @@ dev-python/qtpy 0.6.9 9999: Minimal Python 2 & 3 shim around all Qt bindings
 dev-python/ruamel-base 1.0.0: common routines for ruamel packages
 dev-python/ruamel-ordereddict 0.4.9: An ordered dictionary with KIO/KVIO
 dev-python/ruamel-yaml 0.13.7: YAML parser/emitter that supports roundtrip comment preservation
-dev-python/simplesoapy 1.4.0 9999: Simple pythonic wrapper for SoapySDR library
+dev-python/simplesoapy 1.4.0 1.4.1 9999: Simple pythonic wrapper for SoapySDR library
 dev-python/simplespectral 1.0.0 9999: Heavily simplified scipy.signal.spectral module
 dev-python/sortedcontainers 1.5.7: Python Sorted Container Types: SortedList, SortedDict, and SortedSet
 dev-python/stopit 1.1.1: Timeout control decorator and context managers
@@ -408,7 +408,7 @@ net-wireless/rtl8812au_astsam 9999: Driver for AC1200 (801.11ac) Wireless Dual-B
 net-wireless/rtl8812au_asus 4.3.2_p20150929 4.3.2_p20160101: Linux kernel module for ASUS USB-AC56
 net-wireless/rx_tools 1.0.3 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
 net-wireless/ska 0.2: Fake Shared Key Authentication
-net-wireless/soapy_power 1.6.0 9999: Obtain power spectrum from SoapySDR devices
+net-wireless/soapy_power 1.6.0-r1 9999: Obtain power spectrum from SoapySDR devices
 net-wireless/soapybladerf 0.3.2 9999: Soapy SDR plugin for the Blade RF
 net-wireless/soapyhackrf 0.2.2 9999: SoapySDR HackRF module
 net-wireless/soapyrtlsdr 0.2.2 9999: SoapySDR RTL-SDR Support Module
