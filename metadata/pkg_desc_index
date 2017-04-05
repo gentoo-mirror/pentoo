@@ -346,7 +346,7 @@ net-misc/voipong 2.0: tool for detecting all VoIP calls on a pipeline and dumps 
 net-misc/warvox 1.0.1 1.0.1-r2 9999: VoIP war dialing suite of tools
 net-misc/wireshark-sap-plugin 0.3.1 0.3.2 0.4.1 9999: Wireshark plugin for SAP's protocols
 net-misc/wlan2eth 0.1: Wlan2eth is a tool that converts wlan pcap to ethernet-like frames.
-net-proxy/burpsuite 1.6.32 1.7.03: Interactive proxy for attacking and debugging web applications
+net-proxy/burpsuite 1.7.19: Interactive proxy for attacking and debugging web applications
 net-proxy/mallory 0.2.0_p20130109: An TCP/UDP transparent proxy that can be used to intercept network streams
 net-proxy/mitmproxy 1.0.2-r1: An interactive, SSL-capable, man-in-the-middle HTTP proxy
 net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal network via reverse connection
@@ -439,7 +439,7 @@ pentoo/pentoo-misc 2017.0: Pentoo misc meta ebuild
 pentoo/pentoo-mitm 2015.4: Pentoo mitm meta ebuild
 pentoo/pentoo-mobile 2013.0 2014.0 2014.1: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2015.3: Collection of NFC tools
-pentoo/pentoo-proxies 2017.0: Pentoo proxy meta ebuild
+pentoo/pentoo-proxies 2017.1: Pentoo proxy meta ebuild
 pentoo/pentoo-radio 2017.0-r1: Radio tools for pentoo
 pentoo/pentoo-rce 2014.1: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2017.0: Pentoo scanner meta ebuild
