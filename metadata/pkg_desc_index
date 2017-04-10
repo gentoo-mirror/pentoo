@@ -165,7 +165,7 @@ dev-python/tre-python 0.8.0: Python bidings for TRE library
 dev-python/vulndb 0.0.19: Python SDK to access the vulnerability database
 dev-python/xdot 0.6: Interactive viewer for Graphviz dot files
 dev-python/yara-python 3.3.0 3.5.0: Python interface for a malware identification and classification tool
-dev-ruby/activerecord-session_store 1.0.0: An Action Dispatch session store backed by an Active Record class
+dev-ruby/activerecord-session_store 1.0.0-r1: An Action Dispatch session store backed by an Active Record class
 dev-ruby/arachni-reactor 0.1.0 0.1.1: A simple, lightweight, pure-Ruby implementation of the Reactor pattern
 dev-ruby/arachni-rpc 0.2.1.2 0.2.1.3: Arachni-RPC is a simple and lightweight Remote Procedure Call protocol
 dev-ruby/arachni-rpc-em 0.2: EventMachine-based client and server implementation of Arachni-RPC
