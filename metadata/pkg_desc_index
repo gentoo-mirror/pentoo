@@ -169,7 +169,7 @@ dev-ruby/activerecord-session_store 1.0.0: An Action Dispatch session store back
 dev-ruby/arachni-reactor 0.1.0 0.1.1: A simple, lightweight, pure-Ruby implementation of the Reactor pattern
 dev-ruby/arachni-rpc 0.2.1.2 0.2.1.3: Arachni-RPC is a simple and lightweight Remote Procedure Call protocol
 dev-ruby/arachni-rpc-em 0.2: EventMachine-based client and server implementation of Arachni-RPC
-dev-ruby/async 0.10.0: Asynchronous I/O framework for Ruby based on nio4r and timers.
+dev-ruby/async 0.10.0-r1: Asynchronous I/O framework for Ruby based on nio4r and timers.
 dev-ruby/async-dns 0.10.0: An asynchronous DNS resolver and server.
 dev-ruby/cgi_multipart_eof_fix 2.5.0: Fix an exploitable bug in CGI multipart parsing.
 dev-ruby/ckeditor_rails 4.6.2: CKEditor is a javascript library of the WYSIWYG rich-text editor
@@ -200,6 +200,7 @@ dev-ruby/mini_portile2 2.0.0 2.1.0: Simplistic port-like solution for developers
 dev-ruby/mongrel 1.1.5: A small fast HTTP library and server that runs Rails, Camping, Nitro and Iowa apps.
 dev-ruby/msfrpc-client 1.0.1: This gem provides a Ruby client API to access the Rapid7 Metasploit Pro RPC service
 dev-ruby/net-dns 0.8.0: Ruby DNS library, with a clean OO interface and an extensible API
+dev-ruby/nio4r 2.0.0-r1: A high performance selector API for monitoring IO objects
 dev-ruby/oj 2.12.14 2.14.2 2.14.6: The fastest JSON parser and object serializer
 dev-ruby/oj_mimic_json 1.0.1: An experimental Object-base Parallel Evaluation Environment.
 dev-ruby/packetfu 1.1.12: A mid-level packet manipulation library
@@ -245,7 +246,7 @@ net-analyzer/armitage 9999 20141129 20150813: Cyber Attack Management for Metasp
 net-analyzer/armitage-bin 20140818 20141120 20150813: Cyber Attack Management for Metasploit
 net-analyzer/arpantispoofer 1.0.1.32: An utility to detect and resist arp spoofing
 net-analyzer/autoscan-network 1.50: Utility for network exploration with Samba support.
-net-analyzer/bettercap 1.6.0 1.6.0-r1: A complete, modular, portable and easily extensible MITM framework
+net-analyzer/bettercap 1.6.0 1.6.0-r2: A complete, modular, portable and easily extensible MITM framework
 net-analyzer/blindelephant 9999: generic web application fingerprinter that produces results by examining a small set of static files
 net-analyzer/bonesi 9999: BoNeSi - the DDoS Botnet Simulator
 net-analyzer/bro 2.2 2.3 2.3.1: a advanced intrusion detection system
