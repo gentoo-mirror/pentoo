@@ -202,6 +202,7 @@ dev-ruby/msfrpc-client 1.0.1: This gem provides a Ruby client API to access the 
 dev-ruby/net-dns 0.8.0: Ruby DNS library, with a clean OO interface and an extensible API
 dev-ruby/oj 2.12.14 2.14.2 2.14.6: The fastest JSON parser and object serializer
 dev-ruby/oj_mimic_json 1.0.1: An experimental Object-base Parallel Evaluation Environment.
+dev-ruby/packetfu 1.1.12: A mid-level packet manipulation library
 dev-ruby/parseconfig 1.0.6: Provides simple parsing of standard *nix style config files.
 dev-ruby/pony 1.8-r1: Send email in one command
 dev-ruby/puma 2.14.0 2.16.0: Puma is a simple, fast, threaded, and highly concurrent HTTP 1.1 server
@@ -244,7 +245,7 @@ net-analyzer/armitage 9999 20141129 20150813: Cyber Attack Management for Metasp
 net-analyzer/armitage-bin 20140818 20141120 20150813: Cyber Attack Management for Metasploit
 net-analyzer/arpantispoofer 1.0.1.32: An utility to detect and resist arp spoofing
 net-analyzer/autoscan-network 1.50: Utility for network exploration with Samba support.
-net-analyzer/bettercap 1.6.0: A complete, modular, portable and easily extensible MITM framework
+net-analyzer/bettercap 1.6.0 1.6.0-r1: A complete, modular, portable and easily extensible MITM framework
 net-analyzer/blindelephant 9999: generic web application fingerprinter that produces results by examining a small set of static files
 net-analyzer/bonesi 9999: BoNeSi - the DDoS Botnet Simulator
 net-analyzer/bro 2.2 2.3 2.3.1: a advanced intrusion detection system
