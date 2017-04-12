@@ -147,7 +147,7 @@ dev-python/pygtail 0.7.0: Reads log file lines that have not been read
 dev-python/pyinstaller 3.2: Program converting Python programs into stand-alone executables
 dev-python/pynetfilter_conntrack 0.4.2: Python binding of libnetfilter_conntrack
 dev-python/pyperclip 1.5.27: Cross-platform clipboard module
-dev-python/python-nmap 0.6.0: a python library which helps in using nmap port scanner
+dev-python/python-nmap 0.6.1: a python library which helps in using nmap port scanner
 dev-python/python-ntlm 1.0.1 1.1.0: Clamd is a python interface to Clamd (Clamav daemon)
 dev-python/python-owasp-zap-v2 0.0.9: OWASP ZAP Python API
 dev-python/python-registry 1.0.4: A pure Python module that provides read access to Windows Registry files
