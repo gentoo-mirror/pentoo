@@ -200,7 +200,6 @@ dev-ruby/mini_portile2 2.0.0 2.1.0: Simplistic port-like solution for developers
 dev-ruby/mongrel 1.1.5: A small fast HTTP library and server that runs Rails, Camping, Nitro and Iowa apps.
 dev-ruby/msfrpc-client 1.0.1: This gem provides a Ruby client API to access the Rapid7 Metasploit Pro RPC service
 dev-ruby/net-dns 0.8.0: Ruby DNS library, with a clean OO interface and an extensible API
-dev-ruby/nio4r 2.0.0-r1: A high performance selector API for monitoring IO objects
 dev-ruby/oj 2.12.14 2.14.2 2.14.6: The fastest JSON parser and object serializer
 dev-ruby/oj_mimic_json 1.0.1: An experimental Object-base Parallel Evaluation Environment.
 dev-ruby/packetfu 1.1.11-r2 1.1.12: A mid-level packet manipulation library
