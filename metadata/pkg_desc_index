@@ -155,7 +155,7 @@ dev-python/qtpy 0.6.9 9999: Minimal Python 2 & 3 shim around all Qt bindings
 dev-python/ruamel-base 1.0.0: common routines for ruamel packages
 dev-python/ruamel-ordereddict 0.4.9: An ordered dictionary with KIO/KVIO
 dev-python/ruamel-yaml 0.13.7: YAML parser/emitter that supports roundtrip comment preservation
-dev-python/simplesoapy 1.4.0 1.4.1 9999: Simple pythonic wrapper for SoapySDR library
+dev-python/simplesoapy 1.4.1 9999: Simple pythonic wrapper for SoapySDR library
 dev-python/simplespectral 1.0.0 9999: Heavily simplified scipy.signal.spectral module
 dev-python/sortedcontainers 1.5.7: Python Sorted Container Types: SortedList, SortedDict, and SortedSet
 dev-python/stopit 1.1.1: Timeout control decorator and context managers
