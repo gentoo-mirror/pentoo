@@ -267,7 +267,7 @@ net-analyzer/geoedge 0.2-r2: This little tools is designed to get geolocalizatio
 net-analyzer/geoipgen 0.4: Generate a list of hostnames based on country
 net-analyzer/httprint 301: HTTP fingerprinter tool
 net-analyzer/hyenae 0.36_p1-r1: a highly flexible packet generator
-net-analyzer/ike-scan 1.9_p20151114: A utility for finding, fingerprinting and testing IKE VPN servers
+net-analyzer/ike-scan 1.9.5_pre20151114: A utility for finding, fingerprinting and testing IKE VPN servers
 net-analyzer/inguma 0.4-r1: Inguma is an open source penetration testing toolkit written completely in Python
 net-analyzer/jmsdigger-bin 20130815: JMSDigger is an Enterprise Messaging Application assessment tool focuses on ActiveMQ
 net-analyzer/maketh 0.2.0: Ethernet packet injector and creator
