@@ -2,9 +2,6 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-app-emulation/vmware-modules:pax_kernel - Apply patch needed for pax enabled kernels
-app-emulation/vmware-modules:vmci - Build the Virtual Machine Communication Interface module; disable this if you want to use the module from the mainline kernel
-app-emulation/vmware-modules:vsock - Build the VMware VMCI transport for Virtual Sockets; disable this if you want to use the module from the mainline kernel
 app-misc/binwalk:graph - Enable support for generating entropy graphs
 dev-java/icedtea:cacao - Use the CACAO virtual machine rather than HotSpot.
 dev-java/icedtea:headless-awt - Don't install the X backend for AWT, needed by some GUIs (used to be X flag)
@@ -28,11 +25,6 @@ dev-util/edb:graphviz - Add support for the Graphviz library
 dev-util/edb:legacy-mem-write - Probe if writes to /proc/PID/mem are broken.
 net-libs/libpcap:canusb - Use virtual/libusb to support Controller Area Network over USB (CAN USB)
 net-libs/libpcap:netlink - Use dev-libs/libnl to put wireless interfaces in monitor mode.
-net-wireless/bluez:deprecated - Build deprecated plugins
-net-wireless/bluez:experimental - Build experimental plugins
-net-wireless/bluez:extra-tools - Install tools that upstream doesn't install on purpose by default. All this tools shouldn't be used. Then, please notify upstream about you still need them to let them know the situation.
-net-wireless/bluez:obex - Enable OBEX transfer support.
-net-wireless/bluez:test-programs - Install tools for testing of various Bluetooth functions
 net-wireless/compat-wireless:injection - Add patches for better wifi injection support
 net-wireless/hostapd:debug - Enables debugging
 net-wireless/hostapd:logwatch - Install support files for sys-app/logwatch
