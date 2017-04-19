@@ -304,7 +304,7 @@ net-analyzer/thc-pptp-bruter 0.1.4: a brute force program that works against ppt
 net-analyzer/thc-ssl-dos 1.4: THC-SSL-DOS is a tool to verify the performance of SSL servers
 net-analyzer/theHarvester 2.7-r1: The Harvester is a tool designed to collect email accounts of the target domain
 net-analyzer/ucsniff 3.20 3.20-r1: VoIP audio & video sniffer
-net-analyzer/unicornscan 0.4.7 0.4.7-r1: A utility for information gathering or security auditing
+net-analyzer/unicornscan 0.4.7_p2: A utility for information gathering or security auditing
 net-analyzer/upnpwn 0.8.0-r1: UPNP pentesting tool and library
 net-analyzer/videojak 1.00 2.0: VideoJak is an IP Video security assessment tool
 net-analyzer/voiphopper 2.04 2.04-r1: VoIP Hopper is a tool that rapidly runs a VLAN Hop into the Voice VLAN
