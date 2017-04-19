@@ -21,8 +21,6 @@ dev-libs/glib:mime - Pull in shared MIME database that many glib-based applicati
 dev-libs/glib:systemtap - Build support for profiling and tracing using dev-util/systemtap
 dev-libs/glib:utils - Install gtester-report utility to generate test report files for your software; build gresource utility with ELF support.
 dev-python/nltk:numpy - Use numpy for the saved word tokenizer
-dev-util/edb:graphviz - Add support for the Graphviz library
-dev-util/edb:legacy-mem-write - Probe if writes to /proc/PID/mem are broken.
 net-libs/libpcap:canusb - Use virtual/libusb to support Controller Area Network over USB (CAN USB)
 net-libs/libpcap:netlink - Use dev-libs/libnl to put wireless interfaces in monitor mode.
 net-wireless/compat-wireless:injection - Add patches for better wifi injection support

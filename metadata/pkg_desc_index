@@ -211,14 +211,13 @@ dev-ruby/spider 0.4.4-r2: web spidering library
 dev-ruby/sys-proctable 0.9.3: An interface for providing process table information
 dev-ruby/terminal-table 1.4.5-r1 1.6.0: Simple, feature rich ascii table generation library
 dev-ruby/watir-webdriver 0.6.9 0.8.0: WebDriver-backed Watir
-dev-util/apktool 2.0.2 2.0.3: A tool for reengineering 3rd party, closed, binary Android apps.
+dev-util/apktool 2.0.2 2.0.3 2.2.2: A tool for reengineering 3rd party, closed, binary Android apps.
 dev-util/ati-app-sdk-bin 2.9: AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream)
 dev-util/ati-stream-sdk-bin 2.01 2.2 2.3: Enable compiling code and loading it on ATI/AMD GPU
 dev-util/bokken 1.8-r1: GUI for the Pyew malware analysis and Radare the reverse engineering framework
 dev-util/calpp 0.87-r1 0.90 0.90-r1: A library for efficient use of ATI CAL with C++
 dev-util/collabreate 0.2.0 0.3.0 0.3.0-r1 0.3.0-r2 0.3.0.1 0.3.0.1-r1: A plugin for IDA Pro designed to provide collaborative reverse engineering
 dev-util/dex2jar 2.1_pre20150601: Tools to work with android .dex and java .class files
-dev-util/edb 0.9.21 9999: edb is a cross platform x86/x86-64 debugger, inspired by Ollydbg
 dev-util/jd-gui-bin 0.3.5-r1 1.4.0: A standalone graphical utility that displays Java source codes of .class file
 dev-util/lida 03.00.00: interactive ELF disambler
 dev-util/memfetch 0: A simple utility to dump all memory of a running process
@@ -343,7 +342,7 @@ net-misc/voipong 2.0: tool for detecting all VoIP calls on a pipeline and dumps 
 net-misc/warvox 1.0.1 1.0.1-r2 9999: VoIP war dialing suite of tools
 net-misc/wireshark-sap-plugin 0.3.1 0.3.2 0.4.1 9999: Wireshark plugin for SAP's protocols
 net-misc/wlan2eth 0.1: Wlan2eth is a tool that converts wlan pcap to ethernet-like frames.
-net-proxy/burpsuite 1.7.19: Interactive proxy for attacking and debugging web applications
+net-proxy/burpsuite 1.7.21: Interactive proxy for attacking and debugging web applications
 net-proxy/mallory 0.2.0_p20130109: An TCP/UDP transparent proxy that can be used to intercept network streams
 net-proxy/mitmproxy 1.0.2-r1: An interactive, SSL-capable, man-in-the-middle HTTP proxy
 net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal network via reverse connection
@@ -437,7 +436,7 @@ pentoo/pentoo-mobile 2013.0 2014.0 2014.1: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2015.3: Collection of NFC tools
 pentoo/pentoo-proxies 2017.1: Pentoo proxy meta ebuild
 pentoo/pentoo-radio 2017.0-r1: Radio tools for pentoo
-pentoo/pentoo-rce 2014.1: Pentoo RCE meta ebuild
+pentoo/pentoo-rce 2017.0: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2017.0: Pentoo scanner meta ebuild
 pentoo/pentoo-system 2016.3-r13: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2014.3: Pentoo voip meta ebuild
