@@ -1,15 +1,14 @@
 DEFINED_PHASES=compile configure install prepare test
-DEPEND=|| ( dev-cpp/antlr-cpp:2= dev-java/antlr:0[cxx] ) dev-db/sqlite:3 dev-libs/qcustomplot[qt5=] x11-libs/qscintilla qt4? ( dev-qt/qtcore:4 dev-qt/qtgui:4 ) qt5? ( dev-qt/qtnetwork:5 dev-qt/qttest:5 dev-qt/qtwidgets:5 ) qt5? ( dev-qt/linguist-tools:5 ) dev-util/ninja >=dev-util/cmake-3.7.2
+DEPEND=|| ( dev-cpp/antlr-cpp:2= dev-java/antlr:0[cxx] ) dev-db/sqlite:3 dev-libs/qcustomplot[qt5] dev-qt/qtgui:5 dev-qt/qtnetwork:5 dev-qt/qtwidgets:5 >=x11-libs/qscintilla-2.9.3-r2:=[qt5(+)] dev-qt/linguist-tools:5 test? ( dev-qt/qttest:5 ) sys-devel/make >=dev-util/cmake-3.7.2
 DESCRIPTION=SQLite Database Browser
-EAPI=5
+EAPI=6
 HOMEPAGE=http://sqlitebrowser.org
-IUSE=qt4 qt5 test
+IUSE=test
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3 MPL-2.0
-RDEPEND=|| ( dev-cpp/antlr-cpp:2= dev-java/antlr:0[cxx] ) dev-db/sqlite:3 dev-libs/qcustomplot[qt5=] x11-libs/qscintilla qt4? ( dev-qt/qtcore:4 dev-qt/qtgui:4 ) qt5? ( dev-qt/qtnetwork:5 dev-qt/qttest:5 dev-qt/qtwidgets:5 )
-REQUIRED_USE=^^ ( qt4 qt5 )
+RDEPEND=|| ( dev-cpp/antlr-cpp:2= dev-java/antlr:0[cxx] ) dev-db/sqlite:3 dev-libs/qcustomplot[qt5] dev-qt/qtgui:5 dev-qt/qtnetwork:5 dev-qt/qtwidgets:5 >=x11-libs/qscintilla-2.9.3-r2:=[qt5(+)]
 SLOT=0
-SRC_URI=https://github.com/sqlitebrowser/sqlitebrowser/archive/v3.7.0.tar.gz -> sqlitebrowser-3.7.0.tar.gz
+SRC_URI=https://github.com/sqlitebrowser/sqlitebrowser/archive/v3.9.1.tar.gz -> sqlitebrowser-3.9.1.tar.gz
 _eclass_exported_funcs=src_prepare:- src_configure:- src_compile:cmake-utils src_test:cmake-utils src_install:-
 _eclasses_=cmake-utils	a69f3a404abc4ade0a99e523f51b989d	epatch	8233751dc5105a6ae8fcd86ce2bb0247	epunt-cxx	f8073339d152f56626493f43d8ba4691	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	e7491451996e8b54c3caeb713285b0fb	flag-o-matic	61cad4fb5d800b29d484b27cb033f59b	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	0236be304ee52e7f179ed2f337075515	multiprocessing	284a473719153462f3e974d86c8cb81c	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee	versionator	c80ccf29e90adea7c5cae94b42eb76d0
-_md5_=fac82f7671376ca58578f1bd3dedd940
+_md5_=48aa7eae3f62bd0889907c67c298d189
