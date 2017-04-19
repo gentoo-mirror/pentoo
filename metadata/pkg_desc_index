@@ -66,7 +66,7 @@ app-fuzz/spike 2.9-r1: A generic network fuzzer
 app-misc/ROPgadget 5.4: Tool to search for gadgets in binaries to facilitate your ROP exploitation
 app-misc/binwalk 2.1.1: A tool for identifying files embedded inside firmware images
 app-misc/dradis 2.5.2 2.5.2-r1: A framework for effective information sharing
-app-misc/freediag 1.0.7 1.0.8: Free diagnostic software for OBD-II compliant motor vehicles
+app-misc/freediag 1.08: Free diagnostic software for OBD-II compliant motor vehicles
 app-misc/libmsr 9999: 
 app-misc/openobd 0.5.0: OBD-II Scan Tool supporting ELM327 devices
 app-pda/ideviceinstaller 1.0.1_p20140314 1.0.1_p20140527 1.1.0: A tool to interact with the installation_proxy of an Apple's iDevice
@@ -74,7 +74,7 @@ app-pda/libimobiledevice 1.2.0-r2: Support library to communicate with Apple iPh
 app-pda/libplist 1.12 1.12-r1: Support library to deal with Apple Property Lists (Binary & XML)
 app-pda/libusbmuxd 1.0.10: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
 app-pda/usbmuxd 1.1.0: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
-app-text/cewl 5.1 5.2: A custom word list generator
+app-text/cewl 5.3: A custom word list generator
 dev-db/absinthe 1.4.1: a gui-based tool for aiding in Blind SQL Injection
 dev-db/minimysqlator 05: Minimysqlator is a MySQL injection tools that facilitates the retrieval of DB and more
 dev-db/mssqlscan 0.8.4: A small multi-threaded tool that scans for Microsoft SQL Servers
