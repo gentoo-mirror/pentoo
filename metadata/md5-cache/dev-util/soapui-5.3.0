@@ -1,12 +1,12 @@
 DEFINED_PHASES=install
 DESCRIPTION=The Swiss-Army Knife for SOAP Testing
-EAPI=5
+EAPI=6
 HOMEPAGE=http://www.soapui.org/
 KEYWORDS=~amd64 ~x86
 LICENSE=LGPL-2.1
 RDEPEND=>=virtual/jre-1.6
 RESTRICT=strip mirror
 SLOT=0
-SRC_URI=http://sourceforge.net/projects/soapui/files/soapui/5.0.0/SoapUI-5.0.0-linux-bin.tar.gz
+SRC_URI=http://cdn01.downloads.smartbear.com/soapui/5.3.0/SoapUI-5.3.0-linux-bin.tar.gz
 _eclass_exported_funcs=src_install:-
-_md5_=f5bef7681626ccdfa7af538c32eb0d07
+_md5_=3d45ccd11de2e20f4289606a1fafa1cf

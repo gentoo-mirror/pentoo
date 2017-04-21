@@ -37,7 +37,7 @@ app-forensics/libvshadow 0.0.20131209_alpha 0.0.20140731_alpha: Library and tool
 app-forensics/linen 61: Encase's linen utility
 app-forensics/make-pdf 0.1.4-r2: This tool will embed javascript inside a PDF document
 app-forensics/origami-pdf 1.2.6 2.0.1: A Ruby framework designed to parse, analyze, and forge PDF documents
-app-forensics/pdf-parser 0.4.3-r1 0.6.4: This tool will parse a PDF document to identify the fundamental elements used
+app-forensics/pdf-parser 0.6.4 0.6.7: This tool will parse a PDF document to identify the fundamental elements used
 app-forensics/pdfid 0.2.1: This tool will scan a PDF document looking for certain keyword
 app-forensics/reglookup 1.0.1-r1 9999: An utility for reading and querying Windows NT/2K/XP registries
 app-forensics/rekall-core 9999: Rekall Memory Forensic Framework
@@ -58,7 +58,7 @@ app-fuzz/fuzzer-server 0.1: A html/wml fuzzer for proxy or client
 app-fuzz/http-fuzz 0.1: A http fuzzer
 app-fuzz/ohrwurm 0.1: Ohrwurm is a small and simple RTP fuzzer
 app-fuzz/protos 1.1: The protos fuzzing collection, containing http-reply, ldapv3, snmpv1, sip, h2250v4 and isakmp
-app-fuzz/slowhttptest 1.4 1.5: Application Layer DoS attack simulator
+app-fuzz/slowhttptest 1.7: Application Layer DoS attack simulator
 app-fuzz/smtp-fuzz 0.1: A smtp fuzzer
 app-fuzz/smudge 0.8-r2: Smudge is basically a port of SPIKE into python scripts
 app-fuzz/snmp-fuzzer 0.1.1: A very complete snmp fuzzer
@@ -129,7 +129,6 @@ dev-python/jsbeautifier 1.6.4: Beautify, unpack or deobfuscate JavaScript
 dev-python/libarchive-c 2.7: Python interface to libarchive
 dev-python/nassl 0.15.1 0.16.2: Experimental Python wrapper for OpenSSL
 dev-python/netfilterqueue 0.8: Python bindings for libnetfilter_queue
-dev-python/nltk 2.0.4: Natural Language Toolkit
 dev-python/olefile 0.43: Python package to parse, read and write Microsoft OLE2 files
 dev-python/pcapy 0.10.10: Python pcap extension
 dev-python/pefile 1.2.10_p139-r1 2016.3.28: Module to read and work with Portable Executable (PE) files
@@ -223,11 +222,10 @@ dev-util/lida 03.00.00: interactive ELF disambler
 dev-util/memfetch 0: A simple utility to dump all memory of a running process
 dev-util/metasm 9999: Cross-architecture assembler, disassembler, compiler, linker and debugger
 dev-util/nvidia-cuda-sdk 6.5.19: NVIDIA CUDA Software Development Kit
-dev-util/premake 3.2: A makefile generation tool
 dev-util/pyew 2.0: Hexadecimal viewer and disassembler
 dev-util/radare 1.5.2: Advanced command line hexadecimail editor and more
 dev-util/radare2 1.2.1 1.3.0 1.4.0: Advanced command line hexadecimal editor and more
-dev-util/soapui 5.0.0 5.2.0: The Swiss-Army Knife for SOAP Testing
+dev-util/soapui 5.2.0 5.3.0: The Swiss-Army Knife for SOAP Testing
 dev-util/sonarqube-bin 4.5 4.5.2: SonarQube is an open platform to manage code quality.
 dev-util/unicorn 0.9_p20160901 1.0: A lightweight multi-platform, multi-architecture CPU emulator framework
 dev-util/valabind 0.9.2 0.10.0: Valabind is a tool to parse vala or vapi files to transform them into swig files
@@ -442,7 +440,6 @@ pentoo/tribe 2012.0: Tribe meta ebuild
 pentoo/zero-system 9999: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
 sys-apps/become 1.0 1.0-r1: utility for changing the current real, effective or group id
 sys-apps/magic-pax 0.0.1: 
-sys-auth/pam_yubico 2.23: Library for authenticating against PAM with a Yubikey
 sys-auth/ykclient 2.15: Yubico C client library
 sys-boot/grub-static 0.97-r9 0.97-r10: GNU GRUB Legacy boot loader (static build)
 sys-devel/gcc-arm-embedded-bin 4.6_p20120316: Code Sourcery's CodeBench for ARM EABI
