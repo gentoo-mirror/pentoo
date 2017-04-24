@@ -52,7 +52,7 @@ app-forensics/yim2text 0.1.0: A python script to decode yahoo instant message ar
 app-fuzz/Peach 1.0-r1: A generic fuzzer framework
 app-fuzz/bed 0.5: BED is a multi-protocol fuzzer written in perl
 app-fuzz/bss 0.8-r1: Bluetooth stack smasher / fuzzer
-app-fuzz/dotdotpwn 3.0: The Directory Traversal Fuzzer.
+app-fuzz/dotdotpwn 3.0 3.0.2: The Directory Traversal Fuzzer
 app-fuzz/fuzzdb 1.09_p20170117: Attack and Discovery Pattern Database for Application Fuzz Testing
 app-fuzz/fuzzer-server 0.1: A html/wml fuzzer for proxy or client
 app-fuzz/http-fuzz 0.1: A http fuzzer
