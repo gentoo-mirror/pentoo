@@ -292,7 +292,7 @@ net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
 net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
 net-analyzer/sslcat 1.0: netcat like application with ssl support
 net-analyzer/sslscan-chacha 1.11.8: Fast SSL configuration scanner, using openssl chacha branch
-net-analyzer/sslstrip 0.9-r2: sslstrip remove https and forwards http
+net-analyzer/sslstrip 0.9-r2 0.9_p2: sslstrip remove https and forwards http
 net-analyzer/ssltest 0.5: SSL testing tool written in perl
 net-analyzer/sslyze 1.0.0-r1 1.1.0: Fast and full-featured SSL scanner
 net-analyzer/subdomainer 1.3-r2: This script will search in Google, Msn.search and Yahoo for subdomains related to the target domain
