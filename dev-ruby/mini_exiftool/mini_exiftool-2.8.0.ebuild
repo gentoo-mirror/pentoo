@@ -4,14 +4,16 @@
 
 EAPI=5
 
-USE_RUBY="ruby19 ruby20 ruby21"
+USE_RUBY="ruby21 ruby22 ruby23"
 
 inherit ruby-fakegem
 
-DESCRIPTION="web spidering library"
-HOMEPAGE="http://rubyforge.org/projects/spider/"
+DESCRIPTION="wrapper for exiftool"
+HOMEPAGE="https://rubygems.org/gems/mini_exiftool"
 
 LICENSE="GPL-2"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 IUSE=""
+
+RDEPEND="media-libs/exiftool"

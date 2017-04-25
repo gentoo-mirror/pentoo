@@ -8,18 +8,13 @@ USE_RUBY="ruby21 ruby22 ruby23"
 
 inherit ruby-fakegem
 
+DESCRIPTION="web spidering library"
+HOMEPAGE="https://github.com/johnnagro/spider"
 
-DESCRIPTION="set configuration for Net::HTTP"
-HOMEPAGE="https://github.com/bdurand/http_configuration"
-SRC_URI="mirror://rubygems/${P}.gem"
-
-LICENSE="MIT"
+LICENSE="GPL-2"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 IUSE=""
-
-#so old that the test syntax has changed
+RUBY_FAKEGEM_RECIPE_TEST="rspec3"
+#does not work, literally no clue why
 RESTRICT=test
-
-DEPEND=""
-RDEPEND="!dev-ruby/httpconfig"
