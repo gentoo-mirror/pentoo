@@ -190,7 +190,7 @@ dev-ruby/gem_plugin 0.2.3: A plugin system based on rubygems that uses dependenc
 dev-ruby/http_configuration 1.0.4: set configuration for Net::HTTP
 dev-ruby/librex 0.0.68: Rex provides a variety of classes useful for security testing and exploit development
 dev-ruby/louis 2.0.4-r1: Lookup mac address assignments in the iana database
-dev-ruby/mini_exiftool 2.5.1: wrapper for exiftool
+dev-ruby/mini_exiftool 2.5.1 2.8.0: wrapper for exiftool
 dev-ruby/mini_portile 0.5.3 0.6.2: Simplified way to compile against dependency libraries
 dev-ruby/mini_portile2 2.0.0 2.1.0: Simplistic port-like solution for developers
 dev-ruby/mongrel 1.1.5: A small fast HTTP library and server that runs Rails, Camping, Nitro and Iowa apps.
@@ -206,7 +206,7 @@ dev-ruby/rubydns 1.0.3 2.0.0_rc1: A tool to intercept and modify DNS requests
 dev-ruby/similar_text 0.0.4: Calculate the similarity between two strings
 dev-ruby/sinatra-contrib 1.4.6-r1 1.4.7: Collection of useful Sinatra extensions
 dev-ruby/sourcify 0.5.0-r1: Workarounds before ruby-core officially supports Proc#to_source (& friends)
-dev-ruby/spider 0.4.4-r2: web spidering library
+dev-ruby/spider 0.5.1: web spidering library
 dev-ruby/sys-proctable 0.9.3: An interface for providing process table information
 dev-ruby/terminal-table 1.4.5-r1 1.6.0: Simple, feature rich ascii table generation library
 dev-ruby/watir-webdriver 0.6.9 0.8.0: WebDriver-backed Watir
