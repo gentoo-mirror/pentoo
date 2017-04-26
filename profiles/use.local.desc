@@ -3,19 +3,6 @@
 # * generated automatically using pmaint *
 
 app-misc/binwalk:graph - Enable support for generating entropy graphs
-dev-java/icedtea:cacao - Use the CACAO virtual machine rather than HotSpot.
-dev-java/icedtea:headless-awt - Don't install the X backend for AWT, needed by some GUIs (used to be X flag)
-dev-java/icedtea:infinality - Enable better font rendering using fontconfig.
-dev-java/icedtea:jamvm - Use the JamVM virtual machine rather than HotSpot.
-dev-java/icedtea:jbootstrap - If possible, recompile the final IcedTea executables with itself.
-dev-java/icedtea:nsplugin - Enable browser plugin (NPPlugin), requires also the webstart flag to be enabled.
-dev-java/icedtea:nss - Enable NSS security provider support.
-dev-java/icedtea:pax_kernel - Apply patch needed for pax enabled kernels.
-dev-java/icedtea:sctp - Build the SCTP NIO channel implementation against lksctp
-dev-java/icedtea:smartcard - Build the PCSC driver against pcsc-lite
-dev-java/icedtea:sunec - Build the SunEC provider against system NSS
-dev-java/icedtea:webstart - Enable Web Start support (via NetX).
-dev-java/icedtea:zero - Enable Zero assembler port (usually for non-HotSpot architectures)
 dev-libs/glib:dbus - Enable dependencies required by glib libraries using dbus service to manage settings saving
 dev-libs/glib:mime - Pull in shared MIME database that many glib-based applications require at runtime to detect or open files. Warning: do not disable this flag unless installing on a headless server.
 dev-libs/glib:systemtap - Build support for profiling and tracing using dev-util/systemtap
