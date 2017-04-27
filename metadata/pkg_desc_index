@@ -273,7 +273,7 @@ net-analyzer/mosref 2.0_beta3: A secure remote execution framework using a compa
 net-analyzer/nacker 0.0.1_pre20130916: Bypass NAC by hijacking non-802.1x configurable hosts
 net-analyzer/nbtool 0.05_alpha2: Some tools for NetBIOS and DNS investigation, attacks, and communication
 net-analyzer/nessus-bin 6.9.3: A remote security scanner for Linux
-net-analyzer/nikto 2.1.6-r1 2.1.6_p20160624-r1: Web Server vulnerability scanner
+net-analyzer/nikto 2.1.6-r1 2.1.6_p20160624-r1 2.1.6_p20170420: Web Server vulnerability scanner
 net-analyzer/nmap_vulscan 2.0-r1: A NSE vulnerability scanner which uses an offline version of scip VulDB
 net-analyzer/ntop 5.0.1: Network traffic analyzer with web interface
 net-analyzer/ntp-fingerprint 0.1-r1: NTP fingerprinting utility
@@ -311,7 +311,7 @@ net-analyzer/vomit 0.2c: Converts a Cisco IP phone conversation into a wav file
 net-analyzer/w3af 1.6.0.5-r2 1.6.54-r3 9999: Web Application Attack and Audit Framework
 net-analyzer/wafp 9999: A webapplication fingerprinter written in ruby
 net-analyzer/wafw00f 0.9.4: Identifies and fingerprints Web Application Firewall (WAF) products
-net-analyzer/wapiti 2.3.0_p20141111 2.3.0_p20170412: Web application security auditor
+net-analyzer/wapiti 2.3.0_p20141111 3.0.0_pre20170412: Web application security auditor
 net-analyzer/webshag 1.1-r1: An enhanced HTTP URL Scanner and fuzzer
 net-analyzer/wfuzz 2.1.3 2.1.5: Wfuzz is a tool designed for bruteforcing Web Applications
 net-analyzer/whatweb 0.4.7-r5 0.4.7_p20160611: Next generation web scanner, identifies what software websites are running

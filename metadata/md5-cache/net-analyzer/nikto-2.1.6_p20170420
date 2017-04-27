@@ -1,0 +1,13 @@
+DEFINED_PHASES=install prepare unpack
+DEPEND=>=dev-vcs/git-1.8.2.1
+DESCRIPTION=Web Server vulnerability scanner
+EAPI=6
+HOMEPAGE=http://www.cirt.net/Nikto2
+IUSE=ssl
+KEYWORDS=~x86 ~amd64 ~ppc ~sparc ~amd64-linux ~x86-linux ~x86-macos
+LICENSE=GPL-2
+RDEPEND=dev-lang/perl virtual/perl-JSON-PP net-analyzer/nmap ssl? ( dev-libs/openssl dev-perl/Net-SSLeay )
+SLOT=0
+_eclass_exported_funcs=src_unpack:git-r3 src_prepare:- src_install:-
+_eclasses_=git-r3	cbafa3261c37c7e3af44bb16a34ea390
+_md5_=d2432729fff1b1b5fde6074ff9ece17c
