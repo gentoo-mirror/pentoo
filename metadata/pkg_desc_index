@@ -319,7 +319,6 @@ net-fs/afpfs-ng 0.8.1: a client for the Apple Filing Protocol
 net-fs/winexe 1.0.0-r1 9999: remotely execute commands on Windows NT/2000/XP/2003 systems, with lmhash passthrough support
 net-im/jitsi-bin 2.8-r1: Secure IM communicator that supports SIP, XMPP, AIM/ICQ, Windows Live, Yahoo
 net-libs/libndpi 1.5.0 1.5.1 1.6: ntop-maintained superset of the popular OpenDPI library
-net-libs/libpcap 1.6.2-r1: A system-independent library for user-level network packet capture
 net-libs/libvidcap 0.2.1: a cross-platform library for capturing video from webcams and other video capture devices
 net-mail/davmail-bin 4.7.3: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
 net-misc/f5vpn-login 9999: F5 VPN Command-line client
