@@ -485,7 +485,6 @@ www-plugins/sqlite_manager 0.8.1 9999: Extension for Firefox and other apps to m
 www-plugins/user-agent-switcher 0.7.3-r4 9999: Adds a menu and a toolbar button to switch the user agent of firefox
 www-plugins/web_developer 1.2.5-r2 9999: Adds various web developer tools to firefox.
 www-plugins/xss-me 0.4.6-r4 9999: Firefox extension to test for reflected cross-site-scripting vulnerabilities.
-x11-drivers/xf86-input-tslib 0.0.6-r3: xorg input driver for use of tslib based touchscreen devices
 x11-misc/mkxf86config 0.9.10-r11 0.9.11-r1 0.9.11-r2 0.9.11-r3 0.9.11-r4: xorg-x11 configuration builder - used only on LiveCD
 x11-misc/toggle-touchpad 0.1: Toggles touchpads on/off. Supports Synaptics and Elantech touchpads
 x11-plugins/e_modules-itask-ng 9999: Itask NG Module for E17
