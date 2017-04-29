@@ -168,51 +168,52 @@ dev-ruby/activerecord-session_store 1.0.0-r1: An Action Dispatch session store b
 dev-ruby/arachni-reactor 0.1.0 0.1.1: A simple, lightweight, pure-Ruby implementation of the Reactor pattern
 dev-ruby/arachni-rpc 0.2.1.2 0.2.1.3: Arachni-RPC is a simple and lightweight Remote Procedure Call protocol
 dev-ruby/arachni-rpc-em 0.2: EventMachine-based client and server implementation of Arachni-RPC
-dev-ruby/async 0.11.1: Asynchronous I/O framework for Ruby based on nio4r and timers.
+dev-ruby/async 0.11.1 0.13.0: Asynchronous I/O framework for Ruby based on nio4r and timers.
 dev-ruby/async-dns 0.10.0-r1: An asynchronous DNS resolver and server.
 dev-ruby/cgi_multipart_eof_fix 2.5.0: Fix an exploitable bug in CGI multipart parsing.
 dev-ruby/ckeditor_rails 4.6.2: CKEditor is a javascript library of the WYSIWYG rich-text editor
 dev-ruby/concurrent-ruby-ext 1.0.5: C extensions to optimize the concurrent-ruby gem when running under MRI
-dev-ruby/cookiejar 0.3.2: Allows for parsing and returning cookies in Ruby HTTP client code
-dev-ruby/data_objects 0.10.13: The Core DataObjects class
+dev-ruby/cookiejar 0.3.3: Allows for parsing and returning cookies in Ruby HTTP client code
+dev-ruby/data_objects 0.10.13 0.10.17: The Core DataObjects class
 dev-ruby/dm-core 1.2.1: An Object/Relational Mapper for Ruby
 dev-ruby/dm-do-adapter 1.2.0: A DataObjects Adapter for DataMapper
 dev-ruby/dm-migrations 1.2.0: DataMapper plugin for writing and specing migrations
 dev-ruby/dm-sqlite-adapter 1.2.0: Sqlite3 Adapter for DataMapper
 dev-ruby/dm-timestamps 1.2.0: DataMapper plugin for writing and specing migrations
 dev-ruby/dm-validations 1.2.0: DataMapper plugin for writing and specing migrations
-dev-ruby/do_sqlite3 0.10.13: Implements the DataObjects API for Sqlite3
-dev-ruby/em-http-request 0.3.0 1.1.2: EventMachine based, async HTTP Request client
-dev-ruby/em-proxy 0.1.8: EventMachine Proxy DSL
-dev-ruby/em-socksify 0.3.0: Transparent proxy support for any EventMachine protocol
-dev-ruby/em-synchrony 1.0.3: Fiber aware EventMachine libraries
+dev-ruby/do_sqlite3 0.10.17: Implements the DataObjects API for Sqlite3
+dev-ruby/em-http-request 1.1.5: EventMachine based, async HTTP Request client
+dev-ruby/em-proxy 0.1.9: EventMachine Proxy DSL
+dev-ruby/em-socksify 0.3.1: Transparent proxy support for any EventMachine protocol
+dev-ruby/em-synchrony 1.0.6: Fiber aware EventMachine libraries
 dev-ruby/em-websocket 0.3.8 0.5.1-r1: EventMachine based WebSocket server
 dev-ruby/em-websocket-client 0.1.2-r1: A WebSocket client implementation for EventMachine
 dev-ruby/fastthread 1.0.7: Optimized replacement for thread.rb primitives
 dev-ruby/gem_plugin 0.2.3: A plugin system based on rubygems that uses dependencies only
 dev-ruby/http_configuration 1.0.4: set configuration for Net::HTTP
-dev-ruby/librex 0.0.68: Rex provides a variety of classes useful for security testing and exploit development
-dev-ruby/louis 2.0.4-r1: Lookup mac address assignments in the iana database
+dev-ruby/librex 0.0.999: Rex provides a variety of classes useful for security testing and exploit development
+dev-ruby/louis 2.0.5: Lookup mac address assignments in the iana database
 dev-ruby/mini_exiftool 2.5.1 2.8.0: wrapper for exiftool
 dev-ruby/mini_portile 0.5.3 0.6.2: Simplified way to compile against dependency libraries
 dev-ruby/mini_portile2 2.0.0 2.1.0: Simplistic port-like solution for developers
 dev-ruby/mongrel 1.1.5: A small fast HTTP library and server that runs Rails, Camping, Nitro and Iowa apps.
 dev-ruby/msfrpc-client 1.0.1: This gem provides a Ruby client API to access the Rapid7 Metasploit Pro RPC service
 dev-ruby/net-dns 0.8.0: Ruby DNS library, with a clean OO interface and an extensible API
-dev-ruby/oj 2.12.14 2.14.2 2.14.6: The fastest JSON parser and object serializer
+dev-ruby/oj 2.14.6: The fastest JSON parser and object serializer
 dev-ruby/oj_mimic_json 1.0.1: An experimental Object-base Parallel Evaluation Environment.
-dev-ruby/packetfu 1.1.11-r2 1.1.12: A mid-level packet manipulation library
-dev-ruby/parseconfig 1.0.6: Provides simple parsing of standard *nix style config files.
-dev-ruby/pony 1.8-r1: Send email in one command
-dev-ruby/puma 2.14.0 2.16.0: Puma is a simple, fast, threaded, and highly concurrent HTTP 1.1 server
+dev-ruby/packetfu 1.1.13: A mid-level packet manipulation library
+dev-ruby/parseconfig 1.0.8: Provides simple parsing of standard *nix style config files.
+dev-ruby/pony 1.11: Send email in one command
+dev-ruby/puma 2.16.0 3.8.2: Puma is a simple, fast, threaded, and highly concurrent HTTP 1.1 server
 dev-ruby/rubydns 1.0.3 2.0.0_rc1: A tool to intercept and modify DNS requests
 dev-ruby/similar_text 0.0.4: Calculate the similarity between two strings
 dev-ruby/sinatra-contrib 1.4.6-r1 1.4.7: Collection of useful Sinatra extensions
 dev-ruby/sourcify 0.5.0-r1: Workarounds before ruby-core officially supports Proc#to_source (& friends)
 dev-ruby/spider 0.5.1: web spidering library
-dev-ruby/sys-proctable 0.9.3: An interface for providing process table information
-dev-ruby/terminal-table 1.4.5-r1 1.6.0: Simple, feature rich ascii table generation library
-dev-ruby/watir-webdriver 0.6.9 0.8.0: WebDriver-backed Watir
+dev-ruby/sys-proctable 0.9.3 1.1.4: An interface for providing process table information
+dev-ruby/terminal-table 1.6.0 1.7.3: Simple, feature rich ascii table generation library
+dev-ruby/unicode-display_width 1.2.1: Determines the monospace display width of a string using EastAsianWidth.txt, Unicode
+dev-ruby/watir-webdriver 0.8.0 0.9.9: WebDriver-backed Watir
 dev-util/apktool 2.0.2 2.0.3 2.2.2: A tool for reengineering 3rd party, closed, binary Android apps.
 dev-util/ati-app-sdk-bin 2.9: AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream)
 dev-util/ati-stream-sdk-bin 2.01 2.2 2.3: Enable compiling code and loading it on ATI/AMD GPU
