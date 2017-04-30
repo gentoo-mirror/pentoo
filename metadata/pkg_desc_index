@@ -201,7 +201,7 @@ dev-ruby/msfrpc-client 1.0.1: This gem provides a Ruby client API to access the 
 dev-ruby/net-dns 0.8.0: Ruby DNS library, with a clean OO interface and an extensible API
 dev-ruby/oj 2.14.6: The fastest JSON parser and object serializer
 dev-ruby/oj_mimic_json 1.0.1: An experimental Object-base Parallel Evaluation Environment.
-dev-ruby/packetfu 1.1.13: A mid-level packet manipulation library
+dev-ruby/packetfu 1.1.11-r2 1.1.13: A mid-level packet manipulation library
 dev-ruby/parseconfig 1.0.8: Provides simple parsing of standard *nix style config files.
 dev-ruby/pony 1.11: Send email in one command
 dev-ruby/puma 2.16.0 3.8.2: Puma is a simple, fast, threaded, and highly concurrent HTTP 1.1 server
