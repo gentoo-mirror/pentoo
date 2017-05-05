@@ -97,6 +97,7 @@ dev-libs/libdisasm 0.23: x86 Disassembler Library
 dev-libs/libguytools2 2.0.1-r1 2.0.4: Library for guymager
 dev-libs/libhijack 0.6.1: Make injecting arbitrary code and other shared objects into another process during runtime easy
 dev-libs/libndef 1.1.3 1.2.0: a C++ library for NDEF specification
+dev-libs/openssl-chacha 1.0.2_p20170330: full-strength general purpose cryptography library (including SSL and TLS)
 dev-libs/radare2-bindings 1.2.1-r1 1.3.0 1.4.0: Language bindings for radare2
 dev-libs/unicorn-bindings 0.9_p20160901: Unicorn bindings
 dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
@@ -230,7 +231,7 @@ dev-util/radare 1.5.2: Advanced command line hexadecimail editor and more
 dev-util/radare2 1.2.1 1.3.0 1.4.0: Advanced command line hexadecimal editor and more
 dev-util/soapui 5.2.0 5.3.0: The Swiss-Army Knife for SOAP Testing
 dev-util/sonarqube-bin 4.5 4.5.2: SonarQube is an open platform to manage code quality.
-dev-util/unicorn 0.9_p20160901 1.0: A lightweight multi-platform, multi-architecture CPU emulator framework
+dev-util/unicorn 0.9_p20160901 1.0.1: A lightweight multi-platform, multi-architecture CPU emulator framework
 dev-util/valabind 0.9.2 0.10.0: Valabind is a tool to parse vala or vapi files to transform them into swig files
 gnome-base/gnome-keyring 3.20.0: Password and keyring managing daemon
 gnome-base/libgnomeui 2.24.5-r3: User Interface part of libbonobo

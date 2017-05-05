@@ -7,6 +7,12 @@ dev-libs/glib:dbus - Enable dependencies required by glib libraries using dbus s
 dev-libs/glib:mime - Pull in shared MIME database that many glib-based applications require at runtime to detect or open files. Warning: do not disable this flag unless installing on a headless server.
 dev-libs/glib:systemtap - Build support for profiling and tracing using dev-util/systemtap
 dev-libs/glib:utils - Install gtester-report utility to generate test report files for your software; build gresource utility with ELF support.
+dev-libs/openssl-chacha:asm - Support assembly hand optimized crypto functions (i.e. faster run time)
+dev-libs/openssl-chacha:bindist - Disable EC algorithms (as they seem to be patented) -- note: changes the ABI
+dev-libs/openssl-chacha:rfc3779 - Enable support for RFC 3779 (X.509 Extensions for IP Addresses and AS Identifiers)
+dev-libs/openssl-chacha:sslv2 - Support for the old/insecure SSLv2 protocol -- note: not required for TLS/https
+dev-libs/openssl-chacha:sslv3 - Support for the old/insecure SSLv3 protocol -- note: not required for TLS/https
+dev-libs/openssl-chacha:tls-heartbeat - Enable the Heartbeat Extension in TLS and DTLS
 net-wireless/compat-wireless:injection - Add patches for better wifi injection support
 net-wireless/hostapd:debug - Enables debugging
 net-wireless/hostapd:logwatch - Install support files for sys-app/logwatch
