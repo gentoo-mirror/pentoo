@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile install prepare unpack
+DEPEND=net-wireless/bladerf >=dev-vcs/git-1.8.2.1
+DESCRIPTION=bladeRF ADS-B hardware decoder
+EAPI=6
+HOMEPAGE=https://github.com/Nuand/bladeRF-adsb
+IUSE=x40 x115
+LICENSE=nuand_adsb
+RDEPEND=net-wireless/bladerf
+SLOT=0
+SRC_URI=x40? ( https://www.nuand.com/fpga/adsbx40.rbf ) x115? ( https://www.nuand.com/fpga/adsbx115.rbf )
+_eclass_exported_funcs=src_unpack:- src_prepare:- src_compile:- src_install:-
+_eclasses_=git-r3	cbafa3261c37c7e3af44bb16a34ea390	multilib	0236be304ee52e7f179ed2f337075515	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee
+_md5_=1f958f44de37630e83dfab2987265ed1

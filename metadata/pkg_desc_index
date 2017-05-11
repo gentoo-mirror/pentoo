@@ -176,7 +176,7 @@ dev-ruby/cgi_multipart_eof_fix 2.5.0: Fix an exploitable bug in CGI multipart pa
 dev-ruby/ckeditor_rails 4.6.2: CKEditor is a javascript library of the WYSIWYG rich-text editor
 dev-ruby/concurrent-ruby-ext 1.0.5: C extensions to optimize the concurrent-ruby gem when running under MRI
 dev-ruby/cookiejar 0.3.3: Allows for parsing and returning cookies in Ruby HTTP client code
-dev-ruby/data_objects 0.10.13 0.10.17: The Core DataObjects class
+dev-ruby/data_objects 0.10.17: The Core DataObjects class
 dev-ruby/dm-core 1.2.1: An Object/Relational Mapper for Ruby
 dev-ruby/dm-do-adapter 1.2.0: A DataObjects Adapter for DataMapper
 dev-ruby/dm-migrations 1.2.0: DataMapper plugin for writing and specing migrations
@@ -203,7 +203,6 @@ dev-ruby/msfrpc-client 1.0.1: This gem provides a Ruby client API to access the 
 dev-ruby/net-dns 0.8.0: Ruby DNS library, with a clean OO interface and an extensible API
 dev-ruby/oj 2.14.6: The fastest JSON parser and object serializer
 dev-ruby/oj_mimic_json 1.0.1: An experimental Object-base Parallel Evaluation Environment.
-dev-ruby/packetfu 1.1.11-r2 1.1.13: A mid-level packet manipulation library
 dev-ruby/parseconfig 1.0.8: Provides simple parsing of standard *nix style config files.
 dev-ruby/pony 1.11: Send email in one command
 dev-ruby/puma 2.16.0 3.8.2: Puma is a simple, fast, threaded, and highly concurrent HTTP 1.1 server
@@ -226,7 +225,6 @@ dev-util/dex2jar 2.1_pre20150601: Tools to work with android .dex and java .clas
 dev-util/jd-gui-bin 0.3.5-r1 1.4.0: A standalone graphical utility that displays Java source codes of .class file
 dev-util/lida 03.00.00: interactive ELF disambler
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
-dev-util/metasm 9999: Cross-architecture assembler, disassembler, compiler, linker and debugger
 dev-util/pyew 2.0: Hexadecimal viewer and disassembler
 dev-util/radare 1.5.2: Advanced command line hexadecimail editor and more
 dev-util/radare2 1.2.1 1.3.0 1.4.0: Advanced command line hexadecimal editor and more
@@ -356,6 +354,7 @@ net-wireless/aircrackgui-m4 0.7.0:
 net-wireless/airoscript 9999: N00b scripts for aircrack-ng :-)
 net-wireless/b43-openfwwf 5.2: OpenBroadcom Firmware
 net-wireless/b43-tools 9999: Tools for developers working on broadcom drivers/firmware
+net-wireless/bladerf_adsb 9999: bladeRF ADS-B hardware decoder
 net-wireless/blue_hydra 1.7.28 1.8.7 9999: bluetooth discovery service built on top of bluez
 net-wireless/bluemaho 090417-r2: BlueMaho is GUI-shell (interface) for suite of tools for testing security of bluetooth devices
 net-wireless/broadcom-firmware-downloader 0.1-r2 0.2: Closed Broadcom Commercial Firmware Downloader
@@ -435,7 +434,7 @@ pentoo/pentoo-mobile 2013.0 2014.0 2014.1: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2015.3: Collection of NFC tools
 pentoo/pentoo-proxies 2017.1: Pentoo proxy meta ebuild
 pentoo/pentoo-radio 2017.0-r1: Radio tools for pentoo
-pentoo/pentoo-rce 2017.0-r1: Pentoo RCE meta ebuild
+pentoo/pentoo-rce 2017.1: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2017.0: Pentoo scanner meta ebuild
 pentoo/pentoo-system 2016.3-r13: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2014.3: Pentoo voip meta ebuild

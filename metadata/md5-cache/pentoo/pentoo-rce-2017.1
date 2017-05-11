@@ -1,0 +1,11 @@
+DEFINED_PHASES=-
+DESCRIPTION=Pentoo RCE meta ebuild
+EAPI=6
+HOMEPAGE=http://www.pentoo.ch
+IUSE=hardened minipentoo
+KEYWORDS=amd64 arm x86
+LICENSE=GPL-3
+PDEPEND=hardened? ( sys-apps/paxctl ) sys-devel/gdb dev-java/jad-bin !minipentoo? ( !hardened? ( sys-devel/prelink ) !arm? ( dev-lang/nasm dev-util/radare2 dev-util/edb-debugger ) amd64? ( dev-util/emilpro ) app-misc/flasm dev-util/ltrace dev-util/strace )
+SLOT=0
+_eclass_exported_funcs=-
+_md5_=73d0c07f9ece4c81f0ec8fa34b864f4a
