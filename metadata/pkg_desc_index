@@ -397,7 +397,7 @@ net-wireless/reaver-wps-fork-t6x 1.5.2_p20161210-r2: Utilise Pixie Dust Attack t
 net-wireless/rfidler 0.01_p20160313: Software defined RFID (LF) Reader/Writer/Emulator
 net-wireless/rfidtool 0.01: command line rfid interface
 net-wireless/rtl8812au 4.2.5 4.3.14_p20170211 9999: Driver for AC1200 (801.11ac) Wireless Dual-Band USB Adapter
-net-wireless/rtl8812au_astsam 9999: Driver for AC1200 (801.11ac) Wireless Dual-Band USB Adapter
+net-wireless/rtl8812au_astsam 4.3.21_p20170324 9999: Driver for AC1200 (801.11ac) Wireless Dual-Band USB Adapter
 net-wireless/rtl8812au_asus 4.3.2_p20150929 4.3.2_p20160101: Linux kernel module for ASUS USB-AC56
 net-wireless/rx_tools 1.0.3 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
 net-wireless/ska 0.2: Fake Shared Key Authentication
@@ -438,7 +438,7 @@ pentoo/pentoo-rce 2017.1: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2017.0: Pentoo scanner meta ebuild
 pentoo/pentoo-system 2016.3-r13: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2014.3: Pentoo voip meta ebuild
-pentoo/pentoo-wireless 2016.3-r1: Pentoo wireless meta ebuild
+pentoo/pentoo-wireless 2017.0: Pentoo wireless meta ebuild
 pentoo/tribe 2012.0: Tribe meta ebuild
 pentoo/zero-system 9999: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
 sys-apps/become 1.0 1.0-r1: utility for changing the current real, effective or group id
