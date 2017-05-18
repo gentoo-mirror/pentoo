@@ -154,6 +154,8 @@ dev-python/requests-ntlm 1.0.0: HTTP NTLM authentication using the requests libr
 dev-python/ruamel-base 1.0.0: common routines for ruamel packages
 dev-python/ruamel-ordereddict 0.4.9: An ordered dictionary with KIO/KVIO
 dev-python/ruamel-yaml 0.13.7: YAML parser/emitter that supports roundtrip comment preservation
+dev-python/scapy-http 1.8: HTTP-layer support for Scapy
+dev-python/service_identity 16.0.0: Service identity verification for pyOpenSSL.
 dev-python/simplesoapy 1.4.1 9999: Simple pythonic wrapper for SoapySDR library
 dev-python/simplespectral 1.0.0 9999: Heavily simplified scipy.signal.spectral module
 dev-python/sortedcontainers 1.5.7: Python Sorted Container Types: SortedList, SortedDict, and SortedSet
@@ -408,7 +410,7 @@ net-wireless/soapyrtlsdr 0.2.2 9999: SoapySDR RTL-SDR Support Module
 net-wireless/soapysdr 0.5.4 9999: vendor and platform neutral SDR support library
 net-wireless/soapyuhd 0.3.2 9999: Soapy SDR plugins for UHD supported SDR devices
 net-wireless/virtualradar-bin 2.0.1 2.3.1: Open-source .NET application for ads-b mapping
-net-wireless/wifi-pumpkin 0.7.8-r1 0.8.4: Framework for Rogue Wi-Fi Access Point Attack
+net-wireless/wifi-pumpkin 0.7.8-r1 0.8.4 0.8.5: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifitap 0.4.1: A wireless tool to do direct connection to client without passing through an AP
 net-wireless/wifite 2.85_p20150526-r1: An automated wireless attack tool
 net-wireless/wifite2 9999: An automated wireless attack tool, v2
@@ -466,6 +468,7 @@ virtual/jdk 1.7.0-r3 1.8.0-r4: Virtual for Java Development Kit (JDK)
 virtual/linux-sources 1-r1 3-r1: Virtual for Linux kernel sources
 virtual/opencl 0-r4: Virtual for OpenCL implementations
 virtual/pkgconfig 0: Virtual for the pkg-config implementation
+virtual/python-scapy 1: A virtual for scapy, for Python 2 & 3
 www-apps/arachni 1.4: Arachni is a feature-full web application scanner
 www-apps/beef 0.4.6.1: Browser exploitation framework
 www-apps/rda 2.1: Web-based application for effective reporting writing
