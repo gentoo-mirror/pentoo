@@ -155,6 +155,7 @@ dev-python/ruamel-base 1.0.0: common routines for ruamel packages
 dev-python/ruamel-ordereddict 0.4.9: An ordered dictionary with KIO/KVIO
 dev-python/ruamel-yaml 0.13.7: YAML parser/emitter that supports roundtrip comment preservation
 dev-python/scapy-http 1.8: HTTP-layer support for Scapy
+dev-python/scapy-python3 0.20: Packet crafting/sending/... PCAP processing tool with python3 compatibility
 dev-python/service_identity 16.0.0: Service identity verification for pyOpenSSL.
 dev-python/simplesoapy 1.4.1 9999: Simple pythonic wrapper for SoapySDR library
 dev-python/simplespectral 1.0.0 9999: Heavily simplified scipy.signal.spectral module
@@ -290,6 +291,7 @@ net-analyzer/ppscan 0.3: Port scanner with HTTP and FTP tunneling support
 net-analyzer/recon-ng 4.7.3 4.8.0 4.9.1 9999: Web Reconnaissance Framework
 net-analyzer/rpcapd 4.1.2: Remote packet capture daemon
 net-analyzer/scamper 20140530: A tool that actively probes the Internet in order to analyze topology and performance
+net-analyzer/scapy 2.3.3-r1: A Python interactive packet manipulation program for mastering the network
 net-analyzer/sessionlist 1.0-r1: A HTTP packets sniffer
 net-analyzer/set 6.0-r1 9999: A social engineering framework
 net-analyzer/sipvicious 0.2.8-r3: A voip pentest tools suite
