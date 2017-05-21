@@ -408,7 +408,7 @@ net-wireless/soapy_power 1.6.0-r1 1.6.1 9999: Obtain power spectrum from SoapySD
 net-wireless/soapybladerf 0.3.2 9999: Soapy SDR plugin for the Blade RF
 net-wireless/soapyhackrf 0.2.2 9999: SoapySDR HackRF module
 net-wireless/soapyrtlsdr 0.2.2 9999: SoapySDR RTL-SDR Support Module
-net-wireless/soapysdr 0.5.4 9999: vendor and platform neutral SDR support library
+net-wireless/soapysdr 0.5.4 0.6.0 9999: vendor and platform neutral SDR support library
 net-wireless/soapyuhd 0.3.2 9999: Soapy SDR plugins for UHD supported SDR devices
 net-wireless/virtualradar-bin 2.0.1 2.3.1: Open-source .NET application for ads-b mapping
 net-wireless/wifi-pumpkin 0.7.8-r1 0.8.4 0.8.5: Framework for Rogue Wi-Fi Access Point Attack
