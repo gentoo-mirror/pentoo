@@ -423,7 +423,7 @@ pentoo/pentoo-cinnamon 2012.0: Pentoo cinnamon meta ebuild
 pentoo/pentoo-cracking 2016.3-r2: Pentoo cracking meta ebuild
 pentoo/pentoo-database 2015.3-r1: Pentoo database attack meta ebuild
 pentoo/pentoo-desktop 2017.0: Pentoo meta ebuild to install all X and WM/DE related things
-pentoo/pentoo-exploit 2017.1: Pentoo exploit meta ebuild
+pentoo/pentoo-exploit 2017.1-r1: Pentoo exploit meta ebuild
 pentoo/pentoo-footprint 2013.0 2014.0 2016.0: Pentoo footprint meta ebuild
 pentoo/pentoo-forensics 2015.0: Pentoo forensics meta ebuild
 pentoo/pentoo-forging 2012.0: Pentoo forging meta ebuild
