@@ -379,7 +379,9 @@ net-wireless/gr-acars2 9999: GNU Radio block for ACARS transmissions
 net-wireless/gr-air-modes 9999: This module implements a complete Mode S and ADS-B receiver for Gnuradio
 net-wireless/gr-ais 9999: GNU Radio block that decodes Automatic Information System for shipborne position reporting
 net-wireless/gr-dsd 9999: GNU Radio block for Digital Speech Decoder
+net-wireless/gr-elster 9999: GNU Radio block for decoding packets transmitted by Elster R2S smart meters
 net-wireless/gr-gsm 9999: Set of tools for receiving information transmitted by GSM equipment/devices
+net-wireless/gr-keyfob 9999: GNU Radio block for Hella wireless car key fobs
 net-wireless/gr-lte 9999: GNU Radio block for LTE signals
 net-wireless/grimwepa 1.10_p5-r101: A password cracker for both WEP and WPA-encrypted access points
 net-wireless/hostapd 1.0-r4 1.0-r6 1.0-r7 2.0 2.0-r1 2.2-r1 2.2-r2 2.5-r1 2.6: IEEE 802.11 wireless LAN Host AP daemon
