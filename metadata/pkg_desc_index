@@ -375,7 +375,10 @@ net-wireless/desknfc 9999: a KDE4 plasmoid which offer NFC content access
 net-wireless/dsd 1.6.0 9999: Digital Speech Decoder
 net-wireless/fern-wifi-cracker 2.2: Wireless tool for WEP/WPA cracking and WPS keys recovery
 net-wireless/gps-sdr-sim 9999: GPS Spoofing tool for transmit capable SDR's like the HackRF, bladeRF and USRP
+net-wireless/gr-acars2 9999: GNU Radio block for ACARS transmissions
 net-wireless/gr-air-modes 9999: This module implements a complete Mode S and ADS-B receiver for Gnuradio
+net-wireless/gr-ais 9999: GNU Radio block that decodes Automatic Information System for shipborne position reporting
+net-wireless/gr-dsd 9999: GNU Radio block for Digital Speech Decoder
 net-wireless/gr-gsm 9999: Set of tools for receiving information transmitted by GSM equipment/devices
 net-wireless/grimwepa 1.10_p5-r101: A password cracker for both WEP and WPA-encrypted access points
 net-wireless/hostapd 1.0-r4 1.0-r6 1.0-r7 2.0 2.0-r1 2.2-r1 2.2-r2 2.5-r1 2.6: IEEE 802.11 wireless LAN Host AP daemon
