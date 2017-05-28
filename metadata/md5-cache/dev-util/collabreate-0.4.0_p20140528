@@ -1,12 +1,12 @@
-DEFINED_PHASES=compile install postinst preinst prepare unpack
+DEFINED_PHASES=compile install postinst preinst unpack
 DEPEND=virtual/jdk dev-db/postgresql-server dev-java/jdbc-postgresql || ( dev-vcs/subversion[http] dev-vcs/subversion[webdav-neon] dev-vcs/subversion[webdav-serf] ) net-misc/rsync
 DESCRIPTION=A plugin for IDA Pro designed to provide collaborative reverse engineering
-EAPI=2
+EAPI=6
 HOMEPAGE=http://www.idabook.com/collabreate/
 KEYWORDS=~x86 ~amd64
 LICENSE=GPL-2
 RDEPEND=virtual/jdk dev-db/postgresql-server dev-java/jdbc-postgresql
 SLOT=0
-_eclass_exported_funcs=pkg_preinst:subversion pkg_postinst:- src_unpack:subversion src_prepare:subversion src_compile:- src_install:-
+_eclass_exported_funcs=pkg_preinst:subversion pkg_postinst:- src_unpack:subversion src_compile:- src_install:-
 _eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	9c113d6a64826c40154cad7be15d95ea	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	subversion	a5d5826a85609611f098c0553eb24cc1	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee
-_md5_=0d2f1b60be4a9b2c96e1d5df6ab913b9
+_md5_=bdf708f392aee16fd7377e772bb6199d

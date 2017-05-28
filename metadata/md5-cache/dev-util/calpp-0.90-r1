@@ -1,14 +1,13 @@
 DEFINED_PHASES=compile configure install prepare test
-DEPEND=sys-fs/fuse aff? ( app-forensics/afflib ) ewf? ( app-forensics/libewf ) virtual/pkgconfig sys-devel/make >=dev-util/cmake-3.7.2
-DESCRIPTION=Convert on-the-fly between multiple input and output harddisk image types
+DEPEND=dev-util/ati-app-sdk-bin x11-drivers/ati-drivers dev-libs/boost dev-util/cmake sys-devel/make >=dev-util/cmake-3.7.2
+DESCRIPTION=A library for efficient use of ATI CAL with C++
 EAPI=6
-HOMEPAGE=https://www.pinguin.lu/xmount
-IUSE=+aff +ewf
-KEYWORDS=~amd64 ~x86 ~arm
-LICENSE=GPL-3
-RDEPEND=sys-fs/fuse aff? ( app-forensics/afflib ) ewf? ( app-forensics/libewf )
+HOMEPAGE=http://calpp.sourceforge.net/
+KEYWORDS=~x86 ~amd64
+LICENSE=GPL-2
+RDEPEND=dev-util/ati-app-sdk-bin x11-drivers/ati-drivers
 SLOT=0
-SRC_URI=https://launchpad.net/ubuntu/+archive/primary/+files/xmount_0.7.3.orig.tar.gz -> xmount-0.7.3.tar.gz
+SRC_URI=mirror://sourceforge/calpp/calpp-0.90.tar.gz
 _eclass_exported_funcs=src_prepare:cmake-utils src_configure:- src_compile:cmake-utils src_test:cmake-utils src_install:cmake-utils
 _eclasses_=cmake-utils	026933aff3889190eeb565b642cfe252	epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	9c113d6a64826c40154cad7be15d95ea	flag-o-matic	61cad4fb5d800b29d484b27cb033f59b	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	multiprocessing	284a473719153462f3e974d86c8cb81c	ninja-utils	ebb2eaddc6331c4fa000b8eb8f6fe074	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee	versionator	c80ccf29e90adea7c5cae94b42eb76d0
-_md5_=9e3a21a596f2de436038ac6902002ce7
+_md5_=4d879026b84a5b01f4722e7412da4406
