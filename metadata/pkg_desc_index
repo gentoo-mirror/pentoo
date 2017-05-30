@@ -387,7 +387,6 @@ net-wireless/gr-dsss 9999: GNU Radio block for Direct Sequence Spread Spectrum
 net-wireless/gr-elster 9999: GNU Radio block for decoding packets transmitted by Elster R2S smart meters
 net-wireless/gr-gps 9999: GNU Radio block for a GPS receiver
 net-wireless/gr-gsm 9999: Set of tools for receiving information transmitted by GSM equipment/devices
-net-wireless/gr-ieee802_15_4 9999: GNU Radio block for IEEE 802.15.4 ZigBee Transceiver
 net-wireless/gr-keyfob 9999: GNU Radio block for Hella wireless car key fobs
 net-wireless/gr-lte 9999: GNU Radio block for LTE signals
 net-wireless/gr-reveng 9999: GNU Radio block for reverse engineering RF protocols
