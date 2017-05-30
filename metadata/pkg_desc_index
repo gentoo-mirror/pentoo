@@ -379,6 +379,7 @@ net-wireless/gps-sdr-sim 9999: GPS Spoofing tool for transmit capable SDR's like
 net-wireless/gr-acars2 9999: GNU Radio block for ACARS transmissions
 net-wireless/gr-air-modes 9999: This module implements a complete Mode S and ADS-B receiver for Gnuradio
 net-wireless/gr-ais 9999: GNU Radio block that decodes Automatic Information System for shipborne position reporting
+net-wireless/gr-ax25 9999: GNU Radio block for ax.25 routines
 net-wireless/gr-correctiq 9999: GNU Radio block to remove that IQ DC spike
 net-wireless/gr-dab 9999: GNU Radio block for digital audio broadcasting
 net-wireless/gr-dsd 9999: GNU Radio block for Digital Speech Decoder
