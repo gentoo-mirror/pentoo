@@ -331,6 +331,7 @@ net-im/jitsi-bin 2.8-r1: Secure IM communicator that supports SIP, XMPP, AIM/ICQ
 net-libs/libndpi 1.5.0 1.5.1 1.6: ntop-maintained superset of the popular OpenDPI library
 net-libs/libvidcap 0.2.1: a cross-platform library for capturing video from webcams and other video capture devices
 net-mail/davmail-bin 4.7.3: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
+net-misc/dmr_utils 9999: Python utilities for working with DMR
 net-misc/f5vpn-login 9999: F5 VPN Command-line client
 net-misc/faifa 0.1 9999: Power Line Communication device manager
 net-misc/iaxclient 2.1_beta3-r1 2.1_beta3-r2 2.1_beta3-r3 2.1_beta3-r4 2.1_beta3-r5: Multiplatform IAX library for creating telephony solutions that interoperate with Asterisk
