@@ -1,0 +1,10 @@
+DEFINED_PHASES=configure install
+DESCRIPTION=Open-source .NET application for ads-b mapping
+EAPI=6
+HOMEPAGE=http://www.virtualradarserver.co.uk/Default.aspx
+KEYWORDS=~amd64 ~x86
+RDEPEND=>=dev-lang/mono-4.4.1.0
+SLOT=0
+SRC_URI=http://www.virtualradarserver.co.uk/Files/VirtualRadar.tar.gz -> virtualradar-bin-2.4.0.tar.gz
+_eclass_exported_funcs=src_configure:- src_install:-
+_md5_=6ed0c98297aad96f0301234bfe2455cd
