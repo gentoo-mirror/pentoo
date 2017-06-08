@@ -115,7 +115,7 @@ dev-python/config 0.3.9-r1: This module allows a hierarchical configuration sche
 dev-python/construct 2.8.10: Construct is a powerful declarative parser (and builder) for binary data
 dev-python/cxoracle 5.3: Python extension module that allows access to Oracle Databases
 dev-python/dotty 9999: EFILTER Query Language
-dev-python/dpkt 1.8.7: Fast, simple packet creation / parsing, with definitions for the basic TCP/IP protocols
+dev-python/dpkt 1.9.1: fast, simple packet creation / parsing, with definitions for the basic TCP/IP protocols
 dev-python/editorconfig 0.12.1: EditorConfig File Locator and Interpreter for Python
 dev-python/esmre 0.3.1: Regular expression accelerator
 dev-python/guess-language 0.2: Guess the natural language of a text
