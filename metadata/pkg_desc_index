@@ -165,7 +165,7 @@ dev-python/symmetricjsonrpc 0.1.0: A more beautiful JSON-RPC implemenation in py
 dev-python/tblib 1.2.0: Traceback fiddling library
 dev-python/tld 0.7.8: Extract the top level domain (TLD) from the URL given
 dev-python/tre-python 0.8.0: Python bidings for TRE library
-dev-python/vulndb 0.0.19: Python SDK to access the vulnerability database
+dev-python/vulndb 0.0.19-r1: Python SDK to access the vulnerability database
 dev-python/xdot 0.6: Interactive viewer for Graphviz dot files
 dev-python/yara-python 3.3.0 3.5.0: Python interface for a malware identification and classification tool
 dev-python/yaswfp 0.9.3: Yet Another SWF Parser.
@@ -218,7 +218,7 @@ dev-ruby/sys-proctable 0.9.3 1.1.4: An interface for providing process table inf
 dev-ruby/terminal-table 1.6.0 1.7.3: Simple, feature rich ascii table generation library
 dev-ruby/unicode-display_width 1.2.1: Determines the monospace display width of a string using EastAsianWidth.txt, Unicode
 dev-ruby/watir-webdriver 0.8.0 0.9.9: WebDriver-backed Watir
-dev-util/apktool 2.0.2 2.0.3 2.2.2: A tool for reengineering 3rd party, closed, binary Android apps.
+dev-util/apktool 2.2.3: A tool for reengineering 3rd party, closed, binary Android apps.
 dev-util/ati-app-sdk-bin 2.9: AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream)
 dev-util/ati-stream-sdk-bin 2.01 2.2 2.3: Enable compiling code and loading it on ATI/AMD GPU
 dev-util/bokken 1.8-r1: GUI for the Pyew malware analysis and Radare the reverse engineering framework
