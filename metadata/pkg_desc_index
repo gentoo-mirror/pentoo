@@ -269,7 +269,7 @@ net-analyzer/ike-scan 1.9.5_pre20151114: A utility for finding, fingerprinting a
 net-analyzer/inguma 0.4-r1: Inguma is an open source penetration testing toolkit written completely in Python
 net-analyzer/jmsdigger-bin 20130815: JMSDigger is an Enterprise Messaging Application assessment tool focuses on ActiveMQ
 net-analyzer/maketh 0.2.0: Ethernet packet injector and creator
-net-analyzer/masscan 1.0.3-r4: Mass IP port scanner
+net-analyzer/masscan 1.0.3-r4 1.0.4-r1: Mass IP port scanner
 net-analyzer/medusa 2.2-r1: A Modular,Parallel,Multiprotocol, Network Login Auditor
 net-analyzer/metacoretex-ng 9999: A nice, java-based, MYSQL/Oracle/MSSQL/ODBC attack framework
 net-analyzer/metagoofil 1.4b-r1: Metagoofil is an information gathering tool designed for extracting metadata of public documents
@@ -478,7 +478,7 @@ sys-kernel/genkernel 3.5.0.8 9999: Gentoo automatic kernel building scripts
 sys-kernel/odroid-sources 9999: Linux kernel source for the ODROID-[UX]2 products
 sys-kernel/odroidxu-sources 9999: Linux kernel source for the ODROIDXU products
 sys-kernel/pentoo-sources 4.0.8 4.4.2 4.4.8-r2 4.7.7 4.7.10 4.8.17-r2: Pentoo kernel sources (kernel series 4.8)
-sys-kernel/pf_ring-kmod 6.0.3: A new type of network socket that improves packet capture speed.
+sys-kernel/pf_ring-kmod 6.0.3 6.6.0: A new type of network socket that improves packet capture speed.
 sys-kernel/spl 0.6.5.8 0.6.5.9: The Solaris Porting Layer is a Linux kernel module which provides many of the Solaris kernel APIs
 sys-libs/libkudzu 1.2.85.1: Red Hat Hardware detection tools
 sys-power/acpid 2.0.23 2.0.27 2.0.28: Daemon for Advanced Configuration and Power Interface
