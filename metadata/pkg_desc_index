@@ -97,7 +97,7 @@ dev-libs/libdisasm 0.23: x86 Disassembler Library
 dev-libs/libguytools2 2.0.1-r1 2.0.4: Library for guymager
 dev-libs/libhijack 0.6.1: Make injecting arbitrary code and other shared objects into another process during runtime easy
 dev-libs/libndef 1.1.3 1.2.0: a C++ library for NDEF specification
-dev-libs/openssl-chacha 1.0.2_p20170330: full-strength general purpose cryptography library (including SSL and TLS)
+dev-libs/openssl-chacha 1.0.2_p20170512: Extra featured OpenSSL with ChaCha20 and Poly1305 support
 dev-libs/radare2-bindings 1.4.0-r1 1.5.0: Language bindings for radare2
 dev-libs/unicorn-bindings 0.9_p20160901: Unicorn bindings
 dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
@@ -129,7 +129,7 @@ dev-python/kaitaistruct 0.6 0.7: Kaitai Struct declarative parser generator for 
 dev-python/libarchive-c 2.7: Python interface to libarchive
 dev-python/nassl 0.16.2 0.16.3: Experimental Python wrapper for OpenSSL
 dev-python/netfilterqueue 0.8 0.8.1: Python bindings for libnetfilter_queue
-dev-python/ntlm-auth 1.0.3 1.0.4: Create and parse NTLM authorisation tokens with all the latest standards
+dev-python/ntlm-auth 1.0.5: Create and parse NTLM authorisation tokens with all the latest standards
 dev-python/olefile 0.43: Python package to parse, read and write Microsoft OLE2 files
 dev-python/pcapy 0.10.10: Python pcap extension
 dev-python/pefile 1.2.10_p139-r1 2016.3.28: Module to read and work with Portable Executable (PE) files
@@ -316,7 +316,7 @@ net-analyzer/vomit 0.2c: Converts a Cisco IP phone conversation into a wav file
 net-analyzer/w3af 1.6.0.5-r2 1.6.54-r3 9999: Web Application Attack and Audit Framework
 net-analyzer/wafp 9999: A webapplication fingerprinter written in ruby
 net-analyzer/wafw00f 0.9.4: Identifies and fingerprints Web Application Firewall (WAF) products
-net-analyzer/wapiti 2.3.0_p20141111 3.0.0_pre20170412: Web application security auditor
+net-analyzer/wapiti 2.3.0_p20141111 3.0.0_pre20170603: Web application security auditor
 net-analyzer/webshag 1.10: An enhanced HTTP URL Scanner and fuzzer
 net-analyzer/wfuzz 2.1.3 2.1.5: Wfuzz is a tool designed for bruteforcing Web Applications
 net-analyzer/whatweb 0.4.7-r5 0.4.7_p20160611 0.4.8_pre20161010: Next generation web scanner, identifies what software websites are running
