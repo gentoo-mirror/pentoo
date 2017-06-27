@@ -13,6 +13,11 @@ dev-libs/openssl-chacha:rfc3779 - Enable support for RFC 3779 (X.509 Extensions 
 dev-libs/openssl-chacha:sslv2 - Support for the old/insecure SSLv2 protocol -- note: not required for TLS/https
 dev-libs/openssl-chacha:sslv3 - Support for the old/insecure SSLv3 protocol -- note: not required for TLS/https
 dev-libs/openssl-chacha:tls-heartbeat - Enable the Heartbeat Extension in TLS and DTLS
+net-analyzer/metasploit:development - Install dependencies needed for metasploit and exploit development
+net-analyzer/metasploit:nexpose - Enable the plugin to integrate with nexpose
+net-analyzer/metasploit:openvas - Enable the plugin to integrate net-analyzer/openvas
+net-analyzer/metasploit:oracle - Enable restricted oracle modules which have additional deps
+net-analyzer/metasploit:pcap - Enable libpcap for packet sniffing
 net-libs/libtins:ack-tracker - TCP ACK tracking support
 net-libs/libtins:cxx11 - C++11 support
 net-libs/libtins:dot11 - IEEE 802.11 support
