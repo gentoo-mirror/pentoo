@@ -124,14 +124,14 @@ dev-python/halberd 0.2.4-r1: HTTP load balancer detector
 dev-python/impacket 0.9.13 0.9.14 0.9.15 9999: A collection of Python classes focused on providing access to network packets
 dev-python/intervaltree 9999: Editable interval tree data structure for Python 2 and 3
 dev-python/isc_dhcp_leases 0.8.1: Small python module for reading /var/lib/dhcp/dhcpd.leases from isc-dhcp-server
-dev-python/jsbeautifier 1.6.4: Beautify, unpack or deobfuscate JavaScript
+dev-python/jsbeautifier 1.6.4 1.6.14: Beautify, unpack or deobfuscate JavaScript
 dev-python/kaitaistruct 0.6 0.7: Kaitai Struct declarative parser generator for binary data
 dev-python/libarchive-c 2.7: Python interface to libarchive
 dev-python/nassl 0.16.2 0.16.3: Experimental Python wrapper for OpenSSL
 dev-python/netfilterqueue 0.8 0.8.1: Python bindings for libnetfilter_queue
 dev-python/ntlm-auth 1.0.5: Create and parse NTLM authorisation tokens with all the latest standards
 dev-python/olefile 0.44: Python package to parse, read and write Microsoft OLE2 files
-dev-python/pefile 1.2.10_p139-r1 2016.3.28: Module to read and work with Portable Executable (PE) files
+dev-python/pefile 1.2.10_p139-r1 2016.3.28 2017.5.26: Module to read and work with Portable Executable (PE) files
 dev-python/phply 0.9.1-r1 9999: Parser for PHP written using PLY
 dev-python/pluginbase 0.3: A support library for building plugins sytems in Python.
 dev-python/poster 0.8.1: Make HTTP POST/PUT with multipart/form-data encoding
