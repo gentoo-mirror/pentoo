@@ -156,7 +156,7 @@ dev-python/ruamel-yaml 0.13.7: YAML parser/emitter that supports roundtrip comme
 dev-python/scapy-http 1.8: HTTP-layer support for Scapy
 dev-python/scapy-python3 0.20 0.21: Packet crafting/sending/... PCAP processing tool with python3 compatibility
 dev-python/service_identity 16.0.0: Service identity verification for pyOpenSSL.
-dev-python/simplesoapy 1.4.1 1.5.1 9999: Simple pythonic wrapper for SoapySDR library
+dev-python/simplesoapy 1.5.1-r1 9999: Simple pythonic wrapper for SoapySDR library
 dev-python/simplespectral 1.0.0 9999: Heavily simplified scipy.signal.spectral module
 dev-python/sortedcontainers 1.5.7: Python Sorted Container Types: SortedList, SortedDict, and SortedSet
 dev-python/stopit 1.1.1: Timeout control decorator and context managers
@@ -428,7 +428,7 @@ net-wireless/soapy_power 1.6.1-r1 9999: Obtain power spectrum from SoapySDR devi
 net-wireless/soapybladerf 0.3.2 9999: Soapy SDR plugin for the Blade RF
 net-wireless/soapyhackrf 0.2.2 9999: SoapySDR HackRF module
 net-wireless/soapyrtlsdr 0.2.2 9999: SoapySDR RTL-SDR Support Module
-net-wireless/soapysdr 0.5.4 0.6.0 9999: vendor and platform neutral SDR support library
+net-wireless/soapysdr 0.5.4 0.6.0-r1 9999: vendor and platform neutral SDR support library
 net-wireless/soapyuhd 0.3.2 9999: Soapy SDR plugins for UHD supported SDR devices
 net-wireless/virtualradar-bin 2.0.1 2.3.1: Open-source .NET application for ads-b mapping
 net-wireless/wifi-pumpkin 0.7.8-r1 0.8.4 0.8.5: Framework for Rogue Wi-Fi Access Point Attack
