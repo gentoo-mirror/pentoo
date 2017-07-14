@@ -119,7 +119,6 @@ dev-python/dpkt 1.9.1: fast, simple packet creation / parsing, with definitions 
 dev-python/editorconfig 0.12.1: EditorConfig File Locator and Interpreter for Python
 dev-python/esmre 0.3.1: Regular expression accelerator
 dev-python/guess-language 0.2: Guess the natural language of a text
-dev-python/h2 2.5.1 3.0.1: Hyper: HTTP/2 Client for Python
 dev-python/halberd 0.2.4-r1: HTTP load balancer detector
 dev-python/impacket 0.9.13 0.9.14 0.9.15 9999: A collection of Python classes focused on providing access to network packets
 dev-python/intervaltree 9999: Editable interval tree data structure for Python 2 and 3
@@ -426,7 +425,7 @@ net-wireless/rx_tools 1.0.3 9999: rx_fm, rx_power, and rx_sdr tools for receivin
 net-wireless/ska 0.2: Fake Shared Key Authentication
 net-wireless/soapy_power 1.6.1-r1 9999: Obtain power spectrum from SoapySDR devices
 net-wireless/soapybladerf 0.3.2 9999: Soapy SDR plugin for the Blade RF
-net-wireless/soapyhackrf 0.2.2 9999: SoapySDR HackRF module
+net-wireless/soapyhackrf 0.2.2 0.3.1 9999: SoapySDR HackRF module
 net-wireless/soapyrtlsdr 0.2.2 9999: SoapySDR RTL-SDR Support Module
 net-wireless/soapysdr 0.5.4 0.6.0-r1 9999: vendor and platform neutral SDR support library
 net-wireless/soapyuhd 0.3.2 9999: Soapy SDR plugins for UHD supported SDR devices
