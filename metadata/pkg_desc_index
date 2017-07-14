@@ -197,7 +197,8 @@ dev-ruby/gem_plugin 0.2.3: A plugin system based on rubygems that uses dependenc
 dev-ruby/http_configuration 1.0.4: set configuration for Net::HTTP
 dev-ruby/librex 0.0.999: Rex provides a variety of classes useful for security testing and exploit development
 dev-ruby/louis 2.0.5: Lookup mac address assignments in the iana database
-dev-ruby/metasploit-payloads 1.2.32: Compiled binaries for Metasploit's Meterpreter
+dev-ruby/metasploit-payloads 1.2.32 1.2.37 1.2.40: Compiled binaries for Metasploit's Meterpreter
+dev-ruby/metasploit_payloads-mettle 0.1.10: Compiled binaries for Metasploit's next-gen Meterpreter
 dev-ruby/mini_exiftool 2.5.1 2.8.0: wrapper for exiftool
 dev-ruby/mini_portile 0.5.3 0.6.2: Simplified way to compile against dependency libraries
 dev-ruby/mini_portile2 2.0.0 2.1.0: Simplistic port-like solution for developers
@@ -219,6 +220,7 @@ dev-ruby/sys-proctable 0.9.3 1.1.4: An interface for providing process table inf
 dev-ruby/terminal-table 1.6.0 1.7.3: Simple, feature rich ascii table generation library
 dev-ruby/unicode-display_width 1.2.1: Determines the monospace display width of a string using EastAsianWidth.txt, Unicode
 dev-ruby/watir-webdriver 0.8.0 0.9.9: WebDriver-backed Watir
+dev-ruby/xdr 2.0.0: Read/write XDR encoded data structures
 dev-util/apktool 2.2.3: A tool for reengineering 3rd party, closed, binary Android apps.
 dev-util/ati-app-sdk-bin 2.9: AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream)
 dev-util/ati-stream-sdk-bin 2.01 2.2 2.3: Enable compiling code and loading it on ATI/AMD GPU
@@ -275,7 +277,7 @@ net-analyzer/masscan 1.0.3-r4 1.0.4-r1: Mass IP port scanner
 net-analyzer/medusa 2.2-r1: A Modular,Parallel,Multiprotocol, Network Login Auditor
 net-analyzer/metacoretex-ng 9999: A nice, java-based, MYSQL/Oracle/MSSQL/ODBC attack framework
 net-analyzer/metagoofil 1.4b-r1: Metagoofil is an information gathering tool designed for extracting metadata of public documents
-net-analyzer/metasploit 4.14.28-r1: Advanced framework for developing, testing, and using vulnerability exploit code
+net-analyzer/metasploit 4.14.28-r1 4.15.0: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/mosref 2.0_beta3: A secure remote execution framework using a compact Scheme-influenced VM
 net-analyzer/nacker 0.0.1_pre20130916: Bypass NAC by hijacking non-802.1x configurable hosts
 net-analyzer/nbtool 0.05_alpha2: Some tools for NetBIOS and DNS investigation, attacks, and communication
