@@ -47,7 +47,7 @@ app-forensics/samhain 4.1.4: Advanced file integrity and intrusion detection too
 app-forensics/stegdetect 0.6 0.6-r1: A Steganography detector for JPEG
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
 app-forensics/volatility 2.5 2.6: Framework for analyzing volatile memory
-app-forensics/xmount 0.7.3: Convert on-the-fly between multiple input and output harddisk image types
+app-forensics/xmount 0.7.5: Convert on-the-fly between multiple input and output harddisk image types
 app-forensics/yara 3.5.0 3.6.3: A malware identification and classification tool
 app-forensics/yim2text 0.1.0: A python script to decode yahoo instant message archive files
 app-fuzz/Peach 1.0-r1: A generic fuzzer framework
@@ -177,7 +177,6 @@ dev-python/tblib 1.2.0: Traceback fiddling library
 dev-python/tld 0.7.8: Extract the top level domain (TLD) from the URL given
 dev-python/tre-python 0.8.0: Python bidings for TRE library
 dev-python/vulndb 0.0.19-r1: Python SDK to access the vulnerability database
-dev-python/xdot 0.6: Interactive viewer for Graphviz dot files
 dev-python/yara-python 3.5.0 3.6.3: Python interface for a malware identification and classification tool
 dev-python/yaswfp 0.9.3: Yet Another SWF Parser.
 dev-ruby/activerecord-session_store 1.0.0-r1: An Action Dispatch session store backed by an Active Record class
