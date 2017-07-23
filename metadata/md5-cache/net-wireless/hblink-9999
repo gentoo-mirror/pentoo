@@ -1,0 +1,10 @@
+DEFINED_PHASES=setup unpack
+DEPEND=>=dev-vcs/git-1.8.2.1
+DESCRIPTION=HomeBrew Repeater protocol as used by DMR+, MMDVM and Brandmeister
+EAPI=6
+HOMEPAGE=https://github.com/n0mjs710/HBlink
+LICENSE=GPL-3
+SLOT=0
+_eclass_exported_funcs=pkg_setup:- src_unpack:git-r3
+_eclasses_=git-r3	cbafa3261c37c7e3af44bb16a34ea390
+_md5_=ef885c29ac80df3a89c05a034e1920ee
