@@ -92,7 +92,7 @@ dev-embedded/mphidflash 1.6 1.8: Tool for communicating with the USB-Bootloader 
 dev-java/jgraphx 1.4.2.3 3.7.2: Open-source graph component for Java
 dev-java/msgpack 0.5.1 0.6.12: MessagePack for Java is a binary-based efficient object serialization library in Java.
 dev-java/sleep 2.1-r1: Duct Tape for the Java platform
-dev-libs/capstone 3.0.4-r2 4.0_alpha4: disassembly/disassembler framework + bindings
+dev-libs/capstone 3.0.4-r2 4.0_alpha5: disassembly/disassembler framework + bindings
 dev-libs/glib 2.48.2 2.50.3-r1: The GLib library of C routines
 dev-libs/libcdata 20170102_alpha: Library for cross-platform C generic data functions
 dev-libs/libcdatetime 20170609_alpha: Library for cross-platform C date and time functions
@@ -122,7 +122,7 @@ dev-python/PyGithub 1.21.0: Python library to access the Github API v3
 dev-python/PyVirtualDisplay 0.2: python wrapper for Xvfb, Xephyr and Xvnc
 dev-python/acora 9999: Fast multi-keyword search engine for text strings
 dev-python/brotlipy 0.6.0-r1: Python binding to the Brotli library
-dev-python/capstone-python 2.1.2 3.0.4 4.0_alpha4: A lightweight multi-platform, multi-architecture disassembly framework
+dev-python/capstone-python 3.0.4 4.0_alpha4 4.0_alpha5: A lightweight multi-platform, multi-architecture disassembly framework
 dev-python/clamd 1.0.1: Clamd is a python interface to Clamd (Clamav daemon)
 dev-python/config 0.3.9-r1: This module allows a hierarchical configuration scheme with support for mappings and sequences
 dev-python/construct 2.8.10: Construct is a powerful declarative parser (and builder) for binary data

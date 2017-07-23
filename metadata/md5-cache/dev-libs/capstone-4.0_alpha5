@@ -5,9 +5,9 @@ HOMEPAGE=http://www.capstone-engine.org/
 IUSE=python
 KEYWORDS=~amd64 ~arm ~x86
 LICENSE=BSD
-RDEPEND=python? ( >=dev-python/capstone-python-4.0_alpha4 )
+PDEPEND=python? ( >=dev-python/capstone-python-4.0_alpha5 )
 SLOT=0/3
-SRC_URI=https://github.com/aquynh/capstone/archive/4.0-alpha4.tar.gz -> capstone-4.0_alpha4.tar.gz
+SRC_URI=https://github.com/aquynh/capstone/archive/4.0-alpha5.tar.gz -> capstone-4.0_alpha5.tar.gz
 _eclass_exported_funcs=src_configure:-
 _eclasses_=multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	8fec6b1eb195836560e70b66d98fb163
-_md5_=a55a219543ddf38296ad6b32cf5a266c
+_md5_=0129f0a5f564fd23488923347e03a4ec
