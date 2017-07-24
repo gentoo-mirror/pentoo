@@ -92,7 +92,7 @@ dev-embedded/mphidflash 1.6 1.8: Tool for communicating with the USB-Bootloader 
 dev-java/jgraphx 1.4.2.3 3.7.2: Open-source graph component for Java
 dev-java/msgpack 0.5.1 0.6.12: MessagePack for Java is a binary-based efficient object serialization library in Java.
 dev-java/sleep 2.1-r1: Duct Tape for the Java platform
-dev-libs/capstone 3.0.4-r2 4.0_alpha5: disassembly/disassembler framework + bindings
+dev-libs/capstone 3.0.4-r2 4.0_alpha5-r1: disassembly/disassembler framework + bindings
 dev-libs/glib 2.48.2 2.50.3-r1: The GLib library of C routines
 dev-libs/libcdata 20170102_alpha: Library for cross-platform C generic data functions
 dev-libs/libcdatetime 20170609_alpha: Library for cross-platform C date and time functions
