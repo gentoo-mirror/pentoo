@@ -508,7 +508,7 @@ www-apps/arachni 1.4: Arachni is a feature-full web application scanner
 www-apps/beef 0.4.6.1: Browser exploitation framework
 www-apps/rda 2.1: Web-based application for effective reporting writing
 www-misc/firefox-bookmarks 0.3-r1: Firefox bookmarks for the Pento ISO only
-www-plugins/adblock_plus 2.8.2 9999: Firefox extension to block annoying ads automatically, no distractions.
+www-plugins/adblock_plus 2.8.2 2.9.1 9999: Firefox extension to block annoying ads automatically, no distractions.
 www-plugins/cookies_exportimport 1.0-r2 9999: Imports/exports cookies following Netscape standard
 www-plugins/exif_viewer 2.00-r3 9999: Firefox extension to display the Exif and IPTC data in local and remote JPEG images.
 www-plugins/firebug 2.0.18 9999: Powerful web development tool for firefox
