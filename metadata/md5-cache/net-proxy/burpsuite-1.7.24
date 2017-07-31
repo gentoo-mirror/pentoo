@@ -6,6 +6,6 @@ KEYWORDS=amd64 x86
 LICENSE=BURP
 RDEPEND=|| ( virtual/jre virtual/jdk )
 SLOT=0
-SRC_URI=https://portswigger.net/burp/releases/download?productid=100&version=1.7.21&type=jar -> burpsuite_free_v1.7.21.jar
+SRC_URI=https://portswigger.net/burp/releases/download?productid=100&version=1.7.24&type=jar -> burpsuite_free_v1.7.24.jar
 _eclass_exported_funcs=src_unpack:- src_install:-
 _md5_=ef55a92613907168f7e17eea126f421a
