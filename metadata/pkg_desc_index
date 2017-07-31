@@ -33,7 +33,7 @@ app-forensics/guymager 0.7.3-r1: Guymager is a fast and user friendly forensic i
 app-forensics/inception 0.4.1: Firewire physical memory manipulation tool exploiting IEEE 1394 SBP-2 DMA
 app-forensics/libbfio 20170123_alpha: Library for providing a basic file input/output abstraction layer
 app-forensics/libforensic1394 0.2 9999: Library for carrying out memory forensics using firewire/ieee1394.
-app-forensics/libpff 0.0.20161119_alpha: Library for accessing Personal Folder Files.
+app-forensics/libpff 20161119: Library for accessing Personal Folder Files
 app-forensics/libvshadow 20170715_alpha: Library and tools to support the Volume Shadow Snapshot (VSS) format.
 app-forensics/linen 61: Encase's linen utility
 app-forensics/make-pdf 0.1.4-r2: This tool will embed javascript inside a PDF document
@@ -102,10 +102,17 @@ dev-libs/libclocale 20170105_alpha: Library for cross-platform C locale function
 dev-libs/libcnotify 20170311_beta: Library for cross-platform C notification functions
 dev-libs/libcpath 20170108_alpha: Library for cross-platform C path functions
 dev-libs/libcsplit 20170311_beta: Library for cross-platform C split string functions
+dev-libs/libcstring 20150101_alpha: Library for cross-platform C string functions
+dev-libs/libcsystem 20150629_alpha: Library for cross-platform C locale functions
 dev-libs/libcthreads 20170101_alpha: Library for cross-platform C threads functions
 dev-libs/libdisasm 0.23: x86 Disassembler Library
+dev-libs/libfcache 20170111_alpha: Library for cross-platform C cache functions
+dev-libs/libfdata 20170112_alpha: Library for cross-platform C file data functions
 dev-libs/libfdatetime 20170112_alpha: Library for date and time formats
 dev-libs/libfguid 20170112_alpha: Library for GUID/UUID format
+dev-libs/libfmapi 20170112: Library for MAPI data types
+dev-libs/libfvalue 20170113: Library for generic file value functions
+dev-libs/libfwnt 20170115_alpha: Library for Windows NT data types
 dev-libs/libguytools2 2.0.1-r1 2.0.4: Library for guymager
 dev-libs/libhijack 0.6.1: Make injecting arbitrary code and other shared objects into another process during runtime easy
 dev-libs/libndef 1.1.3 1.2.0: a C++ library for NDEF specification
