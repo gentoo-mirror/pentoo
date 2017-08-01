@@ -2,6 +2,8 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+app-forensics/sleuthkit:aff - Enable extra aff formats
+app-forensics/sleuthkit:ewf - Enable libewf support
 app-misc/binwalk:graph - Enable support for generating entropy graphs
 dev-libs/glib:dbus - Enable dependencies required by glib libraries using dbus service to manage settings saving
 dev-libs/glib:mime - Pull in shared MIME database that many glib-based applications require at runtime to detect or open files. Warning: do not disable this flag unless installing on a headless server.
