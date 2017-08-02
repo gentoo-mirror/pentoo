@@ -19,7 +19,7 @@ DESCRIPTION="A framework which aims to analyze and recover any kind of digital a
 HOMEPAGE="https://github.com/arxsys/dff"
 SRC_URI="https://github.com/arxsys/dff/archive/${PV}.tar.gz -> ${P}.tar.gz
 	https://github.com/arxsys/dff-cmake_modules/archive/${CMODULES_COMMIT}.zip -> dff-cmake_modules-${CMODULES_COMMIT}.zip
-	https://github.com/arxsys/dff-doc/archive/${DOCS_COMMIT}.zip -> dff-doc-${DOC_COMMIT}.zip
+	https://github.com/arxsys/dff-doc/archive/${DOC_COMMIT}.zip -> dff-doc-${DOC_COMMIT}.zip
 
 	https://github.com/arxsys/dff-api/archive/${API_COMMIT}.zip -> dff-api-${API_COMMIT}.zip
 	https://github.com/arxsys/dff-modules/archive/${MODULES_COMMIT}.zip -> dff-modules-${MODULES_COMMIT}.zip
@@ -87,6 +87,8 @@ src_prepare() {
 	sed -i "s|dl \"\${CMAKE_BINARY_DIR}/dff/api/crashreporter/breakpad/libbreakpad.a\"|\"\${CMAKE_BINARY_DIR}/dff/api/crashreporter/breakpad/libbreakpad.a\" dl|" dff/api/crashreporter/reporter/CMakeLists.txt
 
 	epatch "${FILESDIR}/fixes.patch"
+	sed -i "s|/lib/dff/|/$(get_libdir)/dff/|" CMakeLists.txt
+
 	eapply_user
 }
 
