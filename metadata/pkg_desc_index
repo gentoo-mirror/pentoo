@@ -87,7 +87,7 @@ dev-db/oat 1.3.1: a toolkit that could be used to audit security within Oracle d
 dev-db/sqid 0.3: A SQL injection digger
 dev-db/sqlbf 1.0.1-r1: SQLBF is a tool to audit mssql passwords strength offline
 dev-db/sqlitebrowser 3.9.1-r2: SQLite Database Browser
-dev-db/sqlmap 1.1.7 9999: Automatic SQL injection and database takeover tool
+dev-db/sqlmap 1.1.8 9999: Automatic SQL injection and database takeover tool
 dev-db/sqlsus 0.7.2: MySQL injection and takeover tool
 dev-dotnet/wxnet 0.7.2: wxWidgets bindings for mono
 dev-embedded/libmpsse 1.3_p20150711 1.3_p20160602: Open source library for SPI/I2C control via FTDI chips
@@ -121,7 +121,7 @@ dev-libs/libhijack 0.6.1: Make injecting arbitrary code and other shared objects
 dev-libs/libndef 1.1.3 1.2.0: a C++ library for NDEF specification
 dev-libs/libsmdev 20170225_alpha: Library to access to storage media device
 dev-libs/libuna 20170112_alpha: Library to support Unicode and ASCII (byte string) conversions
-dev-libs/openssl-chacha 1.0.2_p20170512: Extra featured OpenSSL with ChaCha20 and Poly1305 support
+dev-libs/openssl-chacha 1.0.2_p20170706: Extra featured OpenSSL with ChaCha20 and Poly1305 support
 dev-libs/radare2-bindings 1.4.0-r1 1.5.0 1.6.0: Language bindings for radare2
 dev-libs/unicorn-bindings 0.9_p20160901: Unicorn bindings
 dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
