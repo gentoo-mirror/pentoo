@@ -374,7 +374,7 @@ net-misc/voipong 2.0: tool for detecting all VoIP calls on a pipeline and dumps 
 net-misc/warvox 1.0.1 1.0.1-r2 9999: VoIP war dialing suite of tools
 net-misc/wireshark-sap-plugin 0.4.1 0.4.2 9999: Wireshark plugin for SAP's protocols
 net-misc/wlan2eth 1.3: Wlan2eth is a tool that converts wlan pcap to ethernet-like frames.
-net-proxy/burpsuite 1.7.24: Interactive proxy for attacking and debugging web applications
+net-proxy/burpsuite 1.7.26: Interactive proxy for attacking and debugging web applications
 net-proxy/mallory 0.2.0_p20130109: An TCP/UDP transparent proxy that can be used to intercept network streams
 net-proxy/mitmproxy 1.0.2-r1 2.0.2-r1 9999: An interactive, SSL-capable, man-in-the-middle HTTP proxy
 net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal network via reverse connection
