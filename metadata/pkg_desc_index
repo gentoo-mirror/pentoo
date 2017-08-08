@@ -476,7 +476,7 @@ pentoo/pentoo-forging 2012.0: Pentoo forging meta ebuild
 pentoo/pentoo-fuzzers 2015.3-r1: Pentoo fuzzers meta ebuild
 pentoo/pentoo-gnome 2.32.1-r3: Meta package for the GNOME desktop, merge this package to install
 pentoo/pentoo-installer 20140930 99999999: Installer for pentoo, based on the ncurses Arch Linux installer
-pentoo/pentoo-livecd 2017.0: things needed by pentoo for livecd only
+pentoo/pentoo-livecd 2017.3: things needed by pentoo for livecd only
 pentoo/pentoo-misc 2017.1: Pentoo misc meta ebuild
 pentoo/pentoo-mitm 2015.4: Pentoo mitm meta ebuild
 pentoo/pentoo-mobile 2013.0 2014.0 2014.1: Pentoo mobile meta ebuild
