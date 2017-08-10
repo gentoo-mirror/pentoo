@@ -41,7 +41,7 @@ app-forensics/make-pdf 0.1.4-r2: This tool will embed javascript inside a PDF do
 app-forensics/origami-pdf 1.2.6 2.0.1: A Ruby framework designed to parse, analyze, and forge PDF documents
 app-forensics/pdf-parser 0.6.4 0.6.7: This tool will parse a PDF document to identify the fundamental elements used
 app-forensics/pdfid 0.2.1: This tool will scan a PDF document looking for certain keyword
-app-forensics/rdd 3.0.4-r2: Rdd is a forensic copy program
+app-forensics/rdd 3.0.4-r3: Rdd is a forensic copy program
 app-forensics/reglookup 1.0.1-r1 9999: An utility for reading and querying Windows NT/2K/XP registries
 app-forensics/rekall-core 9999: Rekall Memory Forensic Framework
 app-forensics/rekall-gui 9999: Rekall Memory Forensic Framework
@@ -122,7 +122,7 @@ dev-libs/libndef 1.1.3 1.2.0: a C++ library for NDEF specification
 dev-libs/libsmdev 20170225_alpha: Library to access to storage media device
 dev-libs/libuna 20170112_alpha: Library to support Unicode and ASCII (byte string) conversions
 dev-libs/openssl-chacha 1.0.2_p20170706: Extra featured OpenSSL with ChaCha20 and Poly1305 support
-dev-libs/radare2-bindings 1.4.0-r1 1.5.0 1.6.0: Language bindings for radare2
+dev-libs/radare2-bindings 1.5.0 1.6.0-r1: Language bindings for radare2
 dev-libs/unicorn-bindings 0.9_p20160901: Unicorn bindings
 dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
 dev-perl/Tie-CharArray 1.00: Manipulate perl strings through tied array
@@ -161,6 +161,8 @@ dev-python/poster 0.8.1: Make HTTP POST/PUT with multipart/form-data encoding
 dev-python/pyFFTW 0.10.4 9999: A pythonic python wrapper around FFTW
 dev-python/pyaff4 9999: Python Advanced Forensic Format Version 4 library.
 dev-python/pyamf 0.6.2 0.6.2_p20150122: Action Message Format (AMF) support for Python including integration with mutliple frameworks
+dev-python/pyasn1 0.3.2: ASN.1 library for Python
+dev-python/pyasn1-modules 0.0.11: pyasn1 modules
 dev-python/pybonjour 1.1.1: Python interface to Apple Bonjour and compatible DNS-SD libraries (Avahi)
 dev-python/pygtail 0.7.0: Reads log file lines that have not been read
 dev-python/pyinstaller 3.2: Program converting Python programs into stand-alone executables
@@ -261,7 +263,7 @@ dev-util/radare 1.5.2: Advanced command line hexadecimail editor and more
 dev-util/radare2 1.2.1 1.3.0 1.4.0 1.5.0 1.6.0: Advanced command line hexadecimal editor and more
 dev-util/soapui 5.2.0 5.3.0: The Swiss-Army Knife for SOAP Testing
 dev-util/sonarqube-bin 4.5 4.5.2: SonarQube is an open platform to manage code quality.
-dev-util/unicorn 0.9_p20160901 1.0.1: A lightweight multi-platform, multi-architecture CPU emulator framework
+dev-util/unicorn 0.9_p20160901 1.0.1-r2: A lightweight multi-platform, multi-architecture CPU emulator framework
 dev-util/valabind 0.10.0-r1 1.3.0: Valabind is a tool to parse vala or vapi files to transform them into swig files
 gnome-base/gnome-keyring 3.20.0 3.20.1: Password and keyring managing daemon
 gnome-base/libgnomeui 2.24.5-r4: User Interface routines for Gnome
@@ -376,7 +378,7 @@ net-misc/wireshark-sap-plugin 0.4.1 0.4.2 9999: Wireshark plugin for SAP's proto
 net-misc/wlan2eth 1.3: Wlan2eth is a tool that converts wlan pcap to ethernet-like frames.
 net-proxy/burpsuite 1.7.26: Interactive proxy for attacking and debugging web applications
 net-proxy/mallory 0.2.0_p20130109: An TCP/UDP transparent proxy that can be used to intercept network streams
-net-proxy/mitmproxy 1.0.2-r1 2.0.2-r1 9999: An interactive, SSL-capable, man-in-the-middle HTTP proxy
+net-proxy/mitmproxy 1.0.2-r1 2.0.2-r2 9999: An interactive, SSL-capable, man-in-the-middle HTTP proxy
 net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal network via reverse connection
 net-proxy/proxenet 0.4.1: A hacker friendly proxy for web application penetration tests.
 net-proxy/proxenet-plugins 9999: Repository for proxenet plugins
