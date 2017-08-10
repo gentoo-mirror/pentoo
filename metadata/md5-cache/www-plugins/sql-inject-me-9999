@@ -9,5 +9,5 @@ RDEPEND=!symlink_all_targets? ( target_firefox? ( www-client/firefox ) target_fi
 SLOT=0
 SRC_URI=https://addons.mozilla.org/downloads/latest/7597 -> sql-inject-me-9999.xpi
 _eclass_exported_funcs=pkg_postinst:- src_unpack:mozilla-addon src_install:-
-_eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	9c113d6a64826c40154cad7be15d95ea	ltprune	2770eed66a9b8ef944714cd0e968182e	mozextension	e5d920147bfccf4930062e462e2a417d	mozilla-addon	8d5d6700a00c98468e9e6c7269e50064	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	8fec6b1eb195836560e70b66d98fb163
+_eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	9c113d6a64826c40154cad7be15d95ea	ltprune	2770eed66a9b8ef944714cd0e968182e	mozextension	e5d920147bfccf4930062e462e2a417d	mozilla-addon	8d5d6700a00c98468e9e6c7269e50064	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	185a06792159ca143528e7010368e8af
 _md5_=9a9d638c3899380270ec6f979d297a8e
