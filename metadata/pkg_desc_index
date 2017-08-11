@@ -310,7 +310,7 @@ net-analyzer/nacker 0.0.1_pre20130916: Bypass NAC by hijacking non-802.1x config
 net-analyzer/nbtool 0.05_alpha2: Some tools for NetBIOS and DNS investigation, attacks, and communication
 net-analyzer/nessus-bin 6.9.3: A remote security scanner for Linux
 net-analyzer/nikto 2.1.6-r1 2.1.6_p20160624-r1 2.1.6_p20170420: Web Server vulnerability scanner
-net-analyzer/nmap_vulscan 2.0-r1: A NSE vulnerability scanner which uses an offline version of scip VulDB
+net-analyzer/nmap_vulscan 2.0-r1 2.0_p20170503: A NSE vulnerability scanner which uses an offline version of scip VulDB
 net-analyzer/ntop 5.0.1: Network traffic analyzer with web interface
 net-analyzer/ntp-fingerprint 0.1-r1: NTP fingerprinting utility
 net-analyzer/onesixtyone 0.3.2-r2 0.6 0.7: An efficient SNMP scanner
