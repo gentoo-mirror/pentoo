@@ -198,9 +198,9 @@ dev-ruby/activerecord-session_store 1.0.0-r1: An Action Dispatch session store b
 dev-ruby/arachni-reactor 0.1.0 0.1.1: A simple, lightweight, pure-Ruby implementation of the Reactor pattern
 dev-ruby/arachni-rpc 0.2.1.2 0.2.1.3: Arachni-RPC is a simple and lightweight Remote Procedure Call protocol
 dev-ruby/arachni-rpc-em 0.2: EventMachine-based client and server implementation of Arachni-RPC
-dev-ruby/async 0.11.1 0.13.0 0.14.0 0.17.1: Asynchronous I/O framework for Ruby based on nio4r and timers.
-dev-ruby/async-dns 0.10.0-r1 0.12.0: An asynchronous DNS resolver and server.
-dev-ruby/async-io 0.5.0: Asynchronous I/O framework for Ruby based on nio4r and timers.
+dev-ruby/async 0.17.1 1.0.0: Asynchronous I/O framework for Ruby based on nio4r and timers.
+dev-ruby/async-dns 0.12.0 1.0.0: An asynchronous DNS resolver and server.
+dev-ruby/async-io 0.5.0 1.0.0: Asynchronous I/O framework for Ruby based on nio4r and timers.
 dev-ruby/cgi_multipart_eof_fix 2.5.0: Fix an exploitable bug in CGI multipart parsing.
 dev-ruby/ckeditor_rails 4.6.2: CKEditor is a javascript library of the WYSIWYG rich-text editor
 dev-ruby/concurrent-ruby-ext 1.0.5: C extensions to optimize the concurrent-ruby gem when running under MRI
@@ -238,7 +238,7 @@ dev-ruby/parseconfig 1.0.8: Provides simple parsing of standard *nix style confi
 dev-ruby/pg 0.20.0: Ruby extension library providing an API to PostgreSQL
 dev-ruby/pony 1.11: Send email in one command
 dev-ruby/puma 2.16.0 3.8.2: Puma is a simple, fast, threaded, and highly concurrent HTTP 1.1 server
-dev-ruby/rubydns 1.0.3 2.0.0_rc1 2.0.0_rc2: A tool to intercept and modify DNS requests
+dev-ruby/rubydns 2.0.1: A tool to intercept and modify DNS requests
 dev-ruby/similar_text 0.0.4: Calculate the similarity between two strings
 dev-ruby/sinatra-contrib 1.4.6-r1 1.4.7: Collection of useful Sinatra extensions
 dev-ruby/sourcify 0.5.0-r1: Workarounds before ruby-core officially supports Proc#to_source (& friends)
