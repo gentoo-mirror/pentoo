@@ -16,7 +16,7 @@ app-crypt/rcracki_mt 0.6.6 0.7.0: perform a rainbow table attack on password has
 app-crypt/samdump2 3.0.0-r1: Windows NT/2k/XP/Vista sam hash dumper
 app-crypt/steghide 0.5.1: A steganography program which hides data in various media files
 app-crypt/wisecracker 1.0-r1: An open source framework for tools that can distribute brute force cryptanalysis
-app-crypt/yubioath-desktop 3.1.0 4.1.0: Library and tool for personalization of Yubico's YubiKey NEO
+app-crypt/yubioath-desktop 3.1.0 4.1.0 4.1.4: Library and tool for personalization of Yubico's YubiKey NEO
 app-dicts/raft-wordlists 20110803: Raft wordlists
 app-emulation/qemu-charm 0.13.0: QEMU arm user-land emulation for CHroot ARM setup on x86*
 app-exploits/exploitdb 9999: All exploits from exploit-db.com
