@@ -10,5 +10,5 @@ RDEPEND=dev-libs/glib:2 virtual/pkgconfig
 REQUIRED_USE=|| ( unicorn_targets_x86 unicorn_targets_m68k unicorn_targets_arm unicorn_targets_aarch64 unicorn_targets_mips unicorn_targets_sparc )
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-r3 src_configure:- src_compile:-
-_eclasses_=git-r3	cbafa3261c37c7e3af44bb16a34ea390
+_eclasses_=git-r3	78651c07ca1c1373bf81545d39eb9769
 _md5_=8c3b1e3781d34b926efc997e8ac29568

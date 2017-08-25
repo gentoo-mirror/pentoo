@@ -6,5 +6,5 @@ HOMEPAGE=https://github.com/n0mjs710/HBlink
 LICENSE=GPL-3
 SLOT=0
 _eclass_exported_funcs=pkg_setup:- src_unpack:git-r3
-_eclasses_=git-r3	cbafa3261c37c7e3af44bb16a34ea390
+_eclasses_=git-r3	78651c07ca1c1373bf81545d39eb9769
 _md5_=ef885c29ac80df3a89c05a034e1920ee
