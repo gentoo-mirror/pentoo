@@ -1,0 +1,11 @@
+DEFINED_PHASES=install
+DESCRIPTION=A NSE vulnerability scanner which uses an offline version of scip VulDB
+EAPI=5
+HOMEPAGE=http://www.computec.ch/projekte/vulscan/
+KEYWORDS=amd64 x86 arm
+LICENSE=GPL-2
+RDEPEND=net-analyzer/nmap[nse]
+SLOT=0
+SRC_URI=http://www.computec.ch/projekte/vulscan/download//nmap_nse_vulscan-2.0.tar.gz
+_eclass_exported_funcs=src_install:-
+_md5_=1144e4805b0eaab7d56a00fbc7ea5073

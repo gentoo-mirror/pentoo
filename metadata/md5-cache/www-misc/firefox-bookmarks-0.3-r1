@@ -1,0 +1,10 @@
+DEFINED_PHASES=compile install prepare
+DESCRIPTION=Firefox bookmarks for the Pento ISO only
+EAPI=5
+HOMEPAGE=http://code.google.com/p/pentoo
+KEYWORDS=~amd64
+LICENSE=MPL-1.1
+RDEPEND=|| ( >=www-client/firefox-bin-15.0.1 >=www-client/firefox-15.0.1 )
+SLOT=0
+_eclass_exported_funcs=src_prepare:- src_compile:- src_install:-
+_md5_=0e1348185a885f924e6855993bb9fff3

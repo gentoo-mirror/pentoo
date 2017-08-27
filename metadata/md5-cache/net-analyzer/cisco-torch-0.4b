@@ -1,0 +1,11 @@
+DEFINED_PHASES=install prepare
+DESCRIPTION=Cisco mass scanning, fingerprinting, and exploitation tool
+EAPI=2
+HOMEPAGE=http://www.arhont.com/en/category/resources/tools-utilities/
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=dev-perl/Net-Telnet dev-perl/Net-SSH-Perl dev-perl/Net-SNMP dev-perl/Net-SSLeay
+SLOT=0
+SRC_URI=http://www.arhont.com/en/wp-content/uploads/2010/01/cisco-torch-0.4b.tar.gz
+_eclass_exported_funcs=src_prepare:- src_install:-
+_md5_=f88fc5022dd22b1a177d59fc8deb08a8

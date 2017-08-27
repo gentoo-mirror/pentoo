@@ -1,0 +1,11 @@
+DEFINED_PHASES=-
+DESCRIPTION=Pentoo database attack meta ebuild
+EAPI=5
+HOMEPAGE=http://www.pentoo.ch
+IUSE=minipentoo
+KEYWORDS=~amd64 ~arm ~x86
+LICENSE=GPL-3
+PDEPEND=dev-db/sqlmap dev-db/sqlitebrowser !minipentoo? ( net-analyzer/sqlninja dev-db/minimysqlator dev-db/mssqlscan )
+SLOT=0
+_eclass_exported_funcs=-
+_md5_=a27b79b783287888a099fe79fdc0b669

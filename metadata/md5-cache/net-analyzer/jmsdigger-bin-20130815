@@ -1,0 +1,11 @@
+DEFINED_PHASES=install
+DESCRIPTION=JMSDigger is an Enterprise Messaging Application assessment tool focuses on ActiveMQ
+EAPI=5
+HOMEPAGE=https://github.com/OpenSecurityResearch/jmsdigger
+KEYWORDS=~x86 ~arm ~amd64
+LICENSE=Apache-2.0
+RDEPEND=virtual/jre
+SLOT=0
+SRC_URI=http://dev.pentoo.ch/~blshkv/distfiles/jmsdigger-bin-20130815-single.tar.gz
+_eclass_exported_funcs=src_install:-
+_md5_=db07c46980573a80f4dd0f9bd8a5fbed
