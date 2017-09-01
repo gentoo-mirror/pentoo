@@ -7,5 +7,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-r3 src_install:-
-_eclasses_=git-r3	78651c07ca1c1373bf81545d39eb9769
+_eclasses_=git-r3	4f7ddb4119309845d6687213171ab445
 _md5_=ab91ec55c332103e1a232ee700db02af
