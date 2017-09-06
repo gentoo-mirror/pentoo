@@ -150,7 +150,6 @@ dev-python/intervaltree 9999: Editable interval tree data structure for Python 2
 dev-python/isc_dhcp_leases 0.8.1: Small python module for reading /var/lib/dhcp/dhcpd.leases from isc-dhcp-server
 dev-python/jsbeautifier 1.6.4 1.6.14: Beautify, unpack or deobfuscate JavaScript
 dev-python/kaitaistruct 0.6 0.7: Kaitai Struct runtime for Python
-dev-python/libarchive-c 2.7: Python interface to libarchive
 dev-python/nassl 0.16.2 0.16.3: Experimental Python wrapper for OpenSSL
 dev-python/netfilterqueue 0.8 0.8.1: Python bindings for libnetfilter_queue
 dev-python/ntlm-auth 1.0.5: Create and parse NTLM authorisation tokens with all the latest standards
@@ -186,7 +185,7 @@ dev-python/sortedcontainers 1.5.7: Python Sorted Container Types: SortedList, So
 dev-python/stopit 1.1.1: Timeout control decorator and context managers
 dev-python/symmetricjsonrpc 0.1.0: A more beautiful JSON-RPC implemenation in python
 dev-python/tblib 1.2.0: Traceback fiddling library
-dev-python/tld 0.7.8: Extract the top level domain (TLD) from the URL given
+dev-python/tld 0.7.8 0.7.9: Extract the top level domain (TLD) from the URL given
 dev-python/tls_parser 1.0.0: Small library to parse TLS records.
 dev-python/tre-python 0.8.0: Python bidings for TRE library
 dev-python/vulndb 0.0.19-r1: Python SDK to access the vulnerability database
