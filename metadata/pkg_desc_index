@@ -131,11 +131,11 @@ dev-php/evalhook 0.1: Decode/Deobfuscate PHP Scripts
 dev-python/DartsPyLRU 0.5: LRU Dictionaries
 dev-python/PTP 0.3.0: Pentester's Tools Parser
 dev-python/PyGithub 1.21.0: Python library to access the Github API v3
-dev-python/PyVirtualDisplay 0.2: python wrapper for Xvfb, Xephyr and Xvnc
+dev-python/PyVirtualDisplay 0.2 0.2.1: python wrapper for Xvfb, Xephyr and Xvnc
 dev-python/acora 9999: Fast multi-keyword search engine for text strings
 dev-python/brotlipy 0.6.0-r1: Python binding to the Brotli library
 dev-python/capstone-python 3.0.4 4.0_alpha4 4.0_alpha5: A lightweight multi-platform, multi-architecture disassembly framework
-dev-python/clamd 1.0.1: Clamd is a python interface to Clamd (Clamav daemon)
+dev-python/clamd 1.0.2: Clamd is a python interface to Clamd (Clamav daemon)
 dev-python/config 0.3.9-r1: This module allows a hierarchical configuration scheme with support for mappings and sequences
 dev-python/construct 2.8.10: Construct is a powerful declarative parser (and builder) for binary data
 dev-python/cxoracle 5.3: Python extension module that allows access to Oracle Databases
@@ -151,7 +151,7 @@ dev-python/isc_dhcp_leases 0.8.1: Small python module for reading /var/lib/dhcp/
 dev-python/jsbeautifier 1.6.4 1.6.14: Beautify, unpack or deobfuscate JavaScript
 dev-python/kaitaistruct 0.6 0.7: Kaitai Struct runtime for Python
 dev-python/nassl 0.16.2 0.16.3: Experimental Python wrapper for OpenSSL
-dev-python/netfilterqueue 0.8 0.8.1: Python bindings for libnetfilter_queue
+dev-python/netfilterqueue 0.8.1: Python bindings for libnetfilter_queue
 dev-python/ntlm-auth 1.0.5: Create and parse NTLM authorisation tokens with all the latest standards
 dev-python/pefile 1.2.10_p139-r1 2016.3.28 2017.5.26: Module to read and work with Portable Executable (PE) files
 dev-python/phply 0.9.1-r1 9999: Parser for PHP written using PLY
@@ -167,7 +167,7 @@ dev-python/pyinstaller 3.2: Program converting Python programs into stand-alone 
 dev-python/pynetfilter_conntrack 0.4.2: Python binding of libnetfilter_conntrack
 dev-python/pyperclip 1.5.27: Cross-platform clipboard module
 dev-python/python-nmap 0.6.1: a python library which helps in using nmap port scanner
-dev-python/python-ntlm 1.0.1 1.1.0: Clamd is a python interface to Clamd (Clamav daemon)
+dev-python/python-ntlm 1.1.0: Clamd is a python interface to Clamd (Clamav daemon)
 dev-python/python-owasp-zap-v2 0.0.9: OWASP ZAP Python API
 dev-python/python-registry 1.0.4: A pure Python module that provides read access to Windows Registry files
 dev-python/qtpy 0.6.9 9999: Minimal Python 2 & 3 shim around all Qt bindings
@@ -178,7 +178,7 @@ dev-python/ruamel-ordereddict 0.4.9: An ordered dictionary with KIO/KVIO
 dev-python/ruamel-yaml 0.13.7: YAML parser/emitter that supports roundtrip comment preservation
 dev-python/scapy-http 1.8: HTTP-layer support for Scapy
 dev-python/scapy-python3 0.20 0.21: Packet crafting/sending/... PCAP processing tool with python3 compatibility
-dev-python/service_identity 16.0.0: Service identity verification for pyOpenSSL.
+dev-python/service_identity 16.0.0 17.0.0: Service identity verification for pyOpenSSL.
 dev-python/simplesoapy 1.5.1-r1 9999: Simple pythonic wrapper for SoapySDR library
 dev-python/simplespectral 1.0.0 9999: Heavily simplified scipy.signal.spectral module
 dev-python/sortedcontainers 1.5.7: Python Sorted Container Types: SortedList, SortedDict, and SortedSet
