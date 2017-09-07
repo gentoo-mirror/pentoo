@@ -8,5 +8,4 @@ RDEPEND=>=virtual/jre-1.6
 RESTRICT=strip mirror
 SLOT=0
 SRC_URI=http://sourceforge.net/projects/soapui/files/soapui/5.2.0/SoapUI-5.2.0-linux-bin.tar.gz
-_eclass_exported_funcs=src_install:-
 _md5_=f5bef7681626ccdfa7af538c32eb0d07

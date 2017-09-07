@@ -8,6 +8,5 @@ LICENSE=BSD
 PDEPEND=python? ( >=dev-python/capstone-python-4.0_alpha5 )
 SLOT=0/3
 SRC_URI=https://github.com/aquynh/capstone/archive/4.0-alpha5.tar.gz -> capstone-4.0_alpha5.tar.gz
-_eclass_exported_funcs=src_configure:-
 _eclasses_=multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	185a06792159ca143528e7010368e8af
 _md5_=dbbc3aa857a384ef82372a5477f924b3

@@ -8,5 +8,4 @@ RDEPEND=>=virtual/jre-1.6
 RESTRICT=strip mirror
 SLOT=0
 SRC_URI=http://cdn01.downloads.smartbear.com/soapui/5.3.0/SoapUI-5.3.0-linux-bin.tar.gz
-_eclass_exported_funcs=src_install:-
 _md5_=3d45ccd11de2e20f4289606a1fafa1cf

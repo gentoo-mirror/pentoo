@@ -8,5 +8,4 @@ LICENSE=GPL-2
 RDEPEND=net-analyzer/ettercap
 SLOT=0
 SRC_URI=mirror://sourceforge/videojak/videojak-1.00.tar.gz
-_eclass_exported_funcs=src_install:-
 _md5_=01b247281f1685aef05475eb20da01e9

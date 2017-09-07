@@ -7,5 +7,4 @@ LICENSE=BSD GPL GPL-2 LGPL-2 LGPL-3 MIT NEWLIB ZLIB
 RESTRICT=strip binchecks
 SLOT=0
 SRC_URI=https://launchpad.net/gcc-arm-embedded/4.6/4.6-2012-q1-update/+download/gcc-arm-none-eabi-4_6-2012q1-20120316.tar.bz2
-_eclass_exported_funcs=pkg_postinst:- src_install:-
 _md5_=45f2ced53d65ef17d803c4a2f9582ace

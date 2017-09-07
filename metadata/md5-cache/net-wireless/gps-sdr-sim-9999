@@ -5,6 +5,5 @@ EAPI=5
 HOMEPAGE=http://sdr.osmocom.org/trac/wiki/rtl-sdr
 LICENSE=MIT
 SLOT=0
-_eclass_exported_funcs=src_unpack:git-r3 src_install:-
 _eclasses_=git-r3	4f7ddb4119309845d6687213171ab445
 _md5_=2ca91181a2d7cedd218f0c12d7c0ed54

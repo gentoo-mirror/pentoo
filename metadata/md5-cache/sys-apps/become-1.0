@@ -6,5 +6,4 @@ KEYWORDS=~amd64 ~x86
 LICENSE=BSD
 SLOT=0
 SRC_URI=http://www.bindshell.net/tools/become/become.tgz
-_eclass_exported_funcs=src_prepare:- src_install:-
 _md5_=1b67081520a5d4f0d4036a6df7807d4d

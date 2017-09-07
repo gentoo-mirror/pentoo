@@ -6,5 +6,4 @@ KEYWORDS=~x86 ~amd64
 LICENSE=GPL-2
 SLOT=0
 SRC_URI=http://lcamtuf.coredump.cx/soft/memfetch.tgz
-_eclass_exported_funcs=src_prepare:- src_install:-
 _md5_=cbe692c93940232fdd1d87a221e8f4fe

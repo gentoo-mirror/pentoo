@@ -8,5 +8,4 @@ LICENSE=GPL-2
 RDEPEND=dev-lang/perl net-fs/samba polenum? ( net-analyzer/polenum ) ldap? ( net-nds/openldap )
 SLOT=0
 SRC_URI=http://labs.portcullis.co.uk/download/enum4linux-0.8.9.tar.gz
-_eclass_exported_funcs=src_prepare:- src_install:-
 _md5_=ef5687febc9163e2ed55eb1d4d2be455

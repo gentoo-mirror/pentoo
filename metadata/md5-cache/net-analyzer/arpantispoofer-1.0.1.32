@@ -6,5 +6,4 @@ LICENSE=GPL-3
 RDEPEND=gnome-base/libgnomeui
 SLOT=0
 SRC_URI=mirror://sourceforge/arpantispoofer/arpantispoofer-linux-1.0.1.32.tar.bz2
-_eclass_exported_funcs=src_prepare:- src_install:-
 _md5_=4b7ba99185008c5c719f90f1449f1df1

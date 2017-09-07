@@ -7,5 +7,4 @@ LICENSE=Artistic
 RESTRICT=strip
 SLOT=0
 SRC_URI=mirror://sourceforge/bastard/libdisasm-0.23.tar.gz
-_eclass_exported_funcs=src_install:-
 _md5_=940f053c073353db9a017868ae614776

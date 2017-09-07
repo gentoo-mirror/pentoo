@@ -8,5 +8,4 @@ LICENSE=GPL-3
 RDEPEND=dev-lang/perl perl-core/Switch dev-libs/openssl dev-perl/Net-SSLeay perl-core/Time-HiRes app-portage/g-cpan os-detection? ( net-analyzer/nmap )
 SLOT=0
 SRC_URI=http://www.brainoverflow.org/code/dotdotpwn-v3.0.tar.gz
-_eclass_exported_funcs=pkg_setup:- src_prepare:- src_compile:- src_install:-
 _md5_=0cd578504af700bb7b6c3289e3c7df63

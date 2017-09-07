@@ -9,5 +9,4 @@ LICENSE=GPL-2
 RDEPEND=|| ( net-wireless/bluez net-wireless/bluez-libs )
 SLOT=0
 SRC_URI=http://www.secuobs.com/bss-0.8.tar.gz
-_eclass_exported_funcs=src_compile:- src_install:-
 _md5_=26d20ae39b84ac1810358e4a44478b77

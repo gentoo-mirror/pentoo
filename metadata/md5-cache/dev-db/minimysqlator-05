@@ -7,5 +7,4 @@ LICENSE=GPL-2
 RDEPEND=virtual/jre
 SLOT=0
 SRC_URI=http://www.scrt.ch/outils/mms/mms_05.jar
-_eclass_exported_funcs=src_unpack:- src_compile:- src_install:-
 _md5_=7d7ec7b278cf30f5b6bd8556ffc0144b

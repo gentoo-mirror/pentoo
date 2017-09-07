@@ -7,5 +7,4 @@ IUSE=+b43 +b43legacy +reload
 KEYWORDS=~x86 ~amd64
 LICENSE=GPL-2
 SLOT=0
-_eclass_exported_funcs=pkg_postinst:- pkg_setup:- src_install:-
 _md5_=cecb46b58e7b8126e5b08bdc8e624c0b

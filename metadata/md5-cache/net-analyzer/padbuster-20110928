@@ -7,6 +7,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=RPL1.5
 RDEPEND=dev-perl/LWP-UserAgent-Determined virtual/perl-MIME-Base64 virtual/perl-Getopt-Long virtual/perl-Time-HiRes virtual/perl-Compress-Raw-Zlib dev-perl/Crypt-SSLeay
 SLOT=0
-_eclass_exported_funcs=src_unpack:git-r3 src_install:-
 _eclasses_=git-r3	4f7ddb4119309845d6687213171ab445
 _md5_=b8aa3b66f43c899c99fbc0c8d98b03db

@@ -6,5 +6,4 @@ KEYWORDS=~amd64 ~x86 ~arm
 LICENSE=GPL-3
 SLOT=0
 SRC_URI=mirror://sourceforge/ophcrack/samdump2/samdump2-3.0.0.tar.bz2
-_eclass_exported_funcs=src_prepare:- src_compile:- src_install:-
 _md5_=695adf9a749026d5e9b3a14e41f705ab

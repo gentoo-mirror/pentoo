@@ -8,5 +8,4 @@ LICENSE=as-is
 RESTRICT=fetch
 SLOT=0
 SRC_URI=LinEn_61.zip
-_eclass_exported_funcs=src_install:-
 _md5_=095e61caf1d22aab44c4f9c7087c63be

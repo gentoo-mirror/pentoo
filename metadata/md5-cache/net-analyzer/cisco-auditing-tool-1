@@ -7,5 +7,4 @@ LICENSE=GPL-2
 RDEPEND=dev-perl/Net-SNMP dev-perl/Net-Telnet
 SLOT=0
 SRC_URI=http://www.packetstormsecurity.org/cisco/CiscoAuditingTool-v1.tar.gz
-_eclass_exported_funcs=src_install:-
 _md5_=1dae8af0a3b58e224340d83056472645

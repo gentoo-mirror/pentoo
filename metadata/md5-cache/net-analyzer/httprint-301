@@ -8,5 +8,4 @@ LICENSE=as-is
 RDEPEND=amd64? ( sys-libs/glibc[multilib] )
 SLOT=0
 SRC_URI=http://net-square.com/zip%20folders/httprint_linux_301.zip
-_eclass_exported_funcs=src_compile:- src_install:-
 _md5_=04d3c941da283a89a21cd032f9bd3f4f

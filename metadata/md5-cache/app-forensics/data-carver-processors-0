@@ -9,5 +9,4 @@ LICENSE=GPL-2
 RDEPEND=sys-apps/file media-gfx/imagemagick media-libs/exiftool stego? ( app-forensics/stegdetect ) mplayer? ( media-video/mplayer )
 SLOT=0
 SRC_URI=http://www.citadelsystems.net/downloads/data_carver_processors.tar.gz
-_eclass_exported_funcs=src_compile:- src_install:-
 _md5_=224c4502b312afc0fb8272d7d69a67bd

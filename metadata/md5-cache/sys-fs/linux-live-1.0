@@ -6,5 +6,4 @@ KEYWORDS=x86
 LICENSE=GPL-2
 SLOT=0
 SRC_URI=http://www.pentoo.ch/distfiles/linux-live-1.0.tar.bz2
-_eclass_exported_funcs=src_compile:- src_install:-
 _md5_=17e0d6903174c0e06fe1416a148b20cc
