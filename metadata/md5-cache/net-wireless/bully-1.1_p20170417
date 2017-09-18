@@ -1,0 +1,10 @@
+DEFINED_PHASES=compile install unpack
+DEPEND=net-libs/libpcap >=dev-vcs/git-1.8.2.1
+DESCRIPTION=A wifi-protected-setup (WPS) brute force attack tool, similar to reaver
+EAPI=6
+HOMEPAGE=https://github.com/aanarchyy/bully/releases
+KEYWORDS=amd64 arm x86
+LICENSE=GPL-3+ GPL-2 BSD
+SLOT=0
+_eclasses_=git-r3	4f7ddb4119309845d6687213171ab445
+_md5_=313f14a55ae237d6dee5a6764427957d
