@@ -6,5 +6,5 @@ HOMEPAGE=https://github.com/aanarchyy/bully/releases
 KEYWORDS=amd64 arm x86
 LICENSE=GPL-3+ GPL-2 BSD
 SLOT=0
-_eclasses_=git-r3	4f7ddb4119309845d6687213171ab445
+_eclasses_=git-r3	52a888802d25387c2c74cb845d1219bc
 _md5_=313f14a55ae237d6dee5a6764427957d
