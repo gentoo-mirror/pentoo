@@ -3,39 +3,39 @@
 
 EAPI=6
 
-inherit versionator autotools
-
-MY_PV="$(get_major_version)"
-MY_PV2="$(get_after_major_version)"
-
-DESCRIPTION="Library for cross-platform C locale functions"
-HOMEPAGE="https://github.com/libyal/${PN}"
-SRC_URI="https://github.com/libyal/${PN}/releases/download/${MY_PV}/${PN}-${MY_PV2}-${MY_PV}.tar.gz"
+DESCRIPTION="Library for providing a basic file input/output abstraction layer"
+HOMEPAGE="https://github.com/libyal/libbfio"
+SRC_URI="https://github.com/libyal/${PN}/releases/download/${PV}/${PN}-alpha-${PV}.tar.gz"
 
 LICENSE="LGPL-3"
 SLOT="0"
 KEYWORDS="~amd64 ~hppa ~ppc ~x86"
-IUSE="debug nls unicode"
+IUSE="nls unicode"
 
 DEPEND="dev-libs/libcerror
+	dev-libs/libcthreads
+	dev-libs/libcdata
 	dev-libs/libclocale
 	dev-libs/libcnotify
+	dev-libs/libcsplit
 	dev-libs/libuna
-	dev-libs/libcstring
-"
+	dev-libs/libcfile
+	dev-libs/libcpath
+	"
 RDEPEND="${DEPEND}"
-
-S="${WORKDIR}/${PN}-${MY_PV}"
 
 src_configure() {
 	econf $(use_enable nls) \
 		$(use_with nls libiconv-prefix) \
 		$(use_with nls libintl-prefix) \
 		$(use_enable unicode wide-character-type) \
-		$(use_enable debug debug-output) \
-		$(use_enable debug verbose-output) \
 		--with-libcerror \
+		--with-libcthreads \
+		--with-libcdata \
 		--with-libclocale \
+		--with-libcnotify \
+		--with-libcsplit \
 		--with-libuna \
-		--with-libcstring
+		--with-libcfile \
+		--with-libcpath
 }
