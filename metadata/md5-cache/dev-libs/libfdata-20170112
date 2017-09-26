@@ -1,0 +1,12 @@
+DEFINED_PHASES=configure
+DEPEND=dev-libs/libcdata dev-libs/libcerror dev-libs/libcnotify dev-libs/libcthreads dev-libs/libfcache
+DESCRIPTION=Library for cross-platform C file data functions
+EAPI=6
+HOMEPAGE=https://github.com/libyal/libfdata
+IUSE=debug nls
+KEYWORDS=~amd64 ~hppa ~ppc ~x86
+LICENSE=LGPL-3
+RDEPEND=dev-libs/libcdata dev-libs/libcerror dev-libs/libcnotify dev-libs/libcthreads dev-libs/libfcache
+SLOT=0
+SRC_URI=https://github.com/libyal/libfdata/releases/download/20170112/libfdata-alpha-20170112.tar.gz
+_md5_=10d481f8d58570d82977cdd669f3132e

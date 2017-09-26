@@ -1,0 +1,12 @@
+DEFINED_PHASES=configure
+DEPEND=dev-libs/libcerror dev-libs/libcthreads dev-libs/libcdata dev-libs/libclocale dev-libs/libcnotify dev-libs/libcsplit dev-libs/libuna dev-libs/libcfile dev-libs/libcpath
+DESCRIPTION=Library for providing a basic file input/output abstraction layer
+EAPI=6
+HOMEPAGE=https://github.com/libyal/libbfio
+IUSE=nls unicode
+KEYWORDS=~amd64 ~hppa ~ppc ~x86
+LICENSE=LGPL-3
+RDEPEND=dev-libs/libcerror dev-libs/libcthreads dev-libs/libcdata dev-libs/libclocale dev-libs/libcnotify dev-libs/libcsplit dev-libs/libuna dev-libs/libcfile dev-libs/libcpath
+SLOT=0
+SRC_URI=https://github.com/libyal/libbfio/releases/download/20170123/libbfio-alpha-20170123.tar.gz
+_md5_=c4cf4bffc92fe27cc5f0614a86fcd185

@@ -1,0 +1,12 @@
+DEFINED_PHASES=configure
+DEPEND=dev-libs/libcerror dev-libs/libclocale dev-libs/libcnotify dev-libs/libuna dev-libs/libcstring
+DESCRIPTION=Library for cross-platform C locale functions
+EAPI=6
+HOMEPAGE=https://github.com/libyal/libcsystem
+IUSE=debug nls unicode
+KEYWORDS=~amd64 ~hppa ~ppc ~x86
+LICENSE=LGPL-3
+RDEPEND=dev-libs/libcerror dev-libs/libclocale dev-libs/libcnotify dev-libs/libuna dev-libs/libcstring
+SLOT=0
+SRC_URI=https://github.com/libyal/libcsystem/releases/download/20150629/libcsystem-alpha-20150629.tar.gz
+_md5_=e77705d18455322d92881f786c8c3793
