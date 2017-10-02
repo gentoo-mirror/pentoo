@@ -1,0 +1,13 @@
+DEFINED_PHASES=configure install prepare setup
+DEPEND=dev-python/wxpython:2.8 nmap? ( net-analyzer/nmap )
+DESCRIPTION=An enhanced HTTP URL Scanner and fuzzer
+EAPI=6
+HOMEPAGE=https://www.scrt.ch/en/attack/downloads/webshag
+IUSE=nmap python_targets_python2_7
+KEYWORDS=amd64 ~ppc x86 ~arm
+LICENSE=GPL-2
+RDEPEND=dev-python/wxpython:2.8 nmap? ( net-analyzer/nmap )
+SLOT=0
+SRC_URI=https://www.scrt.ch/outils/webshag/ws110.tar.gz
+_eclasses_=multilib	97f470f374f2e94ccab04a2fb21d811e	python-single-r1	317a2557b4d7319a7418225f65accf77	python-utils-r1	c9de01becf9df3f8c10aeec3dc693f5d	toolchain-funcs	185a06792159ca143528e7010368e8af
+_md5_=80ba7d9c07fae5dc046675d299e543bc

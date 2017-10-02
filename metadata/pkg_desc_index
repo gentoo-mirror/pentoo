@@ -31,11 +31,11 @@ app-forensics/dff 1.3.0-r8 1.3.6: A framework which aims to analyze and recover 
 app-forensics/dpapick 0.2_p20130826 0.3: Open-source tool that allows decryption of DPAPI structures in an offline way
 app-forensics/guymager 0.7.3-r1: Guymager is a fast and user friendly forensic imager.
 app-forensics/inception 0.4.1: Firewire physical memory manipulation tool exploiting IEEE 1394 SBP-2 DMA
-app-forensics/libbfio 20170123_alpha: Library for providing a basic file input/output abstraction layer
+app-forensics/libbfio 20170123: Library for providing a basic file input/output abstraction layer
 app-forensics/libewf 20170703: Implementation of the EWF (SMART and EnCase) image format
 app-forensics/libforensic1394 0.2 9999: Library for carrying out memory forensics using firewire/ieee1394.
 app-forensics/libpff 20161119: Library for accessing Personal Folder Files
-app-forensics/libvshadow 20170715_alpha: Library and tools to support the Volume Shadow Snapshot (VSS) format.
+app-forensics/libvshadow 20170902: Library and tools to support the Volume Shadow Snapshot (VSS) format.
 app-forensics/linen 61: Encase's linen utility
 app-forensics/make-pdf 0.1.4-r2: This tool will embed javascript inside a PDF document
 app-forensics/origami-pdf 1.2.6 2.0.1: A Ruby framework designed to parse, analyze, and forge PDF documents
@@ -97,34 +97,35 @@ dev-java/jgraphx 1.4.2.3 3.7.4: Open-source graph component for Java
 dev-java/msgpack 0.5.1 0.6.12: MessagePack for Java is a binary-based efficient object serialization library in Java.
 dev-java/sleep 2.1-r1: Duct Tape for the Java platform
 dev-libs/capstone 3.0.4-r2 4.0_alpha5-r1: disassembly/disassembler framework + bindings
-dev-libs/glib 2.48.2 2.50.3-r1: The GLib library of C routines
+dev-libs/glib 2.50.3-r1 2.52.3: The GLib library of C routines
 dev-libs/libcdata 20170102_alpha: Library for cross-platform C generic data functions
 dev-libs/libcdatetime 20170609_alpha: Library for cross-platform C date and time functions
 dev-libs/libcerror 20170101_beta: Library for cross-platform C error functions
 dev-libs/libcfile 20170105_alpha: Library for cross-platform C file functions
 dev-libs/libclocale 20170105_alpha: Library for cross-platform C locale functions
 dev-libs/libcnotify 20170311_beta: Library for cross-platform C notification functions
-dev-libs/libcpath 20170108_alpha: Library for cross-platform C path functions
+dev-libs/libcpath 20170108: Library for cross-platform C path functions
 dev-libs/libcsplit 20170311_beta: Library for cross-platform C split string functions
-dev-libs/libcstring 20150101_alpha: Library for cross-platform C string functions
-dev-libs/libcsystem 20150629_alpha: Library for cross-platform C locale functions
+dev-libs/libcstring 20150101: Library for cross-platform C string functions
+dev-libs/libcsystem 20150629: Library for cross-platform C locale functions
 dev-libs/libcthreads 20170101_alpha: Library for cross-platform C threads functions
 dev-libs/libdisasm 0.23: x86 Disassembler Library
-dev-libs/libfcache 20170111_alpha: Library for cross-platform C cache functions
-dev-libs/libfdata 20170112_alpha: Library for cross-platform C file data functions
+dev-libs/libfcache 20170111: Library for cross-platform C cache functions
+dev-libs/libfdata 20170112: Library for cross-platform C file data functions
 dev-libs/libfdatetime 20170112_alpha: Library for date and time formats
 dev-libs/libfguid 20170112_alpha: Library for GUID/UUID format
 dev-libs/libfmapi 20170112: Library for MAPI data types
 dev-libs/libfvalue 20170113: Library for generic file value functions
-dev-libs/libfwnt 20170115_alpha: Library for Windows NT data types
+dev-libs/libfwnt 20170115: Library for Windows NT data types
 dev-libs/libguytools2 2.0.1-r1 2.0.4: Library for guymager
 dev-libs/libhijack 0.6.1: Make injecting arbitrary code and other shared objects into another process during runtime easy
 dev-libs/libndef 1.1.3 1.2.0: a C++ library for NDEF specification
-dev-libs/libsmdev 20170225_alpha: Library to access to storage media device
+dev-libs/libsmdev 20170225: Library to access to storage media device
 dev-libs/libuna 20170112_alpha: Library to support Unicode and ASCII (byte string) conversions
 dev-libs/openssl-chacha 1.0.2_p20170706: Extra featured OpenSSL with ChaCha20 and Poly1305 support
 dev-libs/radare2-bindings 1.5.0 1.6.0-r1: Language bindings for radare2
-dev-libs/unicorn-bindings 0.9_p20160901: Unicorn bindings
+dev-libs/unicorn-bindings 0.9_p20160901 1.0.1: Unicorn bindings
+dev-perl/Encoding-BER 1.02: Perl module for encoding/decoding data using ASN.1 Basic Encoding Rules (BER)
 dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
 dev-perl/Tie-CharArray 1.00: Manipulate perl strings through tied array
 dev-php/evalhook 0.1: Decode/Deobfuscate PHP Scripts
@@ -148,19 +149,18 @@ dev-python/halberd 0.2.4-r1: HTTP load balancer detector
 dev-python/impacket 0.9.13 0.9.14 0.9.15 9999: A collection of Python classes focused on providing access to network packets
 dev-python/intervaltree 9999: Editable interval tree data structure for Python 2 and 3
 dev-python/isc_dhcp_leases 0.8.1: Small python module for reading /var/lib/dhcp/dhcpd.leases from isc-dhcp-server
-dev-python/jsbeautifier 1.6.4 1.6.14: Beautify, unpack or deobfuscate JavaScript
+dev-python/jsbeautifier 1.6.4 1.6.14 1.7.3: Beautify, unpack or deobfuscate JavaScript
 dev-python/kaitaistruct 0.6 0.7: Kaitai Struct runtime for Python
-dev-python/nassl 0.16.2 0.16.3: Experimental Python wrapper for OpenSSL
+dev-python/nassl 0.16.2 0.16.3 0.17.0: Experimental Python wrapper for OpenSSL
 dev-python/netfilterqueue 0.8.1: Python bindings for libnetfilter_queue
 dev-python/ntlm-auth 1.0.5: Create and parse NTLM authorisation tokens with all the latest standards
-dev-python/pefile 1.2.10_p139-r1 2016.3.28 2017.5.26: Module to read and work with Portable Executable (PE) files
+dev-python/pefile 2017.5.26 2017.9.3: Module to read and work with Portable Executable (PE) files
 dev-python/phply 0.9.1-r1 9999: Parser for PHP written using PLY
 dev-python/poster 0.8.1: Make HTTP POST/PUT with multipart/form-data encoding
 dev-python/pyFFTW 0.10.4 9999: A pythonic python wrapper around FFTW
 dev-python/pyaff4 9999: Python Advanced Forensic Format Version 4 library.
-dev-python/pyamf 0.6.2 0.6.2_p20150122: Action Message Format (AMF) support for Python including integration with mutliple frameworks
-dev-python/pyasn1 0.3.2: ASN.1 library for Python
-dev-python/pyasn1-modules 0.0.11: pyasn1 modules
+dev-python/pyasn1 0.3.2 0.3.6: ASN.1 library for Python
+dev-python/pyasn1-modules 0.0.11 0.1.4: pyasn1 modules
 dev-python/pybonjour 1.1.1: Python interface to Apple Bonjour and compatible DNS-SD libraries (Avahi)
 dev-python/pygtail 0.7.0: Reads log file lines that have not been read
 dev-python/pyinstaller 3.2: Program converting Python programs into stand-alone executables
@@ -169,7 +169,7 @@ dev-python/pyperclip 1.5.27: Cross-platform clipboard module
 dev-python/python-nmap 0.6.1: a python library which helps in using nmap port scanner
 dev-python/python-ntlm 1.1.0: Clamd is a python interface to Clamd (Clamav daemon)
 dev-python/python-owasp-zap-v2 0.0.9: OWASP ZAP Python API
-dev-python/python-registry 1.0.4: A pure Python module that provides read access to Windows Registry files
+dev-python/python-registry 1.0.4 1.2.0: A pure Python module that provides read access to Windows Registry files
 dev-python/qtpy 0.6.9 9999: Minimal Python 2 & 3 shim around all Qt bindings
 dev-python/requests-kerberos 0.11.0: A Kerberos authentication handler for python-requests
 dev-python/requests-ntlm 1.0.0: HTTP NTLM authentication using the requests library
@@ -186,7 +186,7 @@ dev-python/stopit 1.1.1: Timeout control decorator and context managers
 dev-python/symmetricjsonrpc 0.1.0: A more beautiful JSON-RPC implemenation in python
 dev-python/tblib 1.2.0: Traceback fiddling library
 dev-python/tld 0.7.8 0.7.9: Extract the top level domain (TLD) from the URL given
-dev-python/tls_parser 1.0.0: Small library to parse TLS records.
+dev-python/tls_parser 1.0.0 1.1.0: Small library to parse TLS records.
 dev-python/tre-python 0.8.0: Python bidings for TRE library
 dev-python/vulndb 0.0.19-r1: Python SDK to access the vulnerability database
 dev-python/yara-python 3.5.0 3.6.3: Python interface for a malware identification and classification tool
@@ -195,7 +195,7 @@ dev-ruby/activerecord-session_store 1.0.0-r1: An Action Dispatch session store b
 dev-ruby/arachni-reactor 0.1.0 0.1.1: A simple, lightweight, pure-Ruby implementation of the Reactor pattern
 dev-ruby/arachni-rpc 0.2.1.2 0.2.1.3: Arachni-RPC is a simple and lightweight Remote Procedure Call protocol
 dev-ruby/arachni-rpc-em 0.2: EventMachine-based client and server implementation of Arachni-RPC
-dev-ruby/async 0.17.1 1.0.0: Asynchronous I/O framework for Ruby based on nio4r and timers.
+dev-ruby/async 1.0.0 1.2.0: Asynchronous I/O framework for Ruby based on nio4r and timers.
 dev-ruby/async-dns 0.12.0 1.0.0: An asynchronous DNS resolver and server.
 dev-ruby/async-io 0.5.0 1.0.0: Asynchronous I/O framework for Ruby based on nio4r and timers.
 dev-ruby/cgi_multipart_eof_fix 2.5.0: Fix an exploitable bug in CGI multipart parsing.
@@ -245,7 +245,7 @@ dev-ruby/terminal-table 1.6.0 1.7.3: Simple, feature rich ascii table generation
 dev-ruby/unicode-display_width 1.2.1: Determines the monospace display width of a string using EastAsianWidth.txt, Unicode
 dev-ruby/watir-webdriver 0.8.0 0.9.9: WebDriver-backed Watir
 dev-ruby/xdr 2.0.0: Read/write XDR encoded data structures
-dev-util/apktool 2.2.3 2.2.4: A tool for reengineering 3rd party, closed, binary Android apps.
+dev-util/apktool 2.2.4 2.3.0: A tool for reengineering 3rd party, closed, binary Android apps.
 dev-util/ati-app-sdk-bin 2.9: AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream)
 dev-util/ati-stream-sdk-bin 2.01 2.2 2.3: Enable compiling code and loading it on ATI/AMD GPU
 dev-util/bokken 1.8-r1: GUI for the Pyew malware analysis and Radare the reverse engineering framework
@@ -261,7 +261,7 @@ dev-util/radare 1.5.2: Advanced command line hexadecimail editor and more
 dev-util/radare2 1.2.1 1.3.0 1.4.0 1.5.0 1.6.0: Advanced command line hexadecimal editor and more
 dev-util/soapui 5.2.0 5.3.0: The Swiss-Army Knife for SOAP Testing
 dev-util/sonarqube-bin 4.5 4.5.2: SonarQube is an open platform to manage code quality.
-dev-util/unicorn 0.9_p20160901 1.0.1-r2: A lightweight multi-platform, multi-architecture CPU emulator framework
+dev-util/unicorn 0.9_p20160901 1.0.1-r4: A lightweight multi-platform, multi-architecture CPU emulator framework
 dev-util/valabind 1.4.0: Valabind is a tool to parse vala or vapi files to transform them into swig files
 gnome-base/gnome-keyring 3.20.0 3.20.1: Password and keyring managing daemon
 gnome-base/libgnomeui 2.24.5-r4: User Interface routines for Gnome
@@ -272,7 +272,7 @@ net-analyzer/armitage 9999 20141129 20150813: Cyber Attack Management for Metasp
 net-analyzer/armitage-bin 20140818 20141120 20150813: Cyber Attack Management for Metasploit
 net-analyzer/arpantispoofer 1.0.1.32: An utility to detect and resist arp spoofing
 net-analyzer/autoscan-network 1.50: Utility for network exploration with Samba support.
-net-analyzer/bettercap 1.6.1: A complete, modular, portable and easily extensible MITM framework
+net-analyzer/bettercap 1.6.1 1.6.2: A complete, modular, portable and easily extensible MITM framework
 net-analyzer/blindelephant 9999: generic web application fingerprinter that produces results by examining a small set of static files
 net-analyzer/bonesi 9999: BoNeSi - the DDoS Botnet Simulator
 net-analyzer/cisco-auditing-tool 1: Perl script which scans cisco routers for common vulnerabilities.
@@ -330,7 +330,7 @@ net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
 net-analyzer/sslcat 1.0: netcat like application with ssl support
 net-analyzer/sslstrip 0.9-r2 0.9.2: sslstrip remove https and forwards http
 net-analyzer/ssltest 0.5: SSL testing tool written in perl
-net-analyzer/sslyze 1.1.0 1.1.1 1.1.2: Fast and full-featured SSL scanner
+net-analyzer/sslyze 1.1.4-r2: Fast and full-featured SSL scanner
 net-analyzer/subdomainer 1.3-r2: This script will search in Google, Msn.search and Yahoo for subdomains related to the target domain
 net-analyzer/thc-pptp-bruter 0.1.4: a brute force program that works against pptp vpn endpoints
 net-analyzer/thc-ssl-dos 1.4: THC-SSL-DOS is a tool to verify the performance of SSL servers
@@ -347,13 +347,13 @@ net-analyzer/wafw00f 0.9.4: Identifies and fingerprints Web Application Firewall
 net-analyzer/wapiti 2.3.0_p20141111 3.0.0_pre20170603: Web application security auditor
 net-analyzer/webshag 1.10: An enhanced HTTP URL Scanner and fuzzer
 net-analyzer/wfuzz 2.1.3 2.1.5: Wfuzz is a tool designed for bruteforcing Web Applications
-net-analyzer/whatweb 0.4.7-r5 0.4.7_p20160611 0.4.8_pre20161010: Next generation web scanner, identifies what software websites are running
+net-analyzer/whatweb 0.4.7-r5 0.4.7_p20160611 0.4.8_pre20161009: Next generation web scanner, identifies what software websites are running
 net-analyzer/wpscan 2.9.2-r3 2.9.3: Wordpress security scanner
 net-analyzer/xplico 1.1.0-r4 1.1.2: Extract data from TCP/IP traffic
 net-analyzer/zarp 0.1.8: Local network attack toolkit
 net-dialup/freeradius 2.2.5-r1: Highly configurable free RADIUS server
 net-dialup/minimodem 0.24: General-purpose software audio FSK modem.
-net-fs/afpfs-ng 0.8.1: a client for the Apple Filing Protocol
+net-fs/afpfs-ng 0.8.1 0.8.2: a client for the Apple Filing Protocol
 net-fs/winexe 1.0.0-r1 9999: remotely execute commands on Windows NT/2000/XP/2003 systems, with lmhash passthrough support
 net-im/jitsi-bin 2.8-r1: Secure IM communicator that supports SIP, XMPP, AIM/ICQ, Windows Live, Yahoo
 net-libs/libndpi 1.6 1.8: ntop-maintained superset of the popular OpenDPI library
@@ -376,11 +376,11 @@ net-misc/wireshark-sap-plugin 0.4.1 0.4.2 9999: Wireshark plugin for SAP's proto
 net-misc/wlan2eth 1.3: Wlan2eth is a tool that converts wlan pcap to ethernet-like frames.
 net-proxy/burpsuite 1.7.26: Interactive proxy for attacking and debugging web applications
 net-proxy/mallory 0.2.0_p20130109: An TCP/UDP transparent proxy that can be used to intercept network streams
-net-proxy/mitmproxy 1.0.2-r1 2.0.2-r2 9999: An interactive, SSL-capable, man-in-the-middle HTTP proxy
+net-proxy/mitmproxy 2.0.2-r4 9999: An interactive, SSL-capable, man-in-the-middle HTTP proxy
 net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal network via reverse connection
 net-proxy/proxenet 0.4.1: A hacker friendly proxy for web application penetration tests.
 net-proxy/proxenet-plugins 9999: Repository for proxenet plugins
-net-proxy/proxystrike 2.0 9999: A tool designed to find vulnerabilities while browsing an application
+net-proxy/proxystrike 2.0 2.2: A tool designed to find vulnerabilities while browsing an application
 net-proxy/redsocks 0.5 9999: Transparent redirector of any TCP connection to proxy
 net-proxy/sshttp 0.33: an easy to use OSI-Layer5 switching daemon
 net-proxy/zaproxy 2.5.0-r3 2.6.0: The OWASP Zed Attack Proxy for finding vulnerabilities in web applications
@@ -396,7 +396,7 @@ net-wireless/broadcom-firmware-installer 0.1-r3 0.2: Closed Broadcom Commercial 
 net-wireless/bt-audit 0.1.1-r1: A small bluetooth audit suite
 net-wireless/btle-sniffer 0.2: A BTLE (Bluetooth Low energy)/BT4.0 radio packet sniffer/scanner and sender
 net-wireless/btscanner 2.1-r4: A utility for bluetooth scanning and discovery
-net-wireless/bully 1.0.22 1.1: A wifi-protected-setup (WPS) brute force attack tool, similar to reaver
+net-wireless/bully 1.0.22 1.1 1.1_p20170417 1.1_p20170926: A wifi-protected-setup (WPS) brute force attack tool, similar to reaver
 net-wireless/compat-wireless 2.6.32.8 2.6.33-r1 2.6.34-r2 2.6.35-r1 2.6.36 2.6.37-r7 2.6.37-r8 2.6.38.2-r1 2.6.39-r1 3.0 3.1.1 3.2 3.2.5 3.3 3.3-r1 3.4_rc1 3.4_rc1-r1 3.4_rc3 3.5_rc3 3.5 3.5-r1 3.5.4 3.6_rc5 3.6_rc7 3.6.2 3.6.6 3.6.6-r1: Stable kernel pre-release wifi subsystem backport
 net-wireless/compat-wireless-builder 3.3.6 3.4_rc3 3.4_rc7: Stable kernel pre-release wifi subsystem backport
 net-wireless/cowpatty 4.3-r2 4.6-r4: WLAN tools for bruteforcing 802.11 WPA/WPA2 keys
@@ -404,7 +404,8 @@ net-wireless/crda 1.1.0-r1 1.1.1: Central Regulatory Domain Agent for wireless n
 net-wireless/dedected 9999: DECT Sniffer
 net-wireless/desknfc 9999: a KDE4 plasmoid which offer NFC content access
 net-wireless/dsd 1.6.0 9999: Digital Speech Decoder
-net-wireless/fern-wifi-cracker 2.2: Wireless tool for WEP/WPA cracking and WPS keys recovery
+net-wireless/eaphammer 9999: Targeted evil twin attacks against WPA2-Enterprise networks
+net-wireless/fern-wifi-cracker 2.2 2.6: Wireless tool for WEP/WPA cracking and WPS keys recovery
 net-wireless/gps-sdr-sim 9999: GPS Spoofing tool for transmit capable SDR's like the HackRF, bladeRF and USRP
 net-wireless/gr-acars2 9999: GNU Radio block for ACARS transmissions
 net-wireless/gr-air-modes 9999: This module implements a complete Mode S and ADS-B receiver for Gnuradio
@@ -441,7 +442,6 @@ net-wireless/nfcpy 0.10.2: A tool to read/write NFC tags or communicate with ano
 net-wireless/op25 9999: software-defined analyzer for APCO P25 signals
 net-wireless/pixiewps 1.1 1.2.2: Bruteforce offline the WPS pin exploiting the low or non-existing entropy
 net-wireless/qspectrumanalyzer 2.2.0 9999: vendor and platform neutral SDR support library
-net-wireless/reaver 1.4-r1 1.4-r2 1.4-r3: Brute force attack against Wifi Protected Setup
 net-wireless/reaver-wps-fork-t6x 1.6.1_p20170809: Utilise Pixie Dust Attack to find the correct WPS PIN.
 net-wireless/rfidler 0.01_p20160313: Software defined RFID (LF) Reader/Writer/Emulator
 net-wireless/rfidtool 0.01: command line rfid interface
@@ -463,7 +463,7 @@ net-wireless/wifite 2.85_p20150526-r1: An automated wireless attack tool
 net-wireless/wifite2 9999: An automated wireless attack tool, v2
 net-wireless/wireless-regdb 20090130-r1 20090309 20090817 20091125 20091125-r1: Binary regulatory database for CRDA
 pentoo/pentoo 2014.3-r1 2015.1: Pentoo meta ebuild to install all apps
-pentoo/pentoo-analyzer 2016.3 2016.4: Pentoo analyzers meta ebuild
+pentoo/pentoo-analyzer 2017.0: Pentoo analyzers meta ebuild
 pentoo/pentoo-bluetooth 2017.1: Pentoo bluetooth meta ebuild
 pentoo/pentoo-cinnamon 2012.0: Pentoo cinnamon meta ebuild
 pentoo/pentoo-cracking 2016.3-r2: Pentoo cracking meta ebuild
@@ -485,7 +485,7 @@ pentoo/pentoo-proxies 2017.1: Pentoo proxy meta ebuild
 pentoo/pentoo-radio 2017.0-r1: Radio tools for pentoo
 pentoo/pentoo-rce 2017.2: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2017.0: Pentoo scanner meta ebuild
-pentoo/pentoo-system 2017.2: Pentoo meta ebuild to install system
+pentoo/pentoo-system 2017.4: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2014.3: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2017.0: Pentoo wireless meta ebuild
 pentoo/tribe 2012.0: Tribe meta ebuild
@@ -504,7 +504,7 @@ sys-kernel/ax88179_178a 1.3.0 1.4.0: A kernel module for the ASIX USB 3.0 AX8817
 sys-kernel/chromeos-sources 9999: Linux kernel source for the Samsung Chromebook
 sys-kernel/compat-drivers 3.8-r1: Stable kernel pre-release wifi subsystem backport
 sys-kernel/genkernel 3.5.0.8 3.5.1.1 9999: Gentoo automatic kernel building scripts
-sys-kernel/minipli-sources 4.9.44: Unofficial forward ports of the last publicly available grsecurity patch (kernel series 4.9)
+sys-kernel/minipli-sources 4.9.44 4.9.50: Unofficial forward ports of the last publicly available grsecurity patch (kernel series 4.9)
 sys-kernel/odroid-sources 9999: Linux kernel source for the ODROID-[UX]2 products
 sys-kernel/odroidxu-sources 9999: Linux kernel source for the ODROIDXU products
 sys-kernel/pentoo-sources 4.0.8 4.4.2 4.4.8-r2 4.7.7 4.7.10 4.8.17-r2: Pentoo kernel sources (kernel series 4.8)
@@ -538,6 +538,7 @@ www-plugins/sqlite_manager 0.8.1 9999: Extension for Firefox and other apps to m
 www-plugins/user-agent-switcher 0.7.3-r4 9999: Adds a menu and a toolbar button to switch the user agent of firefox
 www-plugins/web_developer 1.2.5-r2 9999: Adds various web developer tools to firefox.
 www-plugins/xss-me 0.4.6-r4 9999: Firefox extension to test for reflected cross-site-scripting vulnerabilities.
+www-servers/uwsgi 2.0.15-r2: uWSGI server for Python web applications
 x11-misc/mkxf86config 0.9.10-r11 0.9.11-r1 0.9.11-r2 0.9.11-r3 0.9.11-r4: xorg-x11 configuration builder - used only on LiveCD
 x11-misc/toggle-touchpad 0.1: Toggles touchpads on/off. Supports Synaptics and Elantech touchpads
 x11-plugins/e_modules-itask-ng 9999: Itask NG Module for E17

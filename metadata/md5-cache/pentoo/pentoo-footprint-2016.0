@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=Pentoo footprint meta ebuild
+EAPI=5
+HOMEPAGE=http://www.pentoo.ch
+IUSE=minipentoo
+KEYWORDS=~amd64 ~arm ~x86
+LICENSE=GPL-3
+RDEPEND=net-analyzer/whatweb net-analyzer/wafw00f !minipentoo? ( net-analyzer/amap net-analyzer/blindelephant net-analyzer/fierce net-analyzer/geoedge net-analyzer/metagoofil net-analyzer/ntp-fingerprint net-analyzer/p0f net-analyzer/scanssh net-analyzer/siphon net-analyzer/smtpmap net-analyzer/subdomainer net-analyzer/theHarvester net-analyzer/wfuzz net-analyzer/xprobe )
+SLOT=0
+_md5_=f48b3ee4cb961a948ce950146ff2fe2a

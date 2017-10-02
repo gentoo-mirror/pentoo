@@ -61,3 +61,14 @@ sys-kernel/compat-drivers:injection - Add patches for better wifi injection supp
 sys-kernel/genkernel:crypt - Obsolete USE flag. Use cryptsetup for LUKS support. (bug ##414523)
 sys-kernel/genkernel:cryptsetup - Enable support for Luks disk encryption using sys-fs/cryptsetup
 sys-kernel/genkernel:firmware - Prefer system firmware sys-kernel/linux-firmware over local copy.
+www-servers/uwsgi:embedded - Embed plugins instead of building them as real plugins. When disabling this USE flag make sure you specify all used plugins in your uWSGI configuration. Note: Language plugins will always be built as real plugins.
+www-servers/uwsgi:go - Build the gccgo plugin to run Go applications.
+www-servers/uwsgi:jemalloc - Use dev-libs/jemalloc instead of libc's malloc
+www-servers/uwsgi:json - Support json as a configuration file format.
+www-servers/uwsgi:pypy - Build the pypy plugin to run your code using virtual/pypy.
+www-servers/uwsgi:python_asyncio - Use the EXPERIMENTAL asyncio (tulip) for python3.4 async request dispatching and as LoopEngine (see http://uwsgi-docs.readthedocs.org/en/latest/asyncio.html).
+www-servers/uwsgi:python_gevent - Use dev-python/gevent for async request dispatching and as LoopEngine (see http://projects.unbit.it/uwsgi/wiki/Gevent).
+www-servers/uwsgi:routing - Enable routing support
+www-servers/uwsgi:yajl - Use dev-libs/yajl instead of dev-libs/jansson for parsing JSON configuration files (if USe=json is set)
+www-servers/uwsgi:yaml - Support yaml as a configuration file format.
+www-servers/uwsgi:zeromq - Enable logging and deployment via ZeroMQ.

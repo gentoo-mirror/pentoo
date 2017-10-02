@@ -1,0 +1,8 @@
+DEFINED_PHASES=install setup
+DESCRIPTION=things needed by pentoo for livecd only
+EAPI=6
+IUSE=livecd
+KEYWORDS=~arm ~amd64 ~x86
+RDEPEND=!<pentoo/pentoo-system-2014.3-r4 livecd? ( pentoo/pentoo-installer app-misc/livecd-tools virtual/eject sys-apps/hwsetup sys-block/disktype x11-misc/mkxf86config sys-apps/gentoo-functions )
+SLOT=0
+_md5_=d59885d48c6e1d015eaac32f2b2c3296
