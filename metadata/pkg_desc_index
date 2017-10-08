@@ -493,6 +493,7 @@ sys-apps/become 1.0 1.0-r1: utility for changing the current real, effective or 
 sys-apps/magic-pax 0.0.1: 
 sys-auth/ykclient 2.15: Yubico C client library
 sys-boot/grub-static 0.97-r9 0.97-r10: GNU GRUB Legacy boot loader (static build)
+sys-devel/autofdo 0.16: System to simplify real-world deployment of feedback-directed optimization
 sys-devel/gcc-arm-embedded-bin 4.6_p20120316: Code Sourcery's CodeBench for ARM EABI
 sys-devel/sourcery-arm-gcc-bin 2011.03: Code Sourcery's CodeBench for ARM EABI
 sys-fs/ext4-crypt 9999: This is a userspace tool to manage encrypted ext4 directories since Linux kernel 4.1 introduced native encryption
