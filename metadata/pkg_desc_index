@@ -345,7 +345,7 @@ net-analyzer/wafp 9999: A webapplication fingerprinter written in ruby
 net-analyzer/wafw00f 0.9.4: Identifies and fingerprints Web Application Firewall (WAF) products
 net-analyzer/wapiti 2.3.0_p20141111 3.0.0_pre20170603: Web application security auditor
 net-analyzer/webshag 1.10: An enhanced HTTP URL Scanner and fuzzer
-net-analyzer/wfuzz 2.1.3 2.1.5: Wfuzz is a tool designed for bruteforcing Web Applications
+net-analyzer/wfuzz 2.1.5 2.2.3: Wfuzz is a tool designed for bruteforcing Web Applications
 net-analyzer/whatweb 0.4.7-r5 0.4.7_p20160611 0.4.8_pre20161009: Next generation web scanner, identifies what software websites are running
 net-analyzer/wpscan 2.9.2-r3 2.9.3: Wordpress security scanner
 net-analyzer/xplico 1.1.0-r4 1.1.2: Extract data from TCP/IP traffic
