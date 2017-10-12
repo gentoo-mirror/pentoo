@@ -225,7 +225,6 @@ dev-ruby/metasploit_payloads-mettle 0.1.10: Compiled binaries for Metasploit's n
 dev-ruby/mini_exiftool 2.5.1 2.8.0: wrapper for exiftool
 dev-ruby/mini_portile 0.5.3 0.6.2: Simplified way to compile against dependency libraries
 dev-ruby/mini_portile2 2.0.0 2.1.0: Simplistic port-like solution for developers
-dev-ruby/mongrel 1.1.5: A small fast HTTP library and server that runs Rails, Camping, Nitro and Iowa apps.
 dev-ruby/msfrpc-client 1.0.1: This gem provides a Ruby client API to access the Rapid7 Metasploit Pro RPC service
 dev-ruby/net-dns 0.8.0: Ruby DNS library, with a clean OO interface and an extensible API
 dev-ruby/oj 2.14.6: The fastest JSON parser and object serializer
