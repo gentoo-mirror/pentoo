@@ -505,7 +505,7 @@ sys-kernel/genkernel 3.5.0.8 3.5.1.1 9999: Gentoo automatic kernel building scri
 sys-kernel/minipli-sources 4.9.44 4.9.50 4.9.54: Unofficial forward ports of the last publicly available grsecurity patch (kernel series 4.9)
 sys-kernel/odroid-sources 9999: Linux kernel source for the ODROID-[UX]2 products
 sys-kernel/odroidxu-sources 9999: Linux kernel source for the ODROIDXU products
-sys-kernel/pentoo-sources 4.0.8 4.4.2 4.4.8-r2 4.7.7 4.7.10 4.8.17-r2: Pentoo kernel sources (kernel series 4.8)
+sys-kernel/pentoo-sources 4.0.8 4.4.2 4.4.8-r2 4.7.7 4.7.10 4.8.17-r2 4.9.24: Pentoo kernel sources (kernel series 4.9)
 sys-kernel/pf_ring-kmod 6.0.3 6.6.0: A new type of network socket that improves packet capture speed.
 sys-kernel/spl 0.6.5.8 0.6.5.9 0.6.5.11 0.7.0 0.7.1: The Solaris Porting Layer is a Linux kernel module which provides many of the Solaris kernel APIs
 sys-libs/libkudzu 1.2.85.1: Red Hat Hardware detection tools
