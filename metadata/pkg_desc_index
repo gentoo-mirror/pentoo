@@ -122,7 +122,7 @@ dev-libs/libndef 1.1.3 1.2.0: a C++ library for NDEF specification
 dev-libs/libsmdev 20170225: Library to access to storage media device
 dev-libs/libuna 20170112_alpha: Library to support Unicode and ASCII (byte string) conversions
 dev-libs/openssl-chacha 1.0.2_p20170706: Extra featured OpenSSL with ChaCha20 and Poly1305 support
-dev-libs/radare2-bindings 1.5.0 1.6.0-r1: Language bindings for radare2
+dev-libs/radare2-bindings 1.6.0-r1 2.0.0: Language bindings for radare2
 dev-libs/unicorn-bindings 0.9_p20160901 1.0.1: Unicorn bindings
 dev-perl/Encoding-BER 1.02: Perl module for encoding/decoding data using ASN.1 Basic Encoding Rules (BER)
 dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
@@ -256,7 +256,7 @@ dev-util/lida 03.00.00: interactive ELF disambler
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
 dev-util/pyew 2.0: Hexadecimal viewer and disassembler
 dev-util/radare 1.5.2: Advanced command line hexadecimail editor and more
-dev-util/radare2 1.2.1 1.3.0 1.4.0 1.5.0 1.6.0: Advanced command line hexadecimal editor and more
+dev-util/radare2 1.6.0 2.0.1-r1: unix-like reverse engineering framework and commandline tools
 dev-util/soapui 5.2.0 5.3.0: The Swiss-Army Knife for SOAP Testing
 dev-util/sonarqube-bin 4.5 4.5.2: SonarQube is an open platform to manage code quality.
 dev-util/unicorn 0.9_p20160901 1.0.1-r4: A lightweight multi-platform, multi-architecture CPU emulator framework
