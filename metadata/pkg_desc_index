@@ -46,7 +46,7 @@ app-forensics/reglookup 1.0.1-r1 9999: An utility for reading and querying Windo
 app-forensics/rekall-core 9999: Rekall Memory Forensic Framework
 app-forensics/rekall-gui 9999: Rekall Memory Forensic Framework
 app-forensics/samhain 4.1.4 4.2.2: Advanced file integrity and intrusion detection tool.
-app-forensics/sleuthkit 4.1.3: A collection of file system and media management forensic analysis tools
+app-forensics/sleuthkit 4.1.3-r1: A collection of file system and media management forensic analysis tools
 app-forensics/stegdetect 0.6 0.6-r1: A Steganography detector for JPEG
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
 app-forensics/volatility 2.5 2.6: Framework for analyzing volatile memory
