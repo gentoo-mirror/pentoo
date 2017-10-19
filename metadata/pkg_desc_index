@@ -483,7 +483,7 @@ pentoo/pentoo-proxies 2017.1: Pentoo proxy meta ebuild
 pentoo/pentoo-radio 2017.0-r1: Radio tools for pentoo
 pentoo/pentoo-rce 2017.2: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2017.0: Pentoo scanner meta ebuild
-pentoo/pentoo-system 2017.4-r1: Pentoo meta ebuild to install system
+pentoo/pentoo-system 2017.4-r2: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2014.3: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2017.2: Pentoo wireless meta ebuild
 pentoo/tribe 2012.0: Tribe meta ebuild
