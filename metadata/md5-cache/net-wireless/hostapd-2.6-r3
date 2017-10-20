@@ -11,4 +11,4 @@ REQUIRED_USE=^^ ( wpe karma_cli )
 SLOT=0
 SRC_URI=http://hostap.epitest.fi/releases/hostapd-2.6.tar.gz
 _eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	227b041a120d309fdefbebb3b8c1dfa9	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	systemd	34815d3b76e745c5ca33eec9f95074c2	toolchain-funcs	185a06792159ca143528e7010368e8af
-_md5_=6ec6b6c7fe1a1b8635491621085c30b0
+_md5_=8be3a04b7c05c78d5a2820d90bb84b48
