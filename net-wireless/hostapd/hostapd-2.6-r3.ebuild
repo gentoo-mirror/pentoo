@@ -243,3 +243,8 @@ pkg_postinst() {
 		einfo "for info on how to use WPS"
 	fi
 }
+
+pkg_config() {
+	cd /etc/hostapd-wpe/certs
+	emake -j1 all
+}
