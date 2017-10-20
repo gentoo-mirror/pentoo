@@ -234,6 +234,7 @@ dev-ruby/pg 0.20.0: Ruby extension library providing an API to PostgreSQL
 dev-ruby/pony 1.11: Send email in one command
 dev-ruby/puma 2.16.0 3.8.2: Puma is a simple, fast, threaded, and highly concurrent HTTP 1.1 server
 dev-ruby/rbnacl-libsodium 1.0.13: rbnacl with bundled libsodium
+dev-ruby/rex-arch 0.1.11: architecture specific information for Rex
 dev-ruby/rubydns 2.0.1: A tool to intercept and modify DNS requests
 dev-ruby/similar_text 0.0.4: Calculate the similarity between two strings
 dev-ruby/sinatra-contrib 1.4.6-r1 1.4.7: Collection of useful Sinatra extensions
@@ -300,7 +301,7 @@ net-analyzer/masscan 1.0.3-r4 1.0.4-r1: Mass IP port scanner
 net-analyzer/medusa 2.2-r1: A Modular,Parallel,Multiprotocol, Network Login Auditor
 net-analyzer/metacoretex-ng 9999: A nice, java-based, MYSQL/Oracle/MSSQL/ODBC attack framework
 net-analyzer/metagoofil 1.4b-r1: Metagoofil is an information gathering tool designed for extracting metadata of public documents
-net-analyzer/metasploit 4.14.28-r1 4.15.0 4.16.11: Advanced framework for developing, testing, and using vulnerability exploit code
+net-analyzer/metasploit 4.14.28-r1 4.15.0 4.16.11-r1: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/mosref 2.0_beta3: A secure remote execution framework using a compact Scheme-influenced VM
 net-analyzer/nacker 0.0.1_pre20130916: Bypass NAC by hijacking non-802.1x configurable hosts
 net-analyzer/nbtool 0.05_alpha2: Some tools for NetBIOS and DNS investigation, attacks, and communication
