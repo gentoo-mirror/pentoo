@@ -143,6 +143,7 @@ dev-python/dotty 9999: EFILTER Query Language
 dev-python/dpkt 1.9.1: fast, simple packet creation / parsing, with definitions for the basic TCP/IP protocols
 dev-python/editorconfig 0.12.1: EditorConfig File Locator and Interpreter for Python
 dev-python/esmre 0.3.1: Regular expression accelerator
+dev-python/frida-python 10.6.15: Inject JavaScript to explore native apps
 dev-python/guess-language 0.2: Guess the natural language of a text
 dev-python/halberd 0.2.4-r1: HTTP load balancer detector
 dev-python/impacket 0.9.13 0.9.14 0.9.15 9999: A collection of Python classes focused on providing access to network packets
@@ -478,7 +479,7 @@ pentoo/pentoo-installer 20140930 99999999: Installer for pentoo, based on the nc
 pentoo/pentoo-livecd 2017.3: things needed by pentoo for livecd only
 pentoo/pentoo-misc 2017.1: Pentoo misc meta ebuild
 pentoo/pentoo-mitm 2015.4: Pentoo mitm meta ebuild
-pentoo/pentoo-mobile 2013.0 2014.0 2014.1: Pentoo mobile meta ebuild
+pentoo/pentoo-mobile 2017.0: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2015.3: Collection of NFC tools
 pentoo/pentoo-proxies 2017.1: Pentoo proxy meta ebuild
 pentoo/pentoo-radio 2017.0-r1: Radio tools for pentoo
