@@ -130,7 +130,6 @@ dev-perl/Tie-CharArray 1.00: Manipulate perl strings through tied array
 dev-php/evalhook 0.1: Decode/Deobfuscate PHP Scripts
 dev-python/DartsPyLRU 0.5: LRU Dictionaries
 dev-python/PTP 0.3.0: Pentester's Tools Parser
-dev-python/PyGithub 1.21.0: Python library to access the Github API v3
 dev-python/PyVirtualDisplay 0.2 0.2.1: python wrapper for Xvfb, Xephyr and Xvnc
 dev-python/acora 9999: Fast multi-keyword search engine for text strings
 dev-python/brotlipy 0.6.0-r1: Python binding to the Brotli library
@@ -149,18 +148,18 @@ dev-python/halberd 0.2.4-r1: HTTP load balancer detector
 dev-python/impacket 0.9.13 0.9.14 0.9.15 9999: A collection of Python classes focused on providing access to network packets
 dev-python/intervaltree 9999: Editable interval tree data structure for Python 2 and 3
 dev-python/isc_dhcp_leases 0.8.1: Small python module for reading /var/lib/dhcp/dhcpd.leases from isc-dhcp-server
-dev-python/jsbeautifier 1.6.4 1.6.14 1.7.3: Beautify, unpack or deobfuscate JavaScript
+dev-python/jsbeautifier 1.6.14 1.7.3 1.7.4: Beautify, unpack or deobfuscate JavaScript
 dev-python/kaitaistruct 0.6 0.7: Kaitai Struct runtime for Python
 dev-python/nassl 0.16.2 0.16.3 0.17.0: Experimental Python wrapper for OpenSSL
 dev-python/netfilterqueue 0.8.1: Python bindings for libnetfilter_queue
-dev-python/ntlm-auth 1.0.5: Create and parse NTLM authorisation tokens with all the latest standards
+dev-python/ntlm-auth 1.0.5 1.0.6: Create and parse NTLM authorisation tokens with all the latest standards
 dev-python/pefile 2017.5.26 2017.9.3: Module to read and work with Portable Executable (PE) files
 dev-python/phply 0.9.1-r1 9999: Parser for PHP written using PLY
 dev-python/poster 0.8.1: Make HTTP POST/PUT with multipart/form-data encoding
 dev-python/pyFFTW 0.10.4 9999: A pythonic python wrapper around FFTW
 dev-python/pyaff4 9999: Python Advanced Forensic Format Version 4 library.
-dev-python/pyasn1 0.3.2 0.3.6: ASN.1 library for Python
-dev-python/pyasn1-modules 0.0.11 0.1.4: pyasn1 modules
+dev-python/pyasn1 0.3.2 0.3.6 0.3.7: ASN.1 library for Python
+dev-python/pyasn1-modules 0.0.11 0.1.4 0.1.5: pyasn1 modules
 dev-python/pybonjour 1.1.1: Python interface to Apple Bonjour and compatible DNS-SD libraries (Avahi)
 dev-python/pygtail 0.7.0: Reads log file lines that have not been read
 dev-python/pyinstaller 3.2: Program converting Python programs into stand-alone executables
