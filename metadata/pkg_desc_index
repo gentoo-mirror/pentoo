@@ -23,6 +23,7 @@ app-exploits/exploitdb 9999: All exploits from exploit-db.com
 app-exploits/osslsigncode 1.7.1_p20150831: OpenSSL-based signcode utility
 app-exploits/packetstormexploits 2012.13 2013.13 2014.13 2015.13 2016.13 2017.02: Archive of packetstorm exploits
 app-exploits/packetstormexploits-meta 2017: Meta ebuild of packetstorm exploits
+app-exploits/routersploit 9999: An open-source exploitation framework dedicated to embedded devices
 app-exploits/the-backdoor-factory 3.4.1 3.4.2: BDF allows to patch executable binaries with user desired shellcode
 app-exploits/weevely 3.4: Weevely is a stealth PHP web shell that simulate telnet-like console
 app-forensics/bulk_extractor 1.5.5: Scans a disk image, directory or file and extracts useful information
