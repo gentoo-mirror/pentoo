@@ -1,19 +1,19 @@
-# Copyright 1999-2015 Gentoo Foundation
+# Copyright 1999-2017 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header: $
 
-EAPI=5
+EAPI=6
 
 inherit mozilla-addon
 
-MOZ_ADDON_ID=722
+#https://services.addons.mozilla.org/en-US/firefox/api/1.5/addon/noscript
+MOZ_FILEID="754380"
 DESCRIPTION="Allow active content in firefox to run only from trusted sites."
 HOMEPAGE="http://noscript.net"
-SRC_URI="http://addons.mozilla.org/downloads/latest/${MOZ_ADDON_ID} -> ${P}.xpi"
+SRC_URI="https://addons.mozilla.org/downloads/file/${MOZ_FILEID} -> ${P}.xpi"
 
 LICENSE="GPL-2"
 SLOT="0"
-KEYWORDS=""
+KEYWORDS="amd64 x86"
 IUSE="+symlink_all_targets target_firefox target_seamonkey target_firefox-bin target_seamonkey-bin"
 
 RDEPEND="
@@ -30,14 +30,9 @@ src_install() {
 		MZA_TARGETS="firefox seamonkey firefox-bin seamonkey-bin"
 	else
 		use target_firefox && MZA_TARGETS+=" firefox"
-			use target_firefox-bin && MZA_TARGETS+=" firefox-bin"
+		use target_firefox-bin && MZA_TARGETS+=" firefox-bin"
 		use target_seamonkey && MZA_TARGETS+=" seamonkey"
 		use target_seamonkey-bin && MZA_TARGETS+=" seamonkey-bin"
 	fi
 	mozilla-addon_src_install
-}
-
-pkg_postinst() {
-	ewarn "This ebuild installs the latest STABLE version !"
-	ewarn "It is used by the maintainer to check for new versions ..."
 }
