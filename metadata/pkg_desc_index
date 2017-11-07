@@ -319,7 +319,7 @@ net-analyzer/polenum 0.2-r2: a python script for extracting the password policy 
 net-analyzer/ppscan 0.3: Port scanner with HTTP and FTP tunneling support
 net-analyzer/recon-ng 4.9.1 4.9.2 9999: Web Reconnaissance Framework
 net-analyzer/rpcapd 4.1.2: Remote packet capture daemon
-net-analyzer/scamper 20140530: A tool that actively probes the Internet in order to analyze topology and performance
+net-analyzer/scamper 20170822: Actively probes the Internet in order to analyze topology and performance
 net-analyzer/scapy 2.3.3-r1: A Python interactive packet manipulation program for mastering the network
 net-analyzer/sessionlist 1.0-r1: A HTTP packets sniffer
 net-analyzer/set 6.0-r1 9999: A social engineering framework
