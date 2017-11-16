@@ -40,8 +40,8 @@ app-forensics/libvshadow 20170902: Library and tools to support the Volume Shado
 app-forensics/linen 61: Encase's linen utility
 app-forensics/make-pdf 0.1.4-r2: This tool will embed javascript inside a PDF document
 app-forensics/origami-pdf 1.2.6 2.0.1: A Ruby framework designed to parse, analyze, and forge PDF documents
-app-forensics/pdf-parser 0.6.4 0.6.7: This tool will parse a PDF document to identify the fundamental elements used
-app-forensics/pdfid 0.2.1: This tool will scan a PDF document looking for certain keyword
+app-forensics/pdf-parser 0.6.8: This tool will parse a PDF document to identify the fundamental elements used
+app-forensics/pdfid 0.2.2: This tool will scan a PDF document looking for certain keyword
 app-forensics/rdd 3.0.4-r4: Rdd is a forensic copy program
 app-forensics/reglookup 1.0.1-r1 9999: An utility for reading and querying Windows NT/2K/XP registries
 app-forensics/rekall-core 9999: Rekall Memory Forensic Framework
