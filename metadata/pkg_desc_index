@@ -157,6 +157,7 @@ dev-python/ntlm-auth 1.0.5 1.0.6: Create and parse NTLM authorisation tokens wit
 dev-python/pefile 2017.5.26 2017.9.3: Module to read and work with Portable Executable (PE) files
 dev-python/phply 0.9.1-r1 9999: Parser for PHP written using PLY
 dev-python/poster 0.8.1: Make HTTP POST/PUT with multipart/form-data encoding
+dev-python/pyDes 2.0.1: Pure python implementation of DES and TRIPLE DES encryption algorithm
 dev-python/pyFFTW 0.10.4 9999: A pythonic python wrapper around FFTW
 dev-python/pyaff4 9999: Python Advanced Forensic Format Version 4 library.
 dev-python/pyasn1 0.3.2 0.3.6 0.3.7: ASN.1 library for Python
