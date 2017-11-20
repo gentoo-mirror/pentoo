@@ -265,7 +265,7 @@ dev-util/soapui 5.2.0 5.3.0: The Swiss-Army Knife for SOAP Testing
 dev-util/sonarqube-bin 4.5 4.5.2: SonarQube is an open platform to manage code quality.
 dev-util/unicorn 0.9_p20160901 1.0.1-r4: A lightweight multi-platform, multi-architecture CPU emulator framework
 dev-util/valabind 1.4.0: Valabind is a tool to parse vala or vapi files to transform them into swig files
-gnome-base/gnome-keyring 3.20.0 3.20.1: Password and keyring managing daemon
+gnome-base/gnome-keyring 3.20.1 3.27.2: Password and keyring managing daemon
 gnome-base/libgnomeui 2.24.5-r4: User Interface routines for Gnome
 kde-apps/okular-backend-mupdf 0.0.4-r1 0.0.5: Okular is a universal document viewer based on KPDF for KDE 4
 media-libs/mbelib 1.2.5 1.3.0 9999: P25 Phase 1 and ProVoice vocoder
@@ -532,7 +532,7 @@ www-plugins/hackbar 1.6.3 9999: Simple security audit / penetration test tool.
 www-plugins/hackplugins-meta 1.1-r1: Collection of browser's plugins for application security testing
 www-plugins/httpfox 0.8.14 9999: A HTTP analyzer addon for Firefox
 www-plugins/live-http-headers 0.17-r3 9999: View HTTP headers of a page and while browsing
-www-plugins/noscript 5.1.5: Allow active content in firefox to run only from trusted sites.
+www-plugins/noscript 5.1.7: Allow active content in firefox to run only from trusted sites.
 www-plugins/ringleader 0.3_pre20150914: FxPnH is a Firefox addon which makes it possible to use Firefox with Plug-n-Hack providers
 www-plugins/showip 2.7.7 9999: Firefox extensions which shows the IP address(es) of the current page in the status bar.
 www-plugins/sql-inject-me 0.4.7-r2 9999: SQL Inject Me is the Exploit-Me tool used to test for SQL Injection vulnerabilities.
