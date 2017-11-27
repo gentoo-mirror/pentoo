@@ -453,7 +453,7 @@ net-wireless/rx_tools 1.0.3 9999: rx_fm, rx_power, and rx_sdr tools for receivin
 net-wireless/ska 0.2: Fake Shared Key Authentication
 net-wireless/soapy_power 1.6.1-r1 9999: Obtain power spectrum from SoapySDR devices
 net-wireless/soapybladerf 0.3.2 0.3.3 9999: Soapy SDR plugin for the Blade RF
-net-wireless/soapyhackrf 0.2.2 0.3.1 9999: SoapySDR HackRF module
+net-wireless/soapyhackrf 0.2.2 0.3.1 0.3.2 9999: SoapySDR HackRF module
 net-wireless/soapyrtlsdr 0.2.2 0.2.4 9999: SoapySDR RTL-SDR Support Module
 net-wireless/soapysdr 0.5.4 0.6.0-r1 9999: vendor and platform neutral SDR support library
 net-wireless/soapyuhd 0.3.2 0.3.3 9999: Soapy SDR plugins for UHD supported SDR devices
