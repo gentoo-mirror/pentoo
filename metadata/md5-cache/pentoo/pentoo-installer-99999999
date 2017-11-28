@@ -6,5 +6,5 @@ HOMEPAGE=https://github.com/pentoo/pentoo-installer
 LICENSE=GPL-3
 PDEPEND=dev-util/dialog sys-apps/util-linux sys-block/parted sys-boot/efibootmgr || ( sys-boot/grub:0 sys-boot/grub-static:0 ) sys-boot/grub:2 sys-boot/os-prober sys-fs/squashfs-tools net-misc/rsync
 SLOT=0
-_eclasses_=git-r3	52a888802d25387c2c74cb845d1219bc
+_eclasses_=git-r3	fec09a83ae965b041b47f5ff7c8ba29a
 _md5_=bcc143e9c2f391ac111c0253e993f2e9
