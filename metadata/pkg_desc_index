@@ -464,7 +464,7 @@ net-wireless/wifite 2.85_p20150526-r1: An automated wireless attack tool
 net-wireless/wifite2 9999: An automated wireless attack tool, v2
 net-wireless/wireless-regdb 20090130-r1 20090309 20090817 20091125 20091125-r1: Binary regulatory database for CRDA
 pentoo/pentoo 2014.3-r1 2015.1: Pentoo meta ebuild to install all apps
-pentoo/pentoo-analyzer 2017.0: Pentoo analyzers meta ebuild
+pentoo/pentoo-analyzer 2017.3: Pentoo analyzers meta ebuild
 pentoo/pentoo-bluetooth 2017.1: Pentoo bluetooth meta ebuild
 pentoo/pentoo-cinnamon 2012.0: Pentoo cinnamon meta ebuild
 pentoo/pentoo-cracking 2016.3-r2: Pentoo cracking meta ebuild
