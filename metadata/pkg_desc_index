@@ -47,7 +47,7 @@ app-forensics/reglookup 1.0.1-r1 9999: An utility for reading and querying Windo
 app-forensics/rekall-core 9999: Rekall Memory Forensic Framework
 app-forensics/rekall-gui 9999: Rekall Memory Forensic Framework
 app-forensics/samhain 4.1.4 4.2.2: Advanced file integrity and intrusion detection tool.
-app-forensics/sleuthkit 4.1.3-r1: A collection of file system and media management forensic analysis tools
+app-forensics/sleuthkit 4.1.3-r1 4.5.0: A collection of file system and media management forensic analysis tools
 app-forensics/stegdetect 0.6 0.6-r1: A Steganography detector for JPEG
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
 app-forensics/volatility 2.5 2.6: Framework for analyzing volatile memory
@@ -151,7 +151,7 @@ dev-python/intervaltree 9999: Editable interval tree data structure for Python 2
 dev-python/isc_dhcp_leases 0.8.1: Small python module for reading /var/lib/dhcp/dhcpd.leases from isc-dhcp-server
 dev-python/jsbeautifier 1.6.14 1.7.4: Beautify, unpack or deobfuscate JavaScript
 dev-python/kaitaistruct 0.6 0.7: Kaitai Struct runtime for Python
-dev-python/nassl 0.16.3 0.17.0: Experimental Python wrapper for OpenSSL
+dev-python/nassl 0.16.3 0.17.0 1.0.1: Experimental Python wrapper for OpenSSL
 dev-python/netfilterqueue 0.8.1: Python bindings for libnetfilter_queue
 dev-python/ntlm-auth 1.0.5 1.0.6: Create and parse NTLM authorisation tokens with all the latest standards
 dev-python/pefile 2017.5.26 2017.9.3: Module to read and work with Portable Executable (PE) files
@@ -331,7 +331,7 @@ net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
 net-analyzer/sslcat 1.0: netcat like application with ssl support
 net-analyzer/sslstrip 0.9-r2 0.9.2: sslstrip remove https and forwards http
 net-analyzer/ssltest 0.5: SSL testing tool written in perl
-net-analyzer/sslyze 1.1.5: Fast and full-featured SSL scanner
+net-analyzer/sslyze 1.1.5 1.2.0: Fast and full-featured SSL scanner
 net-analyzer/subdomainer 1.3-r2: This script will search in Google, Msn.search and Yahoo for subdomains related to the target domain
 net-analyzer/thc-pptp-bruter 0.1.4: a brute force program that works against pptp vpn endpoints
 net-analyzer/thc-ssl-dos 1.4: THC-SSL-DOS is a tool to verify the performance of SSL servers
@@ -348,7 +348,7 @@ net-analyzer/wafw00f 0.9.4: Identifies and fingerprints Web Application Firewall
 net-analyzer/wapiti 2.3.0_p20141111 3.0.0_pre20170603: Web application security auditor
 net-analyzer/webshag 1.10: An enhanced HTTP URL Scanner and fuzzer
 net-analyzer/wfuzz 2.1.5 2.2.3: Wfuzz is a tool designed for bruteforcing Web Applications
-net-analyzer/whatweb 0.4.7-r5 0.4.7_p20160611 0.4.8_pre20161009: Next generation web scanner, identifies what software websites are running
+net-analyzer/whatweb 0.4.7-r5 0.4.7_p20160611 0.4.8_pre20161009 0.4.9: Next generation web scanner, identifies what software websites are running
 net-analyzer/wpscan 2.9.2-r3 2.9.3: Wordpress security scanner
 net-analyzer/xplico 1.1.2 1.2.0: Extract data from TCP/IP traffic
 net-analyzer/zarp 0.1.8: Local network attack toolkit
