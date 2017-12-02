@@ -1,0 +1,12 @@
+DEFINED_PHASES=install postinst prepare
+DESCRIPTION=The OWASP Zed Attack Proxy for finding vulnerabilities in web applications
+EAPI=5
+HOMEPAGE=https://github.com/zaproxy/zaproxy
+IUSE=+plugins
+KEYWORDS=x86 amd64
+LICENSE=Apache-2.0
+RDEPEND=|| ( virtual/jre virtual/jdk ) !virtual/jre:1.6 !virtual/jdk:1.6
+RESTRICT=mirror
+SLOT=0
+SRC_URI=https://github.com/zaproxy/zaproxy/releases/download/2.7.0/ZAP_2.7.0_Core.tar.gz plugins? ( https://github.com/zaproxy/zap-extensions/releases/download/2.7/ascanrules-release-28.zap -> zaproxy-2.7.0-ascanrules-release-28.zap https://github.com/zaproxy/zap-extensions/releases/download/2.7/pscanrules-release-21.zap -> zaproxy-2.7.0-pscanrules-release-21.zap https://github.com/zaproxy/zap-extensions/releases/download/2.7/bruteforce-beta-7.zap -> zaproxy-2.7.0-bruteforce-beta-7.zap https://github.com/zaproxy/zap-extensions/releases/download/2.7/scripts-beta-22.zap -> zaproxy-2.7.0-scripts-beta-22.zap https://github.com/zaproxy/zap-extensions/releases/download/2.7/diff-beta-8.zap -> zaproxy-2.7.0-diff-beta-8.zap https://github.com/zaproxy/zap-extensions/releases/download/2.7/websocket-release-14.zap -> zaproxy-2.7.0-websocket-release-14.zap https://github.com/zaproxy/zap-extensions/releases/download/2.7/quickstart-release-22.zap -> zaproxy-2.7.0-quickstart-release-22.zap https://github.com/zaproxy/zap-extensions/releases/download/2.7/selenium-release-13.zap -> zaproxy-2.7.0-selenium-release-13.zap https://github.com/zaproxy/zap-extensions/releases/download/2.7/zest-beta-26.zap -> zaproxy-2.7.0-zest-beta-26.zap https://github.com/zaproxy/zap-extensions/releases/download/2.7/invoke-beta-8.zap -> zaproxy-2.7.0-invoke-beta-8.zap https://github.com/zaproxy/zap-extensions/releases/download/2.7/fuzz-beta-10.zap -> zaproxy-2.7.0-fuzz-beta-10.zap )
+_md5_=6093da37b13dded281288568366bc82a
