@@ -407,6 +407,7 @@ net-wireless/dsd 1.6.0 9999: Digital Speech Decoder
 net-wireless/eaphammer 9999: Targeted evil twin attacks against WPA2-Enterprise networks
 net-wireless/fern-wifi-cracker 2.2 2.6: Wireless tool for WEP/WPA cracking and WPS keys recovery
 net-wireless/gps-sdr-sim 9999: GPS Spoofing tool for transmit capable SDR's like the HackRF, bladeRF and USRP
+net-wireless/gqrx 2.9: Software defined radio receiver powered by GNU Radio and Qt
 net-wireless/gr-acars2 9999: GNU Radio block for ACARS transmissions
 net-wireless/gr-air-modes 9999: This module implements a complete Mode S and ADS-B receiver for Gnuradio
 net-wireless/gr-ais 9999: GNU Radio block that decodes Automatic Information System for shipborne position reporting

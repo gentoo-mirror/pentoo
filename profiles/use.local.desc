@@ -25,6 +25,7 @@ net-libs/libtins:cxx11 - C++11 support
 net-libs/libtins:dot11 - IEEE 802.11 support
 net-libs/libtins:wpa2 - WPA2 decryption support
 net-wireless/compat-wireless:injection - Add patches for better wifi injection support
+net-wireless/gqrx:gr-audio - Use audio support from net-wireless/gnuradio
 net-wireless/hostapd:debug - Enables debugging
 net-wireless/hostapd:logwatch - Install support files for sys-app/logwatch
 net-wireless/hostapd:madwifi - Add support for madwifi (Atheros chipset)
