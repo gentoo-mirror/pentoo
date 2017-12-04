@@ -324,7 +324,7 @@ net-analyzer/scamper 20170822: Actively probes the Internet in order to analyze 
 net-analyzer/scapy 2.3.3-r1: A Python interactive packet manipulation program for mastering the network
 net-analyzer/sessionlist 1.0-r1: A HTTP packets sniffer
 net-analyzer/set 6.0-r1 9999: A social engineering framework
-net-analyzer/sipvicious 0.2.8-r3: A voip pentest tools suite
+net-analyzer/sipvicious 0.2.8-r4: A voip pentest tools suite
 net-analyzer/smtpmap 0.8.234_beta: a very complete and well done fingerprinter for SMTP, FTP and POP3 fingerprinter
 net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
 net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
