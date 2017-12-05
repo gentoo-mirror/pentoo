@@ -261,7 +261,7 @@ dev-util/memfetch 0.05b: A simple utility to dump all memory of a running proces
 dev-util/pyew 2.0: Hexadecimal viewer and disassembler
 dev-util/radare 1.5.2: Advanced command line hexadecimail editor and more
 dev-util/radare2 1.6.0 2.0.1-r1: unix-like reverse engineering framework and commandline tools
-dev-util/soapui 5.2.0 5.3.0: The Swiss-Army Knife for SOAP Testing
+dev-util/soapui 5.2.0 5.3.0 5.4.0: The Swiss-Army Knife for SOAP Testing
 dev-util/sonarqube-bin 4.5 4.5.2: SonarQube is an open platform to manage code quality.
 dev-util/unicorn 0.9_p20160901 1.0.1-r4: A lightweight multi-platform, multi-architecture CPU emulator framework
 dev-util/valabind 1.4.0: Valabind is a tool to parse vala or vapi files to transform them into swig files
@@ -320,7 +320,7 @@ net-analyzer/polenum 0.2-r2: a python script for extracting the password policy 
 net-analyzer/ppscan 0.3: Port scanner with HTTP and FTP tunneling support
 net-analyzer/recon-ng 4.9.1 4.9.2 9999: Web Reconnaissance Framework
 net-analyzer/rpcapd 4.1.2: Remote packet capture daemon
-net-analyzer/scamper 20170822: Actively probes the Internet in order to analyze topology and performance
+net-analyzer/scamper 20170822 20171204: Actively probes the Internet in order to analyze topology and performance
 net-analyzer/scapy 2.3.3-r1: A Python interactive packet manipulation program for mastering the network
 net-analyzer/sessionlist 1.0-r1: A HTTP packets sniffer
 net-analyzer/set 6.0-r1 9999: A social engineering framework
