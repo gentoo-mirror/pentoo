@@ -441,7 +441,7 @@ net-wireless/morse2txt 1.0.0: Morse code decoder
 net-wireless/n4p 2.2-r2: Comprehensive Wireless and Network packet based hacking framework.Compare to Metasploit
 net-wireless/nfcpy 0.10.2: A tool to read/write NFC tags or communicate with another NFC device
 net-wireless/op25 9999: software-defined analyzer for APCO P25 signals
-net-wireless/pixiewps 1.2.2 1.3: Bruteforce offline the WPS pin exploiting the low or non-existing entropy
+net-wireless/pixiewps 1.3 1.4.1: Bruteforce offline the WPS pin exploiting the low or non-existing entropy
 net-wireless/qspectrumanalyzer 2.2.0 9999: vendor and platform neutral SDR support library
 net-wireless/reaver-wps-fork-t6x 1.6.1_p20170809 1.6.3: Utilise Pixie Dust Attack to find the correct WPS PIN.
 net-wireless/rfidler 0.01_p20160313: Software defined RFID (LF) Reader/Writer/Emulator
