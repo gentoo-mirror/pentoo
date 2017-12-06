@@ -72,6 +72,7 @@ app-misc/ROPgadget 5.4: Tool to search for gadgets in binaries to facilitate you
 app-misc/binwalk 2.1.1-r1: A tool for identifying files embedded inside firmware images
 app-misc/dradis 2.5.2 2.5.2-r1: A framework for effective information sharing
 app-misc/freediag 1.08: Free diagnostic software for OBD-II compliant motor vehicles
+app-misc/gplaycli 3.11: Google Play Downloader via Command line
 app-misc/libmsr 9999: 
 app-misc/livecd-tools 2.3: Gentoo LiveCD tools for autoconfiguration of hardware
 app-misc/openobd 0.5.0: OBD-II Scan Tool supporting ELM327 devices
@@ -144,6 +145,7 @@ dev-python/dpkt 1.9.1: fast, simple packet creation / parsing, with definitions 
 dev-python/editorconfig 0.12.1-r1: EditorConfig File Locator and Interpreter for Python
 dev-python/esmre 0.3.1: Regular expression accelerator
 dev-python/frida-python 10.6.15: Inject JavaScript to explore native apps
+dev-python/gpapi 0.3.1: Unofficial python api for google play
 dev-python/guess-language 0.2: Guess the natural language of a text
 dev-python/halberd 0.2.4-r1: HTTP load balancer detector
 dev-python/impacket 0.9.13 0.9.14 0.9.15 9999: A collection of Python classes focused on providing access to network packets
@@ -162,6 +164,7 @@ dev-python/pyFFTW 0.10.4 9999: A pythonic python wrapper around FFTW
 dev-python/pyaff4 9999: Python Advanced Forensic Format Version 4 library.
 dev-python/pyasn1 0.3.2 0.3.6 0.3.7: ASN.1 library for Python
 dev-python/pyasn1-modules 0.0.11 0.1.4 0.1.5: pyasn1 modules
+dev-python/pyaxmlparser 0.3.7: Parser for Android XML file and get Application Name without using Androguard
 dev-python/pybonjour 1.1.1: Python interface to Apple Bonjour and compatible DNS-SD libraries (Avahi)
 dev-python/pygtail 0.7.0: Reads log file lines that have not been read
 dev-python/pyinstaller 3.2: Program converting Python programs into stand-alone executables
