@@ -293,7 +293,7 @@ net-analyzer/dripcap-bin 0.6.15: Caffeinated Modern Packet Analyzer
 net-analyzer/dsniff 2.4_beta1-r10: A collection of tools for network auditing and penetration testing
 net-analyzer/enum4linux 0.8.7 0.8.8 0.8.9 0.8.9-r1: a tool for enumerating information from Windows and Samba systems
 net-analyzer/evilgrade 2.0.0 2.0.6: A modular framework that takes advantage of poor upgrade implementations by injecting fake updates.
-net-analyzer/fierce 1.0.3: Fierce is a DNS reconnaissance tool written in perl
+net-analyzer/fierce 1.0.3 1.2.0: Fierce is a DNS reconnaissance tool written in perl
 net-analyzer/geoedge 0.2-r2: This little tools is designed to get geolocalization information of a host
 net-analyzer/geoipgen 0.4: Generate a list of hostnames based on country
 net-analyzer/httprint 301: HTTP fingerprinter tool
