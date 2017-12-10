@@ -41,7 +41,7 @@ app-forensics/linen 61: Encase's linen utility
 app-forensics/make-pdf 0.1.4-r2 0.1.7: This tool will embed javascript inside a PDF document
 app-forensics/origami-pdf 1.2.6 2.0.1: A Ruby framework designed to parse, analyze, and forge PDF documents
 app-forensics/pdf-parser 0.6.8: This tool will parse a PDF document to identify the fundamental elements used
-app-forensics/pdfid 0.2.2: This tool will scan a PDF document looking for certain keyword
+app-forensics/pdfid 0.2.2 0.2.3: This tool will scan a PDF document looking for certain keyword
 app-forensics/rdd 3.0.4-r4: Rdd is a forensic copy program
 app-forensics/reglookup 1.0.1-r1 9999: An utility for reading and querying Windows NT/2K/XP registries
 app-forensics/rekall-core 9999: Rekall Memory Forensic Framework
@@ -319,7 +319,7 @@ net-analyzer/owtf 2.0a-r2: The Offensive Web Testing Framework
 net-analyzer/packet-o-matic 9999: packet-o-matic is a real time packet processor
 net-analyzer/padbuster 20110928: Automated script for performing Padding Oracle attacks
 net-analyzer/plecost 9999: Wordpress finger printing tool, retrieve information about the plugins and versions installed
-net-analyzer/polenum 0.2-r2: a python script for extracting the password policy information from a Windows/Samba machine.
+net-analyzer/polenum 0.2-r2 1.4: Extract password policy from a windows machine
 net-analyzer/ppscan 0.3: Port scanner with HTTP and FTP tunneling support
 net-analyzer/recon-ng 4.9.1 4.9.2 9999: Web Reconnaissance Framework
 net-analyzer/rpcapd 4.1.2: Remote packet capture daemon
