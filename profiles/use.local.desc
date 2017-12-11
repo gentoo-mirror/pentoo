@@ -30,6 +30,9 @@ net-wireless/hostapd:debug - Enables debugging
 net-wireless/hostapd:logwatch - Install support files for sys-app/logwatch
 net-wireless/hostapd:madwifi - Add support for madwifi (Atheros chipset)
 net-wireless/hostapd:wps - Add support for Wi-Fi Protected Setup
+net-wireless/urh:hackrf - use native backend which directly uses net-libs/libhackrf
+net-wireless/urh:rtlsdr - use native backend which directly uses net-wireless/rtl-sdr
+net-wireless/urh:uhd - use native backend which directly uses net-wireless/uhd
 sys-kernel/compat-drivers:build-all-modules - Bypass any filtering of the modules and build them all. Use only when no other flag works!
 sys-kernel/compat-drivers:compat_drivers_ethernet_alx - COMPAT_DRIVERS_ETHERNET setting to build driver for alx ethernet cards
 sys-kernel/compat-drivers:compat_drivers_ethernet_atl1 - COMPAT_DRIVERS_ETHERNET setting to build driver for atl1 ethernet cards
