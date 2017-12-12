@@ -258,6 +258,7 @@ dev-util/calpp 0.90-r1: A library for efficient use of ATI CAL with C++
 dev-util/collabreate 0.4.0_p20140528: A plugin for IDA Pro designed to provide collaborative reverse engineering
 dev-util/dex2jar 2.1_pre20150601: Tools to work with android .dex and java .class files
 dev-util/emilpro 3_p20170708: Graphical disassembler for a large number of instruction sets
+dev-util/jadx-bin 0.6.1: A standalone graphical utility that displays Java source codes of .class file
 dev-util/jd-gui-bin 0.3.5-r1 1.4.0: A standalone graphical utility that displays Java source codes of .class file
 dev-util/lida 03.00.00: interactive ELF disambler
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
@@ -485,7 +486,7 @@ pentoo/pentoo-installer 20140930 99999999: Installer for pentoo, based on the nc
 pentoo/pentoo-livecd 2017.3: things needed by pentoo for livecd only
 pentoo/pentoo-misc 2017.1: Pentoo misc meta ebuild
 pentoo/pentoo-mitm 2015.4: Pentoo mitm meta ebuild
-pentoo/pentoo-mobile 2017.0: Pentoo mobile meta ebuild
+pentoo/pentoo-mobile 2017.1: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2015.3: Collection of NFC tools
 pentoo/pentoo-proxies 2017.1: Pentoo proxy meta ebuild
 pentoo/pentoo-radio 2017.0-r1: Radio tools for pentoo
