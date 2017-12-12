@@ -46,7 +46,7 @@ app-forensics/rdd 3.0.4-r4: Rdd is a forensic copy program
 app-forensics/reglookup 1.0.1-r1 9999: An utility for reading and querying Windows NT/2K/XP registries
 app-forensics/rekall-core 9999: Rekall Memory Forensic Framework
 app-forensics/rekall-gui 9999: Rekall Memory Forensic Framework
-app-forensics/samhain 4.1.4 4.2.2: Advanced file integrity and intrusion detection tool.
+app-forensics/samhain 4.2.2 4.2.3: Advanced file integrity and intrusion detection tool.
 app-forensics/sleuthkit 4.1.3-r1 4.5.0: A collection of file system and media management forensic analysis tools
 app-forensics/stegdetect 0.6 0.6-r1: A Steganography detector for JPEG
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
