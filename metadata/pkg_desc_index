@@ -72,7 +72,7 @@ app-misc/ROPgadget 5.4: Tool to search for gadgets in binaries to facilitate you
 app-misc/binwalk 2.1.1-r1: A tool for identifying files embedded inside firmware images
 app-misc/dradis 2.5.2 2.5.2-r1: A framework for effective information sharing
 app-misc/freediag 1.08: Free diagnostic software for OBD-II compliant motor vehicles
-app-misc/gplaycli 3.11: Google Play Downloader via Command line
+app-misc/gplaycli 3.12: Google Play Downloader via Command line
 app-misc/libmsr 9999: 
 app-misc/livecd-tools 2.3: Gentoo LiveCD tools for autoconfiguration of hardware
 app-misc/openobd 0.5.0: OBD-II Scan Tool supporting ELM327 devices
