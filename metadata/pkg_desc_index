@@ -119,7 +119,6 @@ dev-libs/libfmapi 20170112: Library for MAPI data types
 dev-libs/libfvalue 20170113: Library for generic file value functions
 dev-libs/libfwnt 20170115: Library for Windows NT data types
 dev-libs/libguytools2 2.0.1-r1 2.0.4: Library for guymager
-dev-libs/libhijack 0.6.1: Make injecting arbitrary code and other shared objects into another process during runtime easy
 dev-libs/libndef 1.1.3 1.2.0: a C++ library for NDEF specification
 dev-libs/libsmdev 20170225 20171112: Library to access to storage media device
 dev-libs/libuna 20170112_alpha: Library to support Unicode and ASCII (byte string) conversions
