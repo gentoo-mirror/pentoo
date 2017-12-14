@@ -138,7 +138,13 @@ dev-python/capstone-python 3.0.4 4.0_alpha5-r1: A lightweight multi-platform, mu
 dev-python/clamd 1.0.2: Clamd is a python interface to Clamd (Clamav daemon)
 dev-python/config 0.3.9-r1: This module allows a hierarchical configuration scheme with support for mappings and sequences
 dev-python/construct 2.8.10: Construct is a powerful declarative parser (and builder) for binary data
+dev-python/coreapi 2.3.3: Python client library for Core API
+dev-python/coreschema 0.0.4: Core Schema
 dev-python/cxoracle 5.3: Python extension module that allows access to Oracle Databases
+dev-python/django-filter 0.15.3: A generic system for filtering Django QuerySets based on user selections
+dev-python/django-guardian 1.4.3: Implementation of per object permissions for Django 1.2+
+dev-python/django-oauth-toolkit 1.0.0: OAuth2 goodies for the Djangonauts
+dev-python/django-rest-framework 3.7.3: Powerful and flexible toolkit that makes it easy to build Web APIs using Django
 dev-python/dotty 9999: EFILTER Query Language
 dev-python/dpkt 1.9.1: fast, simple packet creation / parsing, with definitions for the basic TCP/IP protocols
 dev-python/editorconfig 0.12.1-r1: EditorConfig File Locator and Interpreter for Python
@@ -150,6 +156,7 @@ dev-python/halberd 0.2.4-r1: HTTP load balancer detector
 dev-python/impacket 0.9.13 0.9.14 0.9.15 9999: A collection of Python classes focused on providing access to network packets
 dev-python/intervaltree 9999: Editable interval tree data structure for Python 2 and 3
 dev-python/isc_dhcp_leases 0.8.1: Small python module for reading /var/lib/dhcp/dhcpd.leases from isc-dhcp-server
+dev-python/itypes 1.1.0: Simple immutable types for python
 dev-python/jsbeautifier 1.6.14 1.7.4: Beautify, unpack or deobfuscate JavaScript
 dev-python/kaitaistruct 0.6 0.7: Kaitai Struct runtime for Python
 dev-python/nassl 0.16.3 0.17.0 1.0.1: Experimental Python wrapper for OpenSSL
@@ -171,6 +178,7 @@ dev-python/pynetfilter_conntrack 0.4.2: Python binding of libnetfilter_conntrack
 dev-python/pyperclip 1.5.27: Cross-platform clipboard module
 dev-python/python-nmap 0.6.1: a python library which helps in using nmap port scanner
 dev-python/python-ntlm 1.1.0: Clamd is a python interface to Clamd (Clamav daemon)
+dev-python/python-oauth2 1.0.1: OAuth 2.0 provider for python
 dev-python/python-owasp-zap-v2 0.0.9: OWASP ZAP Python API
 dev-python/python-registry 1.2.0: A pure Python module that provides read access to Windows Registry files
 dev-python/qtpy 0.6.9 9999: Minimal Python 2 & 3 shim around all Qt bindings
@@ -525,6 +533,7 @@ virtual/linux-sources 1-r1 3-r1: Virtual for Linux kernel sources
 virtual/opencl 0-r4: Virtual for OpenCL implementations
 virtual/pkgconfig 0: Virtual for the pkg-config implementation
 virtual/python-scapy 1: A virtual for scapy, for Python 2 & 3
+www-apps/Tiredful-API 9999: An intentionally designed broken web application based on REST API
 www-apps/arachni 1.4: Arachni is a feature-full web application scanner
 www-apps/beef 0.4.6.1: Browser exploitation framework
 www-apps/rda 2.1: Web-based application for effective reporting writing
