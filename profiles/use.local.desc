@@ -15,53 +15,8 @@ dev-libs/openssl-chacha:rfc3779 - Enable support for RFC 3779 (X.509 Extensions 
 dev-libs/openssl-chacha:sslv2 - Support for the old/insecure SSLv2 protocol -- note: not required for TLS/https
 dev-libs/openssl-chacha:sslv3 - Support for the old/insecure SSLv3 protocol -- note: not required for TLS/https
 dev-libs/openssl-chacha:tls-heartbeat - Enable the Heartbeat Extension in TLS and DTLS
-net-analyzer/metasploit:development - Install dependencies needed for metasploit and exploit development
-net-analyzer/metasploit:nexpose - Enable the plugin to integrate with nexpose
-net-analyzer/metasploit:openvas - Enable the plugin to integrate net-analyzer/openvas
-net-analyzer/metasploit:oracle - Enable restricted oracle modules which have additional deps
-net-analyzer/metasploit:pcap - Enable libpcap for packet sniffing
-net-libs/libtins:ack-tracker - TCP ACK tracking support
-net-libs/libtins:cxx11 - C++11 support
-net-libs/libtins:dot11 - IEEE 802.11 support
-net-libs/libtins:wpa2 - WPA2 decryption support
 net-wireless/compat-wireless:injection - Add patches for better wifi injection support
-net-wireless/gqrx:gr-audio - Use audio support from net-wireless/gnuradio
 net-wireless/hostapd:debug - Enables debugging
 net-wireless/hostapd:logwatch - Install support files for sys-app/logwatch
 net-wireless/hostapd:madwifi - Add support for madwifi (Atheros chipset)
 net-wireless/hostapd:wps - Add support for Wi-Fi Protected Setup
-net-wireless/urh:hackrf - use native backend which directly uses net-libs/libhackrf
-net-wireless/urh:rtlsdr - use native backend which directly uses net-wireless/rtl-sdr
-net-wireless/urh:uhd - use native backend which directly uses net-wireless/uhd
-sys-kernel/compat-drivers:build-all-modules - Bypass any filtering of the modules and build them all. Use only when no other flag works!
-sys-kernel/compat-drivers:compat_drivers_ethernet_alx - COMPAT_DRIVERS_ETHERNET setting to build driver for alx ethernet cards
-sys-kernel/compat-drivers:compat_drivers_ethernet_atl1 - COMPAT_DRIVERS_ETHERNET setting to build driver for atl1 ethernet cards
-sys-kernel/compat-drivers:compat_drivers_ethernet_atl1c - COMPAT_DRIVERS_ETHERNET setting to build driver for atl1c ethernet cards
-sys-kernel/compat-drivers:compat_drivers_ethernet_atl1e - COMPAT_DRIVERS_ETHERNET setting to build driver for atl1e ethernet cards
-sys-kernel/compat-drivers:compat_drivers_ethernet_atl2 - COMPAT_DRIVERS_ETHERNET setting to build driver for atl2 ethernet cards
-sys-kernel/compat-drivers:compat_drivers_ethernet_atlxx - COMPAT_DRIVERS_ETHERNET setting to build driver for atlxx ethernet cards
-sys-kernel/compat-drivers:compat_drivers_various_bt - COMPAT_DRIVERS_VARIOUS setting to build driver for bluetooth devices
-sys-kernel/compat-drivers:compat_drivers_various_drm - COMPAT_DRIVERS_VARIOUS setting to build driver for drm devices
-sys-kernel/compat-drivers:compat_drivers_various_i915 - COMPAT_DRIVERS_VARIOUS setting to build driver for i915 devices
-sys-kernel/compat-drivers:compat_drivers_various_staging - COMPAT_DRIVERS_VARIOUS setting to build driver for staging devices
-sys-kernel/compat-drivers:compat_drivers_various_usbnet - COMPAT_DRIVERS_VARIOUS setting to build driver for usbnet devices
-sys-kernel/compat-drivers:compat_drivers_wifi_ath5k - COMPAT_DRIVERS_WIFI setting to build driver for ath5k wireless cards
-sys-kernel/compat-drivers:compat_drivers_wifi_ath6kl - COMPAT_DRIVERS_WIFI setting to build driver for ath6kl wireless cards
-sys-kernel/compat-drivers:compat_drivers_wifi_ath9k - COMPAT_DRIVERS_WIFI setting to build driver for ath9k wireless cards
-sys-kernel/compat-drivers:compat_drivers_wifi_ath9k_ap - COMPAT_DRIVERS_WIFI setting to build driver for ath9k_ap wireless cards
-sys-kernel/compat-drivers:compat_drivers_wifi_ath9k_htc - COMPAT_DRIVERS_WIFI setting to build driver for ath9k_htc wireless cards
-sys-kernel/compat-drivers:compat_drivers_wifi_b43 - COMPAT_DRIVERS_WIFI setting to build driver for b43 wireless cards
-sys-kernel/compat-drivers:compat_drivers_wifi_b44 - COMPAT_DRIVERS_WIFI setting to build driver for b44 wireless cards
-sys-kernel/compat-drivers:compat_drivers_wifi_brcmfmac - COMPAT_DRIVERS_WIFI setting to build driver for brcmfmac wireless cards
-sys-kernel/compat-drivers:compat_drivers_wifi_brcmsmac - COMPAT_DRIVERS_WIFI setting to build driver for brcmsmac wireless cards
-sys-kernel/compat-drivers:compat_drivers_wifi_carl9170 - COMPAT_DRIVERS_WIFI setting to build driver for carl9170 wireless cards
-sys-kernel/compat-drivers:compat_drivers_wifi_rt2x00 - COMPAT_DRIVERS_WIFI setting to build driver for rt2x00 wireless cards
-sys-kernel/compat-drivers:compat_drivers_wifi_wil6210 - COMPAT_DRIVERS_WIFI setting to build driver for wil6210 wireless cards
-sys-kernel/compat-drivers:compat_drivers_wifi_wl1251 - COMPAT_DRIVERS_WIFI setting to build driver for wl1251 wireless cards
-sys-kernel/compat-drivers:compat_drivers_wifi_wl12xx - COMPAT_DRIVERS_WIFI setting to build driver for wl12xx wireless cards
-sys-kernel/compat-drivers:compat_drivers_wifi_wl18xx - COMPAT_DRIVERS_WIFI setting to build driver for wl18xx wireless cards
-sys-kernel/compat-drivers:compat_drivers_wifi_zd1211rw - COMPAT_DRIVERS_WIFI setting to build driver for zd1211rw wireless cards
-sys-kernel/compat-drivers:injection - Add patches for better wifi injection support
-sys-kernel/genkernel:crypt - Obsolete USE flag. Use cryptsetup for LUKS support. (bug ##414523)
-sys-kernel/genkernel:cryptsetup - Enable support for Luks disk encryption using sys-fs/cryptsetup
-sys-kernel/genkernel:firmware - Prefer system firmware sys-kernel/linux-firmware over local copy.
