@@ -1,0 +1,11 @@
+DEFINED_PHASES=configure install postinst prepare setup unpack
+DEPEND=crypt? ( >=app-crypt/gnupg-1.2 ) mysql? ( dev-db/mysql ) postgres? ( dev-db/postgresql ) >=sys-apps/sed-4 app-arch/tar app-arch/gzip
+DESCRIPTION=Advanced file integrity and intrusion detection tool.
+EAPI=5
+HOMEPAGE=http://la-samhna.de/samhain/
+IUSE=crypt debug login-watch mounts-check mysql netclient netserver postgres static suidcheck userfiles xml
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+SLOT=0
+SRC_URI=http://la-samhna.de/archive/samhain_signed-4.2.4.tar.gz
+_md5_=450aabde7d4668bd0282936b0cf70a2a
