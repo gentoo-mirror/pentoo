@@ -1,0 +1,11 @@
+DEFINED_PHASES=install unpack
+DEPEND=>=dev-vcs/git-1.8.2.1
+DESCRIPTION=A NSE vulnerability scanner which uses an offline version of scip VulDB
+EAPI=6
+HOMEPAGE=http://www.computec.ch/projekte/vulscan/
+KEYWORDS=~amd64 ~x86 ~arm
+LICENSE=GPL-2
+RDEPEND=net-analyzer/nmap[nse]
+SLOT=0
+_eclasses_=git-r3	fec09a83ae965b041b47f5ff7c8ba29a
+_md5_=bd23635b33eb2dced88f54c26364cbed
