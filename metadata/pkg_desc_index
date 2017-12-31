@@ -77,7 +77,7 @@ pentoo/zero-system 9999: The ZERO (Zoning & Emotional Range Omitted) System is a
 sys-apps/magic-pax 0.0.1: 
 sys-boot/grub-static 0.97-r9 0.97-r10: GNU GRUB Legacy boot loader (static build)
 sys-fs/static-dev 0.1: A skeleton, statically managed /dev
-sys-kernel/pentoo-sources 4.0.8 4.4.8-r2 4.7.7 4.7.10 4.13.8: Pentoo kernel sources (kernel series 4.13)
+sys-kernel/pentoo-sources 4.4.8-r2 4.7.7 4.7.10 4.13.8: Pentoo kernel sources (kernel series 4.13)
 sys-power/acpid 2.0.23 2.0.27 2.0.28: Daemon for Advanced Configuration and Power Interface
 virtual/jdk 1.8.0-r4: Virtual for Java Development Kit (JDK)
 virtual/linux-sources 1-r1 3-r1: Virtual for Linux kernel sources
