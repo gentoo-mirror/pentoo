@@ -8,5 +8,5 @@ LICENSE=nuand_adsb
 RDEPEND=net-wireless/bladerf
 SLOT=0
 SRC_URI=x40? ( https://www.nuand.com/fpga/adsbx40.rbf ) x115? ( https://www.nuand.com/fpga/adsbx115.rbf )
-_eclasses_=git-r3	fec09a83ae965b041b47f5ff7c8ba29a	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	185a06792159ca143528e7010368e8af
+_eclasses_=git-r3	fec09a83ae965b041b47f5ff7c8ba29a	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	885c7d8dd70a58825f3d17e35a3cd1e9
 _md5_=1f958f44de37630e83dfab2987265ed1
