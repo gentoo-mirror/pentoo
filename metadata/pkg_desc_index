@@ -26,6 +26,7 @@ dev-libs/openssl-chacha 1.0.2_p20170706: Extra featured OpenSSL with ChaCha20 an
 dev-perl/Encoding-BER 1.02: Perl module for encoding/decoding data using ASN.1 Basic Encoding Rules (BER)
 dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
 dev-perl/Tie-CharArray 1.00: Manipulate perl strings through tied array
+dev-python/dnspython 1.15.0_p20170831: DNS toolkit for Python
 dev-python/tre-python 0.8.0: Python bidings for TRE library
 dev-ruby/mini_portile 0.5.3 0.6.2: Simplified way to compile against dependency libraries
 dev-util/ati-app-sdk-bin 2.9: AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream)
