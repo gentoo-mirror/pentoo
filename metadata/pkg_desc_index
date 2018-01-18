@@ -21,7 +21,7 @@ app-pda/libusbmuxd 1.0.10: USB multiplex daemon for use with Apple iPhone/iPod T
 app-pda/usbmuxd 1.1.0: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
 dev-db/minimysqlator 05: Minimysqlator is a MySQL injection tools that facilitates the retrieval of DB and more
 dev-db/sqid 0.3: A SQL injection digger
-dev-libs/glib 2.50.3-r1: The GLib library of C routines
+dev-libs/glib 2.50.3-r1 2.52.3: The GLib library of C routines
 dev-libs/openssl-chacha 1.0.2_p20170706: Extra featured OpenSSL with ChaCha20 and Poly1305 support
 dev-perl/Encoding-BER 1.02: Perl module for encoding/decoding data using ASN.1 Basic Encoding Rules (BER)
 dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
