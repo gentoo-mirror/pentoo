@@ -9,5 +9,5 @@ LICENSE=MIT
 RDEPEND=!symlink_all_targets? ( target_firefox? ( >=www-client/firefox-24.1.1 ) target_firefox-bin? ( >=www-client/firefox-bin-24.1.1 ) )
 SLOT=0
 SRC_URI=https://github.com/mozmark/ringleader/raw/1e8171d186341c5cc2bb64d23865925db437a258/fx_pnh.xpi -> ringleader-0.3_pre20150914.xpi
-_eclasses_=desktop	2ccd1dd1dd7bfb8795eea024a4f91bb6	epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	6e7258392d5eda499c1cfa94db650b61	ltprune	2770eed66a9b8ef944714cd0e968182e	mozextension	42c5ed513e5325a5d0629ad85bb27c23	mozilla-addon	8d5d6700a00c98468e9e6c7269e50064	multilib	97f470f374f2e94ccab04a2fb21d811e	preserve-libs	ef207dc62baddfddfd39a164d9797648	toolchain-funcs	885c7d8dd70a58825f3d17e35a3cd1e9
+_eclasses_=desktop	2ccd1dd1dd7bfb8795eea024a4f91bb6	epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	6e7258392d5eda499c1cfa94db650b61	ltprune	2770eed66a9b8ef944714cd0e968182e	mozextension	89a560beaf496e7cb89f3d79d4aef09e	mozilla-addon	8d5d6700a00c98468e9e6c7269e50064	multilib	97f470f374f2e94ccab04a2fb21d811e	preserve-libs	ef207dc62baddfddfd39a164d9797648	toolchain-funcs	885c7d8dd70a58825f3d17e35a3cd1e9
 _md5_=a7f45f2a7971cb2553302ca42da00e84
