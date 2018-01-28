@@ -1,12 +1,12 @@
-DEFINED_PHASES=prepare
-DEPEND=>=sys-devel/llvm-4.0.1:* sys-devel/gcc:* >=app-portage/elt-patches-20170422 !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DEFINED_PHASES=configure prepare
+DEPEND=>=sys-devel/llvm-5.0.1:* sys-devel/gcc:* >=app-portage/elt-patches-20170422 !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
 DESCRIPTION=System to simplify real-world deployment of feedback-directed optimization
 EAPI=6
 HOMEPAGE=https://gcc.gnu.org/wiki/AutoFDO
 KEYWORDS=~amd64 ~x86
 LICENSE=Apache-2.0
-RDEPEND=>=sys-devel/llvm-4.0.1:* sys-devel/gcc:*
+RDEPEND=>=sys-devel/llvm-5.0.1:* sys-devel/gcc:*
 SLOT=0
 SRC_URI=https://github.com/google/autofdo/archive/0.16.tar.gz -> autofdo-0.16.tar.gz
 _eclasses_=autotools	dc412f38566b91012efd58b9c203e6c3	libtool	0081a71a261724730ec4c248494f044d	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	885c7d8dd70a58825f3d17e35a3cd1e9
-_md5_=84917750afe554c350e070ca2f5ac2dd
+_md5_=949fe8e411221ffc00b948445e2c7256
