@@ -3,21 +3,23 @@
 env-update
 
 if [ -n "${clst_target}" ]; then #we are in catalyst
-	mkdir -p /var/log/portage/emerge-info/
-	emerge --info > /var/log/portage/emerge-info/emerge-info-$(date "+%Y%m%d").txt
+  mkdir -p /var/log/portage/emerge-info/
+  emerge --info > /var/log/portage/emerge-info/emerge-info-$(date "+%Y%m%d").txt
 else #we are on a user system
-	emerge --sync
+  if ! emerge --sync; then
+    printf "emerge --sync failed, aborting update for safety\n"
+  fi
 fi
 
 safe_exit() {
-	#I want a shell when I'm in catalyst but just an exit on failure for users
-	if [ -n "${clst_target}" ] && [ -n "${debugshell}" ]; then
-		/bin/bash
-	elif [ -n "${clst_target}" ] && [ -n "${reckless}" ]; then
-		echo "Continuing despite failure...grumble grumble" 1>&2
-	#else #let's let it keep going by default instead of just failing out
-	#	exit
-	fi
+  #I want a shell when I'm in catalyst but just an exit on failure for users
+  if [ -n "${clst_target}" ] && [ -n "${debugshell}" ]; then
+    /bin/bash
+  elif [ -n "${clst_target}" ] && [ -n "${reckless}" ]; then
+    echo "Continuing despite failure...grumble grumble" 1>&2
+    #else #let's let it keep going by default instead of just failing out
+    #	exit
+  fi
 }
 
 RESET_PYTHON=0
@@ -66,7 +68,7 @@ fi
 #fi
 
 if [ -n "${clst_target}" ]; then
-	emerge @changed-deps || safe_exit
+  emerge @changed-deps || safe_exit
 fi
 
 emerge --deep --update --newuse -kb --changed-use --newrepo @world || safe_exit
@@ -82,16 +84,16 @@ fi
 
 #if we are in catalyst, update the extra binpkgs
 if [ -n "${clst_target}" ]; then
-	#add kde and mate use flags
-	echo "pentoo/pentoo kde mate" >> /etc/portage/package.use
-	emerge @changed-deps || safe_exit
-	emerge --buildpkg --usepkg --onlydeps --oneshot --deep --update --newuse --changed-use --newrepo pentoo/pentoo || safe_exit
-	etc-update --automode -5 || safe_exit
+  #add kde and mate use flags
+  echo "pentoo/pentoo kde mate" >> /etc/portage/package.use
+  emerge @changed-deps || safe_exit
+  emerge --buildpkg --usepkg --onlydeps --oneshot --deep --update --newuse --changed-use --newrepo pentoo/pentoo || safe_exit
+  etc-update --automode -5 || safe_exit
 fi
 
 portageq list_preserved_libs /
 if [ $? = 0 ]; then
-	emerge @preserved-rebuild --buildpkg=y || safe_exit
+  emerge @preserved-rebuild --buildpkg=y || safe_exit
 fi
 smart-live-rebuild 2>&1 || safe_exit
 revdep-rebuild -i -- --rebuild-exclude dev-java/swt --exclude dev-java/swt --buildpkg=y || safe_exit
@@ -100,24 +102,24 @@ emerge --deep --update --newuse -kb --changed-use --newrepo @world || safe_exit
 emerge --depclean || safe_exit
 portageq list_preserved_libs /
 if [ $? = 0 ]; then
-	emerge @preserved-rebuild --buildpkg=y || safe_exit
+  emerge @preserved-rebuild --buildpkg=y || safe_exit
 fi
 
 if [ -n "${clst_target}" ]; then
-	if [ -n "${debugshell}" ]; then
-		/bin/bash
-	fi
-	emerge @changed-deps || safe_exit
-	etc-update --automode -5 || safe_exit
-	eclean-pkg || safe_exit
-	emaint binhost || safe_exit
-	fixpackages || safe_exit
-	#remove kde/mate use flags
-	rm /etc/portage/package.use
+  if [ -n "${debugshell}" ]; then
+    /bin/bash
+  fi
+  emerge @changed-deps || safe_exit
+  etc-update --automode -5 || safe_exit
+  eclean-pkg || safe_exit
+  emaint binhost || safe_exit
+  fixpackages || safe_exit
+  #remove kde/mate use flags
+  rm /etc/portage/package.use
 fi
 
 if [ -f /usr/local/portage/scripts/bug-461824.sh ]; then
-	/usr/local/portage/scripts/bug-461824.sh
+  /usr/local/portage/scripts/bug-461824.sh
 elif [ -f /var/lib/layman/pentoo/scripts/bug-461824.sh ]; then
-	/var/lib/layman/pentoo/scripts/bug-461824.sh
+  /var/lib/layman/pentoo/scripts/bug-461824.sh
 fi
