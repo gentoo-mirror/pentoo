@@ -71,7 +71,7 @@ pentoo/pentoo-installer 20140930: Installer for pentoo, based on the ncurses Arc
 pentoo/pentoo-misc 2018.0: Pentoo misc meta ebuild
 pentoo/pentoo-mobile 2017.1: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2015.3: Collection of NFC tools
-pentoo/pentoo-radio 2017.0-r1: Radio tools for pentoo
+pentoo/pentoo-radio 2018.0: Radio tools for pentoo
 pentoo/pentoo-rce 2018: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2017.0: Pentoo scanner meta ebuild
 pentoo/pentoo-system 2018.0-r1: Pentoo meta ebuild to install system
