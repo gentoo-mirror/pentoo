@@ -8,4 +8,4 @@ LICENSE=GPL-2
 RDEPEND=dev-lang/perl virtual/perl-JSON-PP net-analyzer/nmap ssl? ( dev-libs/openssl dev-perl/Net-SSLeay )
 SLOT=0
 SRC_URI=https://github.com/sullo/nikto/archive/2.1.6.tar.gz -> nikto-2.1.6.tar.gz
-_md5_=389b8f6592b75c7231ee62194db5388d
+_md5_=49646ce1fc0040967d67f65fd47ec52b
