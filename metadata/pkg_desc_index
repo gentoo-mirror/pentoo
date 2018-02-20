@@ -9,7 +9,7 @@ app-forensics/linen 61: Encase's linen utility
 app-forensics/make-pdf 0.1.4-r2 0.1.7: This tool will embed javascript inside a PDF document
 app-forensics/origami-pdf 1.2.6: A Ruby framework designed to parse, analyze, and forge PDF documents
 app-forensics/pdf-parser 0.6.8: This tool will parse a PDF document to identify the fundamental elements used
-app-forensics/pdfid 0.2.2 0.2.3: This tool will scan a PDF document looking for certain keyword
+app-forensics/pdfid 0.2.2 0.2.3 0.2.4: This tool will scan a PDF document looking for certain keyword
 app-forensics/sleuthkit 4.5.0: A collection of file system and media management forensic analysis tools
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
 app-fuzz/slowhttptest 1.7: Application Layer DoS attack simulator
