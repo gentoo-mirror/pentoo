@@ -35,7 +35,7 @@ dev-util/jadx-bin 0.6.1: A standalone graphical utility that displays Java sourc
 dev-util/jd-gui-bin 0.3.5-r1 1.4.0: A standalone graphical utility that displays Java source codes of .class file
 gnome-base/gnome-keyring 3.20.1: Password and keyring managing daemon
 gnome-base/libgnomeui 2.24.5-r4: User Interface routines for Gnome
-net-analyzer/nessus-bin 6.9.3: A remote security scanner for Linux
+net-analyzer/nessus-bin 7.0.2: A remote security scanner for Linux
 net-analyzer/nmap_vulscan 2.0-r1: A NSE vulnerability scanner which uses an offline version of scip VulDB
 net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
 net-analyzer/videojak 1.00: VideoJak is an IP Video security assessment tool
