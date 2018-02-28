@@ -1,0 +1,13 @@
+DEFINED_PHASES=configure prepare
+DEPEND=sys-libs/ncurses:=[tinfo] gsl? ( sci-libs/gsl:= ) pcap? ( net-libs/libpcap:= ) sctp? ( net-misc/lksctp-tools:= ) ssl? ( dev-libs/openssl:= ) >=app-portage/elt-patches-20170422 !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.16:1.16 >=sys-devel/automake-1.15.1:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DESCRIPTION=SipBomber is a tool to stress SIP server/proxy implementations.
+EAPI=6
+HOMEPAGE=http://sipp.sourceforge.net/
+IUSE=gsl pcap rtpstream sctp ssl
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=sys-libs/ncurses:=[tinfo] gsl? ( sci-libs/gsl:= ) pcap? ( net-libs/libpcap:= ) sctp? ( net-misc/lksctp-tools:= ) ssl? ( dev-libs/openssl:= )
+SLOT=0
+SRC_URI=https://github.com/SIPp/sipp/archive/1e12ff0ed4c82cfe5be5a23a4f8af4bd1f477faa.tar.gz -> sipp-3.6_pre20180124.tar.gz
+_eclasses_=autotools	4842e626555a9a4344f34cef2e190b67	libtool	0081a71a261724730ec4c248494f044d	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	885c7d8dd70a58825f3d17e35a3cd1e9
+_md5_=49553878bc2fa7df78dba6978d644477
