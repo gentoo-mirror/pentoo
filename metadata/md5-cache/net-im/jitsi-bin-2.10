@@ -1,13 +1,13 @@
 DEFINED_PHASES=install unpack
 DEPEND=>=app-arch/rpm2targz-9.0.0.3g
 DESCRIPTION=Secure IM communicator that supports SIP, XMPP, AIM/ICQ, Windows Live, Yahoo
-EAPI=5
+EAPI=6
 HOMEPAGE=https://jitsi.org/
 KEYWORDS=~amd64 ~x86
 LICENSE=LGPL-2
 RDEPEND=>=virtual/jre-1.7 app-arch/rpm2targz
 RESTRICT=strip
 SLOT=0
-SRC_URI=x86? ( https://download.jitsi.org/jitsi/rpm/jitsi-2.8-5426.i686.rpm ) amd64? ( https://download.jitsi.org/jitsi/rpm/jitsi-2.8-5426.x86_64.rpm )
+SRC_URI=x86? ( https://download.jitsi.org/jitsi/rpm/jitsi-2.10-5550.i686.rpm ) amd64? ( https://download.jitsi.org/jitsi/rpm/jitsi-2.10-5550.x86_64.rpm )
 _eclasses_=desktop	2ccd1dd1dd7bfb8795eea024a4f91bb6	epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	63392afb034aad67f17fa129019eb4d9	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	preserve-libs	ef207dc62baddfddfd39a164d9797648	rpm	f52cfa3a435468d86d3b49c357b9cb35	toolchain-funcs	885c7d8dd70a58825f3d17e35a3cd1e9	vcs-clean	2a0f74a496fa2b1552c4f3398258b7bf
-_md5_=464e5b3ad6625b4aa5c6593a3a29c90a
+_md5_=ba060c0f0b7072ace396a2e7316beba1
