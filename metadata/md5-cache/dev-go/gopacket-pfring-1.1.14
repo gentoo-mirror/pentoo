@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install test unpack
+DEPEND=sys-kernel/pf_ring-kmod net-libs/libpfring >=dev-lang/go-1.8
+DESCRIPTION=Package pfring wraps the PF_RING C library for Go.
+EAPI=6
+HOMEPAGE=https://github.com/google/gopacket
+KEYWORDS=~amd64 ~x86 ~arm ~arm64
+LICENSE=BSD
+RDEPEND=sys-kernel/pf_ring-kmod net-libs/libpfring
+SLOT=0
+SRC_URI=https://github.com/google/gopacket/archive/v1.1.14.tar.gz -> gopacket-pfring-1.1.14.tar.gz
+_eclasses_=golang-base	51a1f13e065f1cff4507685d9cc268c7	golang-build	b66349c110e4ddd6203bbe8bf4ae05c1	golang-vcs-snapshot	913580335becddd3ebecefe852e47536
+_md5_=a8ad6f8a2380f221e81e9be9f7aa2c54

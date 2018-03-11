@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile install test unpack
+DEPEND=net-libs/libpcap pfring? ( dev-go/gopacket-pfring ) >=dev-lang/go-1.8
+DESCRIPTION=Provides packet processing capabilities for Go
+EAPI=6
+HOMEPAGE=https://github.com/google/gopacket
+IUSE=pfring
+KEYWORDS=~amd64 ~x86 ~arm ~arm64
+LICENSE=BSD
+RDEPEND=net-libs/libpcap pfring? ( dev-go/gopacket-pfring )
+SLOT=0
+SRC_URI=https://github.com/google/gopacket/archive/v1.1.14.tar.gz -> gopacket-1.1.14.tar.gz
+_eclasses_=golang-base	51a1f13e065f1cff4507685d9cc268c7	golang-build	b66349c110e4ddd6203bbe8bf4ae05c1	golang-vcs-snapshot	913580335becddd3ebecefe852e47536
+_md5_=7eda62548d905974b7683be2b5e7fb35
