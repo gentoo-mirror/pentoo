@@ -1,0 +1,12 @@
+DEFINED_PHASES=install postinst prepare
+DESCRIPTION=Mass IP port scanner
+EAPI=6
+HOMEPAGE=https://github.com/robertdavidgraham/masscan
+IUSE=pf_ring
+KEYWORDS=~amd64 ~x86
+LICENSE=AGPL-3
+RDEPEND=net-libs/libpcap pf_ring? ( sys-kernel/pf_ring-kmod )
+SLOT=0
+SRC_URI=https://github.com/robertdavidgraham/masscan/archive/1.0.5.tar.gz -> masscan-1.0.5.tar.gz
+_eclasses_=multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	885c7d8dd70a58825f3d17e35a3cd1e9
+_md5_=d9feb8d6d5f772b3be572eb12b8fe83d
