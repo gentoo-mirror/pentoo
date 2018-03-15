@@ -14,7 +14,6 @@ app-forensics/sleuthkit 4.5.0: A collection of file system and media management 
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
 app-fuzz/slowhttptest 1.7: Application Layer DoS attack simulator
 app-misc/binwalk 2.1.1-r1: A tool for identifying files embedded inside firmware images
-app-misc/livecd-tools 2.3: Gentoo LiveCD tools for autoconfiguration of hardware
 app-misc/openobd 0.5.0: OBD-II Scan Tool supporting ELM327 devices
 app-pda/ideviceinstaller 1.0.1_p20140314 1.0.1_p20140527 1.1.0: A tool to interact with the installation_proxy of an Apple's iDevice
 app-pda/libusbmuxd 1.0.10 1.1.0_pre20170522: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
