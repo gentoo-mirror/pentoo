@@ -1,0 +1,11 @@
+DEFINED_PHASES=compile install test unpack
+DEPEND=>=dev-lang/go-1.8
+DESCRIPTION=Go implementation of the WebSocket protocol
+EAPI=6
+HOMEPAGE=https://github.com/gorilla/websocket
+KEYWORDS=~amd64 ~arm ~arm64
+LICENSE=BSD-2
+SLOT=0
+SRC_URI=https://github.com/gorilla/websocket/archive/v1.2.0.tar.gz -> websocket-1.2.0.tar.gz
+_eclasses_=golang-base	51a1f13e065f1cff4507685d9cc268c7	golang-build	b66349c110e4ddd6203bbe8bf4ae05c1	golang-vcs-snapshot	913580335becddd3ebecefe852e47536
+_md5_=44eee766577806dc7dcd341e48186b44
