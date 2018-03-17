@@ -1,0 +1,10 @@
+DEFINED_PHASES=compile install
+DESCRIPTION=Direct Memory Access (DMA) Attack Software
+EAPI=6
+HOMEPAGE=https://github.com/ufrisk/pcileech
+IUSE=python
+KEYWORDS=~amd64 ~x86
+LICENSE=Apache-2.0
+SLOT=0
+SRC_URI=https://github.com/ufrisk/pcileech/archive/v3.0.tar.gz -> pcileech-3.0.tar.gz
+_md5_=c9d6157bb2d61a138e6eb272a50e6d07
