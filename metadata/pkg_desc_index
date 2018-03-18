@@ -68,7 +68,7 @@ pentoo/pentoo-footprint 2018.3: Pentoo footprint meta ebuild
 pentoo/pentoo-gnome 2.32.1-r3: Meta package for the GNOME desktop, merge this package to install
 pentoo/pentoo-installer 20140930: Installer for pentoo, based on the ncurses Arch Linux installer
 pentoo/pentoo-misc 2018.0: Pentoo misc meta ebuild
-pentoo/pentoo-mobile 2017.1: Pentoo mobile meta ebuild
+pentoo/pentoo-mobile 2018.0: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2015.3: Collection of NFC tools
 pentoo/pentoo-radio 2018.0: Radio tools for pentoo
 pentoo/pentoo-rce 2018: Pentoo RCE meta ebuild
