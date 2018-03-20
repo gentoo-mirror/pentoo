@@ -93,7 +93,7 @@ www-plugins/hackbar 1.6.3: Simple security audit / penetration test tool.
 www-plugins/hackplugins-meta 1.2: Collection of browser's plugins for application security testing
 www-plugins/httpfox 0.8.14: A HTTP analyzer addon for Firefox
 www-plugins/live-http-headers 0.17-r3: View HTTP headers of a page and while browsing
-www-plugins/noscript 10.1.6.2 10.1.6.3: Allow active content in firefox to run only from trusted sites.
+www-plugins/noscript 10.1.6.3 10.1.7.3: Allow active content in firefox to run only from trusted sites.
 www-plugins/ringleader 0.3_pre20150914: FxPnH is a Firefox addon which makes it possible to use Firefox with Plug-n-Hack providers
 www-plugins/showip 2.7.7: Firefox extensions which shows the IP address(es) of the current page in the status bar.
 www-plugins/sql-inject-me 0.4.7-r2: SQL Inject Me is the Exploit-Me tool used to test for SQL Injection vulnerabilities.
