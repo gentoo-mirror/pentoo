@@ -23,26 +23,26 @@ RDEPEND="
 	imagemagick? ( virtual/imagemagick-tools )
 	visual? ( dev-python/visual )
 	tcpreplay? ( net-analyzer/tcpreplay )
-"
-DEPEND="!<net-analyzer/scapy-2.3.3-r1
+	!<net-analyzer/scapy-2.3.3-r1
 	!dev-python/scapy-python3
 	!virtual/python-scapy"
+"
 
 S=${WORKDIR}/${P/_/}
-DOC_CONTENTS="
-Scapy has optional support for the following packages:
-
-	dev-python/cryptography
-	dev-python/gnuplot-py
-	dev-python/ipython
-	dev-python/pyx
-	dev-python/visual
-	media-gfx/graphviz
-	net-analyzer/tcpreplay
-	virtual/imagemagick-tools
-
-	See also ${EPREFIX}/usr/share/doc/${PF}/installation.rst
-"
+#DOC_CONTENTS="
+#Scapy has optional support for the following packages:
+#
+#	dev-python/cryptography
+#	dev-python/gnuplot-py
+#	dev-python/ipython
+#	dev-python/pyx
+#	dev-python/visual
+#	media-gfx/graphviz
+#	net-analyzer/tcpreplay
+#	virtual/imagemagick-tools
+#
+#	See also ${EPREFIX}/usr/share/doc/${PF}/installation.rst
+#"
 
 src_prepare() {
 	echo ${PV/_/} > ${PN}/VERSION
