@@ -8,5 +8,5 @@ KEYWORDS=-*
 LICENSE=BSD
 RDEPEND=dev-ruby/rails:3.2 dev-ruby/activesupport:3.2 media-sound/sox media-sound/lame dev-ruby/sqlite3 dev-python/gnuplot-py dev-ruby/bundler dev-ruby/mail:2.5 dev-ruby/pg dev-ruby/will_paginate:3 dev-ruby/abstract http? ( www-servers/mongrel )
 SLOT=0
-_eclasses_=git-2	195a672bfaf52d868442171c9469bbb6
+_eclasses_=git-2	45ff482316b52b3f96ff6b7309b77f03
 _md5_=ec5bf169238f31631bdf5235c38d8d6b

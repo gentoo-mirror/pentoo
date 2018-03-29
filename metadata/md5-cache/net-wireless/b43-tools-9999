@@ -7,5 +7,5 @@ IUSE=+assembler debug disassembler +ssb_sprom
 LICENSE=GPL-2
 RDEPEND=net-wireless/b43-fwcutter
 SLOT=0
-_eclasses_=git-r3	fec09a83ae965b041b47f5ff7c8ba29a
+_eclasses_=git-r3	25b08efef07cea6bcd45b8c6dcce2782
 _md5_=e60366543bcfd92f35c02067687c5815
