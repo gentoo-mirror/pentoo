@@ -58,7 +58,6 @@ net-wireless/cowpatty 4.3-r2 4.6-r4: WLAN tools for bruteforcing 802.11 WPA/WPA2
 net-wireless/crda 1.1.0-r1 1.1.1: Central Regulatory Domain Agent for wireless networks.
 net-wireless/hostapd 2.6-r1 2.6-r3: IEEE 802.11 wireless LAN Host AP daemon
 net-wireless/karmetasploit 0.1-r3: KARMA + Metasploit 3 == Karmetasploit
-net-wireless/wifite 88_p20180326: An automated wireless attack tool
 net-wireless/wireless-regdb 20090130-r1 20090309 20090817 20091125 20091125-r1: Binary regulatory database for CRDA
 pentoo/pentoo 2014.3-r1 2015.1: Pentoo meta ebuild to install all apps
 pentoo/pentoo-cinnamon 2012.0: Pentoo cinnamon meta ebuild
