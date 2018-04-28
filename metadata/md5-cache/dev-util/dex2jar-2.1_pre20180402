@@ -1,0 +1,10 @@
+DEFINED_PHASES=install prepare
+DESCRIPTION=Tools to work with android .dex and java .class files
+EAPI=6
+HOMEPAGE=https://github.com/pxb1988/dex2jar/releases
+KEYWORDS=~x86 ~amd64
+LICENSE=Apache-2.0
+RDEPEND=|| ( virtual/jre virtual/jdk )
+SLOT=0
+SRC_URI=https://github.com/pxb1988/dex2jar/files/1867564/dex-tools-2.1-SNAPSHOT.zip -> dex-tools-2.1-SNAPSHOT-20180327402.zip
+_md5_=2743809a276879146452a750da923452
