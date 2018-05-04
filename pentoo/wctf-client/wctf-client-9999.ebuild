@@ -24,4 +24,10 @@ PDEPEND="dev-vcs/git
 		sys-process/iotop
 		sys-process/htop
 		sys-boot/grub:2
-		app-portage/layman"
+		app-portage/layman
+		sys-kernel/genkernel"
+
+src_install() {
+	insinto /etc/local.d
+	doexe "${FILESDIR}"/99-ldm.start
+}
