@@ -11,6 +11,7 @@ LICENSE=""
 SLOT="0"
 KEYWORDS=""
 IUSE=""
+S="${WORKDIR}"
 
 PDEPEND="dev-vcs/git
 		net-misc/dhcpcd
@@ -26,7 +27,8 @@ PDEPEND="dev-vcs/git
 		sys-boot/grub:2
 		app-portage/layman
 		sys-kernel/genkernel
-		app-admin/sudo"
+		app-admin/sudo
+		net-wireless/wpa_supplicant"
 
 src_install() {
 	insinto /etc/local.d
