@@ -1,3 +1,4 @@
+dev-ruby/thor amd64
 dev-ruby/crass amd64
 dev-ruby/loofah amd64
 =dev-ruby/tilt-2.0.5
@@ -52,7 +53,7 @@ net-analyzer/metasploit:4.14 **
 dev-ruby/railties ~amd64
 app-eselect/eselect-rails
 ~dev-ruby/arel-helpers-2.5.0 **
-~dev-ruby/postgres_ext-3.0.0 **
+dev-ruby/postgres_ext ~amd64
 ~dev-ruby/pg_array_parser-0.0.9 **
 www-client/chromium amd64
 =dev-python/scapy-python3-0.21* ~amd64
