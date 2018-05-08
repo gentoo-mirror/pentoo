@@ -1,0 +1,11 @@
+DEFINED_PHASES=install
+DESCRIPTION=a tool for enumerating information from Windows and Samba systems
+EAPI=2
+HOMEPAGE=http://labs.portcullis.co.uk/application/enum4linux/
+IUSE=+polenum ldap
+KEYWORDS=~x86 ~amd64
+LICENSE=GPL-2
+RDEPEND=dev-lang/perl net-fs/samba polenum? ( net-analyzer/polenum ) ldap? ( net-nds/openldap )
+SLOT=0
+SRC_URI=http://labs.portcullis.co.uk/download/enum4linux-0.8.8.tar.gz
+_md5_=7b9d14dc5c7c36ac02e534436f6d5e73

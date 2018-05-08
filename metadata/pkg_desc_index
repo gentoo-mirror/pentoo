@@ -72,16 +72,15 @@ pentoo/pentoo-nfc 2015.3: Collection of NFC tools
 pentoo/pentoo-radio 2018.0-r1: Radio tools for pentoo
 pentoo/pentoo-rce 2018.0: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2018.0: Pentoo scanner meta ebuild
-pentoo/pentoo-system 2018.1: Pentoo meta ebuild to install system
+pentoo/pentoo-system 2018.1-r1: Pentoo meta ebuild to install system
 pentoo/zero-system 9999: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
 sys-apps/magic-pax 0.0.1: 
 sys-boot/grub-static 0.97-r9 0.97-r10: GNU GRUB Legacy boot loader (static build)
 sys-fs/static-dev 0.1: A skeleton, statically managed /dev
-sys-kernel/pentoo-sources 4.4.8-r2 4.7.7 4.7.10 4.13.8 4.14.15 4.16.4: Pentoo kernel sources (kernel series 4.16)
+sys-kernel/pentoo-sources 4.4.8-r2 4.7.7 4.7.10 4.13.8 4.14.15 4.16.4 4.16.7: Pentoo kernel sources (kernel series 4.16)
 sys-power/acpid 2.0.23 2.0.27 2.0.28: Daemon for Advanced Configuration and Power Interface
 virtual/jdk 1.7.0-r3 1.8.0-r4: Virtual for Java Development Kit (JDK)
 virtual/linux-sources 1-r1 3-r1: Virtual for Linux kernel sources
-virtual/opencl 0-r4: Virtual for OpenCL implementations
 virtual/pkgconfig 0: Virtual for the pkg-config implementation
 www-plugins/adblock_plus 2.8.2 2.9.1 3.0.1: Firefox extension to block annoying ads automatically, no distractions.
 www-plugins/exif_viewer 2.00-r3: Firefox extension to display the Exif and IPTC data in local and remote JPEG images.

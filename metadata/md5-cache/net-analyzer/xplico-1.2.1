@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile install postinst prepare prerm setup
+DEPEND=net-libs/libpcap >=net-libs/nDPI-2.0 >=app-admin/webapp-config-1.50.15
+DESCRIPTION=Extract data from TCP/IP traffic
+EAPI=6
+HOMEPAGE=http://www.xplico.org
+IUSE=+geoip mysql vhosts
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=mysql? ( dev-db/mysql ) media-sound/sox media-sound/lame dev-lang/php virtual/httpd-cgi dev-db/sqlite:3 geoip? ( dev-libs/geoip ) >=app-admin/webapp-config-1.50.15
+SLOT=0
+SRC_URI=https://sourceforge.net/projects/xplico/files/Xplico%20versions/1.2.1/xplico-1.2.1.tar.gz/download -> xplico-1.2.1.tar.gz
+_eclasses_=desktop	2ccd1dd1dd7bfb8795eea024a4f91bb6	epatch	9a5f039771f143195164a15a4faa41a1	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	63392afb034aad67f17fa129019eb4d9	ltprune	607e058da37aa6dabfa408b7d61da72e	multilib	97f470f374f2e94ccab04a2fb21d811e	preserve-libs	ef207dc62baddfddfd39a164d9797648	toolchain-funcs	fa02994d0beba88681127d93da4411ec	vcs-clean	2a0f74a496fa2b1552c4f3398258b7bf	webapp	a76ebd3cb5649737496e8238992dd7ca
+_md5_=757569a91b0fdb27423f6bb3053c61be

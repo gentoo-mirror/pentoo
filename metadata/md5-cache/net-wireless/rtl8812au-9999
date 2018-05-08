@@ -1,0 +1,9 @@
+DEFINED_PHASES=compile install setup unpack
+DEPEND=>=dev-vcs/git-1.8.2.1
+DESCRIPTION=Driver for AC1200 (801.11ac) Wireless Dual-Band USB Adapter
+EAPI=5
+HOMEPAGE=https://github.com/abperiasamy/rtl8812AU_8821AU_linux
+LICENSE=GPL-2
+SLOT=0
+_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	git-r3	af51ccfceeb403ab80f1bf9209d372c8	linux-info	ca370deef9d44125d829f2eb6ebc83e0	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	fa02994d0beba88681127d93da4411ec	versionator	26ca8a8bd95d6a74122c08ba98a4ee72
+_md5_=4f1f90230ab64a407095330beb5153a1

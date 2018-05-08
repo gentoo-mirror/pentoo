@@ -1,0 +1,11 @@
+DEFINED_PHASES=postinst
+DESCRIPTION=Meta package for the GNOME desktop, merge this package to install
+EAPI=5
+HOMEPAGE=http://www.gnome.org/
+IUSE=+automount help
+KEYWORDS=amd64 arm x86
+LICENSE=GPL-3
+PDEPEND=>=gnome-base/gvfs-1.6.6 automount? ( || ( >=gnome-base/gvfs-1.6.6[gdu] >=gnome-base/gvfs-1.6.6[udisks] ) )
+RDEPEND=!<x11-libs/gtk+-3.2.4-r1:3 !gnome-base/gnome >=dev-libs/glib-2.26.1:2 >=x11-libs/gtk+-2.22.1-r1:2 >=x11-libs/gdk-pixbuf-2.22.1:2 >=dev-libs/atk-1.32.0 >=x11-libs/pango-1.28.3 >=gnome-base/orbit-2.14.19:2 >=x11-libs/libwnck-2.30.6:1 >=x11-wm/metacity-2.30.3 >=gnome-base/gconf-2.32.0-r1:2 >=gnome-base/dconf-0.5.1-r2 >=gnome-base/libbonobo-2.24.3 >=gnome-base/libbonoboui-2.24.4 >=gnome-base/libgnome-2.32.0 >=gnome-base/libgnomecanvas-2.30.2 >=gnome-base/libglade-2.6.4:2.0 >=gnome-base/gnome-settings-daemon-2.32.1 >=gnome-base/gnome-control-center-2.32.0 >=gnome-base/nautilus-2.32.1 >=gnome-base/gnome-desktop-2.32.1:2 >=gnome-base/gnome-session-2.32.1 >=gnome-base/gnome-panel-2.32.1 >=x11-themes/gnome-icon-theme-2.31.0 >=x11-themes/gnome-themes-2.32.1-r1 >=x11-themes/gnome-themes-standard-3.0.2 >=x11-terms/gnome-terminal-2.32.1 >=gnome-base/librsvg-2.32.1:2 gnome-base/gdm gnome-extra/gnome-media gnome-extra/nm-applet net-analyzer/netspeed_applet gnome-extra/gnome-power-manager gnome-base/gnome-applets gnome-extra/gcalctool app-editors/gedit gnome-extra/gnome-system-monitor app-text/evince media-gfx/gthumb gnome-extra/gnome-utils gnome-extra/gnome-screensaver help? ( >=gnome-extra/yelp-2.30.2 )
+SLOT=2.0
+_md5_=590bef98a03bee34ff1a18243d7a9b56

@@ -1,0 +1,11 @@
+DEFINED_PHASES=prepare unpack
+DEPEND=>=dev-vcs/git-1.8.2.1
+DESCRIPTION=Targeted evil twin attacks against WPA2-Enterprise networks
+EAPI=6
+HOMEPAGE=https://github.com/s0lst1c3/eaphammer
+IUSE=systemd
+LICENSE=GPL-3
+RDEPEND=dev-python/tqdm net-dns/dnsmasq net-libs/libnfnetlink dev-libs/libnl:3 net-wireless/hostapd[wpe] net-analyzer/dsniff virtual/httpd-basic
+SLOT=0
+_eclasses_=git-r3	af51ccfceeb403ab80f1bf9209d372c8	multilib	97f470f374f2e94ccab04a2fb21d811e	python-utils-r1	3b2e27bcad216823f5a67d01d28b53a4	toolchain-funcs	fa02994d0beba88681127d93da4411ec
+_md5_=209f350e0726864e536001f0878fe273

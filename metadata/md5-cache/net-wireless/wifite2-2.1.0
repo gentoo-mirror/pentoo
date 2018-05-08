@@ -1,0 +1,12 @@
+DEFINED_PHASES=install prepare setup
+DESCRIPTION=An automated wireless attack tool, v2
+EAPI=6
+HOMEPAGE=https://github.com/derv82/wifite2
+IUSE=dict extra python_targets_python2_7
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=net-wireless/aircrack-ng dev-python/pexpect dict? ( sys-apps/cracklib-words ) extra? ( net-analyzer/wireshark net-wireless/reaver-wps-fork-t6x !net-wireless/reaver net-wireless/bully net-wireless/cowpatty net-wireless/pyrit net-analyzer/macchanger )
+SLOT=0
+SRC_URI=https://github.com/derv82/wifite2/archive/2.1.0.tar.gz -> wifite2-2.1.0.tar.gz
+_eclasses_=multilib	97f470f374f2e94ccab04a2fb21d811e	python-single-r1	26fdbe5e685d53f67303a3a43d9e4848	python-utils-r1	3b2e27bcad216823f5a67d01d28b53a4	toolchain-funcs	fa02994d0beba88681127d93da4411ec
+_md5_=1b1bcdd5396bbdd33cc6815345804998
