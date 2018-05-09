@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=Pentoo wireless meta ebuild
+EAPI=5
+HOMEPAGE=http://www.pentoo.ch
+IUSE=cuda gps +drivers livecd-stage1 minipentoo opencl +wpe video_cards_fglrx video_cards_nvidia
+KEYWORDS=~amd64 ~arm ~x86
+LICENSE=GPL-3
+PDEPEND=|| ( net-wireless/hostapd[wpe] net-wireless/hostapd[karma_cli] ) net-wireless/aircrack-ng net-dialup/freeradius net-wireless/kismet net-wireless/rfkill net-wireless/crda net-wireless/mdk !livecd-stage1? ( net-wireless/wifite ) !minipentoo? ( !livecd-stage1? ( drivers? ( livecd? ( net-wireless/b43-fwcutter ) net-wireless/orinoco-fwutils net-wireless/rtl8812au_aircrack-ng ) ) gps? ( sci-geosciences/gpsd ) app-crypt/asleap net-wireless/airsnort net-wireless/bully net-wireless/cowpatty || ( net-wireless/reaver-wps-fork-t6x net-wireless/reaver ) net-wireless/spectools net-wireless/wepattack net-wireless/n4p )
+SLOT=0
+_md5_=3cabf73bf4511fa8ae9e1d0e5d29fc5b
