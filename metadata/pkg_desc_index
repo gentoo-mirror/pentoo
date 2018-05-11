@@ -30,7 +30,7 @@ dev-python/tre-python 0.8.0: Python bidings for TRE library
 dev-ruby/mini_portile 0.5.3 0.6.2: Simplified way to compile against dependency libraries
 dev-util/ati-app-sdk-bin 2.9: AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream)
 dev-util/ati-stream-sdk-bin 2.01 2.2 2.3: Enable compiling code and loading it on ATI/AMD GPU
-dev-util/jadx-bin 0.6.1: A standalone graphical utility that displays Java source codes of .class file
+dev-util/jadx-bin 0.6.1 0.7.1: A standalone graphical utility that displays Java source codes of .class file
 dev-util/jd-gui-bin 0.3.5-r1 1.4.0: A standalone graphical utility that displays Java source codes of .class file
 gnome-base/gnome-keyring 3.20.1: Password and keyring managing daemon
 gnome-base/libgnomeui 2.24.5-r4: User Interface routines for Gnome
