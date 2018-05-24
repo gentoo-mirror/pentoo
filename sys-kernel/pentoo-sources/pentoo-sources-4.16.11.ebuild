@@ -1,29 +1,23 @@
-# Copyright 1999-2017 Gentoo Foundation
+# Copyright 1999-2018 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI="6"
 ETYPE="sources"
 K_WANT_GENPATCHES="base extras experimental"
-K_GENPATCHES_VER="10"
+K_GENPATCHES_VER="12"
 
 inherit kernel-2
-
-#overwrite that var to fix 404
-GENPATCHES_URI=https://dev.gentoo.org/~mpagano/genpatches/tarballs/genpatches-4.13-${K_GENPATCHES_VER}.base.tar.xz
-
-PENPATCHES_VER="1"
-PENPATCHES="penpatches-${PV}-${PENPATCHES_VER}.tar.xz"
-PENPATCHES_URI="http://dev.pentoo.ch/~zero/distfiles/${PENPATCHES}"
-SRC_URI="${KERNEL_URI} ${HGPV_URI} ${GENPATCHES_URI} ${ARCH_URI} ${PENPATCHES_URI}"
-
 detect_version
 detect_arch
 
 KEYWORDS="amd64 ~x86"
-HOMEPAGE="https://github.com/pentoo/pentoo-livecd/tree/master/kernel/${PV}"
+HOMEPAGE="https://github.com/pentoo/pentoo-livecd/tree/master/kernel/4.13.8"
 IUSE="experimental pax_kernel"
 
 DESCRIPTION="Pentoo kernel sources (kernel series ${KV_MAJOR}.${KV_MINOR})"
+PENPATCHES_VER="1"
+PENPATCHES="penpatches-4.13.8-${PENPATCHES_VER}.tar.xz"
+PENPATCHES_URI="http://dev.pentoo.ch/~zero/distfiles/${PENPATCHES}"
 SRC_URI="${KERNEL_URI} ${GENPATCHES_URI} ${ARCH_URI} ${PENPATCHES_URI}"
 
 pkg_postinst() {
@@ -33,10 +27,10 @@ pkg_postinst() {
 
 	ewarn "It may be desired to download the official pentoo kernel config from here:"
 	if use amd64; then
-		ewarn "https://github.com/pentoo/pentoo-livecd/tree/master/livecd/amd64/kernel/config-${PV}"
+		ewarn "https://raw.githubusercontent.com/pentoo/pentoo-livecd/master/livecd/amd64/kernel/config-${PV}"
 	fi
 	if use x86; then
-		ewarn "https://github.com/pentoo/pentoo-livecd/tree/master/livecd/x86/kernel/config-${PV}"
+		ewarn "https://raw.githubusercontent.com/pentoo/pentoo-livecd/master/livecd/x86/kernel/config-${PV}"
 	fi
 
 	use pax_kernel && ewarn "pax_kernel is no longer available, you MUST ensure the use flag is no longer set"
