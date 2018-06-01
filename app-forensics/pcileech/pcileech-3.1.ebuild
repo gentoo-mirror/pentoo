@@ -12,7 +12,7 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 IUSE="python"
 
-DEPEND=""
+DEPEND="virtual/libusb:1"
 RDEPEND="${DEPEND}"
 
 src_compile() {
