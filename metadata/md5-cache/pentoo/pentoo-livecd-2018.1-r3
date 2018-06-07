@@ -7,4 +7,4 @@ KEYWORDS=~amd64 ~x86
 PDEPEND=livecd? ( pentoo/pentoo-installer app-admin/pwgen app-misc/livecd-tools virtual/eject sys-apps/hwsetup sys-block/disktype x11-misc/mkxf86config sys-apps/gentoo-functions net-wireless/b43-fwcutter )
 RDEPEND=!<pentoo/pentoo-system-2014.3-r4
 SLOT=0
-_md5_=edc80abc9579ebe3bfc22c503a4a2240
+_md5_=447c0bbafe6221260f3a941c94ceba0d
