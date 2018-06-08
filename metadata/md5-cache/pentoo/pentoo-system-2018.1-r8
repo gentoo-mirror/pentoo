@@ -10,4 +10,4 @@ PDEPEND=livecd? ( pentoo/pentoo-livecd ) !livecd? ( !pentoo/pentoo-livecd !app-m
 RDEPEND=!app-portage/porthole
 SLOT=0
 SRC_URI=http://dev.pentoo.ch/~zero/distfiles/pentoo-grubtheme.tar.xz
-_md5_=d96429541c9fc2061d71bdc834abae37
+_md5_=907582e68f75b7a01c17b63b6d9d13d1
