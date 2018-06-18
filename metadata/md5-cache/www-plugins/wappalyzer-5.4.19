@@ -6,6 +6,6 @@ KEYWORDS=amd64 x86
 LICENSE=GPL-2
 RDEPEND=|| ( >=www-client/firefox-57.0.0 >=www-client/firefox-bin-57.0.0 )
 SLOT=0
-SRC_URI=https://addons.mozilla.org/downloads/file/822619 -> wappalyzer-5.3.2.xpi
+SRC_URI=https://addons.mozilla.org/downloads/file/987671 -> wappalyzer-5.4.19.xpi
 _eclasses_=mozilla-webext	e0c8776a0078bf0f38f7e1d650740643
-_md5_=1ec8143471b3c76280a6d23c26d63f11
+_md5_=a91b307f9ece5f0e3de2f64237ea8393

@@ -94,12 +94,12 @@ www-plugins/httpfox 0.8.14: A HTTP analyzer addon for Firefox
 www-plugins/live-http-headers 0.17-r3: View HTTP headers of a page and while browsing
 www-plugins/noscript 10.1.8.1 10.1.8.2: Allow active content in firefox to run only from trusted sites.
 www-plugins/ringleader 0.3_pre20150914: FxPnH is a Firefox addon which makes it possible to use Firefox with Plug-n-Hack providers
-www-plugins/showip 2.7.7: Firefox extensions which shows the IP address(es) of the current page in the status bar.
+www-plugins/showip 3.0.2: Firefox extensions which shows the IP address(es) of the current page in the status bar.
 www-plugins/sql-inject-me 0.4.7-r2: SQL Inject Me is the Exploit-Me tool used to test for SQL Injection vulnerabilities.
 www-plugins/sqlite_manager 0.8.1: Extension for Firefox and other apps to manage any sqlite database
 www-plugins/user-agent-switcher 0.7.3-r4: Adds a menu and a toolbar button to switch the user agent of firefox
 www-plugins/user-agent-switcher-revived 0.2.0 0.2.4: Adds a menu and a toolbar button to switch the user agent of firefox
-www-plugins/wappalyzer 5.3.2 5.4.14: Cross-platform utility that uncovers the technologies used on websites
-www-plugins/web_developer 1.2.5-r2: Adds various web developer tools to firefox.
+www-plugins/wappalyzer 5.4.14 5.4.19: Cross-platform utility that uncovers the technologies used on websites
+www-plugins/web_developer 2.0.1: Adds various web developer tools to firefox.
 www-plugins/xss-me 0.4.6-r4: Firefox extension to test for reflected cross-site-scripting vulnerabilities.
 x11-misc/mkxf86config 0.9.10-r11 0.9.11-r1 0.9.11-r2 0.9.11-r3 0.9.11-r4: xorg-x11 configuration builder - used only on LiveCD
