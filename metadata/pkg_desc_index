@@ -62,7 +62,7 @@ net-wireless/karmetasploit 0.1-r3: KARMA + Metasploit 3 == Karmetasploit
 net-wireless/wireless-regdb 20090130-r1 20090309 20090817 20091125 20091125-r1: Binary regulatory database for CRDA
 pentoo/pentoo 2015.1: Pentoo meta ebuild to install all apps
 pentoo/pentoo-cinnamon 2012.0: Pentoo cinnamon meta ebuild
-pentoo/pentoo-desktop 2018.1: Pentoo meta ebuild to install all X and WM/DE related things
+pentoo/pentoo-desktop 2018.1-r1: Pentoo meta ebuild to install all X and WM/DE related things
 pentoo/pentoo-exploit 2018.1-r1: Pentoo exploit meta ebuild
 pentoo/pentoo-footprint 2018.3: Pentoo footprint meta ebuild
 pentoo/pentoo-gnome 2.32.1-r3: Meta package for the GNOME desktop, merge this package to install
