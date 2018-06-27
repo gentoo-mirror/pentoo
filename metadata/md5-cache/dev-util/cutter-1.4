@@ -1,0 +1,14 @@
+DEFINED_PHASES=configure install prepare
+DEPEND=dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtsvg:5 dev-qt/qtwidgets:5 >=dev-util/radare2-2.2.0 webengine? ( dev-qt/qtwebengine )
+DESCRIPTION=A Qt and C++ GUI for radare2 reverse engineering framework
+EAPI=6
+HOMEPAGE=http://www.radare.org
+IUSE=+jupyter webengine python_targets_python3_4 python_targets_python3_5 python_targets_python3_6
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtsvg:5 dev-qt/qtwidgets:5 >=dev-util/radare2-2.2.0 webengine? ( dev-qt/qtwebengine )
+REQUIRED_USE=webengine? ( jupyter )
+SLOT=0
+SRC_URI=https://github.com/radareorg/cutter/archive/v1.4.tar.gz -> cutter-1.4.tar.gz
+_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	multibuild	35719a9cd25ec71ee49c966f6868454c	multilib	97f470f374f2e94ccab04a2fb21d811e	python-r1	0b5829eb6369d7af3a834b6eed7b7107	python-utils-r1	ffa9c3284c6b07b8c9f7933911f63812	qmake-utils	990448b067cb3cfe1443bc25fb57239c	toolchain-funcs	1e35303c63cd707f6c3422b4493d5607
+_md5_=fd60c32ded0365eb7c7f00d227db083a
