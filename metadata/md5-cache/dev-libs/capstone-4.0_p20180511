@@ -1,0 +1,12 @@
+DEFINED_PHASES=configure
+DESCRIPTION=disassembly/disassembler framework + bindings
+EAPI=6
+HOMEPAGE=http://www.capstone-engine.org/
+IUSE=python
+KEYWORDS=~amd64 ~arm ~x86
+LICENSE=BSD
+PDEPEND=python? ( =dev-python/capstone-python-4.0* )
+SLOT=0/3
+SRC_URI=https://github.com/aquynh/capstone/archive/37569a6874c8547b349a80823adda9284499fe80.zip -> capstone-4.0_p20180511.zip
+_eclasses_=multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	1e35303c63cd707f6c3422b4493d5607
+_md5_=fca5dce79cdf62c67c0fdf8c37febf8e
