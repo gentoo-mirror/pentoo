@@ -61,7 +61,7 @@ net-wireless/karmetasploit 0.1-r3: KARMA + Metasploit 3 == Karmetasploit
 net-wireless/wireless-regdb 20090130-r1 20090309 20090817 20091125 20091125-r1: Binary regulatory database for CRDA
 pentoo/pentoo 2015.1: Pentoo meta ebuild to install all apps
 pentoo/pentoo-cinnamon 2012.0: Pentoo cinnamon meta ebuild
-pentoo/pentoo-desktop 2018.2: Pentoo meta ebuild to install all X and WM/DE related things
+pentoo/pentoo-desktop 2018.2-r1: Pentoo meta ebuild to install all X and WM/DE related things
 pentoo/pentoo-exploit 2018.1-r1: Pentoo exploit meta ebuild
 pentoo/pentoo-footprint 2018.4: Pentoo footprint meta ebuild
 pentoo/pentoo-gnome 2.32.1-r3: Meta package for the GNOME desktop, merge this package to install
@@ -72,13 +72,13 @@ pentoo/pentoo-nfc 2015.3: Collection of NFC tools
 pentoo/pentoo-radio 2018.1-r1: Radio tools for pentoo
 pentoo/pentoo-rce 2018.0-r2: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2018.0: Pentoo scanner meta ebuild
-pentoo/pentoo-system 2018.2-r1: Pentoo meta ebuild to install system
+pentoo/pentoo-system 2018.2-r2: Pentoo meta ebuild to install system
 pentoo/wctf-client 2018.1-r1: Packages needed to power the client NUC for WCTF events
-pentoo/zero-system 2018.2: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
+pentoo/zero-system 2018.2-r1: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
 sys-apps/magic-pax 0.0.1: 
 sys-boot/grub-static 0.97-r9 0.97-r10: GNU GRUB Legacy boot loader (static build)
 sys-fs/static-dev 0.1: A skeleton, statically managed /dev
-sys-kernel/pentoo-sources 4.16.11 4.17.4 4.17.6: Pentoo kernel sources (kernel series 4.17)
+sys-kernel/pentoo-sources 4.16.11: Pentoo kernel sources (kernel series 4.16)
 sys-power/acpid 2.0.29-r2: Daemon for Advanced Configuration and Power Interface
 virtual/jdk 1.7.0-r3 1.8.0-r4: Virtual for Java Development Kit (JDK)
 virtual/linux-sources 1-r1 3-r1: Virtual for Linux kernel sources
