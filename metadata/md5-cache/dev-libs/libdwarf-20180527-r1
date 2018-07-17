@@ -7,5 +7,5 @@ KEYWORDS=~amd64 ~arm ~x86
 LICENSE=LGPL-2.1
 RDEPEND=virtual/libelf
 SLOT=0
-SRC_URI=https://www.prevanders.net/libdwarf-20180129.tar.gz
-_md5_=ce13b66550cc805bb94fdf1edc127c0b
+SRC_URI=https://www.prevanders.net/libdwarf-20180527.tar.gz
+_md5_=fc04b21eee017c6f40924caf3bfd42cb
