@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=Pentoo mobile meta ebuild
+EAPI=6
+HOMEPAGE=http://www.pentoo.ch
+IUSE=+android +ios minipentoo
+KEYWORDS=amd64 arm x86
+LICENSE=GPL-3
+PDEPEND=dev-python/frida-python android? ( !arm? ( dev-util/apktool dev-util/dex2jar dev-util/android-tools ) !minipentoo? ( !arm? ( app-misc/gplaycli dev-util/android-sdk-update-manager ) dev-python/androguard ) ) ios? ( !minipentoo? ( sys-devel/clang ) app-pda/ideviceinstaller app-pda/ifuse app-pda/usbmuxd )
+SLOT=0
+_md5_=dea41ea561b6e0e024519f28ac19e5e4
