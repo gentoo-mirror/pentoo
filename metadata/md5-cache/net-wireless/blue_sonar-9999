@@ -1,0 +1,10 @@
+DEFINED_PHASES=install unpack
+DEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DESCRIPTION=A simple wrapper for l2ping which shows rssi
+EAPI=6
+HOMEPAGE=https://github.com/ZeroChaos-/blue_sonar
+LICENSE=BSD-4
+PDEPEND=net-wireless/bluez
+SLOT=0
+_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b
+_md5_=a2f9751f6d1d16e32a774041efe85cd9
