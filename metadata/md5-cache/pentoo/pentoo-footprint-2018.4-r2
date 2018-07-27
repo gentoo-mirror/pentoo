@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=Pentoo footprint meta ebuild
+EAPI=6
+HOMEPAGE=http://www.pentoo.ch
+IUSE=pentoo-full
+KEYWORDS=amd64 ~arm x86
+LICENSE=GPL-3
+PDEPEND=net-analyzer/whatweb net-analyzer/wafw00f net-analyzer/sublist3r pentoo-full? ( net-analyzer/amap net-analyzer/fierce net-analyzer/dnsrecon net-analyzer/geoedge net-analyzer/metagoofil net-analyzer/ntp-fingerprint net-analyzer/p0f net-analyzer/recon-ng net-analyzer/scanssh net-analyzer/siphon net-analyzer/subdomainer net-analyzer/theHarvester net-analyzer/wfuzz net-analyzer/xprobe )
+SLOT=0
+_md5_=67d2e96600ea52a6cead8e3720a2aa6e

@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=Pentoo forging meta ebuild
+EAPI=6
+HOMEPAGE=http://www.pentoo.ch
+IUSE=pentoo-full
+KEYWORDS=~amd64 ~arm ~x86
+LICENSE=GPL-3
+PDEPEND=net-analyzer/hping net-analyzer/macchanger pentoo-full? ( net-analyzer/fragroute net-analyzer/gspoof net-analyzer/hyenae net-analyzer/isic net-analyzer/netwag net-analyzer/packit net-analyzer/rain net-misc/ipsorcery )
+SLOT=0
+_md5_=8677a8830b281958402b7c9479b6c3f0
