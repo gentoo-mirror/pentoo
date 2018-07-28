@@ -3,8 +3,9 @@ DEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=Installer for pentoo, based on the ncurses Arch Linux installer
 EAPI=6
 HOMEPAGE=https://github.com/pentoo/pentoo-installer
+KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 PDEPEND=dev-util/dialog sys-apps/util-linux sys-block/parted sys-boot/efibootmgr sys-boot/grub:2[multislot(-)] sys-boot/os-prober sys-boot/shim sys-boot/mokutil app-crypt/pinentry[gtk,ncurses] sys-fs/squashfs-tools x11-misc/wmctrl net-misc/rsync
 SLOT=0
 _eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b
-_md5_=60574a541ef52afc72a72e1c667f7255
+_md5_=428b96af19721e1ff7622a311326ad51
