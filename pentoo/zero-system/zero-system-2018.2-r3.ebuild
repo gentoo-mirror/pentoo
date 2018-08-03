@@ -11,7 +11,7 @@ SRC_URI=""
 LICENSE="GPL-3"
 SLOT="0"
 KEYWORDS="amd64 arm x86"
-IUSE="gato nu printer"
+IUSE="nu printer theprophet"
 S="${WORKDIR}"
 
 PDEPEND="
@@ -42,11 +42,11 @@ PDEPEND="
 		!nu? ( printer? ( net-print/samsung-unified-linux-driver )
 			dev-ruby/pry
 			app-doc/doxygen
-			arm? ( www-client/firefox )
+			www-client/firefox
 			!arm? ( www-client/firefox-bin )
 			net-ftp/filezilla
 			!arm? ( www-plugins/chrome-binary-plugins:stable )
-			amd64? ( gato? ( www-client/chromium ) )
+			amd64? ( theprophet? ( www-client/chromium ) )
 			!arm? ( www-client/google-chrome )
 			app-office/libreoffice
 			!arm? ( app-emulation/virtualbox app-emulation/virtualbox-extpack-oracle app-emulation/virtualbox-additions )
