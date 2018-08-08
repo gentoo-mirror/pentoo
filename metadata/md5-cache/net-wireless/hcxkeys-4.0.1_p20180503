@@ -7,4 +7,4 @@ KEYWORDS=~amd64 ~arm ~x86
 RDEPEND=dev-libs/openssl:* sys-libs/zlib net-misc/curl
 SLOT=0
 SRC_URI=https://github.com/ZerBea/hcxkeys/archive/39fdb0133cb2d1727cb8669c3f661f93d4cd4952.tar.gz -> hcxkeys-{MY_COMMIT}.tar.gz
-_md5_=f11d4a5694325f08cbdc4e5f87027ff9
+_md5_=e3959e412d84d53e3a2765a68436f764
