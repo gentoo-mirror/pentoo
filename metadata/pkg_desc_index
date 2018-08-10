@@ -64,12 +64,12 @@ pentoo/pentoo-cinnamon 2018.2: Pentoo cinnamon meta ebuild
 pentoo/pentoo-desktop 2018.2-r4: Pentoo meta ebuild to install all X and WM/DE related things
 pentoo/pentoo-footprint 2018.4-r2: Pentoo footprint meta ebuild
 pentoo/pentoo-gnome 2.32.1-r3: Meta package for the GNOME desktop, merge this package to install
-pentoo/pentoo-misc 2018.2-r4: Pentoo misc meta ebuild
+pentoo/pentoo-misc 2018.2-r5: Pentoo misc meta ebuild
 pentoo/pentoo-mobile 2018.2-r1: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2015.3: Collection of NFC tools
 pentoo/pentoo-rce 2018.2: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2018.2-r1: Pentoo scanner meta ebuild
-pentoo/pentoo-system 2018.2-r9: Pentoo meta ebuild to install system
+pentoo/pentoo-system 2018.2-r10: Pentoo meta ebuild to install system
 pentoo/wctf-client 2018.2-r1: Packages needed to power the client NUC for WCTF events
 pentoo/zero-system 2018.2-r4: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
 sys-apps/magic-pax 0.0.1: 
