@@ -1,13 +1,13 @@
 DEFINED_PHASES=compile install prepare
-DEPEND=virtual/libusb:0 sys-libs/ncurses:* dev-qt/qtcore:5 dev-qt/qtwidgets:5 dev-qt/qtgui:5 firmware? ( sys-devel/gcc-arm-none-eabi ) virtual/pkgconfig
+DEPEND=virtual/libusb:0 sys-libs/ncurses:* dev-qt/qtcore:5 dev-qt/qtwidgets:5 dev-qt/qtgui:5 sys-libs/readline:= firmware? ( sys-devel/gcc-arm-none-eabi ) virtual/pkgconfig
 DESCRIPTION=A general purpose RFID tool for Proxmark3 hardware
 EAPI=6
 HOMEPAGE=https://github.com/Proxmark/proxmark3
 IUSE=firmware
 KEYWORDS=~amd64
 LICENSE=GPL-2
-RDEPEND=virtual/libusb:0 sys-libs/ncurses:* dev-qt/qtcore:5 dev-qt/qtwidgets:5 dev-qt/qtgui:5 firmware? ( sys-devel/gcc-arm-none-eabi )
+RDEPEND=virtual/libusb:0 sys-libs/ncurses:* dev-qt/qtcore:5 dev-qt/qtwidgets:5 dev-qt/qtgui:5 sys-libs/readline:= firmware? ( sys-devel/gcc-arm-none-eabi )
 SLOT=0
 SRC_URI=https://github.com/Proxmark/proxmark3/archive/v3.0.1.tar.gz -> proxmark3-3.0.1.tar.gz
 _eclasses_=multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	1e35303c63cd707f6c3422b4493d5607	udev	ddeaa82191950841a645e0929b0a8c13
-_md5_=8fe46de69cf9e6d010c7a5beebbf7be7
+_md5_=1f66e8a28429d16663ad53c378e3f59f
