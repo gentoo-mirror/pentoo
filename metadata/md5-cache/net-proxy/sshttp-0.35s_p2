@@ -8,4 +8,4 @@ LICENSE=BSD
 RDEPEND=net-libs/libpcap
 SLOT=0
 SRC_URI=https://github.com/stealth/sshttp/archive/sshttp-splice-0-35s2.tar.gz -> sshttp-0.35s_p2.tar.gz
-_md5_=3e516a2b4874606920c37266a71dd641
+_md5_=48cef995a9947d2839d71313f9a03ab7
