@@ -1,0 +1,9 @@
+DEFINED_PHASES=unpack
+DEPEND=>=net-wireless/gnuradio-3.7.0:= dev-libs/boost:= net-libs/libiio:= net-libs/libad9361:= sys-devel/flex:= sys-devel/bison:= >=dev-vcs/git-1.8.2.1[curl]
+DESCRIPTION=GNU Radio IIO Blocks
+EAPI=6
+HOMEPAGE=https://github.com/analogdevicesinc/gr-iio
+RDEPEND=>=net-wireless/gnuradio-3.7.0:= dev-libs/boost:= net-libs/libiio:= net-libs/libad9361:=
+SLOT=0
+_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b
+_md5_=844ebdcf795cbbae005e95240370bde3
