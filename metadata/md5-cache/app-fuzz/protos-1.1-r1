@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install unpack
+DEPEND=virtual/jre
+DESCRIPTION=The protos fuzzing collection, containing http-reply, ldapv3, snmpv1, sip, h2250v4 and isakmp
+EAPI=0
+HOMEPAGE=http://www.ee.oulu.fi/research/ouspg/protos/
+IUSE=http ldap snmp sip h2250 isakmp dns
+KEYWORDS=~x86
+LICENSE=GPL-2
+RDEPEND=virtual/jre
+SLOT=0
+SRC_URI=http? ( https://www.ee.oulu.fi/roles/ouspg/PROTOS_Test-Suite_c05-http-reply?action=AttachFile&do=get&target=c05-http-reply-r1.jar ) ldap? ( https://www.ee.oulu.fi/roles/ouspg/PROTOS_Test-Suite_c06-ldapv3?action=AttachFile&do=get&target=c06-ldapv3-enc-r1.jar https://www.ee.oulu.fi/roles/ouspg/PROTOS_Test-Suite_c06-ldapv3?action=AttachFile&do=get&target=c06-ldapv3-app-r1.jar ) snmp? ( https://www.ee.oulu.fi/roles/ouspg/PROTOS_Test-Suite_c06-snmpv1?action=AttachFile&do=get&target=c06-snmpv1-req-app-r1.jar https://www.ee.oulu.fi/roles/ouspg/PROTOS_Test-Suite_c06-snmpv1?action=AttachFile&do=get&target=c06-snmpv1-req-enc-r1.jar https://www.ee.oulu.fi/roles/ouspg/PROTOS_Test-Suite_c06-snmpv1?action=AttachFile&do=get&target=c06-snmpv1-trap-app-r1.jar https://www.ee.oulu.fi/roles/ouspg/PROTOS_Test-Suite_c06-snmpv1?action=AttachFile&do=get&target=c06-snmpv1-trap-enc-r1.jar ) sip? ( https://www.ee.oulu.fi/roles/ouspg/PROTOS_Test-Suite_c07-sip?action=AttachFile&do=get&target=c07-sip-r2.jar ) h2250? ( https://www.ee.oulu.fi/roles/ouspg/PROTOS_Test-Suite_c07-h2250v4?action=AttachFile&do=get&target=c07-h2250v4-r2.jar ) isakmp? ( https://www.ee.oulu.fi/roles/ouspg/PROTOS_Test-Suite_c09-isakmp?action=AttachFile&do=get&target=c09-isakmp-r2.jar ) dns? ( https://www.ee.oulu.fi/roles/ouspg/PROTOS_Test-Suite_c09-dns?action=AttachFile&do=get&target=c09-dns-query-r1.jar https://www.ee.oulu.fi/roles/ouspg/PROTOS_Test-Suite_c09-dns?action=AttachFile&do=get&target=c09-dns-response-r1.jar https://www.ee.oulu.fi/roles/ouspg/PROTOS_Test-Suite_c09-dns?action=AttachFile&do=get&target=c09-dns-zonetransfer-r1.jar )
+_md5_=a67812dd594774722d7281c491192868
