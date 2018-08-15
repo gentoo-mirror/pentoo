@@ -6,5 +6,5 @@ HOMEPAGE=https://github.com/fuzzdb-project
 KEYWORDS=~amd64 ~arm ~x86
 LICENSE=BSD
 SLOT=0
-_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b
+_eclasses_=git-r3	918d6a744039c29af2cadc7317459765
 _md5_=df80d4a516e55a6f1804e5684dce214d

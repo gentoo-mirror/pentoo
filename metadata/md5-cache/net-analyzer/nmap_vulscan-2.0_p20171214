@@ -7,5 +7,5 @@ KEYWORDS=~amd64 ~x86 ~arm
 LICENSE=GPL-2
 RDEPEND=net-analyzer/nmap[nse]
 SLOT=0
-_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b
+_eclasses_=git-r3	918d6a744039c29af2cadc7317459765
 _md5_=bd23635b33eb2dced88f54c26364cbed

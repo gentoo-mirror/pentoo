@@ -6,5 +6,5 @@ HOMEPAGE=https://github.com/ZeroChaos-/blue_sonar
 LICENSE=BSD-4
 PDEPEND=net-wireless/bluez
 SLOT=0
-_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b
+_eclasses_=git-r3	918d6a744039c29af2cadc7317459765
 _md5_=e25f896df03c071ee6ee35732fbf5fcd

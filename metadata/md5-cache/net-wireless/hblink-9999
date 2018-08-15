@@ -5,5 +5,5 @@ EAPI=6
 HOMEPAGE=https://github.com/n0mjs710/HBlink
 LICENSE=GPL-3
 SLOT=0
-_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b
+_eclasses_=git-r3	918d6a744039c29af2cadc7317459765
 _md5_=ef885c29ac80df3a89c05a034e1920ee
