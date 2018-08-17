@@ -1,7 +1,9 @@
-DEFINED_PHASES=preinst prepare unpack
-DEPEND=|| ( dev-vcs/subversion[http] dev-vcs/subversion[webdav-neon] dev-vcs/subversion[webdav-serf] ) net-misc/rsync
-EAPI=4
+DEFINED_PHASES=unpack
+DEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DESCRIPTION=Reading, writing and analysis of magnetic stripe information
+EAPI=6
+HOMEPAGE=https://github.com/ioerror/libmsr
 KEYWORDS=~x86 ~amd64
 SLOT=0
-_eclasses_=desktop	b1d22ac8bdd4679ab79c71aca235009d	epatch	ed88001f77c6dd0d5f09e45c1a5b480e	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	6e6c2737b59a4b982de6fb3ecefd87f8	ltprune	08f9e1d9ee0af8f5d9a7854efbcd8c0e	multilib	97f470f374f2e94ccab04a2fb21d811e	preserve-libs	ef207dc62baddfddfd39a164d9797648	subversion	3d1eb4b41d7190570a84f786958ebb13	toolchain-funcs	1e35303c63cd707f6c3422b4493d5607	vcs-clean	2a0f74a496fa2b1552c4f3398258b7bf
-_md5_=b5ac0a176d1420c626f80261e1e6427a
+_eclasses_=git-r3	918d6a744039c29af2cadc7317459765
+_md5_=386a04bea4e8cc658f0622792d1f3c40
