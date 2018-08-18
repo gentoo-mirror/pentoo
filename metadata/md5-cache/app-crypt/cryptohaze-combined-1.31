@@ -9,4 +9,4 @@ LICENSE=GPL-2
 RDEPEND=dev-libs/argtable net-misc/curl dev-libs/protobuf dev-util/nvidia-cuda-sdk[examples] >=dev-libs/boost-1.47.0
 SLOT=0
 SRC_URI=mirror://sourceforge/cryptohaze/Cryptohaze-Src_1_31.tar.bz2
-_md5_=7ed14765925c4ce9c3613484d201bd3d
+_md5_=a13ad33a125279a7c69813a659b181e5
