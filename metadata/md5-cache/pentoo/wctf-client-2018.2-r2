@@ -1,0 +1,9 @@
+DEFINED_PHASES=install
+DEPEND=!pentoo/pentoo-system
+DESCRIPTION=Packages needed to power the client NUC for WCTF events
+EAPI=6
+HOMEPAGE=http://wctf.us
+KEYWORDS=amd64
+PDEPEND=dev-vcs/git net-misc/dhcpcd sys-apps/rng-tools sys-power/thermald sys-kernel/pentoo-sources app-misc/screen app-editors/nano app-editors/vim net-wireless/rtl8812au_aircrack-ng sys-process/iotop sys-process/htop sys-process/usbtop sys-boot/grub:2 app-portage/layman sys-kernel/genkernel app-admin/sudo net-wireless/wpa_supplicant net-wireless/aircrack-ng >=sys-apps/util-linux-2.31_rc1 net-wireless/kismet app-portage/gentoolkit app-portage/smart-live-rebuild || ( net-misc/iputils[arping(+)] net-analyzer/arping )
+SLOT=0
+_md5_=ac0306570e67fb01c5689f65d7becdf6
