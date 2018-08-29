@@ -1,0 +1,9 @@
+DEFINED_PHASES=install
+DESCRIPTION=Local Linux enumeration and privilege escalation checker.
+EAPI=6
+HOMEPAGE=https://github.com/rebootuser/LinEnum
+KEYWORDS=~x86 ~amd64
+LICENSE=MIT
+SLOT=0
+SRC_URI=https://github.com/rebootuser/LinEnum/archive/d42e5eb07c4559ec2162f09ec71d687bf218a8a8.tar.gz -> linenum-20180827.tar.gz
+_md5_=d332e8120fa4292e8878cb802b99a25f
