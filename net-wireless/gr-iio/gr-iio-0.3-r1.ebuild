@@ -3,6 +3,10 @@
 
 EAPI=6
 
+PYTHON_COMPAT=( python2_7 )
+
+inherit cmake-utils python-single-r1
+
 DESCRIPTION="GNU Radio IIO Blocks"
 HOMEPAGE="https://github.com/analogdevicesinc/gr-iio"
 SRC_URI="https://github.com/analogdevicesinc/${PN}/archive/v${PV}.tar.gz -> ${P}.tar.gz"
@@ -18,4 +22,6 @@ RDEPEND=">=net-wireless/gnuradio-3.7.0:=
 
 DEPEND="${RDEPEND}
 	sys-devel/flex:=
-	sys-devel/bison:="
+	sys-devel/bison:=
+	dev-util/cppunit:=
+	dev-lang/swig:0"

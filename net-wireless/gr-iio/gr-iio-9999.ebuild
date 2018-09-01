@@ -2,7 +2,10 @@
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=6
-inherit git-r3
+
+PYTHON_COMPAT=( python2_7 )
+
+inherit cmake-utils python-single-r1 git-r3
 
 DESCRIPTION="GNU Radio IIO Blocks"
 HOMEPAGE="https://github.com/analogdevicesinc/gr-iio"
@@ -19,4 +22,6 @@ RDEPEND=">=net-wireless/gnuradio-3.7.0:=
 
 DEPEND="${RDEPEND}
 	sys-devel/flex:=
-	sys-devel/bison:="
+	sys-devel/bison:=
+	dev-util/cppunit:=
+	dev-lang/swig:0"
