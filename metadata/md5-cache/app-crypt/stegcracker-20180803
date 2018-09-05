@@ -1,0 +1,9 @@
+DEFINED_PHASES=install
+DESCRIPTION=Steganography brute-force utility to uncover hidden data inside files.
+EAPI=6
+HOMEPAGE=https://github.com/Paradoxis/StegCracker
+KEYWORDS=~x86 ~amd64
+LICENSE=MIT
+SLOT=0
+SRC_URI=https://github.com/Paradoxis/StegCracker/archive/102ee64d4efd60f98a84cdabb185bfd5208778da.tar.gz -> stegcracker-20180803.tar.gz
+_md5_=f1e58a7f4f50f1e5f3e8d397bd7fbd52
