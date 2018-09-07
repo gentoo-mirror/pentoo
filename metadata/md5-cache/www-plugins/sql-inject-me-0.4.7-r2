@@ -9,5 +9,5 @@ LICENSE=LGPL-3
 RDEPEND=!symlink_all_targets? ( target_firefox? ( www-client/firefox ) target_firefox-bin? ( www-client/firefox-bin ) )
 SLOT=0
 SRC_URI=https://addons.mozilla.org/downloads/file/229626 -> sql-inject-me-0.4.7.xpi
-_eclasses_=desktop	b1d22ac8bdd4679ab79c71aca235009d	epatch	a1bf4756dba418a7238f3be0cb010c54	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	6e6c2737b59a4b982de6fb3ecefd87f8	ltprune	08f9e1d9ee0af8f5d9a7854efbcd8c0e	mozextension	89a560beaf496e7cb89f3d79d4aef09e	mozilla-addon	8d5d6700a00c98468e9e6c7269e50064	multilib	97f470f374f2e94ccab04a2fb21d811e	preserve-libs	ef207dc62baddfddfd39a164d9797648	toolchain-funcs	e4a9360924c5ce9f52e61342cde58512	vcs-clean	2a0f74a496fa2b1552c4f3398258b7bf
+_eclasses_=desktop	b1d22ac8bdd4679ab79c71aca235009d	epatch	a1bf4756dba418a7238f3be0cb010c54	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	6e6c2737b59a4b982de6fb3ecefd87f8	ltprune	08f9e1d9ee0af8f5d9a7854efbcd8c0e	mozextension	f47f008a138943f9e40e37c1fca10b24	mozilla-addon	8d5d6700a00c98468e9e6c7269e50064	multilib	97f470f374f2e94ccab04a2fb21d811e	preserve-libs	ef207dc62baddfddfd39a164d9797648	toolchain-funcs	e4a9360924c5ce9f52e61342cde58512	vcs-clean	2a0f74a496fa2b1552c4f3398258b7bf
 _md5_=141c94f24c04054ab734172f98590315
