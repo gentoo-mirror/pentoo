@@ -1,0 +1,11 @@
+DEFINED_PHASES=compile install test unpack
+DEPEND=>=dev-lang/go-1.9
+DESCRIPTION=The robots.txt exclusion protocol implementation
+EAPI=6
+HOMEPAGE=https://github.com/temoto/robotstxt
+KEYWORDS=~amd64 ~arm ~arm64 ~x86
+LICENSE=BSD-3
+SLOT=0
+SRC_URI=https://github.com/temoto/robotstxt-go/archive/97ee4a9ee6ea01ed0bbf0325dd789f74cac6cb94.tar.gz -> robotstxt-go-20170603.tar.gz
+_eclasses_=golang-base	8e4d7f712ec0e170e2c190c1e3da6501	golang-build	1b46197451ce01766db03a9955597d7b	golang-vcs-snapshot	6f66975a5b570c5e05ed96910c574abc
+_md5_=12c38a965cd6fbbbd100ef305a168759
