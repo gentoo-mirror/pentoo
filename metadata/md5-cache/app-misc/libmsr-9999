@@ -5,5 +5,5 @@ EAPI=6
 HOMEPAGE=https://github.com/ioerror/libmsr
 KEYWORDS=~x86 ~amd64
 SLOT=0
-_eclasses_=git-r3	918d6a744039c29af2cadc7317459765
+_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
 _md5_=386a04bea4e8cc658f0622792d1f3c40
