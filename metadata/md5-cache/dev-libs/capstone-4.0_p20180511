@@ -8,5 +8,5 @@ LICENSE=BSD
 PDEPEND=python? ( =dev-python/capstone-python-4.0* )
 SLOT=0/3
 SRC_URI=https://github.com/aquynh/capstone/archive/37569a6874c8547b349a80823adda9284499fe80.zip -> capstone-4.0_p20180511.zip
-_eclasses_=multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	e4a9360924c5ce9f52e61342cde58512
+_eclasses_=multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	f164325a2cdb5b3ea39311d483988861
 _md5_=fca5dce79cdf62c67c0fdf8c37febf8e
