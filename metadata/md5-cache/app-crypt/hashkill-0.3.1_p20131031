@@ -8,5 +8,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 RDEPEND=opencl? ( virtual/opencl ) video_cards_nvidia? ( x11-drivers/nvidia-drivers ) video_cards_fglrx? ( x11-drivers/ati-drivers ) json? ( <dev-libs/json-c-0.11 )
 SLOT=0
-_eclasses_=autotools	1bf086cdd7356f5c9a4acd9727bd2065	git-2	249c1a0962573f4ce2c28f0d5b6b35d4	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	97f470f374f2e94ccab04a2fb21d811e	pax-utils	e85f015e815dd463b0c206d781ef45a5	toolchain-funcs	f164325a2cdb5b3ea39311d483988861
+_eclasses_=autotools	1bf086cdd7356f5c9a4acd9727bd2065	git-2	249c1a0962573f4ce2c28f0d5b6b35d4	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	b2f01ad412baf81650c23fcf0975fa33	pax-utils	e85f015e815dd463b0c206d781ef45a5	toolchain-funcs	f164325a2cdb5b3ea39311d483988861
 _md5_=1f848f99f1fa1f80e01a49990beada61
