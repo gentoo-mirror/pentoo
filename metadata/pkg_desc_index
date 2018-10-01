@@ -21,6 +21,7 @@ app-pda/libusbmuxd 1.0.10 1.1.0_pre20170522: USB multiplex daemon for use with A
 app-pda/usbmuxd 1.1.0 1.1.1_pre20180131: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
 dev-db/minimysqlator 05: Minimysqlator is a MySQL injection tools that facilitates the retrieval of DB and more
 dev-db/sqid 0.3: A SQL injection digger
+dev-libs/openssl-bad 1.0.2_p20180915: Snapshot for testssl.sh >2.8 from PM's fork, ready to compile
 dev-libs/openssl-chacha 1.0.2_p20170706: Extra featured OpenSSL with ChaCha20 and Poly1305 support
 dev-perl/Encoding-BER 1.02: Perl module for encoding/decoding data using ASN.1 Basic Encoding Rules (BER)
 dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
@@ -38,6 +39,7 @@ gnome-base/libgnomeui 2.24.5-r4: User Interface routines for Gnome
 net-analyzer/nessus-bin 7.0.2: A remote security scanner for Linux
 net-analyzer/nmap_vulscan 2.0-r1: A NSE vulnerability scanner which uses an offline version of scip VulDB
 net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
+net-analyzer/testssl 2.9.5_p7: Tool to check TLS/SSL cipher support
 net-analyzer/videojak 1.00: VideoJak is an IP Video security assessment tool
 net-analyzer/webshag 1.10: An enhanced HTTP URL Scanner and fuzzer
 net-analyzer/zarp 0.1.8: Local network attack toolkit
