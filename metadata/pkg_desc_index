@@ -1,4 +1,4 @@
-app-admin/testdisk 7.1_pre20180922: Checks and undeletes partitions + PhotoRec, signature based recovery tool
+app-admin/testdisk 7.1: Checks and undeletes partitions + PhotoRec, signature based recovery tool
 app-antivirus/malheur 0.5.4: Malware analysis tool
 app-crypt/asleap 2.2: exploiting cisco leap; As in asleap behind the wheel.
 app-crypt/cryptohaze-combined 1.31: GPU and OpenCL accelerated password auditing tools for security professionals
