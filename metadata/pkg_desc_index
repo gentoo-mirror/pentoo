@@ -39,7 +39,7 @@ gnome-base/libgnomeui 2.24.5-r4: User Interface routines for Gnome
 net-analyzer/nessus-bin 7.0.2: A remote security scanner for Linux
 net-analyzer/nmap_vulscan 2.0-r1: A NSE vulnerability scanner which uses an offline version of scip VulDB
 net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
-net-analyzer/testssl 2.9.5_p7 2.9.5.7: Tool to check TLS/SSL cipher support
+net-analyzer/testssl 2.9.5.7: Tool to check TLS/SSL cipher support
 net-analyzer/videojak 1.00: VideoJak is an IP Video security assessment tool
 net-analyzer/webshag 1.10: An enhanced HTTP URL Scanner and fuzzer
 net-analyzer/zarp 0.1.8: Local network attack toolkit
