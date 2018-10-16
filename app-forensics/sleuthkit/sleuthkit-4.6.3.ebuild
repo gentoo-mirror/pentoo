@@ -42,8 +42,6 @@ PATCHES=(
 	"${FILESDIR}"/${PN}-4.5.0-libewf.patch
 )
 
-TSK_JAR_DIR="${S}/bindings/java/lib"
-
 src_unpack() {
 	local f
 
@@ -51,12 +49,14 @@ src_unpack() {
 
 	# Copy the jar files that don't exist in the tree yet
 	if use java; then
+		TSK_JAR_DIR="${S}/bindings/java/lib"
 		mkdir "${TSK_JAR_DIR}" || die
 		for f in ${A}; do
 			if [[ ${f} =~ .jar$ ]]; then
 				cp "${DISTDIR}"/"${f}" "${TSK_JAR_DIR}" || die
 			fi
 		done
+		export TSK_JAR_DIR
 	fi
 }
 
