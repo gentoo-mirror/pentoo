@@ -2,9 +2,6 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-app-admin/testdisk:ewf - Include ewf library
-app-admin/testdisk:ntfs - Include the ability to read NTFS filesystems
-app-admin/testdisk:reiserfs - Include reiserfs reading ability
 app-forensics/sleuthkit:aff - Enable extra aff formats
 app-forensics/sleuthkit:ewf - Enable libewf support
 app-misc/binwalk:graph - Enable support for generating entropy graphs

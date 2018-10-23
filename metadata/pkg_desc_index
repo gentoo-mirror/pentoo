@@ -1,4 +1,3 @@
-app-admin/testdisk 7.1: Checks and undeletes partitions + PhotoRec, signature based recovery tool
 app-antivirus/malheur 0.5.4: Malware analysis tool
 app-crypt/asleap 2.2: exploiting cisco leap; As in asleap behind the wheel.
 app-crypt/cryptohaze-combined 1.31: GPU and OpenCL accelerated password auditing tools for security professionals
@@ -73,12 +72,12 @@ pentoo/pentoo-nfc 2015.3: Collection of NFC tools
 pentoo/pentoo-rce 2018.2: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2018.2-r1: Pentoo scanner meta ebuild
 pentoo/pentoo-system 2018.3: Pentoo meta ebuild to install system
-pentoo/wctf-client 2018.3-r3: Packages needed to power the client NUC for WCTF events
+pentoo/wctf-client 2018.3-r4: Packages needed to power the client NUC for WCTF events
 pentoo/zero-system 2018.3: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
 sys-apps/magic-pax 0.0.1: 
 sys-boot/grub-static 0.97-r9 0.97-r10: GNU GRUB Legacy boot loader (static build)
 sys-fs/static-dev 0.1: A skeleton, statically managed /dev
-sys-kernel/pentoo-sources 4.16.11 4.17.19 4.18.14: Pentoo kernel sources (kernel series 4.18)
+sys-kernel/pentoo-sources 4.16.11 4.17.19 4.18.14 4.19.0: Pentoo kernel sources (kernel series 4.19)
 sys-power/acpid 2.0.29-r2: Daemon for Advanced Configuration and Power Interface
 virtual/jdk 1.7.0-r3 1.8.0-r4: Virtual for Java Development Kit (JDK)
 virtual/linux-sources 1-r1 3-r1: Virtual for Linux kernel sources
