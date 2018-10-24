@@ -12,11 +12,10 @@ if [[ ${PV} == "9999" ]] ; then
 	KEYWORDS=""
 	inherit git-r3
 	EGIT_REPO_URI="https://github.com/aircrack-ng/rtl8812au.git"
-	EGIT_BRANCH="v5.3.4"
+	EGIT_BRANCH="v5.2.20"
 else
-#channel control does not work in the monitor mode yet
-#	KEYWORDS="~amd64 ~x86"
-	COMMIT="85620abb332ba2355776232aff9f36f9c96c48b6"
+	KEYWORDS="~amd64 ~x86"
+	COMMIT="c0b49289d5ae2671c4d8eb856bc516fb808f26d7"
 	SRC_URI="https://github.com/aircrack-ng/rtl8812au/archive/${COMMIT}.tar.gz -> ${P}.tar.gz"
 	S="${WORKDIR}/rtl8812au-${COMMIT}"
 fi
@@ -40,5 +39,6 @@ pkg_setup() {
 
 src_prepare() {
 	sed -i 's#CONFIG_80211W = n#CONFIG_80211W = y#' Makefile
+	sed -i 's#-DCONFIG_IEEE80211W#-DCONFIG_IEEE80211W -DCONFIG_RTW_80211R#' Makefile
 	default
 }
