@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=Pentoo analyzers meta ebuild
+EAPI=6
+HOMEPAGE=http://www.pentoo.ch
+IUSE=ipv6 java gnome ldap pentoo-full
+KEYWORDS=~amd64 ~arm ~x86
+LICENSE=GPL-3
+PDEPEND=net-analyzer/netcat6 net-analyzer/net-snmp net-analyzer/scapy net-analyzer/tcpdump net-analyzer/tcptraceroute net-analyzer/testssl net-analyzer/traceroute net-analyzer/wireshark net-misc/whatmask pentoo-full? ( ipv6? ( net-analyzer/thc-ipv6 net-analyzer/ipv6toolkit ) java? ( ldap? ( net-nds/jxplorer ) ) x86? ( net-analyzer/angst ) net-analyzer/arpwatch net-analyzer/chaosreader net-analyzer/cloudshark net-analyzer/dnsa net-analyzer/dnstracer net-analyzer/etherape net-analyzer/ftester net-analyzer/gnome-nettool net-analyzer/mbrowse net-analyzer/mtr net-analyzer/netdiscover net-analyzer/ngrep net-analyzer/ntopng net-analyzer/snmpenum net-analyzer/snort net-analyzer/sslscan net-analyzer/sslyze net-analyzer/tcpreplay net-analyzer/thcrut net-misc/socat )
+SLOT=0
+_md5_=5b205dd024691deb346f015f8188f2cb
