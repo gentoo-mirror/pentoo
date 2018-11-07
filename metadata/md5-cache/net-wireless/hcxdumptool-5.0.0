@@ -1,0 +1,9 @@
+DEFINED_PHASES=configure install
+DESCRIPTION=Small tool to capture packets from wlan devices
+EAPI=6
+HOMEPAGE=https://github.com/ZerBea/hcxdumptool
+IUSE=gpio
+KEYWORDS=~amd64 ~arm ~x86
+SLOT=0
+SRC_URI=https://github.com/ZerBea/hcxdumptool/archive/5.0.0.tar.gz -> hcxdumptool-5.0.0.tar.gz
+_md5_=ee3e530e83588c36868dd3ffea504981
