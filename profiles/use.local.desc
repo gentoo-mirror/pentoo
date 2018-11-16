@@ -5,18 +5,6 @@
 app-forensics/sleuthkit:aff - Enable extra aff formats
 app-forensics/sleuthkit:ewf - Enable libewf support
 app-misc/binwalk:graph - Enable support for generating entropy graphs
-dev-libs/openssl-bad:asm - Support assembly hand optimized crypto functions (i.e. faster run time)
-dev-libs/openssl-bad:bindist - Disable EC algorithms (as they seem to be patented) -- note: changes the ABI
-dev-libs/openssl-bad:rfc3779 - Enable support for RFC 3779 (X.509 Extensions for IP Addresses and AS Identifiers)
-dev-libs/openssl-bad:sslv2 - Support for the old/insecure SSLv2 protocol -- note: not required for TLS/https
-dev-libs/openssl-bad:sslv3 - Support for the old/insecure SSLv3 protocol -- note: not required for TLS/https
-dev-libs/openssl-bad:tls-heartbeat - Enable the Heartbeat Extension in TLS and DTLS
-dev-libs/openssl-chacha:asm - Support assembly hand optimized crypto functions (i.e. faster run time)
-dev-libs/openssl-chacha:bindist - Disable EC algorithms (as they seem to be patented) -- note: changes the ABI
-dev-libs/openssl-chacha:rfc3779 - Enable support for RFC 3779 (X.509 Extensions for IP Addresses and AS Identifiers)
-dev-libs/openssl-chacha:sslv2 - Support for the old/insecure SSLv2 protocol -- note: not required for TLS/https
-dev-libs/openssl-chacha:sslv3 - Support for the old/insecure SSLv3 protocol -- note: not required for TLS/https
-dev-libs/openssl-chacha:tls-heartbeat - Enable the Heartbeat Extension in TLS and DTLS
 net-wireless/compat-wireless:injection - Add patches for better wifi injection support
 net-wireless/hostapd:crda - Add CRDA support
 net-wireless/hostapd:internal-tls - Use internal TLSv1 implementation instead of depending on OpenSSL, LibreSSL or GnuTLS
