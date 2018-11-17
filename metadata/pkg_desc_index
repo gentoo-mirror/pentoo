@@ -24,7 +24,6 @@ dev-libs/openssl-chacha 1.0.2_p20170706: Extra featured OpenSSL with ChaCha20 an
 dev-perl/Encoding-BER 1.02: Perl module for encoding/decoding data using ASN.1 Basic Encoding Rules (BER)
 dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
 dev-perl/Tie-CharArray 1.00: Manipulate perl strings through tied array
-dev-python/flask 1.0.2: A microframework based on Werkzeug, Jinja2 and good intentions
 dev-python/ipaddr 2.2.0: Python IP address manipulation library
 dev-python/tre-python 0.8.0: Python bidings for TRE library
 dev-util/ati-app-sdk-bin 2.9: AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream)
