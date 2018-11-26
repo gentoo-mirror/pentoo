@@ -1,0 +1,12 @@
+DEFINED_PHASES=prepare
+DEPEND=>=app-pda/libimobiledevice-1.1.4:= >=app-pda/libplist-1.8:= >=dev-libs/libzip-0.8 virtual/pkgconfig >=app-portage/elt-patches-20170815 !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.16.1:1.16 >=sys-devel/automake-1.15.1:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DESCRIPTION=A tool to interact with the installation_proxy of an Apple's iDevice
+EAPI=6
+HOMEPAGE=http://www.libimobiledevice.org/
+KEYWORDS=amd64 x86
+LICENSE=GPL-2
+RDEPEND=>=app-pda/libimobiledevice-1.1.4:= >=app-pda/libplist-1.8:= >=dev-libs/libzip-0.8
+SLOT=0
+SRC_URI=https://github.com/libimobiledevice/ideviceinstaller/archive/f14def7cd9303a0fe622732fae9830ae702fdd7c.zip -> ideviceinstaller-1.1.0_p20181001.zip
+_eclasses_=autotools	1bf086cdd7356f5c9a4acd9727bd2065	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	b2f01ad412baf81650c23fcf0975fa33	toolchain-funcs	f164325a2cdb5b3ea39311d483988861
+_md5_=23768139e3d519ab4f2e34bc0930092e
