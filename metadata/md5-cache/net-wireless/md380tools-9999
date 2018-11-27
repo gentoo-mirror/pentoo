@@ -1,0 +1,10 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile install unpack
+DESCRIPTION=Python tools and patched firmware for the TYT-MD380
+EAPI=7
+HOMEPAGE=https://github.com/travisgoodspeed/md380tools
+LICENSE=IPA BSD
+PDEPEND=sys-devel/gcc-arm-none-eabi
+SLOT=0
+_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
+_md5_=ebc810e395e1bc239088e96d08e48d61
