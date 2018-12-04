@@ -1,0 +1,11 @@
+DEFINED_PHASES=install unpack
+DESCRIPTION=Cookie Import Export
+EAPI=5
+HOMEPAGE=https://addons.mozilla.org/de/firefox/addon/cookie-import-export/
+KEYWORDS=~amd64 ~x86
+LICENSE=MPL-2.0
+RDEPEND=|| ( >=www-client/firefox-57.0.0 >=www-client/firefox-bin-57.0.0 )
+SLOT=0
+SRC_URI=https://addons.mozilla.org/downloads/file/1112287 -> cookies_exportimport-1.0.1.xpi
+_eclasses_=mozilla-webext	e0c8776a0078bf0f38f7e1d650740643
+_md5_=ae30442e441dcafacc2e1e66602aad80
