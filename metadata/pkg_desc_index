@@ -7,7 +7,6 @@ app-exploits/packetstormexploits 2012.12 2013.12 2014.12 2015.12 2016.12 2017.12
 app-exploits/packetstormexploits-meta 2018: Meta ebuild of packetstorm exploits
 app-forensics/linen 61: Encase's linen utility
 app-forensics/make-pdf 0.1.4-r2 0.1.7: This tool will embed javascript inside a PDF document
-app-forensics/origami-pdf 1.2.6: A Ruby framework designed to parse, analyze, and forge PDF documents
 app-forensics/pdf-parser 0.6.8 0.6.9: This tool will parse a PDF document to identify the fundamental elements used
 app-forensics/pdfid 0.2.2 0.2.3 0.2.4 0.2.5: This tool will scan a PDF document looking for certain keyword
 app-forensics/sleuthkit 4.6.3 4.6.4: A collection of file system and media management forensic analysis tools
