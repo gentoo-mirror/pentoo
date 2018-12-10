@@ -26,6 +26,7 @@ dev-perl/Tie-CharArray 1.00: Manipulate perl strings through tied array
 dev-python/dataset 1.1.0: Easy-to-use data handling for SQL data stores
 dev-python/ipaddr 2.2.0: Python IP address manipulation library
 dev-python/maxminddb 1.4.1-r1: A Python module for reading MaxMind DB files
+dev-python/pycryptodomex 3.7.2: A self-contained cryptographic library for Python
 dev-python/tre-python 0.8.0: Python bidings for TRE library
 dev-util/ati-app-sdk-bin 2.9: AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream)
 dev-util/ati-stream-sdk-bin 2.01 2.2 2.3: Enable compiling code and loading it on ATI/AMD GPU
