@@ -3,7 +3,7 @@ app-crypt/asleap 2.2: exploiting cisco leap; As in asleap behind the wheel.
 app-crypt/cryptohaze-combined 1.31: GPU and OpenCL accelerated password auditing tools for security professionals
 app-crypt/hashkill 0.3.1-r1: Multi-threaded password recovery tool with multi-GPU support
 app-dicts/raft-wordlists 20110803-r1: Raft wordlists
-app-exploits/packetstormexploits 2012.12 2013.12 2014.12 2015.12 2016.12 2017.12 2018.09: Archive of packetstorm exploits
+app-exploits/packetstormexploits 2012.12 2013.12 2014.12 2015.12 2016.12 2017.12 2018.11: Archive of packetstorm exploits
 app-exploits/packetstormexploits-meta 2018: Meta ebuild of packetstorm exploits
 app-forensics/linen 61: Encase's linen utility
 app-forensics/make-pdf 0.1.4-r2 0.1.7: This tool will embed javascript inside a PDF document
