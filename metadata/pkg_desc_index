@@ -39,6 +39,7 @@ net-analyzer/nmap_vulscan 2.0-r1: A NSE vulnerability scanner which uses an offl
 net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
 net-analyzer/testssl 2.9.5.7: Tool to check TLS/SSL cipher support
 net-analyzer/videojak 1.00: VideoJak is an IP Video security assessment tool
+net-analyzer/voiphopper 2.04-r3: VoIP Hopper is a tool that rapidly runs a VLAN Hop into the Voice VLAN
 net-analyzer/webshag 1.10: An enhanced HTTP URL Scanner and fuzzer
 net-analyzer/zarp 0.1.8: Local network attack toolkit
 net-dialup/freeradius 2.2.5-r1: Highly configurable free RADIUS server
