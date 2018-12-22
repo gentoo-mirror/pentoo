@@ -1,14 +1,14 @@
 DEFINED_PHASES=configure
 DEPEND=dev-libs/libcdata dev-libs/libcerror dev-libs/libcnotify dev-libs/libcthreads
 DESCRIPTION=Library for Windows NT data types
-EAPI=6
+EAPI=7
 HOMEPAGE=https://github.com/libyal/libfwnt
 IUSE=debug nls python +threads winapi python_targets_python2_7 python_targets_python3_4 python_targets_python3_5 python_targets_python3_6
-KEYWORDS=~amd64 ~hppa ~ppc ~x86
+KEYWORDS=~amd64 ~x86
 LICENSE=LGPL-3
 RDEPEND=dev-libs/libcdata dev-libs/libcerror dev-libs/libcnotify dev-libs/libcthreads
 REQUIRED_USE=python? ( || ( python_targets_python2_7 python_targets_python3_4 python_targets_python3_5 python_targets_python3_6 ) )
 SLOT=0
 SRC_URI=https://github.com/libyal/libfwnt/releases/download/20180117/libfwnt-alpha-20180117.tar.gz
 _eclasses_=multibuild	40fe59465edacd730c644ec2bc197809	multilib	b2f01ad412baf81650c23fcf0975fa33	python-r1	ce1cd23cfdc1848e8e32743efe34f299	python-utils-r1	12114a2a9aab35b93efc037a196b3234	toolchain-funcs	f164325a2cdb5b3ea39311d483988861
-_md5_=069b2b211e82efb000a02a749b504734
+_md5_=6d73179a25df8e42c85631fd793de31d
