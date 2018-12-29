@@ -1,0 +1,10 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DESCRIPTION=NSE script based on Vulners.com API
+EAPI=7
+HOMEPAGE=https://github.com/vulnersCom/nmap-vulners
+LICENSE=GPL-3
+RDEPEND=net-analyzer/nmap[nse]
+SLOT=0
+_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
+_md5_=d9d45dab1201dbbd49ef2088aee4daf1
