@@ -1,12 +1,12 @@
-# Copyright 1999-2018 Gentoo Foundation
+# Copyright 1999-2019 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI=6
+EAPI=7
+
 inherit qmake-utils eutils
 
 DESCRIPTION="Library and tool for personalization of Yubico's YubiKey NEO"
 HOMEPAGE="http://opensource.yubico.com/yubioath-desktop"
-#https://github.com/Yubico/yubioath-desktop/issues/254
 SRC_URI="https://github.com/Yubico/yubioath-desktop/releases/download/${P}/${P}.tar.gz -> ${P}.tar"
 
 KEYWORDS="~amd64"
@@ -22,12 +22,6 @@ DEPEND="${RDEPEND}
 #upstream is not consistent with this
 S=${WORKDIR}/${PN}
 
-#src_prepare() {
-	#https://github.com/Yubico/yubioath-desktop/pull/207
-#	epatch "${FILESDIR}/4.3-qtsingleapp.patch"
-#	eapply_user
-#}
-
 src_configure() {
 	eqmake5 yubioath-desktop.pro
 	python build_qrc.py resources.json
@@ -35,7 +29,6 @@ src_configure() {
 
 src_install() {
 	emake install INSTALL_ROOT="${D}"
-#    python_optimize  # does all packages by default
 	domenu resources/yubioath-desktop.desktop
 	doicon resources/icons/yubioath.png
 
