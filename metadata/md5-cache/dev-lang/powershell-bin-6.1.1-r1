@@ -4,8 +4,8 @@ DESCRIPTION=A cross-platform automation and configuration tool/framework
 EAPI=7
 HOMEPAGE=https://github.com/Powershell/Powershell
 KEYWORDS=~amd64
-RDEPEND=dev-libs/icu sys-libs/libunwind dev-libs/openssl:1.0.0
+RDEPEND=dev-libs/icu sys-libs/libunwind || ( =dev-libs/openssl-1.0* dev-libs/openssl:1.0.0
 SLOT=0
 SRC_URI=amd64? ( https://github.com/PowerShell/PowerShell/releases/download/v6.1.1/powershell-6.1.1-1.rhel.7.x86_64.rpm )
 _eclasses_=eutils	6e6c2737b59a4b982de6fb3ecefd87f8	rpm	f52cfa3a435468d86d3b49c357b9cb35
-_md5_=f948eb2cc052b217e3e158a12c7c7965
+_md5_=ca83e4b800755a243f2939f4b867ad9a
