@@ -1,0 +1,11 @@
+DEFINED_PHASES=install prepare
+DEPEND=>=net-analyzer/wireshark-2.6:=
+DESCRIPTION=a collection of traffic analysis Wireshark plugins focused on security
+EAPI=7
+HOMEPAGE=https://github.com/pentesteracademy/patoolkit
+LICENSE=GPL-2
+RDEPEND=>=net-analyzer/wireshark-2.6:=
+SLOT=0
+SRC_URI=https://github.com/pentesteracademy/patoolkit/archive/36e83b7200d1ee8e03e01ae5d827fa195449538c.tar.gz -> wireshark-patoolkit-20181228.tar.gz
+_eclasses_=multilib	b2f01ad412baf81650c23fcf0975fa33	toolchain-funcs	f164325a2cdb5b3ea39311d483988861
+_md5_=fd768bd5704577616bf29d802b2e1631
