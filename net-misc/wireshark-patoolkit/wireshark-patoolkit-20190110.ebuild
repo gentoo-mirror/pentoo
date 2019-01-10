@@ -1,4 +1,4 @@
-# Copyright 1999-2018 Gentoo Authors
+# Copyright 1999-2019 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=7
@@ -7,13 +7,13 @@ inherit multilib
 
 DESCRIPTION="a collection of traffic analysis Wireshark plugins focused on security"
 HOMEPAGE="https://github.com/pentesteracademy/patoolkit"
-HASH_COMMIT="36e83b7200d1ee8e03e01ae5d827fa195449538c"
+HASH_COMMIT="7db1e070926aab40a93abe86da1c18bd46560e95"
 SRC_URI="https://github.com/pentesteracademy/patoolkit/archive/${HASH_COMMIT}.tar.gz -> ${P}.tar.gz"
+#branch: https://github.com/pentesteracademy/patoolkit/tree/global-plugins
 
 LICENSE="GPL-2"
 SLOT="0"
-#https://github.com/pentesteracademy/patoolkit/issues/4
-#KEYWORDS="~amd64 ~arm ~x86"
+KEYWORDS="~amd64 ~arm ~x86"
 
 RDEPEND=">=net-analyzer/wireshark-2.6:="
 DEPEND="${RDEPEND}"
@@ -26,17 +26,16 @@ get_PV() {
 	pv=${pv//_}; echo ${pv}
 }
 
-src_prepare() {
-	mkdir plugins/patoolkit_libs
-	mv plugins/util.lua plugins/patoolkit_libs
-	mv plugins/wifi/security.lua plugins/patoolkit_libs
-	eapply_user
-}
-
 src_install() {
 	#local WS_PLUGIN_DIR="/usr/$(get_libdir)/wireshark/plugins/$(get_PV net-analyzer/wireshark)/patoolkit/"
 	#lue scripts must be just in "plugin" folder
-	local WS_PLUGIN_DIR="/usr/$(get_libdir)/wireshark/plugins/$(get_PV net-analyzer/wireshark)/patoolkit/"
+	local WS_PLUGIN_DIR="/usr/$(get_libdir)/wireshark/plugins/patoolkit/"
 	dodir $WS_PLUGIN_DIR
-	cp -R "${S}"/plugins/* ${ED}/$WS_PLUGIN_DIR  || die "Copy files failed"
+	cp -R "${S}"/plugins/* "${ED}/$WS_PLUGIN_DIR"  || die "Copy files failed"
+	doenvd "${FILESDIR}"/92patoolkit
+}
+
+pkg_postinst() {
+	elog "Please run 'env-update' and '. /etc/profile' or re-login after the first install,"
+	elog "otherwise you may be missing required environmental variables"
 }
