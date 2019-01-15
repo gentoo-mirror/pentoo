@@ -8,5 +8,5 @@ KEYWORDS=~amd64 ~arm ~arm64 ~x86
 LICENSE=LGPL-3
 RDEPEND=dev-libs/libcerror dev-libs/libcthreads nls? ( virtual/libiconv virtual/libintl )
 SLOT=0
-SRC_URI=https://github.com/libyal/libcdata/releases/download/20190104/libcdata-alpha-20190104.tar.gz
+SRC_URI=https://github.com/libyal/libcdata/releases/download/20190112/libcdata-alpha-20190112.tar.gz
 _md5_=1d95fb3e834f3896f85fd816f4471f57

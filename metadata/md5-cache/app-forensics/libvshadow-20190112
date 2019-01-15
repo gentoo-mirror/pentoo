@@ -1,0 +1,15 @@
+BDEPEND=>=app-portage/elt-patches-20170815 !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.16.1:1.16 >=sys-devel/automake-1.15.1:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DEFINED_PHASES=configure prepare setup
+DEPEND=nls? ( virtual/libintl virtual/libiconv ) python? ( dev-lang/python:* ) sys-fs/fuse:* app-forensics/libbfio >=dev-libs/libcdata-20190112 dev-libs/libcerror dev-libs/libcfile dev-libs/libclocale dev-libs/libcnotify dev-libs/libcpath dev-libs/libcsplit dev-libs/libcthreads dev-libs/libfdatetime dev-libs/libfguid dev-libs/libuna
+DESCRIPTION=Library and tools to support the Volume Shadow Snapshot (VSS) format.
+EAPI=7
+HOMEPAGE=https://github.com/libyal/libvshadow
+IUSE=debug python nls unicode python_targets_python2_7
+KEYWORDS=~amd64 ~x86
+LICENSE=LGPL-3+
+RDEPEND=nls? ( virtual/libintl virtual/libiconv ) python? ( dev-lang/python:* ) sys-fs/fuse:* app-forensics/libbfio >=dev-libs/libcdata-20190112 dev-libs/libcerror dev-libs/libcfile dev-libs/libclocale dev-libs/libcnotify dev-libs/libcpath dev-libs/libcsplit dev-libs/libcthreads dev-libs/libfdatetime dev-libs/libfguid dev-libs/libuna python? ( python_targets_python2_7? ( >=dev-lang/python-2.7.5-r2:2.7 ) >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_jython2_7(-),-python_single_target_pypy(-),-python_single_target_pypy3(-),-python_single_target_python3_4(-),-python_single_target_python3_5(-),-python_single_target_python3_6(-),-python_single_target_python3_7(-),python_single_target_python2_7(+)] ) sys-fs/fuse
+REQUIRED_USE=python? ( python_targets_python2_7 )
+SLOT=0
+SRC_URI=https://github.com/libyal/libvshadow/releases/download/20190112/libvshadow-alpha-20190112.tar.gz
+_eclasses_=autotools	1bf086cdd7356f5c9a4acd9727bd2065	eutils	6e6c2737b59a4b982de6fb3ecefd87f8	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	b2f01ad412baf81650c23fcf0975fa33	python-single-r1	3a0fc81f484bfdbd9c2b7448015a36e4	python-utils-r1	12114a2a9aab35b93efc037a196b3234	toolchain-funcs	f164325a2cdb5b3ea39311d483988861
+_md5_=f9111d23c29de2624de5262a1823082e
