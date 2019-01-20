@@ -58,6 +58,7 @@ net-wireless/compat-wireless 2.6.32.8 2.6.33-r1 2.6.34-r2 2.6.35-r1 2.6.36 2.6.3
 net-wireless/compat-wireless-builder 3.3.6: Stable kernel pre-release wifi subsystem backport
 net-wireless/cowpatty 4.8-r1: WLAN tools for bruteforcing 802.11 WPA/WPA2 keys
 net-wireless/crda 1.1.0-r1 1.1.1: Central Regulatory Domain Agent for wireless networks.
+net-wireless/fosphor_knob 0.4: A visualization we use for the Wireless Village
 net-wireless/hostapd 2.6-r1 2.6-r3 2.6-r4: IEEE 802.11 wireless LAN Host AP daemon
 net-wireless/karmetasploit 0.1-r3: KARMA + Metasploit 3 == Karmetasploit
 net-wireless/wireless-regdb 20090130-r1 20090309 20090817 20091125 20091125-r1: Binary regulatory database for CRDA
@@ -72,7 +73,7 @@ pentoo/pentoo-nfc 2015.3: Collection of NFC tools
 pentoo/pentoo-rce 2018.2: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2018.2-r1: Pentoo scanner meta ebuild
 pentoo/pentoo-system 2018.3-r4: Pentoo meta ebuild to install system
-pentoo/wctf-client 2018.3-r9: Packages needed to power the client NUC for WCTF events
+pentoo/wctf-client 2019.0: Packages needed to power the client NUC for WCTF events
 pentoo/zero-system 2018.3-r3: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
 sys-apps/magic-pax 0.0.1: 
 sys-boot/grub-static 0.97-r9 0.97-r10: GNU GRUB Legacy boot loader (static build)
