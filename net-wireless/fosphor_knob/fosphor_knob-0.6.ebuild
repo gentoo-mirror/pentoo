@@ -12,15 +12,23 @@ SLOT="0"
 KEYWORDS="amd64"
 IUSE=""
 
-DEPEND=""
+DEPEND="net-wireless/gnuradio"
 RDEPEND="${DEPEND}"
 BDEPEND=""
-PDEPEND="net-wireless/gnuradio
-	net-wireless/uhd"
+PDEPEND="net-wireless/uhd
+	net-analyzer/gr-fosphor
+	x11-misc/wmctrl"
+
+#powermate.py from https://github.com/bethebunny/powermate
+
+src_compile() {
+	grcc -d "${S}" fosphor_with_griffin_powermate_knob.grc
+}
 
 src_install() {
 	insinto /usr/share/${PN}
 	doins *.py *.grc
 	fperms +x /usr/share/${PN}/run.py
+	fperms +x /usr/share/${PN}/fosphor_knob.py
 	newbin fosphor_knob.sh fosphor_knob
 }
