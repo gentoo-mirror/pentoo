@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile install test unpack
+DEPEND=net-libs/libpcap net-libs/libnetfilter_queue net-libs/libnfnetlink >=dev-lang/go-1.10
+DESCRIPTION=A complete, modular, portable and easily extensible MITM framework
+EAPI=6
+HOMEPAGE=https://github.com/bettercap/bettercap/
+KEYWORDS=~amd64 ~arm ~arm64
+LICENSE=GPL-3
+RDEPEND=net-libs/libpcap net-libs/libnetfilter_queue net-libs/libnfnetlink
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://github.com/bettercap/bettercap/archive/v2.16.tar.gz -> bettercap-2.16.tar.gz https://github.com/bettercap/gatt/archive/18f00dded16b57d023af9b568325daa253b130ee.tar.gz -> github.com-bettercap-gatt-18f00dded16b57d023af9b568325daa253b130ee.tar.gz https://github.com/bettercap/readline/archive/62c6fe6193755f722b8b8788aa7357be55a50ff1.tar.gz -> github.com-bettercap-readline-62c6fe6193755f722b8b8788aa7357be55a50ff1.tar.gz https://github.com/bettercap/gatt/archive/18f00dded16b57d023af9b568325daa253b130ee.tar.gz -> github.com-bettercap-gatt-18f00dded16b57d023af9b568325daa253b130ee.tar.gz https://github.com/bettercap/readline/archive/62c6fe6193755f722b8b8788aa7357be55a50ff1.tar.gz -> github.com-bettercap-readline-62c6fe6193755f722b8b8788aa7357be55a50ff1.tar.gz
+_eclasses_=golang-base	c57d2c3f9e1a02d0feb8b87c7b689892	golang-build	dc25bafa8fc1305a4de66a0a448472e7	golang-vcs-snapshot	12177e83bede6f7fb87eae383864b40b
+_md5_=b38c23bd4a4ce46b6589a2f770d8bde6
