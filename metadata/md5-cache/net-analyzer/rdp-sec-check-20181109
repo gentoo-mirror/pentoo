@@ -1,0 +1,11 @@
+DEFINED_PHASES=install
+DEPEND=dev-perl/Encoding-BER
+DESCRIPTION=Remote Desktop Protocol security settings checker
+EAPI=7
+HOMEPAGE=https://github.com/portcullislabs/rdp-sec-check
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=dev-perl/Encoding-BER
+SLOT=0
+SRC_URI=https://github.com/portcullislabs/rdp-sec-check/archive/595685769eea1c4e1dc4cb2a034d6ba7bddc8cb6.tar.gz -> rdp-sec-check-20181109.tar.gz
+_md5_=b083d62d8cab26051f04fc3b93c9f709
