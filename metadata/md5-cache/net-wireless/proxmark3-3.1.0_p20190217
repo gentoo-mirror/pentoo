@@ -11,4 +11,4 @@ RDEPEND=virtual/libusb:0 sys-libs/ncurses:* dev-qt/qtcore:5 dev-qt/qtwidgets:5 d
 SLOT=0
 SRC_URI=https://github.com/Proxmark/proxmark3/archive/7afa751a9673c0427d75116eac14dce2d19adedb.tar.gz -> proxmark3-3.1.0_p20190217.tar.gz
 _eclasses_=multilib	b2f01ad412baf81650c23fcf0975fa33	toolchain-funcs	f164325a2cdb5b3ea39311d483988861	udev	7752f306eec7b286d00bdb47b763e7ac
-_md5_=f7dbf3f67d2fc9f588e443f06474f8e1
+_md5_=c122d16afef6867afdab9bc86bef2b9e
