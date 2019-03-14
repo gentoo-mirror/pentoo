@@ -9,5 +9,5 @@ LICENSE=GPL-2+ LGPL-2.1+
 RDEPEND=>=app-pda/libplist-1.12:= virtual/libusb:1 !=app-pda/usbmuxd-1.0.9 !<app-pda/usbmuxd-1.0.8_p1
 SLOT=0/2
 SRC_URI=https://github.com/libimobiledevice/libusbmuxd/archive/c75605d862cd1c312494f6c715246febc26b2e05.tar.gz -> libusbmuxd-1.1.0_pre20190118.tar.gz
-_eclasses_=autotools	1bf086cdd7356f5c9a4acd9727bd2065	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	b2f01ad412baf81650c23fcf0975fa33	toolchain-funcs	f164325a2cdb5b3ea39311d483988861
+_eclasses_=autotools	1bf086cdd7356f5c9a4acd9727bd2065	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	b2f01ad412baf81650c23fcf0975fa33	toolchain-funcs	b45201c4e6c096b98e250336954e64b9
 _md5_=0883df5e78f0da2c72a147d3c3a93139

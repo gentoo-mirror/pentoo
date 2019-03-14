@@ -9,5 +9,5 @@ LICENSE=GPL-2
 RDEPEND=virtual/libusb:0 sys-libs/ncurses:*[tinfo] dev-qt/qtcore:5 dev-qt/qtwidgets:5 dev-qt/qtgui:5 sys-libs/readline:= firmware? ( sys-devel/gcc-arm-none-eabi )
 SLOT=0
 SRC_URI=https://github.com/Proxmark/proxmark3/archive/v3.0.1.tar.gz -> proxmark3-3.0.1.tar.gz
-_eclasses_=multilib	b2f01ad412baf81650c23fcf0975fa33	toolchain-funcs	f164325a2cdb5b3ea39311d483988861	udev	7752f306eec7b286d00bdb47b763e7ac
+_eclasses_=multilib	b2f01ad412baf81650c23fcf0975fa33	toolchain-funcs	b45201c4e6c096b98e250336954e64b9	udev	7752f306eec7b286d00bdb47b763e7ac
 _md5_=55f59804bc2e5e321ef05a76d2df7fc6
