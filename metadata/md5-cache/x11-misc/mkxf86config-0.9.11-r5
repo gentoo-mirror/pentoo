@@ -1,0 +1,11 @@
+DEFINED_PHASES=install postinst
+DESCRIPTION=Xorg-x11 configuration builder - used only on LiveCD
+EAPI=7
+HOMEPAGE=http://www.pentoo.ch/
+KEYWORDS=alpha amd64 ia64 ~mips ppc x86
+LICENSE=GPL-2
+RDEPEND=!mips? ( sys-apps/hwsetup )
+SLOT=0
+SRC_URI=http://dev.pentoo.ch/~grimmlin/distfiles/mkxf86config-0.9.11.tar.bz2
+_eclasses_=eutils	6e6c2737b59a4b982de6fb3ecefd87f8
+_md5_=f171dcb5a013d452605d3141313f8b82
