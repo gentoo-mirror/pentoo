@@ -59,7 +59,7 @@ net-wireless/compat-wireless-builder 3.3.6: Stable kernel pre-release wifi subsy
 net-wireless/cowpatty 4.8-r1: WLAN tools for bruteforcing 802.11 WPA/WPA2 keys
 net-wireless/crda 1.1.0-r1 1.1.1: Central Regulatory Domain Agent for wireless networks.
 net-wireless/fosphor_knob 0.8: A visualization we use for the Wireless Village
-net-wireless/hostapd 2.6-r1 2.6-r3 2.6-r4: IEEE 802.11 wireless LAN Host AP daemon
+net-wireless/hostapd 2.6-r1 2.6-r3 2.6-r4 2.7-r2: IEEE 802.11 wireless LAN Host AP daemon
 net-wireless/karmetasploit 0.1-r3: KARMA + Metasploit 3 == Karmetasploit
 net-wireless/wireless-regdb 20090130-r1 20090309 20090817 20091125 20091125-r1: Binary regulatory database for CRDA
 pentoo/pentoo 2015.1: Pentoo meta ebuild to install all apps
