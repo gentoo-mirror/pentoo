@@ -2,6 +2,7 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+app-forensics/pdf-parser:yara - Use dev-python/yara-python for YARA rules support
 app-misc/binwalk:graph - Enable support for generating entropy graphs
 net-wireless/compat-wireless:injection - Add patches for better wifi injection support
 net-wireless/hostapd:crda - Add CRDA support
