@@ -7,4 +7,4 @@ LICENSE=BURP
 RDEPEND=|| ( virtual/jre virtual/jdk )
 SLOT=0
 SRC_URI=https://portswigger.net/burp/releases/download?product=community&version=1.7.36 -> burpsuite_community_v1.7.36.jar
-_md5_=72029abe2d303f24a8f5e22c520f5899
+_md5_=36af2277cf28559015c7c74afde0a92f
