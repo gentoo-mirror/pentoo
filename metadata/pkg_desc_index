@@ -44,6 +44,7 @@ net-analyzer/webshag 1.10: An enhanced HTTP URL Scanner and fuzzer
 net-analyzer/zarp 0.1.8: Local network attack toolkit
 net-dialup/freeradius 2.2.5-r1: Highly configurable free RADIUS server
 net-fs/winexe 1.0.0-r1: remotely execute commands on Windows NT/2000/XP/2003 systems, with lmhash passthrough support
+net-misc/getsploit 0.2.2: Command line utility for searching and downloading exploits.
 net-misc/rdesktop-brute 1.5.0: A Remote Desktop Protocol Client
 net-proxy/burpsuite 1.7.29 1.7.36-r1: Interactive proxy for attacking and debugging web applications
 net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal network via reverse connection
