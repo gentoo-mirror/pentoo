@@ -3,6 +3,7 @@ app-crypt/asleap 2.2: exploiting cisco leap; As in asleap behind the wheel.
 app-crypt/cryptohaze-combined 1.31: GPU and OpenCL accelerated password auditing tools for security professionals
 app-crypt/hashkill 0.3.1-r1: Multi-threaded password recovery tool with multi-GPU support
 app-dicts/raft-wordlists 20110803-r1: Raft wordlists
+app-exploits/getsploit 0.2.2: Command line utility for searching and downloading exploits.
 app-exploits/packetstormexploits 2012.12 2013.12 2014.12 2015.12 2016.12 2017.12 2018.12: Archive of packetstorm exploits
 app-exploits/packetstormexploits-meta 2018: Meta ebuild of packetstorm exploits
 app-forensics/linen 61: Encase's linen utility
@@ -44,7 +45,6 @@ net-analyzer/webshag 1.10: An enhanced HTTP URL Scanner and fuzzer
 net-analyzer/zarp 0.1.8: Local network attack toolkit
 net-dialup/freeradius 2.2.5-r1: Highly configurable free RADIUS server
 net-fs/winexe 1.0.0-r1: remotely execute commands on Windows NT/2000/XP/2003 systems, with lmhash passthrough support
-net-misc/getsploit 0.2.2: Command line utility for searching and downloading exploits.
 net-misc/rdesktop-brute 1.5.0: A Remote Desktop Protocol Client
 net-proxy/burpsuite 1.7.29 1.7.36-r1: Interactive proxy for attacking and debugging web applications
 net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal network via reverse connection
