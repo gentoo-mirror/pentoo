@@ -1,4 +1,4 @@
-DEFINED_PHASES=install unpack
+DEFINED_PHASES=install prepare unpack
 DEPEND=>=app-arch/rpm2targz-9.0.0.3g
 DESCRIPTION=A cross-platform automation and configuration tool/framework
 EAPI=7
@@ -8,4 +8,4 @@ RDEPEND=dev-libs/icu sys-libs/libunwind || ( =dev-libs/openssl-1.0* dev-libs/ope
 SLOT=0
 SRC_URI=amd64? ( https://github.com/PowerShell/PowerShell/releases/download/v6.2.0/powershell-6.2.0-1.rhel.7.x86_64.rpm )
 _eclasses_=eutils	6e6c2737b59a4b982de6fb3ecefd87f8	rpm	f52cfa3a435468d86d3b49c357b9cb35
-_md5_=26ac69cefc8a6f28c540acc375524a62
+_md5_=7e0c46ccaeac642de3bcaa7cab44d939
