@@ -12,7 +12,6 @@ app-forensics/pdf-parser 0.6.9: This tool will parse a PDF document to identify 
 app-forensics/pdfid 0.2.2 0.2.3 0.2.4 0.2.5: This tool will scan a PDF document looking for certain keyword
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
 app-fuzz/slowhttptest 1.7: Application Layer DoS attack simulator
-app-misc/binwalk 2.1.1-r2: A tool for identifying files embedded inside firmware images
 app-misc/openobd 0.5.0: OBD-II Scan Tool supporting ELM327 devices
 app-pda/ideviceinstaller 1.0.1_p20140314 1.0.1_p20140527 1.1.0 1.1.0_p20181001: A tool to interact with the installation_proxy of an Apple's iDevice
 app-pda/libusbmuxd 1.0.10 1.1.0_pre20170522 1.1.0_pre20190118: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
