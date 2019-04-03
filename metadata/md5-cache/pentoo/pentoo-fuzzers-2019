@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=Pentoo fuzzers meta ebuild
+EAPI=6
+HOMEPAGE=http://www.pentoo.ch
+IUSE=pentoo-full
+KEYWORDS=~amd64 ~arm ~x86
+LICENSE=GPL-3
+PDEPEND=net-analyzer/wfuzz net-analyzer/gobuster pentoo-full? ( app-fuzz/bed app-fuzz/fuzzdb app-fuzz/fuzzer-server app-fuzz/http-fuzz app-fuzz/slowhttptest app-fuzz/smtp-fuzz )
+SLOT=0
+_md5_=87595677e5b17112457739b04a4e7924
