@@ -10,4 +10,4 @@ RDEPEND=net-libs/libpcap >=net-libs/libnet-1.1.2.1-r1 >=net-libs/libnids-1.21 ne
 SLOT=0
 SRC_URI=https://monkey.org/~dugsong/dsniff/beta/dsniff-2.4b1.tar.gz mirror://debian/pool/main/d/dsniff/dsniff_2.4b1+debian-29.debian.tar.xz
 _eclasses_=autotools	1bf086cdd7356f5c9a4acd9727bd2065	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	b2f01ad412baf81650c23fcf0975fa33	toolchain-funcs	b45201c4e6c096b98e250336954e64b9
-_md5_=bf5bbce5633cdd247a806371ce57046b
+_md5_=94b49544b4fd27aeec558f070422c63e
