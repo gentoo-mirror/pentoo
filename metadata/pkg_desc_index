@@ -30,7 +30,7 @@ dev-python/pycryptodomex 3.7.3 3.8.1: A self-contained cryptographic library for
 dev-python/pydot 1.4.1: Python interface to Graphviz's Dot language
 dev-python/sqlalchemy_mixins 1.1: Active Record, Django-like queries
 dev-python/tre-python 0.8.0: Python bidings for TRE library
-dev-qt/qtserialport 5.11.1 5.11.3: Serial port abstraction library for the Qt5 framework
+dev-qt/qtserialport 5.11.3: Serial port abstraction library for the Qt5 framework
 dev-util/AndroidProjectCreator-bin 1.2.2: Convert an APK to an Android Studio Project using multiple open-source decompilers
 dev-util/ati-app-sdk-bin 2.9: AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream)
 dev-util/ati-stream-sdk-bin 2.01 2.2 2.3: Enable compiling code and loading it on ATI/AMD GPU
