@@ -7,4 +7,4 @@ KEYWORDS=amd64 arm x86
 LICENSE=GPL-3
 PDEPEND=dev-util/frida-tools pentoo-full? ( dev-util/objection dev-util/appmon amd64? ( dev-util/lief-bin ) ) android? ( !arm? ( dev-util/apktool dev-util/dex2jar dev-util/android-tools ) pentoo-full? ( !arm? ( app-misc/gplaycli dev-util/android-sdk-update-manager ) dev-util/androguard ) ) ios? ( app-pda/ideviceinstaller app-pda/ifuse app-pda/usbmuxd pentoo-full? ( sys-devel/clang ) )
 SLOT=0
-_md5_=32a4e9b6c3b719f47b2775ab9749f8c4
+_md5_=1e67bbb92d95b7a0d2bcf98f0cb27690
