@@ -18,7 +18,7 @@ app-pda/ideviceinstaller 1.0.1_p20140314 1.0.1_p20140527 1.1.0 1.1.0_p20181001: 
 app-pda/libusbmuxd 1.0.10 1.1.0_pre20170522 1.1.0_pre20190118: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
 app-pda/usbmuxd 1.1.0 1.1.1_pre20180131: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
 dev-db/sqid 0.3: A SQL injection digger
-dev-libs/openssl-bad 1.0.2_p20180915: Snapshot for testssl.sh >2.8 from PM's fork, ready to compile
+dev-libs/openssl-bad 1.0.2_p20180915 1.0.2_p20190119: Snapshot for testssl.sh >2.8 from PM's fork, ready to compile
 dev-libs/openssl-chacha 1.0.2_p20170706: Extra featured OpenSSL with ChaCha20 and Poly1305 support
 dev-perl/Encoding-BER 1.02: Perl module for encoding/decoding data using ASN.1 Basic Encoding Rules (BER)
 dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
