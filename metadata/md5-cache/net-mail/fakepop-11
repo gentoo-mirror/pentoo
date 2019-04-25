@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install prepare
+DEPEND=dev-libs/glib:=
+DESCRIPTION=fake pop3 server which returns the same messages to all users
+EAPI=7
+HOMEPAGE=https://packages.debian.org/jessie/fakepop
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL
+PDEPEND=sys-apps/xinetd
+RDEPEND=dev-libs/glib:=
+SLOT=0
+SRC_URI=http://deb.debian.org/debian/pool/main/f/fakepop/fakepop_11.tar.gz
+_md5_=e26ccd5772d1a7fc948208be0f93b75a
