@@ -6,5 +6,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 RDEPEND=app-shells/bash[net] dev-libs/openssl-bad net-dns/bind-tools sys-apps/util-linux sys-libs/ncurses:0 sys-process/procps
 SLOT=0
-SRC_URI=https://github.com/drwetter/testssl.sh/archive/3.0rc4.tar.gz -> testssl-3.0_rc4.tar.gz
-_md5_=e26df25c8d586563762a662b389107a0
+SRC_URI=https://github.com/drwetter/testssl.sh/archive/3.0rc5.tar.gz -> testssl-3.0_rc5.tar.gz
+_md5_=872546a55723a3ade335935ac1d88347
