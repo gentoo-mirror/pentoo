@@ -52,7 +52,7 @@ net-proxy/burpsuite 1.7.29 1.7.36-r1: Interactive proxy for attacking and debugg
 net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal network via reverse connection
 net-proxy/proxystrike 2.0 2.2: A tool designed to find vulnerabilities while browsing an application
 net-proxy/redsocks 0.5: Transparent redirector of any TCP connection to proxy
-net-proxy/zaproxy 2.5.0-r3 2.6.0 2.7.0: The OWASP Zed Attack Proxy for finding vulnerabilities in web applications
+net-proxy/zaproxy 2.7.0-r1: The OWASP Zed Attack Proxy for finding vulnerabilities in web applications
 net-wireless/blue_hydra 1.9.10 1.9.14: bluetooth discovery service built on top of bluez
 net-wireless/blue_sonar 0.2: A simple wrapper for l2ping which shows rssi
 net-wireless/bt-audit 0.1.1-r1: A small bluetooth audit suite
