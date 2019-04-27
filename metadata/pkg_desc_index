@@ -100,7 +100,7 @@ www-plugins/sql-inject-me 0.4.7-r2: SQL Inject Me is the Exploit-Me tool used to
 www-plugins/sqlite_manager 0.8.1: Extension for Firefox and other apps to manage any sqlite database
 www-plugins/user-agent-switcher 0.7.3-r4: Adds a menu and a toolbar button to switch the user agent of firefox
 www-plugins/user-agent-switcher-revived 0.2.0 0.2.4: Adds a menu and a toolbar button to switch the user agent of firefox
-www-plugins/wappalyzer 5.6.1 5.6.3 5.7.3 5.7.4: Cross-platform utility that uncovers the technologies used on websites
+www-plugins/wappalyzer 5.7.4 5.8.2: Cross-platform utility that uncovers the technologies used on websites
 www-plugins/web_developer 2.0.1: Adds various web developer tools to firefox.
 www-plugins/xss-me 0.4.6-r4: Firefox extension to test for reflected cross-site-scripting vulnerabilities.
 x11-misc/mkxf86config 0.9.11-r5: Xorg-x11 configuration builder - used only on LiveCD
