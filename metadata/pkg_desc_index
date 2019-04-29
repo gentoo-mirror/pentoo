@@ -24,10 +24,12 @@ dev-perl/Encoding-BER 1.02: Perl module for encoding/decoding data using ASN.1 B
 dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
 dev-perl/Tie-CharArray 1.00: Manipulate perl strings through tied array
 dev-python/dataset 1.1.0 1.1.2: Easy-to-use data handling for SQL data stores
+dev-python/google-api-python-client 1.7.8: Google API Client for Python
 dev-python/ipaddr 2.2.0: Python IP address manipulation library
 dev-python/maxminddb 1.4.1-r1: A Python module for reading MaxMind DB files
 dev-python/pycryptodomex 3.7.3 3.8.1: A self-contained cryptographic library for Python
 dev-python/pydot 1.4.1: Python interface to Graphviz's Dot language
+dev-python/requests 2.21.0-r2: HTTP library for human beings
 dev-python/sqlalchemy_mixins 1.1: Active Record, Django-like queries
 dev-python/tre-python 0.8.0: Python bidings for TRE library
 dev-qt/qtserialport 5.11.3: Serial port abstraction library for the Qt5 framework
