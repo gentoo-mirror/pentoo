@@ -1,8 +1,8 @@
 BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
-DEFINED_PHASES=install prepare unpack
+DEFINED_PHASES=install unpack
 DESCRIPTION=dump mysql client password from memory
 EAPI=7
 HOMEPAGE=https://github.com/hc0d3r/mysql-magic
 SLOT=0
 _eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
-_md5_=5b9a133ba7d79d415ea9c787a1c34d59
+_md5_=c423f7b9ed8a8cde5eb538013456eb33
