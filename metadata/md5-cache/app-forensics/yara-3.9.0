@@ -4,11 +4,11 @@ DESCRIPTION=A malware identification and classification tool
 EAPI=6
 HOMEPAGE=http://virustotal.github.io/yara/
 IUSE=python
-KEYWORDS=~amd64 ~x86
+KEYWORDS=~amd64 ~arm ~x86
 LICENSE=Apache-2.0
 PDEPEND=python? ( ~dev-python/yara-python-3.9.0 )
 RDEPEND=dev-libs/openssl:0=
 SLOT=0
 SRC_URI=https://github.com/virustotal/yara/archive/v3.9.0.tar.gz -> yara-3.9.0.tar.gz
 _eclasses_=autotools	1bf086cdd7356f5c9a4acd9727bd2065	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	b2f01ad412baf81650c23fcf0975fa33	toolchain-funcs	b45201c4e6c096b98e250336954e64b9
-_md5_=294e6c903cbb50d6075c6ea1c771297e
+_md5_=3b6eae5052c3f301b2e0fe3ad47432e1
