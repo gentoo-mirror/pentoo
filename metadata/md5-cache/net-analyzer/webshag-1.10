@@ -9,5 +9,5 @@ LICENSE=GPL-2
 RDEPEND=dev-python/wxpython:2.8 nmap? ( net-analyzer/nmap )
 SLOT=0
 SRC_URI=https://www.scrt.ch/outils/webshag/ws110.tar.gz
-_eclasses_=multilib	b2f01ad412baf81650c23fcf0975fa33	python-single-r1	3a0fc81f484bfdbd9c2b7448015a36e4	python-utils-r1	08e17157a6807add7db1f8d01e7e391f	toolchain-funcs	b45201c4e6c096b98e250336954e64b9
+_eclasses_=multilib	1d91b03d42ab6308b5f4f6b598ed110e	python-single-r1	3a0fc81f484bfdbd9c2b7448015a36e4	python-utils-r1	08e17157a6807add7db1f8d01e7e391f	toolchain-funcs	b45201c4e6c096b98e250336954e64b9
 _md5_=80ba7d9c07fae5dc046675d299e543bc
