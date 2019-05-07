@@ -344,6 +344,10 @@ if [ -n "${clst_target}" ]; then
   #emaint --fix binhost || safe_exit
   #remove kde/mate use flags
   rm /etc/portage/package.use
+else
+  #clean the user's systems a bit
+  eclean-pkg -d -t 3m
+  eclean-dist -d -t 3m
 fi
 
 if [ -f /usr/local/portage/scripts/bug-461824.sh ]; then
@@ -352,6 +356,8 @@ elif [ -f /var/lib/layman/pentoo/scripts/bug-461824.sh ]; then
   /var/lib/layman/pentoo/scripts/bug-461824.sh
 elif [ -f /var/db/repos/pentoo/scripts/bug-461824.sh ]; then
   /var/db/repos/pentoo/scripts/bug-461824.sh
+elif [ -f /var/gentoo/repos/local/scripts/bug-461824.sh ]; then
+  /var/gentoo/repos/local/scripts/bug-461824.sh
 fi
 
 if [ -z "${clst_target}" ]; then
