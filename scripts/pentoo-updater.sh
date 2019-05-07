@@ -1,4 +1,10 @@
-#!/bin/sh
+#!/bin/bash
+
+#this is bash specific
+exec   > >(tee -i /tmp/pentoo-updater.log)
+exec  2> >(tee -i /tmp/pentoo-updater.log >& 2)
+#end bash specific
+
 WE_FAILED=0
 if [ -n "$(command -v id 2> /dev/null)" ]; then
 	USERID="$(id -u 2> /dev/null)"
@@ -351,8 +357,10 @@ if [ -z "${clst_target}" ]; then
   update_kernel
 fi
 if [ "${WE_FAILED}" = "1" ]; then
-  printf "\nSomething failed during update. Run pentoo-updater again, if\n"
-  printf "you see this message again, look through the logs for:\n"
-  printf "FAILURE FAILURE FAILURE\n"
+  printf "\nSomething failed during update. Run pentoo-updater again, if you see\n"
+  printf "this message again, look through the log at /tmp/pentoo-updater.log for:\n"
+  printf "FAILURE FAILURE FAILURE\n\n"
+  printf "For support via irc or discord you can pastebin your log like this (and share the link in chat):\n"
+  printf "wgetpaste /tmp/pentoo-updater.log\n\n"
   exit 1
 fi
