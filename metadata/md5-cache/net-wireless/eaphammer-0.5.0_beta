@@ -7,5 +7,5 @@ LICENSE=GPL-3
 RDEPEND=dev-python/tqdm net-dns/dnsmasq net-libs/libnfnetlink dev-libs/libnl:3 net-wireless/hostapd[wpe] net-analyzer/dsniff virtual/httpd-basic
 SLOT=0
 SRC_URI=https://github.com/s0lst1c3/eaphammer/archive/v0.5.0-beta.tar.gz -> eaphammer-0.5.0_beta.tar.gz
-_eclasses_=multilib	1d91b03d42ab6308b5f4f6b598ed110e	python-utils-r1	08e17157a6807add7db1f8d01e7e391f	toolchain-funcs	b45201c4e6c096b98e250336954e64b9
+_eclasses_=multilib	1d91b03d42ab6308b5f4f6b598ed110e	python-utils-r1	08e17157a6807add7db1f8d01e7e391f	toolchain-funcs	8c7f9d80beedd16f2e5a7f612c609529
 _md5_=60240670a8106bf92c81f921c6111df5
