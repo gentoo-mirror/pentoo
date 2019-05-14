@@ -2,6 +2,12 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+app-forensics/bulk_extractor:aff - Add app-forensics/afflib support
+app-forensics/bulk_extractor:beviewer - Enable the BEViewer — is a User Interface for browsing features
+app-forensics/bulk_extractor:ewf - Add app-forensics/libewf support
+app-forensics/bulk_extractor:exiv2 - Add media-gfx/exiv2 support
+app-forensics/bulk_extractor:hashdb - Enable the hashdb scanner
+app-forensics/bulk_extractor:rar - Enable RAR decompression
 app-forensics/pdf-parser:yara - Use dev-python/yara-python for YARA rules support
 net-wireless/compat-wireless:injection - Add patches for better wifi injection support
 net-wireless/hostapd:crda - Add CRDA support
