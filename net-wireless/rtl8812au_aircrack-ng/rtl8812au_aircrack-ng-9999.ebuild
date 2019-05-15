@@ -9,13 +9,12 @@ DESCRIPTION="RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame inj
 HOMEPAGE="https://github.com/aircrack-ng/rtl8812au"
 
 if [[ ${PV} == "9999" ]] ; then
-	KEYWORDS=""
 	inherit git-r3
 	EGIT_REPO_URI="https://github.com/aircrack-ng/rtl8812au.git"
 	EGIT_BRANCH="v5.3.4"
 else
 	KEYWORDS="~amd64 ~x86"
-	COMMIT="362e6391aab99d16b81110565886e8bb66e5f1a6"
+	COMMIT="12e3c5d56a0249d0f2eea6ae795b86a7154b4c7c"
 	SRC_URI="https://github.com/aircrack-ng/rtl8812au/archive/${COMMIT}.tar.gz -> ${P}.tar.gz"
 	S="${WORKDIR}/rtl8812au-${COMMIT}"
 fi
