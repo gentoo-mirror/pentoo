@@ -1,0 +1,15 @@
+BDEPEND=>=dev-lang/go-1.10
+DEFINED_PHASES=compile install postinst unpack
+DEPEND=!net-vpn/kcptun-bin dev-go/go-text:= dev-go/go-snappy:= dev-go/go-net:= dev-go/go-tools:= dev-go/go-crypto:= dev-go/go-sys:= >=dev-lang/go-1.12
+DESCRIPTION=A Stable & Secure Tunnel Based On KCP with N:M Multiplexing
+EAPI=7
+HOMEPAGE=https://github.com/xtaci/kcptun
+IUSE=+server
+KEYWORDS=~amd64 ~arm64 ~mips
+LICENSE=MIT
+RDEPEND=!net-vpn/kcptun-bin dev-go/go-text:= dev-go/go-snappy:= dev-go/go-net:= dev-go/go-tools:= dev-go/go-crypto:= dev-go/go-sys:=
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://github.com/xtaci/kcptun/archive/v20190515.tar.gz -> kcptun-20190515.tar.gz https://github.com/pkg/errors/archive/v0.8.1.tar.gz -> github.com-pkg-errors-v0.8.1.tar.gz https://github.com/urfave/cli/archive/v1.20.0.tar.gz -> github.com-urfave-cli-v1.20.0.tar.gz https://github.com/xtaci/kcp-go/archive/v5.2.7.tar.gz -> github.com-xtaci-kcp-go-v5.2.7.tar.gz https://github.com/tjfoc/gmsm/archive/v1.2.tar.gz -> github.com-tjfoc-gmsm-v1.2.tar.gz https://github.com/templexxx/xor/archive/0.1.2.tar.gz -> github.com-templexxx-xor-0.1.2.tar.gz https://github.com/klauspost/reedsolomon/archive/v1.9.1.tar.gz -> github.com-klauspost-reedsolomon-v1.9.1.tar.gz https://github.com/klauspost/cpuid/archive/v1.2.1.tar.gz -> github.com-klauspost-cpuid-v1.2.1.tar.gz https://github.com/templexxx/cpufeat/archive/cef66df.tar.gz -> github.com-templexxx-cpufeat-cef66df.tar.gz https://github.com/xtaci/smux/archive/v1.3.2.tar.gz -> github.com-xtaci-smux-v1.3.2.tar.gz
+_eclasses_=golang-base	c57d2c3f9e1a02d0feb8b87c7b689892	golang-vcs-snapshot	12177e83bede6f7fb87eae383864b40b
+_md5_=c15011d192313a63902a3d10c858be79
