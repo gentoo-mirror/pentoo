@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile install postinst postrm preinst prepare setup
+DEPEND=!!net-wireless/rtl8812au_astsam !!net-wireless/rtl8812au !!net-wireless/rtl8812au_asus kernel_linux? ( virtual/modutils ) sys-apps/sed kernel_linux? ( virtual/linux-sources virtual/libelf )
+DESCRIPTION=RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection
+EAPI=6
+HOMEPAGE=https://github.com/aircrack-ng/rtl8812au
+IUSE=kernel_linux kernel_linux kernel_linux
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=kernel_linux? ( virtual/modutils )
+SLOT=0
+SRC_URI=https://github.com/aircrack-ng/rtl8812au/archive/12e3c5d56a0249d0f2eea6ae795b86a7154b4c7c.tar.gz -> rtl8812au_aircrack-ng-5.3.4_p20190511.tar.gz
+_eclasses_=desktop	b1d22ac8bdd4679ab79c71aca235009d	eapi7-ver	756b3f27d8e46131d5cf3c51bd876446	epatch	a1bf4756dba418a7238f3be0cb010c54	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	6e6c2737b59a4b982de6fb3ecefd87f8	linux-info	953c3b1c472dcadbf62098a9301327f2	linux-mod	dc67f5064036fbaf4bb77b68a9caeda0	ltprune	2729691420b6deeda2a90b1f1183fb55	multilib	1d91b03d42ab6308b5f4f6b598ed110e	preserve-libs	ef207dc62baddfddfd39a164d9797648	toolchain-funcs	8c7f9d80beedd16f2e5a7f612c609529	vcs-clean	2a0f74a496fa2b1552c4f3398258b7bf
+_md5_=c8dedd7738e75c034a3034949fbdbb21
