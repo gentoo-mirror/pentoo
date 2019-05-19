@@ -1,0 +1,9 @@
+DEFINED_PHASES=compile install prepare
+DESCRIPTION=SIP003-compatible KCPTUN and UDP2RAW plugins for Shadowsocks
+EAPI=7
+HOMEPAGE=https://github.com/w1ndy/kcptun-plugins
+KEYWORDS=~amd64 ~arm ~arm64 ~mips ~x86
+LICENSE=Unlicense
+SLOT=0
+SRC_URI=https://github.com/w1ndy/kcptun-plugins/archive/b3f076a4bfa99dd88ce08d9e4192feddd2b4e4ea.tar.gz -> kcptun-plugins-20190313.tar.gz
+_md5_=30c6f0fdab4f333c2720d3c831a7c541
