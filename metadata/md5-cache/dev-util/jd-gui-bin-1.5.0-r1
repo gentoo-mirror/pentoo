@@ -1,4 +1,5 @@
 DEFINED_PHASES=install unpack
+DEPEND=virtual/jre !dev-util/jd-gui
 DESCRIPTION=A standalone Java Decompiler GUI
 EAPI=7
 HOMEPAGE=http://jd.benow.ca/
@@ -8,4 +9,4 @@ RDEPEND=virtual/jre
 SLOT=0
 SRC_URI=https://github.com/java-decompiler/jd-gui/releases/download/v1.5.0/jd-gui-1.5.0.jar
 _eclasses_=desktop	b1d22ac8bdd4679ab79c71aca235009d
-_md5_=5020df851ab00ebc6d2fcf126e058d87
+_md5_=9d046478fdc5533cfcad0838e3c8ba90
