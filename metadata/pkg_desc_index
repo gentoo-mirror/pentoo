@@ -49,7 +49,7 @@ net-analyzer/videojak 1.00: VideoJak is an IP Video security assessment tool
 net-analyzer/voiphopper 2.04-r3: VoIP Hopper is a tool that rapidly runs a VLAN Hop into the Voice VLAN
 net-analyzer/webshag 1.10: An enhanced HTTP URL Scanner and fuzzer
 net-analyzer/zarp 0.1.8: Local network attack toolkit
-net-dialup/freeradius 2.2.5-r1: Highly configurable free RADIUS server
+net-dialup/freeradius 2.2.5-r2: Highly configurable free RADIUS server
 net-fs/winexe 1.0.0-r1: remotely execute commands on Windows NT/2000/XP/2003 systems, with lmhash passthrough support
 net-misc/rdesktop-brute 1.5.0: A Remote Desktop Protocol Client
 net-proxy/burpsuite 1.7.29 1.7.36: Interactive proxy for attacking and debugging web applications
