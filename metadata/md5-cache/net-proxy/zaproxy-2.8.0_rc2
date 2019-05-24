@@ -1,0 +1,11 @@
+DEFINED_PHASES=install postinst prepare
+DESCRIPTION=The OWASP Zed Attack Proxy for finding vulnerabilities in web applications
+EAPI=6
+HOMEPAGE=https://github.com/zaproxy/zaproxy
+KEYWORDS=~amd64 ~x86
+LICENSE=Apache-2.0
+RDEPEND=|| ( virtual/jre virtual/jdk ) !virtual/jre:1.6 !virtual/jdk:1.6
+RESTRICT=mirror
+SLOT=0
+SRC_URI=https://github.com/zaproxy/zaproxy/releases/download/w2019-05-23/ZAP_WEEKLY_D-2019-05-23.zip -> zaproxy-2.8.0_rc2.zip
+_md5_=ee0255bb65f222bea60039beb4bce62b
