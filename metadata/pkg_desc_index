@@ -84,7 +84,7 @@ pentoo/zero-system 2019.1: The ZERO (Zoning & Emotional Range Omitted) System is
 sys-apps/magic-pax 0.0.1: 
 sys-boot/grub-static 0.97-r9 0.97-r10: GNU GRUB Legacy boot loader (static build)
 sys-fs/static-dev 0.1: A skeleton, statically managed /dev
-sys-kernel/pentoo-sources 4.16.11 4.17.19 4.18.14 4.19.5 4.20.6 5.0.8 5.1.2: Pentoo kernel sources (kernel series 5.1)
+sys-kernel/pentoo-sources 4.16.11 4.17.19 4.18.14 4.19.5 4.20.6 5.0.8 5.1.4: Pentoo kernel sources (kernel series 5.1)
 sys-power/acpid 2.0.30 2.0.31: Daemon for Advanced Configuration and Power Interface
 virtual/linux-sources 1-r1 3-r1: Virtual for Linux kernel sources
 www-plugins/adblock_plus 3.5.2: Firefox extension to block annoying ads automatically, no distractions.
