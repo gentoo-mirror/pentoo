@@ -6,5 +6,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 PDEPEND=dev-util/dialog sys-apps/gptfdisk sys-apps/util-linux sys-block/parted sys-boot/efibootmgr sys-boot/grub:2[multislot(-),grub_platforms_efi-32,grub_platforms_efi-64] sys-boot/os-prober sys-boot/shim sys-boot/mokutil app-crypt/pinentry[gtk,ncurses] sys-fs/squashfs-tools x11-misc/wmctrl net-misc/rsync app-misc/jq sys-fs/growpart
 SLOT=0
-SRC_URI=https://github.com/pentoo/pentoo-installer/archive/149104bdf565e3900ed1bea2ccb5e93784408f57.tar.gz -> pentoo-installer-20190502.tar.gz
-_md5_=f11bd47db53b2cf19be28e09338c02a1
+SRC_URI=https://github.com/pentoo/pentoo-installer/archive/e58791f846f741edf3a23439d258c8d25c1244f4.tar.gz -> pentoo-installer-20190604.tar.gz
+_md5_=d589e0dc2391bf72d9be0a02ef2bcaf7
