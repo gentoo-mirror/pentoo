@@ -1,0 +1,15 @@
+BDEPEND=>=dev-lang/go-1.10
+DEFINED_PHASES=compile install postinst prepare setup unpack
+DEPEND=dev-go/go-sqlite3:= dev-go/go-sys:= >=dev-lang/go-1.12
+DESCRIPTION=Build a local copy of OVAL. Server mode for easy querying
+EAPI=7
+HOMEPAGE=https://vuls.io/ https://github.com/kotakanbe/goval-dictionary
+IUSE=policykit
+KEYWORDS=~amd64
+LICENSE=Apache-2.0
+RDEPEND=policykit? ( sys-auth/polkit )
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://github.com/kotakanbe/goval-dictionary/archive/v0.1.1.tar.gz -> goval-dictionary-0.1.1.tar.gz https://github.com/asaskevich/govalidator/archive/v9.tar.gz -> github.com-asaskevich-govalidator-v9.tar.gz https://github.com/dgrijalva/jwt-go/archive/v3.2.0.tar.gz -> github.com-dgrijalva-jwt-go-v3.2.0.tar.gz https://github.com/go-redis/redis/archive/v6.14.2.tar.gz -> github.com-go-redis-redis-v6.14.2.tar.gz https://github.com/go-sql-driver/mysql/archive/v1.4.1.tar.gz -> github.com-go-sql-driver-mysql-v1.4.1.tar.gz https://github.com/go-stack/stack/archive/v1.8.0.tar.gz -> github.com-go-stack-stack-v1.8.0.tar.gz https://github.com/google/subcommands/archive/46f0354f63152e8801bb460d26f5b6c4c878efbb.tar.gz -> github.com-google-subcommands-46f0354f63152e8801bb460d26f5b6c4c878efbb.tar.gz https://github.com/htcat/htcat/archive/v1.0.2.tar.gz -> github.com-htcat-htcat-v1.0.2.tar.gz https://github.com/inconshreveable/log15/archive/v2.14.tar.gz -> github.com-inconshreveable-log15-v2.14.tar.gz https://github.com/jinzhu/gorm/archive/v1.9.1.tar.gz -> github.com-jinzhu-gorm-v1.9.1.tar.gz https://github.com/jinzhu/inflection/archive/04140366298a54a039076d798123ffa108fff46c.tar.gz -> github.com-jinzhu-inflection-04140366298a54a039076d798123ffa108fff46c.tar.gz https://github.com/k0kubun/pp/archive/v2.3.0.tar.gz -> github.com-k0kubun-pp-v2.3.0.tar.gz https://github.com/labstack/echo/archive/v2.2.0.tar.gz -> github.com-labstack-echo-v2.2.0.tar.gz https://github.com/labstack/gommon/archive/v0.2.8.tar.gz -> github.com-labstack-gommon-v0.2.8.tar.gz https://github.com/lib/pq/archive/v1.0.0.tar.gz -> github.com-lib-pq-v1.0.0.tar.gz https://github.com/mattn/go-colorable/archive/v0.0.9.tar.gz -> github.com-mattn-go-colorable-v0.0.9.tar.gz https://github.com/mattn/go-isatty/archive/v0.0.4.tar.gz -> github.com-mattn-go-isatty-v0.0.4.tar.gz https://github.com/valyala/bytebufferpool/archive/v1.0.0.tar.gz -> github.com-valyala-bytebufferpool-v1.0.0.tar.gz https://github.com/valyala/fasttemplate/archive/dcecefd839c4193db0d35b88ec65b4c12d360ab0.tar.gz -> github.com-valyala-fasttemplate-dcecefd839c4193db0d35b88ec65b4c12d360ab0.tar.gz https://github.com/ymomoi/goval-parser/archive/0a0be1dd9d0855b50be0be5a10ad3085382b6d59.tar.gz -> github.com-ymomoi-goval-parser-0a0be1dd9d0855b50be0be5a10ad3085382b6d59.tar.gz https://github.com/go-yaml/yaml/archive/v2.2.1.tar.gz -> github.com-go-yaml-yaml-v2.2.1.tar.gz
+_eclasses_=golang-base	c57d2c3f9e1a02d0feb8b87c7b689892	golang-vcs-snapshot	12177e83bede6f7fb87eae383864b40b	user	9903ef4e6829343eb83f1da3bda64d33
+_md5_=1455f611fba56f48871bb02c24d28dbd

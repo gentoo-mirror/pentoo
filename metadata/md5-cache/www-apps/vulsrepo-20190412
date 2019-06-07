@@ -1,0 +1,14 @@
+BDEPEND=>=dev-lang/go-1.10
+DEFINED_PHASES=compile install postinst prepare setup unpack
+DEPEND=app-admin/vuls dev-go/go-crypto:= dev-go/go-net:= >=dev-lang/go-1.12
+DESCRIPTION=VulsRepo is visualized based on the json report output in vuls
+EAPI=7
+HOMEPAGE=https://vuls.io https://github.com/usiusi360/vulsrepo
+KEYWORDS=~amd64
+LICENSE=MIT
+RDEPEND=app-admin/vuls
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://github.com/usiusi360/vulsrepo/archive/310e6fef185581ac1f75dfe55b84fd378b7437b7.tar.gz -> vulsrepo-20190412.tar.gz https://github.com/BurntSushi/toml/archive/v0.3.0.tar.gz -> github.com-BurntSushi-toml-v0.3.0.tar.gz https://github.com/abbot/go-http-auth/archive/v0.4.0.tar.gz -> github.com-abbot-go-http-auth-v0.4.0.tar.gz
+_eclasses_=golang-base	c57d2c3f9e1a02d0feb8b87c7b689892	golang-vcs-snapshot	12177e83bede6f7fb87eae383864b40b	user	9903ef4e6829343eb83f1da3bda64d33
+_md5_=eb7ba4d7488839b11ce0c661ca95ebcc
