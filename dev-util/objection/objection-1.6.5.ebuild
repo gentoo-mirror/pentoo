@@ -17,14 +17,18 @@ IUSE=""
 
 RDEPEND="dev-util/frida-tools[${PYTHON_USEDEP}]
 	dev-python/frida-python[${PYTHON_USEDEP}]
-	>=dev-python/prompt_toolkit-1.0.15[${PYTHON_USEDEP}] <dev-python/prompt_toolkit-2.0.0[${PYTHON_USEDEP}]
+	>=dev-python/prompt_toolkit-2.0.8[${PYTHON_USEDEP}] <dev-python/prompt_toolkit-3.0.0[${PYTHON_USEDEP}]
 	dev-python/click[${PYTHON_USEDEP}]
-	dev-python/jinja[${PYTHON_USEDEP}]
-	dev-python/delegator[${PYTHON_USEDEP}]
 	dev-python/tabulate[${PYTHON_USEDEP}]
+	dev-python/delegator[${PYTHON_USEDEP}]
 	dev-python/requests[${PYTHON_USEDEP}]
-	dev-python/jsbeautifier[${PYTHON_USEDEP}]
+	dev-python/flask[${PYTHON_USEDEP}]
 "
 
 DEPEND="${RDEPEND}
 	dev-python/setuptools[${PYTHON_USEDEP}]"
+
+src_prepare(){
+	rm -r tests
+	eapply_user
+}
