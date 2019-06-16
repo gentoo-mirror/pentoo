@@ -11,4 +11,4 @@ RESTRICT=strip
 SLOT=0
 SRC_URI=https://github.com/usiusi360/vulsrepo/archive/310e6fef185581ac1f75dfe55b84fd378b7437b7.tar.gz -> vulsrepo-20190412.tar.gz https://github.com/BurntSushi/toml/archive/v0.3.0.tar.gz -> github.com-BurntSushi-toml-v0.3.0.tar.gz https://github.com/abbot/go-http-auth/archive/v0.4.0.tar.gz -> github.com-abbot-go-http-auth-v0.4.0.tar.gz
 _eclasses_=golang-base	c57d2c3f9e1a02d0feb8b87c7b689892	golang-vcs-snapshot	12177e83bede6f7fb87eae383864b40b	user	9903ef4e6829343eb83f1da3bda64d33
-_md5_=afb17898bba85c679ebaba208d33d65d
+_md5_=a82f26f580e4185e2d33286b4df9f37d
