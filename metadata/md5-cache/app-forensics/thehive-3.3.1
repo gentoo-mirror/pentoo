@@ -1,13 +1,13 @@
 BDEPEND=virtual/pkgconfig
-DEFINED_PHASES=install setup unpack
+DEFINED_PHASES=install postinst setup unpack
 DEPEND=kernel_AIX? ( app-arch/deb2targz )
 DESCRIPTION=A scalable 4-in-1 open source and free Security Incident Response Platform
 EAPI=7
 HOMEPAGE=https://thehive-project.org
-KEYWORDS=~amd64 ~x86
+KEYWORDS=~amd64
 LICENSE=AGPL-3
-RDEPEND=virtual/jre
+RDEPEND=<=app-misc/elasticsearch-5.6.16 virtual/jre
 SLOT=0
 SRC_URI=https://dl.bintray.com/thehive-project/debian-stable/thehive_3.3.1-1_all.deb
 _eclasses_=multilib	1d91b03d42ab6308b5f4f6b598ed110e	systemd	71fd8d2065d102753fb9e4d20eaf3e9f	toolchain-funcs	8c7f9d80beedd16f2e5a7f612c609529	unpacker	3cd8bad0d31e525cd26be1bfa4e61631	user	9903ef4e6829343eb83f1da3bda64d33
-_md5_=d974b554e74576350799a1c2e2140eea
+_md5_=a92e18b047c0d23df1f42322658ab525
