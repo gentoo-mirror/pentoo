@@ -32,12 +32,11 @@ dev-python/pydot 1.4.1: Python interface to Graphviz's Dot language
 dev-python/sqlalchemy_mixins 1.1: Active Record, Django-like queries
 dev-python/tre-python 0.8.0: Python bidings for TRE library
 dev-qt/qtserialport 5.12.3: Serial port abstraction library for the Qt5 framework
-dev-util/AndroidProjectCreator-bin 1.2.2: Convert an APK to an Android Studio Project using multiple open-source decompilers
+dev-util/AndroidProjectCreator-bin 1.2.2-r1: Convert an APK to an Android Studio Project using multiple open-source decompilers
 dev-util/ati-app-sdk-bin 2.9: AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream)
 dev-util/ati-stream-sdk-bin 2.01 2.2 2.3: Enable compiling code and loading it on ATI/AMD GPU
 dev-util/jadx-bin 0.6.1 0.9.0: A standalone graphical utility that displays Java source codes of .class file
 dev-util/jd-gui 1.5.2 1.6.0: A standalone Java Decompiler GUI
-dev-util/jd-gui-bin 1.4.3 1.5.0-r1: A standalone Java Decompiler GUI
 gnome-base/gnome-keyring 3.20.1 3.28.2: Password and keyring managing daemon
 gnome-base/libgnomeui 2.24.5-r4: User Interface routines for Gnome
 net-analyzer/dsniff 2.4-r11: A collection of tools for network auditing and penetration testing
@@ -76,7 +75,7 @@ pentoo/pentoo-gnome 2.32.1-r3: Meta package for the GNOME desktop, merge this pa
 pentoo/pentoo-misc 2019.1: Pentoo misc meta ebuild
 pentoo/pentoo-mobile 2018.4-r2: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2015.3: Collection of NFC tools
-pentoo/pentoo-rce 2019.1-r2: Pentoo RCE meta ebuild
+pentoo/pentoo-rce 2019.1-r3: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2019.0: Pentoo scanner meta ebuild
 pentoo/pentoo-system 2019.1-r3: Pentoo meta ebuild to install system
 pentoo/wctf-client 2019.1-r7: Packages needed to power the client NUC for WCTF events
