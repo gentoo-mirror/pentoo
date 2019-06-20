@@ -1,10 +1,10 @@
 DEFINED_PHASES=install prepare
 DESCRIPTION=A standalone graphical utility that displays Java source codes of .class file
-EAPI=6
+EAPI=7
 HOMEPAGE=https://github.com/skylot/jadx
 KEYWORDS=amd64 x86
 LICENSE=Apache-2.0
 RDEPEND=virtual/jre
 SLOT=0
-SRC_URI=https://github.com/skylot/jadx/releases/download/v0.6.1/jadx-0.6.1.zip
-_md5_=f7b0ea5b3e2d750c7996956b894e3067
+SRC_URI=https://github.com/skylot/jadx/releases/download/v1.0.0/jadx-1.0.0.zip
+_md5_=6434cdb206f1eaa1249037ba63efe167
