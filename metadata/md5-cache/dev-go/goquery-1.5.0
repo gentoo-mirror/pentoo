@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install test unpack
+DEPEND=dev-go/cascadia:= dev-go/go-net:= >=dev-lang/go-1.10
+DESCRIPTION=A little like that j-thing
+EAPI=6
+HOMEPAGE=https://github.com/PuerkitoBio/goquery
+KEYWORDS=~amd64 ~arm ~arm64 ~x86
+LICENSE=BSD
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://github.com/PuerkitoBio/goquery/archive/v1.5.0.tar.gz -> goquery-1.5.0.tar.gz
+_eclasses_=golang-base	c57d2c3f9e1a02d0feb8b87c7b689892	golang-build	dc25bafa8fc1305a4de66a0a448472e7	golang-vcs-snapshot	12177e83bede6f7fb87eae383864b40b
+_md5_=2a906aecda905eaa2cd262f70245fcf5
