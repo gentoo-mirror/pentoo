@@ -9,5 +9,5 @@ LICENSE=GPL-2+ UPX-exception
 RDEPEND=>=dev-libs/ucl-1.02 !app-arch/upx !app-arch/upx-bin
 SLOT=0
 SRC_URI=https://github.com/upx/upx/archive/v3.95.tar.gz -> upx-ucl-3.95.tar.gz https://github.com/upx/upx-lzma-sdk/archive/v3.95.tar.gz -> upx-lzma-sdk-3.95.tar.gz
-_eclasses_=eutils	6e6c2737b59a4b982de6fb3ecefd87f8	flag-o-matic	a09389deba2c0a7108b581e02c7cecbf	multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	8c7f9d80beedd16f2e5a7f612c609529
+_eclasses_=eutils	6e6c2737b59a4b982de6fb3ecefd87f8	flag-o-matic	7ba73aee7fe4462b3a745e3645ab92ca	multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	8c7f9d80beedd16f2e5a7f612c609529
 _md5_=debc9dcdd42e865863ea2f30e391b799
