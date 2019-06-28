@@ -1,0 +1,6 @@
+DEFINED_PHASES=-
+DESCRIPTION=We need this as a bad workaround for the following bug:
+EAPI=0
+HOMEPAGE=https://github.com/repology/repology-rules/issues/28
+SLOT=BAD
+_md5_=f0d9ce1bb45d7714d7126ab1ce98508d
