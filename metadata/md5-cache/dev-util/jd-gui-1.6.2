@@ -1,12 +1,12 @@
 DEFINED_PHASES=compile install prepare
-DEPEND=virtual/jre >=virtual/jdk-11 dev-java/gradle-bin:5.2.1 !dev-util/jd-gui-bin
+DEPEND=virtual/jre !dev-util/jd-gui-bin >=virtual/jdk-11 dev-java/gradle-bin:5.2.1
 DESCRIPTION=A standalone Java Decompiler GUI
 EAPI=7
 HOMEPAGE=http://jd.benow.ca/
 KEYWORDS=amd64 x86
 LICENSE=GPL-3
-RDEPEND=virtual/jre
+RDEPEND=virtual/jre !dev-util/jd-gui-bin
 SLOT=0
 SRC_URI=https://github.com/java-decompiler/jd-gui/archive/v1.6.2.tar.gz -> jd-gui-1.6.2.tar.gz https://dev.pentoo.ch/~blshkv/distfiles/jd-gui-1.6.2-dependencies.tar.gz
 _eclasses_=desktop	b1d22ac8bdd4679ab79c71aca235009d
-_md5_=be34362a488d80103a655335f4ae35fb
+_md5_=87813e5ee106d79682762038673d774c
