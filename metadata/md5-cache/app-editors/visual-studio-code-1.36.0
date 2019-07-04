@@ -1,0 +1,14 @@
+DEFINED_PHASES=install postinst setup
+DEPEND=>=gnome-base/gconf-3.2.6-r4:2 >=media-libs/libpng-1.2.46:0 >=x11-libs/cairo-1.14.12:0 >=x11-libs/gtk+-2.24.31-r1:2 >=x11-libs/libXtst-1.2.3:0
+DESCRIPTION=Multiplatform Visual Studio Code from Microsoft
+EAPI=6
+HOMEPAGE=https://code.visualstudio.com
+IUSE=libsecret
+KEYWORDS=~amd64
+LICENSE=MIT
+RDEPEND=>=gnome-base/gconf-3.2.6-r4:2 >=media-libs/libpng-1.2.46:0 >=x11-libs/cairo-1.14.12:0 >=x11-libs/gtk+-2.24.31-r1:2 >=x11-libs/libXtst-1.2.3:0 >=net-print/cups-2.1.4:0 >=x11-libs/libnotify-0.7.7:0 >=x11-libs/libXScrnSaver-1.2.2-r1:0 dev-libs/nss libsecret? ( app-crypt/libsecret[crypt] )
+RESTRICT=mirror strip bindist
+SLOT=0
+SRC_URI=amd64? ( https://vscode-update.azurewebsites.net/1.36.0/linux-x64/stable -> visual-studio-code-1.36.0-amd64.tar.gz )
+_eclasses_=desktop	b1d22ac8bdd4679ab79c71aca235009d	epatch	a1bf4756dba418a7238f3be0cb010c54	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	6e6c2737b59a4b982de6fb3ecefd87f8	ltprune	2729691420b6deeda2a90b1f1183fb55	multilib	1d91b03d42ab6308b5f4f6b598ed110e	pax-utils	db85a3c508cf82c45f24b2723791cc93	preserve-libs	ef207dc62baddfddfd39a164d9797648	toolchain-funcs	8c7f9d80beedd16f2e5a7f612c609529	vcs-clean	2a0f74a496fa2b1552c4f3398258b7bf
+_md5_=de192ff3a6c42d3edffdbbd9541f741c
