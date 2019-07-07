@@ -1,0 +1,13 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile install postinst postrm preinst prepare setup unpack
+DEPEND=python_targets_python3_5? ( dev-lang/python:3.5 ) python_targets_python3_6? ( dev-lang/python:3.6 ) python_targets_python3_7? ( dev-lang/python:3.7 ) >=dev-lang/python-exec-2:=[python_targets_python3_5(-)?,python_targets_python3_6(-)?,python_targets_python3_7(-)?,-python_single_target_python3_5(-),-python_single_target_python3_6(-),-python_single_target_python3_7(-)] dev-python/psutil[python_targets_python3_5(-)?,python_targets_python3_6(-)?,python_targets_python3_7(-)?,-python_single_target_python3_5(-),-python_single_target_python3_6(-),-python_single_target_python3_7(-)] kernel_linux? ( virtual/modutils ) sys-apps/sed kernel_linux? ( virtual/linux-sources virtual/libelf )
+DESCRIPTION=Linux process hunter
+EAPI=7
+HOMEPAGE=https://gitlab.com/nowayout/prochunter
+IUSE=kernel_linux python_targets_python3_5 python_targets_python3_6 python_targets_python3_7 kernel_linux kernel_linux
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=python_targets_python3_5? ( dev-lang/python:3.5 ) python_targets_python3_6? ( dev-lang/python:3.6 ) python_targets_python3_7? ( dev-lang/python:3.7 ) >=dev-lang/python-exec-2:=[python_targets_python3_5(-)?,python_targets_python3_6(-)?,python_targets_python3_7(-)?,-python_single_target_python3_5(-),-python_single_target_python3_6(-),-python_single_target_python3_7(-)] dev-python/psutil[python_targets_python3_5(-)?,python_targets_python3_6(-)?,python_targets_python3_7(-)?,-python_single_target_python3_5(-),-python_single_target_python3_6(-),-python_single_target_python3_7(-)] kernel_linux? ( virtual/modutils )
+SLOT=0
+_eclasses_=eutils	6e6c2737b59a4b982de6fb3ecefd87f8	git-r3	0d4635eeb5a96cd5315597a47eba25c9	linux-info	953c3b1c472dcadbf62098a9301327f2	linux-mod	6c7b3e7b9d39bd049bf23a991c16315e	multibuild	40fe59465edacd730c644ec2bc197809	multilib	1d91b03d42ab6308b5f4f6b598ed110e	python-r1	ce1cd23cfdc1848e8e32743efe34f299	python-utils-r1	08e17157a6807add7db1f8d01e7e391f	toolchain-funcs	8c7f9d80beedd16f2e5a7f612c609529
+_md5_=12b43892eb78cb1c59f975bfde6ed47f
