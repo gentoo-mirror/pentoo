@@ -1,13 +1,13 @@
 DEFINED_PHASES=compile configure install postinst postrm preinst prepare test
-DEPEND=app-forensics/openscap dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtwidgets:5[png] dev-qt/qtxml:5 dev-qt/qtxmlpatterns:5 dev-libs/libxslt policykit? ( sys-auth/polkit ) virtual/ssh x11-libs/libxcb app-text/asciidoc virtual/pkgconfig sys-devel/make >=dev-util/cmake-3.9.6
+DEPEND=app-forensics/openscap app-forensics/scap-security-guide dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtwidgets:5[png] dev-qt/qtxml:5 dev-qt/qtxmlpatterns:5 dev-libs/libxslt policykit? ( sys-auth/polkit ) virtual/ssh x11-libs/libxcb app-text/asciidoc virtual/pkgconfig sys-devel/make >=dev-util/cmake-3.9.6
 DESCRIPTION=SCAP Scanner And Tailoring Graphical User Interface
 EAPI=6
 HOMEPAGE=http://www.open-scap.org https://github.com/OpenSCAP/scap-workbench
 IUSE=policykit
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
-RDEPEND=app-forensics/openscap dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtwidgets:5[png] dev-qt/qtxml:5 dev-qt/qtxmlpatterns:5 dev-libs/libxslt policykit? ( sys-auth/polkit ) virtual/ssh x11-libs/libxcb
+RDEPEND=app-forensics/openscap app-forensics/scap-security-guide dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtwidgets:5[png] dev-qt/qtxml:5 dev-qt/qtxmlpatterns:5 dev-libs/libxslt policykit? ( sys-auth/polkit ) virtual/ssh x11-libs/libxcb
 SLOT=0
 SRC_URI=https://github.com/OpenSCAP/scap-workbench/archive/1.2.0.tar.gz -> scap-workbench-1.2.0.tar.gz
 _eclasses_=cmake-utils	dd66a018bf902d842cd6e4bf71c5b1a6	desktop	b1d22ac8bdd4679ab79c71aca235009d	epatch	a1bf4756dba418a7238f3be0cb010c54	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	6e6c2737b59a4b982de6fb3ecefd87f8	flag-o-matic	7ba73aee7fe4462b3a745e3645ab92ca	gnome2-utils	532371cfcba45b2ab0d2950547c97d95	ltprune	2729691420b6deeda2a90b1f1183fb55	multilib	1d91b03d42ab6308b5f4f6b598ed110e	multiprocessing	cac3169468f893670dac3e7cb940e045	ninja-utils	132cbb376048d079b5a012f5467c4e7f	preserve-libs	ef207dc62baddfddfd39a164d9797648	toolchain-funcs	8c7f9d80beedd16f2e5a7f612c609529	vcs-clean	2a0f74a496fa2b1552c4f3398258b7bf	xdg-utils	14d00d009167652b1fa363e55effe213
-_md5_=9513b2fe7c44c7edf503c64b2a1d6589
+_md5_=a5b3e91ea3d2b47cde33c3083ea5a715
