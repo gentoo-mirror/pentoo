@@ -1,0 +1,13 @@
+BDEPEND=>=dev-lang/go-1.10
+DEFINED_PHASES=compile install unpack
+DEPEND=dev-go/go-net:= dev-go/go-oauth2:= dev-go/go-crypto:= dev-go/go-sys:= dev-go/go-text:= dev-lang/go
+DESCRIPTION=A tool that can help detect and takeover subdomains with dead DNS records
+EAPI=7
+HOMEPAGE=https://github.com/anshumanbh/tko-subs
+KEYWORDS=~amd64
+LICENSE=MIT
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://github.com/anshumanbh/tko-subs/archive/3e23ed7fd1efaccf6fef7739234f2aadbdb0fdd0.tar.gz -> tko-subs-20190623.tar.gz https://github.com/bgentry/heroku-go/archive/ee4032d.tar.gz -> github.com-bgentry-heroku-go-ee4032d.tar.gz https://github.com/gocarina/gocsv/archive/a5c9099.tar.gz -> github.com-gocarina-gocsv-a5c9099.tar.gz https://github.com/golang/protobuf/archive/v1.1.0.tar.gz -> github.com-golang-protobuf-v1.1.0.tar.gz https://github.com/google/go-github/archive/v15.0.0.tar.gz -> github.com-google-go-github-v15.0.0.tar.gz https://github.com/google/go-querystring/archive/53e6ce1.tar.gz -> github.com-google-go-querystring-53e6ce1.tar.gz https://github.com/mattn/go-runewidth/archive/v0.0.2.tar.gz -> github.com-mattn-go-runewidth-v0.0.2.tar.gz https://github.com/miekg/dns/archive/v1.0.7.tar.gz -> github.com-miekg-dns-v1.0.7.tar.gz https://github.com/olekukonko/tablewriter/archive/d4647c9.tar.gz -> github.com-olekukonko-tablewriter-d4647c9.tar.gz https://github.com/pborman/uuid/archive/v1.1.tar.gz -> github.com-pborman-uuid-v1.1.tar.gz
+_eclasses_=eutils	6e6c2737b59a4b982de6fb3ecefd87f8	golang-base	c57d2c3f9e1a02d0feb8b87c7b689892	golang-vcs-snapshot	12177e83bede6f7fb87eae383864b40b
+_md5_=6feb6d2a8927f1c205ffd9c0a4be6141
