@@ -1,0 +1,11 @@
+DEFINED_PHASES=compile install postinst preinst unpack
+DEPEND=virtual/jdk dev-db/postgresql-server dev-java/jdbc-postgresql || ( dev-vcs/subversion[http] dev-vcs/subversion[webdav-neon] dev-vcs/subversion[webdav-serf] ) net-misc/rsync
+DESCRIPTION=A plugin for IDA Pro designed to provide collaborative reverse engineering
+EAPI=6
+HOMEPAGE=http://www.idabook.com/collabreate/
+KEYWORDS=~x86 ~amd64
+LICENSE=GPL-2
+RDEPEND=virtual/jdk dev-db/postgresql-server dev-java/jdbc-postgresql
+SLOT=0
+_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	subversion	128c7b49f5671a6b089e47a6064db19e
+_md5_=b598ab69477eb13b3793dbc904c698d3
