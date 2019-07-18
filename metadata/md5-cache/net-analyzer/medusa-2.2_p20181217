@@ -10,5 +10,5 @@ LICENSE=GPL-2
 RDEPEND=ssh? ( net-libs/libssh2 ) ncp? ( net-fs/ncpfs ) postgres? ( dev-db/postgresql:= ) rdp? ( net-misc/freerdp ) subversion? ( dev-vcs/subversion ) !libressl? ( dev-libs/openssl:= ) libressl? ( dev-libs/libressl:= ) afp? ( net-fs/afpfs-ng )
 SLOT=0
 SRC_URI=https://github.com/jmk-foofus/medusa/archive/292193b3995444aede53ff873899640b08129fc7.tar.gz -> medusa-2.2_p20181217.tar.gz
-_eclasses_=autotools	1bf086cdd7356f5c9a4acd9727bd2065	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	8c7f9d80beedd16f2e5a7f612c609529
+_eclasses_=autotools	1bf086cdd7356f5c9a4acd9727bd2065	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	a3a237ef6c0c58546bf23b2c382f9e56
 _md5_=118118c11843851c5a8b275557ac57ba
