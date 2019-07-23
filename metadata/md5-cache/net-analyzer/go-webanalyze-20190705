@@ -1,6 +1,6 @@
 BDEPEND=>=dev-lang/go-1.10
 DEFINED_PHASES=compile install unpack
-DEPEND=dev-go/go-net:= dev-go/go-text:= >=dev-lang/go-1.12
+DEPEND=dev-go/go-net:= dev-go/go-text:= dev-go/goquery >=dev-lang/go-1.12
 DESCRIPTION=Port of Wappalyzer (uncovers technologies used on websites) in Go to automate scanning
 EAPI=7
 HOMEPAGE=https://github.com/rverton/webanalyze
@@ -10,4 +10,4 @@ RESTRICT=strip
 SLOT=0
 SRC_URI=https://github.com/rverton/webanalyze/archive/ab86050f17f1c3ddd70af3164cb1f56f405d2d38.tar.gz -> go-webanalyze-20190705.tar.gz https://github.com/bobesa/go-domain-util/archive/1d708c0.tar.gz -> github.com-bobesa-go-domain-util-1d708c0.tar.gz
 _eclasses_=eutils	6e6c2737b59a4b982de6fb3ecefd87f8	golang-base	c57d2c3f9e1a02d0feb8b87c7b689892	golang-vcs-snapshot	12177e83bede6f7fb87eae383864b40b
-_md5_=d275add387a29199eabc99a3b0ce2924
+_md5_=e1db9acdc4cf342eaa937eba4b6762a7
