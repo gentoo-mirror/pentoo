@@ -1,10 +1,10 @@
-BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
-DEFINED_PHASES=install unpack
+DEFINED_PHASES=install
 DESCRIPTION=Kismet WiFi data source shootout
 EAPI=7
 HOMEPAGE=https://github.com/deltj/kis_shootout_python.git
+KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 PDEPEND=net-wireless/kismet-rest
 SLOT=0
-_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
+SRC_URI=https://github.com/deltj/kis_shootout_python/archive/ac635d8a15efa5b16d3c4f133ed63fb8545bffe3.tar.gz -> kismet_shootout-0.0_p20190717.tar.gz
 _md5_=22dede6f0fcbcd1c08976e9b341e59ff
