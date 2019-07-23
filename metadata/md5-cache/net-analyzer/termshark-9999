@@ -1,0 +1,12 @@
+BDEPEND=>=dev-lang/go-1.10
+DEFINED_PHASES=compile install postinst unpack
+DEPEND=net-analyzer/wireshark[dumpcap,pcap,tshark] !net-analyzer/termshark-bin
+DESCRIPTION=A terminal UI for tshark, inspired by Wireshark
+EAPI=7
+HOMEPAGE=https://termshark.io/ https://github.com/gcla/termshark
+LICENSE=MIT
+RDEPEND=net-analyzer/wireshark[dumpcap,pcap,tshark]
+RESTRICT=strip
+SLOT=0
+_eclasses_=eutils	6e6c2737b59a4b982de6fb3ecefd87f8	golang-base	c57d2c3f9e1a02d0feb8b87c7b689892	golang-vcs	8a25f35316654b44cae8d63717b1bf36
+_md5_=34c0dd66bae037e185d66582cbd863c2
