@@ -11,5 +11,5 @@ RDEPEND=ruby_targets_ruby24? ( dev-ruby/dm-migrations[ruby_targets_ruby24] dev-r
 REQUIRED_USE=|| ( ruby_targets_ruby24 )
 SLOT=0
 SRC_URI=https://github.com/zerochaos-/blue_hydra/archive/1.9.10.tar.gz -> blue_hydra-1.9.10.tar.gz
-_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	multilib	1d91b03d42ab6308b5f4f6b598ed110e	ruby-ng	adcdd52f589f9feb16890a9ff28fef71	ruby-utils	10cec86289e60f4b0d731b2e4b545e5d	toolchain-funcs	a3a237ef6c0c58546bf23b2c382f9e56
+_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	multilib	1d91b03d42ab6308b5f4f6b598ed110e	ruby-ng	30fa5ec063563aed1b8a6794133b10f4	ruby-utils	10cec86289e60f4b0d731b2e4b545e5d	toolchain-funcs	a3a237ef6c0c58546bf23b2c382f9e56
 _md5_=049bee62056f147502c9a10ba05cfabb
