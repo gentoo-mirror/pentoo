@@ -4,7 +4,8 @@ DESCRIPTION=a tool for generating freedesktop-compliant menus
 EAPI=5
 HOMEPAGE=https://github.com/pentoo/genmenu
 LICENSE=GPL-2
+PROPERTIES=live
 RDEPEND=>=dev-python/lxml-1.3.6
 SLOT=0
-_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
+_eclasses_=git-r3	562b380fc59ae6a8622171d0acb777d1
 _md5_=103c58a956dee3c699cfd69a74629283
