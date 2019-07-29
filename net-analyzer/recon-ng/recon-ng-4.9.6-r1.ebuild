@@ -3,20 +3,21 @@
 
 EAPI=7
 
-PYTHON_COMPAT=( python3_{5,6} )
-PYTHON_REQ_USE="sqlite"
+PYTHON_COMPAT=( python2_7 )
 
 inherit python-r1
 
 DESCRIPTION="Web Reconnaissance Framework"
-HOMEPAGE="https://bitbucket.org/LaNMaSteR53/recon-ng https://github.com/lanmaster53/recon-ng"
+HOMEPAGE="https://bitbucket.org/LaNMaSteR53/recon-ng"
 
 if [[ ${PV} == *9999 ]]; then
 	inherit git-r3
 	EGIT_REPO_URI="https://bitbucket.org/LaNMaSteR53/recon-ng"
 else
-	SRC_URI="https://github.com/lanmaster53/recon-ng/archive/v${PV}.tar.gz -> ${P}.tar.gz"
-	KEYWORDS="~amd64 ~x86"
+	CUR_COMMIT="1a691939a77f"
+	SRC_URI="https://bitbucket.org/LaNMaSteR53/recon-ng/get/v${PV}.tar.bz2 -> ${P}.tar.bz2"
+	KEYWORDS="amd64 ~x86"
+	S="${WORKDIR}/LaNMaSteR53-${PN}-${CUR_COMMIT}"
 fi
 
 LICENSE="GPL-3"
@@ -24,14 +25,16 @@ SLOT=0
 IUSE=""
 
 RDEPEND="${PYTHON_DEPS}
+	>=dev-python/jsonrpclib-0.1.3[${PYTHON_USEDEP}]
 	dev-python/dicttoxml[${PYTHON_USEDEP}]
 	dev-python/lxml[${PYTHON_USEDEP}]
-	>=dev-python/mechanize-0.4.2[${PYTHON_USEDEP}]
+	dev-python/mechanize[${PYTHON_USEDEP}]
+	dev-python/slowaes[${PYTHON_USEDEP}]
 	dev-python/xlsxwriter[${PYTHON_USEDEP}]
+	dev-python/PyPDF2[${PYTHON_USEDEP}]
+	dev-python/olefile[${PYTHON_USEDEP}]
 	dev-python/flask[${PYTHON_USEDEP}]
 	dev-python/unicodecsv[${PYTHON_USEDEP}]
-	dev-python/requests[${PYTHON_USEDEP}]
-	dev-python/pyyaml[${PYTHON_USEDEP}]
 	virtual/python-dnspython[${PYTHON_USEDEP}]"
 
 DEPEND="${RDEPEND}"
