@@ -1,5 +1,5 @@
 BDEPEND=>=dev-lang/go-1.10
-DEFINED_PHASES=compile install unpack
+DEFINED_PHASES=compile install prepare unpack
 DEPEND=virtual/libusb:1
 DESCRIPTION=Demo tool for Logitech Unifying vulnerabilities
 EAPI=7
@@ -12,4 +12,4 @@ RESTRICT=strip
 SLOT=0
 SRC_URI=https://github.com/mame82/UnifyingVulnsDisclosureRepo/archive/7bfa689104ab3d54d2a18e69a5a60195ec1cd876.tar.gz -> mjackit-20190606.tar.gz https://github.com/google/gousb/archive/a50ac95.tar.gz -> github.com-google-gousb-a50ac95.tar.gz https://github.com/manifoldco/promptui/archive/v0.3.2.tar.gz -> github.com-manifoldco-promptui-v0.3.2.tar.gz
 _eclasses_=golang-base	c57d2c3f9e1a02d0feb8b87c7b689892	golang-vcs-snapshot	12177e83bede6f7fb87eae383864b40b	multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	a3a237ef6c0c58546bf23b2c382f9e56
-_md5_=01dfc2280006f5714797425891bdeada
+_md5_=75f6898aa399a0abe32b958daaac35fc
