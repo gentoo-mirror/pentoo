@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=Pentoo proxy meta ebuild
+EAPI=7
+HOMEPAGE=http://www.pentoo.ch
+IUSE=java pentoo-full
+KEYWORDS=~amd64 ~arm ~x86
+LICENSE=BSD
+PDEPEND=java? ( pentoo-full? ( net-proxy/burpsuite ) net-proxy/zaproxy ) pentoo-full? ( net-dns/dnscrypt-proxy net-misc/proxychains net-proxy/3proxy net-proxy/mitmproxy net-proxy/privoxy net-proxy/ratproxy net-proxy/redsocks net-proxy/tsocks net-vpn/iodine net-vpn/tor )
+SLOT=0
+_md5_=ff954e4c1435151fedccc6167b95275d
