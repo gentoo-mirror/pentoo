@@ -243,7 +243,7 @@ dev-python/esmre 0.3.1: Regular expression accelerator
 dev-python/flask-caching 1.7.2: Continuation of the Flask-Cache Extension
 dev-python/flask-jwt 0.3.2: JWT (JSON Web Tokens) for Flask applications
 dev-python/flask-jwt-extended 3.18.2 3.21.0: An open source Flask extension that provides JWT support
-dev-python/frida-python 12.6.11 12.6.12: Inject JavaScript to explore native apps
+dev-python/frida-python 12.6.11 12.6.13: Dynamic instrumentation toolkit for reverse-engineers and security researchers
 dev-python/geoip2-python 2.8.0: Python bindings for GeoIP2
 dev-python/google-api-python-client 1.7.9: Google API Client for Python
 dev-python/googlesearch 20181112-r1: Google search from Python
@@ -546,7 +546,7 @@ net-libs/libpfring 7.0.0 7.2.0: A new type of network socket that improves packe
 net-libs/libtins 4.1 4.2: High-level, multiplatform C++ network packet sniffing and crafting library.
 net-libs/libvidcap 0.2.1: a cross-platform library for capturing video from webcams and other video capture devices
 net-libs/nDPI 2.8: Open Source Deep Packet Inspection Software Toolkit
-net-mail/davmail-bin 4.7.3 5.2.0.2961: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
+net-mail/davmail-bin 4.7.3 5.2.0.2961 5.3.0.3065: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
 net-mail/fakepop 11: fake pop3 server which returns the same messages to all users
 net-misc/brutespray 1.6.4: Brute-Forcing from Nmap output - Automatically attempts default creds on found services
 net-misc/corscanner 20190721 99999999: Fast CORS misconfiguration vulnerabilities scannerbeers
