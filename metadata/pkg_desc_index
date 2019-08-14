@@ -194,7 +194,7 @@ dev-python/HTTPReplay 0.2.6: Properly interpret, decrypt, and replay pcap files
 dev-python/Js2Py 0.66: JavaScript to Python Translator & JavaScript interpreter
 dev-python/PTP 0.3.0 0.4.2-r1: Pentester's Tools Parser
 dev-python/PyVirtualDisplay 0.2.4: python wrapper for Xvfb, Xephyr and Xvnc
-dev-python/Scrapy 1.7.2: A high-level Web Crawling and Web Scraping framework
+dev-python/Scrapy 1.7.3: A high-level Web Crawling and Web Scraping framework
 dev-python/acora 9999: Fast multi-keyword search engine for text strings
 dev-python/agate 1.6.1: A data analysis library that is optimized for humans instead of machines
 dev-python/agate-dbf 0.2.1: Adds read support for dbf files to agate
