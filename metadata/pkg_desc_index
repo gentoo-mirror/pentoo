@@ -119,7 +119,7 @@ app-text/cewl 5.4.4.1 9999: A custom word list generator
 dev-db/absinthe 1.4.1: a gui-based tool for aiding in Blind SQL Injection
 dev-db/mssqlscan 0.8.4: A small multi-threaded tool that scans for Microsoft SQL Servers
 dev-db/neo4j-community 3.5.3-r1 3.5.8: Neo4j is a high-performance, NOSQL graph database with all the features of a mature and robust database
-dev-db/nosqlmap 0.5_p20190530: A tool to automate injection attacks and exploit weaknesses in NoSQL
+dev-db/nosqlmap 0.5_p20190812: A tool to automate injection attacks and exploit weaknesses in NoSQL
 dev-db/oat 1.3.1: a toolkit that could be used to audit security within Oracle database servers
 dev-db/sqid 0.3: A SQL injection digger
 dev-db/sqlbf 1.0.1-r1: SQLBF is a tool to audit mssql passwords strength offline
