@@ -395,7 +395,7 @@ dev-util/dependency-check-bin 5.0.0 5.1.0: A utility that detects vulnerabilitie
 dev-util/dex2jar 2.1_pre20150601 2.1_pre20180402: Tools to work with android .dex and java .class files
 dev-util/electron-packager 13.0.1 14.0.1: Six Degrees of Domain Admin
 dev-util/emilpro 3_p20170708 3_p20180111: Graphical disassembler for a large number of instruction sets
-dev-util/frida-tools 1.2.3 2.0.1: Frida CLI tools
+dev-util/frida-tools 1.2.3 2.0.1 2.1.1: Frida CLI tools
 dev-util/ghidra 9.0.2-r2 9.0.4: A software reverse engineering framework
 dev-util/jadx-bin 1.0.0: A standalone graphical utility that displays Java source codes of .class file
 dev-util/jd-gui 1.6.2 1.6.3: A standalone Java Decompiler GUI
@@ -403,7 +403,7 @@ dev-util/lida 03.00.00: interactive ELF disambler
 dev-util/lief 0.9.0_p20181231 0.9.0_p20190511 0.9.0_p20190626: Library to instrument executable formats
 dev-util/lief-bin 0.9.0-r1: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
-dev-util/objection 1.6.6-r1 1.7.0: Runtime mobile exploration
+dev-util/objection 1.6.6-r1 1.7.1: Runtime mobile exploration
 dev-util/plasma 0_p21080708 9999: An interactive disassembler for x86/ARM/MIPS
 dev-util/pyew 2.0: Hexadecimal viewer and disassembler
 dev-util/qark 0.9_pre20181218 0.9_pre20190405: A tool to look for Android application vulnerabilities
