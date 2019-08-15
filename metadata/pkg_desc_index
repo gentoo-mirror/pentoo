@@ -27,7 +27,7 @@ app-crypt/xortool 0.98: A tool to analyze multi-byte xor cipher
 app-crypt/yubioath-desktop 4.3.6: Library and tool for personalization of Yubico's YubiKey NEO
 app-dicts/raft-wordlists 20110803-r1: Raft wordlists
 app-dicts/seclists 2019.1 2019.2: A collection of multiple types of lists used during security assessments
-app-editors/visual-studio-code 1.36.0 1.36.1: Multiplatform Visual Studio Code from Microsoft
+app-editors/visual-studio-code 1.36.1 1.37.0: Multiplatform Visual Studio Code from Microsoft
 app-emulation/qemu-charm 0.13.0: QEMU arm user-land emulation for CHroot ARM setup on x86*
 app-exploits/ROPgadget 5.4 5.7 5.8: Tool to search for gadgets in binaries to facilitate your ROP exploitation
 app-exploits/deathstar 20180623: A tool to gain Domain Admin rights with a push of a button
@@ -338,7 +338,7 @@ dev-python/vulndb 0.1.1: Python SDK to access the vulnerability database
 dev-python/vulners 1.5.0: Python API wrapper for the Vulners Database
 dev-python/w3lib 1.20.0: Library of web-related functions
 dev-python/wsgiref 0.1.2: WSGI (PEP 333) Reference Library
-dev-python/yamllint 1.16.0: A linter for YAML files
+dev-python/yamllint 1.16.0 1.17.0: A linter for YAML files
 dev-python/yara-python 3.9.0-r1 3.10.0-r1: Python interface for a malware identification and classification tool
 dev-python/yaswfp 0.9.3: Yet Another SWF Parser.
 dev-python/zap-api-python 0.0.9 0.0.14: OWASP ZAP Python API
