@@ -514,7 +514,6 @@ net-analyzer/subfinder 1.2_p20190226-r1: subdomain discovery tool that discovers
 net-analyzer/subjack 2.1: Subdomain Takeover tool written in Go
 net-analyzer/sublist3r 1.0_p20181016: Enumerate subdomains of websites using OSINT
 net-analyzer/termshark 1.0.0 9999: A terminal UI for tshark, inspired by Wireshark
-net-analyzer/termshark-bin 1.0.0: A terminal UI for tshark, inspired by Wireshark
 net-analyzer/testssl 3.0_rc5-r1: Tool to check TLS/SSL cipher support
 net-analyzer/thc-pptp-bruter 0.1.4: a brute force program that works against pptp vpn endpoints
 net-analyzer/thc-ssl-dos 1.4: THC-SSL-DOS is a tool to verify the performance of SSL servers
