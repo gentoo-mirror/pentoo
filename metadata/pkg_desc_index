@@ -26,7 +26,7 @@ app-crypt/wisecracker 1.0-r1: An open source framework for tools that can distri
 app-crypt/xortool 0.98: A tool to analyze multi-byte xor cipher
 app-crypt/yubioath-desktop 4.3.6: Library and tool for personalization of Yubico's YubiKey NEO
 app-dicts/raft-wordlists 20110803-r1: Raft wordlists
-app-dicts/seclists 2019.1 2019.2: A collection of multiple types of lists used during security assessments
+app-dicts/seclists 2019.1 2019.2 2019.3: A collection of multiple types of lists used during security assessments
 app-editors/visual-studio-code 1.36.1 1.37.0: Multiplatform Visual Studio Code from Microsoft
 app-emulation/qemu-charm 0.13.0: QEMU arm user-land emulation for CHroot ARM setup on x86*
 app-exploits/ROPgadget 5.4 5.7 5.8: Tool to search for gadgets in binaries to facilitate your ROP exploitation
