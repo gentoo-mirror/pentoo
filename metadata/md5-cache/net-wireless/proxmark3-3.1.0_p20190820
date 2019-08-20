@@ -1,14 +1,14 @@
 BDEPEND=virtual/pkgconfig
-DEFINED_PHASES=compile install prepare
+DEFINED_PHASES=compile install postinst prepare
 DEPEND=virtual/libusb:0 sys-libs/ncurses:*[tinfo] dev-qt/qtcore:5 dev-qt/qtwidgets:5 dev-qt/qtgui:5 sys-libs/readline:= dev-util/astyle firmware? ( sys-devel/gcc-arm-none-eabi )
 DESCRIPTION=A general purpose RFID tool for Proxmark3 hardware
 EAPI=7
 HOMEPAGE=https://github.com/RfidResearchGroup/proxmark3
-IUSE=firmware
+IUSE=deprecated +firmware
 KEYWORDS=~amd64
 LICENSE=GPL-2
-RDEPEND=virtual/libusb:0 sys-libs/ncurses:*[tinfo] dev-qt/qtcore:5 dev-qt/qtwidgets:5 dev-qt/qtgui:5 sys-libs/readline:= dev-util/astyle firmware? ( sys-devel/gcc-arm-none-eabi )
+RDEPEND=virtual/libusb:0 sys-libs/ncurses:*[tinfo] dev-qt/qtcore:5 dev-qt/qtwidgets:5 dev-qt/qtgui:5 sys-libs/readline:= dev-util/astyle
 SLOT=0
-SRC_URI=https://github.com/RfidResearchGroup/proxmark3/archive/db0ac1639b5d811a6f22c8bddc5a7219f3f2dce3.tar.gz -> proxmark3-3.1.0_p20190814.tar.gz
+SRC_URI=https://github.com/RfidResearchGroup/proxmark3/archive/1ac5211601b50b82b41737dce0c3a72d9e0374ac.tar.gz -> proxmark3-3.1.0_p20190820.tar.gz
 _eclasses_=multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	a3a237ef6c0c58546bf23b2c382f9e56	udev	7752f306eec7b286d00bdb47b763e7ac
-_md5_=2368e5ce0976e0eb4dead4dd92d0e298
+_md5_=8ebb58fad25b0f9a7ab16a566e1e5300
