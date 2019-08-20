@@ -147,7 +147,7 @@ dev-go/robotstxt-go 20170603 20180810: The robots.txt exclusion protocol impleme
 dev-go/uuid 1.1.0 1.1.1: A UUID package for Go.
 dev-go/websocket 1.2.0 1.4.0: Go implementation of the WebSocket protocol
 dev-java/jd-core 1.0.5 1.0.6: JD-Core is a JAVA decompiler written in JAVA
-dev-java/jgraphx 1.4.2.3 3.9.7: Open-source graph component for Java
+dev-java/jgraphx 1.4.2.3 4.0.3: Open-source graph component for Java
 dev-java/msgpack 0.5.1 0.6.12 0.8.16: MessagePack for Java is a binary-based efficient object serialization library
 dev-java/sleep 2.1-r1: Duct Tape for the Java platform
 dev-lang/powershell-bin 6.2.0-r1 6.2.1 6.2.2: A cross-platform automation and configuration tool/framework
