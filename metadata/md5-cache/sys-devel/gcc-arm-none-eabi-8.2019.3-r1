@@ -1,4 +1,4 @@
-DEFINED_PHASES=install
+DEFINED_PHASES=install postinst
 DESCRIPTION=GNU Arm Embedded Toolchain
 EAPI=7
 HOMEPAGE=https://developer.arm.com/open-source/gnu-toolchain/gnu-rm
@@ -8,4 +8,4 @@ RDEPEND=sys-libs/ncurses:5 dev-lang/python:2.7
 RESTRICT=strip
 SLOT=0
 SRC_URI=amd64? ( https://armkeil.blob.core.windows.net/developer/Files/downloads/gnu-rm/8-2019q3/RC1.1/gcc-arm-none-eabi-8-2019-q3-update-linux.tar.bz2 )
-_md5_=272467462ffcc8c240cae98e90e21173
+_md5_=d4dfd6523dee2fb0a081cc915ce64eb6
