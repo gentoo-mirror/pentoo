@@ -189,7 +189,7 @@ dev-perl/Tie-CharArray 1.00: Manipulate perl strings through tied array
 dev-php/evalhook 0.1: Decode/Deobfuscate PHP Scripts
 dev-python/DartsPyLRU 0.5: LRU Dictionaries
 dev-python/EasyProcess 0.2.7: Easy to use python subprocess interface
-dev-python/GitPython 2.1.1 3.0.1: A python library used to interact with Git repositories
+dev-python/GitPython 2.1.1 3.0.2: A python library used to interact with Git repositories
 dev-python/HTTPReplay 0.2.6: Properly interpret, decrypt, and replay pcap files
 dev-python/Js2Py 0.66: JavaScript to Python Translator & JavaScript interpreter
 dev-python/PTP 0.3.0 0.4.2-r1: Pentester's Tools Parser
@@ -267,7 +267,7 @@ dev-python/ldapdomaindump 0.8.6 0.9.1: Active Directory information dumper via L
 dev-python/leather 0.3.3: Python charting for 80% of humans
 dev-python/macholib 1.11: A package is a collection of utilities for dealing with IP addresses.
 dev-python/maxminddb 1.4.1-r1: A Python module for reading MaxMind DB files
-dev-python/mechanize 0.4.2: Stateful programmatic web browsing in Python
+dev-python/mechanize 0.4.3: Stateful programmatic web browsing in Python
 dev-python/memorpy 20170523 99999999: Python library using ctypes to search/edit programs memory
 dev-python/mitm6 0.2.2: pwning IPv4 via IPv6
 dev-python/nassl 2.1.1 2.1.2 2.2.0: Experimental OpenSSL wrapper for Python 3.6+ and SSLyze
@@ -495,7 +495,7 @@ net-analyzer/polenum 0.2-r2 1.4: Extract password policy from a windows machine
 net-analyzer/ppscan 0.3: Port scanner with HTTP and FTP tunneling support
 net-analyzer/pret 20180611: Printer Exploitation Toolkit
 net-analyzer/rdp-sec-check 20181109: Remote Desktop Protocol security settings checker
-net-analyzer/recon-ng 4.9.6-r1 5.0.0 9999: Web Reconnaissance Framework
+net-analyzer/recon-ng 4.9.6-r1 5.0.0-r1 9999: Web Reconnaissance Framework
 net-analyzer/responder 2.3.3.9 2.3.4.0: LLMNR, NBT-NS and MDNS poisoner, HTTP/SMB/MSSQL/FTP/LDAP rogue authentication
 net-analyzer/rpcapd 4.1.3: Remote packet capture daemon
 net-analyzer/ruler 2.2.0: A tool to abuse Exchange services
