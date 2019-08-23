@@ -115,7 +115,7 @@ app-pda/libimobiledevice 1.2.0-r2 1.2.1_pre20190521 1.2.1_pre20190719: Support l
 app-pda/libplist 1.12-r1 2.0.0: Support library to deal with Apple Property Lists (Binary & XML)
 app-pda/libusbmuxd 1.0.10 1.1.0_pre20170522 1.1.0_pre20190118 1.1.0_pre20190328: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
 app-pda/usbmuxd 1.1.0 1.1.1_pre20180131 1.1.1_pre20190716: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
-app-text/cewl 5.4.4.1 9999: A custom word list generator
+app-text/cewl 5.4.4.1 5.4.4.2 9999: A custom word list generator
 dev-db/absinthe 1.4.1: a gui-based tool for aiding in Blind SQL Injection
 dev-db/mssqlscan 0.8.4: A small multi-threaded tool that scans for Microsoft SQL Servers
 dev-db/neo4j-community 3.5.3-r1 3.5.8: Neo4j is a high-performance, NOSQL graph database with all the features of a mature and robust database
@@ -734,7 +734,7 @@ sys-kernel/pentoo-sources 5.1.15 5.2.8 5.2.8-r1: Pentoo kernel sources (kernel s
 sys-kernel/pf_ring-kmod 6.0.3 6.6.0 7.0.0: A new type of network socket that improves packet capture speed.
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
 sys-libs/libkudzu 1.2.85.1: Red Hat Hardware detection tools
-sys-power/acpid 2.0.30 2.0.31: Daemon for Advanced Configuration and Power Interface
+sys-power/acpid 2.0.30 2.0.31 2.0.32: Daemon for Advanced Configuration and Power Interface
 virtual/linux-sources 1-r1 3-r1: Virtual for Linux kernel sources
 www-apps/BloodHound 2.1.0 2.2.0: Six Degrees of Domain Admin
 www-apps/Tiredful-API 9999: An intentionally designed broken web application based on REST API
