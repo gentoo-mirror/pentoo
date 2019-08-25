@@ -498,7 +498,7 @@ net-analyzer/ruler 2.2.0: A tool to abuse Exchange services
 net-analyzer/scamper 20180309 20180504 20181219: Actively probes the Internet in order to analyze topology and performance
 net-analyzer/serialusb 0.7: A cheap USB proxy for input devices
 net-analyzer/sessionlist 1.0-r1: A HTTP packets sniffer
-net-analyzer/set 7.7.9: A social engineering framework
+net-analyzer/set 8.0.1: A social engineering framework
 net-analyzer/sipvicious 0.2.8-r4: A voip pentest tools suite
 net-analyzer/smbmap 20180508: SMBMap is a handy SMB enumeration tool.
 net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
