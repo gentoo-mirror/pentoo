@@ -80,7 +80,6 @@ app-forensics/s3tk 0.2.0 9999: A security toolkit for Amazon S3
 app-forensics/samhain 4.3.1 4.3.2 4.3.3: Advanced file integrity and intrusion detection tool.
 app-forensics/scap-security-guide 0.1.45: Security compliance content in SCAP, Bash, Ansible, and other formats
 app-forensics/scap-workbench 1.2.0-r1: SCAP Scanner And Tailoring Graphical User Interface
-app-forensics/sleuthkit 4.6.6-r1: A collection of file system and media management forensic analysis tools
 app-forensics/spiderfoot 2.12.0: The most complete OSINT collection and reconnaissance tool
 app-forensics/stegdetect 0.6 0.6-r1: A Steganography detector for JPEG
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
