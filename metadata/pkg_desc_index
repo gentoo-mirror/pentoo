@@ -37,8 +37,8 @@ app-exploits/getsploit 0.2.2 0.3.3_p20190531 9999: Command line utility for sear
 app-exploits/linenum 20190406: Local Linux enumeration and privilege escalation checker.
 app-exploits/linux-exploit-suggester 20140519: Local Linux enumeration and privilege escalation checker.
 app-exploits/linuxprivchecker 20160302: Local Linux enumeration and privilege escalation checker.
-app-exploits/packetstormexploits 2012.12 2013.12 2014.12 2015.12 2016.12 2017.12 2018.12: Archive of packetstorm exploits
-app-exploits/packetstormexploits-meta 2018: Meta ebuild of packetstorm exploits
+app-exploits/packetstormexploits 2012.12 2013.12 2014.12 2015.12 2016.12 2017.12 2018.12 2019.07: Archive of packetstorm exploits
+app-exploits/packetstormexploits-meta 2019: Meta ebuild of packetstorm exploits
 app-exploits/pwntools 3.12.2: CTF framework and exploit development library
 app-exploits/routersploit 3.3.0 3.4.0 9999: An open-source exploitation framework dedicated to embedded devices
 app-exploits/the-backdoor-factory 3.4.2-r1: BDF allows to patch executable binaries with user desired shellcode
