@@ -363,7 +363,7 @@ dev-ruby/espeak-ruby 1.0.4: A small API for utilizing 'espeak' and 'lame' to cre
 dev-ruby/fastercsv 1.5.5: A complete replacement to the CSV standard library
 dev-ruby/http_configuration 1.0.4: set configuration for Net::HTTP
 dev-ruby/libv8 3.16.14.15 7.3.492.27.1: Distributes the V8 JavaScript engine in binary and source forms
-dev-ruby/louis 2.1.8: Lookup mac address assignments in the iana database
+dev-ruby/louis 2.1.8 2.2.0: Lookup mac address assignments in the iana database
 dev-ruby/memory_profiler 0.9.14: Memory profiling routines for Ruby 2.1+
 dev-ruby/mini_exiftool 2.8.0 2.9.0: wrapper for exiftool
 dev-ruby/msfrpc-client 1.1.1 1.1.2: Ruby client API to access the Rapid7 Metasploit Pro RPC service
