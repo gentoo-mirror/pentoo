@@ -445,7 +445,7 @@ net-analyzer/dirsearch 0.3.8: A simple command line tool designed to brute force
 net-analyzer/dnsa 0.5-r1: Swiss-army knife tool for dns auditing
 net-analyzer/dnsrecon 0.9.1-r1: DNS Enumeration Script
 net-analyzer/dripcap-bin 0.6.15-r1: Caffeinated Modern Packet Analyzer
-net-analyzer/droopescan 1.41.1 1.41.2: A scanner that helps identifying issues in Drupal, SilverStripe, and Wordpress
+net-analyzer/droopescan 1.41.2 1.41.3: A scanner that helps identifying issues in Drupal, SilverStripe, and Wordpress
 net-analyzer/dsniff 2.4-r11: A collection of tools for network auditing and penetration testing
 net-analyzer/enteletaor 1.1.1: Message Queue & Broker Injection tool
 net-analyzer/enum4linux 0.8.7 0.8.8 0.8.9 0.8.9-r1: a tool for enumerating information from Windows and Samba systems
