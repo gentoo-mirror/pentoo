@@ -293,7 +293,7 @@ dev-python/pyinstaller 3.5: Program converting Python programs into stand-alone 
 dev-python/pyjsparser 2.5.2 2.7.1: Fast javascript parser (based on esprima.js)
 dev-python/pylnk 0.2: Python library for reading and writing Windows shortcut files
 dev-python/pyminifier 2.1 2.1_p20150625: Pyminifier is a Python code minifier, obfuscator, and compressor.
-dev-python/pymisp 2.4.106-r1 2.4.111 2.4.112: A python library for using the MISP Rest API
+dev-python/pymisp 2.4.111 2.4.113: A python library for using the MISP Rest API
 dev-python/pymodbus 2.1.0: A fully featured modbus protocol stack in python
 dev-python/pynetfilter_conntrack 0.4.2: Python binding of libnetfilter_conntrack
 dev-python/python-cas-haiwen 20180411: Python CAS client library
