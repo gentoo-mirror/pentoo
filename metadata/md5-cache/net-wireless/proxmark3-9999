@@ -1,0 +1,13 @@
+BDEPEND=virtual/pkgconfig >=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile install postinst prepare unpack
+DEPEND=virtual/libusb:0 sys-libs/ncurses:*[tinfo] dev-qt/qtcore:5 dev-qt/qtwidgets:5 dev-qt/qtgui:5 sys-libs/readline:= dev-util/astyle firmware? ( sys-devel/gcc-arm-none-eabi )
+DESCRIPTION=A general purpose RFID tool for Proxmark3 hardware
+EAPI=7
+HOMEPAGE=https://github.com/RfidResearchGroup/proxmark3
+IUSE=deprecated +firmware
+LICENSE=GPL-2
+PROPERTIES=live
+RDEPEND=virtual/libusb:0 sys-libs/ncurses:*[tinfo] dev-qt/qtcore:5 dev-qt/qtwidgets:5 dev-qt/qtgui:5 sys-libs/readline:= dev-util/astyle
+SLOT=0
+_eclasses_=git-r3	562b380fc59ae6a8622171d0acb777d1	multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	a3a237ef6c0c58546bf23b2c382f9e56	udev	7752f306eec7b286d00bdb47b763e7ac
+_md5_=fe6d0cc299ae7373380ec1f9fe25f01b
