@@ -1,0 +1,10 @@
+DEFINED_PHASES=install postinst
+DESCRIPTION=GNU Arm Embedded Toolchain
+EAPI=7
+HOMEPAGE=https://developer.arm.com/open-source/gnu-toolchain/gnu-rm
+LICENSE=BSD GPL-2 LGPL-2 LGPL-3 MIT NEWLIB ZLIB
+RDEPEND=sys-libs/ncurses:5 dev-lang/python:2.7
+RESTRICT=strip
+SLOT=4.9
+SRC_URI=amd64? ( https://launchpad.net/gcc-arm-embedded/4.9/4.9-2015-q3-update/+download/gcc-arm-none-eabi-4_9-2015q3-20150921-linux.tar.bz2 )
+_md5_=99554b38b801821d22363fdb6ef7a911
