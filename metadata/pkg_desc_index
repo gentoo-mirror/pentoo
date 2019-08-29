@@ -653,7 +653,7 @@ net-wireless/nfcpy 0.10.2: A tool to read/write NFC tags or communicate with ano
 net-wireless/op25 9999: software-defined analyzer for APCO P25 signals
 net-wireless/pixiewps 1.4.2: Bruteforce offline the WPS pin exploiting the low or non-existing entropy
 net-wireless/portapack-havoc 9999: Custom firmware for the HackRF SDR + PortaPack H1 addon
-net-wireless/proxmark3 3.0.1-r2 3.1.0 3.1.0_p20190820 9999: A general purpose RFID tool for Proxmark3 hardware
+net-wireless/proxmark3 3.1.0_p20190820 9999: A general purpose RFID tool for Proxmark3 hardware
 net-wireless/pyrit 0.5.0_p20180801: GPU-accelerated attack against WPA-PSK authentication
 net-wireless/qspectrumanalyzer 2.2.0 9999: vendor and platform neutral SDR support library
 net-wireless/reaver-wps-fork-t6x 1.6.5-r1: Utilise Pixie Dust Attack to find the correct WPS PIN.
