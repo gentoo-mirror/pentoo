@@ -34,6 +34,9 @@ RDEPEND="virtual/libusb:0
 DEPEND="${RDEPEND}
 	firmware? ( sys-devel/gcc-arm-none-eabi:0 )"
 
+QA_FLAGS_IGNORED="usr/share/proxmark3/firmware/bootrom.elf
+				usr/share/proxmark3/firmware/fullimage.elf"
+
 src_compile(){
 	#first we set platform
 	if use pm3rdv4; then
@@ -78,7 +81,7 @@ src_install(){
 		#install some tools
 		exeinto /usr/share/proxmark3/tools
 		doexe tools/mfkey/mfkey{32,64}
-		#doexe tools/mfkey32v2
+		doexe tools/mfkey/mfkey32v2
 		doexe tools/nonce2key/nonce2key
 	fi
 	#install main lua and scripts
@@ -98,6 +101,8 @@ src_install(){
 		insinto /usr/share/proxmark3/firmware
 		doins armsrc/obj/fullimage.elf
 		doins bootrom/obj/bootrom.elf
+		doins tools/simmodule/SIM011.*
+		newins tools/simmodule/readme.txt sim-update-readme.txt
 		insinto /usr/share/proxmark3/jtag
 		doins recovery/*.bin
 	fi
