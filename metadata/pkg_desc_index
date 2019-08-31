@@ -101,7 +101,7 @@ app-fuzz/smudge 0.8-r2: Smudge is basically a port of SPIKE into python scripts
 app-fuzz/snmp-fuzzer 0.1.1-r1: A very complete snmp fuzzer
 app-fuzz/spike 2.9-r1: A generic network fuzzer
 app-misc/binwalk 2.1.1-r3: A tool for identifying files embedded inside firmware images
-app-misc/cyberchef 9.2.3: A web app for encryption, encoding, compression and data analysis (offline)
+app-misc/cyberchef 9.4.0: A web app for encryption, encoding, compression and data analysis (offline)
 app-misc/freediag 1.08: Free diagnostic software for OBD-II compliant motor vehicles
 app-misc/gplaycli 3.23 3.24 3.25: Google Play Downloader via Command line
 app-misc/libmsr 9999: Reading, writing and analysis of magnetic stripe information
@@ -303,7 +303,7 @@ dev-python/python-nmap 0.6.1: a python library which helps in using nmap port sc
 dev-python/python-ntlm 1.1.0-r1: Python library for NTLM support
 dev-python/python-oauth2 1.1.0-r1: OAuth 2.0 provider for python
 dev-python/python-registry 1.2.0: A pure Python module that provides read access to Windows Registry files
-dev-python/python-slugify 1.2.4 3.0.3: A Python Slugify application that handles Unicode
+dev-python/python-slugify 3.0.3-r1: A Python Slugify application that handles Unicode
 dev-python/pytimeparse 1.1.8: A small Python module to parse various kinds of time expressions
 dev-python/qt-py 1.1.0 1.2.0_beta2 1.2.0_beta3: Minimal Python 2 & 3 shim around all Qt bindings
 dev-python/queuelib 1.5.0: Collection of persistent (disk-based) queues
@@ -326,7 +326,7 @@ dev-python/splinter 0.11.0: tool for testing web applications
 dev-python/sqlalchemy_mixins 1.1: Active Record, Django-like queries
 dev-python/stopit 1.1.1 1.1.2: Timeout control decorator and context managers
 dev-python/symmetricjsonrpc 0.1.0: A more beautiful JSON-RPC implemenation in python
-dev-python/text-unidecode 1.2: The most basic Text::Unidecode port
+dev-python/text-unidecode 1.3: The most basic Text::Unidecode port
 dev-python/tldextract 2.2.1-r1: Accurately separate the TLD from the registered domain and subdomains
 dev-python/tls_parser 1.1.0 1.1.1 1.2.1: Small library to parse TLS records.
 dev-python/tlslite-ng 0.7.5: New home of the TLS implementation in pure python.
