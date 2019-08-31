@@ -411,7 +411,7 @@ dev-util/sonarscanner-bin 3.3.0.1492: SonarQube Command-Line Scanner
 dev-util/unicorn 0.9_p20160901 1.0.1-r4 1.0.1-r5: A lightweight multi-platform, multi-architecture CPU emulator framework
 dev-util/valabind 1.4.0 1.7.1: Valabind is a tool to parse vala or vapi files to transform them into swig files
 dev-vcs/gitleaks 2.1.0: Audit git repos for secrets
-dev-vcs/trufflehog 2.0.97_p20190506: Searches through git repositories for high entropy strings and secrets
+dev-vcs/trufflehog 2.0.97_p20190506-r1: Searches through git repositories for high entropy strings and secrets
 gnome-base/gnome-keyring 3.20.1 3.27.4 3.28.2: Password and keyring managing daemon
 gnome-base/libgnomeui 2.24.5-r4: User Interface routines for Gnome
 media-libs/mbelib 1.2.5 1.3.0 9999: P25 Phase 1 and ProVoice vocoder
