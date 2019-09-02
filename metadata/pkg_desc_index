@@ -628,6 +628,7 @@ net-wireless/gr-lte 9999: GNU Radio block for LTE signals
 net-wireless/gr-reveng 9999: GNU Radio block for reverse engineering RF protocols
 net-wireless/gr-tpms 9999: GNU Radio block for Tire Pressure Monitor tools
 net-wireless/grimwepa 1.10_p5-r101 1.10_p6: A password cracker for both WEP and WPA-encrypted access points
+net-wireless/hackrf-firmware 9999: tools for communicating with HackRF SDR platform
 net-wireless/hcxdumptool 5.0.0 5.1.4 5.1.7 5.2.1: Small tool to capture packets from wlan devices
 net-wireless/hcxkeys 4.0.1_p20180808 4.0.1_p20190131: Small set of tools to generate plainmasterkeys (rainbowtables) and hashes for the use with latest hashcat and John the Ripper
 net-wireless/hcxtools 5.0.0 5.1.6 5.2.0: Portable solution for capturing wlan traffic and conversion to hashcat formats
