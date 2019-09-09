@@ -74,6 +74,7 @@ net-misc/networkmanager:teamd - Enable Teamd control support
 net-misc/networkmanager:wext - Enable support for the deprecated Wext (Wireless Extensions) API; needed for some older drivers (e.g. ipw2200, ndiswrapper)
 net-misc/networkmanager:wifi - Enable support for wifi and 802.1x security
 net-vpn/kcptun:server - Enable server side daemon
+net-vpn/udp2raw-tunnel:iptables - include support for iptables filtering
 net-wireless/compat-wireless:injection - Add patches for better wifi injection support
 net-wireless/hostapd:crda - Add CRDA support
 net-wireless/hostapd:internal-tls - Use internal TLSv1 implementation instead of depending on OpenSSL, LibreSSL or GnuTLS
