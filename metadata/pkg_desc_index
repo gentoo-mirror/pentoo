@@ -33,6 +33,7 @@ app-exploits/ROPgadget 5.4 5.7 5.8: Tool to search for gadgets in binaries to fa
 app-exploits/deathstar 20180623: A tool to gain Domain Admin rights with a push of a button
 app-exploits/empire 2.5: A post-exploitation framework with Windows/Linux agents
 app-exploits/exploitdb 9999: All exploits from exploit-db.com
+app-exploits/exploitdb-papers 9999: Exploit database's papers
 app-exploits/getsploit 0.2.2 0.3.3_p20190531 9999: Command line utility for searching and downloading exploits
 app-exploits/linenum 20190406: Local Linux enumeration and privilege escalation checker.
 app-exploits/linux-exploit-suggester 20140519: Local Linux enumeration and privilege escalation checker.
