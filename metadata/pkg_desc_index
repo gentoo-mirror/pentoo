@@ -1,5 +1,5 @@
 app-admin/genmenu 9999: a tool for generating freedesktop-compliant menus
-app-admin/vuls 0.8.5: Vulnerability scanner for Linux, agentless, written in Golang
+app-admin/vuls 0.9.0: Vulnerability scanner for Linux, agentless, written in Golang
 app-antivirus/Cuckoo 2.0.7: Automated Malware Analysis System
 app-antivirus/lkrg 0.6: Linux Kernel Runtime Guard
 app-antivirus/malheur 0.5.4: Malware analysis tool
@@ -131,8 +131,8 @@ dev-embedded/mphidflash 1.6 1.8: Tool for communicating with the USB-Bootloader 
 dev-go/cascadia 1.0.0: CSS selector library in Go
 dev-go/cobra 0.0.5: A Commander for modern Go CLI interactions
 dev-go/fetchbot 1.1.2: A simple and flexible web crawler that follows the robots.txt policies and crawl delays
-dev-go/go-cve-dictionary 0.3.1: Build a local copy of CVE (NVD and Japanese JVN). Server mode for easy querying
-dev-go/go-exploitdb 20190426: A tool for searching Exploits from some Exploit Databases
+dev-go/go-cve-dictionary 0.4.0: Build a local copy of CVE (NVD and Japanese JVN). Server mode for easy querying
+dev-go/go-exploitdb 20190911: A tool for searching Exploits from some Exploit Databases
 dev-go/go-isatty 0.0.3 0.0.4: isatty for golang
 dev-go/go-multierror 20180717 20180824: A Go (golang) package for representing a list of errors as a single error
 dev-go/gopacket 1.1.14 1.1.15: Provides packet processing capabilities for Go
@@ -140,7 +140,7 @@ dev-go/gopacket-pfring 1.1.14 1.1.15: Package pfring wraps the PF_RING C library
 dev-go/gopkg-sourcemap 2.1.2: Source maps consumer for Golang
 dev-go/goquery 1.4.1 1.5.0: A little like that j-thing
 dev-go/gost 0.1.2: Build a local copy of Security Tracker. Notify via Email if there is an update
-dev-go/goval-dictionary 0.1.4 0.2.1: Build a local copy of OVAL. Server mode for easy querying
+dev-go/goval-dictionary 0.2.2: Build a local copy of OVAL. Server mode for easy querying
 dev-go/mux 1.6.2: A powerful URL router and dispatcher for golang
 dev-go/pflag 1.0.3: Drop-in replacement for Go's flag package
 dev-go/robotstxt-go 20170603 20180810: The robots.txt exclusion protocol implementation
