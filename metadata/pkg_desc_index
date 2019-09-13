@@ -151,7 +151,7 @@ dev-java/jd-core 1.0.5 1.0.6: JD-Core is a JAVA decompiler written in JAVA
 dev-java/jgraphx 1.4.2.3 4.0.3: Open-source graph component for Java
 dev-java/msgpack 0.5.1 0.6.12 0.8.16: MessagePack for Java is a binary-based efficient object serialization library
 dev-java/sleep 2.1-r1: Duct Tape for the Java platform
-dev-lang/powershell-bin 6.2.0-r1 6.2.1 6.2.2: A cross-platform automation and configuration tool/framework
+dev-lang/powershell-bin 6.2.2 6.2.3: A cross-platform automation and configuration tool/framework
 dev-libs/LeechCore 1.0 1.2 1.2.2: Direct Memory Access (DMA) Attack Software
 dev-libs/capstone 4.0.1 4.0.1-r1: disassembly/disassembler framework + bindings
 dev-libs/gvm-libs 10.0.0: Greenbone Vulnerability Management Libraries
