@@ -169,7 +169,7 @@ dev-libs/libcsystem 20150629: Library for cross-platform C locale functions
 dev-libs/libcthreads 20170101 20180724: Library for cross-platform C threads functions
 dev-libs/libdwarf 20190110 20190505 20190529: The DWARF Debugging Information Format
 dev-libs/libfcache 20170111 20181011: Library for cross-platform C cache functions
-dev-libs/libfdata 20170112 20181124: Library for cross-platform C file data functions
+dev-libs/libfdata 20170112 20181124 20190811: Library for cross-platform C file data functions
 dev-libs/libfdatetime 20180910: Library for date and time formats
 dev-libs/libfguid 20180219 20180724: Library for GUID/UUID format
 dev-libs/libfmapi 20170112 20180714: Library for MAPI data types
