@@ -50,7 +50,6 @@ dev-libs/libvmdk:fuse - Enable fuse support
 net-analyzer/medusa:afp - Use net-fs/afpfs-ng and enable AFP module
 net-analyzer/medusa:ncp - Use net-fs/ncpfs and enable NCP module
 net-analyzer/medusa:ssh - Enable SSH2 module
-net-analyzer/openvas:pdf - Enable pdf report creation
 net-analyzer/testssl:bundled-openssl - Install precompiled versions of OpenSSL for greater testing coverage
 net-libs/libtins:ack-tracker - TCP ACK tracking support
 net-libs/libtins:cxx11 - C++11 support
