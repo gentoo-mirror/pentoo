@@ -63,7 +63,7 @@ app-forensics/libpff 20161119 20180714: Library for accessing Personal Folder Fi
 app-forensics/libvshadow 20181216 20190127 20190323: Library and tools to support the Volume Shadow Snapshot (VSS) format.
 app-forensics/linen 61: Encase's linen utility
 app-forensics/make-pdf 0.1.4-r2 0.1.7: This tool will embed javascript inside a PDF document
-app-forensics/maltego 4.2.6.12502: Visualise, map and mine data
+app-forensics/maltego 4.2.6.12502 4.2.7.12570: Visualise, map and mine data
 app-forensics/mxtract 1.1: A memory extractor & analyzer
 app-forensics/mysql-magic 9999: dump mysql client password from memory
 app-forensics/oletools 0.54.2b: A python tools to analyze MS OLE2 files and MS Office documents
@@ -133,7 +133,7 @@ dev-go/cascadia 1.0.0: CSS selector library in Go
 dev-go/cobra 0.0.5: A Commander for modern Go CLI interactions
 dev-go/fetchbot 1.1.2: A simple and flexible web crawler that follows the robots.txt policies and crawl delays
 dev-go/go-cve-dictionary 0.4.0: Build a local copy of CVE (NVD and Japanese JVN). Server mode for easy querying
-dev-go/go-exploitdb 20190911: A tool for searching Exploits from some Exploit Databases
+dev-go/go-exploitdb 20190911-r1: A tool for searching Exploits from some Exploit Databases
 dev-go/go-isatty 0.0.3 0.0.4: isatty for golang
 dev-go/go-multierror 20180717 20180824: A Go (golang) package for representing a list of errors as a single error
 dev-go/gopacket 1.1.14 1.1.15: Provides packet processing capabilities for Go
@@ -577,7 +577,7 @@ net-proxy/proxystrike 2.0 2.2: A tool designed to find vulnerabilities while bro
 net-proxy/redsocks 0.5 9999: Transparent redirector of any TCP connection to proxy
 net-proxy/sshttp 0.35_p2: an easy to use OSI-Layer5 switching daemon
 net-proxy/zaproxy 2.7.0-r1 2.8.0 2.8.1: The OWASP Zed Attack Proxy for finding vulnerabilities in web applications
-net-vpn/kcptun 20190725 20190905: A Stable & Secure Tunnel Based On KCP with N:M Multiplexing
+net-vpn/kcptun 20190725 20190905 20190910: A Stable & Secure Tunnel Based On KCP with N:M Multiplexing
 net-vpn/kcptun-plugins 20190313: SIP003-compatible KCPTUN and UDP2RAW plugins for Shadowsocks
 net-vpn/tuntox 0.0.9 9999: Tunnel TCP connections over the Tox protocol
 net-vpn/udp2raw-tunnel 20181113.0 99999999: A tunnel which turns UDP traffic into encrypted FakeTCP/UDP/ICMP traffic
