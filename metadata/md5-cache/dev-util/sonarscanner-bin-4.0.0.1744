@@ -1,0 +1,14 @@
+DEFINED_PHASES=install prepare unpack
+DEPEND=app-arch/unzip
+DESCRIPTION=SonarQube Command-Line Scanner
+EAPI=7
+HOMEPAGE=https://www.sonarqube.org/
+IUSE=embedded_jre
+KEYWORDS=~amd64 ~x86
+LICENSE=LGPL-3
+RDEPEND=!embedded_jre? ( >=virtual/jre-1.8 )
+RESTRICT=mirror
+SLOT=0
+SRC_URI=https://binaries.sonarsource.com/Distribution/sonar-scanner-cli/sonar-scanner-cli-4.0.0.1744-linux.zip
+_eclasses_=eutils	6e6c2737b59a4b982de6fb3ecefd87f8	user	9903ef4e6829343eb83f1da3bda64d33
+_md5_=5a19eb41b1f5a19b5b38bfea2e30a3e2
