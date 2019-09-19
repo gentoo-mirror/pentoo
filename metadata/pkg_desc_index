@@ -1,5 +1,5 @@
 app-admin/genmenu 9999: a tool for generating freedesktop-compliant menus
-app-admin/vuls 0.9.0: Vulnerability scanner for Linux, agentless, written in Golang
+app-admin/vuls 0.9.0-r1: Vulnerability scanner for Linux, agentless, written in Golang
 app-antivirus/Cuckoo 2.0.7: Automated Malware Analysis System
 app-antivirus/lkrg 0.6: Linux Kernel Runtime Guard
 app-antivirus/malheur 0.5.4: Malware analysis tool
@@ -48,7 +48,7 @@ app-exploits/webshells 20190508: Various webshells
 app-exploits/weevely 3.6.2 3.7.0: Weevely is a stealth PHP web shell that simulate telnet-like console
 app-exploits/wesng 20190528: Windows Exploit Suggester - Next Generation
 app-forensics/bulk_extractor 1.5.5-r1 1.6.0_p20190628 9999: Scans a disk image for regular expressions and other content
-app-forensics/cortex 2.1.3: A powerful observable analysis and active response engine
+app-forensics/cortex 2.1.3 3.0.0: A powerful observable analysis and active response engine
 app-forensics/data-carver-processors 0: Data carving analysis for JPEG, PDF and Videos
 app-forensics/dff 1.3.0-r8 1.3.6: A framework which aims to analyze and recover any kind of digital artifact
 app-forensics/dpapick 0.2_p20130826 0.3: Open-source tool that allows decryption of DPAPI structures in an offline way
@@ -140,8 +140,8 @@ dev-go/gopacket 1.1.14 1.1.15: Provides packet processing capabilities for Go
 dev-go/gopacket-pfring 1.1.14 1.1.15: Package pfring wraps the PF_RING C library for Go.
 dev-go/gopkg-sourcemap 2.1.2: Source maps consumer for Golang
 dev-go/goquery 1.4.1 1.5.0: A little like that j-thing
-dev-go/gost 0.1.2: Build a local copy of Security Tracker. Notify via Email if there is an update
-dev-go/goval-dictionary 0.2.2: Build a local copy of OVAL. Server mode for easy querying
+dev-go/gost 0.1.2-r1: Build a local copy of Security Tracker. Notify via Email if there is an update
+dev-go/goval-dictionary 0.2.2-r1: Build a local copy of OVAL. Server mode for easy querying
 dev-go/mux 1.6.2: A powerful URL router and dispatcher for golang
 dev-go/pflag 1.0.3: Drop-in replacement for Go's flag package
 dev-go/robotstxt-go 20170603 20180810: The robots.txt exclusion protocol implementation
@@ -407,7 +407,7 @@ dev-util/sonarqube-bin 7.8 7.9.1: SonarQube Community Edition is an open platfor
 dev-util/sonarscanner-bin 4.0.0.1744: SonarQube Command-Line Scanner
 dev-util/unicorn 0.9_p20160901 1.0.1-r4 1.0.1-r5: A lightweight multi-platform, multi-architecture CPU emulator framework
 dev-util/valabind 1.4.0 1.7.1: Valabind is a tool to parse vala or vapi files to transform them into swig files
-dev-vcs/gitleaks 2.1.0: Audit git repos for secrets
+dev-vcs/gitleaks 2.1.0-r1: Audit git repos for secrets
 dev-vcs/trufflehog 2.0.97_p20190506-r1: Searches through git repositories for high entropy strings and secrets
 gnome-base/gnome-keyring 3.20.1 3.27.4 3.28.2: Password and keyring managing daemon
 gnome-base/libgnomeui 2.24.5-r4: User Interface routines for Gnome
@@ -451,7 +451,7 @@ net-analyzer/ffuf 0.9 0.10: Fast web fuzzer written in Go
 net-analyzer/fierce 1.3.0-r1 9999: A DNS reconnaissance tool for locating non-contiguous IP space
 net-analyzer/geoedge 0.2-r2: This little tools is designed to get geolocalization information of a host
 net-analyzer/geoipgen 0.4: Generate a list of hostnames based on country
-net-analyzer/gitrob 2.0.0_beta: Reconnaissance tool for GitHub organizations
+net-analyzer/gitrob 2.0.0_beta-r1: Reconnaissance tool for GitHub organizations
 net-analyzer/go-webanalyze 20190705: Port of Wappalyzer (uncovers technologies used on websites) in Go to automate scanning
 net-analyzer/gobuster 3.0.1-r2: A tool to brute-force URIs and DNS subdomains
 net-analyzer/greenbone-security-assistant 8.0.1: Greenbone Security Assistant
@@ -566,7 +566,7 @@ net-misc/sherlock 0.8.4 9999: Find usernames across social networks
 net-misc/sipp 3.5.1 3.5.1_p20180124 3.5.2 3.6_pre: SipBomber is a tool to stress SIP server/proxy implementations.
 net-misc/t50 20130423: Mixed Packet Injector & Network Stress Testing Tool
 net-misc/tcpick 0.2.1-r2: A tcp stream sniffer, tracker and capturer.
-net-misc/tko-subs 20190623: A tool that can help detect and takeover subdomains with dead DNS records
+net-misc/tko-subs 20190624: A tool that can help detect and takeover subdomains with dead DNS records
 net-misc/voipong 2.0: tool for detecting all VoIP calls on a pipeline and dumps actual conversation to seperate wav files
 net-misc/warvox 1.0.1 1.0.1-r2 9999: VoIP war dialing suite of tools
 net-misc/wascan 0.2.1 9999: Web Application Scanner
