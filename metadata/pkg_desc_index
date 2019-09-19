@@ -739,7 +739,7 @@ www-apps/beef 0.4.7.0_p20180720-r2 0.4.7.1 0.4.7.3: Browser exploitation framewo
 www-apps/rda 2.3-r1: Web-based application for effective reporting writing
 www-apps/vulsrepo 20190412-r3: VulsRepo is visualized based on the json report output in vuls
 www-misc/firefox-bookmarks 0.3-r1: Firefox bookmarks for the Pento ISO only
-www-plugins/adblock_plus 3.5.2: Firefox extension to block annoying ads automatically, no distractions.
+www-plugins/adblock_plus 3.5.2 3.6.3: Firefox extension to block annoying ads automatically, no distractions.
 www-plugins/cookies_exportimport 1.0.1-r1: Cookie Import Export
 www-plugins/exif_viewer 2.00-r3: Firefox extension to display the Exif and IPTC data in local and remote JPEG images.
 www-plugins/firebug 2.0.18: Powerful web development tool for firefox
@@ -748,7 +748,7 @@ www-plugins/hackbar 1.6.3: Simple security audit / penetration test tool.
 www-plugins/hackplugins-meta 1.2: Collection of browser's plugins for application security testing
 www-plugins/httpfox 0.8.14: A HTTP analyzer addon for Firefox
 www-plugins/live-http-headers 0.17-r3: View HTTP headers of a page and while browsing
-www-plugins/noscript 11.0 11.0.2: Allow active content in firefox to run only from trusted sites.
+www-plugins/noscript 11.0.2 11.0.3: Allow active content in firefox to run only from trusted sites.
 www-plugins/ringleader 0.3_pre20150914: FxPnH is a Firefox addon which makes it possible to use Firefox with Plug-n-Hack providers
 www-plugins/showip 3.0.2: Firefox extensions which shows the IP address(es) of the current page in the status bar.
 www-plugins/sql-inject-me 0.4.7-r2: SQL Inject Me is the Exploit-Me tool used to test for SQL Injection vulnerabilities.
