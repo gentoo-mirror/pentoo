@@ -243,7 +243,7 @@ dev-python/esmre 0.3.1: Regular expression accelerator
 dev-python/flask-caching 1.7.2: Continuation of the Flask-Cache Extension
 dev-python/flask-jwt 0.3.2: JWT (JSON Web Tokens) for Flask applications
 dev-python/flask-jwt-extended 3.18.2 3.22.0 3.23.0: An open source Flask extension that provides JWT support
-dev-python/frida-python 12.6.11 12.6.13 12.6.19 12.6.23: Dynamic instrumentation toolkit for reverse-engineers and security researchers
+dev-python/frida-python 12.6.23 12.7.4: Dynamic instrumentation toolkit for reverse-engineers and security researchers
 dev-python/geoip2-python 2.8.0: Python bindings for GeoIP2
 dev-python/google-api-python-client 1.7.9: Google API Client for Python
 dev-python/googlesearch 20181112-r1: Google search from Python
@@ -388,7 +388,7 @@ dev-util/dependency-check-bin 5.1.0 5.2.1: A utility that detects vulnerabilitie
 dev-util/dex2jar 2.1_pre20150601 2.1_pre20180402: Tools to work with android .dex and java .class files
 dev-util/electron-packager 13.0.1 14.0.1: Six Degrees of Domain Admin
 dev-util/emilpro 3_p20170708 3_p20180111: Graphical disassembler for a large number of instruction sets
-dev-util/frida-tools 1.2.3 2.0.1 2.1.1 4.0.0: Frida CLI tools
+dev-util/frida-tools 1.2.3 2.0.1 2.1.1 4.0.0 5.0.1: Frida CLI tools
 dev-util/ghidra 9.0.2-r2 9.0.4: A software reverse engineering framework
 dev-util/jadx-bin 1.0.0: A standalone graphical utility that displays Java source codes of .class file
 dev-util/jd-gui 1.6.2 1.6.3: A standalone Java Decompiler GUI
