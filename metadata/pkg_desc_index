@@ -590,6 +590,7 @@ net-vpn/tuntox 0.0.9 9999: Tunnel TCP connections over the Tox protocol
 net-vpn/udp2raw-tunnel 20181113.0 99999999: A tunnel which turns UDP traffic into encrypted FakeTCP/UDP/ICMP traffic
 net-wireless/b43-openfwwf 5.2: OpenBroadcom Firmware
 net-wireless/b43-tools 9999: Tools for developers working on broadcom drivers/firmware
+net-wireless/berate_ap 20190918 99999999: Script for orchestrating mana rogue WiFi Access Points (fork create_ap)
 net-wireless/bladerf_adsb 9999: bladeRF ADS-B hardware decoder
 net-wireless/blue_hydra 1.9.10 1.9.14 1.9.15 9999: bluetooth discovery service built on top of bluez
 net-wireless/blue_sonar 0.2 9999: A simple wrapper for l2ping which shows rssi
@@ -631,6 +632,7 @@ net-wireless/hcxdumptool 5.0.0 5.1.4 5.1.7 5.2.2: Small tool to capture packets 
 net-wireless/hcxkeys 4.0.1_p20180808 4.0.1_p20190131: Small set of tools to generate plainmasterkeys (rainbowtables) and hashes for the use with latest hashcat and John the Ripper
 net-wireless/hcxtools 5.0.0 5.1.6 5.2.2: Portable solution for capturing wlan traffic and conversion to hashcat formats
 net-wireless/hostapd 2.6-r6 2.7-r2 2.8 2.9: IEEE 802.11 wireless LAN Host AP daemon
+net-wireless/hostapd-mana 2.6.5: SensePost's modified hostapd for wifi attacks
 net-wireless/intel-wimax-binary-supplicant 1.4.0: Authentication information for WiMax Networks
 net-wireless/intel-wimax-network-service 1.4.0 1.4.0-r1: Intel WiMAX daemon used to interface to the hardware
 net-wireless/intel-wimax-tools 1.4.2 1.4.2.1: Tools to use Intel's WiMax cards
