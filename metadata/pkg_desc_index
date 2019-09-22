@@ -584,7 +584,7 @@ net-proxy/proxystrike 2.0 2.2: A tool designed to find vulnerabilities while bro
 net-proxy/redsocks 0.5 9999: Transparent redirector of any TCP connection to proxy
 net-proxy/sshttp 0.35_p2: an easy to use OSI-Layer5 switching daemon
 net-proxy/zaproxy 2.7.0-r1 2.8.0 2.8.1: The OWASP Zed Attack Proxy for finding vulnerabilities in web applications
-net-vpn/kcptun 20190725 20190905 20190910: A Stable & Secure Tunnel Based On KCP with N:M Multiplexing
+net-vpn/kcptun 20190725 20190905 20190922: A Stable & Secure Tunnel Based On KCP with N:M Multiplexing
 net-vpn/kcptun-plugins 20190313: SIP003-compatible KCPTUN and UDP2RAW plugins for Shadowsocks
 net-vpn/tuntox 0.0.9 9999: Tunnel TCP connections over the Tox protocol
 net-vpn/udp2raw-tunnel 20181113.0 99999999: A tunnel which turns UDP traffic into encrypted FakeTCP/UDP/ICMP traffic
