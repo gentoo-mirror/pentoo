@@ -1,0 +1,13 @@
+BDEPEND=virtual/pkgconfig >=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile configure install postinst prepare unpack
+DEPEND=dev-libs/libnl:3 net-misc/dhcp[client] net-wireless/crda net-wireless/hostapd-mana ssl? ( dev-libs/openssl:0=[bindist=] ) !ssl? ( dev-libs/libtommath )
+DESCRIPTION=Evil client portion of EAP relay attack
+EAPI=7
+HOMEPAGE=https://w1f1.net https://github.com/sensepost/wpa_sycophant
+IUSE=bindist ssl savedconfig
+LICENSE=|| ( GPL-2 BSD )
+PROPERTIES=live
+RDEPEND=dev-libs/libnl:3 net-misc/dhcp[client] net-wireless/crda net-wireless/hostapd-mana ssl? ( dev-libs/openssl:0=[bindist=] ) !ssl? ( dev-libs/libtommath )
+SLOT=0
+_eclasses_=git-r3	562b380fc59ae6a8622171d0acb777d1	multilib	1d91b03d42ab6308b5f4f6b598ed110e	portability	2b88d3ecc35035a3b8ab628b49cafb0e	savedconfig	356fd0a7591e9b51742c209d13b729e1	toolchain-funcs	2f8b8f320bee13b71a8a54cc6d09e08a
+_md5_=14f61c35b086247179e9e46613cda76d

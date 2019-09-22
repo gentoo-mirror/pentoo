@@ -632,7 +632,7 @@ net-wireless/hcxdumptool 5.0.0 5.1.4 5.1.7 5.2.2: Small tool to capture packets 
 net-wireless/hcxkeys 4.0.1_p20180808 4.0.1_p20190131: Small set of tools to generate plainmasterkeys (rainbowtables) and hashes for the use with latest hashcat and John the Ripper
 net-wireless/hcxtools 5.0.0 5.1.6 5.2.2: Portable solution for capturing wlan traffic and conversion to hashcat formats
 net-wireless/hostapd 2.6-r6 2.7-r2 2.8 2.9: IEEE 802.11 wireless LAN Host AP daemon
-net-wireless/hostapd-mana 2.6.5: SensePost's modified hostapd for wifi attacks
+net-wireless/hostapd-mana 2.6.5 9999: SensePost's modified hostapd for wifi attacks
 net-wireless/intel-wimax-binary-supplicant 1.4.0: Authentication information for WiMax Networks
 net-wireless/intel-wimax-network-service 1.4.0 1.4.0-r1: Intel WiMAX daemon used to interface to the hardware
 net-wireless/intel-wimax-tools 1.4.2 1.4.2.1: Tools to use Intel's WiMax cards
@@ -673,6 +673,7 @@ net-wireless/wifi-pumpkin 0.8.8-r1: Framework for Rogue Wi-Fi Access Point Attac
 net-wireless/wifitap 0.4.1 0.4.2: A wireless tool to do direct connection to client without passing through an AP
 net-wireless/wifite 2.2.5-r2 9999: An automated wireless attack tool
 net-wireless/wireless-regdb 20090130-r1 20090309 20090817 20091125 20091125-r1: Binary regulatory database for CRDA
+net-wireless/wpa_sycophant 1.0 9999: Evil client portion of EAP relay attack
 pentoo/pentoo 2015.1: Pentoo meta ebuild to install all apps
 pentoo/pentoo-analyzer 2019.2: Pentoo analyzers meta ebuild
 pentoo/pentoo-bluetooth 2019.2: Pentoo bluetooth meta ebuild
