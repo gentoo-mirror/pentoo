@@ -653,7 +653,7 @@ net-wireless/n4p 2.2-r3: Comprehensive Wireless and Network packet based hacking
 net-wireless/nfcpy 0.10.2: A tool to read/write NFC tags or communicate with another NFC device
 net-wireless/op25 9999: software-defined analyzer for APCO P25 signals
 net-wireless/pixiewps 1.4.2: Bruteforce offline the WPS pin exploiting the low or non-existing entropy
-net-wireless/portapack-firmware 99999999: Custom firmware for the HackRF SDR + PortaPack H1 addon
+net-wireless/portapack-firmware 99999999: Portability Add-On for the HackRF Software-Defined Radio
 net-wireless/portapack-havoc 9999: Custom firmware for the HackRF SDR + PortaPack H1 addon
 net-wireless/proxmark3 3.1.0_p20190820 9999: A general purpose RFID tool for Proxmark3 hardware
 net-wireless/pyrit 0.5.0_p20180801: GPU-accelerated attack against WPA-PSK authentication
