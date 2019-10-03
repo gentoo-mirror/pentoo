@@ -71,7 +71,7 @@ app-forensics/openscap-daemon 0.1.10: Manages continuous scans of your infrastru
 app-forensics/origami-pdf 2.1.0: A Ruby framework designed to parse, analyze, and forge PDF documents
 app-forensics/pcileech 4.0 4.1 4.2: Direct Memory Access (DMA) Attack Software
 app-forensics/pdf-parser 0.7.3: This tool will parse a PDF document to identify the fundamental elements used
-app-forensics/pdfid 0.2.2 0.2.3 0.2.4 0.2.5: This tool will scan a PDF document looking for certain keyword
+app-forensics/pdfid 0.2.6: This tool will scan a PDF document looking for certain keyword
 app-forensics/pdfwalker 1.0.0-r1: A GTK frontend to explore the internals of a PDF document with Origami
 app-forensics/prochunter 20171111: Linux process hunter
 app-forensics/rdd 3.0.4-r4: Rdd is a forensic copy program
