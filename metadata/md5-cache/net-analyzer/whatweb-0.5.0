@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install prepare
+DESCRIPTION=Next generation web scanner, identifies what software websites are running
+EAPI=7
+HOMEPAGE=http://www.morningstarsecurity.com/research/whatweb
+IUSE=json
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=|| ( dev-lang/ruby:2.4 ) virtual/rubygems dev-ruby/addressable dev-ruby/ipaddr json? ( dev-ruby/json )
+SLOT=0
+SRC_URI=https://github.com/urbanadventurer/WhatWeb/archive/v0.5.0.tar.gz -> whatweb-0.5.0.tar.gz
+_eclasses_=ruby-single	e6530f43a549f120f9396ccb852288f5	ruby-utils	5b782a86f95c84466cdb53f8c8a8be37
+_md5_=448af225061e51069ac823ee6c7d0d91

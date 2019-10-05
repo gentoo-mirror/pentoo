@@ -362,6 +362,7 @@ dev-ruby/em-http-request 1.1.5: EventMachine based, async HTTP Request client
 dev-ruby/em-socksify 0.3.1 0.3.2: Transparent proxy support for any EventMachine protocol
 dev-ruby/espeak-ruby 1.0.4: A small API for utilizing 'espeak' and 'lame' to create Text-To-Speech mp3 files
 dev-ruby/fastercsv 1.5.5: A complete replacement to the CSV standard library
+dev-ruby/ipaddr 1.2.2: IPAddr provides a set of methods to manipulate an IP address
 dev-ruby/libv8 3.16.14.15 7.3.492.27.1: Distributes the V8 JavaScript engine in binary and source forms
 dev-ruby/louis 2.1.8 2.2.0 2.2.1: Lookup mac address assignments in the iana database
 dev-ruby/memory_profiler 0.9.14: Memory profiling routines for Ruby 2.1+
@@ -524,7 +525,7 @@ net-analyzer/w3af 1.6.54-r5: Web Application Attack and Audit Framework
 net-analyzer/wafw00f 0.9.5 1.0.0: Identifies and fingerprints Web Application Firewall (WAF) products
 net-analyzer/webshag 1.10: An enhanced HTTP URL Scanner and fuzzer
 net-analyzer/wfuzz 2.3.4 2.4-r1: Wfuzz is a tool designed for bruteforcing Web Applications
-net-analyzer/whatweb 0.4.9: Next generation web scanner, identifies what software websites are running
+net-analyzer/whatweb 0.4.9 0.5.0: Next generation web scanner, identifies what software websites are running
 net-analyzer/wpscan 3.6.3 3.7.1: Wordpress security scanner
 net-analyzer/xbruteforcer 20180611: Login brute force tool for WordPress, Joomla, DruPal, OpenCart, and Magento.
 net-analyzer/xplico 1.2.2: Extract data from TCP/IP traffic
