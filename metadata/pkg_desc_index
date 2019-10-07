@@ -64,6 +64,7 @@ app-forensics/libvshadow 20181216 20190127 20190323: Library and tools to suppor
 app-forensics/linen 61: Encase's linen utility
 app-forensics/make-pdf 0.1.7-r1: This tool will embed javascript inside a PDF document
 app-forensics/maltego 4.2.6.12502 4.2.7.12570: Visualise, map and mine data
+app-forensics/maryam 1.3.2_p20191004 9999: A full-featured open-source intelligence (OSINT) framework
 app-forensics/mxtract 1.1: A memory extractor & analyzer
 app-forensics/mysql-magic 9999: dump mysql client password from memory
 app-forensics/oletools 0.54.2b: A python tools to analyze MS OLE2 files and MS Office documents
