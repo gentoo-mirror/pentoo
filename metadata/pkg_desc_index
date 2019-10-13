@@ -486,7 +486,6 @@ net-analyzer/ntp-fingerprint 0.1-r2: NTP fingerprinting utility
 net-analyzer/onesixtyone 0.3.2-r2 0.6 0.7: An efficient SNMP scanner
 net-analyzer/openvas-scanner 6.0.1: Open Vulnerability Assessment Scanner
 net-analyzer/osmedeus 9999: A offensive security tool for reconnaissance and vulnerability scanning
-net-analyzer/ospd 1.3.2: Base class for scanner wrappers,communication protocol for GVM
 net-analyzer/owtf 2.4 2.6.0-r1: The Offensive Web Testing Framework
 net-analyzer/padbuster 20110928: Automated script for performing Padding Oracle attacks
 net-analyzer/plecost 9999: Wordpress finger printing tool, retrieve information about the plugins and versions installed
