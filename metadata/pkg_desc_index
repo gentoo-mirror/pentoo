@@ -153,7 +153,7 @@ dev-java/jgraphx 1.4.2.3 4.0.3: Open-source graph component for Java
 dev-java/msgpack 0.5.1 0.6.12 0.8.16: MessagePack for Java is a binary-based efficient object serialization library
 dev-java/sleep 2.1-r1: Duct Tape for the Java platform
 dev-lang/powershell-bin 6.2.2 6.2.3: A cross-platform automation and configuration tool/framework
-dev-libs/LeechCore 1.0 1.2 1.2.2: Direct Memory Access (DMA) Attack Software
+dev-libs/LeechCore 1.0 1.2 1.2.2 1.5: Direct Memory Access (DMA) Attack Software
 dev-libs/capstone 4.0.1 4.0.1-r1: disassembly/disassembler framework + bindings
 dev-libs/hashdb 3.1.0: The hashdb block hash database tool and API
 dev-libs/libcdata 20180102 20180724 20181216 20190112: Library for cross-platform C generic data functions
@@ -458,11 +458,11 @@ net-analyzer/geoipgen 0.4: Generate a list of hostnames based on country
 net-analyzer/gitrob 2.0.0_beta-r1: Reconnaissance tool for GitHub organizations
 net-analyzer/go-webanalyze 20190705: Port of Wappalyzer (uncovers technologies used on websites) in Go to automate scanning
 net-analyzer/gobuster 3.0.1-r2: A tool to brute-force URIs and DNS subdomains
-net-analyzer/greenbone-security-assistant 8.0.1-r1: Greenbone Security Assistant
-net-analyzer/gvm 10.0.1 11.0.0-r1: Greenbone Vulnerability Management, OpenVAS
+net-analyzer/greenbone-security-assistant 8.0.1-r2: Greenbone Security Assistant
+net-analyzer/gvm 10.0.1 11.0.0-r2: Greenbone Vulnerability Management, OpenVAS
 net-analyzer/gvm-libs 10.0.1 11.0.0: Greenbone vulnerability management libraries, previously named openvas-libraries
 net-analyzer/gvm-tools 1.4.1 2.0.0: Remote control for Greenbone Vulnerability Manager, previously named openvas-cli
-net-analyzer/gvmd 8.0.1 9.0.0: Greenbone vulnerability manager, previously named openvas-manager
+net-analyzer/gvmd 8.0.1 9.0.0-r1: Greenbone vulnerability manager, previously named openvas-manager
 net-analyzer/ham2mon 20170603: A GNU Radio (GR) based SDR scanner with a Curses interface.
 net-analyzer/httprint 301: HTTP fingerprinter tool
 net-analyzer/hyenae 0.36.1: a highly flexible packet generator
@@ -484,7 +484,8 @@ net-analyzer/nmap-vulners 1.2 1.4_beta 9999: NSE script based on Vulners.com API
 net-analyzer/nmap_vulscan 2.0-r1 2.0_p20170503 2.0_p20171214: A NSE vulnerability scanner which uses an offline version of scip VulDB
 net-analyzer/ntp-fingerprint 0.1-r2: NTP fingerprinting utility
 net-analyzer/onesixtyone 0.3.2-r2 0.6 0.7: An efficient SNMP scanner
-net-analyzer/openvas-scanner 6.0.1 7.0.0: Open Vulnerability Assessment Scanner
+net-analyzer/openvas 7.0.0: Open Vulnerability Assessment Scanner
+net-analyzer/openvas-scanner 6.0.1: Open Vulnerability Assessment Scanner
 net-analyzer/osmedeus 9999: A offensive security tool for reconnaissance and vulnerability scanning
 net-analyzer/ospd 2.0.0: Base class for scanner wrappers,communication protocol for GVM
 net-analyzer/ospd-openvas 1.0.0: OSP server implementation to allow GVM to remotely control an OpenVAS Scanner
