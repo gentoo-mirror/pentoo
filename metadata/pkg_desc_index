@@ -98,7 +98,7 @@ app-fuzz/fuzzdb 1.09_p20170117: Attack and Discovery Pattern Database for Applic
 app-fuzz/fuzzer-server 0.1: A html/wml fuzzer for proxy or client
 app-fuzz/http-fuzz 0.1: A http fuzzer
 app-fuzz/protos 1.1-r1: The protos fuzzing collection, containing http-reply, ldapv3, snmpv1, sip, h2250v4 and isakmp
-app-fuzz/slowhttptest 1.7: Application Layer DoS attack simulator
+app-fuzz/slowhttptest 1.7_p20170811: Application Layer DoS attack simulator
 app-fuzz/smtp-fuzz 0.1: A smtp fuzzer
 app-fuzz/smudge 0.8-r2: Smudge is basically a port of SPIKE into python scripts
 app-fuzz/snmp-fuzzer 0.1.1-r1: A very complete snmp fuzzer
