@@ -26,7 +26,6 @@ PDEPEND=">=app-shells/bash-4.2
 		sys-apps/iproute2
 		sys-apps/pciutils
 		sys-process/procps
-		app-misc/tmux
 		net-analyzer/ettercap
 		net-analyzer/bettercap
 		app-misc/crunch
@@ -50,6 +49,13 @@ PDEPEND=">=app-shells/bash-4.2
 		net-misc/wget
 		app-admin/ccze
 		x11-apps/xset"
+
+src_prepare() {
+	sed -i "/^AIRGEDDON_AUTO_UPDATE/s/=.*/=false/" .airgeddonrc || die
+	sed -i "/^AIRGEDDON_MDK_VERSION/s/=.*/=mdk3/" .airgeddonrc || die
+	sed -i "/^AIRGEDDON_SILENT_CHECKS=false/s/=.*/=true/" .airgeddonrc || die
+	default
+}
 
 src_install() {
 	make_wrapper ${PN} ./airgeddon.sh /usr/share/airgeddon "" /usr/sbin
