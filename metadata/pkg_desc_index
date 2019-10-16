@@ -248,6 +248,7 @@ dev-python/geoip2-python 2.8.0: Python bindings for GeoIP2
 dev-python/google-api-python-client 1.7.9: Google API Client for Python
 dev-python/googlesearch 20181112-r1: Google search from Python
 dev-python/gpapi 0.4.3: Unofficial python api for google play
+dev-python/grequests 0.4.0: Use Requests with Gevent to make asyncronous HTTP Requests easily
 dev-python/guess-language 0.2 0.5.2: Guess the natural language of a text
 dev-python/halberd 0.2.4-r1: HTTP load balancer detector
 dev-python/hrt 0.1.0: HTTP Request Translator (hrt) translates raw HTTP requests to different scripts
@@ -278,6 +279,7 @@ dev-python/parsel 1.5.1: Parsel is a library to extract data from HTML and XML u
 dev-python/pathspec 0.5.9: Utility library for gitignore style pattern matching of file paths
 dev-python/pefile 2018.8.8 2019.4.18: Module to read and work with Portable Executable (PE) files
 dev-python/phply 0.9.1-r1 1.2.5: Parser for PHP written using PLY
+dev-python/plotly 4.1.1: Browser-based graphing library for Python
 dev-python/poster 0.8.1: Make HTTP POST/PUT with multipart/form-data encoding
 dev-python/prompt_toolkit 2.0.9: Building powerful interactive command lines in Python
 dev-python/proxy-db 0.2.3: Manage free and private proxies on local db for Python Projects
@@ -520,7 +522,7 @@ net-analyzer/termshark 1.0.0 9999: A terminal UI for tshark, inspired by Wiresha
 net-analyzer/testssl 3.0_rc5-r1: Tool to check TLS/SSL cipher support
 net-analyzer/thc-pptp-bruter 0.1.4: a brute force program that works against pptp vpn endpoints
 net-analyzer/thc-ssl-dos 1.4: THC-SSL-DOS is a tool to verify the performance of SSL servers
-net-analyzer/theHarvester 3.0.4 3.0.6 3.0.6_p20190415: The Harvester is a tool designed to collect email accounts of the target domain
+net-analyzer/theHarvester 3.0.4 3.0.6 3.0.6_p20190415 3.1: The Harvester is a tool designed to collect email accounts of the target domain
 net-analyzer/tplmap 20181029: Server-Side Template Injection and code injection tool
 net-analyzer/ucsniff 3.20 3.20-r1: VoIP audio & video sniffer
 net-analyzer/unicornscan 0.4.7.2: A utility for information gathering or security auditing
