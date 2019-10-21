@@ -560,7 +560,7 @@ net-misc/dirscraper 20190224 99999999: Scanning tool which discovers dirs found 
 net-misc/f5vpn-login 9999: F5 VPN Command-line client
 net-misc/faifa 0.1 9999: Power Line Communication device manager
 net-misc/goaltdns 20190330: A permutation generation tool written in golang
-net-misc/gowitness 1.0.8 1.2.0: A web screenshot utility using Chrome Headless
+net-misc/gowitness 1.0.8 1.2.0 1.2.1: A web screenshot utility using Chrome Headless
 net-misc/hackertarget 20190130 99999999: A security toolkit for organizations with attack surface discovery
 net-misc/httprobe 0.1.1: Take a list of domains and probe for working HTTP and HTTPS servers
 net-misc/iaxclient 2.1_beta3-r1 2.1_beta3-r2 2.1_beta3-r3 2.1_beta3-r4 2.1_beta3-r5: Multiplatform IAX library for creating telephony solutions that interoperate with Asterisk
