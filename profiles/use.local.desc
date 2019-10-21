@@ -47,6 +47,7 @@ app-misc/binwalk:yaffs - Using sys-fs/yaffshiv to extract JFFS2 file systems
 app-misc/mat2:audio - Audio formats support
 dev-libs/libvhdi:fuse - Enable fuse support
 dev-libs/libvmdk:fuse - Enable fuse support
+dev-libs/qbdi:tools - Enable advanced tools
 net-analyzer/greenbone-security-assistant:extras - Pdf results, extra fonts, html docs support
 net-analyzer/gvm:cli - Command Line Interface for OpenVAS Scanner
 net-analyzer/gvm:cron - A cron job to update GVM's vulnerability feeds daily
