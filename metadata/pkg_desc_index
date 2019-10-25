@@ -16,7 +16,6 @@ app-crypt/cryptohaze-combined 1.31 9999: GPU and OpenCL accelerated password aud
 app-crypt/cuda-rarcrypt 3.2-r1: A Nvidia GPU-based RAR bruteforcer
 app-crypt/hashid 3.1.4 9999: Software to identify the different types of hashes
 app-crypt/hashkill 0.3.1-r1 0.3.1_p20131031 0.3.1_p20140204 9999: Multi-threaded password recovery tool with multi-GPU support
-app-crypt/johntheripper-jumbo 1.9.0: fast password cracker
 app-crypt/rcracki_mt 0.7.0-r1: Perform a rainbow table attack on password hashes
 app-crypt/routerkeygen 9999: generate default WPA/WEP keys for some routers
 app-crypt/samdump2 3.0.0-r1: Windows NT/2k/XP/Vista sam hash dumper
@@ -429,7 +428,7 @@ net-analyzer/armitage 9999 20150813 20160709: Cyber Attack Management for Metasp
 net-analyzer/armitage-bin 20140818 20141120 20150813: Cyber Attack Management for Metasploit
 net-analyzer/arpantispoofer 1.0.1.32: An utility to detect and resist arp spoofing
 net-analyzer/autoscan-network 1.50: Utility for network exploration with Samba support.
-net-analyzer/bettercap 2.24 2.25: A complete, modular, portable and easily extensible MITM framework
+net-analyzer/bettercap 2.25 2.26: A complete, modular, portable and easily extensible MITM framework
 net-analyzer/blindelephant 9999: generic web application fingerprinter that produces results by examining a small set of static files
 net-analyzer/bonesi 0.3.1 9999: BoNeSi - the DDoS botnet simulator
 net-analyzer/cameradar 4.0.0 4.0.0_p20190606: Cameradar hacks its way into RTSP videosurveillance cameras
