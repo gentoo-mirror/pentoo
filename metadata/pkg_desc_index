@@ -482,7 +482,7 @@ net-analyzer/metabigor 1.0_p20190918: Command line Search Engines Framework but 
 net-analyzer/metagoofil 1.4b-r1 2.2: Information gathering tool designed for extracting metadata of public documents
 net-analyzer/mosref 2.0_beta3: A secure remote execution framework using a compact Scheme-influenced VM
 net-analyzer/nacker 0.0.1_pre20130916: Bypass NAC by hijacking non-802.1x configurable hosts
-net-analyzer/nbtool 0.05_alpha2: Some tools for NetBIOS and DNS investigation, attacks, and communication
+net-analyzer/nbtool 20140416: Some tools for NetBIOS and DNS investigation, attacks, and communication
 net-analyzer/nikto 2.1.6-r1 2.1.6_p20180122 2.1.6_p20181021 2.1.6_p20190508: Web server vulnerability scanner
 net-analyzer/nmap-vulners 1.2 1.4_beta 9999: NSE script based on Vulners.com API
 net-analyzer/nmap_vulscan 2.0-r1 2.0_p20170503 2.0_p20171214: A NSE vulnerability scanner which uses an offline version of scip VulDB
