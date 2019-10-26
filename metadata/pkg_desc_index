@@ -487,7 +487,7 @@ net-analyzer/nikto 2.1.6-r1 2.1.6_p20180122 2.1.6_p20181021 2.1.6_p20190508: Web
 net-analyzer/nmap-vulners 1.2 1.4_beta 9999: NSE script based on Vulners.com API
 net-analyzer/nmap_vulscan 2.0-r1 2.0_p20170503 2.0_p20171214: A NSE vulnerability scanner which uses an offline version of scip VulDB
 net-analyzer/ntp-fingerprint 0.1-r2: NTP fingerprinting utility
-net-analyzer/onesixtyone 0.3.2-r2 0.6 0.7: An efficient SNMP scanner
+net-analyzer/onesixtyone 0.7: An efficient SNMP scanner
 net-analyzer/openvas 7.0.0: Open Vulnerability Assessment Scanner
 net-analyzer/openvas-scanner 6.0.1: Open Vulnerability Assessment Scanner
 net-analyzer/osmedeus 9999: A offensive security tool for reconnaissance and vulnerability scanning
