@@ -462,8 +462,8 @@ net-analyzer/geoipgen 0.4: Generate a list of hostnames based on country
 net-analyzer/gitrob 2.0.0_beta-r1: Reconnaissance tool for GitHub organizations
 net-analyzer/go-webanalyze 20190705: Port of Wappalyzer (uncovers technologies used on websites) in Go to automate scanning
 net-analyzer/gobuster 3.0.1-r2: A tool to brute-force URIs and DNS subdomains
-net-analyzer/greenbone-security-assistant 8.0.1-r2: Greenbone Security Assistant
-net-analyzer/gvm 10.0.1 11.0.0-r3: Greenbone Vulnerability Management, OpenVAS
+net-analyzer/greenbone-security-assistant 8.0.1-r2 9.0.0: Greenbone Security Assistant
+net-analyzer/gvm 10.0.1 11.0.0-r4: Greenbone Vulnerability Management, OpenVAS
 net-analyzer/gvm-libs 10.0.1 11.0.0: Greenbone vulnerability management libraries, previously named openvas-libraries
 net-analyzer/gvm-tools 1.4.1 2.0.0: Remote control for Greenbone Vulnerability Manager, previously named openvas-cli
 net-analyzer/gvmd 8.0.1 9.0.0-r2: Greenbone vulnerability manager, previously named openvas-manager
