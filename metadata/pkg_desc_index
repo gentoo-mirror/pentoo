@@ -397,6 +397,7 @@ dev-util/electron-packager 13.0.1 14.0.1: Six Degrees of Domain Admin
 dev-util/emilpro 3_p20170708 3_p20180111: Graphical disassembler for a large number of instruction sets
 dev-util/frida-tools 1.2.3 2.0.1 2.1.1 4.0.0 5.0.1 5.1.0: Frida CLI tools
 dev-util/ghidra 9.0.2-r2 9.0.4: A software reverse engineering framework
+dev-util/hexd 1.10: Eric Raymond's hex dumper
 dev-util/jadx-bin 1.0.0: A standalone graphical utility that displays Java source codes of .class file
 dev-util/jd-gui 1.6.2 1.6.3: A standalone Java Decompiler GUI
 dev-util/lida 03.00.00: interactive ELF disambler
@@ -702,15 +703,15 @@ pentoo/pentoo-fuzzers 2019: Pentoo fuzzers meta ebuild
 pentoo/pentoo-gnome 2.32.1-r3: Meta package for the GNOME desktop, merge this package to install
 pentoo/pentoo-installer 20190604 20190701 99999999: Installer for pentoo, based on the ncurses Arch Linux installer
 pentoo/pentoo-livecd 2019.2: things needed by pentoo for livecd only
-pentoo/pentoo-misc 2019.2-r2: Pentoo misc meta ebuild
+pentoo/pentoo-misc 2019.2-r3: Pentoo misc meta ebuild
 pentoo/pentoo-mitm 2019.2: Pentoo mitm meta ebuild
 pentoo/pentoo-mobile 2018.4-r2: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2019.2: Collection of NFC tools
 pentoo/pentoo-proxies 2019.2-r2: Pentoo proxy meta ebuild
 pentoo/pentoo-radio 2019.2-r5: Radio tools for pentoo
-pentoo/pentoo-rce 2019.2-r1: Pentoo RCE meta ebuild
+pentoo/pentoo-rce 2019.2-r2: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2019.2: Pentoo scanner meta ebuild
-pentoo/pentoo-system 2019.2-r3: Pentoo meta ebuild to install system
+pentoo/pentoo-system 2019.2-r4: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2018.2-r1: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2019.2-r3: Pentoo wireless meta ebuild
 pentoo/tribe 2012.0: Tribe meta ebuild
