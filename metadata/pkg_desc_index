@@ -240,6 +240,7 @@ dev-python/easygui 0.98.1: A module for very simple, very easy GUI programming i
 dev-python/editorconfig 0.12.1-r1 0.12.2: EditorConfig File Locator and Interpreter for Python
 dev-python/egghatch 0.2.3: Cuckoo Sandbox Shellcode Identification & Formatting
 dev-python/esmre 0.3.1: Regular expression accelerator
+dev-python/filebytes 0.10.0: Classes to parse the following file formats
 dev-python/flask-caching 1.7.2: Continuation of the Flask-Cache Extension
 dev-python/flask-jwt 0.3.2: JWT (JSON Web Tokens) for Flask applications
 dev-python/flask-jwt-extended 3.18.2 3.22.0 3.23.0: An open source Flask extension that provides JWT support
@@ -734,6 +735,7 @@ sys-devel/autofdo 0.16-r2 0.18 9999: System to simplify real-world deployment of
 sys-devel/gcc-arm-none-eabi 8.2019.3-r2: GNU Arm Embedded Toolchain
 sys-devel/gdb-dashboard 0.11.1 9999: Modular visual interface for GDB in Python
 sys-devel/peda 1.1_p20190210 9999: Python Exploit Development Assistance for GDB
+sys-devel/ropper 1.13.3 9999: Use to display information about binary files in different file formats
 sys-fs/ext4-crypt 20170216 99999999: A userspace tool to create ext4 encrypted directories
 sys-fs/sasquatch 20160119 20180522: The sasquatch project is a set of patches to the standard unsquashfs utility
 sys-fs/static-dev 0.1: A skeleton, statically managed /dev
