@@ -1,0 +1,10 @@
+DEFINED_PHASES=install prepare
+DESCRIPTION=A Simple ELF crypter
+EAPI=7
+HOMEPAGE=https://github.com/droberson/ELFcrypt
+KEYWORDS=~amd64 ~x86
+LICENSE=MIT
+SLOT=0
+SRC_URI=https://github.com/droberson/ELFcrypt/archive/340873de5547857e37e0fc48e8fea5a8c6a04b77.tar.gz -> elfcrypt-20190526.tar.gz
+_eclasses_=multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	2f8b8f320bee13b71a8a54cc6d09e08a
+_md5_=98a4a6e1a7504c9eda45a1e87160d9b4
