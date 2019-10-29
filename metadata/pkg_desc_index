@@ -732,6 +732,7 @@ sys-apps/usbguard 0.7.4 0.7.5: The USBGuard software framework helps to protect 
 sys-boot/grub-static 0.97-r9 0.97-r10: GNU GRUB Legacy boot loader (static build)
 sys-devel/autofdo 0.16-r2 0.18 9999: System to simplify real-world deployment of feedback-directed optimization
 sys-devel/gcc-arm-none-eabi 8.2019.3-r2: GNU Arm Embedded Toolchain
+sys-devel/peda 1.1_p20190210 9999: Python Exploit Development Assistance for GDB
 sys-fs/ext4-crypt 20170216 99999999: A userspace tool to create ext4 encrypted directories
 sys-fs/sasquatch 20160119 20180522: The sasquatch project is a set of patches to the standard unsquashfs utility
 sys-fs/static-dev 0.1: A skeleton, statically managed /dev
