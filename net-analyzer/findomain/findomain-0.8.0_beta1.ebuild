@@ -46,7 +46,7 @@ failure-0.1.6
 failure_derive-0.1.6
 fake-simd-0.1.2
 fallible-iterator-0.1.6
-findomain-0.6.0
+findomain-0.7.0
 flate2-1.0.11
 fnv-1.0.6
 foreign-types-0.3.2
@@ -225,9 +225,14 @@ if [[ ${PV} == *9999 ]]; then
 	inherit git-r3
 	EGIT_REPO_URI="https://github.com/Edu4rdSHL/findomain"
 else
-	KEYWORDS="~amd64 ~x86"
-	SRC_URI="https://github.com/Edu4rdSHL/findomain/archive/${PV}.tar.gz -> ${P}.tar.gz
+	MY_PV="$(ver_rs 3 '-')"
+	MY_P="${PN}-${MY_PV}"
+
+	SRC_URI="https://github.com/Edu4rdSHL/findomain/archive/${MY_PV}.tar.gz -> ${MY_P}.tar.gz
 		$(cargo_crate_uris ${CRATES})"
+
+	KEYWORDS="~amd64 ~x86"
+	S="${WORKDIR}/${MY_P}"
 fi
 
 LICENSE="GPL-3"
