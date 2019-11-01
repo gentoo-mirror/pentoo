@@ -309,6 +309,7 @@ dev-python/python-libnmap 0.7.0: A python library enabling python developers to 
 dev-python/python-nmap 0.6.1: a python library which helps in using nmap port scanner
 dev-python/python-ntlm 1.1.0-r1: Python library for NTLM support
 dev-python/python-oauth2 1.1.0-r1: OAuth 2.0 provider for python
+dev-python/python-ptrace 0.9.4: A Python binding of ptrace library
 dev-python/python-registry 1.2.0: A pure Python module that provides read access to Windows Registry files
 dev-python/python-slugify 3.0.3-r1: A Python Slugify application that handles Unicode
 dev-python/pytimeparse 1.1.8: A small Python module to parse various kinds of time expressions
