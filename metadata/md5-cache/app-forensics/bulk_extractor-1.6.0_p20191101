@@ -5,6 +5,7 @@ DESCRIPTION=Scans a disk image for regular expressions and other content
 EAPI=7
 HOMEPAGE=https://github.com/simsong/bulk_extractor
 IUSE=aff doc +beviewer +ewf +exiv2 hashdb rar
+KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 PROPERTIES=live
 RDEPEND=aff? ( app-forensics/afflib ) dev-libs/boost[threads] dev-libs/expat dev-libs/openssl:0= dev-db/sqlite:3 dev-libs/libxml2 ewf? ( app-forensics/libewf ) exiv2? ( media-gfx/exiv2 ) sys-libs/zlib hashdb? ( dev-libs/hashdb ) beviewer? ( || ( virtual/jre:* virtual/jdk:* ) )
