@@ -29,7 +29,7 @@ app-dicts/raft-wordlists 20110803-r1: Raft wordlists
 app-dicts/seclists 2019.1 2019.2 2019.3: A collection of multiple types of lists used during security assessments
 app-editors/visual-studio-code 1.38.1 1.39.2: Multiplatform Visual Studio Code from Microsoft
 app-emulation/qemu-charm 0.13.0: QEMU arm user-land emulation for CHroot ARM setup on x86*
-app-exploits/ROPgadget 5.9: Tool to search for gadgets in binaries to facilitate your ROP exploitation
+app-exploits/ROPgadget 5.9-r2: Tool to search for gadgets in binaries to facilitate your ROP exploitation
 app-exploits/deathstar 20180623: A tool to gain Domain Admin rights with a push of a button
 app-exploits/empire 2.5: A post-exploitation framework with Windows/Linux agents
 app-exploits/exploitdb 9999: All exploits from exploit-db.com
@@ -40,9 +40,9 @@ app-exploits/linux-exploit-suggester 20140519: Local Linux enumeration and privi
 app-exploits/linuxprivchecker 20160302: Local Linux enumeration and privilege escalation checker.
 app-exploits/packetstormexploits 2012.12 2013.12 2014.12 2015.12 2016.12 2017.12 2018.12 2019.07: Archive of packetstorm exploits
 app-exploits/packetstormexploits-meta 2019: Meta ebuild of packetstorm exploits
-app-exploits/pwntools 3.12.2: CTF framework and exploit development library
+app-exploits/pwntools 3.12.2-r1: CTF framework and exploit development library
 app-exploits/routersploit 3.3.0 3.4.0 9999: An open-source exploitation framework dedicated to embedded devices
-app-exploits/the-backdoor-factory 3.4.2-r1: BDF allows to patch executable binaries with user desired shellcode
+app-exploits/the-backdoor-factory 3.4.2-r2: BDF allows to patch executable binaries with user desired shellcode
 app-exploits/unix-privesc-check 20170904: Local Linux enumeration and privilege escalation checker.
 app-exploits/webshells 20190508: Various webshells
 app-exploits/weevely 3.6.2 3.7.0: Weevely is a stealth PHP web shell that simulate telnet-like console
@@ -103,7 +103,7 @@ app-fuzz/smtp-fuzz 0.1: A smtp fuzzer
 app-fuzz/smudge 0.8-r2: Smudge is basically a port of SPIKE into python scripts
 app-fuzz/snmp-fuzzer 0.1.1-r1: A very complete snmp fuzzer
 app-fuzz/spike 2.9-r1: A generic network fuzzer
-app-misc/binwalk 2.1.1-r3 2.2.0: A tool for identifying files embedded inside firmware images
+app-misc/binwalk 2.2.0-r1: A tool for identifying files embedded inside firmware images
 app-misc/cyberchef 9.7.19: A web app for encryption, encoding, compression and data analysis (offline)
 app-misc/freediag 1.08: Free diagnostic software for OBD-II compliant motor vehicles
 app-misc/gplaycli 3.26: Google Play Downloader via Command line
@@ -154,7 +154,8 @@ dev-java/msgpack 0.5.1 0.6.12 0.8.16: MessagePack for Java is a binary-based eff
 dev-java/sleep 2.1-r1: Duct Tape for the Java platform
 dev-lang/powershell-bin 6.2.3-r1: A cross-platform automation and configuration tool/framework
 dev-libs/LeechCore 1.0 1.2 1.2.2 1.5: Direct Memory Access (DMA) Attack Software
-dev-libs/capstone 4.0.1 4.0.1-r1: disassembly/disassembler framework + bindings
+dev-libs/capstone 4.0.1-r1: disassembly/disassembler framework + bindings
+dev-libs/capstone-bindings 4.0.1: A lightweight multi-platform, multi-architecture disassembly framework
 dev-libs/hashdb 3.1.0: The hashdb block hash database tool and API
 dev-libs/libcdata 20180102 20180724 20181216 20190112: Library for cross-platform C generic data functions
 dev-libs/libcdatetime 20170609 20181004: Library for cross-platform C date and time functions
@@ -206,7 +207,6 @@ dev-python/argparse 1.4.0: Python command-line parsing library.
 dev-python/backcall 0.1.0: Backwards compatible callback APIs
 dev-python/blinkstick 9999: BlinkStick Python interface to control devices connected to the computer
 dev-python/bluepy 1.3.0: Python interface to Bluetooth LE on Linux
-dev-python/capstone-python 4.0.1: A lightweight multi-platform, multi-architecture disassembly framework
 dev-python/cchardet 2.1.4: Python library for interacting with Censys Search Engine (censys.io)
 dev-python/censys 0.0.8: Python library for interacting with Censys Search Engine (censys.io)
 dev-python/cfscrape 1.9.7 2.0.7: A module to bypass Cloudflare's anti-bot page
@@ -239,7 +239,7 @@ dev-python/dotty 9999: EFILTER Query Language
 dev-python/dropbox-sdk 9.3.0 9.4.0: A Python SDK for integrating with the Dropbox API v2.
 dev-python/easygui 0.98.1: A module for very simple, very easy GUI programming in Python
 dev-python/editorconfig 0.12.1-r1 0.12.2: EditorConfig File Locator and Interpreter for Python
-dev-python/egghatch 0.2.3: Cuckoo Sandbox Shellcode Identification & Formatting
+dev-python/egghatch 0.2.3-r1: Cuckoo Sandbox Shellcode Identification & Formatting
 dev-python/esmre 0.3.1: Regular expression accelerator
 dev-python/filebytes 0.10.0: Classes to parse the following file formats
 dev-python/flask-caching 1.7.2: Continuation of the Flask-Cache Extension
