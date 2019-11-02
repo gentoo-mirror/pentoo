@@ -154,7 +154,7 @@ dev-java/msgpack 0.5.1 0.6.12 0.8.16: MessagePack for Java is a binary-based eff
 dev-java/sleep 2.1-r1: Duct Tape for the Java platform
 dev-lang/powershell-bin 6.2.3-r1: A cross-platform automation and configuration tool/framework
 dev-libs/LeechCore 1.0 1.2 1.2.2 1.5: Direct Memory Access (DMA) Attack Software
-dev-libs/capstone 4.0.1-r1: disassembly/disassembler framework + bindings
+dev-libs/capstone 4.0.1-r2: disassembly/disassembler framework + bindings
 dev-libs/capstone-bindings 4.0.1: A lightweight multi-platform, multi-architecture disassembly framework
 dev-libs/hashdb 3.1.0: The hashdb block hash database tool and API
 dev-libs/libcdata 20180102 20180724 20181216 20190112: Library for cross-platform C generic data functions
