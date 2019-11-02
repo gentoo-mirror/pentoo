@@ -408,7 +408,7 @@ dev-util/lief 0.9.0_p20181231 0.9.0_p20190511 0.9.0_p20190626: Library to instru
 dev-util/lief-bin 0.9.0-r1: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
 dev-util/objection 1.7.5 1.8.1: Runtime mobile exploration
-dev-util/plasma 0_p21080708 9999: An interactive disassembler for x86/ARM/MIPS
+dev-util/plasma 0_p21080708-r1 9999: An interactive disassembler for x86/ARM/MIPS
 dev-util/pyew 2.0: Hexadecimal viewer and disassembler
 dev-util/qark 0.9_pre20181218 0.9_pre20190405: A tool to look for Android application vulnerabilities
 dev-util/redasm 2.1.1: The OpenSource Disassembler
@@ -738,8 +738,8 @@ sys-devel/autofdo 0.18 0.19 9999: System to simplify real-world deployment of fe
 sys-devel/gcc-arm-none-eabi 8.2019.3-r2: GNU Arm Embedded Toolchain
 sys-devel/gdb-dashboard 0.11.1 9999: Modular visual interface for GDB in Python
 sys-devel/peda 1.1_p20190210 9999: Python Exploit Development Assistance for GDB
-sys-devel/pwndbg 1.1.0_p20191004 9999: A GDB plug-in that makes debugging with GDB suck less
-sys-devel/ropper 1.13.3 9999: Use to display information about binary files in different file formats
+sys-devel/pwndbg 1.1.0_p20191004-r1 9999: A GDB plug-in that makes debugging with GDB suck less
+sys-devel/ropper 1.13.3-r1 9999: Use to display information about binary files in different file formats
 sys-fs/ext4-crypt 20170216 99999999: A userspace tool to create ext4 encrypted directories
 sys-fs/sasquatch 20160119 20180522: The sasquatch project is a set of patches to the standard unsquashfs utility
 sys-fs/static-dev 0.1: A skeleton, statically managed /dev
