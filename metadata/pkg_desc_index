@@ -399,7 +399,7 @@ dev-util/electron-bin 5.0.3: Cross platform application development framework ba
 dev-util/electron-packager 13.0.1 14.0.1: Six Degrees of Domain Admin
 dev-util/emilpro 3_p20170708 3_p20180111: Graphical disassembler for a large number of instruction sets
 dev-util/frida-tools 1.2.3 2.0.1 2.1.1 4.0.0 5.0.1 5.1.0: Frida CLI tools
-dev-util/ghidra 9.0.2-r2 9.0.4: A software reverse engineering framework
+dev-util/ghidra 9.0.2-r2 9.0.4 9.1: A software reverse engineering framework
 dev-util/hexd 1.10: Eric Raymond's hex dumper
 dev-util/jadx-bin 1.0.0: A standalone graphical utility that displays Java source codes of .class file
 dev-util/jd-gui 1.6.2 1.6.3: A standalone Java Decompiler GUI
@@ -416,7 +416,7 @@ dev-util/retdec 3.2-r1 3.3: RetDec is a retargetable machine-code decompiler bas
 dev-util/soapui 5.4.0 5.5.0: The Swiss-Army Knife for SOAP Testing
 dev-util/sonarqube-bin 7.9.1 8.0: SonarQube Community Edition is an open platform to manage code quality
 dev-util/sonarscanner-bin 4.2.0.1873: SonarQube Command-Line Scanner
-dev-util/unicorn 0.9_p20160901 1.0.1-r4 1.0.1-r5: A lightweight multi-platform, multi-architecture CPU emulator framework
+dev-util/unicorn 1.0.1-r5: A lightweight multi-platform, multi-architecture CPU emulator framework
 dev-util/valabind 1.4.0 1.7.1: Valabind is a tool to parse vala or vapi files to transform them into swig files
 dev-vcs/gitleaks 2.1.0-r1: Audit git repos for secrets
 dev-vcs/trufflehog 2.0.97_p20190506-r1: Searches through git repositories for high entropy strings and secrets
