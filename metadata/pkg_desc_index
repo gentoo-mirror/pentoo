@@ -24,7 +24,7 @@ app-crypt/stegcracker 20190219: Steganography brute-force utility to uncover hid
 app-crypt/steghide 0.5.1: A steganography program which hides data in various media files
 app-crypt/wisecracker 1.0-r1: An open source framework for tools that can distribute brute force cryptanalysis
 app-crypt/xortool 0.98: A tool to analyze multi-byte xor cipher
-app-crypt/yubioath-desktop 4.3.6 5.0.1-r1: Library and tool for personalization of Yubico's YubiKey NEO
+app-crypt/yubioath-desktop 5.0.1-r2 9999: Library and tool for personalization of Yubico's YubiKey NEO
 app-dicts/raft-wordlists 20110803-r1: Raft wordlists
 app-dicts/seclists 2019.1 2019.2 2019.3: A collection of multiple types of lists used during security assessments
 app-editors/visual-studio-code 1.38.1 1.39.2: Multiplatform Visual Studio Code from Microsoft
@@ -290,6 +290,7 @@ dev-python/pyaff4 9999: Python Advanced Forensic Format Version 4 library.
 dev-python/pyaml 19.4.1: A module to produce pretty and readable YAML-serialized data
 dev-python/pyaxmlparser 0.3.13 0.3.15: Parser for Android XML file and get Application Name without using Androguard
 dev-python/pybonjour 1.1.1: Python interface to Apple Bonjour and compatible DNS-SD libraries (Avahi)
+dev-python/pycopy-binascii 2.4.0: A part of standard library of the Pycopy project
 dev-python/pycryptodomex 3.8.2 3.9.0: A self-contained cryptographic library for Python
 dev-python/pydot 1.4.1: Python interface to Graphviz's Dot language
 dev-python/pygexf 0.2.2: A python library to generate gexf file format
