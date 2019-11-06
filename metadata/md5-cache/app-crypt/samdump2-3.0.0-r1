@@ -1,9 +1,12 @@
 DEFINED_PHASES=compile install prepare
+DEPEND=dev-libs/openssl:=
 DESCRIPTION=Windows NT/2k/XP/Vista sam hash dumper
-EAPI=5
-HOMEPAGE=http://sourceforge.net/projects/ophcrack/files/
-KEYWORDS=~amd64 ~x86 ~arm
+EAPI=7
+HOMEPAGE=https://sourceforge.net/projects/ophcrack/files/
+KEYWORDS=~amd64 ~arm ~x86
 LICENSE=GPL-3
+RDEPEND=dev-libs/openssl:=
 SLOT=0
 SRC_URI=mirror://sourceforge/ophcrack/samdump2/samdump2-3.0.0.tar.bz2
-_md5_=695adf9a749026d5e9b3a14e41f705ab
+_eclasses_=multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	2f8b8f320bee13b71a8a54cc6d09e08a
+_md5_=cedf9c75adddf027f928393882ce53bb
