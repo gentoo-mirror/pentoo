@@ -4,6 +4,9 @@
 
 app-crypt/cryptohaze-combined:grt - Build GRT utilities
 app-crypt/cryptohaze-combined:multiforcer - Enable multiforcer build stuff
+app-crypt/hashkill:json - add dev-libs/json-c support
+app-crypt/hashkill:opencl - Add OpenCL support
+app-crypt/hashkill:pax_kernel - Apply patch needed for pax enabled kernels
 app-forensics/bulk_extractor:aff - Add app-forensics/afflib support
 app-forensics/bulk_extractor:beviewer - Enable the BEViewer — is a User Interface for browsing features
 app-forensics/bulk_extractor:ewf - Add app-forensics/libewf support
