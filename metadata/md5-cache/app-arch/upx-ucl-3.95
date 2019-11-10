@@ -4,10 +4,10 @@ DESCRIPTION=Ultimate Packer for eXecutables (free version using UCL compression 
 EAPI=7
 HOMEPAGE=http://upx.sourceforge.net/
 IUSE=zlib
-KEYWORDS=~amd64 ~ppc ~sparc ~x86 ~x86-fbsd
+KEYWORDS=~amd64 ~ppc ~sparc ~x86
 LICENSE=GPL-2+ UPX-exception
 RDEPEND=>=dev-libs/ucl-1.02 !app-arch/upx !app-arch/upx-bin
 SLOT=0
 SRC_URI=https://github.com/upx/upx/archive/v3.95.tar.gz -> upx-ucl-3.95.tar.gz https://github.com/upx/upx-lzma-sdk/archive/v3.95.tar.gz -> upx-lzma-sdk-3.95.tar.gz
 _eclasses_=eutils	6e6c2737b59a4b982de6fb3ecefd87f8	flag-o-matic	8a43b9830f1e64a7a5fc0a276afa0275	multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
-_md5_=debc9dcdd42e865863ea2f30e391b799
+_md5_=354cf01f9ed323fc17549e9fa67c9c39
