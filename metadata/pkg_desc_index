@@ -18,9 +18,9 @@ app-crypt/elfcrypt 20190526 99999999: A Simple ELF crypter
 app-crypt/hashid 3.1.4 9999: Software to identify the different types of hashes
 app-crypt/hashkill 0.3.1_p20140204 9999: Multi-threaded password recovery tool with multi-GPU support
 app-crypt/rcracki_mt 0.7.0-r1: Perform a rainbow table attack on password hashes
-app-crypt/routerkeygen 9999: generate default WPA/WEP keys for some routers
+app-crypt/routerkeygen 20190721 99999999: Generates WPA/WEP keys based on MAC and/or BSSID
 app-crypt/samdump2 3.0.0-r1: Windows NT/2k/XP/Vista sam hash dumper
-app-crypt/stegcracker 20190219: Steganography brute-force utility to uncover hidden data inside files.
+app-crypt/stegcracker 2.0.7 20190219-r1: Steganography brute-force utility to uncover hidden data inside files
 app-crypt/steghide 0.5.1: A steganography program which hides data in various media files
 app-crypt/wisecracker 1.0-r1: An open source framework for tools that can distribute brute force cryptanalysis
 app-crypt/xortool 0.98: A tool to analyze multi-byte xor cipher
