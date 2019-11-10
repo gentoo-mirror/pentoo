@@ -16,7 +16,7 @@ app-crypt/cryptohaze-combined 1.31: GPU and OpenCL accelerated password auditing
 app-crypt/cuda-rarcrypt 3.2-r1: A Nvidia GPU-based RAR bruteforcer
 app-crypt/elfcrypt 20190526 99999999: A Simple ELF crypter
 app-crypt/hashid 3.1.4 9999: Software to identify the different types of hashes
-app-crypt/hashkill 0.3.1_p20140204 9999: Multi-threaded password recovery tool with multi-GPU support
+app-crypt/hashkill 0.3.1_p20140204: Multi-threaded password recovery tool with multi-GPU support
 app-crypt/rcracki_mt 0.7.0-r1: Perform a rainbow table attack on password hashes
 app-crypt/routerkeygen 20190721 99999999: Generates WPA/WEP keys based on MAC and/or BSSID
 app-crypt/samdump2 3.0.0-r1: Windows NT/2k/XP/Vista sam hash dumper
