@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile install postinst postrm preinst setup
+DEPEND=kernel_linux? ( virtual/modutils ) sys-apps/sed kernel_linux? ( virtual/linux-sources virtual/libelf )
+DESCRIPTION=Linux Kernel Runtime Guard
+EAPI=7
+HOMEPAGE=https://www.openwall.com/lkrg/
+IUSE=kernel_linux kernel_linux kernel_linux
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=kernel_linux? ( virtual/modutils )
+SLOT=0
+SRC_URI=https://www.openwall.com/lkrg/lkrg-0.7.tar.gz
+_eclasses_=eutils	6e6c2737b59a4b982de6fb3ecefd87f8	linux-info	953c3b1c472dcadbf62098a9301327f2	linux-mod	6c7b3e7b9d39bd049bf23a991c16315e	multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
+_md5_=97ab23654b377da8d86a3d8803ebbaad
