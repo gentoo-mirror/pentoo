@@ -26,7 +26,7 @@ app-crypt/wisecracker 1.0-r1: An open source framework for tools that can distri
 app-crypt/xortool 0.98: A tool to analyze multi-byte xor cipher
 app-crypt/yubioath-desktop 5.0.1-r2 9999: Library and tool for personalization of Yubico's YubiKey NEO
 app-dicts/raft-wordlists 20110803-r1: Raft wordlists
-app-dicts/seclists 2019.1 2019.2 2019.3: A collection of multiple types of lists used during security assessments
+app-dicts/seclists 2019.1 2019.2 2019.3 2019.4: A collection of multiple types of lists used during security assessments
 app-editors/visual-studio-code 1.38.1 1.39.2: Multiplatform Visual Studio Code from Microsoft
 app-emulation/qemu-charm 0.13.0: QEMU arm user-land emulation for CHroot ARM setup on x86*
 app-exploits/ROPgadget 5.9-r3: Tool to search for gadgets in binaries to facilitate your ROP exploitation
@@ -470,7 +470,7 @@ net-analyzer/greenbone-security-assistant 8.0.1-r3 9.0.0-r1: Greenbone Security 
 net-analyzer/gvm 11.0.0-r5: Greenbone Vulnerability Management, OpenVAS
 net-analyzer/gvm-libs 11.0.0: Greenbone vulnerability management libraries, previously named openvas-libraries
 net-analyzer/gvm-tools 2.0.0: Remote control for Greenbone Vulnerability Manager, previously named openvas-cli
-net-analyzer/gvmd 9.0.0-r6: Greenbone vulnerability manager, previously named openvas-manager
+net-analyzer/gvmd 9.0.0-r7: Greenbone vulnerability manager, previously named openvas-manager
 net-analyzer/ham2mon 20170603: A GNU Radio (GR) based SDR scanner with a Curses interface.
 net-analyzer/httprint 301: HTTP fingerprinter tool
 net-analyzer/hyenae 0.36.1: a highly flexible packet generator
