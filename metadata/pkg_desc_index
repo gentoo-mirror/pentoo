@@ -30,10 +30,10 @@ app-dicts/seclists 2019.1 2019.2 2019.3 2019.4: A collection of multiple types o
 app-editors/visual-studio-code 1.38.1 1.39.2: Multiplatform Visual Studio Code from Microsoft
 app-emulation/qemu-charm 0.13.0: QEMU arm user-land emulation for CHroot ARM setup on x86*
 app-exploits/ROPgadget 5.9-r3: Tool to search for gadgets in binaries to facilitate your ROP exploitation
-app-exploits/deathstar 20180623: A tool to gain Domain Admin rights with a push of a button
+app-exploits/deathstar 20180722: A tool to gain Domain Admin rights with a push of a button
 app-exploits/empire 2.5-r1: A post-exploitation framework
-app-exploits/exploitdb 9999: All exploits from exploit-db.com
-app-exploits/exploitdb-papers 9999: Exploit database's papers
+app-exploits/exploitdb 20191114 99999999: All exploits from exploit-db.com
+app-exploits/exploitdb-papers 20191114 99999999: Exploit database's papers
 app-exploits/getsploit 0.3.3_p20190531 9999: Command line utility for searching and downloading exploits
 app-exploits/linenum 20190406: Local Linux enumeration and privilege escalation checker.
 app-exploits/linux-exploit-suggester 20140519: Local Linux enumeration and privilege escalation checker.
