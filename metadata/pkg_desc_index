@@ -35,7 +35,7 @@ app-exploits/empire 2.5-r1: A post-exploitation framework
 app-exploits/exploitdb 20191114 99999999: All exploits from exploit-db.com
 app-exploits/exploitdb-papers 20191114 99999999: Exploit database's papers
 app-exploits/getsploit 0.3.3_p20190531 9999: Command line utility for searching and downloading exploits
-app-exploits/linenum 20190406: Local Linux enumeration and privilege escalation checker.
+app-exploits/linenum 20191028 99999999: Local Linux enumeration and privilege escalation checker
 app-exploits/linux-exploit-suggester 20140519: Local Linux enumeration and privilege escalation checker.
 app-exploits/linuxprivchecker 20160302: Local Linux enumeration and privilege escalation checker.
 app-exploits/packetstormexploits 2012.12 2013.12 2014.12 2015.12 2016.12 2017.12 2018.12 2019.07: Archive of packetstorm exploits
