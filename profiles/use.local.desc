@@ -8,6 +8,28 @@ app-crypt/hashkill:json - add dev-libs/json-c support
 app-crypt/hashkill:opencl - Add OpenCL support
 app-crypt/hashkill:pax_kernel - Apply patch needed for pax enabled kernels
 app-exploits/empire:powershell - Enable a PowerShell Windows agent
+app-exploits/packetstormexploits:1999 - Use 1999 archivers
+app-exploits/packetstormexploits:2000 - Use 2000 archivers
+app-exploits/packetstormexploits:2001 - Use 2001 archivers
+app-exploits/packetstormexploits:2002 - Use 2002 archivers
+app-exploits/packetstormexploits:2003 - Use 2003 archivers
+app-exploits/packetstormexploits:2004 - Use 2004 archivers
+app-exploits/packetstormexploits:2005 - Use 2005 archivers
+app-exploits/packetstormexploits:2006 - Use 2006 archivers
+app-exploits/packetstormexploits:2007 - Use 2007 archivers
+app-exploits/packetstormexploits:2008 - Use 2008 archivers
+app-exploits/packetstormexploits:2009 - Use 2009 archivers
+app-exploits/packetstormexploits:2010 - Use 2010 archivers
+app-exploits/packetstormexploits:2011 - Use 2011 archivers
+app-exploits/packetstormexploits:2012 - Use 2012 archivers
+app-exploits/packetstormexploits-meta:2012 - Use 2012 archivers
+app-exploits/packetstormexploits-meta:2013 - Use 2013 archivers
+app-exploits/packetstormexploits-meta:2014 - Use 2014 archivers
+app-exploits/packetstormexploits-meta:2015 - Use 2015 archivers
+app-exploits/packetstormexploits-meta:2016 - Use 2016 archivers
+app-exploits/packetstormexploits-meta:2017 - Use 2017 archivers
+app-exploits/packetstormexploits-meta:2018 - Use 2018 archivers
+app-exploits/packetstormexploits-meta:2019 - Use 2019 archivers
 app-forensics/bulk_extractor:aff - Add app-forensics/afflib support
 app-forensics/bulk_extractor:beviewer - Enable the BEViewer — is a User Interface for browsing features
 app-forensics/bulk_extractor:ewf - Add app-forensics/libewf support
