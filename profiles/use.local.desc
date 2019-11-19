@@ -93,22 +93,6 @@ net-libs/libtins:ack-tracker - TCP ACK tracking support
 net-libs/libtins:cxx11 - C++11 support
 net-libs/libtins:dot11 - IEEE 802.11 support
 net-libs/libtins:wpa2 - WPA2 decryption support
-net-misc/networkmanager:connection-sharing - Use net-dns/dnsmasq and net-firewall/iptables for connection sharing
-net-misc/networkmanager:consolekit - Use sys-auth/consolekit for session tracking
-net-misc/networkmanager:dhclient - Use dhclient from net-misc/dhcp for getting ip
-net-misc/networkmanager:dhcpcd - Use net-misc/dhcpcd for getting ip
-net-misc/networkmanager:elogind - Use sys-auth/elogind for session tracking
-net-misc/networkmanager:iwd - Use net-wireless/iwd instead of net-wireless/wpa_supplicant for wifi support by default
-net-misc/networkmanager:json - Enable JSON validation via dev-libs/jansson in libnm.
-net-misc/networkmanager:modemmanager - Enable support for mobile broadband devices using net-misc/modemmanager
-net-misc/networkmanager:nss - Use dev-libs/nss for cryptography
-net-misc/networkmanager:ofono - Use net-misc/ofono for telephony support.
-net-misc/networkmanager:ovs - Enable OpenVSwitch support
-net-misc/networkmanager:ppp - Enable support for mobile broadband and PPPoE connections using net-dialup/ppp
-net-misc/networkmanager:resolvconf - Use net-dns/openresolv for managing DNS information in /etc/resolv.conf. Generally, a symlink to /run/NetworkManager/resolv.conf is simpler. On systems running systemd-resolved, disable this flag and create a symlink to /run/systemd/resolve/stub-resolv.conf.
-net-misc/networkmanager:teamd - Enable Teamd control support
-net-misc/networkmanager:wext - Enable support for the deprecated Wext (Wireless Extensions) API; needed for some older drivers (e.g. ipw2200, ndiswrapper)
-net-misc/networkmanager:wifi - Enable support for wifi and 802.1x security
 net-vpn/kcptun:server - Enable server side daemon
 net-vpn/udp2raw-tunnel:iptables - include support for iptables filtering
 net-wireless/compat-wireless:injection - Add patches for better wifi injection support
