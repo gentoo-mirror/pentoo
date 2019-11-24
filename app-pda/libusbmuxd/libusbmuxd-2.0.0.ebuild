@@ -1,7 +1,7 @@
-# Copyright 1999-2019 Pentoo Authors
+# Copyright 1999-2019 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI=6
+EAPI=7
 inherit autotools
 
 DESCRIPTION="USB multiplex daemon for use with Apple iPhone/iPod Touch devices"
@@ -10,13 +10,13 @@ SRC_URI="https://github.com/libimobiledevice/libusbmuxd/archive/${PV}.tar.gz -> 
 
 # tools/iproxy.c is GPL-2+, everything else is LGPL-2.1+
 LICENSE="GPL-2+ LGPL-2.1+"
-SLOT="0/2" # based on SONAME of libusbmuxd.so
+SLOT="0/6.0.0" # based on SONAME of libusbmuxd.so
 KEYWORDS="amd64 ~arm ~ppc ~ppc64 x86"
 IUSE="kernel_linux static-libs"
 
-RDEPEND=">=app-pda/libplist-2.1:=
+RDEPEND=">=app-pda/libplist-2.1.0:=
 	virtual/libusb:1
-	!=app-pda/usbmuxd-1.0.9
+	!=app-pda/usbmuxd-1.0.9*
 	!<app-pda/usbmuxd-1.0.8_p1"
 DEPEND="${RDEPEND}
 	virtual/os-headers
@@ -36,4 +36,11 @@ src_configure() {
 	use kernel_linux || myeconfargs+=( --without-inotify )
 
 	econf "${myeconfargs[@]}"
+}
+
+#https://github.com/libimobiledevice/libusbmuxd/issues/84
+src_install() {
+#	DESTDIR="${D}" emake install || die "install failed"
+	default
+	mv "${ED}"/usr/bin/icat "${ED}"/usr/bin/inetcat || die "Copy files failed"
 }
