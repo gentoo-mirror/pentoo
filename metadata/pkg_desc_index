@@ -266,6 +266,7 @@ dev-python/jsonfield 2.0.2: A reusable Django field that allows you to store val
 dev-python/kamene 0.32: Network packet and pcap processing tool, forked from scapy
 dev-python/ldapdomaindump 0.9.1: Active Directory information dumper via LDAP
 dev-python/leather 0.3.3: Python charting for 80% of humans
+dev-python/litecli 1.1.0: CLI for SQLite Databases with auto-completion and syntax highlighting
 dev-python/macholib 1.11: A package is a collection of utilities for dealing with IP addresses.
 dev-python/maxminddb 1.4.1-r1: A Python module for reading MaxMind DB files
 dev-python/mechanize 0.4.3: Stateful programmatic web browsing in Python
@@ -405,7 +406,7 @@ dev-util/lida 03.00.00: interactive ELF disambler
 dev-util/lief 0.9.0_p20190626 0.10.0: Library to instrument executable formats
 dev-util/lief-bin 0.9.0-r1: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
-dev-util/objection 1.7.5 1.8.1: Runtime mobile exploration
+dev-util/objection 1.7.5 1.8.2: Runtime mobile exploration
 dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIPS
 dev-util/pyew 2.0: Hexadecimal viewer and disassembler
 dev-util/qark 0.9_pre20181218 0.9_pre20190405: A tool to look for Android application vulnerabilities
