@@ -9,6 +9,6 @@ LICENSE=MIT
 RDEPEND=!net-analyzer/ffuf-bin
 RESTRICT=strip
 SLOT=0
-SRC_URI=https://github.com/ffuf/ffuf/archive/v0.11.tar.gz -> ffuf-0.11.tar.gz
+SRC_URI=https://github.com/ffuf/ffuf/archive/v0.12.tar.gz -> ffuf-0.12.tar.gz
 _eclasses_=golang-base	c57d2c3f9e1a02d0feb8b87c7b689892	golang-vcs-snapshot	12177e83bede6f7fb87eae383864b40b
 _md5_=8134addc15c9178950d0a2aad78f8887
