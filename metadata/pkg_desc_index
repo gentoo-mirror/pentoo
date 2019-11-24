@@ -430,7 +430,7 @@ net-analyzer/armitage 9999 20150813 20160709: Cyber Attack Management for Metasp
 net-analyzer/armitage-bin 20140818 20141120 20150813: Cyber Attack Management for Metasploit
 net-analyzer/arpantispoofer 1.0.1.32: An utility to detect and resist arp spoofing
 net-analyzer/autoscan-network 1.50: Utility for network exploration with Samba support.
-net-analyzer/bettercap 2.25 2.26: A complete, modular, portable and easily extensible MITM framework
+net-analyzer/bettercap 2.25 2.26 2.26.1: A complete, modular, portable and easily extensible MITM framework
 net-analyzer/blindelephant 9999: generic web application fingerprinter that produces results by examining a small set of static files
 net-analyzer/bolt 0.2.1 9999: CSRF Scanner
 net-analyzer/bonesi 0.3.1 9999: BoNeSi - the DDoS botnet simulator
@@ -441,7 +441,7 @@ net-analyzer/cisco-auditing-tool 1: Perl script which scans cisco routers for co
 net-analyzer/cisco-bruteforce-enabler 1: cisco internal bruteforcer
 net-analyzer/cisco-scanner 1.3: scan a network for cisco routers with default passwords
 net-analyzer/cisco-torch 0.4b: Cisco mass scanning, fingerprinting, and exploitation tool
-net-analyzer/commix 2.8 2.9: Automated All-in-One OS command injection and exploitation tool
+net-analyzer/commix 2.8 2.9 3.0: Automated All-in-One OS command injection and exploitation tool
 net-analyzer/cottontail 20190426: Capture all RabbitMQ messages being sent through a broker
 net-analyzer/crackmapexec 3.1.5-r2 3.1.5_p20190314-r1: A swiss army knife for pentesting Windows/Active Directory environments
 net-analyzer/davtest 1.0: tests WebDAV enabled servers
@@ -457,7 +457,7 @@ net-analyzer/dsniff 2.4-r11: A collection of tools for network auditing and pene
 net-analyzer/enteletaor 1.1.1: Message Queue & Broker Injection tool
 net-analyzer/enum4linux 0.8.9-r1: A tool for enumerating information from Windows and Samba systems
 net-analyzer/evilgrade 2.0.9: A modular framework that takes advantage of poor upgrade implementations by injecting fake updates.
-net-analyzer/ffuf 0.9 0.10: Fast web fuzzer written in Go
+net-analyzer/ffuf 0.10 0.11: Fast web fuzzer written in Go
 net-analyzer/fierce 1.3.0-r1 1.4.0 9999: A DNS reconnaissance tool for locating non-contiguous IP space
 net-analyzer/findomain 0.7.0 0.8.0_beta1 9999: The fastest and cross-platform subdomain enumerator, don't waste your time
 net-analyzer/geoedge 0.2-r2: This little tools is designed to get geolocalization information of a host
