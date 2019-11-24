@@ -70,6 +70,7 @@ app-misc/binwalk:graph - Enable support for generating entropy graphs
 app-misc/binwalk:squashfs - Using sys-fs/sasquatch to extract non-standard SquashFS images
 app-misc/binwalk:ubifs - Using sys-fs/ubi_reader to extract UBIFS file systems
 app-misc/binwalk:yaffs - Using sys-fs/yaffshiv to extract JFFS2 file systems
+app-misc/freediag:gui - Enable scangui using x11-libs/fltk library
 app-misc/mat2:audio - Audio formats support
 dev-libs/libvhdi:fuse - Enable fuse support
 dev-libs/libvmdk:fuse - Enable fuse support
