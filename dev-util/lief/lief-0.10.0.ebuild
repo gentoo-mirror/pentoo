@@ -7,11 +7,9 @@ PYTHON_COMPAT=( python{3_5,3_6,3_7} )
 
 inherit cmake-utils distutils-r1
 
-HASH_COMMIT="f5d152ee92bb243adb4d559da6d081c6c8776977"
-
 DESCRIPTION="Library to instrument executable formats"
 HOMEPAGE="https://lief.quarkslab.com/"
-SRC_URI="https://github.com/lief-project/LIEF/archive/${HASH_COMMIT}.tar.gz -> ${P}.tar.gz"
+SRC_URI="https://github.com/lief-project/LIEF/archive/${PV}.tar.gz -> ${P}.tar.gz"
 
 LICENSE="Apache-2.0"
 SLOT="0"
@@ -27,7 +25,7 @@ REQUIRED_USE="python? ( ${PYTHON_REQUIRED_USE} )"
 
 CMAKE_BUILD_TYPE=
 
-S=${WORKDIR}/LIEF-${HASH_COMMIT}
+S=${WORKDIR}/LIEF-${PV}
 
 wrap_python() {
 	if use python; then
