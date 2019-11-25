@@ -352,7 +352,7 @@ dev-python/yara-python 3.9.0-r1 3.10.0-r1: Python interface for a malware identi
 dev-python/yaswfp 0.9.3: Yet Another SWF Parser.
 dev-python/zap-api-python 0.0.9 0.0.14: OWASP ZAP Python API
 dev-python/zlib_wrapper 0.1.3: Wrapper around zlib with custom header crc32.
-dev-qt/qtserialport 5.12.3 5.12.4 5.12.5 5.13.1: Serial port abstraction library for the Qt5 framework
+dev-qt/qtserialport 5.12.5 5.13.2: Serial port abstraction library for the Qt5 framework
 dev-ruby/activerecord-session_store 1.1.1 1.1.3: An Action Dispatch session store backed by an Active Record class
 dev-ruby/ckeditor_rails 4.8.0 4.10.0: CKEditor is a javascript library of the WYSIWYG rich-text editor
 dev-ruby/cms_scanner 0.5.5 0.5.8 0.6.0: Framework to provide an easy way to implement CMS Scanners
@@ -623,7 +623,7 @@ net-wireless/crda 1.1.0-r1 1.1.1: Central Regulatory Domain Agent for wireless n
 net-wireless/create_ap 0.4.6: A script to create a NATed or bridged WiFi access point
 net-wireless/dsd 1.6.0 9999: Digital Speech Decoder
 net-wireless/eaphammer 1.9 1.12.0: Targeted evil twin attacks against WPA2-Enterprise networks
-net-wireless/editcp-bin 1.0.16: 
+net-wireless/editcp-bin 1.0.16 1.0.18: 
 net-wireless/fern-wifi-cracker 2.9 3.0: Wireless tool for WEP/WPA cracking and WPS keys recovery
 net-wireless/fosphor_knob 0.9: A visualization we use for the Wireless Village
 net-wireless/gps-sdr-sim 9999: GPS Spoofing tool for transmit capable SDR's like the HackRF, bladeRF and USRP
