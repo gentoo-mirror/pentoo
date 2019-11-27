@@ -392,7 +392,7 @@ dev-util/ati-stream-sdk-bin 2.01 2.2 2.3: Enable compiling code and loading it o
 dev-util/bokken 1.8-r1: GUI for the Pyew malware analysis and Radare the reverse engineering framework
 dev-util/calpp 0.90-r1: A library for efficient use of ATI CAL with C++
 dev-util/collabreate 0.4.0_p20140528: A plugin for IDA Pro designed to provide collaborative reverse engineering
-dev-util/dependency-check-bin 5.1.0 5.2.1: A utility that detects vulnerabilities in application dependencies
+dev-util/dependency-check-bin 5.1.0 5.2.1 5.2.4: A utility that detects vulnerabilities in application dependencies
 dev-util/dex2jar 2.1_pre20150601 2.1_pre20180402: Tools to work with android .dex and java .class files
 dev-util/electron-bin 5.0.3: Cross platform application development framework based on web technologies
 dev-util/electron-packager 13.0.1 14.0.1: Six Degrees of Domain Admin
