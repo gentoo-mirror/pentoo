@@ -681,6 +681,7 @@ net-wireless/rtl8812au 4.2.5 4.3.1.4 4.3.14_p20190827 5.2.9_p20180327 5.2.20.2_p
 net-wireless/rtl8812au_aircrack-ng 5.2.20_p20191030 5.3.4_p20191030 9999: RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection
 net-wireless/rtl8812au_astsam 4.3.21_p20170324 9999: Driver for AC1200 (801.11ac) Wireless Dual-Band USB Adapter
 net-wireless/rtl8812au_asus 4.3.2_p20150929 4.3.2_p20160101 4.3.2_p20170702: Linux kernel module for ASUS USB-AC56
+net-wireless/rtl8822bu 9999: RTL88x2BU driver with monitor mode and frame injection
 net-wireless/rx_tools 1.0.3-r1 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
 net-wireless/ska 0.2: Fake Shared Key Authentication
 net-wireless/sniffair 1.1 3.0: SniffAir framework for wireless pentesting

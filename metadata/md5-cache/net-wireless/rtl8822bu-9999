@@ -1,0 +1,13 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile install postinst postrm preinst prepare setup unpack
+DEPEND=kernel_linux? ( virtual/modutils ) sys-apps/sed kernel_linux? ( virtual/linux-sources virtual/libelf )
+DESCRIPTION=RTL88x2BU driver with monitor mode and frame injection
+EAPI=7
+HOMEPAGE=https://github.com/EntropicEffect/rtl8822bu.git
+IUSE=kernel_linux kernel_linux kernel_linux
+LICENSE=GPL-2
+PROPERTIES=live
+RDEPEND=kernel_linux? ( virtual/modutils )
+SLOT=0
+_eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5	git-r3	562b380fc59ae6a8622171d0acb777d1	linux-info	953c3b1c472dcadbf62098a9301327f2	linux-mod	6c7b3e7b9d39bd049bf23a991c16315e	multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
+_md5_=81b789c8eeb62dbb53487a7dd7f9cd07
