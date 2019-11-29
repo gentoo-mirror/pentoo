@@ -247,7 +247,7 @@ dev-python/frida-python 12.6.23 12.7.4 12.7.5: Dynamic instrumentation toolkit f
 dev-python/geoip2-python 2.8.0: Python bindings for GeoIP2
 dev-python/google-api-python-client 1.7.9: Google API Client for Python
 dev-python/googlesearch 20181112-r1: Google search from Python
-dev-python/gpapi 0.4.3: Unofficial python api for google play
+dev-python/gpapi 0.4.3 0.4.4: Unofficial python api for google play
 dev-python/grequests 0.4.0: Use Requests with Gevent to make asyncronous HTTP Requests easily
 dev-python/guess-language 0.2 0.5.2: Guess the natural language of a text
 dev-python/halberd 0.2.4-r1: HTTP load balancer detector
