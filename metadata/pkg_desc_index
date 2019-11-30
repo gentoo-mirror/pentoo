@@ -12,6 +12,7 @@ app-crypt/asleap 2.2_p20160730: Cisco LEAP and Generic MS-CHAPv2 Dictionary Atta
 app-crypt/bob-the-butcher 0.7.1: A distributed password cracker
 app-crypt/bruteforce-luks 1.3.1 1.3.2 9999: A bruteforce cracker for LUKS encrypted volumes
 app-crypt/bruteforce-salted-openssl 1.4.2: A bruteforce cracker for openssl encrypted files
+app-crypt/bruteforce-wallet 1.5.2: Try to find the password of an encrypted Peercoin (or Bitcoin, Litecoin, etc...) wallet file
 app-crypt/cryptohaze-combined 1.31: GPU and OpenCL accelerated password auditing tools for security professionals
 app-crypt/cuda-rarcrypt 3.2-r1: A Nvidia GPU-based RAR bruteforcer
 app-crypt/elfcrypt 20190526 99999999: A Simple ELF crypter
