@@ -33,8 +33,8 @@ app-emulation/qemu-charm 0.13.0: QEMU arm user-land emulation for CHroot ARM set
 app-exploits/ROPgadget 5.9-r4: Tool to search for gadgets in binaries to facilitate your ROP exploitation
 app-exploits/deathstar 20180722: A tool to gain Domain Admin rights with a push of a button
 app-exploits/empire 2.5-r2: A post-exploitation framework
-app-exploits/exploitdb 20191114 99999999: All exploits from exploit-db.com
-app-exploits/exploitdb-papers 20191114 99999999: Exploit database's papers
+app-exploits/exploitdb 20191203 99999999: All exploits from exploit-db.com
+app-exploits/exploitdb-papers 20191203 99999999: Exploit database's papers
 app-exploits/getsploit 0.3.3_p20190531 9999: Command line utility for searching and downloading exploits
 app-exploits/linenum 20191028 99999999: Local Linux enumeration and privilege escalation checker
 app-exploits/linux-exploit-suggester 20140519 99999999: Linux Exploit Suggester based on operating system release number
