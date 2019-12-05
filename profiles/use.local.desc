@@ -71,7 +71,8 @@ app-misc/binwalk:squashfs - Using sys-fs/sasquatch to extract non-standard Squas
 app-misc/binwalk:ubifs - Using sys-fs/ubi_reader to extract UBIFS file systems
 app-misc/binwalk:yaffs - Using sys-fs/yaffshiv to extract JFFS2 file systems
 app-misc/freediag:gui - Enable scangui using x11-libs/fltk library
-app-misc/mat2:audio - Audio formats support
+app-misc/mat2:dolphin - Enable dolphin extension
+app-misc/mat2:nautilus - Enable nautilus extension
 dev-libs/libvhdi:fuse - Enable fuse support
 dev-libs/libvmdk:fuse - Enable fuse support
 dev-libs/qbdi:tools - Enable advanced tools
