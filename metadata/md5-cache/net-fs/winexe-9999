@@ -3,10 +3,10 @@ DEPEND=net-libs/gnutls dev-libs/popt dev-libs/cyrus-sasl dev-util/mingw64-runtim
 DESCRIPTION=remotely execute commands on Windows NT/2000/XP/2003 systems, with lmhash passthrough support
 EAPI=5
 HOMEPAGE=http://sourceforge.net/projects/winexe/
-IUSE=+static python_targets_python2_7
+IUSE=+static +python_single_target_python2_7
 LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=net-libs/gnutls dev-libs/popt dev-libs/cyrus-sasl dev-util/mingw64-runtime dev-libs/libbsd !static? ( >=net-fs/samba-4.0.0 )
 SLOT=0
-_eclasses_=desktop	b1d22ac8bdd4679ab79c71aca235009d	epatch	a1bf4756dba418a7238f3be0cb010c54	estack	686eaab303305a908fd57b2fd7617800	eutils	fcb2aa98e1948b835b5ae66ca52868c5	git-2	3aabf18eba60687bbe6855eba271f688	ltprune	2729691420b6deeda2a90b1f1183fb55	multilib	1d91b03d42ab6308b5f4f6b598ed110e	preserve-libs	ef207dc62baddfddfd39a164d9797648	python-single-r1	3a0fc81f484bfdbd9c2b7448015a36e4	python-utils-r1	02ef27875ec5afcc2202b9d062d57f07	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c	vcs-clean	2a0f74a496fa2b1552c4f3398258b7bf
+_eclasses_=desktop	b1d22ac8bdd4679ab79c71aca235009d	epatch	a1bf4756dba418a7238f3be0cb010c54	estack	686eaab303305a908fd57b2fd7617800	eutils	fcb2aa98e1948b835b5ae66ca52868c5	git-2	3aabf18eba60687bbe6855eba271f688	ltprune	2729691420b6deeda2a90b1f1183fb55	multilib	1d91b03d42ab6308b5f4f6b598ed110e	preserve-libs	ef207dc62baddfddfd39a164d9797648	python-single-r1	4de31a18344a72217ca7cc04ec6d1f8e	python-utils-r1	f7aef159261e9835066ddf8d3a0e3487	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c	vcs-clean	2a0f74a496fa2b1552c4f3398258b7bf
 _md5_=9c57f25f7c79453b8b65f31342e5b64b

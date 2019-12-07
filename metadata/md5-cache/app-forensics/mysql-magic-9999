@@ -5,5 +5,5 @@ EAPI=7
 HOMEPAGE=https://github.com/hc0d3r/mysql-magic
 PROPERTIES=live
 SLOT=0
-_eclasses_=git-r3	562b380fc59ae6a8622171d0acb777d1
+_eclasses_=git-r3	6d22636df236df4cc8475f7b7668bdcd
 _md5_=c423f7b9ed8a8cde5eb538013456eb33
