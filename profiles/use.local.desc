@@ -76,8 +76,6 @@ app-misc/mat2:nautilus - Enable nautilus extension
 dev-libs/libvhdi:fuse - Enable fuse support
 dev-libs/libvmdk:fuse - Enable fuse support
 dev-libs/qbdi:tools - Enable advanced tools
-dev-python/kamene:graphs - Enable dev-python/networkx support for draw network graphs
-dev-python/kamene:pyx - Enable dev-python/pyx support for psdump/pdfdump commands
 net-analyzer/greenbone-security-assistant:extras - Pdf results, extra fonts, html docs support
 net-analyzer/gvm:cli - Command Line Interface for OpenVAS Scanner
 net-analyzer/gvm:cron - A cron job to update GVM's vulnerability feeds daily
