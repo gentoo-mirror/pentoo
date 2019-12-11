@@ -735,7 +735,6 @@ sys-apps/become 1.0 1.0-r1: utility for changing the current real, effective or 
 sys-apps/magic-pax 0.0.1: 
 sys-apps/razercfg 0.40 0.41: Utility for advanced configuration of Razer mice
 sys-apps/usbguard 0.7.4 0.7.5: The USBGuard software framework helps to protect your computer against BadUSB.
-sys-boot/grub-static 0.97-r9 0.97-r10: GNU GRUB Legacy boot loader (static build)
 sys-devel/autofdo 0.18 0.19 9999: System to simplify real-world deployment of feedback-directed optimization
 sys-devel/gcc-arm-none-eabi 8.2019.3-r2 9.2019.4: GNU Arm Embedded Toolchain
 sys-devel/gdb-dashboard 0.11.1 9999: Modular visual interface for GDB in Python
