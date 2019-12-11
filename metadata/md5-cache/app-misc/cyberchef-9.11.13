@@ -6,6 +6,6 @@ KEYWORDS=~amd64 ~arm64 ~x86
 LICENSE=Apache-2.0
 RDEPEND=app-arch/unzip x11-misc/xdg-utils
 SLOT=0
-SRC_URI=https://github.com/gchq/CyberChef/releases/download/v9.11.11/CyberChef_v9.11.11.zip -> cyberchef-9.11.11.zip
+SRC_URI=https://github.com/gchq/CyberChef/releases/download/v9.11.13/CyberChef_v9.11.13.zip -> cyberchef-9.11.13.zip
 _eclasses_=desktop	b1d22ac8bdd4679ab79c71aca235009d	eutils	fcb2aa98e1948b835b5ae66ca52868c5	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
 _md5_=a743b4fcbe83dc38fe7f57bbe15b594f
