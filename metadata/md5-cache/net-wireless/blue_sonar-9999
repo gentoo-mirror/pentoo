@@ -7,5 +7,5 @@ LICENSE=BSD-4
 PDEPEND=net-wireless/bluez
 PROPERTIES=live
 SLOT=0
-_eclasses_=git-r3	6d22636df236df4cc8475f7b7668bdcd
+_eclasses_=git-r3	7d6c351ee8b1feb12ed8c8b0adae088b
 _md5_=e25f896df03c071ee6ee35732fbf5fcd

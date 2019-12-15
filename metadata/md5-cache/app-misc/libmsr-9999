@@ -6,5 +6,5 @@ HOMEPAGE=https://github.com/ioerror/libmsr
 KEYWORDS=~x86 ~amd64
 PROPERTIES=live
 SLOT=0
-_eclasses_=git-r3	6d22636df236df4cc8475f7b7668bdcd
+_eclasses_=git-r3	7d6c351ee8b1feb12ed8c8b0adae088b
 _md5_=386a04bea4e8cc658f0622792d1f3c40
