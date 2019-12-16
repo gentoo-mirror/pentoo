@@ -427,7 +427,7 @@ gnome-base/libgnomeui 2.24.5-r4: User Interface routines for Gnome
 media-libs/mbelib 1.2.5 1.3.0 9999: P25 Phase 1 and ProVoice vocoder
 media-sound/g72x++ 1: Decoder for the g72x++ codec, commonly used by DECT phones
 net-analyzer/GyoiThon 9999: GyoiThon is a growing penetration test tool using Machine Learning
-net-analyzer/WhatWaf 1.9: Detect and bypass web application firewalls and protection systems
+net-analyzer/WhatWaf 1.9 1.9_p20191216: Detect and bypass web application firewalls and protection systems
 net-analyzer/amass 3.0.27-r1 3.1.6 3.1.9 3.4.0: Subdomain OSINT Enumeration
 net-analyzer/aquatone 1.7.0-r1: A Tool for Domain Flyovers
 net-analyzer/arachni-bin 1.5.1: Web Application Security Scanner Framework
@@ -525,7 +525,7 @@ net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
 net-analyzer/sslstrip 0.9-r2 0.9.2: sslstrip remove https and forwards http
 net-analyzer/sslyze 2.0.6 2.1.3 2.1.4: Fast and full-featured SSL scanner
 net-analyzer/subdomainer 1.3-r2: This script will search in Google, Msn.search and Yahoo for subdomains related to the target domain
-net-analyzer/subfinder 1.2_p20190226-r1: subdomain discovery tool that discovers valid subdomains for websites
+net-analyzer/subfinder 2.2.4: subdomain discovery tool that discovers valid subdomains for websites
 net-analyzer/subjack 2.1: Subdomain Takeover tool written in Go
 net-analyzer/sublert 1.4.7_p20190810: Monitor new subdomains deployed by specific organizations and issued TLS/SSL certificate
 net-analyzer/sublist3r 1.0_p20181016: Enumerate subdomains of websites using OSINT
