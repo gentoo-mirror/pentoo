@@ -409,7 +409,7 @@ dev-util/lida 03.00.00: interactive ELF disambler
 dev-util/lief 0.9.0_p20190626 0.10.0 0.10.1: Library to instrument executable formats
 dev-util/lief-bin 0.9.0-r1: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
-dev-util/objection 1.7.5 1.8.2 1.8.3: Runtime mobile exploration
+dev-util/objection 1.7.5 1.8.3: Runtime mobile exploration
 dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIPS
 dev-util/pyew 2.0: Hexadecimal viewer and disassembler
 dev-util/qark 0.9_pre20181218 0.9_pre20190405: A tool to look for Android application vulnerabilities
@@ -735,7 +735,7 @@ sci-electronics/migen 0.7: A Python toolbox for building complex digital hardwar
 sci-electronics/pcie_injector 20180527: Information gathering tool designed for extracting metadata of public documents
 sys-apps/become 1.0 1.0-r1: utility for changing the current real, effective or group id
 sys-apps/magic-pax 0.0.1: 
-sys-apps/razercfg 0.40 0.41: Utility for advanced configuration of Razer mice
+sys-apps/razercfg 0.41: Utility for advanced configuration of Razer mice
 sys-apps/usbguard 0.7.4 0.7.5: The USBGuard software framework helps to protect your computer against BadUSB.
 sys-devel/autofdo 0.18 0.19 9999: System to simplify real-world deployment of feedback-directed optimization
 sys-devel/gcc-arm-none-eabi 8.2019.3-r2 9.2019.4: GNU Arm Embedded Toolchain
