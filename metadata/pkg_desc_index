@@ -35,7 +35,7 @@ app-exploits/deathstar 20180722: A tool to gain Domain Admin rights with a push 
 app-exploits/empire 2.5-r2: A post-exploitation framework
 app-exploits/exploitdb 20191203 99999999: All exploits from exploit-db.com
 app-exploits/exploitdb-papers 20191203 99999999: Exploit database's papers
-app-exploits/getsploit 0.3.3_p20190531 9999: Command line utility for searching and downloading exploits
+app-exploits/getsploit 0.3.3_p20190531 0.3.3_p20190531-r1 9999: Command line utility for searching and downloading exploits
 app-exploits/linenum 20191028 99999999: Local Linux enumeration and privilege escalation checker
 app-exploits/linux-exploit-suggester 20140519 99999999: Linux Exploit Suggester based on operating system release number
 app-exploits/linuxprivchecker 20160302 99999999: A Linux Privilege Escalation Check Script
@@ -345,7 +345,7 @@ dev-python/tre-python 0.8.0: Python bidings for TRE library
 dev-python/truffleHogRegexes 20190518: These are the regexes that power trufflehog
 dev-python/validators 0.14.0: Python Data Validation for Humans
 dev-python/vulndb 0.1.1: Python SDK to access the vulnerability database
-dev-python/vulners 1.5.2 1.5.4: Python API wrapper for the Vulners Database
+dev-python/vulners 1.5.4: Python API wrapper for the Vulners Database
 dev-python/w3lib 1.20.0: Library of web-related functions
 dev-python/wsgiref 0.1.2: WSGI (PEP 333) Reference Library
 dev-python/yamllint 1.17.0: A linter for YAML files
