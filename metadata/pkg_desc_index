@@ -82,7 +82,7 @@ app-forensics/rekall-core 9999: Rekall Memory Forensic Framework
 app-forensics/rekall-gui 9999: Rekall Memory Forensic Framework
 app-forensics/s3tk 0.2.0 9999: A security toolkit for Amazon S3
 app-forensics/samhain 4.3.1 4.3.2 4.3.3: Advanced file integrity and intrusion detection tool.
-app-forensics/scap-security-guide 0.1.45 0.1.46: Security compliance content in SCAP, Bash, Ansible, and other formats
+app-forensics/scap-security-guide 0.1.46 0.1.47: Security compliance content in SCAP, Bash, Ansible, and other formats
 app-forensics/scap-workbench 1.2.0-r1: SCAP Scanner And Tailoring Graphical User Interface
 app-forensics/spiderfoot 2.12.0: The most complete OSINT collection and reconnaissance tool
 app-forensics/stegdetect 0.6 0.6-r1: A Steganography detector for JPEG
@@ -244,7 +244,7 @@ dev-python/filebytes 0.10.0: Classes to parse the following file formats
 dev-python/flask-caching 1.7.2: Continuation of the Flask-Cache Extension
 dev-python/flask-jwt 0.3.2: JWT (JSON Web Tokens) for Flask applications
 dev-python/flask-jwt-extended 3.18.2 3.22.0 3.23.0: An open source Flask extension that provides JWT support
-dev-python/frida-python 12.6.23 12.7.4 12.7.5: Dynamic instrumentation toolkit for reverse-engineers and security researchers
+dev-python/frida-python 12.7.5 12.8.0: Dynamic instrumentation toolkit for reverse-engineers and security researchers
 dev-python/geoip2-python 2.8.0: Python bindings for GeoIP2
 dev-python/google-api-python-client 1.7.9: Google API Client for Python
 dev-python/googlesearch 20181112-r1: Google search from Python
@@ -400,7 +400,7 @@ dev-util/dex2jar 2.1_pre20150601 2.1_pre20180402: Tools to work with android .de
 dev-util/electron-bin 5.0.3: Cross platform application development framework based on web technologies
 dev-util/electron-packager 13.0.1 14.0.1: Six Degrees of Domain Admin
 dev-util/emilpro 3_p20170708 3_p20180111: Graphical disassembler for a large number of instruction sets
-dev-util/frida-tools 1.2.3 2.0.1 2.1.1 4.0.0 5.0.1 5.1.0: Frida CLI tools
+dev-util/frida-tools 5.1.0 5.3.0: Frida CLI tools
 dev-util/ghidra 9.0.2-r2 9.0.4 9.1: A software reverse engineering framework
 dev-util/hexd 1.10: Eric Raymond's hex dumper
 dev-util/jadx-bin 1.0.0 1.1.0: A standalone graphical utility that displays Java source codes of .class file
