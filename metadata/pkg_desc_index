@@ -61,7 +61,7 @@ app-forensics/lazagne 2.4.3 9999: Credentials recovery project
 app-forensics/libbfio 20180910 20190112: Library for providing a basic file input/output abstraction layer
 app-forensics/libforensic1394 0.2-r1 9999: Library for carrying out memory forensics using firewire/ieee1394
 app-forensics/libpff 20161119 20180714: Library for accessing Personal Folder Files
-app-forensics/libvshadow 20181216 20190127 20190323: Library and tools to support the Volume Shadow Snapshot (VSS) format.
+app-forensics/libvshadow 20181216 20190127 20190323 20191221: Library and tools to support the Volume Shadow Snapshot (VSS) format.
 app-forensics/linen 61: Encase's linen utility
 app-forensics/make-pdf 0.1.7-r1: This tool will embed javascript inside a PDF document
 app-forensics/maltego 4.2.6.12502 4.2.7.12570: Visualise, map and mine data
@@ -158,28 +158,28 @@ dev-libs/LeechCore 1.0 1.2 1.2.2 1.5: Direct Memory Access (DMA) Attack Software
 dev-libs/hashdb 3.1.0-r1: The hashdb block hash database tool and API
 dev-libs/libcdata 20180102 20180724 20181216 20190112: Library for cross-platform C generic data functions
 dev-libs/libcdatetime 20170609 20181004: Library for cross-platform C date and time functions
-dev-libs/libcerror 20180102 20180728 20181117: Library for cross-platform C error functions
+dev-libs/libcerror 20181117 20191112: Library for cross-platform C error functions
 dev-libs/libcfile 20180102 20190314: Library for cross-platform C file functions
 dev-libs/libclocale 20170105 20180721: Library for cross-platform C locale functions
-dev-libs/libcnotify 20180102: Library for cross-platform C notification functions
+dev-libs/libcnotify 20180102 20191109: Library for cross-platform C notification functions
 dev-libs/libcpath 20171210 20180720 20181228: Library for cross-platform C path functions
 dev-libs/libcsplit 20180103 20190102: Library for cross-platform C split string functions
 dev-libs/libcstring 20150101: Library for cross-platform C string functions
 dev-libs/libcsystem 20150629: Library for cross-platform C locale functions
 dev-libs/libcthreads 20170101 20180724: Library for cross-platform C threads functions
-dev-libs/libdwarf 20190529 20191002: The DWARF Debugging Information Format
+dev-libs/libdwarf 20190529 20191002 20191104: The DWARF Debugging Information Format
 dev-libs/libfcache 20170111 20181011: Library for cross-platform C cache functions
 dev-libs/libfdata 20170112 20181124 20190811: Library for cross-platform C file data functions
 dev-libs/libfdatetime 20180910: Library for date and time formats
 dev-libs/libfguid 20180219 20180724: Library for GUID/UUID format
 dev-libs/libfmapi 20170112 20180714: Library for MAPI data types
 dev-libs/libfvalue 20180817 20190626: Library for generic file value functions
-dev-libs/libfwnt 20181215 20181227: Library for Windows NT data types
+dev-libs/libfwnt 20181215 20181227 20191222: Library for Windows NT data types
 dev-libs/libguytools2 2.0.5-r1 2.1.0: Library for guymager
 dev-libs/libsmdev 20190315: Library to access to storage media device
 dev-libs/libuna 20181006 20190102: Library to support Unicode and ASCII (byte string) conversions
-dev-libs/libvhdi 20181227: Library and tools to access the Virtual Hard Disk (VHD) image format
-dev-libs/libvmdk 20181227: Library and tools to access the VMware Virtual Disk (VMDK) format
+dev-libs/libvhdi 20181227 20191221: Library and tools to access the Virtual Hard Disk (VHD) image format
+dev-libs/libvmdk 20181227 20191221: Library and tools to access the VMware Virtual Disk (VMDK) format
 dev-libs/openssl-bad 1.0.2_p20180915 1.0.2_p20190119: Snapshot for testssl.sh >2.8 from PM's fork, ready to compile
 dev-libs/qbdi 0.7.0: A Dynamic Binary Instrumentation framework based on LLVM
 dev-libs/radare2-bindings 3.3.0 3.6.0 4.0.0: Language bindings for radare2

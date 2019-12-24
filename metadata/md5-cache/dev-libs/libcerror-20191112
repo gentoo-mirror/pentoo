@@ -8,5 +8,5 @@ KEYWORDS=~amd64 ~arm ~arm64 ~x86
 LICENSE=LGPL-3
 RDEPEND=nls? ( virtual/libiconv virtual/libintl )
 SLOT=0
-SRC_URI=https://github.com/libyal/libcerror/releases/download/20180728/libcerror-beta-20180728.tar.gz
-_md5_=9664ed0c1a1026a0b0a69807f7236e93
+SRC_URI=https://github.com/libyal/libcerror/releases/download/20191112/libcerror-beta-20191112.tar.gz
+_md5_=82d1e7eb9884370e08856a2118f35f46
