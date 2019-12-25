@@ -738,7 +738,7 @@ sci-electronics/pcie_injector 20180527: Information gathering tool designed for 
 sys-apps/become 1.0 1.0-r1: utility for changing the current real, effective or group id
 sys-apps/magic-pax 0.0.1: 
 sys-apps/razercfg 0.41: Utility for advanced configuration of Razer mice
-sys-apps/usbguard 0.7.4 0.7.5: The USBGuard software framework helps to protect your computer against BadUSB.
+sys-apps/usbguard 0.7.4 0.7.5 0.7.6: The USBGuard software framework helps to protect your computer against BadUSB.
 sys-devel/autofdo 0.18 0.19 9999: System to simplify real-world deployment of feedback-directed optimization
 sys-devel/gcc-arm-none-eabi 8.2019.3-r2 9.2019.4: GNU Arm Embedded Toolchain
 sys-devel/gdb-dashboard 0.11.1 9999: Modular visual interface for GDB in Python
