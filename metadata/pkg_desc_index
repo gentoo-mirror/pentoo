@@ -9,7 +9,6 @@ app-arch/upx-ucl 3.95: Ultimate Packer for eXecutables (free version using UCL c
 app-crypt/SIPcrack 0.4-r1: SIPcrack is a SIP protocol login cracker
 app-crypt/acsccid 1.1.7: Generic driver for ACS (CCID and non-CCID) Smart Card Reader
 app-crypt/asleap 2.2_p20160730: Cisco LEAP and Generic MS-CHAPv2 Dictionary Attack
-app-crypt/bob-the-butcher 0.7.1: A distributed password cracker
 app-crypt/bruteforce-luks 1.3.1 1.3.2 1.4.0 9999: A bruteforce cracker for LUKS encrypted volumes
 app-crypt/bruteforce-salted-openssl 1.4.2: A bruteforce cracker for openssl encrypted files
 app-crypt/bruteforce-wallet 1.5.2: Try to find the password of an encrypted Peercoin (or Bitcoin, Litecoin, etc...) wallet file
@@ -558,7 +557,6 @@ net-im/jitsi-bin 2.10.5550 2.11.5602: Secure IM communicator that supports SIP, 
 net-libs/libpfring 7.0.0 7.2.0 7.4.0: A new type of network socket that improves packet capture speed.
 net-libs/libtins 4.1 4.2: High-level, multiplatform C++ network packet sniffing and crafting library.
 net-libs/libvidcap 0.2.1: a cross-platform library for capturing video from webcams and other video capture devices
-net-libs/nDPI 2.8: Open Source Deep Packet Inspection Software Toolkit
 net-mail/davmail-bin 4.7.3 5.2.0.2961 5.3.0.3065 5.3.1.3079 5.4.0.3135: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
 net-mail/email2phonenumber 20190816 99999999: A OSINT tool to obtain a target's phone number just by having his email address
 net-mail/fakepop 11: fake pop3 server which returns the same messages to all users
@@ -699,7 +697,7 @@ net-wireless/wifite 2.2.5-r3 9999: An automated wireless attack tool
 net-wireless/wireless-regdb 20090130-r1 20090309 20090817 20091125 20091125-r1: Binary regulatory database for CRDA
 net-wireless/wpa_sycophant 1.0 9999: Evil client portion of EAP relay attack
 pentoo/pentoo 2015.1: Pentoo meta ebuild to install all apps
-pentoo/pentoo-analyzer 2019.3: Pentoo analyzers meta ebuild
+pentoo/pentoo-analyzer 2019.4: Pentoo analyzers meta ebuild
 pentoo/pentoo-bluetooth 2019.2: Pentoo bluetooth meta ebuild
 pentoo/pentoo-cinnamon 2018.2: Pentoo cinnamon meta ebuild
 pentoo/pentoo-cracking 2019.3: Pentoo cracking meta ebuild
