@@ -290,7 +290,7 @@ dev-python/pyaml 19.4.1: A module to produce pretty and readable YAML-serialized
 dev-python/pyaxmlparser 0.3.24: Parser for Android XML file and get Application Name without using Androguard
 dev-python/pybonjour 1.1.1: Python interface to Apple Bonjour and compatible DNS-SD libraries (Avahi)
 dev-python/pycopy-binascii 2.4.0: A part of standard library of the Pycopy project
-dev-python/pycryptodomex 3.9.0: A self-contained cryptographic library for Python
+dev-python/pycryptodomex 3.9.0 3.9.4: A self-contained cryptographic library for Python
 dev-python/pydot 1.4.1: Python interface to Graphviz's Dot language
 dev-python/pygexf 0.2.2: A python library to generate gexf file format
 dev-python/pygtail 0.11.0: Reads log file lines that have not been read
@@ -403,7 +403,7 @@ dev-util/frida-tools 5.1.0 5.3.0: Frida CLI tools
 dev-util/ghidra 9.1 9.1.1: A software reverse engineering framework
 dev-util/hexd 1.10: Eric Raymond's hex dumper
 dev-util/jadx-bin 1.0.0 1.1.0: A standalone graphical utility that displays Java source codes of .class file
-dev-util/jd-gui 1.6.3 1.6.5: A standalone Java Decompiler GUI
+dev-util/jd-gui 1.6.3 1.6.5 1.6.6: A standalone Java Decompiler GUI
 dev-util/lida 03.00.00: interactive ELF disambler
 dev-util/lief 0.9.0_p20190626 0.10.0 0.10.1: Library to instrument executable formats
 dev-util/lief-bin 0.9.0-r1: Library to instrument executable formats
