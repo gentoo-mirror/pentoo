@@ -19,9 +19,9 @@ SLOT="0"
 KEYWORDS="~amd64"
 IUSE=""
 
-RDEPEND=">=virtual/jre-1.8"
+RDEPEND=">=virtual/jre-1.8:*"
 DEPEND="${RDEPEND}
-	>=virtual/jdk-11
+	>=virtual/jdk-11:*
 	dev-java/gradle-bin:5.2.1
 	sys-devel/bison
 	dev-java/jflex
