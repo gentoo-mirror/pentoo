@@ -400,7 +400,7 @@ dev-util/electron-bin 5.0.3: Cross platform application development framework ba
 dev-util/electron-packager 13.0.1 14.0.1: Six Degrees of Domain Admin
 dev-util/emilpro 3_p20170708 3_p20180111: Graphical disassembler for a large number of instruction sets
 dev-util/frida-tools 5.1.0 5.3.0: Frida CLI tools
-dev-util/ghidra 9.0.2-r2 9.0.4 9.1: A software reverse engineering framework
+dev-util/ghidra 9.1 9.1.1: A software reverse engineering framework
 dev-util/hexd 1.10: Eric Raymond's hex dumper
 dev-util/jadx-bin 1.0.0 1.1.0: A standalone graphical utility that displays Java source codes of .class file
 dev-util/jd-gui 1.6.3 1.6.5: A standalone Java Decompiler GUI
@@ -528,7 +528,7 @@ net-analyzer/subfinder 2.2.4: subdomain discovery tool that discovers valid subd
 net-analyzer/subjack 2.1: Subdomain Takeover tool written in Go
 net-analyzer/sublert 1.4.7_p20190810: Monitor new subdomains deployed by specific organizations and issued TLS/SSL certificate
 net-analyzer/sublist3r 1.0_p20181016: Enumerate subdomains of websites using OSINT
-net-analyzer/termshark 1.0.0 2.0.2 9999: A terminal UI for tshark, inspired by Wireshark
+net-analyzer/termshark 1.0.0 2.0.2 2.0.3 9999: A terminal UI for tshark, inspired by Wireshark
 net-analyzer/testssl 3.0_rc5-r1 3.0_rc6: Tool to check TLS/SSL cipher support
 net-analyzer/thc-pptp-bruter 0.1.4: A brute force program that works against pptp vpn endpoints
 net-analyzer/thc-ssl-dos 1.4: THC-SSL-DOS is a tool to verify the performance of SSL servers
