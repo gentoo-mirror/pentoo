@@ -12,5 +12,5 @@ REQUIRED_USE=|| ( ruby_targets_ruby24 ruby_targets_ruby25 )
 RESTRICT=!test? ( test ) !test? ( test )
 SLOT=0
 SRC_URI=https://rubygems.org/gems/pdfwalker-1.0.0.gem
-_eclasses_=desktop	b1d22ac8bdd4679ab79c71aca235009d	estack	686eaab303305a908fd57b2fd7617800	multilib	1d91b03d42ab6308b5f4f6b598ed110e	ruby-fakegem	cca036a1477f29b926bf994faddf4099	ruby-ng	5ad91e467b477000267afdeea4a7093e	ruby-utils	f627053d640d7e6707b566d26472f1a5	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_eclasses_=desktop	b1d22ac8bdd4679ab79c71aca235009d	estack	686eaab303305a908fd57b2fd7617800	multilib	1d91b03d42ab6308b5f4f6b598ed110e	ruby-fakegem	cca036a1477f29b926bf994faddf4099	ruby-ng	5ad91e467b477000267afdeea4a7093e	ruby-utils	cdb4c1e4283adb7707b7dd48ccaa7ad2	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
 _md5_=5020a93a835c34a92d1053f0f5b2b483
