@@ -41,6 +41,7 @@ app-exploits/linuxprivchecker 20160302 99999999: A Linux Privilege Escalation Ch
 app-exploits/packetstormexploits 2012.12 2013.12 2014.12 2015.12 2016.12 2017.12 2018.12 2019.07: Archive of packetstorm exploits
 app-exploits/packetstormexploits-meta 2019: Meta ebuild of packetstorm exploits
 app-exploits/pwntools 3.13.0-r1: CTF framework and exploit development library
+app-exploits/ropper 1.13.3-r2 1.13.5 9999: Use to display information about binary files in different file formats
 app-exploits/routersploit 3.4.0-r1 9999: An open-source exploitation framework dedicated to embedded devices
 app-exploits/the-backdoor-factory 3.4.2-r2: BDF allows to patch executable binaries with user desired shellcode
 app-exploits/unix-privesc-check 20170904 99999999: Shell script to check for simple privilege escalation vectors
@@ -743,7 +744,6 @@ sys-devel/gdb-dashboard 0.11.1 9999: Modular visual interface for GDB in Python
 sys-devel/gef 20190408-r1 99999999: A GDB Enhanced Features for exploit devs & reversers
 sys-devel/peda 1.1_p20190210 9999: Python Exploit Development Assistance for GDB
 sys-devel/pwndbg 1.1.0_p20191004-r3 20191209 99999999: A GDB plug-in that makes debugging with GDB suck less
-sys-devel/ropper 1.13.3-r2 9999: Use to display information about binary files in different file formats
 sys-fs/ext4-crypt 20170216 99999999: A userspace tool to create ext4 encrypted directories
 sys-fs/sasquatch 20160119 20180522: The sasquatch project is a set of patches to the standard unsquashfs utility
 sys-fs/static-dev 0.1: A skeleton, statically managed /dev
