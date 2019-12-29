@@ -235,7 +235,6 @@ dev-python/django-statici18n 1.8.3: Django helper for generating Javascript cata
 dev-python/django-webpack-loader 0.6.0: Transparently use webpack with django
 dev-python/django_compressor 2.3: Compresses linked and inline JavaScript or CSS into single cached files
 dev-python/djangorestframework 3.9.4: Web APIs with django made easy
-dev-python/dlib 19.18.0: A toolkit for making real world machine learning and data analysis applications
 dev-python/dnsdumpster 0.5-r1: Python API for dnsdumpster.com
 dev-python/dotty 9999: EFILTER Query Language
 dev-python/dropbox-sdk 9.3.0 9.4.0: A Python SDK for integrating with the Dropbox API v2.
