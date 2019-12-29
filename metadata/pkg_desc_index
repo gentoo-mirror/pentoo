@@ -53,6 +53,7 @@ app-forensics/cortex 2.1.3 3.0.0: A powerful observable analysis and active resp
 app-forensics/data-carver-processors 0: Data carving analysis for JPEG, PDF and Videos
 app-forensics/dff 1.3.0-r8 1.3.6: A framework which aims to analyze and recover any kind of digital artifact
 app-forensics/dpapick 0.2_p20130826 0.3: Open-source tool that allows decryption of DPAPI structures in an offline way
+app-forensics/eagleeye 20191229: Find Friend's Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search
 app-forensics/fuxploider 1.0 9999: File upload vulnerability scanner and exploitation tool
 app-forensics/guymager 0.8.8 0.8.11: Guymager is a fast and user friendly forensic imager.
 app-forensics/inception 0.4.1 0.4.2: Firewire physical memory manipulation tool exploiting IEEE 1394 SBP-2 DMA
@@ -234,6 +235,7 @@ dev-python/django-statici18n 1.8.3: Django helper for generating Javascript cata
 dev-python/django-webpack-loader 0.6.0: Transparently use webpack with django
 dev-python/django_compressor 2.3: Compresses linked and inline JavaScript or CSS into single cached files
 dev-python/djangorestframework 3.9.4: Web APIs with django made easy
+dev-python/dlib 19.18.0: A toolkit for making real world machine learning and data analysis applications
 dev-python/dnsdumpster 0.5-r1: Python API for dnsdumpster.com
 dev-python/dotty 9999: EFILTER Query Language
 dev-python/dropbox-sdk 9.3.0 9.4.0: A Python SDK for integrating with the Dropbox API v2.
@@ -241,10 +243,14 @@ dev-python/easygui 0.98.1: A module for very simple, very easy GUI programming i
 dev-python/editorconfig 0.12.1-r1 0.12.2: EditorConfig File Locator and Interpreter for Python
 dev-python/egghatch 0.2.3-r2: Cuckoo Sandbox Shellcode Identification & Formatting
 dev-python/esmre 0.3.1: Regular expression accelerator
+dev-python/face_recognition 1.2.3: Recognize faces from Python or from the command line
+dev-python/face_recognition_models 0.3.0: Models used by the face_recognition package.
+dev-python/fake-useragent 0.1.11: Up to date simple useragent faker with real world database
 dev-python/filebytes 0.10.0: Classes to parse the following file formats
 dev-python/flask-caching 1.7.2: Continuation of the Flask-Cache Extension
 dev-python/flask-jwt 0.3.2: JWT (JSON Web Tokens) for Flask applications
 dev-python/flask-jwt-extended 3.18.2 3.22.0 3.23.0: An open source Flask extension that provides JWT support
+dev-python/fpdf 1.7.2: Simple PDF generation for Python
 dev-python/frida-python 12.7.5 12.8.0: Dynamic instrumentation toolkit for reverse-engineers and security researchers
 dev-python/geoip2-python 2.8.0: Python bindings for GeoIP2
 dev-python/google-api-python-client 1.7.9: Google API Client for Python
@@ -277,6 +283,7 @@ dev-python/msoffcrypto-tool 4.10.1: Python tool & library for decrypting MS Offi
 dev-python/nassl 2.1.1 2.1.2 2.2.0: Experimental OpenSSL wrapper for Python 3.6+ and SSLyze
 dev-python/nessrest 20180806: A high-level Web Crawling and Web Scraping framework
 dev-python/netfilterqueue 0.8.1: Python bindings for libnetfilter_queue
+dev-python/parse 1.14.0: parse() is the opposite of format()
 dev-python/parsel 1.5.1: Parsel is a library to extract data from HTML and XML using XPath and CSS selectors
 dev-python/pathspec 0.5.9: Utility library for gitignore style pattern matching of file paths
 dev-python/pcodedmp 1.2.6: A VBA p-code disassembler
@@ -304,6 +311,7 @@ dev-python/pyminifier 2.1 2.1_p20150625: Pyminifier is a Python code minifier, o
 dev-python/pymisp 2.4.117: A python library for using the MISP Rest API
 dev-python/pymodbus 2.1.0: A fully featured modbus protocol stack in python
 dev-python/pynetfilter_conntrack 0.4.2: Python binding of libnetfilter_conntrack
+dev-python/pyppeteer 0.0.25: Headless chrome/chromium automation library
 dev-python/python-cas-haiwen 20180411: Python CAS client library
 dev-python/python-gvm 1.1.0: Library to communicate with remote servers over GMP or OSP
 dev-python/python-iptools 0.6.1 0.6.1_p20181212: A package is a collection of utilities for dealing with IP addresses.
@@ -321,6 +329,7 @@ dev-python/rangeparser 0.1.3-r1: A python package to parse ranges easily
 dev-python/rcssmin 1.0.6: RCSSmin is a CSS minifier
 dev-python/requests-file 1.4.3: File transport adapter for Requests
 dev-python/requests-futures 1.0.0: Asynchronous Python HTTP Requests for Humans using Futures
+dev-python/requests-html 0.10.0: HTML Parsing for Humans
 dev-python/requests-kerberos 0.12.0: A Kerberos authentication handler for python-requests
 dev-python/rjsmin 1.1.0: RCSSmin is a CSS minifier
 dev-python/ruamel-base 1.0.0: common routines for ruamel packages
@@ -333,6 +342,7 @@ dev-python/social-auth-core 3.2.0: Python social authentication made simple
 dev-python/soupsieve 1.9.3: A modern CSS selector implementation for BeautifulSoup
 dev-python/sphinx-autodoc-typehints 1.8.0: Type hints (PEP 484) support for the Sphinx autodoc extension
 dev-python/splinter 0.11.0: tool for testing web applications
+dev-python/spry 0.5.5: social media scanner
 dev-python/sqlalchemy_mixins 1.1: Active Record, Django-like queries
 dev-python/stopit 1.1.1 1.1.2: Timeout control decorator and context managers
 dev-python/symmetricjsonrpc 0.1.0: A more beautiful JSON-RPC implemenation in python
@@ -347,6 +357,7 @@ dev-python/validators 0.14.0: Python Data Validation for Humans
 dev-python/vulndb 0.1.1: Python SDK to access the vulnerability database
 dev-python/vulners 1.5.4: Python API wrapper for the Vulners Database
 dev-python/w3lib 1.20.0: Library of web-related functions
+dev-python/websockets 7.0: An implementation of the WebSocket Protocol (RFC 6455 & 7692)
 dev-python/wsgiref 0.1.2: WSGI (PEP 333) Reference Library
 dev-python/yamllint 1.17.0: A linter for YAML files
 dev-python/yara-python 3.9.0-r1 3.10.0-r1: Python interface for a malware identification and classification tool
@@ -764,6 +775,7 @@ virtual/linux-sources 1-r1 3-r1: Virtual for Linux kernel sources
 www-apps/BloodHound 2.1.0 2.2.0 2.2.1-r1: Six Degrees of Domain Admin
 www-apps/Tiredful-API 9999: An intentionally designed broken web application based on REST API
 www-apps/beef 0.4.7.0_p20180720-r2 0.4.7.1 0.4.7.3: Browser exploitation framework
+www-apps/geckodriver 0.23.0: Proxy for using WebDriver clients to interact with Gecko-based browsers.
 www-apps/rda 2.3-r1: Web-based application for effective reporting writing
 www-apps/vulsrepo 20190412-r3: VulsRepo is visualized based on the json report output in vuls
 www-misc/firefox-bookmarks 0.3-r1: Firefox bookmarks for the Pento ISO only
