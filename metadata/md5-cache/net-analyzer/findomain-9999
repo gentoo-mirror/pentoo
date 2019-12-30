@@ -1,4 +1,4 @@
-BDEPEND=virtual/rust >=virtual/cargo-1.37.0 >=dev-vcs/git-1.8.2.1[curl]
+BDEPEND=virtual/rust >=virtual/rust-1.37.0 >=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=compile install prepare test unpack
 DESCRIPTION=The fastest and cross-platform subdomain enumerator, don't waste your time
 EAPI=7
@@ -7,5 +7,5 @@ IUSE=debug
 LICENSE=GPL-3
 PROPERTIES=live
 SLOT=0
-_eclasses_=cargo	2299702da29b5c96cb1ddd387b43779c	git-r3	7d6c351ee8b1feb12ed8c8b0adae088b	multiprocessing	cac3169468f893670dac3e7cb940e045
+_eclasses_=cargo	e18cdd5369f8cb75459c812a6126192b	git-r3	7d6c351ee8b1feb12ed8c8b0adae088b	multiprocessing	cac3169468f893670dac3e7cb940e045
 _md5_=addc8a3c13b8fba6fc32d4ec62ba34d3
