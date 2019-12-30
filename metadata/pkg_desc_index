@@ -760,12 +760,9 @@ sys-fs/static-dev 0.1: A skeleton, statically managed /dev
 sys-fs/ubi_reader 0.5.0 0.6.2 0.6.3 9999: Reading information and extracting data from UBIFS images
 sys-fs/yaffshiv 20160105 99999999: YAFFS filesystem extraction tool
 sys-kernel/ax88179_178a 1.3.0 1.4.0: A kernel module for the ASIX USB 3.0 AX88179 ethernet controller
-sys-kernel/chromeos-sources 9999: Linux kernel source for the Samsung Chromebook
 sys-kernel/compat-drivers 3.8-r1: Stable kernel pre-release wifi subsystem backport
 sys-kernel/ft60x_driver 20180209: USB FT60x driver
 sys-kernel/minipli-sources 4.9.74: Unofficial forward ports of the last publicly available grsecurity patch
-sys-kernel/odroid-sources 9999: Linux kernel source for the ODROID-[UX]2 products
-sys-kernel/odroidxu-sources 9999: Linux kernel source for the ODROIDXU products
 sys-kernel/pentoo-sources 5.1.15 5.2.14 5.2.14-r1 5.3.13: Pentoo kernel sources (kernel series 5.3)
 sys-kernel/pf_ring-kmod 6.0.3 6.6.0 7.0.0: A new type of network socket that improves packet capture speed.
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
