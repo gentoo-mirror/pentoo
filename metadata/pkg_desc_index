@@ -407,6 +407,7 @@ dev-util/calpp 0.90-r1: A library for efficient use of ATI CAL with C++
 dev-util/collabreate 0.4.0_p20140528: A plugin for IDA Pro designed to provide collaborative reverse engineering
 dev-util/dependency-check-bin 5.1.0 5.2.1 5.2.4: A utility that detects vulnerabilities in application dependencies
 dev-util/dex2jar 2.1_pre20150601 2.1_pre20180402: Tools to work with android .dex and java .class files
+dev-util/dwarf-debugger 1.0.0: Full featured multi arch/os debugger built on top of PyQt5 and frida
 dev-util/electron-bin 5.0.3: Cross platform application development framework based on web technologies
 dev-util/electron-packager 13.0.1 14.0.1: Six Degrees of Domain Admin
 dev-util/emilpro 3_p20170708 3_p20180111: Graphical disassembler for a large number of instruction sets
