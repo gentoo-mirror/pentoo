@@ -31,7 +31,7 @@ app-editors/visual-studio-code 1.38.1 1.39.2: Multiplatform Visual Studio Code f
 app-emulation/qemu-charm 0.13.0: QEMU arm user-land emulation for CHroot ARM setup on x86*
 app-exploits/ROPgadget 5.9-r4: Tool to search for gadgets in binaries to facilitate your ROP exploitation
 app-exploits/deathstar 20180722: A tool to gain Domain Admin rights with a push of a button
-app-exploits/empire 2.5-r2 3.0.0: A post-exploitation framework
+app-exploits/empire 2.5-r2 3.0.0 3.0.1: A post-exploitation framework
 app-exploits/exploitdb 20191203 99999999: All exploits from exploit-db.com
 app-exploits/exploitdb-papers 20191203 99999999: Exploit database's papers
 app-exploits/getsploit 0.3.3_p20190531 0.3.3_p20190531-r1 9999: Command line utility for searching and downloading exploits
@@ -792,7 +792,7 @@ www-plugins/sql-inject-me 0.4.7-r2: SQL Inject Me is the Exploit-Me tool used to
 www-plugins/sqlite_manager 0.8.1: Extension for Firefox and other apps to manage any sqlite database
 www-plugins/user-agent-switcher 0.7.3-r4: Adds a menu and a toolbar button to switch the user agent of firefox
 www-plugins/user-agent-switcher-revived 0.2.0 0.2.4: Adds a menu and a toolbar button to switch the user agent of firefox
-www-plugins/wappalyzer 5.8.4 5.8.5: Cross-platform utility that uncovers the technologies used on websites
+www-plugins/wappalyzer 5.8.5 5.9.0: Cross-platform utility that uncovers the technologies used on websites
 www-plugins/web_developer 2.0.1: Adds various web developer tools to firefox.
 www-plugins/xss-me 0.4.6-r4: Firefox extension to test for reflected cross-site-scripting vulnerabilities.
 www-servers/thin 1.7.2: A fast and very simple Ruby web server
