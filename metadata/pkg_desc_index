@@ -763,7 +763,7 @@ sys-kernel/ax88179_178a 1.3.0 1.4.0: A kernel module for the ASIX USB 3.0 AX8817
 sys-kernel/compat-drivers 3.8-r1: Stable kernel pre-release wifi subsystem backport
 sys-kernel/ft60x_driver 20180209: USB FT60x driver
 sys-kernel/minipli-sources 4.9.74: Unofficial forward ports of the last publicly available grsecurity patch
-sys-kernel/pentoo-sources 5.1.15 5.2.14 5.2.14-r1 5.3.13: Pentoo kernel sources (kernel series 5.3)
+sys-kernel/pentoo-sources 5.1.15 5.2.14 5.2.14-r1 5.3.18: Pentoo kernel sources (kernel series 5.3)
 sys-kernel/pf_ring-kmod 6.0.3 6.6.0 7.0.0: A new type of network socket that improves packet capture speed.
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
 sys-libs/libkudzu 1.2.85.1: Red Hat Hardware detection tools
