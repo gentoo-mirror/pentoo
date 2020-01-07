@@ -72,7 +72,7 @@ app-forensics/mysql-magic 9999: dump mysql client password from memory
 app-forensics/oletools 0.54.2b 0.55: A python tools to analyze MS OLE2 files and MS Office documents
 app-forensics/openscap-daemon 0.1.10: Manages continuous scans of your infrastructure
 app-forensics/origami-pdf 2.1.0: A Ruby framework designed to parse, analyze, and forge PDF documents
-app-forensics/pcileech 4.2 4.3: Direct Memory Access (DMA) Attack Software
+app-forensics/pcileech 4.2 4.3 4.4: Direct Memory Access (DMA) Attack Software
 app-forensics/pdf-parser 0.7.3: This tool will parse a PDF document to identify the fundamental elements used
 app-forensics/pdfid 0.2.6: This tool will scan a PDF document looking for certain keyword
 app-forensics/pdfwalker 1.0.0-r1: A GTK frontend to explore the internals of a PDF document with Origami
@@ -155,7 +155,7 @@ dev-java/jgraphx 2.1.1.2 4.0.6: Open-source graph component for Java
 dev-java/msgpack 0.5.1 0.6.12 0.8.16: MessagePack for Java is a binary-based efficient object serialization library
 dev-java/sleep 2.1-r1: Duct Tape for the Java platform
 dev-lang/powershell-bin 6.2.3-r1: A cross-platform automation and configuration tool/framework
-dev-libs/LeechCore 1.0 1.2 1.2.2 1.5: Direct Memory Access (DMA) Attack Software
+dev-libs/LeechCore 1.0 1.2 1.2.2 1.5 1.6: Direct Memory Access (DMA) Attack Software
 dev-libs/hashdb 3.1.0-r1: The hashdb block hash database tool and API
 dev-libs/libcdata 20180102 20180724 20181216 20190112: Library for cross-platform C generic data functions
 dev-libs/libcdatetime 20170609 20181004: Library for cross-platform C date and time functions
@@ -788,7 +788,7 @@ sys-kernel/pf_ring-kmod 6.0.3 6.6.0 7.0.0: A new type of network socket that imp
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
 sys-libs/libkudzu 1.2.85.1: Red Hat Hardware detection tools
 sys-power/acpid 2.0.30 2.0.31 2.0.32: Daemon for Advanced Configuration and Power Interface
-virtual/linux-sources 1-r1 3-r1: Virtual for Linux kernel sources
+virtual/linux-sources 3-r1 3-r3: Virtual for Linux kernel sources
 www-apps/BloodHound 2.1.0 2.2.0 2.2.1-r1: Six Degrees of Domain Admin
 www-apps/Tiredful-API 9999: An intentionally designed broken web application based on REST API
 www-apps/beef 0.4.7.0_p20180720-r2 0.4.7.1 0.4.7.3: Browser exploitation framework
