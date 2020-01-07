@@ -1,12 +1,12 @@
 DEFINED_PHASES=compile install
-DEPEND=net-wireless/gnuradio net-wireless/gr-paint
+DEPEND=net-wireless/gnuradio:= net-wireless/gr-paint
 DESCRIPTION=A visualization we use for the Wireless Village
 EAPI=7
 HOMEPAGE=http://wctf.ninja
 KEYWORDS=amd64
 LICENSE=BSD Apache-2.0
-PDEPEND==net-wireless/uhd-3.14* net-analyzer/gr-fosphor x11-misc/wmctrl
-RDEPEND=net-wireless/gnuradio net-wireless/gr-paint
+PDEPEND=net-wireless/uhd:= net-analyzer/gr-fosphor x11-misc/wmctrl
+RDEPEND=net-wireless/gnuradio:= net-wireless/gr-paint
 SLOT=0
 SRC_URI=https://dev.pentoo.ch/~zero/distfiles/fosphor_knob-0.9.tar.xz
-_md5_=3c58ad027a0df168373ab7b0e1e4de59
+_md5_=f82a424c91b70cf469ab4640f87f8f5d
