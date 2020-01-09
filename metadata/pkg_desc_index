@@ -7,7 +7,7 @@ app-antivirus/tyton 1.2_p20181206 1.2_p20190213 9999: Kernel-Mode Rootkit Hunter
 app-antivirus/veil 3.1.11-r1 3.1.12: A tool for payloads generation that bypass common anti-virus solutions
 app-arch/upx-ucl 3.95: Ultimate Packer for eXecutables (free version using UCL compression and not NRV)
 app-crypt/SIPcrack 0.4-r1: SIPcrack is a SIP protocol login cracker
-app-crypt/acsccid 1.1.7: Generic driver for ACS (CCID and non-CCID) Smart Card Reader
+app-crypt/acsccid 1.1.7 1.1.8: Generic driver for ACS (CCID and non-CCID) Smart Card Reader
 app-crypt/asleap 2.2_p20160730: Cisco LEAP and Generic MS-CHAPv2 Dictionary Attack
 app-crypt/bruteforce-luks 1.3.1 1.3.2 1.4.0 9999: A bruteforce cracker for LUKS encrypted volumes
 app-crypt/bruteforce-salted-openssl 1.4.2: A bruteforce cracker for openssl encrypted files
@@ -38,7 +38,7 @@ app-exploits/getsploit 0.3.3_p20190531 0.3.3_p20190531-r1 9999: Command line uti
 app-exploits/linenum 20191028 99999999: Local Linux enumeration and privilege escalation checker
 app-exploits/linux-exploit-suggester 20140519 99999999: Linux Exploit Suggester based on operating system release number
 app-exploits/linuxprivchecker 20160302 99999999: A Linux Privilege Escalation Check Script
-app-exploits/packetstormexploits 2012.12 2013.12 2014.12 2015.12 2016.12 2017.12 2018.12 2019.07: Archive of packetstorm exploits
+app-exploits/packetstormexploits 2012.12 2013.12 2014.12 2015.12 2016.12 2017.12 2018.12 2019.12: Archive of packetstorm exploits
 app-exploits/packetstormexploits-meta 2019: Meta ebuild of packetstorm exploits
 app-exploits/pwntools 3.13.0-r1: CTF framework and exploit development library
 app-exploits/ropper 1.13.3-r2 1.13.5 9999: Use to display information about binary files in different file formats
@@ -113,7 +113,7 @@ app-misc/libmsr 9999: Reading, writing and analysis of magnetic stripe informati
 app-misc/mat2 0.10.0: A handy tool to trash your metadata
 app-misc/openobd 0.5.0: OBD-II Scan Tool supporting ELM327 devices
 app-misc/solaar 9999: A Linux device manager for Logitech's Unifying Receiver peripherals
-app-officeext/languagetool 4.5.1 4.6: Style and Grammar Checker for libreoffice
+app-officeext/languagetool 4.6 4.8: Style and Grammar Checker for libreoffice
 app-pda/ideviceinstaller 1.1.0 1.1.0_p20181001 1.1.0_p20191028: A tool to interact with the installation_proxy of an Apple's iDevice
 app-pda/libimobiledevice 1.2.0-r2 1.2.1_pre20190521 1.2.1_pre20190719: Support library to communicate with Apple iPhone/iPod Touch devices
 app-pda/libplist 2.0.0 2.1.0: Support library to deal with Apple Property Lists (Binary & XML)
@@ -481,7 +481,6 @@ net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden conten
 net-analyzer/dirble-bin 1.3.1 1.4.2: Fast directory scanning and scraping tool
 net-analyzer/dirhunt 0.4.2 0.5.0 0.5.1 0.6.0-r1: Dirhunt is a web crawler optimized for searching and analyzing web directories.
 net-analyzer/dirsearch 0.3.8-r1 0.3.9: A simple command line tool designed to brute force dirs and files in websites
-net-analyzer/dnsa 0.5-r1: Swiss-army knife tool for dns auditing
 net-analyzer/dnsrecon 0.9.1-r1: DNS Enumeration Script
 net-analyzer/dripcap-bin 0.6.15-r1: Caffeinated Modern Packet Analyzer
 net-analyzer/droopescan 1.41.2 1.41.3: A scanner that helps identifying issues in Drupal, SilverStripe, and Wordpress
