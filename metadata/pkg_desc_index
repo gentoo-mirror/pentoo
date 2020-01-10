@@ -402,9 +402,9 @@ dev-ruby/fastercsv 1.5.5: A complete replacement to the CSV standard library
 dev-ruby/get_process_mem 0.2.5: Get memory usage of a process
 dev-ruby/ipaddr 1.2.2: IPAddr provides a set of methods to manipulate an IP address
 dev-ruby/libv8 3.16.14.15 7.3.492.27.1: Distributes the V8 JavaScript engine in binary and source forms
-dev-ruby/louis 2.1.8 2.2.0 2.2.1: Lookup mac address assignments in the iana database
+dev-ruby/louis 2.2.3: Lookup mac address assignments in the iana database
 dev-ruby/memory_profiler 0.9.14: Memory profiling routines for Ruby 2.1+
-dev-ruby/mini_exiftool 2.8.0 2.9.0: wrapper for exiftool
+dev-ruby/mini_exiftool 2.8.0 2.9.0 2.10.0: wrapper for exiftool
 dev-ruby/msfrpc-client 1.1.1 1.1.2: Ruby client API to access the Rapid7 Metasploit Pro RPC service
 dev-ruby/opt_parse_validator 1.7.3 1.7.4 1.8.0 1.8.1: OptionParser lib in ruby
 dev-ruby/parseconfig 1.0.8: Provides simple parsing of standard *nix style config files.
