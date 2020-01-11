@@ -32,6 +32,7 @@ app-emulation/qemu-charm 0.13.0: QEMU arm user-land emulation for CHroot ARM set
 app-exploits/ROPgadget 5.9-r4: Tool to search for gadgets in binaries to facilitate your ROP exploitation
 app-exploits/deathstar 20180722: A tool to gain Domain Admin rights with a push of a button
 app-exploits/empire 3.0.0 3.0.1: A post-exploitation framework
+app-exploits/enumdb 2.1.0: Database brute force and post exploitation tool
 app-exploits/exploitdb 20191203 99999999: All exploits from exploit-db.com
 app-exploits/exploitdb-papers 20191203 99999999: Exploit database's papers
 app-exploits/getsploit 0.3.3_p20190531 0.3.3_p20190531-r1 9999: Command line utility for searching and downloading exploits
@@ -274,6 +275,7 @@ dev-python/impacket 0.9.20 9999: A collection of Python classes focused on provi
 dev-python/interfax 1.0.0: InterFAX Python Package
 dev-python/intervaltree 3.0.2: Editable interval tree data structure for Python 2 and 3
 dev-python/ipaddr 2.2.0: Python IP address manipulation library
+dev-python/ipparser 0.3.5: Parse IP address information
 dev-python/isc_dhcp_leases 0.8.1 0.9.1: Small python module for reading /var/lib/dhcp/dhcpd.leases from isc-dhcp-server
 dev-python/itypes 1.1.0: Simple immutable types for python
 dev-python/javalang 0.12.0: A pure Python library for working with Java source code
