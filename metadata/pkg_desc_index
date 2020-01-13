@@ -31,7 +31,7 @@ app-editors/visual-studio-code 1.38.1 1.39.2: Multiplatform Visual Studio Code f
 app-emulation/qemu-charm 0.13.0: QEMU arm user-land emulation for CHroot ARM setup on x86*
 app-exploits/ROPgadget 5.9-r4: Tool to search for gadgets in binaries to facilitate your ROP exploitation
 app-exploits/deathstar 20180722: A tool to gain Domain Admin rights with a push of a button
-app-exploits/empire 3.0.0 3.0.1: A post-exploitation framework
+app-exploits/empire 3.0.1 3.0.3: A post-exploitation framework
 app-exploits/enumdb 2.1.0: Database brute force and post exploitation tool
 app-exploits/exploitdb 20191203 99999999: All exploits from exploit-db.com
 app-exploits/exploitdb-papers 20191203 99999999: Exploit database's papers
@@ -553,7 +553,7 @@ net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
 net-analyzer/sslstrip 0.9-r2 0.9.2: sslstrip remove https and forwards http
 net-analyzer/sslyze 2.0.6 2.1.3 2.1.4: Fast and full-featured SSL scanner
 net-analyzer/subdomainer 1.3-r2: This script will search in Google, Msn.search and Yahoo for subdomains related to the target domain
-net-analyzer/subfinder 2.2.4: subdomain discovery tool that discovers valid subdomains for websites
+net-analyzer/subfinder 2.2.4 2.3.0: subdomain discovery tool that discovers valid subdomains for websites
 net-analyzer/subjack 2.1: Subdomain Takeover tool written in Go
 net-analyzer/sublert 1.4.7_p20190810: Monitor new subdomains deployed by specific organizations and issued TLS/SSL certificate
 net-analyzer/sublist3r 1.0_p20181016: Enumerate subdomains of websites using OSINT
