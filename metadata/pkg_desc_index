@@ -262,7 +262,6 @@ dev-python/flask-session 0.3.1: Adds server-side session support to your Flask a
 dev-python/fpdf 1.7.2: Simple PDF generation for Python
 dev-python/frida-python 12.7.5 12.8.0: Dynamic instrumentation toolkit for reverse-engineers and security researchers
 dev-python/geoip2-python 2.8.0: Python bindings for GeoIP2
-dev-python/google-api-python-client 1.7.9: Google API Client for Python
 dev-python/googlesearch 20181112-r1: Google search from Python
 dev-python/gpapi 0.4.3 0.4.4: Unofficial python api for google play
 dev-python/grequests 0.4.0: Use Requests with Gevent to make asyncronous HTTP Requests easily
@@ -314,6 +313,7 @@ dev-python/pyaxmlparser 0.3.24: Parser for Android XML file and get Application 
 dev-python/pybonjour 1.1.1: Python interface to Apple Bonjour and compatible DNS-SD libraries (Avahi)
 dev-python/pycopy-binascii 2.4.0: A part of standard library of the Pycopy project
 dev-python/pycryptodomex 3.9.0 3.9.4: A self-contained cryptographic library for Python
+dev-python/pydispatcher 2.0.5: Multi-producer-multi-consumer signal dispatching mechanism
 dev-python/pygexf 0.2.2: A python library to generate gexf file format
 dev-python/pygtail 0.11.0: Reads log file lines that have not been read
 dev-python/pyhunter 0.3-r1 9999: PyHunter.io wrappper (often for marketing ), Redteam's use as OSINT wrapper verify harvest/emails.
