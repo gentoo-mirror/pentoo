@@ -739,13 +739,13 @@ pentoo/pentoo-installer 20190604 20190701 99999999: Installer for pentoo, based 
 pentoo/pentoo-livecd 2019.2: things needed by pentoo for livecd only
 pentoo/pentoo-misc 2019.2-r3: Pentoo misc meta ebuild
 pentoo/pentoo-mitm 2019.2: Pentoo mitm meta ebuild
-pentoo/pentoo-mobile 2020.1: Pentoo mobile meta ebuild
+pentoo/pentoo-mobile 2020.1-r1: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2019.2: Collection of NFC tools
 pentoo/pentoo-proxies 2019.2-r2: Pentoo proxy meta ebuild
 pentoo/pentoo-radio 2019.2-r5: Radio tools for pentoo
 pentoo/pentoo-rce 2019.2-r2: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2019.2: Pentoo scanner meta ebuild
-pentoo/pentoo-system 2019.3-r1: Pentoo meta ebuild to install system
+pentoo/pentoo-system 2020.0: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2018.2-r1: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2019.3: Pentoo wireless meta ebuild
 pentoo/tribe 2012.0: Tribe meta ebuild
