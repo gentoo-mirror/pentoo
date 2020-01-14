@@ -259,7 +259,7 @@ dev-python/flask-restless 0.17.0: A Flask extension for easy ReSTful API generat
 dev-python/flask-security 3.0.0: Simple security for Flask apps
 dev-python/flask-session 0.3.1: Adds server-side session support to your Flask application
 dev-python/fpdf 1.7.2: Simple PDF generation for Python
-dev-python/frida-python 12.7.5 12.8.0: Dynamic instrumentation toolkit for reverse-engineers and security researchers
+dev-python/frida-python 12.8.0 12.8.6: Dynamic instrumentation toolkit for reverse-engineers and security researchers
 dev-python/geoip2-python 2.8.0: Python bindings for GeoIP2
 dev-python/googlesearch 20181112-r1: Google search from Python
 dev-python/gpapi 0.4.3 0.4.4: Unofficial python api for google play
@@ -303,7 +303,6 @@ dev-python/pefile 2018.8.8 2019.4.18: Module to read and work with Portable Exec
 dev-python/phply 0.9.1-r1 1.2.5: Parser for PHP written using PLY
 dev-python/plotly 4.1.1: Browser-based graphing library for Python
 dev-python/poster 0.8.1: Make HTTP POST/PUT with multipart/form-data encoding
-dev-python/prompt_toolkit 2.0.9: Building powerful interactive command lines in Python
 dev-python/proxy-db 0.2.3: Manage free and private proxies on local db for Python Projects
 dev-python/pyDes 2.0.1: Pure python implementation of DES and TRIPLE DES encryption algorithm
 dev-python/pyaff4 9999: Python Advanced Forensic Format Version 4 library.
@@ -430,7 +429,7 @@ dev-util/dwarf-debugger 1.0.0: Full featured multi arch/os debugger built on top
 dev-util/electron-bin 5.0.3: Cross platform application development framework based on web technologies
 dev-util/electron-packager 13.0.1 14.0.1: Six Degrees of Domain Admin
 dev-util/emilpro 3_p20170708 3_p20180111: Graphical disassembler for a large number of instruction sets
-dev-util/frida-tools 5.1.0 5.3.0: Frida CLI tools
+dev-util/frida-tools 5.3.0 6.0.0: Frida CLI tools
 dev-util/ghidra 9.1 9.1.1: A software reverse engineering framework
 dev-util/hexd 1.10: Eric Raymond's hex dumper
 dev-util/jadx-bin 1.0.0 1.1.0: A standalone graphical utility that displays Java source codes of .class file
@@ -741,7 +740,7 @@ pentoo/pentoo-installer 20190604 20190701 99999999: Installer for pentoo, based 
 pentoo/pentoo-livecd 2019.2: things needed by pentoo for livecd only
 pentoo/pentoo-misc 2019.2-r3: Pentoo misc meta ebuild
 pentoo/pentoo-mitm 2019.2: Pentoo mitm meta ebuild
-pentoo/pentoo-mobile 2018.4-r2: Pentoo mobile meta ebuild
+pentoo/pentoo-mobile 2020.1: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2019.2: Collection of NFC tools
 pentoo/pentoo-proxies 2019.2-r2: Pentoo proxy meta ebuild
 pentoo/pentoo-radio 2019.2-r5: Radio tools for pentoo
@@ -807,7 +806,7 @@ www-plugins/hackbar 1.6.3: Simple security audit / penetration test tool.
 www-plugins/hackplugins-meta 1.2: Collection of browser's plugins for application security testing
 www-plugins/httpfox 0.8.14: A HTTP analyzer addon for Firefox
 www-plugins/live-http-headers 0.17-r3: View HTTP headers of a page and while browsing
-www-plugins/noscript 11.0.3 11.0.9: Allow active content in firefox to run only from trusted sites.
+www-plugins/noscript 11.0.3 11.0.9 11.0.12: Allow active content in firefox to run only from trusted sites.
 www-plugins/ringleader 0.3_pre20150914: FxPnH is a Firefox addon which makes it possible to use Firefox with Plug-n-Hack providers
 www-plugins/showip 3.0.2: Firefox extensions which shows the IP address(es) of the current page in the status bar.
 www-plugins/sql-inject-me 0.4.7-r2: SQL Inject Me is the Exploit-Me tool used to test for SQL Injection vulnerabilities.
