@@ -230,14 +230,13 @@ dev-python/django-extensions 2.1.9: Extensions for Django
 dev-python/django-filter 0.15.3 2.1.0: A generic system for filtering Django QuerySets based on user selections
 dev-python/django-formtools 2.1: A set of high-level abstractions for Django forms
 dev-python/django-guardian 1.5.1: Implementation of per object permissions for Django 1.2+
-dev-python/django-oauth-toolkit 1.0.0 1.1.3 1.2.0: OAuth2 goodies for the Djangonauts
+dev-python/django-oauth-toolkit 1.1.3 1.2.0: OAuth2 goodies for the Djangonauts
 dev-python/django-post_office-haiwen 20180914: A Django app to monitor and send mail asynchronously
 dev-python/django-ranged-response 0.2.0: Django FileResponse that adds Content-Range headers
 dev-python/django-simple-captcha 0.5.11-r1: A very simple, yet powerful, Django captcha application
 dev-python/django-statici18n 1.8.3: Django helper for generating Javascript catalog to static files
 dev-python/django-webpack-loader 0.6.0: Transparently use webpack with django
 dev-python/django_compressor 2.3: Compresses linked and inline JavaScript or CSS into single cached files
-dev-python/djangorestframework 3.9.4: Web APIs with django made easy
 dev-python/dnsdumpster 0.5-r1: Python API for dnsdumpster.com
 dev-python/dotty 9999: EFILTER Query Language
 dev-python/dropbox-sdk 9.3.0 9.4.0: A Python SDK for integrating with the Dropbox API v2.
@@ -332,7 +331,7 @@ dev-python/python-iptools 0.6.1 0.6.1_p20181212: A package is a collection of ut
 dev-python/python-libnmap 0.7.0: A python library enabling python developers to manipulate nmap process and data
 dev-python/python-nmap 0.6.1: a python library which helps in using nmap port scanner
 dev-python/python-ntlm 1.1.0-r1: Python library for NTLM support
-dev-python/python-oauth2 1.1.0-r1: OAuth 2.0 provider for python
+dev-python/python-oauth2 1.1.0-r1 1.1.1: OAuth 2.0 provider for python
 dev-python/python-ptrace 0.9.4: A Python binding of ptrace library
 dev-python/python-registry 1.2.0: A pure Python module that provides read access to Windows Registry files
 dev-python/python-slugify 3.0.3-r1: A Python Slugify application that handles Unicode
