@@ -199,7 +199,7 @@ dev-python/Js2Py 0.66: JavaScript to Python Translator & JavaScript interpreter
 dev-python/PTP 0.3.0 0.4.2-r1: Pentester's Tools Parser
 dev-python/Protego 0.1.16: robots.txt parser with support for modern conventions
 dev-python/PyVirtualDisplay 0.2.4: python wrapper for Xvfb, Xephyr and Xvnc
-dev-python/Scrapy 1.7.3 1.8.0: A high-level Web Crawling and Web Scraping framework
+dev-python/Scrapy 1.8.0: A high-level Web Crawling and Web Scraping framework
 dev-python/acora 9999: Fast multi-keyword search engine for text strings
 dev-python/agate 1.6.1: A data analysis library that is optimized for humans instead of machines
 dev-python/agate-dbf 0.2.1: Adds read support for dbf files to agate
@@ -312,7 +312,6 @@ dev-python/pyaxmlparser 0.3.24: Parser for Android XML file and get Application 
 dev-python/pybonjour 1.1.1: Python interface to Apple Bonjour and compatible DNS-SD libraries (Avahi)
 dev-python/pycopy-binascii 2.4.0: A part of standard library of the Pycopy project
 dev-python/pycryptodomex 3.9.0 3.9.4: A self-contained cryptographic library for Python
-dev-python/pydispatcher 2.0.5: Multi-producer-multi-consumer signal dispatching mechanism
 dev-python/pygexf 0.2.2: A python library to generate gexf file format
 dev-python/pygtail 0.11.0: Reads log file lines that have not been read
 dev-python/pyhunter 0.3-r1 9999: PyHunter.io wrappper (often for marketing ), Redteam's use as OSINT wrapper verify harvest/emails.
