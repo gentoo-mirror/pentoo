@@ -434,7 +434,7 @@ dev-util/hexd 1.10: Eric Raymond's hex dumper
 dev-util/jadx-bin 1.0.0 1.1.0: A standalone graphical utility that displays Java source codes of .class file
 dev-util/jd-gui 1.6.3 1.6.5 1.6.6: A standalone Java Decompiler GUI
 dev-util/lida 03.00.00: interactive ELF disambler
-dev-util/lief 0.9.0_p20190626 0.10.0 0.10.1: Library to instrument executable formats
+dev-util/lief 0.10.1: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
 dev-util/objection 1.7.5 1.8.3: Runtime mobile exploration
 dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIPS
