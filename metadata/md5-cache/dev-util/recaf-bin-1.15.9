@@ -1,12 +1,12 @@
 DEFINED_PHASES=install unpack
-DEPEND=|| ( virtual/jre virtual/jdk ) system-javafx? ( dev-java/openjfx )
+DEPEND=|| ( virtual/jre virtual/jdk ) javafx? ( dev-java/openjdk[javafx?] )
 DESCRIPTION=A modern Java bytecode editor
 EAPI=7
 HOMEPAGE=https://col-e.github.io/Recaf/
-IUSE=system-javafx
+IUSE=javafx
 KEYWORDS=~amd64
 LICENSE=MIT
-RDEPEND=|| ( virtual/jre virtual/jdk ) system-javafx? ( dev-java/openjfx )
+RDEPEND=|| ( virtual/jre virtual/jdk ) javafx? ( dev-java/openjdk[javafx?] )
 SLOT=0
 SRC_URI=https://github.com/Col-E/Recaf/releases/download/1.15.9/recaf-1.15.9.jar -> recaf-1.15.9.jar
-_md5_=88830103cee12b238fe9ea90b260a33b
+_md5_=f0e27e8b70d7f1940d9f1afec39a162f
