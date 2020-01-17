@@ -26,8 +26,6 @@ dev-python/qt-py
 dev-python/simplespectral
 dev-python/simplesoapy
 
-=dev-python/numpy-1.16*
-
 #required by veil-evasion
 =dev-python/pyinstaller-3*
 
@@ -484,4 +482,5 @@ dev-python/ipparser
 =dev-python/google-auth-1.6*
 =dev-python/google-auth-httplib2-0.0*
 
-
+#required by pygtk / nmap
+dev-python/numpy-python2
