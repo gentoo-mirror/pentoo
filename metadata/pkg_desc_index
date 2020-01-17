@@ -523,6 +523,7 @@ net-analyzer/nacker 0.0.1_pre20130916: Bypass NAC by hijacking non-802.1x config
 net-analyzer/nbtool 20140416: Some tools for NetBIOS and DNS investigation, attacks, and communication
 net-analyzer/nessus-bin 8.8.0: A remote security scanner for Linux
 net-analyzer/nikto 2.1.6-r1 2.1.6_p20180122 2.1.6_p20181021 2.1.6_p20190508: Web server vulnerability scanner
+net-analyzer/nmap 7.80-r1: A utility for network discovery and security auditing
 net-analyzer/nmap-vulners 1.2 1.4_beta 9999: NSE script based on Vulners.com API
 net-analyzer/nmap_vulscan 2.0-r1 2.0_p20170503 2.0_p20171214 2.0_p20190923: A NSE vulnerability scanner which uses an offline version of scip VulDB
 net-analyzer/ntp-fingerprint 0.1-r2: NTP fingerprinting utility
