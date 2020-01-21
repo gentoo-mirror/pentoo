@@ -9,4 +9,4 @@ LICENSE=MIT
 RDEPEND=|| ( virtual/jre virtual/jdk ) javafx? ( dev-java/openjdk[javafx?] )
 SLOT=0
 SRC_URI=https://github.com/Col-E/Recaf/releases/download/1.15.10/recaf-1.15.10.jar -> recaf-1.15.10.jar
-_md5_=fcd019b3bccfc1b6daf86b90b1a45d98
+_md5_=1ff85b1e2e0dff513983389079fa5485
