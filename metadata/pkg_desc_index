@@ -790,7 +790,7 @@ sys-kernel/pf_ring-kmod 6.0.3 6.6.0 7.0.0: A new type of network socket that imp
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
 sys-libs/libkudzu 1.2.85.1: Red Hat Hardware detection tools
 sys-power/acpid 2.0.30 2.0.31 2.0.32: Daemon for Advanced Configuration and Power Interface
-virtual/linux-sources 3-r1 3-r3: Virtual for Linux kernel sources
+virtual/linux-sources 3-r104: Virtual for Linux kernel sources
 www-apps/BloodHound 2.1.0 2.2.0 2.2.1-r1: Six Degrees of Domain Admin
 www-apps/Tiredful-API 9999: An intentionally designed broken web application based on REST API
 www-apps/beef 0.4.7.0_p20180720-r2 0.4.7.1 0.4.7.3: Browser exploitation framework
