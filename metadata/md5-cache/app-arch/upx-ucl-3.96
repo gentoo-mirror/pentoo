@@ -1,13 +1,13 @@
 DEFINED_PHASES=compile configure install prepare
-DEPEND=>=dev-libs/ucl-1.02 !app-arch/upx !app-arch/upx-bin dev-lang/perl
+DEPEND=>=dev-libs/ucl-1.03 zlib? ( sys-libs/zlib ) !app-arch/upx !app-arch/upx-bin dev-lang/perl
 DESCRIPTION=Ultimate Packer for eXecutables (free version using UCL compression and not NRV)
 EAPI=7
-HOMEPAGE=http://upx.sourceforge.net/
+HOMEPAGE=https://upx.github.io/
 IUSE=zlib
 KEYWORDS=~amd64 ~ppc ~sparc ~x86
 LICENSE=GPL-2+ UPX-exception
-RDEPEND=>=dev-libs/ucl-1.02 !app-arch/upx !app-arch/upx-bin
+RDEPEND=>=dev-libs/ucl-1.03 zlib? ( sys-libs/zlib ) !app-arch/upx !app-arch/upx-bin
 SLOT=0
-SRC_URI=https://github.com/upx/upx/archive/v3.95.tar.gz -> upx-ucl-3.95.tar.gz https://github.com/upx/upx-lzma-sdk/archive/v3.95.tar.gz -> upx-lzma-sdk-3.95.tar.gz
+SRC_URI=https://github.com/upx/upx/archive/v3.96.tar.gz -> upx-ucl-3.96.tar.gz https://github.com/upx/upx-lzma-sdk/archive/v3.96.tar.gz -> upx-lzma-sdk-3.96.tar.gz
 _eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5	flag-o-matic	cabe101302b461f32ecbc3767dfb9e23	multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
-_md5_=354cf01f9ed323fc17549e9fa67c9c39
+_md5_=cd4132616eaa7f7ba0e46d344f4efdea

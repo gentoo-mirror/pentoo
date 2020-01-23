@@ -5,7 +5,7 @@ app-antivirus/lkrg 0.6 0.7: Linux Kernel Runtime Guard
 app-antivirus/malheur 0.5.4-r1: Malware analysis tool
 app-antivirus/tyton 1.2_p20181206 1.2_p20190213 9999: Kernel-Mode Rootkit Hunter
 app-antivirus/veil 3.1.11-r1 3.1.12: A tool for payloads generation that bypass common anti-virus solutions
-app-arch/upx-ucl 3.95: Ultimate Packer for eXecutables (free version using UCL compression and not NRV)
+app-arch/upx-ucl 3.96: Ultimate Packer for eXecutables (free version using UCL compression and not NRV)
 app-crypt/SIPcrack 0.4-r1: SIPcrack is a SIP protocol login cracker
 app-crypt/acsccid 1.1.7 1.1.8: Generic driver for ACS (CCID and non-CCID) Smart Card Reader
 app-crypt/asleap 2.2_p20160730: Cisco LEAP and Generic MS-CHAPv2 Dictionary Attack
@@ -41,7 +41,7 @@ app-exploits/linux-exploit-suggester 20140519 99999999: Linux Exploit Suggester 
 app-exploits/linuxprivchecker 20160302 99999999: A Linux Privilege Escalation Check Script
 app-exploits/packetstormexploits 2012.12 2013.12 2014.12 2015.12 2016.12 2017.12 2018.12 2019.12: Archive of packetstorm exploits
 app-exploits/packetstormexploits-meta 2019: Meta ebuild of packetstorm exploits
-app-exploits/pwntools 4.0.0: CTF framework and exploit development library
+app-exploits/pwntools 4.0.0 4.0.1: CTF framework and exploit development library
 app-exploits/ropper 1.13.3-r2 1.13.5 9999: Use to display information about binary files in different file formats
 app-exploits/routersploit 3.4.0-r1 9999: An open-source exploitation framework dedicated to embedded devices
 app-exploits/the-backdoor-factory 3.4.2-r2: BDF allows to patch executable binaries with user desired shellcode
@@ -443,7 +443,7 @@ dev-util/pyew 2.0: Hexadecimal viewer and disassembler
 dev-util/qark 0.9_pre20181218 0.9_pre20190405: A tool to look for Android application vulnerabilities
 dev-util/recaf-bin 1.15.9 1.15.10: A modern Java bytecode editor
 dev-util/redasm 2.1.1: The OpenSource Disassembler
-dev-util/retdec 3.2-r1 3.3: RetDec is a retargetable machine-code decompiler based on LLVM.
+dev-util/retdec 3.3-r1: RetDec is a retargetable machine-code decompiler based on LLVM.
 dev-util/soapui 5.4.0 5.5.0: The Swiss-Army Knife for SOAP Testing
 dev-util/sonarqube-bin 7.9.2 8.1.0.31237: SonarQube Community Edition is an open platform to manage code quality
 dev-util/sonarscanner-bin 4.2.0.1873: SonarQube Command-Line Scanner
