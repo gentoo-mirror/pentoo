@@ -284,6 +284,7 @@ dev-python/leather 0.3.3: Python charting for 80% of humans
 dev-python/litecli 1.1.0-r1 1.2.0-r1: CLI for SQLite Databases with auto-completion and syntax highlighting
 dev-python/macholib 1.11: A package is a collection of utilities for dealing with IP addresses.
 dev-python/marshmallow-sqlalchemy 0.15.0 0.21.0: SQLAlchemy integration with the marshmallow (de)serialization library
+dev-python/matplotlib 2.2.4-r1: Pure python plotting library with matlab like syntax
 dev-python/maxminddb 1.4.1-r1: A Python module for reading MaxMind DB files
 dev-python/mechanize 0.4.3: Stateful programmatic web browsing in Python
 dev-python/memorpy 20170523 99999999: Python library using ctypes to search/edit programs memory
@@ -762,6 +763,7 @@ sci-electronics/liteusb 20180301: Small footprint and configurable USB core
 sci-electronics/litex 20180531 20180718: Information gathering tool designed for extracting metadata of public documents
 sci-electronics/migen 0.7: A Python toolbox for building complex digital hardware
 sci-electronics/pcie_injector 20180527: Information gathering tool designed for extracting metadata of public documents
+sci-libs/scipy 1.1.0-r1: Scientific algorithms library for Python
 sys-apps/become 1.0 1.0-r1: utility for changing the current real, effective or group id
 sys-apps/magic-pax 0.0.1: 
 sys-apps/razercfg 0.41: Utility for advanced configuration of Razer mice
