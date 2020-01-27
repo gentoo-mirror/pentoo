@@ -634,6 +634,7 @@ net-vpn/kcptun 20191219: A Stable & Secure Tunnel Based On KCP with N:M Multiple
 net-vpn/kcptun-plugins 20190313: SIP003-compatible KCPTUN and UDP2RAW plugins for Shadowsocks
 net-vpn/tuntox 0.0.9 9999: Tunnel TCP connections over the Tox protocol
 net-vpn/udp2raw-tunnel 20181113.0 99999999: A tunnel which turns UDP traffic into encrypted FakeTCP/UDP/ICMP traffic
+net-wireless/aircrack-ng 1.6: WLAN tools for breaking 802.11 WEP/WPA keys
 net-wireless/airgeddon 10.01: bash script for Linux systems to audit wireless networks
 net-wireless/b43-openfwwf 5.2: OpenBroadcom Firmware
 net-wireless/b43-tools 9999: Tools for developers working on broadcom drivers/firmware

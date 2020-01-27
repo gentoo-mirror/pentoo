@@ -100,6 +100,10 @@ net-libs/libtins:dot11 - IEEE 802.11 support
 net-libs/libtins:wpa2 - WPA2 decryption support
 net-vpn/kcptun:server - Enable server side daemon
 net-vpn/udp2raw-tunnel:iptables - include support for iptables filtering
+net-wireless/aircrack-ng:airdrop-ng - Build airdrop-ng
+net-wireless/aircrack-ng:airgraph-ng - Build airgraph-ng
+net-wireless/aircrack-ng:experimental - Build the "experimental" tools which may randomly fail to run properly
+net-wireless/aircrack-ng:netlink - Use netlink for channel control instead of WEXT
 net-wireless/compat-wireless:injection - Add patches for better wifi injection support
 net-wireless/gnuradio:analog - enable analog signal processing blocks
 net-wireless/gnuradio:atsc - enable ATSC (HDTV) transmitter and receiver blocks
