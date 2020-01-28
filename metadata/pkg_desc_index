@@ -224,7 +224,6 @@ dev-python/dataclasses 0.6: Backport implementation of PEP 557, Data Classes for
 dev-python/dataset 1.1.0 1.1.2: Easy-to-use data handling for SQL data stores
 dev-python/dbfread 2.0.7: Read DBF Files with Python
 dev-python/delegator 0.1.1: Subprocesses for Humans 2.0
-dev-python/distro 1.4.0: Reliable machine-readable Linux distribution information for Python
 dev-python/django-constance-haiwen 20180515: Django live settings with pluggable backends, including Redis
 dev-python/django-extensions 2.1.9: Extensions for Django
 dev-python/django-formtools 2.1: A set of high-level abstractions for Django forms
