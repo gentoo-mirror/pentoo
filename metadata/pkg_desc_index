@@ -155,7 +155,7 @@ dev-java/jd-core 1.0.5 1.0.6: JD-Core is a JAVA decompiler written in JAVA
 dev-java/jgraphx 2.1.1.2 4.0.6: Open-source graph component for Java
 dev-java/msgpack 0.5.1 0.6.12 0.8.16: MessagePack for Java is a binary-based efficient object serialization library
 dev-java/sleep 2.1-r1: Duct Tape for the Java platform
-dev-lang/powershell-bin 6.2.3-r1: A cross-platform automation and configuration tool/framework
+dev-lang/powershell-bin 6.2.3-r1 6.2.4: A cross-platform automation and configuration tool/framework
 dev-libs/LeechCore 1.0 1.2 1.2.2 1.5 1.6: Direct Memory Access (DMA) Attack Software
 dev-libs/hashdb 3.1.0-r1: The hashdb block hash database tool and API
 dev-libs/libcdata 20180102 20180724 20181216 20190112: Library for cross-platform C generic data functions
@@ -519,7 +519,7 @@ net-analyzer/metasploit 4.17.21-r7: Advanced framework for developing, testing, 
 net-analyzer/mosref 2.0_beta3: A secure remote execution framework using a compact Scheme-influenced VM
 net-analyzer/nacker 0.0.1_pre20130916: Bypass NAC by hijacking non-802.1x configurable hosts
 net-analyzer/nbtool 20140416: Some tools for NetBIOS and DNS investigation, attacks, and communication
-net-analyzer/nessus-bin 8.8.0: A remote security scanner for Linux
+net-analyzer/nessus-bin 8.8.0 8.9.0: A remote security scanner for Linux
 net-analyzer/nikto 2.1.6-r1 2.1.6_p20180122 2.1.6_p20181021 2.1.6_p20190508: Web server vulnerability scanner
 net-analyzer/nmap 7.80-r1: A utility for network discovery and security auditing
 net-analyzer/nmap-vulners 1.2 1.4_beta 9999: NSE script based on Vulners.com API
