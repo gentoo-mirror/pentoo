@@ -24,7 +24,7 @@ app-crypt/stegcracker 2.0.7 20190219-r1: Steganography brute-force utility to un
 app-crypt/steghide 0.5.1: A steganography program which hides data in various media files
 app-crypt/wisecracker 1.0-r1: An open source framework for tools that can distribute brute force cryptanalysis
 app-crypt/xortool 0.98: A tool to analyze multi-byte xor cipher
-app-crypt/yubioath-desktop 5.0.1-r2 9999: Library and tool for personalization of Yubico's YubiKey NEO
+app-crypt/yubioath-desktop 5.0.1-r2 5.0.2 9999: Library and tool for personalization of Yubico's YubiKey NEO
 app-dicts/raft-wordlists 20110803-r1: Raft wordlists
 app-dicts/seclists 2019.2 2019.3 2019.4 2020.1: A collection of multiple types of lists used during security assessments
 app-editors/visual-studio-code 1.38.1 1.39.2: Multiplatform Visual Studio Code from Microsoft
@@ -569,7 +569,7 @@ net-analyzer/videojak 1.00 2.0: VideoJak is an IP Video security assessment tool
 net-analyzer/voiphopper 2.04-r3: VoIP Hopper is a tool that rapidly runs a VLAN Hop into the Voice VLAN
 net-analyzer/vomit 0.2c: Converts a Cisco IP phone conversation into a wav file
 net-analyzer/w3af 1.6.54-r5: Web Application Attack and Audit Framework
-net-analyzer/wafw00f 0.9.5 1.0.0 2.0.0: Identifies and fingerprints Web Application Firewall (WAF) products
+net-analyzer/wafw00f 1.0.0 2.0.0 2.1.0: Identifies and fingerprints Web Application Firewall (WAF) products
 net-analyzer/wfuzz 2.4.2-r1 2.4.4 2.4.5: Wfuzz is a tool designed for bruteforcing Web Applications
 net-analyzer/whatweb 0.4.9 0.5.0: Next generation web scanner, identifies what software websites are running
 net-analyzer/wpscan 3.6.3 3.7.1 3.7.5: Wordpress security scanner
