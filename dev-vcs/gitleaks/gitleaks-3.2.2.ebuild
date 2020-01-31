@@ -39,6 +39,8 @@ EGO_VENDOR=(
 	"github.com/stretchr/testify v1.4.0"
 	"github.com/xanzy/go-gitlab v0.21.0"
 	"github.com/xanzy/ssh-agent v0.2.1"
+	"golang.org/x/crypto 4def268 github.com/golang/crypto"
+	"golang.org/x/sys fc99dfb github.com/golang/sys"
 	"golang.org/x/oauth2 0f29369 github.com/golang/oauth2"
 	"golang.org/x/net ca1201d github.com/golang/net"
 	"gopkg.in/check.v1 788fd78 github.com/go-check/check"
@@ -59,14 +61,10 @@ SRC_URI="https://github.com/zricethezav/gitleaks/archive/v${PV}.tar.gz -> ${P}.t
 
 KEYWORDS="~amd64"
 LICENSE="GPL-3"
-IUSE=""
 SLOT="0"
 RESTRICT="mirror"
 
-RDEPEND=""
 DEPEND="
-	dev-go/go-crypto:=
-	dev-go/go-sys:=
 	dev-go/go-text:=
 	dev-go/go-tools:="
 
