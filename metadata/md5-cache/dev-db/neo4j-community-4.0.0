@@ -8,4 +8,4 @@ RDEPEND=!dev-db/neo4j-advanced !dev-db/neo4j-enterprise virtual/jre
 SLOT=0
 SRC_URI=https://dist.neo4j.org/neo4j-community-4.0.0-unix.tar.gz
 _eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5	user	9903ef4e6829343eb83f1da3bda64d33
-_md5_=313fa2cd3f36814af204b90b13cab2d7
+_md5_=9052c96cc0fcf821f00260b5dabf270c
