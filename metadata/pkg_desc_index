@@ -530,7 +530,7 @@ net-analyzer/ntp-fingerprint 0.1-r2: NTP fingerprinting utility
 net-analyzer/onesixtyone 0.7: An efficient SNMP scanner
 net-analyzer/openvas-scanner 7.0.0: Open Vulnerability Assessment Scanner
 net-analyzer/osmedeus 9999: A offensive security tool for reconnaissance and vulnerability scanning
-net-analyzer/ospd 2.0.0: Base class for scanner wrappers,communication protocol for GVM
+net-analyzer/ospd 2.0.0-r1: Base class for scanner wrappers,communication protocol for GVM
 net-analyzer/ospd-openvas 1.0.0: OSP server implementation to allow GVM to remotely control an OpenVAS Scanner
 net-analyzer/owtf 2.4 2.6.0-r1: The Offensive Web Testing Framework
 net-analyzer/padbuster 20110928: Automated script for performing Padding Oracle attacks
