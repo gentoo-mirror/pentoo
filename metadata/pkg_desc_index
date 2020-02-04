@@ -502,7 +502,7 @@ net-analyzer/greenbone-security-assistant 8.0.1-r3 9.0.0-r1: Greenbone Security 
 net-analyzer/gvm 11.0.0-r5: Greenbone Vulnerability Management, OpenVAS
 net-analyzer/gvm-libs 11.0.0: Greenbone vulnerability management libraries, previously named openvas-libraries
 net-analyzer/gvm-tools 2.0.0: Remote control for Greenbone Vulnerability Manager, previously named openvas-cli
-net-analyzer/gvmd 9.0.0-r7: Greenbone vulnerability manager, previously named openvas-manager
+net-analyzer/gvmd 9.0.0-r8: Greenbone vulnerability manager, previously named openvas-manager
 net-analyzer/ham2mon 20170603: A GNU Radio (GR) based SDR scanner with a Curses interface.
 net-analyzer/httprint 301: HTTP fingerprinter tool
 net-analyzer/hyenae 0.36.1: a highly flexible packet generator
