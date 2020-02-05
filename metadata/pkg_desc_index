@@ -317,7 +317,7 @@ dev-python/pygtail 0.11.0: Reads log file lines that have not been read
 dev-python/pyhunter 0.3-r1 9999: PyHunter.io wrappper (often for marketing ), Redteam's use as OSINT wrapper verify harvest/emails.
 dev-python/pyinstaller 3.5: Program converting Python programs into stand-alone executables
 dev-python/pyjsparser 2.5.2 2.7.1: Fast javascript parser (based on esprima.js)
-dev-python/pylnk 0.2: Python library for reading and writing Windows shortcut files
+dev-python/pylnk 0.2_p20200105: Python library for reading and writing Windows shortcut files
 dev-python/pyminifier 2.1 2.1_p20150625: Pyminifier is a Python code minifier, obfuscator, and compressor.
 dev-python/pymisp 2.4.117: A python library for using the MISP Rest API
 dev-python/pymodbus 2.1.0: A fully featured modbus protocol stack in python
@@ -335,6 +335,7 @@ dev-python/python-ptrace 0.9.4: A Python binding of ptrace library
 dev-python/python-registry 1.2.0: A pure Python module that provides read access to Windows Registry files
 dev-python/python-slugify 3.0.3-r1: A Python Slugify application that handles Unicode
 dev-python/pytimeparse 1.1.8: A small Python module to parse various kinds of time expressions
+dev-python/pywerview 0.2.0: A Python port of PowerSploit's PowerView
 dev-python/qt-py 1.1.0 1.2.3: Minimal Python 2 & 3 shim around all Qt bindings
 dev-python/queuelib 1.5.0: Collection of persistent (disk-based) queues
 dev-python/rangeparser 0.1.3-r1: A python package to parse ranges easily
@@ -354,7 +355,7 @@ dev-python/simplekv 0.14.0: A key-value storage for binary data, support many ba
 dev-python/social-auth-core 3.2.0: Python social authentication made simple
 dev-python/soupsieve 1.9.3: A modern CSS selector implementation for BeautifulSoup
 dev-python/sphinx-autodoc-typehints 1.8.0: Type hints (PEP 484) support for the Sphinx autodoc extension
-dev-python/splinter 0.11.0: tool for testing web applications
+dev-python/splinter 0.11.0 0.13.0: tool for testing web applications
 dev-python/spry 0.5.5: social media scanner
 dev-python/sqlalchemy_mixins 1.1: Active Record, Django-like queries
 dev-python/sqlalchemy_schemadisplay 1.3: Turn SQLAlchemy DB Model into a graph
@@ -477,7 +478,7 @@ net-analyzer/cisco-scanner 1.3: scan a network for cisco routers with default pa
 net-analyzer/cisco-torch 0.4b: Cisco mass scanning, fingerprinting, and exploitation tool
 net-analyzer/commix 2.8 2.9 3.0: Automated All-in-One OS command injection and exploitation tool
 net-analyzer/cottontail 20190426: Capture all RabbitMQ messages being sent through a broker
-net-analyzer/crackmapexec 3.1.5-r2 3.1.5_p20190314-r1: A swiss army knife for pentesting Windows/Active Directory environments
+net-analyzer/crackmapexec 3.1.5-r2 3.1.5_p20190314-r1 3.1.5_p20200124: A swiss army knife for pentesting Windows/Active Directory environments
 net-analyzer/davtest 1.0: tests WebDAV enabled servers
 net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden content
 net-analyzer/dirble-bin 1.3.1 1.4.2: Fast directory scanning and scraping tool
@@ -609,7 +610,7 @@ net-misc/meg 0.2.4: Fetch many paths for many hosts - without killing the hosts
 net-misc/munin 0.14.1-r1 9999: Online hash checker for Virustotal and other services
 net-misc/photon 1.3.0 9999: Incredibly fast crawler designed for OSINT
 net-misc/rdesktop-brute 1.5.0: A Remote Desktop Protocol Client
-net-misc/sherlock 0.8.4 9999: Find usernames across social networks
+net-misc/sherlock 0.8.4 0.10.4 9999: Find usernames across social networks
 net-misc/sipp 3.6.0: SipBomber is a tool to stress SIP server/proxy implementations.
 net-misc/t50 5.8.5 5.8.7: Mixed Packet Injector & Network Stress Testing Tool
 net-misc/tcpick 0.2.1-r2: A tcp stream sniffer, tracker and capturer.
@@ -734,7 +735,7 @@ pentoo/pentoo-cinnamon 2018.2: Pentoo cinnamon meta ebuild
 pentoo/pentoo-cracking 2019.3: Pentoo cracking meta ebuild
 pentoo/pentoo-database 2018.3: Pentoo database attack meta ebuild
 pentoo/pentoo-desktop 2019.2: Pentoo meta ebuild to install all X and WM/DE related things
-pentoo/pentoo-exploit 2019.2-r1: Pentoo exploit meta ebuild
+pentoo/pentoo-exploit 2019.2-r2: Pentoo exploit meta ebuild
 pentoo/pentoo-footprint 2019.0: Pentoo footprint meta ebuild
 pentoo/pentoo-forensics 2019.4: Pentoo forensics meta ebuild
 pentoo/pentoo-forging 2019.2-r1: Pentoo forging meta ebuild
