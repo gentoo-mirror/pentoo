@@ -309,7 +309,7 @@ dev-python/pyaml 19.4.1: A module to produce pretty and readable YAML-serialized
 dev-python/pyaxmlparser 0.3.24: Parser for Android XML file and get Application Name without using Androguard
 dev-python/pybonjour 1.1.1: Python interface to Apple Bonjour and compatible DNS-SD libraries (Avahi)
 dev-python/pycopy-binascii 2.4.0: A part of standard library of the Pycopy project
-dev-python/pycryptodomex 3.9.0 3.9.4: A self-contained cryptographic library for Python
+dev-python/pycryptodomex 3.9.0 3.9.4 3.9.6: A self-contained cryptographic library for Python
 dev-python/pydispatcher 2.0.5: Multi-producer-multi-consumer signal dispatching mechanism
 dev-python/pygeoif 0.7: A basic implementation of the __geo_interface__
 dev-python/pygexf 0.2.2: A python library to generate gexf file format
