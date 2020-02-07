@@ -195,6 +195,7 @@ dev-python/DartsPyLRU 0.5: LRU Dictionaries
 dev-python/EasyProcess 0.2.7: Easy to use python subprocess interface
 dev-python/Flask-KVSession 0.6.2: Transparent server-side session support for flask
 dev-python/HTTPReplay 0.2.6: Properly interpret, decrypt, and replay pcap files
+dev-python/IP2Location 8.4.1: Python API for IP2Location database
 dev-python/Js2Py 0.66: JavaScript to Python Translator & JavaScript interpreter
 dev-python/PTP 0.3.0 0.4.2-r1: Pentester's Tools Parser
 dev-python/Protego 0.1.16: robots.txt parser with support for modern conventions
