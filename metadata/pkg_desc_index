@@ -31,7 +31,7 @@ app-editors/visual-studio-code 1.38.1 1.39.2: Multiplatform Visual Studio Code f
 app-emulation/qemu-charm 0.13.0: QEMU arm user-land emulation for CHroot ARM setup on x86*
 app-exploits/ROPgadget 5.9-r4 6.0: Tool to search for gadgets in binaries to facilitate your ROP exploitation
 app-exploits/deathstar 20180722: A tool to gain Domain Admin rights with a push of a button
-app-exploits/empire 3.0.5 3.0.6: A post-exploitation framework
+app-exploits/empire 3.0.6 3.0.7: A post-exploitation framework
 app-exploits/enumdb 2.1.0: Database brute force and post exploitation tool
 app-exploits/exploitdb 20191203 99999999: All exploits from exploit-db.com
 app-exploits/exploitdb-papers 20191203 99999999: Exploit database's papers
