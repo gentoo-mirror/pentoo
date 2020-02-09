@@ -808,7 +808,7 @@ www-apps/Tiredful-API 9999: An intentionally designed broken web application bas
 www-apps/beef 0.4.7.0_p20180720-r2 0.4.7.1 0.4.7.3: Browser exploitation framework
 www-apps/faraday 3.10.0: Integrated Penetration-Test Environment is a multiuser Penetration test IDE
 www-apps/geckodriver 0.23.0: Proxy for using WebDriver clients to interact with Gecko-based browsers.
-www-apps/rda 2.3: Web-based application for effective reporting writing
+www-apps/rda 2.3 2.4: Web-based application for effective reporting writing
 www-apps/seafile-pro-server 7.0.9 7.0.12: Meta package for Seafile Pro Edition, file sync share solution
 www-apps/vulsrepo 20190412-r3: VulsRepo is visualized based on the json report output in vuls
 www-misc/firefox-bookmarks 0.3-r1: Firefox bookmarks for the Pento ISO only
