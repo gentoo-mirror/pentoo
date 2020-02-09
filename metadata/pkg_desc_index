@@ -427,7 +427,10 @@ dev-ruby/mini_exiftool 2.10.0: wrapper for exiftool
 dev-ruby/msfrpc-client 1.1.1 1.1.2: Ruby client API to access the Rapid7 Metasploit Pro RPC service
 dev-ruby/opt_parse_validator 1.7.3 1.7.4 1.8.0 1.8.1: OptionParser lib in ruby
 dev-ruby/parseconfig 1.0.8: Provides simple parsing of standard *nix style config files.
+dev-ruby/rack-test 0.6.3: Rack::Test is a small, simple testing API for Rack apps
 dev-ruby/rails 4.2.11.1: ruby on rails is a web-application and persistance framework
+dev-ruby/rails-deprecated_sanitizer 1.0.3-r2: Deprecated sanitizer API extracted from Action View
+dev-ruby/rails-dom-testing 1.0.8-r1: Compare doms and assert certain elements exists in doms using Nokogiri
 dev-ruby/railties 4.2.11.1: Tools for creating, working with, and running Rails applications
 dev-ruby/rex 2.0.13: A variety of classes useful for security testing and exploit development
 dev-ruby/ruby-gtkhex 0.2.0: A hexadecimal widget using gtk2, inspired by GHex
