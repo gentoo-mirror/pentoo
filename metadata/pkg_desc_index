@@ -86,7 +86,7 @@ app-forensics/s3tk 0.2.0 9999: A security toolkit for Amazon S3
 app-forensics/samhain 4.3.3 4.4.0: Advanced file integrity and intrusion detection tool.
 app-forensics/scap-security-guide 0.1.46 0.1.47: Security compliance content in SCAP, Bash, Ansible, and other formats
 app-forensics/scap-workbench 1.2.0-r1: SCAP Scanner And Tailoring Graphical User Interface
-app-forensics/spiderfoot 2.12.0: The most complete OSINT collection and reconnaissance tool
+app-forensics/spiderfoot 2.12.0 3.0: The most complete OSINT collection and reconnaissance tool
 app-forensics/stegdetect 0.6 0.6-r1: A Steganography detector for JPEG
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
 app-forensics/thehive 3.3.1 3.4.0: A scalable 4-in-1 open source and free Security Incident Response Platform
@@ -202,6 +202,7 @@ dev-python/Protego 0.1.16: robots.txt parser with support for modern conventions
 dev-python/PyVirtualDisplay 0.2.4: python wrapper for Xvfb, Xephyr and Xvnc
 dev-python/Scrapy 1.8.0: A high-level Web Crawling and Web Scraping framework
 dev-python/acora 9999: Fast multi-keyword search engine for text strings
+dev-python/adblockparser 0.7: Parser for Adblock Plus rules
 dev-python/agate 1.6.1: A data analysis library that is optimized for humans instead of machines
 dev-python/agate-dbf 0.2.1: Adds read support for dbf files to agate
 dev-python/agate-excel 0.2.3: Adds read support for Excel files (xls and xlsx) to agate
@@ -245,6 +246,7 @@ dev-python/easygui 0.98.1: A module for very simple, very easy GUI programming i
 dev-python/editorconfig 0.12.1-r1 0.12.2: EditorConfig File Locator and Interpreter for Python
 dev-python/egghatch 0.2.3-r2: Cuckoo Sandbox Shellcode Identification & Formatting
 dev-python/esmre 0.3.1: Regular expression accelerator
+dev-python/exifread 2.2.0: Read Exif metadata from tiff and jpeg files
 dev-python/face_recognition 1.2.3: Recognize faces from Python or from the command line
 dev-python/face_recognition_models 0.3.0: Models used by the face_recognition package.
 dev-python/fake-useragent 0.1.11: Up to date simple useragent faker with real world database
@@ -278,6 +280,7 @@ dev-python/interfax 1.0.0: InterFAX Python Package
 dev-python/intervaltree 3.0.2: Editable interval tree data structure for Python 2 and 3
 dev-python/ipaddr 2.2.0: Python IP address manipulation library
 dev-python/ipparser 0.3.5: Parse IP address information
+dev-python/ipwhois 1.0.0: Retrieve and parse whois data for IPv4 and IPv6 addresses
 dev-python/isc_dhcp_leases 0.8.1 0.9.1: Small python module for reading /var/lib/dhcp/dhcpd.leases from isc-dhcp-server
 dev-python/itypes 1.1.0: Simple immutable types for python
 dev-python/javalang 0.12.0: A pure Python library for working with Java source code
@@ -332,15 +335,19 @@ dev-python/pynetfilter_conntrack 0.4.2: Python binding of libnetfilter_conntrack
 dev-python/pypcapfile 0.12.0: Pure Python package for reading and parsing libpcap savefiles
 dev-python/pyppeteer 0.0.25: Headless chrome/chromium automation library
 dev-python/python-cas-haiwen 20180411: Python CAS client library
+dev-python/python-docx 0.8.10: Create and modify Word documents with Python
 dev-python/python-gvm 1.1.0: Library to communicate with remote servers over GMP or OSP
 dev-python/python-iptools 0.6.1 0.6.1_p20181212: A package is a collection of utilities for dealing with IP addresses.
 dev-python/python-libnmap 0.7.0: A python library enabling python developers to manipulate nmap process and data
 dev-python/python-nmap 0.6.1: a python library which helps in using nmap port scanner
 dev-python/python-ntlm 1.1.0-r1: Python library for NTLM support
 dev-python/python-oauth2 1.1.0-r1 1.1.1: OAuth 2.0 provider for python
+dev-python/python-pptx 0.6.18: Create Open XML PowerPoint documents in Python
 dev-python/python-ptrace 0.9.4: A Python binding of ptrace library
 dev-python/python-registry 1.2.0: A pure Python module that provides read access to Windows Registry files
+dev-python/python-secure 0.2.1: Secure headers and cookies for Python web frameworks
 dev-python/python-slugify 3.0.3-r1: A Python Slugify application that handles Unicode
+dev-python/python-whois 0.7.2: Whois querying and parsing of domain registration information
 dev-python/pytimeparse 1.1.8: A small Python module to parse various kinds of time expressions
 dev-python/pywerview 0.2.0: A Python port of PowerSploit's PowerView
 dev-python/qt-py 1.1.0 1.2.3: Minimal Python 2 & 3 shim around all Qt bindings
@@ -475,7 +482,7 @@ dev-util/sonarqube-bin 7.9.2 8.1.0.31237: SonarQube Community Edition is an open
 dev-util/sonarscanner-bin 4.2.0.1873: SonarQube Command-Line Scanner
 dev-util/unicorn 1.0.1-r5 1.0.2_rc1: A lightweight multi-platform, multi-architecture CPU emulator framework
 dev-util/valabind 1.4.0 1.7.1: Valabind is a tool to parse vala or vapi files to transform them into swig files
-dev-vcs/gitleaks 2.1.0-r1 3.2.2: Audit git repos for secrets
+dev-vcs/gitleaks 2.1.0-r1 3.2.2 3.3.0: Audit git repos for secrets
 dev-vcs/trufflehog 2.0.97_p20190506-r1: Searches through git repositories for high entropy strings and secrets
 gnome-base/gnome-keyring 3.28.2 3.31.91-r1 3.34.0-r1: Password and keyring managing daemon
 gnome-base/libgnomeui 2.24.5-r4: User Interface routines for Gnome
