@@ -637,7 +637,7 @@ net-misc/meg 0.2.4: Fetch many paths for many hosts - without killing the hosts
 net-misc/munin 0.14.1-r1 9999: Online hash checker for Virustotal and other services
 net-misc/photon 1.3.0 9999: Incredibly fast crawler designed for OSINT
 net-misc/rdesktop-brute 1.5.0: A Remote Desktop Protocol Client
-net-misc/sherlock 0.8.4 0.10.4 9999: Find usernames across social networks
+net-misc/sherlock 0.10.4 9999: Find usernames across social networks
 net-misc/sipp 3.6.0: SipBomber is a tool to stress SIP server/proxy implementations.
 net-misc/t50 5.8.5 5.8.7: Mixed Packet Injector & Network Stress Testing Tool
 net-misc/tcpick 0.2.1-r2: A tcp stream sniffer, tracker and capturer.
