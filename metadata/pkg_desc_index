@@ -654,7 +654,6 @@ net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal networ
 net-proxy/proxenet 0.4.1: A hacker friendly proxy for web application penetration tests.
 net-proxy/proxenet-plugins 9999: Repository for proxenet plugins
 net-proxy/proxystrike 2.0 2.2: A tool designed to find vulnerabilities while browsing an application
-net-proxy/redsocks 0.5 9999: Transparent redirector of any TCP connection to proxy
 net-proxy/sshttp 0.35_p2: an easy to use OSI-Layer5 switching daemon
 net-proxy/zaproxy 2.7.0-r1 2.8.0 2.8.1 2.9.0: The OWASP Zed Attack Proxy for finding vulnerabilities in web applications
 net-vpn/kcptun 20200103: A Stable & Secure Tunnel Based On KCP with N:M Multiplexing
@@ -675,7 +674,6 @@ net-wireless/bt-audit 0.1.1-r1: A small bluetooth audit suite
 net-wireless/btle-sniffer 0.2: A BTLE (Bluetooth Low energy)/BT4.0 radio packet sniffer/scanner and sender
 net-wireless/btscanner 2.1-r5: A utility for bluetooth scanning and discovery
 net-wireless/bully 1.0.22 1.1 1.1_p20170417 1.1_p20170926: A wifi-protected-setup (WPS) brute force attack tool, similar to reaver
-net-wireless/compat-wireless 2.6.32.8 2.6.33-r1 2.6.34-r2 2.6.35-r1 2.6.36 2.6.37-r7 2.6.37-r8 2.6.38.2-r1 2.6.39-r1 3.0 3.1.1 3.2 3.2.5 3.3 3.3-r1 3.4_rc1 3.4_rc1-r1 3.4_rc3 3.5_rc3 3.5 3.5-r1 3.5.4 3.6_rc5 3.6_rc7 3.6.2 3.6.6 3.6.6-r1: Stable kernel pre-release wifi subsystem backport
 net-wireless/cowpatty 4.8-r1: WLAN tools for bruteforcing 802.11 WPA/WPA2 keys
 net-wireless/crda 1.1.0-r1 1.1.1: Central Regulatory Domain Agent for wireless networks.
 net-wireless/create_ap 0.4.6: A script to create a NATed or bridged WiFi access point
@@ -739,8 +737,6 @@ net-wireless/rfidler 0.01_p20160313 0.01_p20180128: Software defined RFID (LF) R
 net-wireless/rfidtool 0.01: command line rfid interface
 net-wireless/rtl8812au 4.2.5 4.3.1.4 4.3.14_p20190827 5.2.9_p20180327 5.2.20.2_p20190904 9999: Driver for AC1200 (801.11ac) Wireless Dual-Band USB Adapter
 net-wireless/rtl8812au_aircrack-ng 5.2.20_p20191030-r1 5.3.4_p20191030 9999: RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection
-net-wireless/rtl8812au_astsam 4.3.21_p20170324 9999: Driver for AC1200 (801.11ac) Wireless Dual-Band USB Adapter
-net-wireless/rtl8812au_asus 4.3.2_p20150929 4.3.2_p20160101 4.3.2_p20170702: Linux kernel module for ASUS USB-AC56
 net-wireless/rtl8822bu 5.3.1_p20190920 9999: RTL88x2BU driver with monitor mode and frame injection
 net-wireless/rx_tools 1.0.3-r1 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
 net-wireless/ska 0.2: Fake Shared Key Authentication
