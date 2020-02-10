@@ -265,7 +265,7 @@ dev-python/flask-session 0.3.1: Adds server-side session support to your Flask a
 dev-python/fpdf 1.7.2: Simple PDF generation for Python
 dev-python/frida-python 12.8.0 12.8.6: Dynamic instrumentation toolkit for reverse-engineers and security researchers
 dev-python/geoip2-python 2.8.0: Python bindings for GeoIP2
-dev-python/google-play-scraper 0.0.1.6: APIs to easily crawl the Google Play Store for Python
+dev-python/google-play-scraper 0.0.1.6 0.0.1.8: APIs to easily crawl the Google Play Store for Python
 dev-python/googlesearch 20181112-r1: Google search from Python
 dev-python/gpapi 0.4.3 0.4.4: Unofficial python api for google play
 dev-python/grequests 0.4.0: Use Requests with Gevent to make asyncronous HTTP Requests easily
