@@ -2,12 +2,12 @@ DEFINED_PHASES=install setup
 DESCRIPTION=Brute-Forcing from Nmap output - Automatically attempts default creds on found services
 EAPI=7
 HOMEPAGE=https://github.com/x90skysn3k/brutespray
-IUSE=+python_targets_python2_7 +python_single_target_python2_7
+IUSE=+python_single_target_python2_7
 KEYWORDS=~amd64 ~arm64 ~mips ~x86
 LICENSE=MIT
-RDEPEND=python_single_target_python2_7? ( >=dev-lang/python-2.7.5-r2:2.7 >=dev-lang/python-exec-2:=[python_targets_python2_7] ) dev-python/argcomplete[python_targets_python2_7(-)?,-python_single_target_pypy3(-),-python_single_target_python3_6(-),-python_single_target_python3_7(-),-python_single_target_python3_8(-),python_single_target_python2_7(+)?]
-REQUIRED_USE=^^ ( python_single_target_python2_7 ) python_single_target_python2_7? ( python_targets_python2_7 )
+RDEPEND=python_single_target_python2_7? ( >=dev-lang/python-2.7.5-r2:2.7 >=dev-lang/python-exec-2:=[python_targets_python2_7] ) dev-python/argcomplete[%PYTHON_USEDEP-HAS-BEEN-REMOVED%]
+REQUIRED_USE=^^ ( python_single_target_python2_7 )
 SLOT=0
 SRC_URI=https://github.com/x90skysn3k/brutespray/archive/brutespray-1.6.4.tar.gz
-_eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5	multilib	1d91b03d42ab6308b5f4f6b598ed110e	python-single-r1	36ac48e647d2627de28c87aaffb94753	python-utils-r1	611c493a4cfef5254350fabc04b606f5	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
+_eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5	multilib	1d91b03d42ab6308b5f4f6b598ed110e	python-single-r1	fdfdbe462f245e931069310e892a8538	python-utils-r1	611c493a4cfef5254350fabc04b606f5	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
 _md5_=b2436d406be51102d63b5039b949c7fd
