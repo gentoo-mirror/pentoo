@@ -1,5 +1,5 @@
 diff --git a/catalyst/hash_utils.py b/catalyst/hash_utils.py
-index 1134f50..0455ea1 100644
+index 1134f50..dc3a8d6 100644
 --- a/catalyst/hash_utils.py
 +++ b/catalyst/hash_utils.py
 @@ -11,6 +11,7 @@ from catalyst.support import CatalystError
@@ -19,7 +19,7 @@ index 1134f50..0455ea1 100644
 -		mylines = source.communicate()[0]
 -		mylines=mylines[0].split()
 +		output = source.communicate()
-+		mylines = output[0].decode('ascii').split('\n')
++		mylines = output[0].decode('ascii')
 +		log.debug('output = %s', mylines)
  		result=mylines[0]
  		log.info('%s (%s) = %s', _hash.id, file_, result)
