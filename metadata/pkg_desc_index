@@ -737,7 +737,7 @@ net-wireless/rtl8812au_aircrack-ng 5.2.20_p20191030-r1 5.3.4_p20191030 9999: RTL
 net-wireless/rtl8822bu 5.3.1_p20190920 9999: RTL88x2BU driver with monitor mode and frame injection
 net-wireless/rx_tools 1.0.3-r1 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
 net-wireless/ska 0.2: Fake Shared Key Authentication
-net-wireless/sniffair 1.1 3.0: SniffAir framework for wireless pentesting
+net-wireless/sniffair 3.0: SniffAir framework for wireless pentesting
 net-wireless/trunk-recorder 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
 net-wireless/virtualradar-bin 2.0.1 2.3.1: Open-source .NET application for ads-b mapping
 net-wireless/wifi-pumpkin 0.8.8-r2: Framework for Rogue Wi-Fi Access Point Attack
