@@ -566,7 +566,7 @@ net-analyzer/ppscan 0.3: Port scanner with HTTP and FTP tunneling support
 net-analyzer/pret 20180611: Printer Exploitation Toolkit
 net-analyzer/rdp-sec-check 20181109: Remote Desktop Protocol security settings checker
 net-analyzer/recon-ng 5.0.0-r1 5.0.1 5.1.0 9999: Web Reconnaissance Framework
-net-analyzer/responder 2.3.4.0-r1 3.0.0.0: LLMNR, NBT-NS and MDNS poisoner, HTTP/SMB/MSSQL/FTP/LDAP rogue authentication
+net-analyzer/responder 3.0.0.0-r1: LLMNR, NBT-NS and MDNS poisoner, HTTP/SMB/MSSQL/FTP/LDAP rogue authentication
 net-analyzer/rpcapd 4.1.3: Remote packet capture daemon
 net-analyzer/ruler 2.2.0: A tool to abuse Exchange services
 net-analyzer/scamper 20181219 20190916 20191102a: Actively probes the Internet in order to analyze topology and performance
@@ -682,7 +682,7 @@ net-wireless/fosphor_knob 0.9-r1: A visualization we use for the Wireless Villag
 net-wireless/gnuradio 3.8.0.0: Toolkit that provides signal processing blocks to implement software radios
 net-wireless/gps-sdr-sim 9999: GPS Spoofing tool for transmit capable SDR's like the HackRF, bladeRF and USRP
 net-wireless/gr-acars2 9999: GNU Radio block for ACARS transmissions
-net-wireless/gr-air-modes 20170929 20191016: This module implements a complete Mode S and ADS-B receiver for Gnuradio
+net-wireless/gr-air-modes 20191016: This module implements a complete Mode S and ADS-B receiver for Gnuradio
 net-wireless/gr-ais 9999: GNU Radio block that decodes Automatic Information System for shipborne position reporting
 net-wireless/gr-ax25 9999: GNU Radio block for ax.25 routines
 net-wireless/gr-correctiq 9999: GNU Radio block to remove that IQ DC spike
@@ -741,7 +741,7 @@ net-wireless/sniffair 1.1 3.0: SniffAir framework for wireless pentesting
 net-wireless/trunk-recorder 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
 net-wireless/virtualradar-bin 2.0.1 2.3.1: Open-source .NET application for ads-b mapping
 net-wireless/wifi-pumpkin 0.8.8-r2: Framework for Rogue Wi-Fi Access Point Attack
-net-wireless/wifitap 0.4.1 0.4.2: A wireless tool to do direct connection to client without passing through an AP
+net-wireless/wifitap 0.4.2-r1: A wireless tool to do direct connection to client without passing through an AP
 net-wireless/wifite 2.2.5-r3 9999: An automated wireless attack tool
 net-wireless/wireless-regdb 20090130-r1 20090309 20090817 20091125 20091125-r1: Binary regulatory database for CRDA
 net-wireless/wpa_sycophant 1.0 9999: Evil client portion of EAP relay attack
