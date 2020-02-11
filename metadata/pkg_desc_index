@@ -389,7 +389,6 @@ dev-python/webargs 5.5.2: Declarative parsing and validation of HTTP request obj
 dev-python/websocket-client 0.57.0: WebSocket client for python with hybi13 support
 dev-python/websockets 7.0: An implementation of the WebSocket Protocol (RFC 6455 & 7692)
 dev-python/whitenoise 5.0.1: Radically simplified static file serving for WSGI applications
-dev-python/wsgiref 0.1.2: WSGI (PEP 333) Reference Library
 dev-python/yamllint 1.17.0: A linter for YAML files
 dev-python/yara-python 3.10.0-r1 3.11.0: Python interface for a malware identification and classification tool
 dev-python/yaswfp 0.9.3: Yet Another SWF Parser.
@@ -589,7 +588,7 @@ net-analyzer/testssl 3.0: Tool to check TLS/SSL cipher support
 net-analyzer/thc-pptp-bruter 0.1.4: A brute force program that works against pptp vpn endpoints
 net-analyzer/thc-ssl-dos 1.4: THC-SSL-DOS is a tool to verify the performance of SSL servers
 net-analyzer/theHarvester 3.0.6_p20190415 3.1-r1: The Harvester is a tool designed to collect email accounts of the target domain
-net-analyzer/tplmap 20181029: Server-Side Template Injection and code injection tool
+net-analyzer/tplmap 20190820: Server-Side Template Injection and code injection tool
 net-analyzer/ucsniff 3.20 3.20-r1: VoIP audio & video sniffer
 net-analyzer/unicornscan 0.4.7.2: A utility for information gathering or security auditing
 net-analyzer/upnpwn 0.8.0-r1: UPNP pentesting tool and library
