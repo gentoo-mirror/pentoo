@@ -677,7 +677,7 @@ net-wireless/create_ap 0.4.6: A script to create a NATed or bridged WiFi access 
 net-wireless/dsd 1.6.0 9999: Digital Speech Decoder
 net-wireless/eaphammer 1.9 1.12.0: Targeted evil twin attacks against WPA2-Enterprise networks
 net-wireless/editcp-bin 1.0.16 1.0.18: 
-net-wireless/fern-wifi-cracker 2.9 3.0: Wireless tool for WEP/WPA cracking and WPS keys recovery
+net-wireless/fern-wifi-cracker 3.0: Wireless tool for WEP/WPA cracking and WPS keys recovery
 net-wireless/fosphor_knob 0.9-r1: A visualization we use for the Wireless Village
 net-wireless/gnuradio 3.8.0.0: Toolkit that provides signal processing blocks to implement software radios
 net-wireless/gps-sdr-sim 9999: GPS Spoofing tool for transmit capable SDR's like the HackRF, bladeRF and USRP
