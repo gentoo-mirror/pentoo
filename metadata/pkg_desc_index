@@ -194,8 +194,8 @@ dev-python/EasyProcess 0.2.7: Easy to use python subprocess interface
 dev-python/Flask-KVSession 0.6.2: Transparent server-side session support for flask
 dev-python/HTTPReplay 0.2.6: Properly interpret, decrypt, and replay pcap files
 dev-python/IP2Location 8.4.1: Python API for IP2Location database
-dev-python/Js2Py 0.66: JavaScript to Python Translator & JavaScript interpreter
-dev-python/PTP 0.3.0 0.4.2-r1: Pentester's Tools Parser
+dev-python/Js2Py 0.67_p20200212: JavaScript to Python Translator & JavaScript interpreter
+dev-python/PTP 0.4.2-r1: Pentester's Tools Parser
 dev-python/Protego 0.1.16: robots.txt parser with support for modern conventions
 dev-python/PyVirtualDisplay 0.2.4: python wrapper for Xvfb, Xephyr and Xvnc
 dev-python/Scrapy 1.8.0: A high-level Web Crawling and Web Scraping framework
@@ -557,7 +557,7 @@ net-analyzer/openvas-scanner 7.0.0: Open Vulnerability Assessment Scanner
 net-analyzer/osmedeus 9999: A offensive security tool for reconnaissance and vulnerability scanning
 net-analyzer/ospd 2.0.0-r1: Base class for scanner wrappers,communication protocol for GVM
 net-analyzer/ospd-openvas 1.0.0: OSP server implementation to allow GVM to remotely control an OpenVAS Scanner
-net-analyzer/owtf 2.4 2.6.0-r1: The Offensive Web Testing Framework
+net-analyzer/owtf 2.6.0-r1: The Offensive Web Testing Framework
 net-analyzer/padbuster 20110928: Automated script for performing Padding Oracle attacks
 net-analyzer/plecost 9999: Wordpress finger printing tool, retrieve information about the plugins and versions installed
 net-analyzer/polenum 1.6: Extract password policy from a windows machine
