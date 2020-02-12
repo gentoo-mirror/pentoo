@@ -453,8 +453,8 @@ dev-util/collabreate 0.4.0_p20140528: A plugin for IDA Pro designed to provide c
 dev-util/dependency-check-bin 5.1.0 5.2.1 5.2.4: A utility that detects vulnerabilities in application dependencies
 dev-util/dex2jar 2.1_pre20150601 2.1_pre20180402: Tools to work with android .dex and java .class files
 dev-util/dwarf-debugger 1.0.0 1.0.1: Full featured multi arch/os debugger built on top of PyQt5 and frida
-dev-util/electron-bin 5.0.3: Cross platform application development framework based on web technologies
-dev-util/electron-packager 13.0.1 14.0.1: Six Degrees of Domain Admin
+dev-util/electron-bin 6.0.11: Cross platform application development framework based on web technologies
+dev-util/electron-packager 14.0.1 14.2.1: Six Degrees of Domain Admin
 dev-util/emilpro 3_p20170708 3_p20180111: Graphical disassembler for a large number of instruction sets
 dev-util/frida-tools 5.3.0 6.0.0: Frida CLI tools
 dev-util/ghidra 9.1 9.1.1: A software reverse engineering framework
@@ -808,7 +808,7 @@ sys-kernel/wireless-testing 9999: Wireless integration testing tree
 sys-libs/libkudzu 1.2.85.1: Red Hat Hardware detection tools
 sys-power/acpid 2.0.30 2.0.31 2.0.32: Daemon for Advanced Configuration and Power Interface
 virtual/linux-sources 3-r104: Virtual for Linux kernel sources
-www-apps/BloodHound 2.1.0 2.2.0 2.2.1-r1: Six Degrees of Domain Admin
+www-apps/BloodHound 2.1.0 2.2.0 2.2.1-r1 3.0.0: Six Degrees of Domain Admin
 www-apps/Tiredful-API 9999: An intentionally designed broken web application based on REST API
 www-apps/beef 0.4.7.0_p20180720-r2 0.4.7.1 0.4.7.3: Browser exploitation framework
 www-apps/faraday 3.10.0: Integrated Penetration-Test Environment is a multiuser Penetration test IDE
