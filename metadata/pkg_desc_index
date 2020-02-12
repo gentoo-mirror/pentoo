@@ -674,7 +674,6 @@ net-wireless/eaphammer 1.12.0: Targeted evil twin attacks against WPA2-Enterpris
 net-wireless/editcp-bin 1.0.16 1.0.18: 
 net-wireless/fern-wifi-cracker 3.0: Wireless tool for WEP/WPA cracking and WPS keys recovery
 net-wireless/fosphor_knob 0.9-r1: A visualization we use for the Wireless Village
-net-wireless/gnuradio 3.8.0.0: Toolkit that provides signal processing blocks to implement software radios
 net-wireless/gps-sdr-sim 9999: GPS Spoofing tool for transmit capable SDR's like the HackRF, bladeRF and USRP
 net-wireless/gr-acars2 9999: GNU Radio block for ACARS transmissions
 net-wireless/gr-air-modes 20191016: This module implements a complete Mode S and ADS-B receiver for Gnuradio
@@ -705,7 +704,7 @@ net-wireless/intel-wimax-tools 1.4.2 1.4.2.1: Tools to use Intel's WiMax cards
 net-wireless/ipw2200 1.2.0: Driver for the Intel 2200BG/2915ABG miniPCI/PCI adapters patched with modified inject patches
 net-wireless/kalibrate-hackrf 9999: A tool to scan GSM base stations and calculate the local oscillator frequency offset
 net-wireless/karmetasploit 0.1-r3: KARMA + Metasploit 3 == Karmetasploit
-net-wireless/killerbee 2.6.1_pre20180626 2.7.0_pre20190218 9999: Framework and Tools for Attacking ZigBee and IEEE 802.15.4 networks
+net-wireless/killerbee 2.7.0_pre20190218 9999: Framework and Tools for Attacking ZigBee and IEEE 802.15.4 networks
 net-wireless/killerzee 9999: Tools for Attacking and Evaluating Z-Wave Networks
 net-wireless/kismet_shootout 0.0_p20190717 9999: Kismet WiFi data source shootout
 net-wireless/libfreefare 0.4.0: a library for high level manipulation of MIFARE tags
