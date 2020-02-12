@@ -1,14 +1,14 @@
-BDEPEND=>=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.1:1.16 >=sys-devel/automake-1.15.1:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+BDEPEND=virtual/pkgconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.1:1.16 >=sys-devel/automake-1.15.1:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
 DEFINED_PHASES=configure prepare
-DEPEND=>=app-pda/libplist-2.1.0:= virtual/libusb:1 !=app-pda/usbmuxd-1.0.9* !<app-pda/usbmuxd-1.0.8_p1 virtual/os-headers virtual/pkgconfig
+DEPEND=app-pda/libplist:= virtual/libusb:1 !=app-pda/usbmuxd-1.0.9* !<app-pda/usbmuxd-1.0.8_p1 virtual/os-headers
 DESCRIPTION=USB multiplex daemon for use with Apple iPhone/iPod Touch devices
 EAPI=7
-HOMEPAGE=http://www.libimobiledevice.org/
+HOMEPAGE=https://www.libimobiledevice.org/
 IUSE=kernel_linux static-libs
 KEYWORDS=amd64 ~arm ~ppc ~ppc64 x86
 LICENSE=GPL-2+ LGPL-2.1+
-RDEPEND=>=app-pda/libplist-2.1.0:= virtual/libusb:1 !=app-pda/usbmuxd-1.0.9* !<app-pda/usbmuxd-1.0.8_p1
+RDEPEND=app-pda/libplist:= virtual/libusb:1 !=app-pda/usbmuxd-1.0.9* !<app-pda/usbmuxd-1.0.8_p1
 SLOT=0/6.0.0
 SRC_URI=https://github.com/libimobiledevice/libusbmuxd/archive/2.0.1.tar.gz -> libusbmuxd-2.0.1.tar.gz
 _eclasses_=autotools	ea7865c8fba1ea8d3639f355fffe1a3c	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
-_md5_=d70773a12e7e0ed655ff6145744dee89
+_md5_=02b8e33e56dca0d16c5f15c791f0e461

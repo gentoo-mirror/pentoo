@@ -114,7 +114,7 @@ app-misc/solaar 9999: A Linux device manager for Logitech's Unifying Receiver pe
 app-officeext/languagetool 4.6 4.8: Style and Grammar Checker for libreoffice
 app-pda/ideviceinstaller 1.1.0 1.1.0_p20181001 1.1.0_p20191028: A tool to interact with the installation_proxy of an Apple's iDevice
 app-pda/libimobiledevice 1.2.0-r2 1.2.1_pre20190521 1.2.1_pre20190719: Support library to communicate with Apple iPhone/iPod Touch devices
-app-pda/libplist 2.0.0 2.1.0: Support library to deal with Apple Property Lists (Binary & XML)
+app-pda/libplist 2.1.0: Support library to deal with Apple Property Lists (Binary & XML)
 app-pda/libusbmuxd 1.1.0_pre20190328 2.0.1: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
 app-pda/usbmuxd 1.1.0 1.1.1_pre20180131 1.1.1_pre20191112: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
 app-text/cewl 5.4.7 5.4.8 9999: A custom word list generator
@@ -236,7 +236,6 @@ dev-python/django-simple-captcha 0.5.11-r1: A very simple, yet powerful, Django 
 dev-python/django-statici18n 1.8.3: Django helper for generating Javascript catalog to static files
 dev-python/django-webpack-loader 0.6.0: Transparently use webpack with django
 dev-python/django_compressor 2.3: Compresses linked and inline JavaScript or CSS into single cached files
-dev-python/dnsdumpster 0.5-r1: Python API for dnsdumpster.com
 dev-python/dotty 9999: EFILTER Query Language
 dev-python/dropbox-sdk 9.3.0 9.4.0: A Python SDK for integrating with the Dropbox API v2.
 dev-python/easygui 0.98.1: A module for very simple, very easy GUI programming in Python
@@ -312,7 +311,6 @@ dev-python/poster 0.8.1: Make HTTP POST/PUT with multipart/form-data encoding
 dev-python/proxy-db 0.2.3: Manage free and private proxies on local db for Python Projects
 dev-python/pyDes 2.0.1: Pure python implementation of DES and TRIPLE DES encryption algorithm
 dev-python/pyaff4 9999: Python Advanced Forensic Format Version 4 library.
-dev-python/pyaml 19.4.1: A module to produce pretty and readable YAML-serialized data
 dev-python/pyaxmlparser 0.3.24: Parser for Android XML file and get Application Name without using Androguard
 dev-python/pybonjour 1.1.1: Python interface to Apple Bonjour and compatible DNS-SD libraries (Avahi)
 dev-python/pycopy-binascii 2.4.0: A part of standard library of the Pycopy project
