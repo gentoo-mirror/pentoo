@@ -42,7 +42,7 @@ app-exploits/linux-exploit-suggester 20140519 99999999: Linux Exploit Suggester 
 app-exploits/linuxprivchecker 20160302 99999999: A Linux Privilege Escalation Check Script
 app-exploits/packetstormexploits 2012.12 2013.12 2014.12 2015.12 2016.12 2017.12 2018.12 2019.12: Archive of packetstorm exploits
 app-exploits/packetstormexploits-meta 2019: Meta ebuild of packetstorm exploits
-app-exploits/pwntools 4.0.0 4.0.1: CTF framework and exploit development library
+app-exploits/pwntools 4.0.1: CTF framework and exploit development library
 app-exploits/ropper 1.13.3-r2 1.13.5 9999: Use to display information about binary files in different file formats
 app-exploits/routersploit 3.4.0-r1 9999: An open-source exploitation framework dedicated to embedded devices
 app-exploits/the-backdoor-factory 3.4.2-r2: BDF allows to patch executable binaries with user desired shellcode
@@ -69,7 +69,7 @@ app-forensics/make-pdf 0.1.7-r1: This tool will embed javascript inside a PDF do
 app-forensics/maltego 4.2.6.12502 4.2.7.12570: Visualise, map and mine data
 app-forensics/mxtract 1.1: A memory extractor & analyzer
 app-forensics/mysql-magic 9999: dump mysql client password from memory
-app-forensics/oletools 0.55 0.55.1: A python tools to analyze MS OLE2 files and MS Office documents
+app-forensics/oletools 0.55.1: A python tools to analyze MS OLE2 files and MS Office documents
 app-forensics/openscap-daemon 0.1.10: Manages continuous scans of your infrastructure
 app-forensics/origami-pdf 2.1.0: A Ruby framework designed to parse, analyze, and forge PDF documents
 app-forensics/pcileech 4.2 4.3 4.4: Direct Memory Access (DMA) Attack Software
@@ -81,7 +81,7 @@ app-forensics/rdd 3.0.4-r4: Rdd is a forensic copy program
 app-forensics/reglookup 1.0.1-r1 9999: An utility for reading and querying Windows NT/2K/XP registries
 app-forensics/rekall-core 9999: Rekall Memory Forensic Framework
 app-forensics/rekall-gui 9999: Rekall Memory Forensic Framework
-app-forensics/s3tk 0.2.0 9999: A security toolkit for Amazon S3
+app-forensics/s3tk 0.3.0 9999: A security toolkit for Amazon S3
 app-forensics/samhain 4.3.3 4.4.0: Advanced file integrity and intrusion detection tool.
 app-forensics/scap-security-guide 0.1.46 0.1.47: Security compliance content in SCAP, Bash, Ansible, and other formats
 app-forensics/scap-workbench 1.2.0-r1: SCAP Scanner And Tailoring Graphical User Interface
@@ -465,7 +465,7 @@ dev-util/memfetch 0.05b: A simple utility to dump all memory of a running proces
 dev-util/mobsf 3.0.1: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
 dev-util/objection 1.8.3 1.8.4: Runtime mobile exploration
 dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIPS
-dev-util/qark 0.9_pre20181218 0.9_pre20190405: A tool to look for Android application vulnerabilities
+dev-util/qark 0.9_pre20190405: A tool to look for Android application vulnerabilities
 dev-util/recaf-bin 1.15.9 1.15.10: A modern Java bytecode editor
 dev-util/redasm 2.1.1: The OpenSource Disassembler
 dev-util/retdec 3.3-r1: RetDec is a retargetable machine-code decompiler based on LLVM.
@@ -671,7 +671,7 @@ net-wireless/cowpatty 4.8-r1: WLAN tools for bruteforcing 802.11 WPA/WPA2 keys
 net-wireless/crda 1.1.0-r1 1.1.1: Central Regulatory Domain Agent for wireless networks.
 net-wireless/create_ap 0.4.6: A script to create a NATed or bridged WiFi access point
 net-wireless/dsd 1.6.0 9999: Digital Speech Decoder
-net-wireless/eaphammer 1.9 1.12.0: Targeted evil twin attacks against WPA2-Enterprise networks
+net-wireless/eaphammer 1.12.0: Targeted evil twin attacks against WPA2-Enterprise networks
 net-wireless/editcp-bin 1.0.16 1.0.18: 
 net-wireless/fern-wifi-cracker 3.0: Wireless tool for WEP/WPA cracking and WPS keys recovery
 net-wireless/fosphor_knob 0.9-r1: A visualization we use for the Wireless Village
