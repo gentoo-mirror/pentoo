@@ -59,7 +59,7 @@ app-forensics/fuxploider 1.0 9999: File upload vulnerability scanner and exploit
 app-forensics/guymager 0.8.8 0.8.11: Guymager is a fast and user friendly forensic imager.
 app-forensics/inception 0.4.2: Firewire physical memory manipulation tool exploiting IEEE 1394 SBP-2 DMA
 app-forensics/kjackal 99999999: Linux Rootkit Scanner
-app-forensics/lazagne 2.4.3 9999: Credentials recovery project
+app-forensics/lazagne 2.4.3-r1 9999: Credentials recovery project
 app-forensics/libbfio 20180910 20190112: Library for providing a basic file input/output abstraction layer
 app-forensics/libforensic1394 0.2-r1 9999: Library for carrying out memory forensics using firewire/ieee1394
 app-forensics/libpff 20161119 20180714: Library for accessing Personal Folder Files
