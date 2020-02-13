@@ -105,7 +105,7 @@ app-fuzz/snmp-fuzzer 0.1.1-r1: A very complete snmp fuzzer
 app-fuzz/spike 2.9-r1: A generic network fuzzer
 app-misc/cyberchef 9.12.0: A web app for encryption, encoding, compression and data analysis (offline)
 app-misc/freediag 1.08: Free diagnostic software for OBD-II compliant motor vehicles
-app-misc/gplaycli 3.26: Google Play Downloader via Command line
+app-misc/gplaycli 3.26 3.27: Google Play Downloader via Command line
 app-misc/libmsr 9999: Reading, writing and analysis of magnetic stripe information
 app-misc/mat2 0.10.0: A handy tool to trash your metadata
 app-misc/openobd 0.5.0: OBD-II Scan Tool supporting ELM327 devices
@@ -261,7 +261,7 @@ dev-python/frida-python 12.8.0 12.8.6: Dynamic instrumentation toolkit for rever
 dev-python/geoip2-python 2.8.0: Python bindings for GeoIP2
 dev-python/google-play-scraper 0.0.1.8: APIs to easily crawl the Google Play Store for Python
 dev-python/googlesearch 20181112-r1: Google search from Python
-dev-python/gpapi 0.4.3 0.4.4: Unofficial python api for google play
+dev-python/gpapi 0.4.4-r1: Unofficial python api for google play
 dev-python/grequests 0.4.0: Use Requests with Gevent to make asyncronous HTTP Requests easily
 dev-python/guess-language 0.2 0.5.2: Guess the natural language of a text
 dev-python/halberd 0.2.4-r1: HTTP load balancer detector
