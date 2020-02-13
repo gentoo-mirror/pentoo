@@ -24,7 +24,7 @@ app-crypt/stegcracker 2.0.7 20190219-r1: Steganography brute-force utility to un
 app-crypt/steghide 0.5.1: A steganography program which hides data in various media files
 app-crypt/wisecracker 1.0-r1: An open source framework for tools that can distribute brute force cryptanalysis
 app-crypt/xortool 0.98: A tool to analyze multi-byte xor cipher
-app-crypt/yubioath-desktop 5.0.1-r2 5.0.2 9999: Library and tool for personalization of Yubico's YubiKey NEO
+app-crypt/yubioath-desktop 5.0.1-r2 5.0.2_p20200211 9999: Library and tool for personalization of Yubico's YubiKey NEO
 app-dicts/raft-wordlists 20110803-r1: Raft wordlists
 app-dicts/seclists 2019.2 2019.3 2019.4 2020.1: A collection of multiple types of lists used during security assessments
 app-editors/visual-studio-code 1.38.1 1.39.2: Multiplatform Visual Studio Code from Microsoft
@@ -205,7 +205,6 @@ dev-python/agate-excel 0.2.3: Adds read support for Excel files (xls and xlsx) t
 dev-python/agate-sql 0.5.4: Adds SQL read/write support to agate
 dev-python/altgraph 0.16.1: A constructing graphs, BFS and DFS traversals, etc
 dev-python/apkid 2.1.0: Android Package Identifier
-dev-python/argparse 1.4.0: Python command-line parsing library.
 dev-python/asn1crypto 1.3.0: Python ASN.1 library with a focus on performance and a pythonic API
 dev-python/backcall 0.1.0: Backwards compatible callback APIs
 dev-python/blinkstick 9999: BlinkStick Python interface to control devices connected to the computer
@@ -312,7 +311,6 @@ dev-python/pyDes 2.0.1: Pure python implementation of DES and TRIPLE DES encrypt
 dev-python/pyaff4 9999: Python Advanced Forensic Format Version 4 library.
 dev-python/pyaxmlparser 0.3.24: Parser for Android XML file and get Application Name without using Androguard
 dev-python/pybonjour 1.1.1: Python interface to Apple Bonjour and compatible DNS-SD libraries (Avahi)
-dev-python/pycopy-binascii 2.4.0: A part of standard library of the Pycopy project
 dev-python/pycryptodomex 3.9.0 3.9.4 3.9.6: A self-contained cryptographic library for Python
 dev-python/pydispatcher 2.0.5: Multi-producer-multi-consumer signal dispatching mechanism
 dev-python/pygeoif 0.7: A basic implementation of the __geo_interface__
