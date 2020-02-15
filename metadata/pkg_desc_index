@@ -283,7 +283,7 @@ dev-python/json2html 1.3.0: A python module for converting complex JSON oject to
 dev-python/jsonfield 2.0.2: A reusable Django field that allows you to store validated JSON
 dev-python/ldapdomaindump 0.9.1: Active Directory information dumper via LDAP
 dev-python/leather 0.3.3: Python charting for 80% of humans
-dev-python/litecli 1.1.0-r1 1.2.0-r1: CLI for SQLite Databases with auto-completion and syntax highlighting
+dev-python/litecli 1.1.0-r2 1.2.0-r2 1.3.0: CLI for SQLite Databases with auto-completion and syntax highlighting
 dev-python/macholib 1.11: A package is a collection of utilities for dealing with IP addresses.
 dev-python/marshmallow-sqlalchemy 0.15.0 0.21.0: SQLAlchemy integration with the marshmallow (de)serialization library
 dev-python/maxminddb 1.4.1-r1: A Python module for reading MaxMind DB files
@@ -306,6 +306,7 @@ dev-python/pefile 2018.8.8 2019.4.18: Module to read and work with Portable Exec
 dev-python/phply 0.9.1-r1 1.2.5: Parser for PHP written using PLY
 dev-python/plotly 4.1.1: Browser-based graphing library for Python
 dev-python/poster 0.8.1: Make HTTP POST/PUT with multipart/form-data encoding
+dev-python/prompt_toolkit 3.0.3: Building powerful interactive command lines in Python
 dev-python/proxy-db 0.2.3: Manage free and private proxies on local db for Python Projects
 dev-python/pyDes 2.0.1: Pure python implementation of DES and TRIPLE DES encryption algorithm
 dev-python/pyaff4 9999: Python Advanced Forensic Format Version 4 library.
@@ -451,7 +452,7 @@ dev-util/dwarf-debugger 1.0.0 1.0.1: Full featured multi arch/os debugger built 
 dev-util/electron-bin 6.0.11: Cross platform application development framework based on web technologies
 dev-util/electron-packager 14.0.1 14.2.1: Six Degrees of Domain Admin
 dev-util/emilpro 3_p20170708 3_p20180111: Graphical disassembler for a large number of instruction sets
-dev-util/frida-tools 5.3.0 6.0.0: Frida CLI tools
+dev-util/frida-tools 5.3.0 6.0.0-r1 6.0.1: Frida CLI tools
 dev-util/ghidra 9.1 9.1.1: A software reverse engineering framework
 dev-util/hexd 1.10: Eric Raymond's hex dumper
 dev-util/jadx-bin 1.0.0 1.1.0: A standalone graphical utility that displays Java source codes of .class file
@@ -460,7 +461,7 @@ dev-util/lida 03.00.00: interactive ELF disambler
 dev-util/lief 0.10.1: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
 dev-util/mobsf 3.0.1: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
-dev-util/objection 1.8.3 1.8.4: Runtime mobile exploration
+dev-util/objection 1.8.3 1.8.4-r1: Runtime mobile exploration
 dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIPS
 dev-util/qark 0.9_pre20190405: A tool to look for Android application vulnerabilities
 dev-util/recaf-bin 1.15.9 1.15.10: A modern Java bytecode editor
