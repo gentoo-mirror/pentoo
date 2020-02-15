@@ -540,6 +540,7 @@ net-analyzer/metagoofil 1.4b-r1 2.2: Information gathering tool designed for ext
 net-analyzer/metasploit 4.17.21-r7: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/mosref 2.0_beta3: A secure remote execution framework using a compact Scheme-influenced VM
 net-analyzer/nbtool 20140416: Some tools for NetBIOS and DNS investigation, attacks, and communication
+net-analyzer/ncrack 0.7: Ncrack is a high-speed network authentication cracking tool
 net-analyzer/nessus-bin 8.8.0 8.9.0: A remote security scanner for Linux
 net-analyzer/nikto 2.1.6-r1 2.1.6_p20180122 2.1.6_p20181021 2.1.6_p20190508: Web server vulnerability scanner
 net-analyzer/nmap 7.80-r1: A utility for network discovery and security auditing
