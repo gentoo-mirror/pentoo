@@ -1,12 +1,12 @@
 DEFINED_PHASES=setup
-DEPEND=python_single_target_python2_7? ( >=dev-lang/python-2.7.5-r2:2.7 >=dev-lang/python-exec-2:=[python_targets_python2_7] ) fuse? ( sys-fs/fuse:* ) mysql? ( dev-python/mysql-python ) sys-libs/libselinux dev-libs/nss virtual/jre:*
+DEPEND=python_single_target_python2_7? ( >=dev-lang/python-2.7.5-r2:2.7 >=dev-lang/python-exec-2:=[python_targets_python2_7] ) fuse? ( sys-fs/fuse:* ) mysql? ( || ( dev-python/mysqlclient dev-python/mysql-python ) ) sys-libs/libselinux dev-libs/nss virtual/jre:*
 DESCRIPTION=Meta package for Seafile Pro Edition, file sync share solution
 EAPI=7
 HOMEPAGE=https://github.com/haiwen/seafile-server/ http://www.seafile.com/
 IUSE=fuse mysql +python_single_target_python2_7
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2+-with-openssl-exception
-RDEPEND=python_single_target_python2_7? ( >=dev-lang/python-2.7.5-r2:2.7 >=dev-lang/python-exec-2:=[python_targets_python2_7] ) fuse? ( sys-fs/fuse:* ) mysql? ( dev-python/mysql-python ) sys-libs/libselinux dev-libs/nss virtual/jre:*
+RDEPEND=python_single_target_python2_7? ( >=dev-lang/python-2.7.5-r2:2.7 >=dev-lang/python-exec-2:=[python_targets_python2_7] ) fuse? ( sys-fs/fuse:* ) mysql? ( || ( dev-python/mysqlclient dev-python/mysql-python ) ) sys-libs/libselinux dev-libs/nss virtual/jre:*
 SLOT=0
 _eclasses_=multilib	1d91b03d42ab6308b5f4f6b598ed110e	python-single-r1	fdfdbe462f245e931069310e892a8538	python-utils-r1	611c493a4cfef5254350fabc04b606f5	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
-_md5_=a780f2e2ac9a323e3c4fb894669e09df
+_md5_=607eb80e8f2af5049d4e3b6a5071b74c

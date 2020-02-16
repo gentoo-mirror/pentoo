@@ -293,6 +293,7 @@ dev-python/memorpy 20170523 99999999: Python library using ctypes to search/edit
 dev-python/mitm6 0.2.2: pwning IPv4 via IPv6
 dev-python/mockito 1.2.0: Spying framework based on Mockito java library
 dev-python/msoffcrypto-tool 4.10.1: Python tool & library for decrypting MS Office files with passwords or other keys
+dev-python/mysql-python 1.2.5-r3: Python interface to MySQL
 dev-python/nassl 2.1.1 2.1.2 2.2.0: Experimental OpenSSL wrapper for Python 3.6+ and SSLyze
 dev-python/nessrest 20180806: A high-level Web Crawling and Web Scraping framework
 dev-python/netfilterqueue 0.8.1: Python bindings for libnetfilter_queue
