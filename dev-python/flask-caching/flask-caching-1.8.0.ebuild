@@ -17,7 +17,4 @@ KEYWORDS="~amd64 ~arm64 ~x86 ~amd64-linux ~x86-linux"
 
 DEPEND="${PYTHON_DEPS}"
 RDEPEND="${DEPEND}
-	dev-python/flask[${PYTHON_USEDEP}]
-	dev-python/sphinx[${PYTHON_USEDEP}]
-	dev-python/werkzeug[${PYTHON_USEDEP}]
-	dev-python/pylibmc[${PYTHON_USEDEP}]"
+	dev-python/flask[${PYTHON_USEDEP}]"
