@@ -51,7 +51,6 @@ app-exploits/weevely 3.7.0 9999: Weevely is a stealth PHP web shell that simulat
 app-exploits/wesng 20191116 99999999: Windows Exploit Suggester - Next Generation
 app-forensics/bulk_extractor 1.5.5-r1 1.6.0 9999: Scans a disk image for regular expressions and other content
 app-forensics/cortex 2.1.3 3.0.0: A powerful observable analysis and active response engine
-app-forensics/data-carver-processors 0: Data carving analysis for JPEG, PDF and Videos
 app-forensics/dpapick 0.2_p20130826 0.3: Open-source tool that allows decryption of DPAPI structures in an offline way
 app-forensics/eagleeye 20191229: Find Friend's Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search
 app-forensics/fuxploider 1.0 9999: File upload vulnerability scanner and exploitation tool
@@ -85,7 +84,6 @@ app-forensics/samhain 4.3.3 4.4.0: Advanced file integrity and intrusion detecti
 app-forensics/scap-security-guide 0.1.46 0.1.47: Security compliance content in SCAP, Bash, Ansible, and other formats
 app-forensics/scap-workbench 1.2.0-r1: SCAP Scanner And Tailoring Graphical User Interface
 app-forensics/spiderfoot 3.0: The most complete OSINT collection and reconnaissance tool
-app-forensics/stegdetect 0.6 0.6-r1: A Steganography detector for JPEG
 app-forensics/stegoveritas 1.5: Automatic image steganography analysis tool
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
 app-forensics/thehive 3.3.1 3.4.0: A scalable 4-in-1 open source and free Security Incident Response Platform
@@ -293,7 +291,6 @@ dev-python/memorpy 20170523 99999999: Python library using ctypes to search/edit
 dev-python/mitm6 0.2.2: pwning IPv4 via IPv6
 dev-python/mockito 1.2.0: Spying framework based on Mockito java library
 dev-python/msoffcrypto-tool 4.10.1: Python tool & library for decrypting MS Office files with passwords or other keys
-dev-python/mysql-python 1.2.5-r3: Python interface to MySQL
 dev-python/nassl 2.1.1 2.1.2 2.2.0: Experimental OpenSSL wrapper for Python 3.6+ and SSLyze
 dev-python/nessrest 20180806: A high-level Web Crawling and Web Scraping framework
 dev-python/netfilterqueue 0.8.1: Python bindings for libnetfilter_queue
@@ -603,7 +600,7 @@ net-analyzer/vomit 0.2c: Converts a Cisco IP phone conversation into a wav file
 net-analyzer/w3af 1.6.54-r5: Web Application Attack and Audit Framework
 net-analyzer/wafw00f 2.1.0-r1: Identifies and fingerprints Web Application Firewall (WAF) products
 net-analyzer/wfuzz 2.4.2-r1 2.4.4 2.4.5: Wfuzz is a tool designed for bruteforcing Web Applications
-net-analyzer/whatweb 0.4.9 0.5.0: Next generation web scanner, identifies what software websites are running
+net-analyzer/whatweb 0.5.0: Next generation web scanner, identifies what software websites are running
 net-analyzer/wpscan 3.7.5 3.7.8: Wordpress security scanner
 net-analyzer/xbruteforcer 20180611: Login brute force tool for WordPress, Joomla, DruPal, OpenCart, and Magento.
 net-analyzer/xplico 1.2.2: Extract data from TCP/IP traffic
