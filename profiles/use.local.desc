@@ -1,0 +1,153 @@
+# This file is deprecated as per GLEP 56 in favor of metadata.xml.
+# Please add your descriptions to your package's metadata.xml ONLY.
+# * generated automatically using pmaint *
+
+app-antivirus/veil:tools - Install extra tools
+app-crypt/cryptohaze-combined:grt - Build GRT utilities
+app-crypt/cryptohaze-combined:multiforcer - Enable multiforcer build stuff
+app-crypt/hashkill:json - add dev-libs/json-c support
+app-crypt/hashkill:opencl - Add OpenCL support
+app-crypt/hashkill:pax_kernel - Apply patch needed for pax enabled kernels
+app-emulation/virtualbox-modules:pax_kernel - Apply patch needed for pax enabled kernels
+app-exploits/empire:powershell - Enable a PowerShell Windows agent
+app-exploits/packetstormexploits:1999 - Use 1999 archivers
+app-exploits/packetstormexploits:2000 - Use 2000 archivers
+app-exploits/packetstormexploits:2001 - Use 2001 archivers
+app-exploits/packetstormexploits:2002 - Use 2002 archivers
+app-exploits/packetstormexploits:2003 - Use 2003 archivers
+app-exploits/packetstormexploits:2004 - Use 2004 archivers
+app-exploits/packetstormexploits:2005 - Use 2005 archivers
+app-exploits/packetstormexploits:2006 - Use 2006 archivers
+app-exploits/packetstormexploits:2007 - Use 2007 archivers
+app-exploits/packetstormexploits:2008 - Use 2008 archivers
+app-exploits/packetstormexploits:2009 - Use 2009 archivers
+app-exploits/packetstormexploits:2010 - Use 2010 archivers
+app-exploits/packetstormexploits:2011 - Use 2011 archivers
+app-exploits/packetstormexploits:2012 - Use 2012 archivers
+app-exploits/packetstormexploits-meta:2012 - Use 2012 archivers
+app-exploits/packetstormexploits-meta:2013 - Use 2013 archivers
+app-exploits/packetstormexploits-meta:2014 - Use 2014 archivers
+app-exploits/packetstormexploits-meta:2015 - Use 2015 archivers
+app-exploits/packetstormexploits-meta:2016 - Use 2016 archivers
+app-exploits/packetstormexploits-meta:2017 - Use 2017 archivers
+app-exploits/packetstormexploits-meta:2018 - Use 2018 archivers
+app-exploits/packetstormexploits-meta:2019 - Use 2019 archivers
+app-forensics/bulk_extractor:aff - Add app-forensics/afflib support
+app-forensics/bulk_extractor:beviewer - Enable the BEViewer — is a User Interface for browsing features
+app-forensics/bulk_extractor:ewf - Add app-forensics/libewf support
+app-forensics/bulk_extractor:exiv2 - Add media-gfx/exiv2 support
+app-forensics/bulk_extractor:hashdb - Enable the hashdb scanner
+app-forensics/bulk_extractor:rar - Enable RAR decompression
+app-forensics/data-carver-processors:stego - Add stegonagraphy support
+app-forensics/pdf-parser:yara - Use dev-python/yara-python for YARA rules support
+app-forensics/scap-security-guide:centos - If enabled, CentOS derivative content will be built from the RHEL content
+app-forensics/scap-security-guide:chromium - If enabled, the Chromium SCAP content will be built
+app-forensics/scap-security-guide:debian8 - If enabled, the Debian 8 SCAP content will be built
+app-forensics/scap-security-guide:eap6 - If enabled, the JBoss EAP6 SCAP content will be built
+app-forensics/scap-security-guide:example - If enabled, the Example SCAP content will be built
+app-forensics/scap-security-guide:fedora - If enabled, the Fedora SCAP content will be built
+app-forensics/scap-security-guide:firefox - If enabled, the Firefox SCAP content will be built
+app-forensics/scap-security-guide:fuse6 - If enabled, the JBoss Fuse6 SCAP content will be built
+app-forensics/scap-security-guide:jinja2 - If enabled, the jinja2 templating files will be cached into bytecode
+app-forensics/scap-security-guide:jre - If enabled, the JRE SCAP content will be built
+app-forensics/scap-security-guide:linkchecker - If enabled, linkchecker will be used to validate URLs in all the HTML guides and tables
+app-forensics/scap-security-guide:ocp3 - If enabled, the OCP3 SCAP content will be built
+app-forensics/scap-security-guide:ol7 - If enabled, the Oracle Linux 7 SCAP content will be built
+app-forensics/scap-security-guide:ol8 - If enabled, the Oracle Linux 8 SCAP content will be built
+app-forensics/scap-security-guide:opensuse - If enabled, the openSUSE SCAP content will be built
+app-forensics/scap-security-guide:rhel6 - If enabled, the RHEL6 SCAP content will be built
+app-forensics/scap-security-guide:rhel7 - If enabled, the RHEL7 SCAP content will be built
+app-forensics/scap-security-guide:rhel8 - If enabled, the RHEL8 SCAP content will be built
+app-forensics/scap-security-guide:rhosp13 - If enabled, the RHOSP13 SCAP content will be built
+app-forensics/scap-security-guide:rhv4 - If enabled, the RHV4 SCAP content will be built
+app-forensics/scap-security-guide:scientific-linux - If enabled, Scientific Linux derivative content will be built from the RHEL content
+app-forensics/scap-security-guide:shellcheck - If enabled, shellcheck validation of bash fixes will be performed as part of the ctest tests
+app-forensics/scap-security-guide:sle11 - If enabled, the SLE11 SCAP content will be built
+app-forensics/scap-security-guide:sle12 - If enabled, the SLE12 SCAP content will be built
+app-forensics/scap-security-guide:ubuntu1404 - If enabled, the Ubuntu 14.04 SCAP content will be built
+app-forensics/scap-security-guide:ubuntu1604 - If enabled, the Ubuntu 16.04 SCAP content will be built
+app-forensics/scap-security-guide:ubuntu1804 - If enabled, the Ubuntu 18.04 SCAP content will be built
+app-forensics/scap-security-guide:wrlinux1019 - If enabled, the WRLinux1019 SCAP content will be built
+app-forensics/scap-security-guide:wrlinux8 - If enabled, the WRLinux8 SCAP content will be built
+app-misc/freediag:gui - Enable scangui using x11-libs/fltk library
+app-misc/mat2:dolphin - Enable dolphin extension
+app-misc/mat2:nautilus - Enable nautilus extension
+dev-libs/libvhdi:fuse - Enable fuse support
+dev-libs/libvmdk:fuse - Enable fuse support
+dev-libs/qbdi:tools - Enable advanced tools
+dev-python/stegoveritas-binwalk:graph - Enable support for generating entropy graphs
+dev-ruby/rails:asset-pipeline - Also install the default components for the asset pipeline. These are not required but they are activated automatically in new Rails projects by default.
+dev-util/mobsf:genymotion - Add app-emulation/genymotion-bin support
+net-analyzer/greenbone-security-assistant:extras - Pdf results, extra fonts, html docs support
+net-analyzer/gvm:cli - Command Line Interface for OpenVAS Scanner
+net-analyzer/gvm:cron - A cron job to update GVM's vulnerability feeds daily
+net-analyzer/gvm:extras - Extra fonts, pdf-results! and html docs support
+net-analyzer/gvm:gsa - Greenbone Security Assistant (WebUI)
+net-analyzer/gvm:ospd - Enable support for scanner wrappers
+net-analyzer/gvm-libs:extras - Html docs support
+net-analyzer/gvmd:extras - Html docs support
+net-analyzer/medusa:afp - Use net-fs/afpfs-ng and enable AFP module
+net-analyzer/medusa:ncp - Use net-fs/ncpfs and enable NCP module
+net-analyzer/medusa:ssh - Enable SSH2 module
+net-analyzer/openvas-scanner:cron - Install a cron job to update GVM's feed daily.
+net-analyzer/openvas-scanner:extras - Html docs support
+net-analyzer/ospd:extras - Html docs support
+net-analyzer/testssl:bundled-openssl - Install precompiled versions of OpenSSL for greater testing coverage
+net-libs/libtins:ack-tracker - TCP ACK tracking support
+net-libs/libtins:cxx11 - C++11 support
+net-libs/libtins:dot11 - IEEE 802.11 support
+net-libs/libtins:wpa2 - WPA2 decryption support
+net-vpn/kcptun:server - Enable server side daemon
+net-vpn/udp2raw-tunnel:iptables - include support for iptables filtering
+net-wireless/fern-wifi-cracker:dict - Add support sys-apps/cracklib-words (large set of crack/cracklib dictionaries)
+net-wireless/gr-air-modes:fgfs - Support FlightGear
+net-wireless/gr-air-modes:rtlsdr - Build with Realtek RTL2832U (rtlsdr) support
+net-wireless/gr-air-modes:uhd - Build with Ettus Research USRP Hardware Driver support
+net-wireless/hostapd:crda - Add CRDA support
+net-wireless/hostapd:internal-tls - Use internal TLSv1 implementation instead of depending on OpenSSL, LibreSSL or GnuTLS
+net-wireless/hostapd:logwatch - Install support files for sys-apps/logwatch
+net-wireless/hostapd:netlink - Adding support for using netlink to create VLANs
+net-wireless/hostapd:sqlite - Adding sqlite support
+net-wireless/hostapd:wps - Add support for Wi-Fi Protected Setup
+net-wireless/proxmark3:deprecated - build and install the mfkey and nonce2key tools
+net-wireless/proxmark3:firmware - build firmware to update the proxmark3 hardware
+net-wireless/proxmark3:pm3rdv4 - build proxmark3 rdv4 specific firmware instead of generic
+net-wireless/proxmark3:standalone-hf-bog - standalone 14a sniff with ULC/ULEV1/NTAG auth
+net-wireless/proxmark3:standalone-hf-colin - standalone Mifare ultra fast sniff/sim/clone
+net-wireless/proxmark3:standalone-hf-mattyrun - standalone Mifare sniff/clone
+net-wireless/proxmark3:standalone-hf-young - standalone Mifare sniff/simulation
+net-wireless/proxmark3:standalone-lf-hidbrute - standalone HID corporate 1000 bruteforce
+net-wireless/proxmark3:standalone-lf-proxbrute - standalone HID ProxII bruteforce
+net-wireless/proxmark3:standalone-lf-samyrun - standalone HID26 read/clone/sim
+net-wireless/pyrit:cuda - Enable CUDA support via net-wireless/cpyrit-cuda
+net-wireless/pyrit:opencl - Enable OpenCL support via net-wireless/cpyrit-opencl
+sys-apps/razercfg:pm-utils - Installs the pm-utils hooks for suspend/resume and requires sys-power/pm-utils
+sys-kernel/compat-drivers:build-all-modules - Bypass any filtering of the modules and build them all. Use only when no other flag works!
+sys-kernel/compat-drivers:compat_drivers_ethernet_alx - COMPAT_DRIVERS_ETHERNET setting to build driver for alx ethernet cards
+sys-kernel/compat-drivers:compat_drivers_ethernet_atl1 - COMPAT_DRIVERS_ETHERNET setting to build driver for atl1 ethernet cards
+sys-kernel/compat-drivers:compat_drivers_ethernet_atl1c - COMPAT_DRIVERS_ETHERNET setting to build driver for atl1c ethernet cards
+sys-kernel/compat-drivers:compat_drivers_ethernet_atl1e - COMPAT_DRIVERS_ETHERNET setting to build driver for atl1e ethernet cards
+sys-kernel/compat-drivers:compat_drivers_ethernet_atl2 - COMPAT_DRIVERS_ETHERNET setting to build driver for atl2 ethernet cards
+sys-kernel/compat-drivers:compat_drivers_ethernet_atlxx - COMPAT_DRIVERS_ETHERNET setting to build driver for atlxx ethernet cards
+sys-kernel/compat-drivers:compat_drivers_various_bt - COMPAT_DRIVERS_VARIOUS setting to build driver for bluetooth devices
+sys-kernel/compat-drivers:compat_drivers_various_drm - COMPAT_DRIVERS_VARIOUS setting to build driver for drm devices
+sys-kernel/compat-drivers:compat_drivers_various_i915 - COMPAT_DRIVERS_VARIOUS setting to build driver for i915 devices
+sys-kernel/compat-drivers:compat_drivers_various_staging - COMPAT_DRIVERS_VARIOUS setting to build driver for staging devices
+sys-kernel/compat-drivers:compat_drivers_various_usbnet - COMPAT_DRIVERS_VARIOUS setting to build driver for usbnet devices
+sys-kernel/compat-drivers:compat_drivers_wifi_ath5k - COMPAT_DRIVERS_WIFI setting to build driver for ath5k wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_ath6kl - COMPAT_DRIVERS_WIFI setting to build driver for ath6kl wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_ath9k - COMPAT_DRIVERS_WIFI setting to build driver for ath9k wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_ath9k_ap - COMPAT_DRIVERS_WIFI setting to build driver for ath9k_ap wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_ath9k_htc - COMPAT_DRIVERS_WIFI setting to build driver for ath9k_htc wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_b43 - COMPAT_DRIVERS_WIFI setting to build driver for b43 wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_b44 - COMPAT_DRIVERS_WIFI setting to build driver for b44 wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_brcmfmac - COMPAT_DRIVERS_WIFI setting to build driver for brcmfmac wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_brcmsmac - COMPAT_DRIVERS_WIFI setting to build driver for brcmsmac wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_carl9170 - COMPAT_DRIVERS_WIFI setting to build driver for carl9170 wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_rt2x00 - COMPAT_DRIVERS_WIFI setting to build driver for rt2x00 wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_wil6210 - COMPAT_DRIVERS_WIFI setting to build driver for wil6210 wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_wl1251 - COMPAT_DRIVERS_WIFI setting to build driver for wl1251 wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_wl12xx - COMPAT_DRIVERS_WIFI setting to build driver for wl12xx wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_wl18xx - COMPAT_DRIVERS_WIFI setting to build driver for wl18xx wireless cards
+sys-kernel/compat-drivers:compat_drivers_wifi_zd1211rw - COMPAT_DRIVERS_WIFI setting to build driver for zd1211rw wireless cards
+sys-kernel/compat-drivers:injection - Add patches for better wifi injection support
