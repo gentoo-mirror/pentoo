@@ -106,7 +106,7 @@ app-misc/cyberchef 9.12.0: A web app for encryption, encoding, compression and d
 app-misc/freediag 1.08: Free diagnostic software for OBD-II compliant motor vehicles
 app-misc/gplaycli 3.26 3.27: Google Play Downloader via Command line
 app-misc/libmsr 9999: Reading, writing and analysis of magnetic stripe information
-app-misc/mat2 0.10.0: A handy tool to trash your metadata
+app-misc/mat2 0.10.0 0.10.1: A handy tool to trash your metadata
 app-misc/openobd 0.5.0: OBD-II Scan Tool supporting ELM327 devices
 app-misc/solaar 9999: A Linux device manager for Logitech's Unifying Receiver peripherals
 app-officeext/languagetool 4.6 4.8: Style and Grammar Checker for libreoffice
