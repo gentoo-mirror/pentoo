@@ -410,7 +410,7 @@ dev-ruby/data_objects 0.10.17: The Core DataObjects class
 dev-ruby/dm-core 1.2.1: An Object/Relational Mapper for Ruby
 dev-ruby/dm-do-adapter 1.2.0: A DataObjects Adapter for DataMapper
 dev-ruby/dm-migrations 1.2.0: DataMapper plugin for writing and specing migrations
-dev-ruby/dm-serializer 0.10.0 1.2.2: DataMapper plugin for serializing Resources and Collections
+dev-ruby/dm-serializer 1.2.2: DataMapper plugin for serializing Resources and Collections
 dev-ruby/dm-sqlite-adapter 1.2.0: Sqlite3 Adapter for DataMapper
 dev-ruby/dm-timestamps 1.2.0: DataMapper plugin for writing and specing migrations
 dev-ruby/dm-validations 1.2.0: DataMapper plugin for writing and specing migrations
@@ -811,7 +811,7 @@ sys-power/acpid 2.0.30 2.0.31 2.0.32: Daemon for Advanced Configuration and Powe
 virtual/linux-sources 3-r104: Virtual for Linux kernel sources
 www-apps/BloodHound 2.1.0 2.2.0 2.2.1-r1 3.0.0: Six Degrees of Domain Admin
 www-apps/Tiredful-API 9999: An intentionally designed broken web application based on REST API
-www-apps/beef 0.4.7.0_p20180720-r2 0.4.7.1 0.4.7.3: Browser exploitation framework
+www-apps/beef 0.4.7.3: Browser exploitation framework
 www-apps/faraday 3.10.0: Integrated Penetration-Test Environment is a multiuser Penetration test IDE
 www-apps/geckodriver 0.23.0: Proxy for using WebDriver clients to interact with Gecko-based browsers.
 www-apps/rda 2.3 2.4: Web-based application for effective reporting writing
