@@ -17,11 +17,12 @@ KEYWORDS="~amd64 ~x86"
 IUSE="test"
 
 RDEPEND="${PYTHON_DEPS}
-	dev-python/yara-python[${PYTHON_USEDEP}]
-	dev-python/argparse[${PYTHON_USEDEP}]"
+	dev-python/yara-python[${PYTHON_USEDEP}]"
 DEPEND="${RDEPEND}"
 
 src_prepare(){
-	sed -i "s|yara-python==3.11.0|yara-python>=3.11.0|g" setup.py || die
+	sed "s|yara-python==3.11.0|yara-python>=3.11.0|g" -i setup.py || die
+	#https://github.com/rednaga/APKiD/issues/211
+	sed '/argparse/d' -i setup.py || die
 	default
 }
