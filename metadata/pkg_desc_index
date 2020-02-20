@@ -29,7 +29,6 @@ app-crypt/yubioath-desktop 5.0.1-r2 5.0.2_p20200211 9999: Library and tool for p
 app-dicts/raft-wordlists 20110803-r1: Raft wordlists
 app-dicts/seclists 2019.2 2019.3 2019.4 2020.1: A collection of multiple types of lists used during security assessments
 app-editors/visual-studio-code 1.38.1 1.39.2: Multiplatform Visual Studio Code from Microsoft
-app-emulation/qemu-charm 0.13.0: QEMU arm user-land emulation for CHroot ARM setup on x86*
 app-emulation/virtualbox-modules 6.1.0 6.1.2: Kernel Modules for Virtualbox
 app-exploits/ROPgadget 6.0: Search for gadgets in binaries to facilitate your ROP exploitation
 app-exploits/deathstar 20180722: A tool to gain Domain Admin rights with a push of a button
