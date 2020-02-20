@@ -813,7 +813,7 @@ sys-kernel/ft60x_driver 20180209: USB FT60x driver
 sys-kernel/minipli-sources 4.9.74: Unofficial forward ports of the last publicly available grsecurity patch
 sys-kernel/odroid-sources 9999: Linux kernel source for the ODROID-[UX]2 products
 sys-kernel/odroidxu-sources 9999: Linux kernel source for the ODROIDXU products
-sys-kernel/pentoo-sources 5.1.15 5.2.14 5.3.18 5.4.15 5.5.3: Pentoo kernel sources (kernel series 5.5)
+sys-kernel/pentoo-sources 5.1.15 5.2.14 5.3.18 5.4.15 5.5.5: Pentoo kernel sources (kernel series 5.5)
 sys-kernel/pf_ring-kmod 6.0.3 6.6.0 7.0.0: A new type of network socket that improves packet capture speed.
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
 sys-libs/libkudzu 1.2.85.1: Red Hat Hardware detection tools
