@@ -157,7 +157,7 @@ dev-libs/hashdb 3.1.0-r1: The hashdb block hash database tool and API
 dev-libs/libcdata 20180102 20180724 20181216 20190112: Library for cross-platform C generic data functions
 dev-libs/libcdatetime 20170609 20181004: Library for cross-platform C date and time functions
 dev-libs/libcerror 20181117 20191112: Library for cross-platform C error functions
-dev-libs/libcfile 20180102 20190314: Library for cross-platform C file functions
+dev-libs/libcfile 20180102 20190314 20200216: Library for cross-platform C file functions
 dev-libs/libclocale 20170105 20180721: Library for cross-platform C locale functions
 dev-libs/libcnotify 20180102 20191109: Library for cross-platform C notification functions
 dev-libs/libcpath 20171210 20180720 20181228: Library for cross-platform C path functions
