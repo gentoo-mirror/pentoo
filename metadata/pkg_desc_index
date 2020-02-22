@@ -491,7 +491,7 @@ gnome-base/libgnomeui 2.24.5-r4: User Interface routines for Gnome
 media-libs/mbelib 1.2.5 1.3.0 9999: P25 Phase 1 and ProVoice vocoder
 media-sound/g72x++ 1: Decoder for the g72x++ codec, commonly used by DECT phones
 net-analyzer/GyoiThon 9999: GyoiThon is a growing penetration test tool using Machine Learning
-net-analyzer/amass 3.1.9 3.4.0 3.4.2: Subdomain OSINT Enumeration
+net-analyzer/amass 3.1.9 3.4.0 3.4.2 3.4.4: Subdomain OSINT Enumeration
 net-analyzer/aquatone 1.7.0-r1: A Tool for Domain Flyovers
 net-analyzer/arachni-bin 1.5.1: Web Application Security Scanner Framework
 net-analyzer/armitage 9999 20160709-r1: Cyber Attack Management for Metasploit
