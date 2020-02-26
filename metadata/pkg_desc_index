@@ -53,13 +53,13 @@ app-exploits/wesng 20191116 99999999: Windows Exploit Suggester - Next Generatio
 app-forensics/bulk_extractor 1.5.5-r1 1.6.0 9999: Scans a disk image for regular expressions and other content
 app-forensics/cortex 2.1.3 3.0.0: A powerful observable analysis and active response engine
 app-forensics/dpapick 0.2_p20130826 0.3: Open-source tool that allows decryption of DPAPI structures in an offline way
-app-forensics/eagleeye 20191229: Find Friend's Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search
+app-forensics/eagleeye 20191229: Find people's social media profile using reverse image search
 app-forensics/fuxploider 1.0 9999: File upload vulnerability scanner and exploitation tool
 app-forensics/guymager 0.8.8 0.8.11: Guymager is a fast and user friendly forensic imager.
 app-forensics/inception 0.4.2: Firewire physical memory manipulation tool exploiting IEEE 1394 SBP-2 DMA
 app-forensics/kjackal 99999999: Linux Rootkit Scanner
 app-forensics/lazagne 2.4.3-r1 9999: Credentials recovery project
-app-forensics/libbfio 20180910 20190112: Library for providing a basic file input/output abstraction layer
+app-forensics/libbfio 20190112 20191230: Library for providing a basic file input/output abstraction layer
 app-forensics/libforensic1394 0.2-r1 9999: Library for carrying out memory forensics using firewire/ieee1394
 app-forensics/libpff 20161119 20180714: Library for accessing Personal Folder Files
 app-forensics/libvshadow 20191221: Library and tools to support the Volume Shadow Snapshot (VSS) format.

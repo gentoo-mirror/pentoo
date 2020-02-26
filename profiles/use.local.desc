@@ -39,7 +39,15 @@ app-forensics/bulk_extractor:exiv2 - Add media-gfx/exiv2 support
 app-forensics/bulk_extractor:hashdb - Enable the hashdb scanner
 app-forensics/bulk_extractor:rar - Enable RAR decompression
 app-forensics/data-carver-processors:stego - Add stegonagraphy support
+app-forensics/libpff:winapi - [can anyone answer this?]
+app-forensics/pcileech:ft60x_driver - Use sys-kernel/ft60x_driver for USB FT60x driver support
 app-forensics/pdf-parser:yara - Use dev-python/yara-python for YARA rules support
+app-forensics/samhain:login-watch - Watch for login/logout
+app-forensics/samhain:mounts-check - Check mount options on filesystems
+app-forensics/samhain:netclient - Build client side
+app-forensics/samhain:netserver - Build server side
+app-forensics/samhain:suidcheck - Check for suid/sgid files
+app-forensics/samhain:userfiles - Check for users' config files
 app-forensics/scap-security-guide:centos - If enabled, CentOS derivative content will be built from the RHEL content
 app-forensics/scap-security-guide:chromium - If enabled, the Chromium SCAP content will be built
 app-forensics/scap-security-guide:debian8 - If enabled, the Debian 8 SCAP content will be built
@@ -69,6 +77,8 @@ app-forensics/scap-security-guide:ubuntu1604 - If enabled, the Ubuntu 16.04 SCAP
 app-forensics/scap-security-guide:ubuntu1804 - If enabled, the Ubuntu 18.04 SCAP content will be built
 app-forensics/scap-security-guide:wrlinux1019 - If enabled, the WRLinux1019 SCAP content will be built
 app-forensics/scap-security-guide:wrlinux8 - If enabled, the WRLinux8 SCAP content will be built
+app-forensics/xmount:aff - Use the AFF image standard library
+app-forensics/xmount:ewf - Add support EWF (SMART and EnCase) image format
 app-misc/freediag:gui - Enable scangui using x11-libs/fltk library
 app-misc/mat2:dolphin - Enable dolphin extension
 app-misc/mat2:nautilus - Enable nautilus extension
