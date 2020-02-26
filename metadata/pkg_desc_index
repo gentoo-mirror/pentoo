@@ -638,7 +638,7 @@ net-misc/httprobe 0.1.1: Take a list of domains and probe for working HTTP and H
 net-misc/iaxclient 2.1_beta3-r1 2.1_beta3-r2 2.1_beta3-r3 2.1_beta3-r4 2.1_beta3-r5: Multiplatform IAX library for creating telephony solutions that interoperate with Asterisk
 net-misc/juniper-vpn 5.3: Juniper Networks SSL VPN
 net-misc/karma 20060124: MITM framework for wifi
-net-misc/linkfinder 20190717: A python script that finds endpoints in JavaScript files
+net-misc/linkfinder 20190717 20191124: A python script that finds endpoints in JavaScript files
 net-misc/meg 0.2.4: Fetch many paths for many hosts - without killing the hosts
 net-misc/munin 0.14.1-r1 9999: Online hash checker for Virustotal and other services
 net-misc/photon 1.3.0 9999: Incredibly fast crawler designed for OSINT
