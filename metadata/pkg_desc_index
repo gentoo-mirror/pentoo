@@ -55,7 +55,7 @@ app-forensics/cortex 2.1.3 3.0.0: A powerful observable analysis and active resp
 app-forensics/dpapick 0.2_p20130826 0.3: Open-source tool that allows decryption of DPAPI structures in an offline way
 app-forensics/eagleeye 20191229: Find people's social media profile using reverse image search
 app-forensics/fuxploider 1.0 9999: File upload vulnerability scanner and exploitation tool
-app-forensics/guymager 0.8.8 0.8.11: Guymager is a fast and user friendly forensic imager.
+app-forensics/guymager 0.8.11: Guymager is a fast and user friendly forensic imager.
 app-forensics/inception 0.4.2: Firewire physical memory manipulation tool exploiting IEEE 1394 SBP-2 DMA
 app-forensics/kjackal 99999999: Linux Rootkit Scanner
 app-forensics/lazagne 2.4.3-r1 9999: Credentials recovery project

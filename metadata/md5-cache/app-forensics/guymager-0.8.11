@@ -1,13 +1,13 @@
 DEFINED_PHASES=configure install postinst postrm prepare
-DEPEND=dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtdbus:5 dev-qt/qtwidgets:5 sys-block/parted sys-libs/zlib sys-process/procps hdparm? ( sys-apps/hdparm ) udisks? ( sys-fs/udisks:* ) smart? ( sys-apps/smartmontools ) policykit? ( sys-auth/polkit ) libewf? ( app-forensics/libewf ) >=dev-libs/libguytools2-2.1.0:=
+DEPEND=dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtdbus:5 dev-qt/qtwidgets:5 sys-block/parted sys-libs/zlib sys-process/procps hdparm? ( sys-apps/hdparm ) udisks? ( sys-fs/udisks:* ) smart? ( sys-apps/smartmontools ) policykit? ( sys-auth/polkit ) ewf? ( app-forensics/libewf ) >=dev-libs/libguytools2-2.1.0:=
 DESCRIPTION=Guymager is a fast and user friendly forensic imager.
 EAPI=7
 HOMEPAGE=http://guymager.sourceforge.net/
-IUSE=debug hdparm policykit udisks libewf smart parted
+IUSE=debug hdparm policykit udisks ewf smart
 KEYWORDS=~amd64 ~arm ~x86
 LICENSE=GPL-2
 RDEPEND=dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtdbus:5 dev-qt/qtwidgets:5 sys-block/parted sys-libs/zlib sys-process/procps hdparm? ( sys-apps/hdparm ) udisks? ( sys-fs/udisks:* ) smart? ( sys-apps/smartmontools ) policykit? ( sys-auth/polkit )
 SLOT=0
 SRC_URI=mirror://sourceforge/guymager/guymager/LatestSource/guymager-0.8.11.tar.gz
 _eclasses_=desktop	b1d22ac8bdd4679ab79c71aca235009d	estack	686eaab303305a908fd57b2fd7617800	eutils	fcb2aa98e1948b835b5ae66ca52868c5	multilib	1d91b03d42ab6308b5f4f6b598ed110e	qmake-utils	4eb5e05ef7ee630c003e3f0edc094135	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
-_md5_=f2bd27d2a73f43356eff91f235776d4b
+_md5_=89430e272a44ccf6bc4a8af90cafd9a6
