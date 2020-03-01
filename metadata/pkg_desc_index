@@ -486,7 +486,7 @@ dev-util/sonarqube-bin 7.9.2 8.1.0.31237: SonarQube Community Edition is an open
 dev-util/sonarscanner-bin 4.2.0.1873: SonarQube Command-Line Scanner
 dev-util/unicorn 1.0.1-r5 1.0.2_rc1: A lightweight multi-platform, multi-architecture CPU emulator framework
 dev-util/valabind 1.4.0 1.7.1: Valabind is a tool to parse vala or vapi files to transform them into swig files
-dev-vcs/gitleaks 2.1.0-r1 3.2.2 3.3.0: Audit git repos for secrets
+dev-vcs/gitleaks 2.1.0-r1 3.2.2 3.3.0 4.0.1: Audit git repos for secrets
 dev-vcs/trufflehog 2.0.97_p20190506-r1: Searches through git repositories for high entropy strings and secrets
 gnome-base/gnome-keyring 3.28.2 3.31.91-r1 3.34.0-r1: Password and keyring managing daemon
 gnome-base/libgnomeui 2.24.5-r4: User Interface routines for Gnome
@@ -589,7 +589,7 @@ net-analyzer/set 8.0.1: A social engineering framework
 net-analyzer/sipvicious 0.2.8-r4: A voip pentest tools suite
 net-analyzer/sitadel 1.0.0_p20190828: Web application security scanner
 net-analyzer/smbmap 1.1.0-r1: SMBMap is a handy SMB enumeration tool
-net-analyzer/sn0int 0.16.0: Semi-automatic OSINT framework and package manager
+net-analyzer/sn0int 0.16.0 0.17.1: Semi-automatic OSINT framework and package manager
 net-analyzer/sniffglue 0.10.1: Secure multithreaded packet sniffer
 net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
 net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
@@ -669,7 +669,7 @@ net-proxy/proxenet-plugins 9999: Repository for proxenet plugins
 net-proxy/proxystrike 2.0 2.2: A tool designed to find vulnerabilities while browsing an application
 net-proxy/sshttp 0.35_p2: an easy to use OSI-Layer5 switching daemon
 net-proxy/zaproxy 2.7.0-r1 2.8.0 2.8.1 2.9.0: The OWASP Zed Attack Proxy for finding vulnerabilities in web applications
-net-vpn/kcptun 20200201: A Stable & Secure Tunnel Based On KCP with N:M Multiplexing
+net-vpn/kcptun 20200201 20200226: A Stable & Secure Tunnel Based On KCP with N:M Multiplexing
 net-vpn/kcptun-plugins 20190313: SIP003-compatible KCPTUN and UDP2RAW plugins for Shadowsocks
 net-vpn/tuntox 0.0.9 9999: Tunnel TCP connections over the Tox protocol
 net-vpn/udp2raw-tunnel 20181113.0 99999999: A tunnel which turns UDP traffic into encrypted FakeTCP/UDP/ICMP traffic
