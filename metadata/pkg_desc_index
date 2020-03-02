@@ -199,10 +199,10 @@ dev-python/PyVirtualDisplay 0.2.5: python wrapper for Xvfb, Xephyr and Xvnc
 dev-python/Scrapy 1.8.0: A high-level Web Crawling and Web Scraping framework
 dev-python/acora 9999: Fast multi-keyword search engine for text strings
 dev-python/adblockparser 0.7: Parser for Adblock Plus rules
-dev-python/agate 1.6.1: A data analysis library that is optimized for humans instead of machines
-dev-python/agate-dbf 0.2.1: Adds read support for dbf files to agate
-dev-python/agate-excel 0.2.3: Adds read support for Excel files (xls and xlsx) to agate
-dev-python/agate-sql 0.5.4: Adds SQL read/write support to agate
+dev-python/agate 1.6.1-r1: A data analysis library that is optimized for humans instead of machines
+dev-python/agate-dbf 0.2.1-r1: Adds read support for dbf files to agate
+dev-python/agate-excel 0.2.3-r1: Adds read support for Excel files (xls and xlsx) to agate
+dev-python/agate-sql 0.5.4-r1: Adds SQL read/write support to agate
 dev-python/altgraph 0.16.1: A constructing graphs, BFS and DFS traversals, etc
 dev-python/apkid 2.1.0-r1: Android Package Identifier
 dev-python/apng 0.3.3: A Python module to deal with APNG files
@@ -218,11 +218,11 @@ dev-python/config 0.4.0 0.4.2: A hierarchical, easy-to-use, powerful configurati
 dev-python/coreapi 2.3.3: Python client library for Core API
 dev-python/coreschema 0.0.4: Core Schema
 dev-python/coverage 4.5.3 4.5.4: Code coverage measurement for Python
-dev-python/csvkit 1.0.4: A suite of utilities for converting to and working with CSV files
+dev-python/csvkit 1.0.4-r1: A suite of utilities for converting to and working with CSV files
 dev-python/cxoracle 5.3: Python extension module that allows access to Oracle Databases
 dev-python/dataclasses 0.6: Backport implementation of PEP 557, Data Classes for Python 3.6
 dev-python/dataset 1.1.0 1.1.2: Easy-to-use data handling for SQL data stores
-dev-python/dbfread 2.0.7: Read DBF Files with Python
+dev-python/dbfread 2.0.7-r1: Read DBF Files with Python
 dev-python/delegator 0.1.1: Subprocesses for Humans 2.0
 dev-python/django-constance-haiwen 20180515: Django live settings with pluggable backends, including Redis
 dev-python/django-extensions 2.1.9: Extensions for Django
