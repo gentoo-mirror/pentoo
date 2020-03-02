@@ -239,7 +239,7 @@ dev-python/dotty 9999: EFILTER Query Language
 dev-python/dropbox-sdk 9.3.0 9.4.0: A Python SDK for integrating with the Dropbox API v2.
 dev-python/easygui 0.98.1: A module for very simple, very easy GUI programming in Python
 dev-python/editorconfig 0.12.1-r1 0.12.2: EditorConfig File Locator and Interpreter for Python
-dev-python/egghatch 0.2.3-r2: Cuckoo Sandbox Shellcode Identification & Formatting
+dev-python/egghatch 0.2.3-r3: Cuckoo Sandbox Shellcode Identification & Formatting
 dev-python/esmre 0.3.1: Regular expression accelerator
 dev-python/exifread 2.2.0: Read Exif metadata from tiff and jpeg files
 dev-python/face_recognition 1.2.3: Recognize faces from Python or from the command line
