@@ -210,7 +210,7 @@ dev-python/blinkstick 1.1.8_p20200211 9999: BlinkStick Python interface to contr
 dev-python/bluepy 1.3.0-r1: Python interface to Bluetooth LE on Linux
 dev-python/cchardet 2.1.4: Python library for interacting with Censys Search Engine (censys.io)
 dev-python/censys 0.0.8: Python library for interacting with Censys Search Engine (censys.io)
-dev-python/cfscrape 1.9.7 2.0.7: A module to bypass Cloudflare's anti-bot page
+dev-python/cfscrape 1.9.7 2.0.7 2.1.1: A module to bypass Cloudflare's anti-bot page
 dev-python/clamd 1.0.2: Clamd is a python interface to Clamd (Clamav daemon)
 dev-python/config 0.4.0 0.4.2: A hierarchical, easy-to-use, powerful configuration module for Python
 dev-python/coreapi 2.3.3: Python client library for Core API
