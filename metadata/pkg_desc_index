@@ -92,6 +92,7 @@ app-forensics/volatility 2.6.1-r1: Framework for analyzing volatile memory
 app-forensics/xmount 0.7.5 0.7.6: Convert on-the-fly between multiple input and output harddisk image types
 app-forensics/yara 3.11.0-r1: A malware identification and classification tool
 app-forensics/zsteg 0.2.2: Detect stegano-hidden data in PNG & BMP
+app-fuzz/0d1n 2.6 9999: A network interface promiscuous mode detection tool
 app-fuzz/bed 0.5: BED is a multi-protocol fuzzer written in perl
 app-fuzz/bss 0.8-r1: Bluetooth stack smasher / fuzzer
 app-fuzz/dotdotpwn 3.0 3.0.2: The Directory Traversal Fuzzer
