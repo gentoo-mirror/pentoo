@@ -775,7 +775,7 @@ pentoo/pentoo-fuzzers 2019: Pentoo fuzzers meta ebuild
 pentoo/pentoo-gnome 2.32.1-r3: Meta package for the GNOME desktop, merge this package to install
 pentoo/pentoo-installer 20200223 99999999: Installer for pentoo, based on the ncurses Arch Linux installer
 pentoo/pentoo-livecd 2019.2: things needed by pentoo for livecd only
-pentoo/pentoo-misc 2020.0-r2: Pentoo misc meta ebuild
+pentoo/pentoo-misc 2020.0-r3: Pentoo misc meta ebuild
 pentoo/pentoo-mitm 2019.2: Pentoo mitm meta ebuild
 pentoo/pentoo-mobile 2020.1-r1: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2019.2: Collection of NFC tools
@@ -787,7 +787,7 @@ pentoo/pentoo-system 2020.0: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2018.2-r1: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2019.3: Pentoo wireless meta ebuild
 pentoo/tribe 2012.0: Tribe meta ebuild
-pentoo/wctf-client 2020.0: Packages needed to power the client NUC for WCTF events
+pentoo/wctf-client 2020.1: Packages needed to power the client NUC for WCTF events
 pentoo/zero-system 2020.0-r3: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
 sci-electronics/litedram 20180514: Small footprint and configurable DRAM core
 sci-electronics/liteeth 20180301 20180719: Small footprint and configurable Ethernet core
