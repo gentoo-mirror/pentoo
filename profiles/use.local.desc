@@ -82,6 +82,14 @@ app-forensics/scap-security-guide:wrlinux1019 - If enabled, the WRLinux1019 SCAP
 app-forensics/scap-security-guide:wrlinux8 - If enabled, the WRLinux8 SCAP content will be built
 app-forensics/xmount:aff - Use the AFF image standard library
 app-forensics/xmount:ewf - Add support EWF (SMART and EnCase) image format
+app-fuzz/dotdotpwn:os-detection - Add support for OS detection
+app-fuzz/protos-bin:dns - Include DNS
+app-fuzz/protos-bin:h2250 - Include H.225.0
+app-fuzz/protos-bin:http - Include HTTP-reply
+app-fuzz/protos-bin:isakmp - Include ISAKMP
+app-fuzz/protos-bin:ldap - Include LDAP
+app-fuzz/protos-bin:sip - Include SIP
+app-fuzz/protos-bin:snmp - Include SNMP
 app-misc/freediag:gui - Enable scangui using x11-libs/fltk library
 app-misc/mat2:dolphin - Enable dolphin extension
 app-misc/mat2:nautilus - Enable nautilus extension
