@@ -92,7 +92,7 @@ app-forensics/volatility 2.6.1-r1: Framework for analyzing volatile memory
 app-forensics/xmount 0.7.5 0.7.6: Convert on-the-fly between multiple input and output harddisk image types
 app-forensics/yara 3.11.0-r1: A malware identification and classification tool
 app-forensics/zsteg 0.2.2: Detect stegano-hidden data in PNG & BMP
-app-fuzz/0d1n 2.6 9999: A network interface promiscuous mode detection tool
+app-fuzz/0d1n 2.6 9999: Web security tool to make fuzzing at HTTP/S
 app-fuzz/bed 0.5: BED is a multi-protocol fuzzer written in perl
 app-fuzz/bss 0.8-r1: Bluetooth stack smasher / fuzzer
 app-fuzz/dotdotpwn 3.0 3.0.2: The Directory Traversal Fuzzer
@@ -105,6 +105,7 @@ app-fuzz/smtp-fuzz 0.1: A smtp fuzzer
 app-fuzz/snmp-fuzzer 0.1.1-r1: A very complete snmp fuzzer
 app-fuzz/spike 2.9-r1: A generic network fuzzer
 app-misc/cyberchef 9.12.0 9.13.1: A web app for encryption, encoding, compression and data analysis (offline)
+app-misc/dangerzone 0.1: Take potentially dangerous PDFs or images and convert them to a safe PDF
 app-misc/freediag 1.08: Free diagnostic software for OBD-II compliant motor vehicles
 app-misc/gplaycli 3.26 3.27: Google Play Downloader via Command line
 app-misc/libmsr 9999: Reading, writing and analysis of magnetic stripe information
