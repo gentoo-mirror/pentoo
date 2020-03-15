@@ -250,6 +250,7 @@ dev-python/fastkml 0.11: Fast KML processing in python
 dev-python/filebytes 0.10.0: Classes to parse the following file formats
 dev-python/filedepot 0.7.1: Toolkit for storing files and attachments in web applications
 dev-python/filteralchemy-fork 0.1.0: Declarative query builder for SQLAlchemy
+dev-python/flasgger 0.9.4: Easy OpenAPI specs and Swagger UI for your Flask API
 dev-python/flask-caching 1.8.0: Continuation of the Flask-Cache Extension
 dev-python/flask-classful 0.14.2: Class based views for Flask
 dev-python/flask-jwt 0.3.2: JWT (JSON Web Tokens) for Flask applications
@@ -576,7 +577,7 @@ net-analyzer/polenum 1.6: Extract password policy from a windows machine
 net-analyzer/ppscan 0.3: Port scanner with HTTP and FTP tunneling support
 net-analyzer/pret 20180611-r1: Printer Exploitation Toolkit
 net-analyzer/rdp-sec-check 20181109: Remote Desktop Protocol security settings checker
-net-analyzer/recon-ng 5.0.0-r1 5.0.1 5.1.0 9999: Web Reconnaissance Framework
+net-analyzer/recon-ng 5.0.0-r1 5.0.1 5.1.0 5.1.1 9999: Web Reconnaissance Framework
 net-analyzer/responder 3.0.0.0-r1: LLMNR, NBT-NS and MDNS poisoner, HTTP/SMB/MSSQL/FTP/LDAP rogue authentication
 net-analyzer/rpcapd 4.1.3: Remote packet capture daemon
 net-analyzer/rshijack 0.3.0: A tcp connection hijacker, rust rewrite of shijack
