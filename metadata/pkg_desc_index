@@ -218,7 +218,7 @@ dev-python/config 0.4.0 0.4.2: A hierarchical, easy-to-use, powerful configurati
 dev-python/coreapi 2.3.3: Python client library for Core API
 dev-python/coreschema 0.0.4: Core Schema
 dev-python/coverage 4.5.3 4.5.4: Code coverage measurement for Python
-dev-python/csvkit 1.0.4-r1: A suite of utilities for converting to and working with CSV files
+dev-python/csvkit 1.0.4-r1 1.0.5: A suite of utilities for converting to and working with CSV files
 dev-python/cxoracle 5.3: Python extension module that allows access to Oracle Databases
 dev-python/dataclasses 0.6: Backport implementation of PEP 557, Data Classes for Python 3.6
 dev-python/dataset 1.1.0 1.1.2: Easy-to-use data handling for SQL data stores
@@ -487,7 +487,7 @@ dev-util/sonarqube-bin 7.9.2 8.1.0.31237: SonarQube Community Edition is an open
 dev-util/sonarscanner-bin 4.2.0.1873: SonarQube Command-Line Scanner
 dev-util/unicorn 1.0.1-r5 1.0.2_rc1: A lightweight multi-platform, multi-architecture CPU emulator framework
 dev-util/valabind 1.4.0 1.7.1: Valabind is a tool to parse vala or vapi files to transform them into swig files
-dev-vcs/gitleaks 2.1.0-r1 3.2.2 3.3.0 4.0.1: Audit git repos for secrets
+dev-vcs/gitleaks 3.2.2 3.3.0 4.0.1 4.1.0: Audit git repos for secrets
 dev-vcs/trufflehog 2.0.97_p20190506-r1: Searches through git repositories for high entropy strings and secrets
 gnome-base/gnome-keyring 3.28.2 3.31.91-r1 3.34.0-r1: Password and keyring managing daemon
 gnome-base/libgnomeui 2.24.5-r4: User Interface routines for Gnome
