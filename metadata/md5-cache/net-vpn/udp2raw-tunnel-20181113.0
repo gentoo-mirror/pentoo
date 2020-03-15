@@ -1,6 +1,5 @@
-BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl] filecaps? ( sys-libs/libcap )
 DEFINED_PHASES=compile install postinst prepare unpack
-DEPEND=filecaps? ( sys-libs/libcap )
 DESCRIPTION=A tunnel which turns UDP traffic into encrypted FakeTCP/UDP/ICMP traffic
 EAPI=7
 HOMEPAGE=https://github.com/wangyu-/udp2raw-tunnel
@@ -10,5 +9,5 @@ LICENSE=MIT
 PROPERTIES=live
 RDEPEND=iptables? ( net-firewall/iptables )
 SLOT=0
-_eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5	fcaps	9445d60c1eb084a91c38ef4c070b2f16	flag-o-matic	53d57b0f8b8c19ff72cb341a42b891ed	git-r3	86a0188f2ad9eb3d65e4d031ab8a0422	multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
+_eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5	fcaps	f52b3d580830bf1132beb1e4e843b84d	flag-o-matic	53d57b0f8b8c19ff72cb341a42b891ed	git-r3	86a0188f2ad9eb3d65e4d031ab8a0422	multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
 _md5_=fe320a0f306dfbf6e12245448301cfd5
