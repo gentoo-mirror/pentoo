@@ -96,6 +96,8 @@ app-misc/mat2:nautilus - Enable nautilus extension
 dev-libs/libvhdi:fuse - Enable fuse support
 dev-libs/libvmdk:fuse - Enable fuse support
 dev-libs/qbdi:tools - Enable advanced tools
+dev-python/pyinstaller:clang - Support for sys-devel/clang
+dev-python/pyinstaller:leak-detector - Support for link with Boehm garbage collector to detect memory leaks
 dev-python/stegoveritas-binwalk:graph - Enable support for generating entropy graphs
 dev-ruby/rails:asset-pipeline - Also install the default components for the asset pipeline. These are not required but they are activated automatically in new Rails projects by default.
 dev-util/mobsf:genymotion - Add app-emulation/genymotion-bin support
