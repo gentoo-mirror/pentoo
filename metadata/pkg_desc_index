@@ -308,6 +308,7 @@ dev-python/phply 0.9.1-r1 1.2.5: Parser for PHP written using PLY
 dev-python/plotly 4.1.1: Browser-based graphing library for Python
 dev-python/poster 0.8.1: Make HTTP POST/PUT with multipart/form-data encoding
 dev-python/proxy-db 0.2.3: Manage free and private proxies on local db for Python Projects
+dev-python/py2neo 3.1.2: A simple and pragmatic library which accesses the Neo4j graph database
 dev-python/pyDes 2.0.1: Pure python implementation of DES and TRIPLE DES encryption algorithm
 dev-python/pyaff4 9999: Python Advanced Forensic Format Version 4 library.
 dev-python/pyaxmlparser 0.3.24: Parser for Android XML file and get Application Name without using Androguard
@@ -328,6 +329,7 @@ dev-python/pynetfilter_conntrack 0.4.2: Python binding of libnetfilter_conntrack
 dev-python/pypcapfile 0.12.0: Pure Python package for reading and parsing libpcap savefiles
 dev-python/pyppeteer 0.0.25: Headless chrome/chromium automation library
 dev-python/pysnmp 4.4.12: Python SNMP library
+dev-python/pysnmp-apps 0.5.3: PySNMP applications
 dev-python/python-cas-haiwen 20180411: Python CAS client library
 dev-python/python-crontab 20191023: Crontab module for accessing system crontabs
 dev-python/python-docx 0.8.10: Create and modify Word documents with Python
