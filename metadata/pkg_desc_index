@@ -311,7 +311,6 @@ dev-python/proxy-db 0.2.3: Manage free and private proxies on local db for Pytho
 dev-python/pyDes 2.0.1: Pure python implementation of DES and TRIPLE DES encryption algorithm
 dev-python/pyaff4 9999: Python Advanced Forensic Format Version 4 library.
 dev-python/pyaxmlparser 0.3.24: Parser for Android XML file and get Application Name without using Androguard
-dev-python/pybind11 2.4.3: Seamless operability between C++11 and Python
 dev-python/pybonjour 1.1.1: Python interface to Apple Bonjour and compatible DNS-SD libraries (Avahi)
 dev-python/pycryptodomex 3.9.0 3.9.4 3.9.6: A self-contained cryptographic library for Python
 dev-python/pydispatcher 2.0.5: Multi-producer-multi-consumer signal dispatching mechanism
