@@ -836,11 +836,11 @@ www-apps/rda 2.3 2.4: Web-based application for effective reporting writing
 www-apps/seafile-pro-server 7.0.13: Meta package for Seafile Pro Edition, file sync share solution
 www-apps/vulsrepo 20190412-r3: VulsRepo is visualized based on the json report output in vuls
 www-misc/firefox-bookmarks 0.3-r1: Firefox bookmarks for the Pento ISO only
-www-plugins/adblock_plus 3.6.3 3.7: Firefox extension to block annoying ads automatically, no distractions.
+www-plugins/adblock_plus 3.7 3.8: Firefox extension to block annoying ads automatically, no distractions.
 www-plugins/cookies_exportimport 1.0.1-r1: Cookie Import Export
 www-plugins/exif_viewer 2.00-r3: Firefox extension to display the Exif and IPTC data in local and remote JPEG images.
 www-plugins/firebug 2.0.18: Powerful web development tool for firefox
-www-plugins/foxyproxy 7.4.2: An advanced proxy management tool
+www-plugins/foxyproxy 7.4.2 7.4.3: An advanced proxy management tool
 www-plugins/hackbar 1.6.3: Simple security audit / penetration test tool.
 www-plugins/hackplugins-meta 1.2: Collection of browser's plugins for application security testing
 www-plugins/httpfox 0.8.14: A HTTP analyzer addon for Firefox
