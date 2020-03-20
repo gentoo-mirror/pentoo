@@ -460,7 +460,6 @@ dev-util/appmon 0.5: Monitoring and tampering API calls of MacOS and iOS/Android
 dev-util/ati-app-sdk-bin 2.9: AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream)
 dev-util/ati-stream-sdk-bin 2.01 2.2 2.3: Enable compiling code and loading it on ATI/AMD GPU
 dev-util/calpp 0.90-r1: A library for efficient use of ATI CAL with C++
-dev-util/catalyst 9999: Release metatool used for creating releases based on Gentoo Linux
 dev-util/collabreate 0.4.0_p20140528: A plugin for IDA Pro designed to provide collaborative reverse engineering
 dev-util/dependency-check-bin 5.1.0 5.2.1 5.2.4: A utility that detects vulnerabilities in application dependencies
 dev-util/dex2jar 2.1_pre20150601 2.1_pre20180402: Tools to work with android .dex and java .class files
@@ -561,7 +560,6 @@ net-analyzer/metasploit 4.17.21-r8: Advanced framework for developing, testing, 
 net-analyzer/mosref 2.0_beta3: A secure remote execution framework using a compact Scheme-influenced VM
 net-analyzer/nbtool 20140416: Some tools for NetBIOS and DNS investigation, attacks, and communication
 net-analyzer/ncrack 0.7: Ncrack is a high-speed network authentication cracking tool
-net-analyzer/nessus-bin 8.8.0 8.9.0: A remote security scanner for Linux
 net-analyzer/nikto 2.1.6-r1 2.1.6_p20180122 2.1.6_p20181021 2.1.6_p20190508: Web server vulnerability scanner
 net-analyzer/nmap 7.80-r1: A utility for network discovery and security auditing
 net-analyzer/nmap-vulners 1.2 1.4_beta 9999: NSE script based on Vulners.com API
