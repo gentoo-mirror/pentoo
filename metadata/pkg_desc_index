@@ -184,7 +184,7 @@ dev-libs/openssl-bad 1.0.2_p20180915 1.0.2_p20190119: Snapshot for testssl.sh >2
 dev-libs/qbdi 0.7.0 0.7.1: A Dynamic Binary Instrumentation framework based on LLVM
 dev-libs/radare2-bindings 3.3.0 3.6.0 4.0.0: Language bindings for radare2
 dev-libs/redasm-database 20190317: Database files (signatures) for REDasm
-dev-libs/unicorn-bindings 1.0.1-r1 1.0.2_rc1: Unicorn bindings
+dev-libs/unicorn-bindings 1.0.1-r1 1.0.2_rc1 1.0.2_rc2: Unicorn bindings
 dev-perl/Encoding-BER 1.02: Perl module for encoding/decoding data using ASN.1 Basic Encoding Rules (BER)
 dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
 dev-perl/Tie-CharArray 1.00: Manipulate perl strings through tied array
@@ -485,7 +485,7 @@ dev-util/retdec 3.3-r1: RetDec is a retargetable machine-code decompiler based o
 dev-util/soapui 5.4.0 5.5.0: The Swiss-Army Knife for SOAP Testing
 dev-util/sonarqube-bin 7.9.2 8.1.0.31237: SonarQube Community Edition is an open platform to manage code quality
 dev-util/sonarscanner-bin 4.2.0.1873: SonarQube Command-Line Scanner
-dev-util/unicorn 1.0.1-r5 1.0.2_rc1: A lightweight multi-platform, multi-architecture CPU emulator framework
+dev-util/unicorn 1.0.1-r5 1.0.2_rc1 1.0.2_rc2: A lightweight multi-platform, multi-architecture CPU emulator framework
 dev-util/valabind 1.4.0 1.7.1: Valabind is a tool to parse vala or vapi files to transform them into swig files
 dev-vcs/gitleaks 3.2.2 3.3.0 4.0.1 4.1.0: Audit git repos for secrets
 dev-vcs/trufflehog 2.0.97_p20190506-r1: Searches through git repositories for high entropy strings and secrets
@@ -758,7 +758,7 @@ net-wireless/trunk-recorder 9999: Records calls from a Trunked Radio System (P25
 net-wireless/virtualradar-bin 2.0.1 2.3.1: Open-source .NET application for ads-b mapping
 net-wireless/wifi-pumpkin 0.8.8-r2: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifitap 0.4.2-r1: A wireless tool to do direct connection to client without passing through an AP
-net-wireless/wifite 2.2.5-r3 9999: An automated wireless attack tool
+net-wireless/wifite 2.2.5-r3 2.5.2: An automated wireless attack tool
 net-wireless/wireless-regdb 20090130-r1 20090309 20090817 20091125 20091125-r1: Binary regulatory database for CRDA
 net-wireless/wpa_sycophant 1.0 9999: Evil client portion of EAP relay attack
 pentoo/pentoo 2015.1: Pentoo meta ebuild to install all apps
