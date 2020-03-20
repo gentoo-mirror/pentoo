@@ -587,7 +587,7 @@ net-analyzer/scamper 20181219 20190916 20191102a: Actively probes the Internet i
 net-analyzer/serialusb 0.7: A cheap USB proxy for input devices
 net-analyzer/sessionlist 1.0-r1: A HTTP packets sniffer
 net-analyzer/set 8.0.1: A social engineering framework
-net-analyzer/sipvicious 0.2.8-r4: A voip pentest tools suite
+net-analyzer/sipvicious 0.3.0: A voip pentest tools suite
 net-analyzer/sitadel 1.0.0_p20190828: Web application security scanner
 net-analyzer/smbmap 1.1.0-r1 1.8.2: SMBMap is a handy SMB enumeration tool
 net-analyzer/sn0int 0.16.0 0.17.1 0.18.0: Semi-automatic OSINT framework and package manager
