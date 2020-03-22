@@ -1,7 +1,7 @@
 # Copyright 1999-2020 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI=6
+EAPI=7
 
 inherit eutils pax-utils
 
@@ -69,6 +69,6 @@ src_install(){
 }
 
 pkg_postinst(){
-	elog "You may install some additional utils, so check them in:"
-	elog "https://code.visualstudio.com/Docs/setup#_additional-tools"
+	einfo "You may install some additional utils, so check them in:"
+	einfo "https://code.visualstudio.com/Docs/setup#_additional-tools"
 }
