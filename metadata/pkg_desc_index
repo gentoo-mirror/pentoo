@@ -54,7 +54,6 @@ app-exploits/weevely 3.7.0 9999: Weevely is a stealth PHP web shell that simulat
 app-exploits/wesng 20191116 99999999: Windows Exploit Suggester - Next Generation
 app-forensics/bulk_extractor 1.5.5-r1 1.6.0 9999: Scans a disk image for regular expressions and other content
 app-forensics/cortex 2.1.3 3.0.0: A powerful observable analysis and active response engine
-app-forensics/dpapick 0.2_p20130826 0.3: Open-source tool that allows decryption of DPAPI structures in an offline way
 app-forensics/eagleeye 20191229: Find people's social media profile using reverse image search
 app-forensics/fuxploider 1.0 9999: File upload vulnerability scanner and exploitation tool
 app-forensics/guymager 0.8.11: Guymager is a fast and user friendly forensic imager.
@@ -119,7 +118,7 @@ app-pda/libimobiledevice 1.2.1_pre20190719-r1: Support library to communicate wi
 app-pda/libplist 2.1.0: Support library to deal with Apple Property Lists (Binary & XML)
 app-pda/libusbmuxd 1.1.0_pre20190328 2.0.1: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
 app-pda/usbmuxd 1.1.0 1.1.1_pre20180131 1.1.1_pre20191112: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
-app-text/cewl 5.4.7 5.4.8 9999: A custom word list generator
+app-text/cewl 5.4.8.1 9999: A custom word list generator
 app-text/unfurl 0.2.0: Pull out bits of URLs provided on stdin
 dev-db/absinthe 1.4.1: a gui-based tool for aiding in Blind SQL Injection
 dev-db/mssqlscan 0.8.4: A small multi-threaded tool that scans for Microsoft SQL Servers
@@ -628,7 +627,7 @@ net-analyzer/vomit 0.2c: Converts a Cisco IP phone conversation into a wav file
 net-analyzer/w3af 1.6.54-r5: Web Application Attack and Audit Framework
 net-analyzer/wafw00f 2.1.0-r1: Identifies and fingerprints Web Application Firewall (WAF) products
 net-analyzer/wfuzz 2.4.2-r1 2.4.4 2.4.5: Wfuzz is a tool designed for bruteforcing Web Applications
-net-analyzer/whatweb 0.5.0: Next generation web scanner, identifies what software websites are running
+net-analyzer/whatweb 0.5.0 0.5.1: Next generation web scanner, identifies what software websites are running
 net-analyzer/wpscan 3.7.5 3.7.8 3.7.11: Wordpress security scanner
 net-analyzer/xbruteforcer 20180611: Login brute force tool for WordPress, Joomla, DruPal, OpenCart, and Magento.
 net-analyzer/xplico 1.2.2: Extract data from TCP/IP traffic
@@ -863,7 +862,7 @@ www-plugins/sql-inject-me 0.4.7-r2: SQL Inject Me is the Exploit-Me tool used to
 www-plugins/sqlite_manager 0.8.1: Extension for Firefox and other apps to manage any sqlite database
 www-plugins/user-agent-switcher 0.7.3-r4: Adds a menu and a toolbar button to switch the user agent of firefox
 www-plugins/user-agent-switcher-revived 0.2.0 0.2.4 0.2.6: Adds a menu and a toolbar button to switch the user agent of firefox
-www-plugins/wappalyzer 5.8.5 5.9.0: Cross-platform utility that uncovers the technologies used on websites
+www-plugins/wappalyzer 5.9.0 5.9.4: Cross-platform utility that uncovers the technologies used on websites
 www-plugins/web_developer 2.0.1: Adds various web developer tools to firefox.
 www-plugins/xss-me 0.4.6-r4: Firefox extension to test for reflected cross-site-scripting vulnerabilities.
 www-servers/thin 1.7.2: A fast and very simple Ruby web server
