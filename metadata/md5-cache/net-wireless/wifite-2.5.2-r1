@@ -6,10 +6,10 @@ HOMEPAGE=https://github.com/derv82/wifite2
 IUSE=dict opencl extra python_targets_python3_6 python_targets_python3_7
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
-PDEPEND=net-wireless/aircrack-ng dev-python/pexpect net-wireless/hcxdumptool net-wireless/hcxtools net-wireless/pyrit[opencl?] opencl? ( app-crypt/hashcat ) dict? ( sys-apps/cracklib-words ) extra? ( net-analyzer/wireshark net-wireless/reaver-wps-fork-t6x !net-wireless/reaver net-wireless/bully net-wireless/cowpatty net-analyzer/macchanger )
+PDEPEND=net-wireless/aircrack-ng[python_targets_python3_6(-)?,python_targets_python3_7(-)?,-python_single_target_python3_6(-),-python_single_target_python3_7(-)] dev-python/pexpect[python_targets_python3_6(-)?,python_targets_python3_7(-)?,-python_single_target_python3_6(-),-python_single_target_python3_7(-)] net-wireless/hcxdumptool net-wireless/hcxtools opencl? ( app-crypt/hashcat ) dict? ( sys-apps/cracklib-words ) extra? ( net-analyzer/wireshark net-wireless/reaver-wps-fork-t6x !net-wireless/reaver net-wireless/bully net-wireless/cowpatty net-analyzer/macchanger )
 RDEPEND=python_targets_python3_6? ( dev-lang/python:3.6 ) python_targets_python3_7? ( dev-lang/python:3.7 ) >=dev-lang/python-exec-2:=[python_targets_python3_6(-)?,python_targets_python3_7(-)?,-python_single_target_python3_6(-),-python_single_target_python3_7(-)]
 REQUIRED_USE=|| ( python_targets_python3_6 python_targets_python3_7 )
 SLOT=2
 SRC_URI=https://github.com/kimocoder/wifite2/archive/2.5.2.tar.gz -> wifite2-2.5.2.tar.gz
 _eclasses_=distutils-r1	577e2308f7b36e26062d464f59a5ee6c	multibuild	40fe59465edacd730c644ec2bc197809	multilib	1d91b03d42ab6308b5f4f6b598ed110e	multiprocessing	cac3169468f893670dac3e7cb940e045	python-r1	8386b016a2b3bbefa88443fdaa898057	python-utils-r1	e03f98555f2634bb9fb3160a8e30e3ec	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
-_md5_=0aac0e13cc22ca8246827c025ff89052
+_md5_=c028a3441a991eb3677f1877f658aecf
