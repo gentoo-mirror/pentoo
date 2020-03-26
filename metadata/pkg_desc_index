@@ -480,7 +480,7 @@ dev-util/electron-bin 6.0.11: Cross platform application development framework b
 dev-util/electron-packager 14.2.1: Six Degrees of Domain Admin
 dev-util/emilpro 3_p20170708 3_p20180111: Graphical disassembler for a large number of instruction sets
 dev-util/frida-tools 5.3.0 6.0.0-r1 6.0.1: Frida CLI tools
-dev-util/ghidra 9.1 9.1.1: A software reverse engineering framework
+dev-util/ghidra 9.1.1 9.1.2: A software reverse engineering framework
 dev-util/hexd 1.10: Eric Raymond's hex dumper
 dev-util/jadx-bin 1.0.0 1.1.0: A standalone graphical utility that displays Java source codes of .class file
 dev-util/jd-gui 1.6.3 1.6.5 1.6.6: A standalone Java Decompiler GUI
