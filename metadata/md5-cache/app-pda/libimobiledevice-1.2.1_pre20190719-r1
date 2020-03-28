@@ -11,5 +11,5 @@ RDEPEND=>=app-pda/libplist-1.12:= >=app-pda/libusbmuxd-1.1.0_pre20190118:= gnutl
 REQUIRED_USE=|| ( python_targets_python3_6 python_targets_python3_7 python_targets_python3_8 )
 SLOT=0/6
 SRC_URI=https://github.com/libimobiledevice/libimobiledevice/archive/98ac7da5255a69fa4620e325228a1c7d79ba42d7.tar.gz -> libimobiledevice-1.2.1_pre20190719.tar.gz
-_eclasses_=autotools	7d999b62b8749fad43fff00620cedf47	eutils	fcb2aa98e1948b835b5ae66ca52868c5	libtool	f143db5a74ccd9ca28c1234deffede96	multibuild	40fe59465edacd730c644ec2bc197809	multilib	c9e26066f2b7b5a91ad08d042f7f7306	python-r1	8386b016a2b3bbefa88443fdaa898057	python-utils-r1	6f5996d2ae01e0c6f2869ed18f023239	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
+_eclasses_=autotools	7d999b62b8749fad43fff00620cedf47	eutils	fcb2aa98e1948b835b5ae66ca52868c5	libtool	f143db5a74ccd9ca28c1234deffede96	multibuild	40fe59465edacd730c644ec2bc197809	multilib	318e8ae683e57fd3ccd0d31a769d8ee8	python-r1	8386b016a2b3bbefa88443fdaa898057	python-utils-r1	6f5996d2ae01e0c6f2869ed18f023239	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
 _md5_=eb96cf3bd247588498567bdc0c005098

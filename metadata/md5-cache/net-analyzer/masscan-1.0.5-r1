@@ -8,5 +8,5 @@ LICENSE=AGPL-3
 RDEPEND=net-libs/libpcap pf_ring? ( sys-kernel/pf_ring-kmod )
 SLOT=0
 SRC_URI=https://github.com/robertdavidgraham/masscan/archive/1.0.5.tar.gz -> masscan-1.0.5.tar.gz
-_eclasses_=multilib	c9e26066f2b7b5a91ad08d042f7f7306	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
+_eclasses_=multilib	318e8ae683e57fd3ccd0d31a769d8ee8	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
 _md5_=e8c1d521b65f6c60b613277acc7da438
