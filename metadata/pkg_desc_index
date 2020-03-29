@@ -344,7 +344,7 @@ dev-python/python-cas-haiwen 20180411: Python CAS client library
 dev-python/python-crontab 20191023: Crontab module for accessing system crontabs
 dev-python/python-docx 0.8.10: Create and modify Word documents with Python
 dev-python/python-gvm 1.1.0: Library to communicate with remote servers over GMP or OSP
-dev-python/python-iptools 0.6.1 0.6.1_p20181212: A package is a collection of utilities for dealing with IP addresses.
+dev-python/python-iptools 0.7.0: A package is a collection of utilities for dealing with IP addresses
 dev-python/python-libnmap 0.7.0: A python library enabling python developers to manipulate nmap process and data
 dev-python/python-nmap 0.6.1: a python library which helps in using nmap port scanner
 dev-python/python-ntlm 1.1.0-r1: Python library for NTLM support
@@ -575,6 +575,7 @@ net-analyzer/nikto 2.1.6-r1 2.1.6_p20180122 2.1.6_p20181021 2.1.6_p20190508: Web
 net-analyzer/nmap 7.80-r1: A utility for network discovery and security auditing
 net-analyzer/nmap-vulners 1.2 1.4_beta 9999: NSE script based on Vulners.com API
 net-analyzer/nmap_vulscan 2.0-r1 2.0_p20170503 2.0_p20171214 2.0_p20190923: A NSE vulnerability scanner which uses an offline version of scip VulDB
+net-analyzer/ntlmrecon 0.2_beta: A tool to enumerate information from NTLM authentication enabled web endpoints
 net-analyzer/ntp-fingerprint 0.1-r2: NTP fingerprinting utility
 net-analyzer/onesixtyone 0.7: An efficient SNMP scanner
 net-analyzer/openvas-scanner 7.0.0: Open Vulnerability Assessment Scanner
