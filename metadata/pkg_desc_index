@@ -264,7 +264,7 @@ dev-python/flask-restless 0.17.0: A Flask extension for easy ReSTful API generat
 dev-python/flask-security 3.0.0: Simple security for Flask apps
 dev-python/flask-session 0.3.1: Adds server-side session support to your Flask application
 dev-python/fpdf 1.7.2: Simple PDF generation for Python
-dev-python/frida-python 12.8.0 12.8.6: Dynamic instrumentation toolkit for reverse-engineers and security researchers
+dev-python/frida-python 12.8.0 12.8.6 12.8.19: Dynamic instrumentation toolkit for reverse-engineers and security researchers
 dev-python/geoip2-python 2.8.0: Python bindings for GeoIP2
 dev-python/google-play-scraper 0.0.1.8: APIs to easily crawl the Google Play Store for Python
 dev-python/googlesearch 20181112-r1: Google search from Python
@@ -479,7 +479,7 @@ dev-util/dwarf-debugger 1.0.0 1.0.1 1.0.7: Full featured multi arch/os debugger 
 dev-util/electron-bin 6.0.11: Cross platform application development framework based on web technologies
 dev-util/electron-packager 14.2.1: Six Degrees of Domain Admin
 dev-util/emilpro 3_p20170708 3_p20180111: Graphical disassembler for a large number of instruction sets
-dev-util/frida-tools 5.3.0 6.0.0-r1 6.0.1: Frida CLI tools
+dev-util/frida-tools 5.3.0 6.0.0-r1 6.0.1 7.2.0: Frida CLI tools
 dev-util/ghidra 9.1.1 9.1.2: A software reverse engineering framework
 dev-util/hexd 1.10: Eric Raymond's hex dumper
 dev-util/jadx-bin 1.0.0 1.1.0: A standalone graphical utility that displays Java source codes of .class file
@@ -488,7 +488,7 @@ dev-util/lida 03.00.00: interactive ELF disambler
 dev-util/lief 0.10.1: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
 dev-util/mobsf 3.0.1: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
-dev-util/objection 1.8.3 1.8.4-r1: Runtime mobile exploration
+dev-util/objection 1.8.3 1.8.4-r1 1.9.0: Runtime mobile exploration
 dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIPS
 dev-util/qark 0.9_pre20190405: A tool to look for Android application vulnerabilities
 dev-util/recaf-bin 1.15.9 1.15.10: A modern Java bytecode editor
