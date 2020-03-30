@@ -302,7 +302,7 @@ dev-python/mitm6 0.2.2: pwning IPv4 via IPv6
 dev-python/mockito 1.2.0: Spying framework based on Mockito java library
 dev-python/msldap 0.2.10: Python library to play with MS LDAP
 dev-python/msoffcrypto-tool 4.10.1: Python tool & library for decrypting MS Office files with passwords or other keys
-dev-python/nassl 2.1.1 2.1.2 2.2.0: Experimental OpenSSL wrapper for Python 3.6+ and SSLyze
+dev-python/nassl 2.2.0 3.0.0: Experimental OpenSSL wrapper for Python 3.6+ and SSLyze
 dev-python/nessrest 20180806: A high-level Web Crawling and Web Scraping framework
 dev-python/netfilterqueue 0.8.1: Python bindings for libnetfilter_queue
 dev-python/nplusone 1.0.0: Detecting the n+1 queries problem in Python
@@ -394,6 +394,7 @@ dev-python/tlslite-ng 0.7.5: New home of the TLS implementation in pure python.
 dev-python/torrequest 20181011-r1: Simple Python interface for HTTP(s) requests over Tor
 dev-python/tre-python 0.8.0: Python bidings for TRE library
 dev-python/truffleHogRegexes 20190518: These are the regexes that power trufflehog
+dev-python/typing-extensions 3.7.4.1: Typing Extensions – Backported and Experimental Type Hints for Python
 dev-python/validators 0.14.0: Python Data Validation for Humans
 dev-python/vulndb 0.1.1: Python SDK to access the vulnerability database
 dev-python/vulners 1.5.4 1.5.5: Python API wrapper for the Vulners Database
@@ -607,7 +608,7 @@ net-analyzer/sniffglue 0.10.1: Secure multithreaded packet sniffer
 net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
 net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
 net-analyzer/sslstrip 0.9-r2 0.9.2: sslstrip remove https and forwards http
-net-analyzer/sslyze 2.0.6 2.1.3 2.1.4: Fast and full-featured SSL scanner
+net-analyzer/sslyze 2.1.4 3.0.0: Fast and full-featured SSL scanner
 net-analyzer/subfinder 2.3.0 2.3.1 2.3.2: A subdomain discovery tool that discovers valid subdomains for websites
 net-analyzer/subjack 2.1: Subdomain Takeover tool written in Go
 net-analyzer/sublert 1.4.7_p20190810: Monitor new subdomains deployed by specific organizations and issued TLS/SSL certificate
