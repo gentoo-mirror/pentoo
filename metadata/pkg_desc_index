@@ -1,4 +1,6 @@
+acct-group/sonar 0: Group for SonarQube
 acct-group/vuls 0: Group for Vuls
+acct-user/sonar 0: User for SonarQube
 acct-user/vuls 0: User for Vuls
 app-admin/genmenu 9999: a tool for generating freedesktop-compliant menus
 app-admin/vuls 0.9.0-r1: Vulnerability scanner for Linux, agentless, written in Golang
@@ -496,7 +498,7 @@ dev-util/recaf-bin 1.15.9 1.15.10: A modern Java bytecode editor
 dev-util/redasm 2.1.1: The OpenSource Disassembler
 dev-util/retdec 3.3-r1: RetDec is a retargetable machine-code decompiler based on LLVM.
 dev-util/soapui 5.4.0 5.5.0: The Swiss-Army Knife for SOAP Testing
-dev-util/sonarqube-bin 7.9.2 8.1.0.31237: SonarQube Community Edition is an open platform to manage code quality
+dev-util/sonarqube-bin 7.9.3 8.2.0.32929: SonarQube Community Edition is an open platform to manage code quality
 dev-util/sonarscanner-bin 4.2.0.1873: SonarQube Command-Line Scanner
 dev-util/unicorn 1.0.1-r5 1.0.2_rc1 1.0.2_rc2: A lightweight multi-platform, multi-architecture CPU emulator framework
 dev-util/valabind 1.4.0 1.7.1: Valabind is a tool to parse vala or vapi files to transform them into swig files
