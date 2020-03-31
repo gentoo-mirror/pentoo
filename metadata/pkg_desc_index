@@ -44,7 +44,7 @@ app-exploits/linux-exploit-suggester 20140519 99999999: Linux Exploit Suggester 
 app-exploits/linuxprivchecker 20160302 99999999: A Linux Privilege Escalation Check Script
 app-exploits/packetstormexploits 2012.12 2013.12 2014.12 2015.12 2016.12 2017.12 2018.12 2019.12: Archive of packetstorm exploits
 app-exploits/packetstormexploits-meta 2019: Meta ebuild of packetstorm exploits
-app-exploits/proton 20200311: 
+app-exploits/proton 20200311: Windows post-exploitation framework using Windows Script Host
 app-exploits/pwntools 4.0.1: CTF framework and exploit development library
 app-exploits/pypykatz 0.3.7: Python implementation of Mimikatz
 app-exploits/ropper 1.13.3-r2 1.13.5 9999: Use to display information about binary files in different file formats
