@@ -37,7 +37,7 @@ app-exploits/empire 3.0.7 3.1.1: A post-exploitation framework
 app-exploits/enumdb 2.1.0: Database brute force and post exploitation tool
 app-exploits/exploit-pattern 20200109: Generate and search pattern string for exploit development
 app-exploits/exploitdb 20200229 20200320 99999999: All exploits from exploit-db.com
-app-exploits/exploitdb-papers 20200229 99999999: Exploit database's papers
+app-exploits/exploitdb-papers 20200331 99999999: Exploit database's papers
 app-exploits/getsploit 0.3.3_p20190530 9999: Command line utility for searching and downloading exploits
 app-exploits/linenum 20191028 99999999: Local Linux enumeration and privilege escalation checker
 app-exploits/linux-exploit-suggester 20140519 99999999: Linux Exploit Suggester based on operating system release number
