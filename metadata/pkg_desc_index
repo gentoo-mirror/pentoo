@@ -311,7 +311,6 @@ dev-python/nplusone 1.0.0: Detecting the n+1 queries problem in Python
 dev-python/oscrypto 1.2.0: TLS sockets, key generation, encryption, decryption, signing, verification
 dev-python/parse 1.14.0: parse() is the opposite of format()
 dev-python/parsel 1.5.1: Parsel is a library to extract data from HTML and XML using XPath and CSS selectors
-dev-python/pathspec 0.5.9: Utility library for gitignore style pattern matching of file paths
 dev-python/pcodedmp 1.2.6: A VBA p-code disassembler
 dev-python/pdfkit 0.6.1: Wkhtmltopdf python wrapper
 dev-python/pefile 2018.8.8 2019.4.18: Module to read and work with Portable Executable (PE) files
@@ -407,7 +406,7 @@ dev-python/websockets 7.0: An implementation of the WebSocket Protocol (RFC 6455
 dev-python/whitenoise 5.0.1: Radically simplified static file serving for WSGI applications
 dev-python/winacl 0.0.2: ACL/ACE/Security Descriptor manipulation library
 dev-python/winsspi 0.0.5: Windows SSPI library in pure Python
-dev-python/yamllint 1.17.0: A linter for YAML files
+dev-python/yamllint 1.21.0: A linter for YAML files
 dev-python/yara-python 3.11.0: Python interface for a malware identification and classification tool
 dev-python/yaswfp 0.9.3: Yet Another SWF Parser.
 dev-python/zap-api-python 0.0.9 0.0.14: OWASP ZAP Python API
