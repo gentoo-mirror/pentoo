@@ -612,7 +612,7 @@ net-analyzer/sslstrip 0.9-r2 0.9.2: sslstrip remove https and forwards http
 net-analyzer/sslyze 2.1.4 3.0.0: Fast and full-featured SSL scanner
 net-analyzer/subfinder 2.3.0 2.3.1 2.3.2: A subdomain discovery tool that discovers valid subdomains for websites
 net-analyzer/subjack 2.1: Subdomain Takeover tool written in Go
-net-analyzer/sublert 1.4.7_p20190810: Monitor new subdomains deployed by specific organizations and issued TLS/SSL certificate
+net-analyzer/sublert 1.4.7_p20200103: Monitor new subdomains deployed by specific organizations and issued TLS/SSL certificate
 net-analyzer/sublist3r 1.0_p20200105: Enumerate subdomains of websites using OSINT
 net-analyzer/takeover 20200312: Sub-Domain TakeOver Vulnerability Scanner
 net-analyzer/termshark 1.0.0 2.0.2 2.0.3 2.1.1 9999: A terminal UI for tshark, inspired by Wireshark
