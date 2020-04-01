@@ -1,6 +1,8 @@
 acct-group/sonar 0: Group for SonarQube
+acct-group/spiderfoot 0: Group for SpiderFoot
 acct-group/vuls 0: Group for Vuls
 acct-user/sonar 0: User for SonarQube
+acct-user/spiderfoot 0: User for SpiderFoot
 acct-user/vuls 0: User for Vuls
 app-admin/genmenu 9999: a tool for generating freedesktop-compliant menus
 app-admin/vuls 0.9.0-r1: Vulnerability scanner for Linux, agentless, written in Golang
@@ -36,7 +38,7 @@ app-exploits/deathstar 20180722: A tool to gain Domain Admin rights with a push 
 app-exploits/empire 3.0.7 3.1.1: A post-exploitation framework
 app-exploits/enumdb 2.1.0: Database brute force and post exploitation tool
 app-exploits/exploit-pattern 20200109: Generate and search pattern string for exploit development
-app-exploits/exploitdb 20200229 20200320 99999999: All exploits from exploit-db.com
+app-exploits/exploitdb 20200331 99999999: All exploits from exploit-db.com
 app-exploits/exploitdb-papers 20200331 99999999: Exploit database's papers
 app-exploits/getsploit 0.3.3_p20190530 9999: Command line utility for searching and downloading exploits
 app-exploits/linenum 20191028 99999999: Local Linux enumeration and privilege escalation checker
