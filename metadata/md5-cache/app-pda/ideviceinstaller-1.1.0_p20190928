@@ -2,11 +2,11 @@ DEFINED_PHASES=prepare
 DEPEND=>=app-pda/libimobiledevice-1.2.0:= >=app-pda/libplist-1.8:= >=dev-libs/libzip-0.10 virtual/pkgconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.1:1.16 >=sys-devel/automake-1.15.1:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
 DESCRIPTION=A tool to interact with the installation_proxy of an Apple's iDevice
 EAPI=6
-HOMEPAGE=http://www.libimobiledevice.org/
+HOMEPAGE=http://www.libimobiledevice.org/ https://github.com/libimobiledevice/ideviceinstaller
 KEYWORDS=amd64 x86
 LICENSE=GPL-2
 RDEPEND=>=app-pda/libimobiledevice-1.2.0:= >=app-pda/libplist-1.8:= >=dev-libs/libzip-0.10
 SLOT=0
-SRC_URI=https://github.com/libimobiledevice/ideviceinstaller/archive/b37ce232a44e4e212f71d3792cbd3d86e2f9ac33.zip -> ideviceinstaller-1.1.0_p20191028.zip
+SRC_URI=https://github.com/libimobiledevice/ideviceinstaller/archive/b37ce232a44e4e212f71d3792cbd3d86e2f9ac33.zip -> ideviceinstaller-1.1.0_p20190928.zip
 _eclasses_=autotools	7d999b62b8749fad43fff00620cedf47	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	318e8ae683e57fd3ccd0d31a769d8ee8	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
-_md5_=1d6f8aead09ef76abc99f2974eefe59c
+_md5_=bdc3ed366a40bf4e6f90fc5f4bc60396

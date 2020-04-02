@@ -117,11 +117,7 @@ app-misc/mat2 0.10.0 0.10.1 0.11.0: A handy tool to trash your metadata
 app-misc/openobd 0.5.0: OBD-II Scan Tool supporting ELM327 devices
 app-misc/solaar 9999: A Linux device manager for Logitech's Unifying Receiver peripherals
 app-officeext/languagetool 4.6 4.8: Style and Grammar Checker for libreoffice
-app-pda/ideviceinstaller 1.1.0 1.1.0_p20181001 1.1.0_p20191028: A tool to interact with the installation_proxy of an Apple's iDevice
-app-pda/libimobiledevice 1.2.1_pre20190719-r1: Support library to communicate with Apple iPhone/iPod Touch devices
-app-pda/libplist 2.1.0: Support library to deal with Apple Property Lists (Binary & XML)
-app-pda/libusbmuxd 1.1.0_pre20190328 2.0.1: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
-app-pda/usbmuxd 1.1.0 1.1.1_pre20180131 1.1.1_pre20191112: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
+app-pda/ideviceinstaller 1.1.0 1.1.0_p20181001 1.1.0_p20190928: A tool to interact with the installation_proxy of an Apple's iDevice
 app-text/cewl 5.4.8.1 9999: A custom word list generator
 app-text/unfurl 0.2.0: Pull out bits of URLs provided on stdin
 dev-db/absinthe 1.4.1: a gui-based tool for aiding in Blind SQL Injection
