@@ -363,7 +363,6 @@ dev-python/rcssmin 1.0.6: RCSSmin is a CSS minifier
 dev-python/requests-file 1.4.3: File transport adapter for Requests
 dev-python/requests-futures 1.0.0: Asynchronous Python HTTP Requests for Humans using Futures
 dev-python/requests-html 0.10.0: HTML Parsing for Humans
-dev-python/requests-kerberos 0.12.0: A Kerberos authentication handler for python-requests
 dev-python/rjsmin 1.1.0: RCSSmin is a CSS minifier
 dev-python/ruamel-base 1.0.0: common routines for ruamel packages
 dev-python/ruamel-ordereddict 0.4.9 0.4.13: An ordered dictionary with KIO/KVIO
@@ -779,7 +778,7 @@ pentoo/pentoo-cinnamon 2018.2: Pentoo cinnamon meta ebuild
 pentoo/pentoo-cracking 2019.3: Pentoo cracking meta ebuild
 pentoo/pentoo-database 2018.3: Pentoo database attack meta ebuild
 pentoo/pentoo-desktop 2019.2: Pentoo meta ebuild to install all X and WM/DE related things
-pentoo/pentoo-exploit 2019.2-r3: Pentoo exploit meta ebuild
+pentoo/pentoo-exploit 2020.0: Pentoo exploit meta ebuild
 pentoo/pentoo-footprint 2019.0: Pentoo footprint meta ebuild
 pentoo/pentoo-forensics 2020.1: Pentoo forensics meta ebuild
 pentoo/pentoo-forging 2019.2-r1: Pentoo forging meta ebuild
