@@ -73,6 +73,7 @@ app-forensics/maltego 4.2.6.12502 4.2.7.12570: Visualise, map and mine data
 app-forensics/mxtract 1.1: A memory extractor & analyzer
 app-forensics/mysql-magic 9999: dump mysql client password from memory
 app-forensics/oletools 0.55.1: A python tools to analyze MS OLE2 files and MS Office documents
+app-forensics/openscap 1.3.2: Framework which enables integration with Security Content Automation Protocol
 app-forensics/openscap-daemon 0.1.10: Manages continuous scans of your infrastructure
 app-forensics/origami-pdf 2.1.0: A Ruby framework designed to parse, analyze, and forge PDF documents
 app-forensics/pcileech 4.2 4.3 4.4: Direct Memory Access (DMA) Attack Software
@@ -288,7 +289,7 @@ dev-python/isc_dhcp_leases 0.8.1 0.9.1: Small python module for reading /var/lib
 dev-python/itypes 1.1.0: Simple immutable types for python
 dev-python/javalang 0.12.0: A pure Python library for working with Java source code
 dev-python/jsbeautifier 1.8.9 1.9.1 1.10.0: Beautify, unpack or deobfuscate JavaScript
-dev-python/json2html 1.3.0: A python module for converting complex JSON oject to HTML Table representation
+dev-python/json2html 1.3.0-r1: A python module for converting complex JSON oject to HTML Table representation
 dev-python/jsonfield 2.0.2: A reusable Django field that allows you to store validated JSON
 dev-python/ldapdomaindump 0.9.1: Active Directory information dumper via LDAP
 dev-python/leather 0.3.3: Python charting for 80% of humans

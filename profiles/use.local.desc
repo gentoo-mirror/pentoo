@@ -42,6 +42,16 @@ app-forensics/guymager:ewf - Include ewf library
 app-forensics/guymager:hdparm - Install sys-apps/smartmontools utility
 app-forensics/guymager:smart - Install sys-apps/smartmontools and enable S.M.A.R.T. disk monitoring
 app-forensics/libpff:winapi - [can anyone answer this?]
+app-forensics/openscap:chroot - Scan entire chroots using offline scanning
+app-forensics/openscap:docker - Enables the oscap-docker utility
+app-forensics/openscap:gconf - Build the gconf independant probes
+app-forensics/openscap:nss - Prefer NSS over libgcrypt as the crypto engine
+app-forensics/openscap:podman - Scan Podman containers and container images
+app-forensics/openscap:rpm - Compiles the RPM probes
+app-forensics/openscap:sce - Enables Script Check Engine (SCE) support
+app-forensics/openscap:sql - Build the sql independant probes
+app-forensics/openscap:ssh - Scan remote machines over ssh
+app-forensics/openscap:vm - Scan VMs and VM storage images
 app-forensics/pcileech:ft60x_driver - Use sys-kernel/ft60x_driver for USB FT60x driver support
 app-forensics/pdf-parser:yara - Use dev-python/yara-python for YARA rules support
 app-forensics/samhain:login-watch - Watch for login/logout
