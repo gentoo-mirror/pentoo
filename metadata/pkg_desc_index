@@ -301,7 +301,7 @@ dev-python/matlink-gpapi 0.4.4.5: Unofficial python api for google play
 dev-python/maxminddb 1.4.1-r1: A Python module for reading MaxMind DB files
 dev-python/mechanize 0.4.3: Stateful programmatic web browsing in Python
 dev-python/memorpy 20170523 99999999: Python library using ctypes to search/edit programs memory
-dev-python/minidump 0.0.12: parse Windows minidump file format
+dev-python/minidump 0.0.12 0.0.13: parse Windows minidump file format
 dev-python/minikerberos 0.2.0: Kerberos manipulation library in pure Python
 dev-python/mitm6 0.2.2: pwning IPv4 via IPv6
 dev-python/mockito 1.2.0: Spying framework based on Mockito java library
@@ -407,7 +407,7 @@ dev-python/websocket-client 0.57.0: WebSocket client for python with hybi13 supp
 dev-python/websockets 7.0: An implementation of the WebSocket Protocol (RFC 6455 & 7692)
 dev-python/whitenoise 5.0.1: Radically simplified static file serving for WSGI applications
 dev-python/winacl 0.0.2: ACL/ACE/Security Descriptor manipulation library
-dev-python/winsspi 0.0.5: Windows SSPI library in pure Python
+dev-python/winsspi 0.0.5 0.0.7: Windows SSPI library in pure Python
 dev-python/yamllint 1.21.0: A linter for YAML files
 dev-python/yara-python 3.11.0: Python interface for a malware identification and classification tool
 dev-python/yaswfp 0.9.3: Yet Another SWF Parser.
