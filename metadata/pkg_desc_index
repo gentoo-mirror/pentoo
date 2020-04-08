@@ -477,7 +477,7 @@ dev-util/lida 03.00.00: interactive ELF disambler
 dev-util/lief 0.10.1: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
 dev-util/mobsf 3.0.1: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
-dev-util/objection 1.8.3 1.8.4-r1 1.9.0: Runtime mobile exploration
+dev-util/objection 1.8.4-r1 1.9.1: Runtime mobile exploration
 dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIPS
 dev-util/qark 0.9_pre20190405: A tool to look for Android application vulnerabilities
 dev-util/recaf-bin 1.15.9 1.15.10: A modern Java bytecode editor
