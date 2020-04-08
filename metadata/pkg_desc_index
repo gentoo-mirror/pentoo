@@ -119,7 +119,7 @@ app-misc/openobd 0.5.0: OBD-II Scan Tool supporting ELM327 devices
 app-misc/solaar 9999: A Linux device manager for Logitech's Unifying Receiver peripherals
 app-officeext/languagetool 4.6 4.8: Style and Grammar Checker for libreoffice
 app-pda/ideviceinstaller 1.1.0 1.1.0_p20181001 1.1.0_p20190928: A tool to interact with the installation_proxy of an Apple's iDevice
-app-text/cewl 5.4.8.1 9999: A custom word list generator
+app-text/cewl 5.4.8.1 5.4.9 9999: A custom word list generator
 app-text/unfurl 0.2.0: Pull out bits of URLs provided on stdin
 dev-db/absinthe 1.4.1: a gui-based tool for aiding in Blind SQL Injection
 dev-db/mssqlscan 0.8.4: A small multi-threaded tool that scans for Microsoft SQL Servers
