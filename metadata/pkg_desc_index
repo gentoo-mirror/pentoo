@@ -488,7 +488,7 @@ dev-util/sonarqube-bin 7.9.3 8.2.0.32929: SonarQube Community Edition is an open
 dev-util/sonarscanner-bin 4.2.0.1873: SonarQube Command-Line Scanner
 dev-util/unicorn 1.0.1-r5 1.0.2_rc1 1.0.2_rc2: A lightweight multi-platform, multi-architecture CPU emulator framework
 dev-util/valabind 1.4.0 1.7.1: Valabind is a tool to parse vala or vapi files to transform them into swig files
-dev-vcs/gitleaks 3.2.2 3.3.0 4.0.1 4.1.0: Audit git repos for secrets
+dev-vcs/gitleaks 3.2.2 3.3.0 4.0.1 4.1.0 4.1.1: Audit git repos for secrets
 dev-vcs/trufflehog 2.0.97_p20190506-r1: Searches through git repositories for high entropy strings and secrets
 gnome-base/gnome-keyring 3.28.2 3.31.91-r1 3.34.0-r1: Password and keyring managing daemon
 gnome-base/libgnomeui 2.24.5-r4: User Interface routines for Gnome
