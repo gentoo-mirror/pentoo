@@ -503,7 +503,7 @@ net-analyzer/arpantispoofer 1.0.1.32: An utility to detect and resist arp spoofi
 net-analyzer/autoscan-network 1.50: Utility for network exploration with Samba support.
 net-analyzer/badtouch 0.7.1: Scriptable network authentication cracker
 net-analyzer/bbrecon 20200228: Automated reconnaissance and information gathering (fork)
-net-analyzer/bettercap 2.25 2.26 2.26.1: A complete, modular, portable and easily extensible MITM framework
+net-analyzer/bettercap 2.25 2.26 2.26.1 2.27: A complete, modular, portable and easily extensible MITM framework
 net-analyzer/blindelephant 9999: generic web application fingerprinter that produces results by examining a small set of static files
 net-analyzer/bolt 0.2.1 9999: CSRF Scanner
 net-analyzer/bonesi 0.3.1 9999: BoNeSi - the DDoS botnet simulator
