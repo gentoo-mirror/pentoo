@@ -1,13 +1,13 @@
 DEFINED_PHASES=compile configure install preinst prepare setup
-DEPEND=virtual/jre sys-apps/dbus x11-libs/libX11 x11-libs/gtk+:* x11-libs/libXScrnSaver !net-im/jitsi-bin virtual/jdk:1.8 >=dev-java/java-config-2.2.0-r3 >=dev-java/ant-core-1.8.2:0 >=dev-java/javatoolkit-0.3.0-r2
+DEPEND=virtual/jdk:1.8 sys-apps/dbus x11-libs/libX11 x11-libs/gtk+:* x11-libs/libXScrnSaver >=dev-java/java-config-2.2.0-r3 >=dev-java/ant-core-1.8.2:0 >=dev-java/javatoolkit-0.3.0-r2
 DESCRIPTION=Secure IM communicator that supports SIP, XMPP, AIM/ICQ, Windows Live, Yahoo
 EAPI=7
 HOMEPAGE=https://jitsi.org/
 IUSE=elibc_FreeBSD elibc_FreeBSD
 KEYWORDS=~amd64 ~x86
 LICENSE=LGPL-2
-RDEPEND=virtual/jre sys-apps/dbus x11-libs/libX11 x11-libs/gtk+:* x11-libs/libXScrnSaver >=dev-java/java-config-2.2.0-r3
+RDEPEND=virtual/jdk:1.8 sys-apps/dbus x11-libs/libX11 x11-libs/gtk+:* x11-libs/libXScrnSaver sys-apps/dbus x11-libs/libX11 x11-libs/gtk+:* x11-libs/libXScrnSaver !net-im/jitsi-bin virtual/jre >=dev-java/java-config-2.2.0-r3
 SLOT=0
 SRC_URI=https://download.jitsi.org/jitsi/nightly/src/jitsi-src-2.11.5633.zip
 _eclasses_=java-ant-2	8d9cb415f1ca9fc7ebc5a74bacec300c	java-pkg-2	c4e6af2574fd1dc79b43a6e27af4b5fb	java-utils-2	16d46032afaca1d6d0621f82084880cb	multilib	318e8ae683e57fd3ccd0d31a769d8ee8	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
-_md5_=bb4dd606793efe202a02df668f4314a5
+_md5_=d41d7e08634f85cc03774f8411719c59
