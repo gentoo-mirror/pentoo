@@ -626,6 +626,7 @@ net-analyzer/zarp 0.1.8: Local network attack toolkit
 net-dialup/freeradius 3.0.19-r1: Highly configurable free RADIUS server
 net-dialup/minimodem 0.24: General-purpose software audio FSK modem.
 net-fs/afpfs-ng 0.8.1 0.8.2: a client for the Apple Filing Protocol
+net-im/jitsi 2.11.5633: Secure IM communicator that supports SIP, XMPP, AIM/ICQ, Windows Live, Yahoo
 net-im/jitsi-bin 2.10.5550 2.11.5602: Secure IM communicator that supports SIP, XMPP, AIM/ICQ, Windows Live, Yahoo
 net-libs/libpfring 7.0.0 7.2.0 7.4.0: A new type of network socket that improves packet capture speed.
 net-libs/libtins 4.1 4.2: High-level, multiplatform C++ network packet sniffing and crafting library.
