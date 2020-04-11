@@ -140,9 +140,10 @@ dev-go/go-cve-dictionary 0.4.0: Build a local copy of CVE (NVD and Japanese JVN)
 dev-go/go-exploitdb 20190911-r1: A tool for searching Exploits from some Exploit Databases
 dev-go/go-isatty 0.0.3 0.0.4: isatty for golang
 dev-go/go-multierror 20180717 20180824: A Go (golang) package for representing a list of errors as a single error
+dev-go/go-sys 0_pre20200409: Go packages for low-level interaction with the operating system
 dev-go/gopacket 1.1.14 1.1.15: Provides packet processing capabilities for Go
 dev-go/gopacket-pfring 1.1.14 1.1.15: Package pfring wraps the PF_RING C library for Go.
-dev-go/gopkg-sourcemap 2.1.2: Source maps consumer for Golang
+dev-go/gopkg-sourcemap 1.0.5 2.1.3: Source maps consumer for Golang
 dev-go/goquery 1.4.1 1.5.0: A little like that j-thing
 dev-go/gost 0.1.2-r1: Build a local copy of Security Tracker. Notify via Email if there is an update
 dev-go/goval-dictionary 0.2.2-r1: Build a local copy of OVAL. Server mode for easy querying
