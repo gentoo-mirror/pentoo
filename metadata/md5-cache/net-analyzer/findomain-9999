@@ -1,11 +1,12 @@
 BDEPEND=>=virtual/rust-1.40.0 >=virtual/rust-1.37.0 >=dev-vcs/git-1.8.2.1[curl]
-DEFINED_PHASES=compile install prepare test unpack
+DEFINED_PHASES=compile install test unpack
 DESCRIPTION=The fastest and cross-platform subdomain enumerator, don't waste your time
 EAPI=7
 HOMEPAGE=https://github.com/Edu4rdSHL/findomain
 IUSE=debug
 LICENSE=GPL-3
 PROPERTIES=live
+RESTRICT=mirror
 SLOT=0
 _eclasses_=cargo	4cfad681317daaca938cc223bc0166a3	git-r3	86a0188f2ad9eb3d65e4d031ab8a0422	multiprocessing	cac3169468f893670dac3e7cb940e045
-_md5_=9790fa55e20569ea06aae6de00a5a44e
+_md5_=deb9e1db56fcce3c277d9a658c587870
