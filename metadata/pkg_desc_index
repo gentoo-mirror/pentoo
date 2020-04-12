@@ -310,6 +310,8 @@ dev-python/mockito 1.2.0: Spying framework based on Mockito java library
 dev-python/msldap 0.2.10: Python library to play with MS LDAP
 dev-python/msoffcrypto-tool 4.10.1: Python tool & library for decrypting MS Office files with passwords or other keys
 dev-python/nassl 2.2.0 3.0.0: Experimental OpenSSL wrapper for Python 3.6+ and SSLyze
+dev-python/neobolt 1.7.17: Neo4j Bolt Connector for Python
+dev-python/neotime 1.7.4: Nanosecond resolution temporal types
 dev-python/nessrest 20180806: A high-level Web Crawling and Web Scraping framework
 dev-python/netfilterqueue 0.8.1: Python bindings for libnetfilter_queue
 dev-python/nplusone 1.0.0: Detecting the n+1 queries problem in Python
@@ -325,7 +327,7 @@ dev-python/plotly 4.1.1: Browser-based graphing library for Python
 dev-python/poster 0.8.1: Make HTTP POST/PUT with multipart/form-data encoding
 dev-python/proxy-db 0.2.3: Manage free and private proxies on local db for Python Projects
 dev-python/psd-tools 1.9.9: package for working with Adobe Photoshop PSD files
-dev-python/py2neo 3.1.2: A simple and pragmatic library which accesses the Neo4j graph database
+dev-python/py2neo 3.1.2 4.3.0: A simple and pragmatic library which accesses the Neo4j graph database
 dev-python/pyDes 2.0.1: Pure python implementation of DES and TRIPLE DES encryption algorithm
 dev-python/pyaff4 9999: Python Advanced Forensic Format Version 4 library.
 dev-python/pyaxmlparser 0.3.24: Parser for Android XML file and get Application Name without using Androguard
