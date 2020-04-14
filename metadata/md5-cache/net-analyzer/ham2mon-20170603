@@ -7,5 +7,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 SLOT=0
 SRC_URI=https://github.com/madengr/ham2mon/archive/d15fd94b253a1a854a7f106dd105a3d83dcbee00.tar.gz -> ham2mon-20170603.tar.gz
-_eclasses_=multilib	318e8ae683e57fd3ccd0d31a769d8ee8	python-single-r1	151046e8d2ffc8cffc8329bbc50a686b	python-utils-r1	6f5996d2ae01e0c6f2869ed18f023239	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
+_eclasses_=multilib	318e8ae683e57fd3ccd0d31a769d8ee8	python-single-r1	2d2617a730e75e491e1d17af87841ec5	python-utils-r1	00efd460b0996a1e4aab8825dded5700	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
 _md5_=faac4c129873ae3938d177ec1ecd00e2
