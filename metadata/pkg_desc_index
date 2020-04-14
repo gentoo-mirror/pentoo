@@ -507,7 +507,7 @@ net-analyzer/arpantispoofer 1.0.1.32: An utility to detect and resist arp spoofi
 net-analyzer/autoscan-network 1.50: Utility for network exploration with Samba support.
 net-analyzer/badtouch 0.7.1: Scriptable network authentication cracker
 net-analyzer/bbrecon 20200228: Automated reconnaissance and information gathering (fork)
-net-analyzer/bettercap 2.25 2.26 2.26.1 2.27-r1: A complete, modular, portable and easily extensible MITM framework
+net-analyzer/bettercap 2.26.1 2.27.1: A complete, modular, portable and easily extensible MITM framework
 net-analyzer/blindelephant 9999: generic web application fingerprinter that produces results by examining a small set of static files
 net-analyzer/bolt 0.2.1 9999: CSRF Scanner
 net-analyzer/bonesi 0.3.1 9999: BoNeSi - the DDoS botnet simulator
@@ -831,7 +831,7 @@ sys-kernel/wireless-testing 9999: Wireless integration testing tree
 sys-libs/libkudzu 1.2.85.1: Red Hat Hardware detection tools
 sys-power/acpid 2.0.32-r1: Daemon for Advanced Configuration and Power Interface
 virtual/linux-sources 3-r104: Virtual for Linux kernel sources
-www-apps/BloodHound 3.0.3: Six Degrees of Domain Admin
+www-apps/BloodHound 3.0.3 3.0.4: Six Degrees of Domain Admin
 www-apps/Tiredful-API 9999: An intentionally designed broken web application based on REST API
 www-apps/beef 0.5.0.0: Browser exploitation framework
 www-apps/faraday 3.10.0: Integrated Penetration-Test Environment is a multiuser Penetration test IDE
