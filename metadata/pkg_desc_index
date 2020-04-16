@@ -485,7 +485,7 @@ dev-util/mobsf 3.0.5: Automated, all-in-one mobile application (Android/iOS/Wind
 dev-util/objection 1.8.4-r1 1.9.1: Runtime mobile exploration
 dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIPS
 dev-util/qark 0.9_pre20190405: A tool to look for Android application vulnerabilities
-dev-util/recaf-bin 1.15.9 1.15.10: A modern Java bytecode editor
+dev-util/recaf-bin 1.15.10 2.0.0: A modern Java bytecode editor
 dev-util/redasm 2.1.1: The OpenSource Disassembler
 dev-util/retdec 3.3-r1: RetDec is a retargetable machine-code decompiler based on LLVM.
 dev-util/soapui 5.4.0 5.5.0: The Swiss-Army Knife for SOAP Testing
@@ -632,6 +632,7 @@ net-dialup/freeradius 3.0.19-r1: Highly configurable free RADIUS server
 net-dialup/minimodem 0.24: General-purpose software audio FSK modem.
 net-fs/afpfs-ng 0.8.1 0.8.2: a client for the Apple Filing Protocol
 net-im/jitsi 2.11.5633: Secure IM communicator that supports SIP, XMPP, AIM/ICQ, Windows Live, Yahoo
+net-im/jitsi-videobridge 1132: https://github.com/jitsi/jitsi-videobridge
 net-libs/libpfring 7.0.0 7.2.0 7.4.0: A new type of network socket that improves packet capture speed.
 net-libs/libtins 4.1 4.2: High-level, multiplatform C++ network packet sniffing and crafting library.
 net-libs/libvidcap 0.2.1: a cross-platform library for capturing video from webcams and other video capture devices
