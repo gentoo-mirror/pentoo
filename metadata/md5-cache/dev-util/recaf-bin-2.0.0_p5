@@ -1,0 +1,12 @@
+DEFINED_PHASES=install postinst unpack
+DEPEND=system-openjfx? ( dev-java/openjfx ) virtual/jre:*
+DESCRIPTION=A modern Java bytecode editor
+EAPI=7
+HOMEPAGE=https://col-e.github.io/Recaf/
+IUSE=system-openjfx
+KEYWORDS=~amd64
+LICENSE=MIT
+RDEPEND=system-openjfx? ( dev-java/openjfx ) virtual/jre:*
+SLOT=0
+SRC_URI=https://github.com/Col-E/Recaf/releases/download/2.0.0-redesign.5/recaf-2.0.0-J8-jar-with-dependencies.jar -> recaf-bin-2.0.0_p5.jar
+_md5_=a4be03db0fdfce93a09a0dc9f504b80c

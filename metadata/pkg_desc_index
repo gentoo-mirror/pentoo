@@ -158,6 +158,7 @@ dev-java/jd-core 1.0.5 1.0.6: JD-Core is a JAVA decompiler written in JAVA
 dev-java/jgraphx 2.1.1.2 4.0.6: Open-source graph component for Java
 dev-java/msgpack 0.5.1 0.6.12 0.8.16: MessagePack for Java is a binary-based efficient object serialization library
 dev-java/sleep 2.1-r1: Duct Tape for the Java platform
+dev-java/swt 4.10-r1: GTK based SWT Library
 dev-lang/powershell-bin 6.2.4 7.0.0: A cross-platform automation and configuration tool/framework
 dev-libs/LeechCore 1.5 1.6 1.7: Direct Memory Access (DMA) Attack Software
 dev-libs/hashdb 3.1.0-r1: The hashdb block hash database tool and API
@@ -487,7 +488,7 @@ dev-util/mobsf 3.0.5: Automated, all-in-one mobile application (Android/iOS/Wind
 dev-util/objection 1.8.4-r1 1.9.1: Runtime mobile exploration
 dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIPS
 dev-util/qark 0.9_pre20190405: A tool to look for Android application vulnerabilities
-dev-util/recaf-bin 1.15.10 2.0.0: A modern Java bytecode editor
+dev-util/recaf-bin 1.15.10 2.0.0_p5: A modern Java bytecode editor
 dev-util/redasm 2.1.1: The OpenSource Disassembler
 dev-util/retdec 3.3-r2 4.0: RetDec is a retargetable machine-code decompiler based on LLVM.
 dev-util/soapui 5.4.0 5.5.0: The Swiss-Army Knife for SOAP Testing
