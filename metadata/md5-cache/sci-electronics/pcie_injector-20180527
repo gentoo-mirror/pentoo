@@ -8,5 +8,5 @@ LICENSE=BSD
 RDEPEND=sci-electronics/litex[python_single_target_python3_6(-)?] sci-electronics/migen[python_single_target_python3_6(-)?] sci-electronics/litedram[python_single_target_python3_6(-)?] sci-electronics/litepcie[python_single_target_python3_6(-)?] sci-electronics/liteusb[python_single_target_python3_6(-)?]
 SLOT=0
 SRC_URI=https://github.com/enjoy-digital/pcie_injector/archive/950e56b091504d45ad17ee46ccb4d3950c182d42.zip -> pcie_injector-20180527.zip
-_eclasses_=multilib	318e8ae683e57fd3ccd0d31a769d8ee8	python-single-r1	2d2617a730e75e491e1d17af87841ec5	python-utils-r1	00efd460b0996a1e4aab8825dded5700	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
+_eclasses_=multilib	318e8ae683e57fd3ccd0d31a769d8ee8	python-single-r1	2d2617a730e75e491e1d17af87841ec5	python-utils-r1	727554821dab8292d3a8198893c2ef8b	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
 _md5_=86663179c19427ec955a11848d58cd49
