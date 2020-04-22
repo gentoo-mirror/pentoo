@@ -252,7 +252,7 @@ dev-python/django_compressor 2.3: Compresses linked and inline JavaScript or CSS
 dev-python/dotty 9999: EFILTER Query Language
 dev-python/dropbox-sdk 9.3.0 9.4.0: A Python SDK for integrating with the Dropbox API v2.
 dev-python/easygui 0.98.1: A module for very simple, very easy GUI programming in Python
-dev-python/editorconfig 0.12.1-r1 0.12.2: EditorConfig File Locator and Interpreter for Python
+dev-python/editorconfig 0.12.2: EditorConfig File Locator and Interpreter for Python
 dev-python/egghatch 0.2.3-r3: Cuckoo Sandbox Shellcode Identification & Formatting
 dev-python/esmre 0.3.1: Regular expression accelerator
 dev-python/exifread 2.2.0: Read Exif metadata from tiff and jpeg files
@@ -268,13 +268,13 @@ dev-python/flasgger 0.9.4: Easy OpenAPI specs and Swagger UI for your Flask API
 dev-python/flask-caching 1.8.0: Continuation of the Flask-Cache Extension
 dev-python/flask-classful 0.14.2: Class based views for Flask
 dev-python/flask-jwt 0.3.2: JWT (JSON Web Tokens) for Flask applications
-dev-python/flask-jwt-extended 3.18.2 3.22.0 3.23.0: An open source Flask extension that provides JWT support
+dev-python/flask-jwt-extended 3.24.1: An open source Flask extension that provides JWT support
 dev-python/flask-restless 0.17.0: A Flask extension for easy ReSTful API generation
 dev-python/flask-security 3.0.0: Simple security for Flask apps
 dev-python/flask-session 0.3.1: Adds server-side session support to your Flask application
 dev-python/fpdf 1.7.2: Simple PDF generation for Python
 dev-python/frida-python 12.8.0 12.8.6 12.8.19: Dynamic instrumentation toolkit for reverse-engineers and security researchers
-dev-python/geoip2-python 2.8.0: Python bindings for GeoIP2
+dev-python/geoip2-python 3.0.0: Python bindings for GeoIP2
 dev-python/google-play-scraper 0.0.1.8 0.0.2.3: APIs to easily crawl the Google Play Store for Python
 dev-python/googlesearch 20181112-r1: Google search from Python
 dev-python/gpapi 0.4.4-r1: Unofficial python api for google play
@@ -295,7 +295,7 @@ dev-python/ipython 7.13.0: Advanced interactive shell for Python
 dev-python/isc_dhcp_leases 0.8.1 0.9.1: Small python module for reading /var/lib/dhcp/dhcpd.leases from isc-dhcp-server
 dev-python/itypes 1.1.0: Simple immutable types for python
 dev-python/javalang 0.12.0: A pure Python library for working with Java source code
-dev-python/jsbeautifier 1.8.9 1.9.1 1.10.0: Beautify, unpack or deobfuscate JavaScript
+dev-python/jsbeautifier 1.11.0: Beautify, unpack or deobfuscate JavaScript
 dev-python/json2html 1.3.0-r1: A python module for converting complex JSON oject to HTML Table representation
 dev-python/jsonfield 2.0.2: A reusable Django field that allows you to store validated JSON
 dev-python/ldapdomaindump 0.9.1: Active Directory information dumper via LDAP
@@ -304,7 +304,7 @@ dev-python/litecli 1.1.0-r4 1.3.2: CLI for SQLite Databases with auto-completion
 dev-python/macholib 1.11 1.14: A package is a collection of utilities for dealing with IP addresses
 dev-python/marshmallow-sqlalchemy 0.15.0 0.21.0: SQLAlchemy integration with the marshmallow (de)serialization library
 dev-python/matlink-gpapi 0.4.4.5: Unofficial python api for google play
-dev-python/maxminddb 1.4.1-r1: A Python module for reading MaxMind DB files
+dev-python/maxminddb 1.5.2: A Python module for reading MaxMind DB files
 dev-python/mechanize 0.4.3: Stateful programmatic web browsing in Python
 dev-python/memorpy 20170523 99999999: Python library using ctypes to search/edit programs memory
 dev-python/minidump 0.0.12 0.0.13: parse Windows minidump file format
@@ -370,7 +370,7 @@ dev-python/python-whois 0.7.2: Whois querying and parsing of domain registration
 dev-python/pytimeparse 1.1.8: A small Python module to parse various kinds of time expressions
 dev-python/pywerview 0.2.0_p20191115-r1: A Python port of PowerSploit's PowerView
 dev-python/pyzmq 17.1.0 19.0.0: Lightweight and super-fast messaging library built on top of the ZeroMQ library
-dev-python/qt-py 1.1.0 1.2.3: Minimal Python 2 & 3 shim around all Qt bindings
+dev-python/qt-py 1.2.5: Minimal Python 2 & 3 shim around all Qt bindings
 dev-python/queuelib 1.5.0: Collection of persistent (disk-based) queues
 dev-python/rangeparser 0.1.3-r1: A python package to parse ranges easily
 dev-python/rcssmin 1.0.6: RCSSmin is a CSS minifier
@@ -385,7 +385,7 @@ dev-python/selenium-requests 1.3.1: Extends Selenium webdrv classes to include t
 dev-python/service_identity 18.1.0-r1: Service identity verification for pyOpenSSL
 dev-python/shelljob 0.5.6: Run multiple subprocesses asynchronous/in parallel with streamed output
 dev-python/shodan 1.17.0 1.23.0: Python library and command-line utility for Shodan
-dev-python/shortuuid 0.5.0: A generator library for concise, unambiguous and URL-safe UUIDs.
+dev-python/shortuuid 1.0.1: A generator library for concise, unambiguous and URL-safe UUIDs.
 dev-python/simplekv 0.14.0: A key-value storage for binary data, support many backends.
 dev-python/social-auth-core 3.2.0: Python social authentication made simple
 dev-python/soupsieve 1.9.3: A modern CSS selector implementation for BeautifulSoup
@@ -402,7 +402,7 @@ dev-python/symmetricjsonrpc 0.1.0: A more beautiful JSON-RPC implemenation in py
 dev-python/syslog-rfc5424-formatter 1.1.1 1.2.2: Logging formatter which produces well-formatted RFC5424 Syslog Protocol messages
 dev-python/text-unidecode 1.3: The most basic Text::Unidecode port
 dev-python/tldextract 2.2.1-r1: Accurately separate the TLD from the registered domain and subdomains
-dev-python/tls_parser 1.1.0 1.1.1 1.2.1: Small library to parse TLS records.
+dev-python/tls_parser 1.2.1: Small library to parse TLS records.
 dev-python/tlslite-ng 0.7.5: New home of the TLS implementation in pure python.
 dev-python/torrequest 20181011-r1: Simple Python interface for HTTP(s) requests over Tor
 dev-python/tre-python 0.8.0: Python bidings for TRE library
@@ -655,7 +655,7 @@ net-misc/httprobe 0.1.1 0.1.2: Take a list of domains and probe for working HTTP
 net-misc/iaxclient 2.1_beta3-r1 2.1_beta3-r2 2.1_beta3-r3 2.1_beta3-r4 2.1_beta3-r5: Multiplatform IAX library for creating telephony solutions that interoperate with Asterisk
 net-misc/juniper-vpn 5.3: Juniper Networks SSL VPN
 net-misc/karma 20060124: MITM framework for wifi
-net-misc/linkfinder 20190717 20191124: A python script that finds endpoints in JavaScript files
+net-misc/linkfinder 20191124: A python script that finds endpoints in JavaScript files
 net-misc/meg 0.2.4: Fetch many paths for many hosts - without killing the hosts
 net-misc/munin 0.14.1-r1 9999: Online hash checker for Virustotal and other services
 net-misc/photon 1.3.0 9999: Incredibly fast crawler designed for OSINT
