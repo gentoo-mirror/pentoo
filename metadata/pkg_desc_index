@@ -311,7 +311,7 @@ dev-python/minidump 0.0.12 0.0.13: parse Windows minidump file format
 dev-python/minikerberos 0.2.0 0.2.1: Kerberos manipulation library in pure Python
 dev-python/mitm6 0.2.2: pwning IPv4 via IPv6
 dev-python/mockito 1.2.0: Spying framework based on Mockito java library
-dev-python/msldap 0.2.10 0.2.14: Python library to play with MS LDAP
+dev-python/msldap 0.2.14: Python library to play with MS LDAP
 dev-python/msoffcrypto-tool 4.10.1: Python tool & library for decrypting MS Office files with passwords or other keys
 dev-python/nassl 2.2.0 3.0.0: Experimental OpenSSL wrapper for Python 3.6+ and SSLyze
 dev-python/neobolt 1.7.17: Neo4j Bolt Connector for Python
