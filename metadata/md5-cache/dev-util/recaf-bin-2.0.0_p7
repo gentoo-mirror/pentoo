@@ -8,5 +8,5 @@ KEYWORDS=~amd64
 LICENSE=MIT
 RDEPEND=system-openjfx? ( dev-java/openjfx ) virtual/jre:*
 SLOT=0
-SRC_URI=https://github.com/Col-E/Recaf/releases/download/2.0.0-redesign.5/recaf-2.0.0-J8-jar-with-dependencies.jar -> recaf-bin-2.0.0_p5.jar
+SRC_URI=https://github.com/Col-E/Recaf/releases/download/2.0.0-redesign.7/recaf-2.0.0-J8-jar-with-dependencies.jar -> recaf-bin-2.0.0_p7.jar
 _md5_=a4be03db0fdfce93a09a0dc9f504b80c
