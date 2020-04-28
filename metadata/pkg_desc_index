@@ -488,7 +488,7 @@ dev-util/mobsf 3.0.5: Automated, all-in-one mobile application (Android/iOS/Wind
 dev-util/objection 1.8.4-r1 1.9.1: Runtime mobile exploration
 dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIPS
 dev-util/qark 0.9_pre20190405: A tool to look for Android application vulnerabilities
-dev-util/recaf-bin 1.15.10 2.0.0_p7: A modern Java bytecode editor
+dev-util/recaf-bin 1.15.10 2.0.0_p8: A modern Java bytecode editor
 dev-util/redasm 2.1.1: The OpenSource Disassembler
 dev-util/retdec 3.3-r2 4.0: RetDec is a retargetable machine-code decompiler based on LLVM.
 dev-util/soapui 5.4.0 5.5.0: The Swiss-Army Knife for SOAP Testing
@@ -852,7 +852,7 @@ www-plugins/exif_viewer 2.00-r3: Firefox extension to display the Exif and IPTC 
 www-plugins/firebug 2.0.18: Powerful web development tool for firefox
 www-plugins/foxyproxy 7.4.2 7.4.3: An advanced proxy management tool
 www-plugins/hackbar 1.6.3: Simple security audit / penetration test tool.
-www-plugins/hackplugins-meta 1.2: Collection of browser's plugins for application security testing
+www-plugins/hackplugins-meta 20200428: Collection of browser's plugins for application security testing
 www-plugins/httpfox 0.8.14: A HTTP analyzer addon for Firefox
 www-plugins/live-http-headers 0.17-r3: View HTTP headers of a page and while browsing
 www-plugins/noscript 11.0.3 11.0.9 11.0.12: Allow active content in firefox to run only from trusted sites.
