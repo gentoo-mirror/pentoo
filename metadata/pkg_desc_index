@@ -847,18 +847,13 @@ www-apps/seafile-pro-server 7.0.14 7.1.1_beta: Meta package for Seafile Pro Edit
 www-apps/vulsrepo 20190412-r3: VulsRepo is visualized based on the json report output in vuls
 www-misc/firefox-bookmarks 0.3-r1: Firefox bookmarks for the Pento ISO only
 www-plugins/adblock_plus 3.7 3.8: Firefox extension to block annoying ads automatically, no distractions.
-www-plugins/cookies_exportimport 1.0.1-r1: Cookie Import Export
-www-plugins/exif_viewer 2.00-r3: Firefox extension to display the Exif and IPTC data in local and remote JPEG images.
-www-plugins/firebug 2.0.18: Powerful web development tool for firefox
 www-plugins/foxyproxy 7.4.2 7.4.3: An advanced proxy management tool
-www-plugins/hackbar 1.6.3: Simple security audit / penetration test tool.
 www-plugins/hackplugins-meta 20200428: Collection of browser's plugins for application security testing
 www-plugins/httpfox 0.8.14: A HTTP analyzer addon for Firefox
 www-plugins/live-http-headers 0.17-r3: View HTTP headers of a page and while browsing
 www-plugins/noscript 11.0.3 11.0.9 11.0.12: Allow active content in firefox to run only from trusted sites.
 www-plugins/ringleader 0.3_pre20150914: FxPnH is a Firefox addon which makes it possible to use Firefox with Plug-n-Hack providers
 www-plugins/showip 3.0.2: Firefox extensions which shows the IP address(es) of the current page in the status bar.
-www-plugins/sql-inject-me 0.4.7-r2: SQL Inject Me is the Exploit-Me tool used to test for SQL Injection vulnerabilities.
 www-plugins/sqlite_manager 0.8.1: Extension for Firefox and other apps to manage any sqlite database
 www-plugins/user-agent-switcher 0.7.3-r4: Adds a menu and a toolbar button to switch the user agent of firefox
 www-plugins/user-agent-switcher-revived 0.2.0 0.2.4 0.2.6: Adds a menu and a toolbar button to switch the user agent of firefox
