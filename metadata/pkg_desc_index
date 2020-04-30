@@ -135,7 +135,7 @@ dev-db/sqlsus 0.7.2: MySQL injection and takeover tool
 dev-dotnet/wxnet 0.7.2: wxWidgets bindings for mono
 dev-embedded/libmpsse 1.3_p20160602 1.3.2: Open source library for SPI/I2C control via FTDI chips
 dev-embedded/mphidflash 1.6 1.8: Tool for communicating with the USB-Bootloader in PIC microcontrollers
-dev-go/cascadia 1.0.0: CSS selector library in Go
+dev-go/cascadia 1.0.0-r1: CSS selector library in Go
 dev-go/cobra 0.0.5: A Commander for modern Go CLI interactions
 dev-go/fetchbot 1.1.2: A simple and flexible web crawler that follows the robots.txt policies and crawl delays
 dev-go/go-cve-dictionary 0.4.0: Build a local copy of CVE (NVD and Japanese JVN). Server mode for easy querying
@@ -145,7 +145,7 @@ dev-go/go-multierror 20180717 20180824: A Go (golang) package for representing a
 dev-go/gopacket 1.1.14 1.1.15: Provides packet processing capabilities for Go
 dev-go/gopacket-pfring 1.1.14 1.1.15: Package pfring wraps the PF_RING C library for Go.
 dev-go/gopkg-sourcemap 1.0.5 2.1.3: Source maps consumer for Golang
-dev-go/goquery 1.4.1 1.5.0: A little like that j-thing
+dev-go/goquery 1.5.0-r1: A little like that j-thing
 dev-go/gost 0.1.2-r1: Build a local copy of Security Tracker. Notify via Email if there is an update
 dev-go/goval-dictionary 0.2.2-r1: Build a local copy of OVAL. Server mode for easy querying
 dev-go/mux 1.6.2: A powerful URL router and dispatcher for golang
