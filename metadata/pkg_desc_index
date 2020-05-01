@@ -104,7 +104,6 @@ app-fuzz/bed 0.5: BED is a multi-protocol fuzzer written in perl
 app-fuzz/bss 0.8-r1: Bluetooth stack smasher / fuzzer
 app-fuzz/dotdotpwn 3.0.2: The Directory Traversal Fuzzer
 app-fuzz/fuzzdb 1.09_p20170117: Attack and Discovery Pattern Database for Application Fuzz Testing
-app-fuzz/fuzzer-server 0.1: A html/wml fuzzer for proxy or client
 app-fuzz/http-fuzz 0.1: A http fuzzer
 app-fuzz/protos-bin 1.1-r1: The PROTOS fuzzing collection
 app-fuzz/slowhttptest 1.7_p20170811 1.8.1: Application Layer DoS attack simulator
