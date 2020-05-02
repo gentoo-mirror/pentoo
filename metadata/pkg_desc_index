@@ -134,7 +134,7 @@ dev-db/sqlsus 0.7.2: MySQL injection and takeover tool
 dev-dotnet/wxnet 0.7.2: wxWidgets bindings for mono
 dev-embedded/libmpsse 1.3_p20160602 1.3.2: Open source library for SPI/I2C control via FTDI chips
 dev-embedded/mphidflash 1.6 1.8: Tool for communicating with the USB-Bootloader in PIC microcontrollers
-dev-go/cascadia 1.0.0-r1: CSS selector library in Go
+dev-go/cascadia 1.1.0: CSS selector library in Go
 dev-go/cobra 0.0.5: A Commander for modern Go CLI interactions
 dev-go/fetchbot 1.1.2: A simple and flexible web crawler that follows the robots.txt policies and crawl delays
 dev-go/go-cve-dictionary 0.4.0: Build a local copy of CVE (NVD and Japanese JVN). Server mode for easy querying
