@@ -565,7 +565,6 @@ net-analyzer/nmap 7.80-r1: A utility for network discovery and security auditing
 net-analyzer/nmap-vulners 1.2 1.4_beta 9999: NSE script based on Vulners.com API
 net-analyzer/nmap_vulscan 2.0-r1 2.0_p20170503 2.0_p20171214 2.0_p20190923: A NSE vulnerability scanner which uses an offline version of scip VulDB
 net-analyzer/ntlmrecon 0.2_beta: A tool to enumerate information from NTLM authentication enabled web endpoints
-net-analyzer/ntp-fingerprint 0.1-r2: NTP fingerprinting utility
 net-analyzer/onesixtyone 0.7: An efficient SNMP scanner
 net-analyzer/openvas-scanner 7.0.0: Open Vulnerability Assessment Scanner
 net-analyzer/osmedeus 9999: A offensive security tool for reconnaissance and vulnerability scanning
@@ -575,7 +574,7 @@ net-analyzer/owtf 2.6.0-r1: The Offensive Web Testing Framework
 net-analyzer/padbuster 20110928: Automated script for performing Padding Oracle attacks
 net-analyzer/plecost 9999: Wordpress finger printing tool, retrieve information about the plugins and versions installed
 net-analyzer/polenum 1.6: Extract password policy from a windows machine
-net-analyzer/ppscan 0.3: Port scanner with HTTP and FTP tunneling support
+net-analyzer/ppscan 0.3-r1: Port scanner with HTTP and FTP tunneling support
 net-analyzer/pret 20180611-r1: Printer Exploitation Toolkit
 net-analyzer/rdp-sec-check 20181109: Remote Desktop Protocol security settings checker
 net-analyzer/recon-ng 5.0.0-r1 5.0.1 5.1.0 5.1.1 9999: Web Reconnaissance Framework
@@ -770,13 +769,13 @@ pentoo/pentoo-cracking 2020.1-r1: Pentoo cracking meta ebuild
 pentoo/pentoo-database 2018.3: Pentoo database attack meta ebuild
 pentoo/pentoo-desktop 2019.2: Pentoo meta ebuild to install all X and WM/DE related things
 pentoo/pentoo-exploit 2020.0-r1: Pentoo exploit meta ebuild
-pentoo/pentoo-footprint 2019.0: Pentoo footprint meta ebuild
+pentoo/pentoo-footprint 2020.1: Pentoo footprint meta ebuild
 pentoo/pentoo-forensics 2020.1-r1: Pentoo forensics meta ebuild
 pentoo/pentoo-forging 2019.2-r1: Pentoo forging meta ebuild
 pentoo/pentoo-fuzzers 2020.1: Pentoo fuzzers meta ebuild
 pentoo/pentoo-gnome 2.32.1-r3: Meta package for the GNOME desktop, merge this package to install
 pentoo/pentoo-installer 20200223 99999999: Installer for pentoo, based on the ncurses Arch Linux installer
-pentoo/pentoo-livecd 2019.2: things needed by pentoo for livecd only
+pentoo/pentoo-livecd 2020.1: things needed by pentoo for livecd only
 pentoo/pentoo-misc 2020.0-r7: Pentoo misc meta ebuild
 pentoo/pentoo-mitm 2019.2: Pentoo mitm meta ebuild
 pentoo/pentoo-mobile 2020.1-r1: Pentoo mobile meta ebuild
@@ -850,4 +849,3 @@ www-plugins/web_developer 2.0.1: Adds various web developer tools to firefox.
 www-plugins/xss-me 0.4.6-r4: Firefox extension to test for reflected cross-site-scripting vulnerabilities.
 www-servers/thin 1.7.2: A fast and very simple Ruby web server
 www-servers/tornado 4.5.3 5.1-r1 6.0.3 6.0.3-r1 6.0.4: Python web framework and asynchronous networking library
-x11-misc/mkxf86config 0.9.11-r5: Xorg-x11 configuration builder - used only on LiveCD
