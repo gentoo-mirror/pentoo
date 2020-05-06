@@ -32,7 +32,7 @@ app-crypt/wisecracker 1.0-r1: An open source framework for tools that can distri
 app-crypt/xortool 0.99: A tool to analyze multi-byte xor cipher
 app-crypt/yubioath-desktop 5.0.1-r2 5.0.3: Library and tool for personalization of Yubico's YubiKey NEO
 app-dicts/raft-wordlists 20110803-r1: Raft wordlists
-app-dicts/seclists 2019.2 2019.3 2019.4 2020.1: A collection of multiple types of lists used during security assessments
+app-dicts/seclists 2020.1 2020.2: A collection of multiple types of lists used during security assessments
 app-editors/visual-studio-code 1.39.2 1.43.1: Multiplatform Visual Studio Code from Microsoft
 app-exploits/ROPgadget 6.2 6.3: Search for gadgets in binaries to facilitate your ROP exploitation
 app-exploits/deathstar 20180722: A tool to gain Domain Admin rights with a push of a button
@@ -632,7 +632,7 @@ net-libs/libvidcap 0.2.1: a cross-platform library for capturing video from webc
 net-mail/davmail-bin 4.7.3 5.2.0.2961 5.3.0.3065 5.3.1.3079 5.4.0.3135: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
 net-mail/email2phonenumber 20190816 99999999: A OSINT tool to obtain a target's phone number just by having his email address
 net-mail/fakepop 11: fake pop3 server which returns the same messages to all users
-net-misc/brutespray 1.6.6: Brute-Forcing from Nmap output - Automatically attempts default creds on found services
+net-misc/brutespray 1.6.6 1.6.8: Brute-Forcing from Nmap output using default creds
 net-misc/corscanner 20190721 99999999: Fast CORS misconfiguration vulnerabilities scannerbeers
 net-misc/corstest 20190704 99999999: A simple CORS misconfiguration scanner
 net-misc/dirscraper 20190224 99999999: Scanning tool which discovers dirs found in javascript files hosted on a website
