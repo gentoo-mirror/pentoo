@@ -130,7 +130,7 @@ dev-db/nosqlmap 0.5_p20190812: A tool to automate injection attacks and exploit 
 dev-db/oat 1.3.1: a toolkit that could be used to audit security within Oracle database servers
 dev-db/sqid 0.3: A SQL injection digger
 dev-db/sqlbf 1.0.1-r1: SQLBF is a tool to audit mssql passwords strength offline
-dev-db/sqlmap 1.4.2 1.4.3 1.4.4 9999: An automatic SQL injection and database takeover tool
+dev-db/sqlmap 1.4.4 1.4.5 9999: An automatic SQL injection and database takeover tool
 dev-db/sqlsus 0.7.2: MySQL injection and takeover tool
 dev-dotnet/wxnet 0.7.2: wxWidgets bindings for mono
 dev-embedded/libmpsse 1.3_p20160602 1.3.2: Open source library for SPI/I2C control via FTDI chips
@@ -615,7 +615,7 @@ net-analyzer/voiphopper 2.04-r3: VoIP Hopper is a tool that rapidly runs a VLAN 
 net-analyzer/vomit 0.2c: Converts a Cisco IP phone conversation into a wav file
 net-analyzer/w3af 1.6.54-r5: Web Application Attack and Audit Framework
 net-analyzer/wafw00f 2.1.0-r1: Identifies and fingerprints Web Application Firewall (WAF) products
-net-analyzer/wfuzz 2.4.2-r1 2.4.4 2.4.5: Wfuzz is a tool designed for bruteforcing Web Applications
+net-analyzer/wfuzz 2.4.5 2.4.6: Wfuzz is a tool designed for bruteforcing Web Applications
 net-analyzer/whatweb 0.5.1-r1: Next generation web scanner, identifies what software websites are running
 net-analyzer/wpscan 3.7.5 3.7.8 3.7.11: Wordpress security scanner
 net-analyzer/xbruteforcer 20180611: Login brute force tool for WordPress, Joomla, DruPal, OpenCart, and Magento.
