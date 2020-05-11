@@ -36,7 +36,7 @@ app-dicts/seclists 2020.1 2020.2: A collection of multiple types of lists used d
 app-editors/visual-studio-code 1.39.2 1.43.1: Multiplatform Visual Studio Code from Microsoft
 app-exploits/ROPgadget 6.2 6.3: Search for gadgets in binaries to facilitate your ROP exploitation
 app-exploits/deathstar 20180722: A tool to gain Domain Admin rights with a push of a button
-app-exploits/empire 3.1.5 3.2.0: A post-exploitation framework
+app-exploits/empire 3.1.5 3.2.0 3.2.1: A post-exploitation framework
 app-exploits/enumdb 2.1.0: Database brute force and post exploitation tool
 app-exploits/exploit-pattern 20200109: Generate and search pattern string for exploit development
 app-exploits/exploitdb 20200331 99999999: All exploits from exploit-db.com
@@ -334,7 +334,7 @@ dev-python/pyDes 2.0.1: Pure python implementation of DES and TRIPLE DES encrypt
 dev-python/pyaff4 9999: Python Advanced Forensic Format Version 4 library.
 dev-python/pyaxmlparser 0.3.24: Parser for Android XML file and get Application Name without using Androguard
 dev-python/pybonjour 1.1.1: Python interface to Apple Bonjour and compatible DNS-SD libraries (Avahi)
-dev-python/pycryptodomex 3.9.0 3.9.4 3.9.6: A self-contained cryptographic library for Python
+dev-python/pycryptodomex 3.9.6 3.9.7: A self-contained cryptographic library for Python
 dev-python/pydispatcher 2.0.5: Multi-producer-multi-consumer signal dispatching mechanism
 dev-python/pygeoif 0.7: A basic implementation of the __geo_interface__
 dev-python/pygexf 0.2.2: A python library to generate gexf file format
