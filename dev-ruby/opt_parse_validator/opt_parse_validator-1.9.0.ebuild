@@ -3,7 +3,7 @@
 
 EAPI=7
 
-USE_RUBY="ruby24 ruby25 ruby26"
+USE_RUBY="ruby25 ruby26 ruby27"
 
 inherit ruby-fakegem
 
@@ -16,7 +16,7 @@ KEYWORDS="~amd64 ~x86"
 IUSE="test"
 
 ruby_add_rdepend "dev-ruby/activesupport:*
-	>=dev-ruby/addressable-2.5.0"
+	>=dev-ruby/addressable-2.5.2"
 
 #each_ruby_prepare() {
 #	#relax 5.1 to any
