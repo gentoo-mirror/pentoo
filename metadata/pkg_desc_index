@@ -331,7 +331,7 @@ dev-python/phply 0.9.1-r1 1.2.5: Parser for PHP written using PLY
 dev-python/playsound 1.2.2: Single function module with no dependencies for playing sounds
 dev-python/plotly 4.1.1: Browser-based graphing library for Python
 dev-python/poster 0.8.1: Make HTTP POST/PUT with multipart/form-data encoding
-dev-python/proxy-db 0.2.3: Manage free and private proxies on local db for Python Projects
+dev-python/proxy-db 0.2.5: Manage free and private proxies on local db for Python Projects
 dev-python/psd-tools 1.9.9: package for working with Adobe Photoshop PSD files
 dev-python/py2neo 3.1.2 4.3.0-r1: A simple and pragmatic library which accesses the Neo4j graph database
 dev-python/pyDes 2.0.1: Pure python implementation of DES and TRIPLE DES encryption algorithm
