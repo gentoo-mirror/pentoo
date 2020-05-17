@@ -103,8 +103,8 @@ dev-python/invoke
 =dev-python/ldap3-2.5*
 dev-python/pyasn1
 ~dev-python/blinker-1.4
-~dev-python/brotlipy-0.7.0
 ~dev-python/construct-2.8.10
+~dev-python/cryptography-2.9
 ~dev-python/dataclasses-0.7
 ~dev-python/editorconfig-0.12.1
 ~dev-python/h11-0.8.1
@@ -118,7 +118,8 @@ dev-python/pyasn1
 ~dev-python/pyopenssl-17.5.0
 ~dev-python/pyperclip-1.6.0
 ~dev-python/ruamel-base-1.0.0
-~dev-python/ruamel-yaml-0.13.7
+~dev-python/ruamel-yaml-0.16.10
+~dev-python/ruamel-yaml-clib-0.2.0
 ~dev-python/sortedcontainers-1.5.7
 ~dev-python/typing-3.5.2.2 **
 ~dev-python/urwid-2.0.1
