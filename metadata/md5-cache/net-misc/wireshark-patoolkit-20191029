@@ -7,6 +7,6 @@ KEYWORDS=~amd64 ~arm ~x86
 LICENSE=GPL-2
 RDEPEND=>=net-analyzer/wireshark-2.6:=
 SLOT=0
-SRC_URI=https://github.com/pentesteracademy/patoolkit/archive/e14245f2e09988f0c5db3dee18643b919aadcc59.tar.gz -> wireshark-patoolkit-20190114.tar.gz
+SRC_URI=https://github.com/pentesteracademy/patoolkit/archive/1e604b9799f19cc072841296ae31d014913492d3.tar.gz -> wireshark-patoolkit-20191029.tar.gz
 _eclasses_=multilib	318e8ae683e57fd3ccd0d31a769d8ee8	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
-_md5_=a8844ab42531cc754fa3a6f693322cc6
+_md5_=68bcfb48032c67bdc36b407be8f82aa8
