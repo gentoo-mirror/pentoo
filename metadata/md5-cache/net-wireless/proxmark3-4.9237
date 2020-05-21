@@ -5,11 +5,11 @@ DESCRIPTION=A general purpose RFID tool for Proxmark3 hardware
 EAPI=7
 HOMEPAGE=https://github.com/RfidResearchGroup/proxmark3
 IUSE=+bluez deprecated +firmware +pm3rdv4 +qt standalone-lf-em4100emul standalone-lf-em4100rswb standalone-lf-em4100rwc standalone-lf-icehid standalone-lf-samyrun standalone-lf-proxbrute standalone-lf-hidbrute standalone-hf-14asniff standalone-hf-legic +standalone-hf-msdsal standalone-hf-young standalone-hf-mattyrun standalone-hf-colin standalone-hf-bog
-KEYWORDS=~amd64
+KEYWORDS=amd64
 LICENSE=GPL-2+ GPL-3+
 RDEPEND=virtual/libusb:0 sys-libs/ncurses:*[tinfo] sys-libs/readline:= bluez? ( net-wireless/bluez ) qt? ( dev-qt/qtcore:5 dev-qt/qtwidgets:5 dev-qt/qtgui:5 )
 REQUIRED_USE=?? ( standalone-lf-em4100emul standalone-lf-em4100rswb standalone-lf-em4100rwc standalone-lf-icehid standalone-lf-samyrun standalone-lf-proxbrute standalone-lf-hidbrute standalone-hf-14asniff standalone-hf-legic standalone-hf-msdsal standalone-hf-young standalone-hf-mattyrun standalone-hf-colin standalone-hf-bog ) standalone-lf-icehid? ( pm3rdv4 ) standalone-hf-14asniff? ( pm3rdv4 ) standalone-hf-colin? ( pm3rdv4 ) standalone-hf-bog? ( pm3rdv4 )
 SLOT=0
-SRC_URI=https://github.com/RfidResearchGroup/proxmark3/archive/v4.9230.tar.gz -> proxmark3-4.9230.tar.gz
+SRC_URI=https://github.com/RfidResearchGroup/proxmark3/archive/v4.9237.tar.gz -> proxmark3-4.9237.tar.gz
 _eclasses_=multilib	318e8ae683e57fd3ccd0d31a769d8ee8	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c	udev	452708c3f55cf6e918b045adb949a9e6
-_md5_=bd5e9a07079b0c7a2f306580e1758bc0
+_md5_=a03c08b108a9641bd04b775c7cc35d42
