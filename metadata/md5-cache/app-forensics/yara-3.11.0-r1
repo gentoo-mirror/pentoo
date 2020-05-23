@@ -1,10 +1,10 @@
 BDEPEND=>=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.1:1.16 >=sys-devel/automake-1.15.1:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
-DEFINED_PHASES=prepare
+DEFINED_PHASES=configure prepare
 DEPEND=dev-libs/openssl:0=
 DESCRIPTION=A malware identification and classification tool
 EAPI=7
 HOMEPAGE=http://virustotal.github.io/yara/
-IUSE=python
+IUSE=+dex python
 KEYWORDS=~amd64 ~arm ~x86
 LICENSE=Apache-2.0
 PDEPEND=python? ( ~dev-python/yara-python-3.11.0 )
@@ -12,4 +12,4 @@ RDEPEND=dev-libs/openssl:0=
 SLOT=0
 SRC_URI=https://github.com/virustotal/yara/archive/v3.11.0.tar.gz -> yara-3.11.0.tar.gz
 _eclasses_=autotools	7d999b62b8749fad43fff00620cedf47	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	318e8ae683e57fd3ccd0d31a769d8ee8	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
-_md5_=18242c06cc4e8469091030135dbce83d
+_md5_=656d42c9fc072125771aa1f686549375
