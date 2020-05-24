@@ -645,7 +645,6 @@ net-mail/email2phonenumber 20190816 99999999: A OSINT tool to obtain a target's 
 net-mail/fakepop 11: fake pop3 server which returns the same messages to all users
 net-misc/brutespray 1.6.6 1.6.8: Brute-Forcing from Nmap output using default creds
 net-misc/corscanner 20190721 99999999: Fast CORS misconfiguration vulnerabilities scannerbeers
-net-misc/corstest 20190704 99999999: A simple CORS misconfiguration scanner
 net-misc/dirscraper 20190224 99999999: Scanning tool which discovers dirs found in javascript files hosted on a website
 net-misc/faifa 0.1 9999: Power Line Communication device manager
 net-misc/goaltdns 20190330: A permutation generation tool written in golang
