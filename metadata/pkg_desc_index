@@ -19,7 +19,6 @@ app-crypt/bruteforce-luks 1.3.1 1.3.2 1.4.0 9999: A bruteforce cracker for LUKS 
 app-crypt/bruteforce-salted-openssl 1.4.2: A bruteforce cracker for openssl encrypted files
 app-crypt/bruteforce-wallet 1.5.2 1.5.3: Crypto-currency wallet password recovery tool
 app-crypt/cryptohaze-combined 1.31: GPU and OpenCL accelerated password auditing tools for security professionals
-app-crypt/cuda-rarcrypt 3.2-r1: A Nvidia GPU-based RAR bruteforcer
 app-crypt/elfcrypt 20200224 99999999: A Simple ELF crypter
 app-crypt/hashid 3.1.4 9999: Software to identify the different types of hashes
 app-crypt/rcracki_mt 0.7.0-r1: Perform a rainbow table attack on password hashes
@@ -585,7 +584,6 @@ net-analyzer/padbuster 20110928: Automated script for performing Padding Oracle 
 net-analyzer/plecost 9999: Wordpress finger printing tool, retrieve information about the plugins and versions installed
 net-analyzer/polenum 1.6: Extract password policy from a windows machine
 net-analyzer/ppscan 0.3-r1: Port scanner with HTTP and FTP tunneling support
-net-analyzer/pret 20180611-r1: Printer Exploitation Toolkit
 net-analyzer/rdp-sec-check 20181109: Remote Desktop Protocol security settings checker
 net-analyzer/recon-ng 5.0.0-r1 5.0.1 5.1.0 5.1.1 9999: Web Reconnaissance Framework
 net-analyzer/responder 3.0.0.0-r1: LLMNR, NBT-NS and MDNS poisoner, HTTP/SMB/MSSQL/FTP/LDAP rogue authentication
