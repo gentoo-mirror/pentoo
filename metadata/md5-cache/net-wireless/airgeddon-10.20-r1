@@ -1,0 +1,12 @@
+DEFINED_PHASES=install prepare
+DESCRIPTION=bash script for Linux systems to audit wireless networks
+EAPI=7
+HOMEPAGE=https://github.com/v1s1t0r1sh3r3/airgeddon
+IUSE=opencl
+KEYWORDS=amd64 x86
+LICENSE=GPL-3+
+PDEPEND=>=app-shells/bash-4.2 virtual/awk net-wireless/aircrack-ng x11-terms/xterm sys-apps/iproute2 sys-apps/pciutils sys-process/procps net-analyzer/ettercap net-analyzer/bettercap app-misc/crunch net-wireless/hcxdumptool net-wireless/hcxtools net-wireless/mdk net-misc/dhcp opencl? ( app-crypt/hashcat ) net-analyzer/dsniff net-wireless/hostapd[wpe(+)] net-wireless/reaver-wps-fork-t6x net-wireless/bully net-wireless/pixiewps || ( net-firewall/nftables net-firewall/iptables ) app-crypt/asleap dev-libs/openssl www-apps/beef x11-apps/xdpyinfo sys-apps/ethtool sys-apps/usbutils sys-apps/util-linux net-misc/wget app-admin/ccze x11-apps/xset
+SLOT=0
+SRC_URI=https://github.com/v1s1t0r1sh3r3/airgeddon/archive/v10.20.tar.gz -> airgeddon-10.20.tar.gz
+_eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5
+_md5_=ac40160ce7eb0ce504736633b2b28a9e
