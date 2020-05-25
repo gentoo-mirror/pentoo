@@ -728,7 +728,7 @@ net-wireless/gr-osmosdr 0.2.0: GNU Radio source block for OsmoSDR and rtlsdr and
 net-wireless/gr-reveng 9999: GNU Radio block for reverse engineering RF protocols
 net-wireless/gr-tpms 9999: GNU Radio block for Tire Pressure Monitor tools
 net-wireless/grimwepa 1.10_p5-r101 1.10_p6: A password cracker for both WEP and WPA-encrypted access points
-net-wireless/hackrf-firmware 9999: tools for communicating with HackRF SDR platform
+net-wireless/hackrf-firmware 9999: Hardware designs and software for HackRF
 net-wireless/hcxdumptool 6.0.0: Small tool to capture packets from wlan devices
 net-wireless/hcxkeys 4.0.1_p20190712: Small set of tools to generate plainmasterkeys (rainbowtables) and hashes for the use with latest hashcat and John the Ripper
 net-wireless/hcxtools 5.3.0: Portable solution for capturing wlan traffic and conversion to hashcat formats
