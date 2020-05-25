@@ -602,7 +602,6 @@ net-analyzer/sn0int 0.16.0 0.17.1 0.18.2: Semi-automatic OSINT framework and pac
 net-analyzer/sniffglue 0.10.1: Secure multithreaded packet sniffer
 net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
 net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
-net-analyzer/sslstrip 0.9.2: sslstrip remove https and forwards http
 net-analyzer/sslyze 3.0.4: Fast and full-featured SSL scanner
 net-analyzer/subfinder 2.3.2 2.3.3: A subdomain discovery tool that discovers valid subdomains for websites
 net-analyzer/subjack 2.1: Subdomain Takeover tool written in Go
@@ -758,6 +757,7 @@ net-wireless/proxmark3 3.1.0_p20190820 3.1.0_p20200316 4.9237 9999: A general pu
 net-wireless/pyrit 0.5.0_p20180801: GPU-accelerated attack against WPA-PSK authentication
 net-wireless/qspectrumanalyzer 2.2.0 9999: vendor and platform neutral SDR support library
 net-wireless/reaver-wps-fork-t6x 1.6.5-r1: Utilise Pixie Dust Attack to find the correct WPS PIN.
+net-wireless/rfcat 0.0.200313: The swiss army knife of subGHz
 net-wireless/rfidler 0.01_p20160313 0.01_p20180128: Software defined RFID (LF) Reader/Writer/Emulator
 net-wireless/rfidtool 0.01: command line rfid interface
 net-wireless/rtl8812au 4.2.5 4.3.1.4 4.3.14_p20190827 5.2.9_p20180327 5.6.4.2_p20200318: Linux kernel driver for rtl8812au USB WiFi chipsets
