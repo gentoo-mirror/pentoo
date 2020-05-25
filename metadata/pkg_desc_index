@@ -719,6 +719,7 @@ net-wireless/gr-dsss 9999: GNU Radio block for Direct Sequence Spread Spectrum
 net-wireless/gr-elster 9999: GNU Radio block for decoding packets transmitted by Elster R2S smart meters
 net-wireless/gr-gps 9999: GNU Radio block for a GPS receiver
 net-wireless/gr-gsm 9999: Set of tools for receiving information transmitted by GSM equipment/devices
+net-wireless/gr-ieee802154 0.0_p20191006: IEEE 802.15.4 ZigBee Transceiver
 net-wireless/gr-iio 0.3_p20191219: GNU Radio IIO Blocks
 net-wireless/gr-iqbal 0.38.1: gnuradio I/Q balancing
 net-wireless/gr-keyfob 9999: GNU Radio block for Hella wireless car key fobs
@@ -739,7 +740,7 @@ net-wireless/intel-wimax-tools 1.4.2 1.4.2.1: Tools to use Intel's WiMax cards
 net-wireless/ipw2200 1.2.0: Driver for the Intel 2200BG/2915ABG miniPCI/PCI adapters patched with modified inject patches
 net-wireless/kalibrate-hackrf 9999: A tool to scan GSM base stations and calculate the local oscillator frequency offset
 net-wireless/karmetasploit 0.1-r3: KARMA + Metasploit 3 == Karmetasploit
-net-wireless/killerbee 2.7.0_pre20190218 9999: Framework and Tools for Attacking ZigBee and IEEE 802.15.4 networks
+net-wireless/killerbee 2.7.1_p20200309: Framework and Tools for Attacking ZigBee and IEEE 802.15.4 networks
 net-wireless/killerzee 9999: Tools for Attacking and Evaluating Z-Wave Networks
 net-wireless/kismet_shootout 0.0_p20190717 9999: Kismet WiFi data source shootout
 net-wireless/libfreefare 0.4.0: a library for high level manipulation of MIFARE tags
