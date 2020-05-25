@@ -131,6 +131,7 @@ net-libs/libtins:dot11 - IEEE 802.11 support
 net-libs/libtins:wpa2 - WPA2 decryption support
 net-vpn/kcptun:server - Enable server side daemon
 net-vpn/udp2raw-tunnel:iptables - include support for iptables filtering
+net-wireless/chirp:radioreference - support downloading data from radioreference.com (premium users only)
 net-wireless/fern-wifi-cracker:dict - Add support sys-apps/cracklib-words (large set of crack/cracklib dictionaries)
 net-wireless/gnuradio:analog - enable analog signal processing blocks
 net-wireless/gnuradio:atsc - enable ATSC (HDTV) transmitter and receiver blocks
