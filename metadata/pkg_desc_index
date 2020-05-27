@@ -711,7 +711,7 @@ net-wireless/fosphor_knob 0.9-r1: A visualization we use for the Wireless Villag
 net-wireless/gnuradio 3.8.1.0: Toolkit that provides signal processing blocks to implement software radios
 net-wireless/gps-sdr-sim 9999: GPS Spoofing tool for transmit capable SDR's like the HackRF, bladeRF and USRP
 net-wireless/gr-acars2 9999: GNU Radio block for ACARS transmissions
-net-wireless/gr-air-modes 20191016: This module implements a complete Mode S and ADS-B receiver for Gnuradio
+net-wireless/gr-air-modes 20191016 20200507: This module implements a complete Mode S and ADS-B receiver for Gnuradio
 net-wireless/gr-ais 9999: GNU Radio block that decodes Automatic Information System for shipborne position reporting
 net-wireless/gr-ax25 9999: GNU Radio block for ax.25 routines
 net-wireless/gr-correctiq 9999: GNU Radio block to remove that IQ DC spike
