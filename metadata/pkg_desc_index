@@ -768,7 +768,7 @@ net-wireless/rfcat 0.0.200313-r1: The swiss army knife of subGHz
 net-wireless/rfidler 0.01_p20160313 0.01_p20180128: Software defined RFID (LF) Reader/Writer/Emulator
 net-wireless/rfidtool 0.01: command line rfid interface
 net-wireless/rtl8812au 4.2.5 4.3.1.4 4.3.14_p20190827 5.2.9_p20180327 5.6.4.2_p20200318: Linux kernel driver for rtl8812au USB WiFi chipsets
-net-wireless/rtl8812au_aircrack-ng 5.2.20_p20191030-r1 5.3.4_p20191030 9999: RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection
+net-wireless/rtl8812au_aircrack-ng 5.2.20_p20191030-r1 5.3.4_p20191030 5.6.4.2_p20200519 9999: RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection
 net-wireless/rtl8822bu 5.3.1_p20190920 9999: RTL88x2BU driver with monitor mode and frame injection
 net-wireless/rx_tools 1.0.3-r1 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
 net-wireless/ska 0.2: Fake Shared Key Authentication
@@ -840,7 +840,7 @@ sys-kernel/kconfig-hardened-check 0.5.3 0.5.5 9999: A script for checking the ha
 sys-kernel/minipli-sources 4.9.74: Unofficial forward ports of the last publicly available grsecurity patch
 sys-kernel/odroid-sources 9999: Linux kernel source for the ODROID-[UX]2 products
 sys-kernel/odroidxu-sources 9999: Linux kernel source for the ODROIDXU products
-sys-kernel/pentoo-sources 5.1.15 5.2.14 5.3.18 5.4.28 5.5.19 5.6.12: Pentoo kernel sources (kernel series 5.6)
+sys-kernel/pentoo-sources 5.1.15 5.2.14 5.3.18 5.4.28 5.5.19 5.6.15: Pentoo kernel sources (kernel series 5.6)
 sys-kernel/pf_ring-kmod 6.0.3 6.6.0 7.0.0: A new type of network socket that improves packet capture speed.
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
 sys-libs/libkudzu 1.2.85.1: Red Hat Hardware detection tools
