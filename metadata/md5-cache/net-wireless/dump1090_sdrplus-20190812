@@ -1,0 +1,11 @@
+DEFINED_PHASES=install
+DEPEND=net-wireless/rtl-sdr:= net-libs/libhackrf net-wireless/airspy net-wireless/sdrplay media-libs/soxr
+DESCRIPTION=Mode S decoder for (SDR) devices including RTL SDR, HackRF, Airspy and SDRplay
+EAPI=7
+HOMEPAGE=https://github.com/itemir/dump1090_sdrplus
+KEYWORDS=~amd64 ~x86
+LICENSE=BSD
+RDEPEND=net-wireless/rtl-sdr:= net-libs/libhackrf net-wireless/airspy net-wireless/sdrplay media-libs/soxr
+SLOT=0
+SRC_URI=https://github.com/itemir/dump1090_sdrplus/archive/2ca82d03e7fb8016cf53627c1d617d21ac010760.tar.gz -> dump1090_sdrplus-20190812.tar.gz
+_md5_=5983d9d6ed840670478f62bceaf80b2d
