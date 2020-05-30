@@ -776,7 +776,7 @@ net-wireless/sniffair 3.0: SniffAir framework for wireless pentesting
 net-wireless/trunk-recorder 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
 net-wireless/uhd 3.15.0.0-r1: Universal Software Radio Peripheral (USRP) Hardware Driver
 net-wireless/virtualradar-bin 2.0.1 2.3.1: Open-source .NET application for ads-b mapping
-net-wireless/wifipumpkin3 1.0.0: Framework for Rogue Wi-Fi Access Point Attack
+net-wireless/wifipumpkin3 1.0.5: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifitap 0.4.2-r1: A wireless tool to do direct connection to client without passing through an AP
 net-wireless/wifite 2.2.5-r3 2.5.2-r1: An automated wireless attack tool
 net-wireless/wireless-regdb 20090130-r1 20090309 20090817 20091125 20091125-r1: Binary regulatory database for CRDA
