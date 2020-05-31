@@ -156,7 +156,7 @@ dev-java/jgraphx 2.1.1.2 4.0.6: Open-source graph component for Java
 dev-java/msgpack 0.5.1 0.6.12 0.8.16: MessagePack for Java is a binary-based efficient object serialization library
 dev-java/sleep 2.1-r1: Duct Tape for the Java platform
 dev-java/swt 4.10-r1: GTK based SWT Library
-dev-lang/powershell-bin 6.2.5 7.0.1: A cross-platform automation and configuration tool/framework
+dev-lang/powershell-bin 6.2.5 7.0.1-r1: A cross-platform automation and configuration tool/framework
 dev-libs/LeechCore 1.5 1.6 1.7: Direct Memory Access (DMA) Attack Software
 dev-libs/hashdb 3.1.0-r1: The hashdb block hash database tool and API
 dev-libs/libcdata 20180102 20180724 20181216 20190112: Library for cross-platform C generic data functions
