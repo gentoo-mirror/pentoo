@@ -136,40 +136,9 @@ net-vpn/kcptun:server - Enable server side daemon
 net-vpn/udp2raw-tunnel:iptables - include support for iptables filtering
 net-wireless/chirp:radioreference - support downloading data from radioreference.com (premium users only)
 net-wireless/fern-wifi-cracker:dict - Add support sys-apps/cracklib-words (large set of crack/cracklib dictionaries)
-net-wireless/gnuradio:analog - enable analog signal processing blocks
-net-wireless/gnuradio:atsc - enable ATSC (HDTV) transmitter and receiver blocks
-net-wireless/gnuradio:audio - enable blocks to connect to audio sources (mic-in) and sinks (speaker-out) ports on a computer
-net-wireless/gnuradio:channels - enable channel mode blocks
-net-wireless/gnuradio:digital - enable digital signal processing blocks
-net-wireless/gnuradio:dtv - enable digital tv signal processing blocks
-net-wireless/gnuradio:fcd - enable Funcube Dongle source block
-net-wireless/gnuradio:fec - enable block for convolutional encoding using the CCSDS standard polynomial ("Voyager")
-net-wireless/gnuradio:filter - enable filter signal processing blocks
-net-wireless/gnuradio:grc - enable GNU Radio Companion graphical tool to design signal processing flow graphs
-net-wireless/gnuradio:log - enable logging to console and files
-net-wireless/gnuradio:noaa - enable NOAA POES HRPT receiver blocks
-net-wireless/gnuradio:pager - enable pager signal processing blocks
-net-wireless/gnuradio:performance-counters - enable block performance counters
-net-wireless/gnuradio:trellis - enable trellis blocks for FSM
-net-wireless/gnuradio:uhd - install UHD source and sink blocks
-net-wireless/gnuradio:utils - install scripts to enable viewing and analysis of files produced by flow graphs
-net-wireless/gnuradio:vocoder - enable blocks for audio voice encoders
-net-wireless/gnuradio:wavelet - enable wavelet signal processing blocks
-net-wireless/gnuradio:zeromq - enable zeromq message passing blocks
 net-wireless/gr-air-modes:fgfs - Support FlightGear
 net-wireless/gr-air-modes:rtlsdr - Build with Realtek RTL2832U (rtlsdr) support
 net-wireless/gr-air-modes:uhd - Build with Ettus Research USRP Hardware Driver support
-net-wireless/gr-osmosdr:airspy - Build with Airspy support
-net-wireless/gr-osmosdr:bladerf - Build with Nuand BladeRF support
-net-wireless/gr-osmosdr:fcd - Build with Funcube Dongle support
-net-wireless/gr-osmosdr:hackrf - Build with Great Scott Gadgets HackRF support
-net-wireless/gr-osmosdr:iio - Build with Industrial IO support for devices such as Analog Devices Pluto
-net-wireless/gr-osmosdr:iqbalance - Enable support for I/Q balancing using gr-iqbal
-net-wireless/gr-osmosdr:mirisdr - Build with Mirics MSi2500 + MSi001 SDR support
-net-wireless/gr-osmosdr:rtlsdr - Build with Realtek RTL2832U (rtlsdr) support
-net-wireless/gr-osmosdr:sdrplay - Enable support for SDRplay devices through net-wireless/sdrplay
-net-wireless/gr-osmosdr:soapy - Build with SoapySDR support
-net-wireless/gr-osmosdr:uhd - Build with Ettus Research USRP Hardware Driver support
 net-wireless/hostapd:crda - Add CRDA support
 net-wireless/hostapd:internal-tls - Use internal TLSv1 implementation instead of depending on OpenSSL, LibreSSL or GnuTLS
 net-wireless/hostapd:logwatch - Install support files for sys-apps/logwatch

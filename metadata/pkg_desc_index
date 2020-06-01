@@ -708,8 +708,7 @@ net-wireless/dump1090_sdrplus 20190812: Mode S decoder for (SDR) devices includi
 net-wireless/eaphammer 1.12.0: Targeted evil twin attacks against WPA2-Enterprise networks
 net-wireless/editcp-bin 1.0.16 1.0.18: 
 net-wireless/fern-wifi-cracker 3.0: Wireless tool for WEP/WPA cracking and WPS keys recovery
-net-wireless/fosphor_knob 0.9-r1: A visualization we use for the Wireless Village
-net-wireless/gnuradio 3.8.1.0: Toolkit that provides signal processing blocks to implement software radios
+net-wireless/fosphor_knob 0.10: A visualization we use for the Wireless Village
 net-wireless/gps-sdr-sim 9999: GPS Spoofing tool for transmit capable SDR's like the HackRF, bladeRF and USRP
 net-wireless/gr-acars2 9999: GNU Radio block for ACARS transmissions
 net-wireless/gr-air-modes 20200507: This module implements a complete Mode S and ADS-B receiver for Gnuradio
@@ -723,12 +722,8 @@ net-wireless/gr-elster 9999: GNU Radio block for decoding packets transmitted by
 net-wireless/gr-gps 9999: GNU Radio block for a GPS receiver
 net-wireless/gr-gsm 20191116: Set of tools for receiving information transmitted by GSM equipment/devices
 net-wireless/gr-ham 20200511: 
-net-wireless/gr-ieee802154 0.0_p20191006: IEEE 802.15.4 ZigBee Transceiver
-net-wireless/gr-iio 0.3_p20191219: GNU Radio IIO Blocks
-net-wireless/gr-iqbal 0.38.1: gnuradio I/Q balancing
 net-wireless/gr-keyfob 9999: GNU Radio block for Hella wireless car key fobs
 net-wireless/gr-lte 9999: GNU Radio block for LTE signals
-net-wireless/gr-osmosdr 0.2.0: GNU Radio source block for OsmoSDR and rtlsdr and hackrf
 net-wireless/gr-reveng 9999: GNU Radio block for reverse engineering RF protocols
 net-wireless/gr-tpms 9999: GNU Radio block for Tire Pressure Monitor tools
 net-wireless/grimwepa 1.10_p5-r101 1.10_p6: A password cracker for both WEP and WPA-encrypted access points
@@ -809,7 +804,7 @@ pentoo/pentoo-voip 2018.2-r1: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2019.3: Pentoo wireless meta ebuild
 pentoo/tribe 2012.0: Tribe meta ebuild
 pentoo/wctf-client 2020.1-r3: Packages needed to power the client NUC for WCTF events
-pentoo/zero-system 2020.1-r2: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
+pentoo/zero-system 2020.1-r3: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
 sci-electronics/litedram 20180514: Small footprint and configurable DRAM core
 sci-electronics/liteeth 20180301 20180719: Small footprint and configurable Ethernet core
 sci-electronics/litepcie 20180530: Small footprint and configurable PCIe core
