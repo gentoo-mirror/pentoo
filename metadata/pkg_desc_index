@@ -298,7 +298,7 @@ dev-python/jsbeautifier 1.11.0: Beautify, unpack or deobfuscate JavaScript
 dev-python/json2html 1.3.0-r1: A python module for converting complex JSON oject to HTML Table representation
 dev-python/jsonfield 2.0.2: A reusable Django field that allows you to store validated JSON
 dev-python/kaitaistruct 0.8: Kaitai Struct runtime for Python
-dev-python/ldapdomaindump 0.9.1-r1: Active Directory information dumper via LDAP
+dev-python/ldapdomaindump 0.9.1-r1 0.9.3: Active Directory information dumper via LDAP
 dev-python/leather 0.3.3: Python charting for 80% of humans
 dev-python/litecli 1.1.0-r4 1.3.2: CLI for SQLite Databases with auto-completion and syntax highlighting
 dev-python/lsassy 2.1.2: Python library to parse remote lsass dumps
@@ -603,7 +603,7 @@ net-analyzer/sn0int 0.16.0 0.17.1 0.18.2: Semi-automatic OSINT framework and pac
 net-analyzer/sniffglue 0.10.1: Secure multithreaded packet sniffer
 net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
 net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
-net-analyzer/sslyze 3.0.4: Fast and full-featured SSL scanner
+net-analyzer/sslyze 3.0.4 3.0.5: Fast and full-featured SSL scanner
 net-analyzer/subfinder 2.3.2 2.3.3: A subdomain discovery tool that discovers valid subdomains for websites
 net-analyzer/subjack 2.1: Subdomain Takeover tool written in Go
 net-analyzer/sublert 1.4.7_p20200103: Monitor new subdomains deployed by specific organizations and issued TLS/SSL certificate
