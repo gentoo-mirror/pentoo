@@ -1,4 +1,4 @@
-# Copyright 2020 Gentoo Authors
+# Copyright 2019-2020 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=7
@@ -13,7 +13,7 @@ SLOT="0"
 KEYWORDS="amd64"
 IUSE=""
 
-DEPEND="net-wireless/gnuradio:=
+DEPEND="=net-wireless/gnuradio-3.8*:=
 	net-wireless/gr-paint"
 RDEPEND="${DEPEND}"
 BDEPEND=""
@@ -24,8 +24,8 @@ PDEPEND="net-wireless/uhd:=
 #powermate.py from https://github.com/bethebunny/powermate
 
 src_compile() {
-	grcc -d "${S}" fosphor_with_griffin_powermate_knob.grc || die
-	grcc -d "${S}" fosphor_with_griffin_powermate_knob_sponsors.grc || die
+	grcc -o "${S}" fosphor_with_griffin_powermate_knob.grc || die
+	grcc -o "${S}" fosphor_with_griffin_powermate_knob_sponsors.grc || die
 }
 
 src_install() {
