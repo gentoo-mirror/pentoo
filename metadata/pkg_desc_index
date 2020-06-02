@@ -641,7 +641,7 @@ net-libs/libsearpc 3.2.0-r1: A simple C language RPC framework
 net-libs/libtins 4.1 4.2: High-level, multiplatform C++ network packet sniffing and crafting library.
 net-libs/libvidcap 0.2.1: a cross-platform library for capturing video from webcams and other video capture devices
 net-mail/davmail-bin 4.7.3 5.2.0.2961 5.3.0.3065 5.3.1.3079 5.4.0.3135: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
-net-mail/email2phonenumber 20190816 99999999: A OSINT tool to obtain a target's phone number just by having his email address
+net-mail/email2phonenumber 20190916 99999999: A OSINT tool to obtain a target's phone number just by having his email address
 net-mail/fakepop 11: fake pop3 server which returns the same messages to all users
 net-misc/brutespray 1.6.6 1.6.8: Brute-Forcing from Nmap output using default creds
 net-misc/corscanner 20190721 99999999: Fast CORS misconfiguration vulnerabilities scannerbeers
