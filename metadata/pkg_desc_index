@@ -813,7 +813,6 @@ sci-electronics/liteusb 20180301: Small footprint and configurable USB core
 sci-electronics/litex 20180531 20180718: Information gathering tool designed for extracting metadata of public documents
 sci-electronics/migen 0.7: A Python toolbox for building complex digital hardware
 sci-electronics/pcie_injector 20180527: Information gathering tool designed for extracting metadata of public documents
-sci-libs/volk 2.3.0: vector optimized library of kernels
 sys-apps/become 1.0 1.0-r1: utility for changing the current real, effective or group id
 sys-apps/magic-pax 0.0.1: 
 sys-apps/razercfg 0.41-r1: Utility for advanced configuration of Razer mice
