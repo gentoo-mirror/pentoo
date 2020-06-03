@@ -110,6 +110,12 @@ dev-python/pyinstaller:leak-detector - Support for link with Boehm garbage colle
 dev-python/pyzmq:draft - Enable draft API support
 dev-python/stegoveritas-binwalk:graph - Enable support for generating entropy graphs
 dev-util/mobsf:genymotion - Add app-emulation/genymotion-bin support
+dev-util/unicorn:unicorn_targets_aarch64 - Use the aarch64 architecture
+dev-util/unicorn:unicorn_targets_arm - Use the arm architecture
+dev-util/unicorn:unicorn_targets_m68k - Use the m68k architecture
+dev-util/unicorn:unicorn_targets_mips - Use the mips architecture
+dev-util/unicorn:unicorn_targets_sparc - Use the sparc architecture
+dev-util/unicorn:unicorn_targets_x86 - Use the x86 architecture
 net-analyzer/greenbone-security-assistant:extras - Pdf results, extra fonts, html docs support
 net-analyzer/gvm:cli - Command Line Interface for OpenVAS Scanner
 net-analyzer/gvm:cron - A cron job to update GVM's vulnerability feeds daily
