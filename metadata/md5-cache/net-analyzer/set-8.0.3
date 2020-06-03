@@ -1,0 +1,11 @@
+DEFINED_PHASES=install prepare setup
+DESCRIPTION=A social engineering framework
+EAPI=7
+HOMEPAGE=https://www.trustedsec.com/downloads/social-engineer-toolkit/
+IUSE=+ettercap +wireless python_single_target_python3_6 python_single_target_python3_7 python_single_target_python3_8
+LICENSE=BSD
+RDEPEND=virtual/jdk net-analyzer/metasploit dev-python/pexpect net-misc/wget dev-python/beautifulsoup:4 dev-python/pymssql dev-python/pyopenssl ettercap? ( net-analyzer/ettercap ) wireless? ( net-wireless/aircrack-ng net-analyzer/dsniff ) || ( mail-mta/ssmtp mail-mta/postfix mail-mta/sendmail )
+SLOT=0
+SRC_URI=https://github.com/trustedsec/social-engineer-toolkit/archive/8.0.3.tar.gz -> set-8.0.3.tar.gz
+_eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5	multilib	0914eab919f4f11dd9e0407b92af4726	python-single-r1	2d2617a730e75e491e1d17af87841ec5	python-utils-r1	ace0a9a129fcfeaae542c0d15c07f36a	toolchain-funcs	d3e75048a89c0445838d2f44e5c65d97
+_md5_=e1653582ce9afd83d85cf0458dd0f954

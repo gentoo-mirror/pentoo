@@ -596,7 +596,7 @@ net-analyzer/s3scanner 1.0.0_p20190928: Scan for open AWS S3 buckets and dump th
 net-analyzer/scamper 20191102b: Actively probes the Internet in order to analyze topology and performance
 net-analyzer/serialusb 0.7: A cheap USB proxy for input devices
 net-analyzer/sessionlist 1.0-r1: A HTTP packets sniffer
-net-analyzer/set 8.0.1: A social engineering framework
+net-analyzer/set 8.0.3: A social engineering framework
 net-analyzer/sipvicious 0.3.0: A voip pentest tools suite
 net-analyzer/sitadel 1.0.0_p20190828: Web application security scanner
 net-analyzer/smbmap 1.1.0-r1 1.8.2: SMBMap is a handy SMB enumeration tool
@@ -629,7 +629,6 @@ net-analyzer/wpscan 3.7.11 3.8.1: Wordpress security scanner
 net-analyzer/xbruteforcer 20180611: Login brute force tool for WordPress, Joomla, DruPal, OpenCart, and Magento.
 net-analyzer/xplico 1.2.2: Extract data from TCP/IP traffic
 net-analyzer/xsstrike 3.1.5 9999: Advanced XSS detection suite
-net-analyzer/zarp 0.1.8: Local network attack toolkit
 net-dialup/freeradius 3.0.19-r1 3.0.20: Highly configurable free RADIUS server
 net-dialup/minimodem 0.24: General-purpose software audio FSK modem.
 net-fs/afpfs-ng 0.8.1 0.8.2: a client for the Apple Filing Protocol
