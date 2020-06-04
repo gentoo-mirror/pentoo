@@ -82,7 +82,7 @@ app-forensics/prochunter 20171111: Linux process hunter
 app-forensics/rdd 3.0.4-r6: A forensic copy program developed at and used by the NFI
 app-forensics/reglookup 1.0.1-r1 9999: An utility for reading and querying Windows NT/2K/XP registries
 app-forensics/rekall-core 9999: Rekall Memory Forensic Framework
-app-forensics/rekall-gui 9999: Rekall Memory Forensic Framework
+app-forensics/rekall-gui 1.7.1: Rekall Memory Forensic Framework
 app-forensics/s3tk 0.3.0 9999: A security toolkit for Amazon S3
 app-forensics/samhain 4.3.3 4.4.0: Advanced file integrity and intrusion detection tool.
 app-forensics/scap-security-guide 0.1.46 0.1.49 0.1.50: Security compliance content in SCAP, Bash, Ansible, and other formats
