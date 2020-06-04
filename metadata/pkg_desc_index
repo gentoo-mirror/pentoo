@@ -9,7 +9,7 @@ app-admin/genmenu 9999: a tool for generating freedesktop-compliant menus
 app-admin/vuls 0.9.0-r1: Vulnerability scanner for Linux, agentless, written in Golang
 app-antivirus/lkrg 0.6 0.7: Linux Kernel Runtime Guard
 app-antivirus/malheur 0.5.4-r1: Malware analysis tool
-app-antivirus/tyton 1.2_p20181206 1.2_p20190213 9999: Kernel-Mode Rootkit Hunter
+app-antivirus/tyton 1.2_p20181206 1.2_p20200604 9999: Kernel-Mode Rootkit Hunter
 app-antivirus/veil 3.1.14-r1: A tool for payloads generation that bypass common anti-virus solutions
 app-crypt/SIPcrack 0.4-r1: SIPcrack is a SIP protocol login cracker
 app-crypt/acsccid 1.1.7 1.1.8: Generic driver for ACS (CCID and non-CCID) Smart Card Reader
@@ -45,7 +45,7 @@ app-exploits/linuxprivchecker 20160302 99999999: A Linux Privilege Escalation Ch
 app-exploits/packetstormexploits 2012.12 2013.12 2014.12 2015.12 2016.12 2017.12 2018.12 2019.12: Archive of packetstorm exploits
 app-exploits/packetstormexploits-meta 2019: Meta ebuild of packetstorm exploits
 app-exploits/proton 20200311: Windows post-exploitation framework using Windows Script Host
-app-exploits/pwntools 4.0.1 4.1.0: CTF framework and exploit development library
+app-exploits/pwntools 4.1.0 4.1.1: CTF framework and exploit development library
 app-exploits/pypykatz 0.3.9: Python implementation of Mimikatz
 app-exploits/ropper 1.13.3-r2 1.13.5 9999: Use to display information about binary files in different file formats
 app-exploits/routersploit 3.4.0-r1 9999: An open-source exploitation framework dedicated to embedded devices
@@ -186,15 +186,13 @@ dev-libs/openssl-bad 1.0.2_p20180915 1.0.2_p20190119: Snapshot for testssl.sh >2
 dev-libs/qbdi 0.7.0 0.7.1: A Dynamic Binary Instrumentation framework based on LLVM
 dev-libs/radare2-bindings 4.3.0: Language bindings for radare2
 dev-libs/redasm-database 20190317: Database files (signatures) for REDasm
-dev-libs/unicorn-bindings 1.0.1-r1 1.0.2_rc2: Unicorn bindings
+dev-libs/unicorn-bindings 1.0.2_rc2: Unicorn bindings
 dev-perl/Encoding-BER 1.02: Perl module for encoding/decoding data using ASN.1 Basic Encoding Rules (BER)
 dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
 dev-perl/Tie-CharArray 1.00: Manipulate perl strings through tied array
 dev-php/evalhook 0.1: Decode/Deobfuscate PHP Scripts
-dev-python/DartsPyLRU 0.5: LRU Dictionaries
 dev-python/EasyProcess 0.2.7: Easy to use python subprocess interface
 dev-python/Flask-KVSession 0.6.2: Transparent server-side session support for flask
-dev-python/HTTPReplay 0.2.6: Properly interpret, decrypt, and replay pcap files
 dev-python/IP2Location 8.4.1: Python API for IP2Location database
 dev-python/Js2Py 0.67_p20200212: JavaScript to Python Translator & JavaScript interpreter
 dev-python/PTP 0.4.2-r1: Pentester's Tools Parser
@@ -209,7 +207,7 @@ dev-python/agate-sql 0.5.4-r1: Adds SQL read/write support to agate
 dev-python/aggdraw 1.3.11: High quality drawing interface for PIL
 dev-python/aiocmd 0.1.2-r2: Coroutine-based CLI generator using prompt_toolkit
 dev-python/aiowinreg 0.0.3: Windows registry file reader
-dev-python/altgraph 0.16.1 0.17: A constructing graphs, BFS and DFS traversals, etc
+dev-python/altgraph 0.17: A constructing graphs, BFS and DFS traversals, etc
 dev-python/apkid 2.1.0-r1 2.1.0_p20200522: Android Package Protector Identifier
 dev-python/apng 0.3.3 0.3.4: A Python module to deal with APNG files
 dev-python/asciitree 0.3.3: Draws ASCII trees
@@ -224,7 +222,6 @@ dev-python/cchardet 2.1.4: Python library for interacting with Censys Search Eng
 dev-python/cement 2.10: Application Framework for Python
 dev-python/censys 0.0.8: Python library for interacting with Censys Search Engine (censys.io)
 dev-python/cfscrape 1.9.7 2.0.7 2.1.1: A module to bypass Cloudflare's anti-bot page
-dev-python/clamd 1.0.2: Clamd is a python interface to Clamd (Clamav daemon)
 dev-python/cmake-converter 2.0.1: CMake converter for Visual Studio projects
 dev-python/config 0.4.0 0.4.2: A hierarchical, easy-to-use, powerful configuration module for Python
 dev-python/coreapi 2.3.3: Python client library for Core API
@@ -236,7 +233,6 @@ dev-python/dbfread 2.0.7-r1: Read DBF Files with Python
 dev-python/delegator 0.1.1: Subprocesses for Humans 2.0
 dev-python/dhcplib 0.1.1: Pure-Python, spec-compliant DHCP-packet-processing library
 dev-python/django-constance-haiwen 20180515: Django live settings with pluggable backends, including Redis
-dev-python/django-extensions 2.1.9: Extensions for Django
 dev-python/django-formtools 2.1: A set of high-level abstractions for Django forms
 dev-python/django-guardian 1.5.1: Implementation of per object permissions for Django 1.2+
 dev-python/django-oauth-toolkit 1.1.3 1.2.0: OAuth2 goodies for the Djangonauts
@@ -248,12 +244,9 @@ dev-python/django-statici18n 1.8.3: Django helper for generating Javascript cata
 dev-python/django-webpack-loader 0.6.0: Transparently use webpack with django
 dev-python/django_compressor 2.3: Compresses linked and inline JavaScript or CSS into single cached files
 dev-python/dnslib 0.9.12: Simple library to encode/decode DNS wire-format packets
-dev-python/dotty 9999: EFILTER Query Language
 dev-python/dropbox-sdk 9.3.0 9.4.0 10.1.1: A Python SDK for integrating with the Dropbox API v2.
 dev-python/easygui 0.98.1: A module for very simple, very easy GUI programming in Python
 dev-python/editorconfig 0.12.2: EditorConfig File Locator and Interpreter for Python
-dev-python/egghatch 0.2.3-r3: Cuckoo Sandbox Shellcode Identification & Formatting
-dev-python/esmre 0.3.1: Regular expression accelerator
 dev-python/exifread 2.2.0: Read Exif metadata from tiff and jpeg files
 dev-python/face_recognition 1.2.3: Recognize faces from Python or from the command line
 dev-python/face_recognition_models 0.3.0: Models used by the face_recognition package.
@@ -278,8 +271,6 @@ dev-python/google-play-scraper 0.0.1.8 0.0.2.3: APIs to easily crawl the Google 
 dev-python/googlesearch 2.0.3: Google search from Python
 dev-python/gpapi 0.4.4-r1: Unofficial python api for google play
 dev-python/grequests 0.4.0: Use Requests with Gevent to make asyncronous HTTP Requests easily
-dev-python/guess-language 0.2 0.5.2: Guess the natural language of a text
-dev-python/halberd 0.2.4-r1: HTTP load balancer detector
 dev-python/hexdump 3.3: Dump binary data to hex format and restore from there
 dev-python/hrt 0.1.0: HTTP Request Translator (hrt) translates raw HTTP requests to different scripts
 dev-python/htmlentities 0.3.0: Easy-to-use data handling for SQL data stores
@@ -328,15 +319,12 @@ dev-python/parsel 1.5.1: Parsel is a library to extract data from HTML and XML u
 dev-python/pcodedmp 1.2.6: A VBA p-code disassembler
 dev-python/pdfkit 0.6.1: Wkhtmltopdf python wrapper
 dev-python/pefile 2019.4.18: Module to read and work with Portable Executable (PE) files
-dev-python/phply 0.9.1-r1 1.2.5: Parser for PHP written using PLY
 dev-python/playsound 1.2.2: Single function module with no dependencies for playing sounds
 dev-python/plotly 4.1.1: Browser-based graphing library for Python
-dev-python/poster 0.8.1: Make HTTP POST/PUT with multipart/form-data encoding
 dev-python/proxy-db 0.2.5: Manage free and private proxies on local db for Python Projects
 dev-python/psd-tools 1.9.9: Package for working with Adobe Photoshop PSD files
 dev-python/py2neo 3.1.2 4.3.0-r1: A simple and pragmatic library which accesses the Neo4j graph database
 dev-python/pyDes 2.0.1: Pure python implementation of DES and TRIPLE DES encryption algorithm
-dev-python/pyaff4 9999: Python Advanced Forensic Format Version 4 library.
 dev-python/pyaxmlparser 0.3.24: Parser for Android XML file and get Application Name without using Androguard
 dev-python/pybonjour 1.1.1: Python interface to Apple Bonjour and compatible DNS-SD libraries (Avahi)
 dev-python/pycryptodomex 3.9.6 3.9.7: A self-contained cryptographic library for Python
@@ -364,7 +352,6 @@ dev-python/python-gvm 1.1.0 1.5.0: Library to communicate with remote servers ov
 dev-python/python-iptools 0.7.0: A package is a collection of utilities for dealing with IP addresses
 dev-python/python-libnmap 0.7.0: A python library enabling python developers to manipulate nmap process and data
 dev-python/python-nmap 0.6.1: a python library which helps in using nmap port scanner
-dev-python/python-ntlm 1.1.0-r1: Python library for NTLM support
 dev-python/python-oauth2 1.1.0-r1 1.1.1: OAuth 2.0 provider for python
 dev-python/python-pptx 0.6.18: Create Open XML PowerPoint documents in Python
 dev-python/python-ptrace 0.9.4: A Python binding of ptrace library
@@ -384,12 +371,10 @@ dev-python/requests-futures 1.0.0: Asynchronous Python HTTP Requests for Humans 
 dev-python/requests-html 0.10.0: HTML Parsing for Humans
 dev-python/rjsmin 1.1.0: RCSSmin is a CSS minifier
 dev-python/ruamel-base 1.0.0: common routines for ruamel packages
-dev-python/ruamel-ordereddict 0.4.9 0.4.13: An ordered dictionary with KIO/KVIO
 dev-python/selenium-requests 1.3.1: Extends Selenium webdrv classes to include the request function from the Requests library
 dev-python/service_identity 18.1.0-r1: Service identity verification for pyOpenSSL
 dev-python/shelljob 0.5.6: Run multiple subprocesses asynchronous/in parallel with streamed output
 dev-python/shodan 1.17.0 1.23.0: Python library and command-line utility for Shodan
-dev-python/shortuuid 1.0.1: A generator library for concise, unambiguous and URL-safe UUIDs.
 dev-python/simplekv 0.14.0: A key-value storage for binary data, support many backends.
 dev-python/social-auth-core 3.2.0: Python social authentication made simple
 dev-python/soupsieve 1.9.3: A modern CSS selector implementation for BeautifulSoup
@@ -401,7 +386,6 @@ dev-python/sqlalchemy_schemadisplay 1.3: Turn SQLAlchemy DB Model into a graph
 dev-python/stegoveritas-binwalk 2.1.2: Binwalk release specifically for stegoveritas
 dev-python/stegoveritas-pfp 0.2.3: An 010 template interpreter for Python
 dev-python/stegoveritas-py010parser 0.1.10: A modified pycparser to parse 010 templates
-dev-python/stopit 1.1.1 1.1.2: Timeout control decorator and context managers
 dev-python/symmetricjsonrpc 0.1.0: A more beautiful JSON-RPC implemenation in python
 dev-python/syslog-rfc5424-formatter 1.1.1 1.2.2: Logging formatter which produces well-formatted RFC5424 Syslog Protocol messages
 dev-python/text-unidecode 1.3: The most basic Text::Unidecode port
@@ -412,7 +396,6 @@ dev-python/torrequest 20181011-r1: Simple Python interface for HTTP(s) requests 
 dev-python/tre-python 0.8.0: Python bidings for TRE library
 dev-python/truffleHogRegexes 20190518: These are the regexes that power trufflehog
 dev-python/validators 0.14.0: Python Data Validation for Humans
-dev-python/vulndb 0.1.1: Python SDK to access the vulnerability database
 dev-python/vulners 1.5.4 1.5.5: Python API wrapper for the Vulners Database
 dev-python/w3lib 1.20.0: Library of web-related functions
 dev-python/webargs 5.5.2: Declarative parsing and validation of HTTP request objects
@@ -497,7 +480,7 @@ dev-util/retdec 3.3-r2 4.0: RetDec is a retargetable machine-code decompiler bas
 dev-util/soapui 5.4.0 5.5.0: The Swiss-Army Knife for SOAP Testing
 dev-util/sonarqube-bin 7.9.3 8.2.0.32929: SonarQube Community Edition is an open platform to manage code quality
 dev-util/sonarscanner-bin 4.2.0.1873: SonarQube Command-Line Scanner
-dev-util/unicorn 1.0.1-r5 1.0.2_rc2 1.0.2_rc3: A lightweight multi-platform, multi-architecture CPU emulator framework
+dev-util/unicorn 1.0.2_rc2 1.0.2_rc3: A lightweight multi-platform, multi-architecture CPU emulator framework
 dev-util/valabind 1.4.0 1.7.1: Valabind is a tool to parse vala or vapi files to transform them into swig files
 dev-vcs/gitleaks 4.0.1 4.1.0 4.1.1 4.2.0: Audit git repos for secrets
 dev-vcs/trufflehog 2.0.97_p20190506-r1: Searches through git repositories for high entropy strings and secrets
@@ -669,7 +652,6 @@ net-misc/waybackurls 0.0.2: Fetch all the URLs that the Wayback Machine knows ab
 net-misc/wireshark-patoolkit 20191029: a collection of traffic analysis Wireshark plugins focused on security
 net-misc/wireshark-sap-plugin 0.4.2 0.5.2 0.6.1 9999: Wireshark plugin for SAP's protocols
 net-misc/wlan2eth 1.3: Wlan2eth is a tool that converts wlan pcap to ethernet-like frames.
-net-misc/xsstracer 20160123 99999999: A small python script to check for Cross-Site Tracing (XST)
 net-proxy/burpsuite 2020.4.1: Interactive proxy for attacking and debugging web applications
 net-proxy/mitmproxy 5.1.1: An interactive, SSL-capable, man-in-the-middle HTTP proxy
 net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal network via reverse connection
@@ -813,7 +795,7 @@ sci-electronics/migen 0.7: A Python toolbox for building complex digital hardwar
 sci-electronics/pcie_injector 20180527: Information gathering tool designed for extracting metadata of public documents
 sys-apps/become 1.0 1.0-r1: utility for changing the current real, effective or group id
 sys-apps/magic-pax 0.0.1: 
-sys-apps/razercfg 0.41-r1: Utility for advanced configuration of Razer mice
+sys-apps/razercfg 0.41-r1 0.42: Utility for advanced configuration of Razer mice
 sys-auth/polkit 0.116-r1: Policy framework for controlling privileges for system-wide services
 sys-devel/autofdo 0.18 0.19 9999: System to simplify real-world deployment of feedback-directed optimization
 sys-devel/gcc-arm-none-eabi 8.2019.3-r2 9.2019.4: GNU Arm Embedded Toolchain
