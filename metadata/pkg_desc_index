@@ -227,7 +227,6 @@ dev-python/config 0.4.0 0.4.2: A hierarchical, easy-to-use, powerful configurati
 dev-python/coreapi 2.3.3: Python client library for Core API
 dev-python/coreschema 0.0.4: Core Schema
 dev-python/csvkit 1.0.4-r1 1.0.5: A suite of utilities for converting to and working with CSV files
-dev-python/cxoracle 5.3: Python extension module that allows access to Oracle Databases
 dev-python/dataset 1.1.0 1.1.2: Easy-to-use data handling for SQL data stores
 dev-python/dbfread 2.0.7-r1: Read DBF Files with Python
 dev-python/delegator 0.1.1: Subprocesses for Humans 2.0
@@ -359,6 +358,7 @@ dev-python/python-registry 1.2.0: A pure Python module that provides read access
 dev-python/python-secure 0.2.1: Secure headers and cookies for Python web frameworks
 dev-python/python-slugify 3.0.3-r1: A Python Slugify application that handles Unicode
 dev-python/python-whois 0.7.2: Whois querying and parsing of domain registration information
+dev-python/python3-openid 3.1.0: Python 3 port of the python-openid library
 dev-python/pytimeparse 1.1.8: A small Python module to parse various kinds of time expressions
 dev-python/pywerview 0.2.0_p20191115-r1: A Python port of PowerSploit's PowerView
 dev-python/pyzmq 17.1.0 19.0.0: Lightweight and super-fast messaging library built on top of the ZeroMQ library
@@ -376,7 +376,7 @@ dev-python/service_identity 18.1.0-r1: Service identity verification for pyOpenS
 dev-python/shelljob 0.5.6: Run multiple subprocesses asynchronous/in parallel with streamed output
 dev-python/shodan 1.17.0 1.23.0: Python library and command-line utility for Shodan
 dev-python/simplekv 0.14.0: A key-value storage for binary data, support many backends.
-dev-python/social-auth-core 3.2.0: Python social authentication made simple
+dev-python/social-auth-core 3.3.3: Python social authentication made simple
 dev-python/soupsieve 1.9.3: A modern CSS selector implementation for BeautifulSoup
 dev-python/sphinx-autodoc-typehints 1.8.0: Type hints (PEP 484) support for the Sphinx autodoc extension
 dev-python/splinter 0.13.0: tool for testing web applications

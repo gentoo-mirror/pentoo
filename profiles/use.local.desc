@@ -108,6 +108,7 @@ dev-python/ipython:notebook - Install requirements for the web notebook based on
 dev-python/pyinstaller:clang - Support for sys-devel/clang
 dev-python/pyinstaller:leak-detector - Support for link with Boehm garbage collector to detect memory leaks
 dev-python/pyzmq:draft - Enable draft API support
+dev-python/social-auth-core:saml - Use SAML
 dev-python/stegoveritas-binwalk:graph - Enable support for generating entropy graphs
 dev-util/mobsf:genymotion - Add app-emulation/genymotion-bin support
 dev-util/unicorn:unicorn_targets_aarch64 - Use the aarch64 architecture
