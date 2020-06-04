@@ -288,7 +288,6 @@ dev-python/javalang 0.12.0: A pure Python library for working with Java source c
 dev-python/jsbeautifier 1.11.0: Beautify, unpack or deobfuscate JavaScript
 dev-python/json2html 1.3.0-r1: A python module for converting complex JSON oject to HTML Table representation
 dev-python/jsonfield 2.0.2: A reusable Django field that allows you to store validated JSON
-dev-python/kaitaistruct 0.8: Kaitai Struct runtime for Python
 dev-python/ldapdomaindump 0.9.1-r1 0.9.3: Active Directory information dumper via LDAP
 dev-python/leather 0.3.3: Python charting for 80% of humans
 dev-python/litecli 1.1.0-r4 1.3.2: CLI for SQLite Databases with auto-completion and syntax highlighting
@@ -392,7 +391,6 @@ dev-python/tldextract 2.2.1-r1: Accurately separate the TLD from the registered 
 dev-python/tls_parser 1.2.1: Small library to parse TLS records.
 dev-python/tlslite-ng 0.7.5: New home of the TLS implementation in pure python.
 dev-python/torrequest 20181011-r1: Simple Python interface for HTTP(s) requests over Tor
-dev-python/tre-python 0.8.0: Python bidings for TRE library
 dev-python/truffleHogRegexes 20190518: These are the regexes that power trufflehog
 dev-python/validators 0.14.0: Python Data Validation for Humans
 dev-python/vulners 1.5.4 1.5.5: Python API wrapper for the Vulners Database
@@ -652,7 +650,6 @@ net-misc/wireshark-patoolkit 20191029: a collection of traffic analysis Wireshar
 net-misc/wireshark-sap-plugin 0.4.2 0.5.2 0.6.1 9999: Wireshark plugin for SAP's protocols
 net-misc/wlan2eth 1.3: Wlan2eth is a tool that converts wlan pcap to ethernet-like frames.
 net-proxy/burpsuite 2020.4.1: Interactive proxy for attacking and debugging web applications
-net-proxy/mitmproxy 5.1.1: An interactive, SSL-capable, man-in-the-middle HTTP proxy
 net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal network via reverse connection
 net-proxy/proxenet 0.4.1: A hacker friendly proxy for web application penetration tests.
 net-proxy/proxenet-plugins 9999: Repository for proxenet plugins
