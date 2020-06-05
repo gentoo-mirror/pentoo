@@ -81,7 +81,7 @@ app-forensics/pdfwalker 1.0.0-r1: A GTK frontend to explore the internals of a P
 app-forensics/prochunter 20171111: Linux process hunter
 app-forensics/rdd 3.0.4-r6: A forensic copy program developed at and used by the NFI
 app-forensics/reglookup 1.0.1-r1 9999: An utility for reading and querying Windows NT/2K/XP registries
-app-forensics/rekall-core 9999: Rekall Memory Forensic Framework
+app-forensics/rekall-core 1.7.1: Rekall Memory Forensic Framework
 app-forensics/rekall-gui 1.7.1: Rekall Memory Forensic Framework
 app-forensics/s3tk 0.3.0 9999: A security toolkit for Amazon S3
 app-forensics/samhain 4.3.3 4.4.0: Advanced file integrity and intrusion detection tool.
@@ -199,6 +199,7 @@ dev-python/PTP 0.4.2-r1: Pentester's Tools Parser
 dev-python/Protego 0.1.16: robots.txt parser with support for modern conventions
 dev-python/PyVirtualDisplay 0.2.5: python wrapper for Xvfb, Xephyr and Xvnc
 dev-python/Scrapy 1.8.0: A high-level Web Crawling and Web Scraping framework
+dev-python/acora 2.0: Fast multi-keyword search engine for text strings
 dev-python/adblockparser 0.7: Parser for Adblock Plus rules
 dev-python/agate 1.6.1-r1: A data analysis library that is optimized for humans instead of machines
 dev-python/agate-dbf 0.2.1-r1: Adds read support for dbf files to agate
@@ -210,6 +211,7 @@ dev-python/aiowinreg 0.0.3: Windows registry file reader
 dev-python/altgraph 0.17: A constructing graphs, BFS and DFS traversals, etc
 dev-python/apkid 2.1.0-r1 2.1.0_p20200522: Android Package Protector Identifier
 dev-python/apng 0.3.3 0.3.4: A Python module to deal with APNG files
+dev-python/artifacts 20200515: Digital Forensics Artifact Repository
 dev-python/asciitree 0.3.3: Draws ASCII trees
 dev-python/asn1crypto 1.3.0: Python ASN.1 library with a focus on performance and a pythonic API
 dev-python/asysocks 0.0.2: Socks5 / Socks4 client and server library
@@ -223,6 +225,7 @@ dev-python/cement 2.10: Application Framework for Python
 dev-python/censys 0.0.8: Python library for interacting with Censys Search Engine (censys.io)
 dev-python/cfscrape 1.9.7 2.0.7 2.1.1: A module to bypass Cloudflare's anti-bot page
 dev-python/cmake-converter 2.0.1: CMake converter for Visual Studio projects
+dev-python/codegen 1.0: Extension to ast that allow ast -> python code generation
 dev-python/config 0.4.0 0.4.2: A hierarchical, easy-to-use, powerful configuration module for Python
 dev-python/coreapi 2.3.3: Python client library for Core API
 dev-python/coreschema 0.0.4: Core Schema
@@ -243,6 +246,7 @@ dev-python/django-statici18n 1.8.3: Django helper for generating Javascript cata
 dev-python/django-webpack-loader 0.6.0: Transparently use webpack with django
 dev-python/django_compressor 2.3: Compresses linked and inline JavaScript or CSS into single cached files
 dev-python/dnslib 0.9.12: Simple library to encode/decode DNS wire-format packets
+dev-python/dotty 1.5: EFILTER query language
 dev-python/dropbox-sdk 9.3.0 9.4.0 10.1.1: A Python SDK for integrating with the Dropbox API v2.
 dev-python/easygui 0.98.1: A module for very simple, very easy GUI programming in Python
 dev-python/editorconfig 0.12.2: EditorConfig File Locator and Interpreter for Python
@@ -263,6 +267,7 @@ dev-python/flask-jwt-extended 3.24.1: An open source Flask extension that provid
 dev-python/flask-restless 0.17.0: A Flask extension for easy ReSTful API generation
 dev-python/flask-security 3.0.0: Simple security for Flask apps
 dev-python/flask-session 0.3.1: Adds server-side session support to your Flask application
+dev-python/flask-sockets 0.2.1: Elegant WebSockets for your Flask apps
 dev-python/fpdf 1.7.2: Simple PDF generation for Python
 dev-python/frida-python 12.8.19 12.9.4: Dynamic instrumentation toolkit for reverse-engineers and security researchers
 dev-python/geoip2-python 3.0.0: Python bindings for GeoIP2
@@ -322,6 +327,7 @@ dev-python/proxy-db 0.2.5: Manage free and private proxies on local db for Pytho
 dev-python/psd-tools 1.9.9: Package for working with Adobe Photoshop PSD files
 dev-python/py2neo 3.1.2 4.3.0-r1: A simple and pragmatic library which accesses the Neo4j graph database
 dev-python/pyDes 2.0.1: Pure python implementation of DES and TRIPLE DES encryption algorithm
+dev-python/pyaff4 0.27: Python Advanced Forensic Format Version 4 library
 dev-python/pyaxmlparser 0.3.24: Parser for Android XML file and get Application Name without using Androguard
 dev-python/pybonjour 1.1.1: Python interface to Apple Bonjour and compatible DNS-SD libraries (Avahi)
 dev-python/pycryptodomex 3.9.6 3.9.7: A self-contained cryptographic library for Python
