@@ -79,7 +79,6 @@ app-forensics/pdf-parser 0.7.4: This tool will parse a PDF document to identify 
 app-forensics/pdfid 0.2.6 0.2.7: This tool will scan a PDF document looking for certain keyword
 app-forensics/pdfwalker 1.0.0-r1: A GTK frontend to explore the internals of a PDF document with Origami
 app-forensics/prochunter 20171111: Linux process hunter
-app-forensics/rdd 3.0.4-r6: A forensic copy program developed at and used by the NFI
 app-forensics/reglookup 1.0.1-r1 9999: An utility for reading and querying Windows NT/2K/XP registries
 app-forensics/rekall-core 1.7.1: Rekall Memory Forensic Framework
 app-forensics/rekall-gui 1.7.1: Rekall Memory Forensic Framework
@@ -656,6 +655,7 @@ net-misc/wireshark-patoolkit 20191029: a collection of traffic analysis Wireshar
 net-misc/wireshark-sap-plugin 0.4.2 0.5.2 0.6.1 9999: Wireshark plugin for SAP's protocols
 net-misc/wlan2eth 1.3: Wlan2eth is a tool that converts wlan pcap to ethernet-like frames.
 net-proxy/burpsuite 2020.4.1: Interactive proxy for attacking and debugging web applications
+net-proxy/mitmproxy 5.1.1: An interactive, SSL-capable, man-in-the-middle HTTP proxy
 net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal network via reverse connection
 net-proxy/proxenet 0.4.1: A hacker friendly proxy for web application penetration tests.
 net-proxy/proxenet-plugins 9999: Repository for proxenet plugins
@@ -767,7 +767,7 @@ pentoo/pentoo-database 2018.3: Pentoo database attack meta ebuild
 pentoo/pentoo-desktop 2020.0: Pentoo meta ebuild to install all X and WM/DE related things
 pentoo/pentoo-exploit 2020.0-r1: Pentoo exploit meta ebuild
 pentoo/pentoo-footprint 2020.1: Pentoo footprint meta ebuild
-pentoo/pentoo-forensics 2020.1-r2: Pentoo forensics meta ebuild
+pentoo/pentoo-forensics 2020.1-r3: Pentoo forensics meta ebuild
 pentoo/pentoo-forging 2019.2-r1: Pentoo forging meta ebuild
 pentoo/pentoo-fuzzers 2020.1: Pentoo fuzzers meta ebuild
 pentoo/pentoo-gnome 2.32.1-r3: Meta package for the GNOME desktop, merge this package to install
