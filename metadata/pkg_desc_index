@@ -335,7 +335,7 @@ dev-python/pygeoif 0.7: A basic implementation of the __geo_interface__
 dev-python/pygexf 0.2.2: A python library to generate gexf file format
 dev-python/pygtail 0.11.0: Reads log file lines that have not been read
 dev-python/pyhunter 1.7 9999: An (unofficial) Python wrapper for the Hunter.io API
-dev-python/pyinstaller 3.6: Program converting Python programs into stand-alone executables
+dev-python/pyinstaller 3.6-r1: Program converting Python programs into stand-alone executables
 dev-python/pyjsparser 2.5.2 2.7.1: Fast javascript parser (based on esprima.js)
 dev-python/pylnk3 0.3.0: Python library for reading and writing Windows shortcut files
 dev-python/pyminifier 2.1 2.1_p20150625: Pyminifier is a Python code minifier, obfuscator, and compressor.
@@ -511,7 +511,7 @@ net-analyzer/cisco-scanner 1.3: scan a network for cisco routers with default pa
 net-analyzer/cisco-torch 0.4b: Cisco mass scanning, fingerprinting, and exploitation tool
 net-analyzer/commix 3.1_pre20200504: Automated All-in-One OS command injection and exploitation tool
 net-analyzer/cottontail 20190426-r1: Capture all RabbitMQ messages being sent through a broker
-net-analyzer/crackmapexec 5.0.1 5.0.1_p20200430 5.0.2: A swiss army knife for pentesting Windows/Active Directory environments
+net-analyzer/crackmapexec 5.0.1 5.0.1_p20200430 5.0.2-r1: A swiss army knife for pentesting Windows/Active Directory environments
 net-analyzer/davtest 1.0: tests WebDAV enabled servers
 net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden content
 net-analyzer/dirble-bin 1.3.1 1.4.2: Fast directory scanning and scraping tool
