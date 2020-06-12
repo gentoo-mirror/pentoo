@@ -153,7 +153,6 @@ dev-java/jd-core 1.0.5 1.0.6: JD-Core is a JAVA decompiler written in JAVA
 dev-java/jgraphx 2.1.1.2 4.0.6: Open-source graph component for Java
 dev-java/msgpack 0.5.1 0.6.12 0.8.16: MessagePack for Java is a binary-based efficient object serialization library
 dev-java/sleep 2.1-r1: Duct Tape for the Java platform
-dev-java/swt 4.10-r1: GTK based SWT Library
 dev-lang/powershell-bin 6.2.5 7.0.2: A cross-platform automation and configuration tool/framework
 dev-libs/LeechCore 1.5 1.6 1.7: Direct Memory Access (DMA) Attack Software
 dev-libs/hashdb 3.1.0-r1: The hashdb block hash database tool and API
@@ -463,10 +462,10 @@ dev-util/electron-bin 6.0.11: Cross platform application development framework b
 dev-util/electron-packager 14.2.1: Six Degrees of Domain Admin
 dev-util/emilpro 3_p20170708 3_p20180111: Graphical disassembler for a large number of instruction sets
 dev-util/frida-tools 7.2.0 7.2.2: Frida CLI tools
-dev-util/ghidra 9.1.1 9.1.2: A software reverse engineering framework
+dev-util/ghidra 9.1.2-r1: A software reverse engineering framework
 dev-util/hexd 1.10: Eric Raymond's hex dumper
 dev-util/jadx-bin 1.0.0 1.1.0: A standalone graphical utility that displays Java source codes of .class file
-dev-util/jd-gui 1.6.3 1.6.5 1.6.6: A standalone Java Decompiler GUI
+dev-util/jd-gui 1.6.6-r1: A standalone Java Decompiler GUI
 dev-util/jnitrace 3.0.8: A Frida based tool that traces usage of the JNI API in Android apps.
 dev-util/lida 03.00.00: interactive ELF disambler
 dev-util/lief 0.10.1: Library to instrument executable formats
