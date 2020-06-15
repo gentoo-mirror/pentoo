@@ -391,7 +391,7 @@ dev-python/symmetricjsonrpc 0.1.0: A more beautiful JSON-RPC implemenation in py
 dev-python/syslog-rfc5424-formatter 1.1.1 1.2.2: Logging formatter which produces well-formatted RFC5424 Syslog Protocol messages
 dev-python/text-unidecode 1.3: The most basic Text::Unidecode port
 dev-python/tldextract 2.2.1-r1: Accurately separate the TLD from the registered domain and subdomains
-dev-python/tls_parser 1.2.1: Small library to parse TLS records.
+dev-python/tls_parser 1.2.1 1.2.2: Small library to parse TLS records.
 dev-python/tlslite-ng 0.7.5: New home of the TLS implementation in pure python.
 dev-python/torrequest 20181011-r1: Simple Python interface for HTTP(s) requests over Tor
 dev-python/truffleHogRegexes 20190518: These are the regexes that power trufflehog
@@ -588,7 +588,7 @@ net-analyzer/sn0int 0.16.0 0.17.1 0.18.2: Semi-automatic OSINT framework and pac
 net-analyzer/sniffglue 0.10.1: Secure multithreaded packet sniffer
 net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
 net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
-net-analyzer/sslyze 3.0.5 3.0.6: Fast and full-featured SSL scanner
+net-analyzer/sslyze 3.0.5 3.0.7: Fast and full-featured SSL scanner
 net-analyzer/subfinder 2.3.3 2.3.4: A subdomain discovery tool that discovers valid subdomains for websites
 net-analyzer/subjack 2.1: Subdomain Takeover tool written in Go
 net-analyzer/sublert 1.4.7_p20200103: Monitor new subdomains deployed by specific organizations and issued TLS/SSL certificate
