@@ -156,6 +156,7 @@ dev-java/sleep 2.1-r1: Duct Tape for the Java platform
 dev-lang/powershell-bin 6.2.5 7.0.2: A cross-platform automation and configuration tool/framework
 dev-libs/LeechCore 1.5 1.6 1.7: Direct Memory Access (DMA) Attack Software
 dev-libs/hashdb 3.1.0-r1: The hashdb block hash database tool and API
+dev-libs/keystone 0.9.1-r1: assembly/assembler framework + bindings
 dev-libs/libcdata 20180102 20180724 20181216 20190112: Library for cross-platform C generic data functions
 dev-libs/libcdatetime 20170609 20181004: Library for cross-platform C date and time functions
 dev-libs/libcerror 20181117 20191112: Library for cross-platform C error functions
