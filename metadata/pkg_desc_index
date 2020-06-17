@@ -541,7 +541,6 @@ net-analyzer/gvm 11.0.0-r5: Greenbone Vulnerability Management, OpenVAS
 net-analyzer/gvm-libs 11.0.0 11.0.1: Greenbone vulnerability management libraries, previously named openvas-libraries
 net-analyzer/gvm-tools 2.0.0 2.1.0: Remote control for Greenbone Vulnerability Manager, previously named openvas-cli
 net-analyzer/gvmd 9.0.0-r8 9.0.1: Greenbone vulnerability manager, previously named openvas-manager
-net-analyzer/ham2mon 20170603: A GNU Radio (GR) based SDR scanner with a Curses interface.
 net-analyzer/httprint 301: HTTP fingerprinter tool
 net-analyzer/hyenae 0.36.1: a highly flexible packet generator
 net-analyzer/ifchk 1.1.1: A network interface promiscuous mode detection tool
