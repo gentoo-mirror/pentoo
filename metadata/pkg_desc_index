@@ -150,7 +150,6 @@ dev-go/pflag 1.0.3: Drop-in replacement for Go's flag package
 dev-go/robotstxt-go 20170603 20180810: The robots.txt exclusion protocol implementation
 dev-go/uuid 1.1.0 1.1.1: A UUID package for Go.
 dev-go/websocket 1.2.0 1.4.0: Go implementation of the WebSocket protocol
-dev-java/javahelp 2.0.05_p20170719: The JavaHelp system online help system
 dev-java/jd-core 1.0.6: JD-Core is a JAVA decompiler written in JAVA
 dev-java/jgraphx 2.1.1.2 4.0.6: Open-source graph component for Java
 dev-java/msgpack 0.5.1 0.6.12 0.8.16: MessagePack for Java is a binary-based efficient object serialization library
