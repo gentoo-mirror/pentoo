@@ -99,6 +99,7 @@ app-fuzz/protos-bin:snmp - Include SNMP
 app-misc/freediag:gui - Enable scangui using x11-libs/fltk library
 app-misc/mat2:dolphin - Enable dolphin extension
 app-misc/mat2:nautilus - Enable nautilus extension
+dev-go/gopacket:pfring - Add PF_RING support, a high-performance packet capture library
 dev-libs/libvhdi:fuse - Enable fuse support
 dev-libs/libvmdk:fuse - Enable fuse support
 dev-libs/qbdi:tools - Enable advanced tools
