@@ -108,14 +108,19 @@ dev-libs/openssl-bad:sslv2 - Compile with sslv2
 dev-libs/openssl-bad:sslv3 - Compile with sslv3
 dev-libs/openssl-bad:tls-heartbeat - Compile with tls-heartbeat
 dev-libs/qbdi:tools - Enable advanced tools
+dev-python/django-constance-haiwen:database - Add django-picklefield support
+dev-python/django-constance-haiwen:redis - Add django-redis support
 dev-python/ipython:matplotlib - Add support for dev-python/matplotlib
 dev-python/ipython:nbconvert - Enable support for converting notebooks to various formats using app-text/pandoc
 dev-python/ipython:notebook - Install requirements for the web notebook based on www-servers/tornado
 dev-python/pyinstaller:clang - Support for sys-devel/clang
 dev-python/pyinstaller:leak-detector - Support for link with Boehm garbage collector to detect memory leaks
+dev-python/pypsrp:credssp - Add CredSSP support
 dev-python/pyzmq:draft - Enable draft API support
 dev-python/social-auth-core:saml - Use SAML
 dev-python/stegoveritas-binwalk:graph - Enable support for generating entropy graphs
+dev-python/whitenoise:brotli - Add Brotli support
+dev-python/yara-python:dex - Add dex module debugging support
 dev-util/mobsf:genymotion - Add app-emulation/genymotion-bin support
 dev-util/unicorn:unicorn_targets_aarch64 - Use the aarch64 architecture
 dev-util/unicorn:unicorn_targets_arm - Use the arm architecture
