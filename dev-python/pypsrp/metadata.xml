@@ -6,6 +6,6 @@
 		<name>Proxy Maintainers</name>
 	</maintainer>
 	<use>
-		<flag name="dex">Add dex module debugging support</flag>
+		<flag name="credssp">Add CredSSP support</flag>
 	</use>
 </pkgmetadata>

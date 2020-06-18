@@ -6,6 +6,7 @@
 		<name>Proxy Maintainers</name>
 	</maintainer>
 	<use>
-		<flag name="dex">Add dex module debugging support</flag>
+		<flag name="database">Add django-picklefield support</flag>
+		<flag name="redis">Add django-redis support</flag>
 	</use>
 </pkgmetadata>
