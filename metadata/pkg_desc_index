@@ -128,7 +128,6 @@ dev-db/sqlmap 1.4.5 1.4.6 9999: An automatic SQL injection and database takeover
 dev-db/sqlsus 0.7.2: MySQL injection and takeover tool
 dev-embedded/libmpsse 1.3_p20160602 1.3.2: Open source library for SPI/I2C control via FTDI chips
 dev-embedded/mphidflash 1.6 1.8: Tool for communicating with the USB-Bootloader in PIC microcontrollers
-dev-go/cascadia 1.1.0: CSS selector library in Go
 dev-go/cobra 0.0.5: A Commander for modern Go CLI interactions
 dev-go/fetchbot 1.1.2: Simple, flexible web crawler that follows robots.txt policies and crawl delays
 dev-go/go-cve-dictionary 0.4.0: Build a local copy of CVE (NVD and Japanese JVN). Server mode for easy querying
@@ -138,7 +137,6 @@ dev-go/go-multierror 20180717 20180824: A Go (golang) package for representing a
 dev-go/gopacket 1.1.14 1.1.15: Provides packet processing capabilities for Go
 dev-go/gopacket-pfring 1.1.14 1.1.15: Package pfring wraps the PF_RING C library for Go.
 dev-go/gopkg-sourcemap 1.0.5 2.1.3: Source maps consumer for Golang
-dev-go/goquery 1.5.0-r1: A little like that j-thing
 dev-go/gost 0.1.2-r1: Build a local copy of Security Tracker. Notify via Email if there is an update
 dev-go/goval-dictionary 0.2.2-r1: Build a local copy of OVAL. Server mode for easy querying
 dev-go/mux 1.6.2: A powerful URL router and dispatcher for golang
@@ -529,7 +527,7 @@ net-analyzer/geoedge 0.2-r2: This little tools is designed to get geolocalizatio
 net-analyzer/geoipgen 0.4: Generate a list of hostnames based on country
 net-analyzer/gitgraber 20191002: Tool to scan for sensitive information within public GitHub repositories
 net-analyzer/gitrob 2.0.0_beta-r1: Reconnaissance tool for GitHub organizations
-net-analyzer/go-webanalyze 20190705: Port of Wappalyzer (uncovers technologies used on websites) in Go to automate scanning
+net-analyzer/go-webanalyze 20190705: Port of Wappalyzer in Go to automate scanning
 net-analyzer/gobuster 3.0.1-r3: A tool to brute-force URIs and DNS subdomains
 net-analyzer/greenbone-security-assistant 9.0.0-r1 9.0.1: Greenbone Security Assistant
 net-analyzer/gvm 11.0.0-r5: Greenbone Vulnerability Management, OpenVAS
