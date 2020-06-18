@@ -6,10 +6,6 @@
 		<name>Proxy Maintainers</name>
 	</maintainer>
 	<use>
-		<flag name="asm">Compile with asm</flag>
-		<flag name="rfc3779">Compile with rfc3779</flag>
-		<flag name="sslv2">Compile with sslv2</flag>
-		<flag name="sslv3">Compile with sslv3</flag>
-		<flag name="tls-heartbeat">Compile with tls-heartbeat</flag>
+		<flag name="winapi">Install winapi</flag>
 	</use>
 </pkgmetadata>
