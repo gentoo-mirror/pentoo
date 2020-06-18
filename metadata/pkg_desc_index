@@ -173,7 +173,6 @@ dev-libs/unicorn-bindings 1.0.2_rc2: Unicorn bindings
 dev-perl/Encoding-BER 1.02: Perl module for encoding/decoding data using ASN.1 Basic Encoding Rules (BER)
 dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
 dev-perl/Tie-CharArray 1.00: Manipulate perl strings through tied array
-dev-php/evalhook 0.1: Decode/Deobfuscate PHP Scripts
 dev-python/EasyProcess 0.2.7: Easy to use python subprocess interface
 dev-python/Flask-KVSession 0.6.2: Transparent server-side session support for flask
 dev-python/IP2Location 8.4.1: Python API for IP2Location database
@@ -290,7 +289,7 @@ dev-python/minikerberos 0.2.0 0.2.1: Kerberos manipulation library in pure Pytho
 dev-python/mitm6 0.2.2: pwning IPv4 via IPv6
 dev-python/mockito 1.2.0: Spying framework based on Mockito java library
 dev-python/msldap 0.2.14: Python library to play with MS LDAP
-dev-python/msoffcrypto-tool 4.10.1: Python tool & library for decrypting MS Office files with passwords or other keys
+dev-python/msoffcrypto-tool 4.10.1: Decrypting MS Office files with passwords or other keys
 dev-python/nassl 3.0.0-r1: Experimental OpenSSL wrapper for Python 3.6+ and SSLyze
 dev-python/neo4j 1.7.6: Neo4j Bolt driver for Python
 dev-python/neobolt 1.7.17: Neo4j Bolt Connector for Python
