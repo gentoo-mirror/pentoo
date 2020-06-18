@@ -1,4 +1,5 @@
 acct-group/neo4j 0: Group for neo4j-community
+acct-group/solaar 0: Group for Solaar
 acct-group/sonar 0: Group for SonarQube
 acct-group/spiderfoot 0: Group for SpiderFoot
 acct-group/vuls 0: Group for Vuls
