@@ -11,7 +11,7 @@ LICENSE="GPL-3"
 SRC_URI="http://dev.pentoo.ch/~zero/distfiles/pentoo-grubtheme.tar.xz"
 
 IUSE_VIDEO_CARDS="video_cards_nvidia video_cards_virtualbox video_cards_vmware"
-IUSE="+2fa gui livecd livecd-stage1 pax_kernel pentoo-extra pentoo-full qemu windows-compat +X ${IUSE_VIDEO_CARDS}"
+IUSE="+2fa livecd livecd-stage1 pax_kernel pentoo-extra pentoo-full qemu windows-compat +X ${IUSE_VIDEO_CARDS}"
 
 S="${WORKDIR}"
 
@@ -50,7 +50,7 @@ PDEPEND="${PDEPEND}
 		sys-boot/os-prober
 		sys-boot/syslinux
 		sys-boot/efibootmgr )
-	2fa? ( gui? ( app-crypt/yubikey-manager-qt
+	2fa? ( X? ( app-crypt/yubikey-manager-qt
 		sys-auth/yubikey-personalization-gui
 			)
 		app-crypt/yubikey-manager
@@ -82,6 +82,8 @@ PDEPEND="${PDEPEND}
 	app-editors/vim
 	app-misc/screen
 	app-portage/smart-live-rebuild
+	media-fonts/fira-code
+	media-fonts/fira-sans
 	media-sound/alsa-utils
 	net-dialup/ppp
 	net-firewall/iptables
