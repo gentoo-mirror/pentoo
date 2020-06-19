@@ -379,7 +379,7 @@ dev-python/tldextract 2.2.1-r1: Accurately separate the TLD from the registered 
 dev-python/tls_parser 1.2.1 1.2.2: Small library to parse TLS records.
 dev-python/tlslite-ng 0.7.5: New home of the TLS implementation in pure python.
 dev-python/torrequest 20181011-r1: Simple Python interface for HTTP(s) requests over Tor
-dev-python/truffleHogRegexes 20190518: These are the regexes that power trufflehog
+dev-python/truffleHogRegexes 20190518-r1: These are the regexes that power trufflehog
 dev-python/validators 0.14.0: Python Data Validation for Humans
 dev-python/vulners 1.5.4 1.5.5: Python API wrapper for the Vulners Database
 dev-python/w3lib 1.20.0: Library of web-related functions
