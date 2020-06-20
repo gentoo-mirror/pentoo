@@ -419,7 +419,7 @@ dev-ruby/louis 2.2.3: Lookup mac address assignments in the iana database
 dev-ruby/memory_profiler 0.9.14: Memory profiling routines for Ruby 2.1+
 dev-ruby/mini_exiftool 2.10.0: wrapper for exiftool
 dev-ruby/msfrpc-client 1.1.2: Ruby client API to access the Rapid7 Metasploit Pro RPC service
-dev-ruby/nokogiri 1.10.8: Nokogiri is an HTML, XML, SAX, and Reader parser
+dev-ruby/nokogiri 1.10.9: Nokogiri is an HTML, XML, SAX, and Reader parser
 dev-ruby/opt_parse_validator 1.8.2 1.9.0: OptionParser lib in ruby
 dev-ruby/orm_adapter 0.5.0: Provides a single point of entry for using basic features of ruby ORMs
 dev-ruby/otr-activerecord 1.4.1: Off The Rails ActiveRecord: Use ActiveRecord with Grape, Sinatra, Rack
