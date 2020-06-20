@@ -209,7 +209,6 @@ dev-python/cfscrape 1.9.7 2.0.7 2.1.1: A module to bypass Cloudflare's anti-bot 
 dev-python/cmake-converter 2.0.1: CMake converter for Visual Studio projects
 dev-python/codegen 1.0: Extension to ast that allow ast -> python code generation
 dev-python/config 0.4.0 0.4.2: A hierarchical, easy-to-use, powerful configuration module for Python
-dev-python/coreapi 2.3.3: Python client library for Core API
 dev-python/coreschema 0.0.4: Core Schema
 dev-python/csvkit 1.0.4-r1 1.0.5: A suite of utilities for converting to and working with CSV files
 dev-python/dataset 1.1.0 1.1.2: Easy-to-use data handling for SQL data stores
@@ -218,15 +217,13 @@ dev-python/delegator 0.1.1: Subprocesses for Humans 2.0
 dev-python/dhcplib 0.1.1: Pure-Python, spec-compliant DHCP-packet-processing library
 dev-python/django-constance-haiwen 20180515: Django live settings with pluggable backends, including Redis
 dev-python/django-formtools 2.1: A set of high-level abstractions for Django forms
-dev-python/django-guardian 1.5.1: Implementation of per object permissions for Django 1.2+
-dev-python/django-oauth-toolkit 1.1.3 1.2.0: OAuth2 goodies for the Djangonauts
 dev-python/django-post_office-haiwen 20180914: A Django app to monitor and send mail asynchronously
 dev-python/django-pylibmc 0.6.1: Django cache backend using pylibmc
 dev-python/django-ranged-response 0.2.0: Django FileResponse that adds Content-Range headers
 dev-python/django-simple-captcha 0.5.12: A very simple, yet powerful, Django captcha application
 dev-python/django-statici18n 1.8.3: Django helper for generating Javascript catalog to static files
 dev-python/django-webpack-loader 0.6.0: Transparently use webpack with django
-dev-python/django_compressor 2.3: Compresses linked and inline JavaScript or CSS into single cached files
+dev-python/django_compressor 2.4: Compresses linked and inline JavaScript or CSS into single cached files
 dev-python/dnslib 0.9.12: Simple library to encode/decode DNS wire-format packets
 dev-python/dotty 1.5: EFILTER query language
 dev-python/dropbox-sdk 9.3.0 9.4.0 10.1.1: A Python SDK for integrating with the Dropbox API v2.
@@ -263,9 +260,7 @@ dev-python/htmlentities 0.3.0: Easy-to-use data handling for SQL data stores
 dev-python/http-tools 1.1.0: Capture, repeat and live intercept HTTP requests
 dev-python/hupper 1.9.1: Integrated process monitor for developing and reloading daemons
 dev-python/impacket 0.9.21-r1 0.9.21-r2 9999: A collection of Python classes focused on providing access to network packets
-dev-python/interfax 1.0.0: InterFAX Python Package
 dev-python/invoke 1.4.1: Pythonic task execution
-dev-python/ipaddr 2.2.0: Python IP address manipulation library
 dev-python/ipparser 0.3.5: Parse IP address information
 dev-python/ipwhois 1.0.0: Retrieve and parse whois data for IPv4 and IPv6 addresses
 dev-python/ipython 7.13.0: Advanced interactive shell for Python
@@ -283,7 +278,7 @@ dev-python/macholib 1.11 1.14: A package is a collection of utilities for dealin
 dev-python/marshmallow-sqlalchemy 0.15.0 0.21.0: SQLAlchemy integration with the marshmallow (de)serialization library
 dev-python/matlink-gpapi 0.4.4.5: Unofficial python api for google play
 dev-python/maxminddb 1.5.2: A Python module for reading MaxMind DB files
-dev-python/mechanize 0.4.3: Stateful programmatic web browsing in Python
+dev-python/mechanize 0.4.5: Stateful programmatic web browsing in Python
 dev-python/minidump 0.0.12 0.0.13: parse Windows minidump file format
 dev-python/minikerberos 0.2.0 0.2.1: Kerberos manipulation library in pure Python
 dev-python/mitm6 0.2.2: pwning IPv4 via IPv6
@@ -311,7 +306,6 @@ dev-python/py2neo 3.1.2 4.3.0-r1: A simple and pragmatic library which accesses 
 dev-python/pyDes 2.0.1: Pure python implementation of DES and TRIPLE DES encryption algorithm
 dev-python/pyaff4 0.27: Python Advanced Forensic Format Version 4 library
 dev-python/pyaxmlparser 0.3.24: Parser for Android XML file and get Application Name without using Androguard
-dev-python/pybonjour 1.1.1: Python interface to Apple Bonjour and compatible DNS-SD libraries (Avahi)
 dev-python/pycryptodomex 3.9.6 3.9.7: A self-contained cryptographic library for Python
 dev-python/pydispatcher 2.0.5: Multi-producer-multi-consumer signal dispatching mechanism
 dev-python/pygeoif 0.7: A basic implementation of the __geo_interface__
@@ -324,7 +318,6 @@ dev-python/pylnk3 0.3.0: Python library for reading and writing Windows shortcut
 dev-python/pyminifier 2.1 2.1_p20150625: Pyminifier is a Python code minifier, obfuscator, and compressor.
 dev-python/pymisp 2.4.117 2.4.122 2.4.124: A python library for using the MISP Rest API
 dev-python/pymodbus 2.1.0: A fully featured modbus protocol stack in python
-dev-python/pynetfilter_conntrack 0.4.2: Python binding of libnetfilter_conntrack
 dev-python/pypcapfile 0.12.0: Pure Python package for reading and parsing libpcap savefiles
 dev-python/pyppeteer 0.0.25: Headless chrome/chromium automation library
 dev-python/pypsrp 0.4.0: PowerShell Remoting Protocol and WinRM for Python
@@ -337,10 +330,8 @@ dev-python/python-gvm 1.1.0 1.5.0: Library to communicate with remote servers ov
 dev-python/python-iptools 0.7.0: A package is a collection of utilities for dealing with IP addresses
 dev-python/python-libnmap 0.7.0: A python library enabling python developers to manipulate nmap process and data
 dev-python/python-nmap 0.6.1: a python library which helps in using nmap port scanner
-dev-python/python-oauth2 1.1.0-r1 1.1.1: OAuth 2.0 provider for python
 dev-python/python-pptx 0.6.18: Create Open XML PowerPoint documents in Python
 dev-python/python-ptrace 0.9.4: A Python binding of ptrace library
-dev-python/python-registry 1.2.0: A pure Python module that provides read access to Windows Registry files
 dev-python/python-secure 0.2.1: Secure headers and cookies for Python web frameworks
 dev-python/python-slugify 3.0.3-r1: A Python Slugify application that handles Unicode
 dev-python/python-whois 0.7.2: Whois querying and parsing of domain registration information
@@ -367,12 +358,11 @@ dev-python/soupsieve 1.9.3: A modern CSS selector implementation for BeautifulSo
 dev-python/sphinx-autodoc-typehints 1.8.0: Type hints (PEP 484) support for the Sphinx autodoc extension
 dev-python/splinter 0.13.0: tool for testing web applications
 dev-python/spry 0.5.5: social media scanner
-dev-python/sqlalchemy_mixins 1.1: Active Record, Django-like queries
+dev-python/sqlalchemy_mixins 1.2.1: Active Record, Django-like queries
 dev-python/sqlalchemy_schemadisplay 1.3: Turn SQLAlchemy DB Model into a graph
 dev-python/stegoveritas-binwalk 2.1.2: Binwalk release specifically for stegoveritas
 dev-python/stegoveritas-pfp 0.2.3: An 010 template interpreter for Python
 dev-python/stegoveritas-py010parser 0.1.10: A modified pycparser to parse 010 templates
-dev-python/symmetricjsonrpc 0.1.0: A more beautiful JSON-RPC implemenation in python
 dev-python/syslog-rfc5424-formatter 1.1.1 1.2.2: Logging formatter which produces well-formatted RFC5424 Syslog Protocol messages
 dev-python/text-unidecode 1.3: The most basic Text::Unidecode port
 dev-python/tldextract 2.2.1-r1: Accurately separate the TLD from the registered domain and subdomains
@@ -392,7 +382,7 @@ dev-python/winsspi 0.0.5 0.0.7 0.0.9: Windows SSPI library in pure Python
 dev-python/yamllint 1.21.0: A linter for YAML files
 dev-python/yara-python 4.0.0 4.0.1 4.0.1-r2: Python interface for a malware identification and classification tool
 dev-python/yaswfp 0.9.3: Yet Another SWF Parser.
-dev-python/zap-api-python 0.0.9 0.0.14: OWASP ZAP Python API
+dev-python/zap-api-python 0.0.15: OWASP ZAP Python API
 dev-python/zlib_wrapper 0.1.3: Wrapper around zlib with custom header crc32.
 dev-qt/qtserialport 5.14.2 5.15.0: Serial port abstraction library for the Qt5 framework
 dev-ruby/activerecord-session_store 1.1.3: An Action Dispatch session store backed by an Active Record class
@@ -810,7 +800,6 @@ sys-libs/libkudzu 1.2.85.1: Red Hat Hardware detection tools
 sys-power/acpid 2.0.32-r1: Daemon for Advanced Configuration and Power Interface
 virtual/linux-sources 3-r104: Virtual for Linux kernel sources
 www-apps/BloodHound 3.0.4: Six Degrees of Domain Admin
-www-apps/Tiredful-API 9999: An intentionally designed broken web application based on REST API
 www-apps/beef 0.5.0.0: Browser exploitation framework
 www-apps/faraday 3.10.0: Integrated Penetration-Test Environment is a multiuser Penetration test IDE
 www-apps/geckodriver 0.23.0: Proxy for using WebDriver clients to interact with Gecko-based browsers.
