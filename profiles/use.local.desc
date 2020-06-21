@@ -121,7 +121,17 @@ dev-python/social-auth-core:saml - Use SAML
 dev-python/stegoveritas-binwalk:graph - Enable support for generating entropy graphs
 dev-python/whitenoise:brotli - Add Brotli support
 dev-python/yara-python:dex - Add dex module debugging support
+dev-util/apktool:sdk - Add Android SDK support
+dev-util/catalyst:ccache - Add ccache support
+dev-util/catalyst:iso - Add ISO support
+dev-util/catalyst:system-bootloader - Add bootloader support
 dev-util/mobsf:genymotion - Add app-emulation/genymotion-bin support
+dev-util/objection:patchapk - Add support to patch APKs
+dev-util/qark:exploit - Add support for generating exploit APKs
+dev-util/recaf-bin:system-openjfx - Add OpenJFX support
+dev-util/redasm:database - Add REDasm database support
+dev-util/retdec:system-libs - Use system libraries
+dev-util/sonarscanner-bin:embedded_jre - Install embedded JRE
 dev-util/unicorn:unicorn_targets_aarch64 - Use the aarch64 architecture
 dev-util/unicorn:unicorn_targets_arm - Use the arm architecture
 dev-util/unicorn:unicorn_targets_m68k - Use the m68k architecture
