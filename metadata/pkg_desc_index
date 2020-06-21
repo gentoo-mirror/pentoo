@@ -415,7 +415,6 @@ dev-ruby/orm_adapter 0.5.0: Provides a single point of entry for using basic fea
 dev-ruby/otr-activerecord 1.4.1: Off The Rails ActiveRecord: Use ActiveRecord with Grape, Sinatra, Rack
 dev-ruby/parseconfig 1.0.8: Provides simple parsing of standard *nix style config files.
 dev-ruby/popper_js 1.16.0: Popper.js assets as a Ruby gem
-dev-ruby/postgres_ext 3.0.1: Native PostgreSQL data types and querying extensions for ActiveRecord and Arel
 dev-ruby/rex 2.0.13: A variety of classes useful for security testing and exploit development
 dev-ruby/ruby-gtkhex 0.2.0: A hexadecimal widget using gtk2, inspired by GHex
 dev-ruby/sablon 0.3.2: Document template processor of Microsoft XML format (docx)
