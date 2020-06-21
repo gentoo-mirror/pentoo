@@ -138,6 +138,7 @@ dev-util/unicorn:unicorn_targets_m68k - Use the m68k architecture
 dev-util/unicorn:unicorn_targets_mips - Use the mips architecture
 dev-util/unicorn:unicorn_targets_sparc - Use the sparc architecture
 dev-util/unicorn:unicorn_targets_x86 - Use the x86 architecture
+gnome-base/gnome-keyring:ssh-agent - Add SSH agent support
 net-analyzer/greenbone-security-assistant:extras - Pdf results, extra fonts, html docs support
 net-analyzer/gvm:cli - Command Line Interface for OpenVAS Scanner
 net-analyzer/gvm:cron - A cron job to update GVM's vulnerability feeds daily
