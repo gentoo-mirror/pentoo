@@ -1,18 +1,15 @@
-# Copyright 1999-2017 Gentoo Foundation
+# Copyright 1999-2020 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI=6
+EAPI=7
 
 DESCRIPTION="A simple utility to dump all memory of a running process"
-HOMEPAGE="http://lcamtuf.coredump.cx/"
-SRC_URI="http://lcamtuf.coredump.cx/soft/${PN}.tgz"
+HOMEPAGE="https://lcamtuf.coredump.cx/"
+SRC_URI="https://lcamtuf.coredump.cx/soft/${PN}.tgz"
 
 LICENSE="GPL-2"
 SLOT="0"
-KEYWORDS="~x86 ~amd64"
-IUSE=""
-DEPEND=""
-RDEPEND=""
+KEYWORDS="~amd64 ~x86"
 
 S="${WORKDIR}/${PN}"
 
