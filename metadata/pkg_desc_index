@@ -376,7 +376,7 @@ dev-python/webargs 5.5.2: Declarative parsing and validation of HTTP request obj
 dev-python/websocket-client 0.57.0: WebSocket client for python with hybi13 support
 dev-python/websockets 7.0: An implementation of the WebSocket Protocol (RFC 6455 & 7692)
 dev-python/whitenoise 5.0.1: Radically simplified static file serving for WSGI applications
-dev-python/winacl 0.0.2: ACL/ACE/Security Descriptor manipulation library
+dev-python/winacl 0.0.2 0.0.6: ACL/ACE/Security Descriptor manipulation library
 dev-python/winsspi 0.0.5 0.0.7 0.0.9: Windows SSPI library in pure Python
 dev-python/yamllint 1.21.0: A linter for YAML files
 dev-python/yara-python 4.0.0 4.0.1 4.0.1-r2: Python interface for a malware identification and classification tool
@@ -537,7 +537,7 @@ net-analyzer/padbuster 20110928: Automated script for performing Padding Oracle 
 net-analyzer/plecost 9999: Wordpress finger printing tool, retrieve information about the plugins and versions installed
 net-analyzer/polenum 1.6: Extract password policy from a windows machine
 net-analyzer/ppscan 0.3-r1: Port scanner with HTTP and FTP tunneling support
-net-analyzer/pwncat 0.0.23_alpha: netcat with Firewall, IDS/IPS evasion, bind and reverse shell, self-injecting shell and port forwarding magic
+net-analyzer/pwncat 0.1.0: Netcat with IDS/IPS evasion, bind reverse shell and port forwarding magic
 net-analyzer/rdp-sec-check 20181109: Remote Desktop Protocol security settings checker
 net-analyzer/recon-ng 5.0.0-r1 5.0.1 5.1.0 5.1.1 9999: Web Reconnaissance Framework
 net-analyzer/responder 3.0.0.0-r1: LLMNR, NBT-NS and MDNS poisoner, HTTP/SMB/MSSQL/FTP/LDAP rogue authentication
