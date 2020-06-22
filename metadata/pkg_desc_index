@@ -115,7 +115,6 @@ app-misc/freediag 1.08: Free diagnostic software for OBD-II compliant motor vehi
 app-misc/gplaycli 3.26 3.27 3.29: Google Play Downloader via Command line
 app-misc/mat2 0.10.0 0.10.1 0.11.0: A handy tool to trash your metadata
 app-misc/solaar 9999: A Linux device manager for Logitech's Unifying Receiver peripherals
-app-officeext/languagetool 4.6 4.8: Style and Grammar Checker for libreoffice
 app-pda/ideviceinstaller 1.1.0_p20181001 1.1.0_p20190928 1.1.1: A tool to interact with the installation_proxy of an Apple's iDevice
 app-text/cewl 5.4.8.1 5.4.9 9999: A custom word list generator
 app-text/unfurl 0.2.0: Pull out bits of URLs provided on stdin
