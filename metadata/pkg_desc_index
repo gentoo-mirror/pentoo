@@ -384,8 +384,10 @@ dev-python/yaswfp 0.9.3: Yet Another SWF Parser.
 dev-python/zap-api-python 0.0.15: OWASP ZAP Python API
 dev-python/zlib_wrapper 0.1.3: Wrapper around zlib with custom header crc32.
 dev-qt/qtserialport 5.14.2 5.15.0: Serial port abstraction library for the Qt5 framework
+dev-ruby/active_model_serializers 0.10.10: Generate JSON in an object-oriented and convention-driven manner
 dev-ruby/activerecord-session_store 1.1.3: An Action Dispatch session store backed by an Active Record class
 dev-ruby/bootstrap 4.5.0: Bootstrap 4 rubygem for Rails / Sprockets / Hanami / etc
+dev-ruby/case_transform 0.2: Extraction of the key_transform abilities of ActiveModelSerializers
 dev-ruby/ckeditor 5.1.0: Ckeditor 4.x integration gem for rails
 dev-ruby/ckeditor_rails 4.10.0: CKEditor is a javascript library of the WYSIWYG rich-text editor
 dev-ruby/cms_scanner 0.8.6-r1 0.10.0: Framework to provide an easy way to implement CMS Scanners
@@ -409,9 +411,11 @@ dev-ruby/espeak-ruby 1.0.4: A small API for utilizing 'espeak' and 'lame' to cre
 dev-ruby/fastercsv 1.5.5: A complete replacement to the CSV standard library
 dev-ruby/get_process_mem 0.2.5: Get memory usage of a process
 dev-ruby/grape 1.3.3: 
+dev-ruby/grape-active_model_serializers 1.5.2: 
 dev-ruby/hashie-forbidden_attributes 0.1.1: Automatic strong parameter detection with Hashie and Forbidden Attributes
 dev-ruby/iostruct 0.0.4: A Struct that can read/write itself from/to IO-like objects
 dev-ruby/ipaddr 1.2.2: IPAddr provides a set of methods to manipulate an IP address
+dev-ruby/jsonapi-renderer 0.2.2: Efficiently render JSON API documents.
 dev-ruby/louis 2.2.3: Lookup mac address assignments in the iana database
 dev-ruby/memory_profiler 0.9.14: Memory profiling routines for Ruby 2.1+
 dev-ruby/mini_exiftool 2.10.0: wrapper for exiftool
@@ -424,6 +428,7 @@ dev-ruby/otr-activerecord 1.4.1: Off The Rails ActiveRecord: Use ActiveRecord wi
 dev-ruby/parseconfig 1.0.8: Provides simple parsing of standard *nix style config files.
 dev-ruby/popper_js 1.16.0: Popper.js assets as a Ruby gem
 dev-ruby/rack-accept 0.4.5: HTTP Accept, Accept-Charset, Accept-Encoding, and Accept-Language for Ruby/Rack
+dev-ruby/rack-cors 1.1.1: Rack CORS Middleware
 dev-ruby/rex 2.0.13: A variety of classes useful for security testing and exploit development
 dev-ruby/ruby-gtkhex 0.2.0: A hexadecimal widget using gtk2, inspired by GHex
 dev-ruby/sablon 0.3.2: Document template processor of Microsoft XML format (docx)
@@ -806,7 +811,7 @@ www-apps/BloodHound 3.0.4: Six Degrees of Domain Admin
 www-apps/beef 0.5.0.0: Browser exploitation framework
 www-apps/faraday 3.10.0: Integrated Penetration-Test Environment is a multiuser Penetration test IDE
 www-apps/geckodriver 0.23.0: Proxy for using WebDriver clients to interact with Gecko-based browsers.
-www-apps/rda 2.8: Web-based application for effective reporting writing
+www-apps/rda 2.9: Web-based application for effective reporting writing
 www-apps/seafile-pro-server 7.0.14 7.1.4: Meta package for Seafile Pro Edition, file sync share solution
 www-apps/vulsrepo 20190412-r3: VulsRepo is visualized based on the json report output in vuls
 www-misc/firefox-bookmarks 0.3-r1: Firefox bookmarks for the Pento ISO only
