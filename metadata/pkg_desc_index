@@ -440,6 +440,7 @@ dev-util/AndroidProjectCreator-bin 1.3 1.3.1: Decompile an APK to an Android Stu
 dev-util/androguard 3.3.5: Read Android's binary format for XML files (AXML) and a decompiler for DEX
 dev-util/apktool 2.4.1: A tool for reengineering 3rd party, closed, binary Android apps
 dev-util/appmon 0.5: Monitoring and tampering API calls of MacOS and iOS/Android apps
+dev-util/build-tools 30: Android SDK Build Tools
 dev-util/catalyst 3.0.9: Release metatool used for creating releases based on Gentoo Linux
 dev-util/collabreate 0.4.0_p20140528: A plugin for IDA Pro designed to provide collaborative reverse engineering
 dev-util/dependency-check-bin 5.2.4 5.3.2: A utility that detects vulnerabilities in application dependencies
