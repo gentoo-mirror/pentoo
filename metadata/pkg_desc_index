@@ -410,8 +410,8 @@ dev-ruby/dry-types 1.4.0: collection of next-generation Ruby libraries
 dev-ruby/espeak-ruby 1.0.4: A small API for utilizing 'espeak' and 'lame' to create Text-To-Speech mp3 files
 dev-ruby/fastercsv 1.5.5: A complete replacement to the CSV standard library
 dev-ruby/get_process_mem 0.2.5: Get memory usage of a process
-dev-ruby/grape 1.3.3: 
-dev-ruby/grape-active_model_serializers 1.5.2: 
+dev-ruby/grape 1.3.3: A Ruby framework for rapid API development with great conventions
+dev-ruby/grape-active_model_serializers 1.5.2: Provides a Formatter for the Grape API DSL
 dev-ruby/hashie-forbidden_attributes 0.1.1: Automatic strong parameter detection with Hashie and Forbidden Attributes
 dev-ruby/iostruct 0.0.4: A Struct that can read/write itself from/to IO-like objects
 dev-ruby/ipaddr 1.2.2: IPAddr provides a set of methods to manipulate an IP address
