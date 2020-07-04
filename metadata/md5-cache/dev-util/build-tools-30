@@ -1,12 +1,13 @@
 DEFINED_PHASES=install
-DEPEND=sys-libs/ncurses-compat sys-libs/zlib
+DEPEND=ncurses? ( sys-libs/ncurses-compat ) sys-libs/zlib
 DESCRIPTION=Android SDK Build Tools
 EAPI=7
 HOMEPAGE=https://developer.android.com/studio/releases/build-tools
+IUSE=ncurses
 KEYWORDS=~amd64 ~x86
 LICENSE=android
-RDEPEND=sys-libs/ncurses-compat sys-libs/zlib
+RDEPEND=ncurses? ( sys-libs/ncurses-compat ) sys-libs/zlib
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://dl.google.com/android/repository/build-tools_r30-linux.zip
-_md5_=741cd7dbaed9e542389a3e71b177ecf9
+_md5_=ec3f3318f406e3709a4598e8ecc1b4b4
