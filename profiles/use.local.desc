@@ -229,11 +229,3 @@ sys-kernel/compat-drivers:compat_drivers_wifi_wl12xx - COMPAT_DRIVERS_WIFI setti
 sys-kernel/compat-drivers:compat_drivers_wifi_wl18xx - COMPAT_DRIVERS_WIFI setting to build driver for wl18xx wireless cards
 sys-kernel/compat-drivers:compat_drivers_wifi_zd1211rw - COMPAT_DRIVERS_WIFI setting to build driver for zd1211rw wireless cards
 sys-kernel/compat-drivers:injection - Add patches for better wifi injection support
-x11-drivers/nvidia-drivers:X - Install the X.org driver, OpenGL libraries, XvMC libraries, and VDPAU libraries
-x11-drivers/nvidia-drivers:compat - Install non-GLVND libGL for backwards compatibility
-x11-drivers/nvidia-drivers:driver - Install the kernel driver module
-x11-drivers/nvidia-drivers:gtk3 - Install nvidia-settings with support for GTK+ 3
-x11-drivers/nvidia-drivers:kms - Enable support for kernel mode setting (KMS)
-x11-drivers/nvidia-drivers:libglvnd - Use media-libs/libglvnd for dispatch
-x11-drivers/nvidia-drivers:tools - Install additional tools such as nvidia-settings
-x11-drivers/nvidia-drivers:uvm - Install the Unified Memory kernel module (nvidia-uvm) for sharing memory between CPU and GPU in CUDA programs
