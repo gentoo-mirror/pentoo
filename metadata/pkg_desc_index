@@ -116,6 +116,7 @@ app-misc/gplaycli 3.26 3.27 3.29: Google Play Downloader via Command line
 app-misc/mat2 0.10.0 0.10.1 0.11.0: A handy tool to trash your metadata
 app-misc/solaar 9999: A Linux device manager for Logitech's Unifying Receiver peripherals
 app-pda/ideviceinstaller 1.1.0_p20181001 1.1.0_p20190928 1.1.1: A tool to interact with the installation_proxy of an Apple's iDevice
+app-shells/pwsh-bin 7.0.2: PowerShell - binary precompiled for glibc
 app-text/cewl 5.4.8.1 5.4.9 9999: A custom word list generator
 app-text/unfurl 0.2.0: Pull out bits of URLs provided on stdin
 dev-db/mssqlscan 0.8.4: A small multi-threaded tool that scans for Microsoft SQL Servers
@@ -137,7 +138,6 @@ dev-java/jd-core 1.0.6: JD-Core is a JAVA decompiler written in JAVA
 dev-java/jgraphx 2.1.1.2 4.0.6: Open-source graph component for Java
 dev-java/msgpack 0.5.1 0.6.12 0.8.16: MessagePack for Java is a binary-based efficient object serialization library
 dev-java/sleep 2.1-r1: Duct Tape for the Java platform
-dev-lang/powershell-bin 6.2.5 7.0.2: A cross-platform automation and configuration tool/framework
 dev-libs/LeechCore 1.5 1.6 1.7: Direct Memory Access (DMA) Attack Software
 dev-libs/hashdb 3.1.0-r1: The hashdb block hash database tool and API
 dev-libs/keystone 0.9.1-r1: assembly/assembler framework + bindings
