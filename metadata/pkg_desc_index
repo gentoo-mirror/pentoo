@@ -662,7 +662,7 @@ net-wireless/broadcom-firmware-installer 0.1-r3 0.2: Closed Broadcom Commercial 
 net-wireless/bt-audit 0.1.1-r1: A small bluetooth audit suite
 net-wireless/btle-sniffer 0.2 0.2_p20200129: Bluetooth radio packet sniffer/scanner and sender
 net-wireless/btscanner 2.1-r5: A utility for bluetooth scanning and discovery
-net-wireless/bully 1.0.22 1.1 1.1_p20170417 1.1_p20170926: A wifi-protected-setup (WPS) brute force attack tool, similar to reaver
+net-wireless/bully 1.1_p20170926 1.4: A wifi-protected-setup (WPS) brute force attack tool, similar to reaver
 net-wireless/chirp 20200213: Free open-source tool for programming your amateur radio
 net-wireless/cowpatty 4.8-r1: WLAN tools for bruteforcing 802.11 WPA/WPA2 keys
 net-wireless/crda 1.1.0-r1 1.1.1: Central Regulatory Domain Agent for wireless networks.
