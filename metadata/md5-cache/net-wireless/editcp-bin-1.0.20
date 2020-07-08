@@ -5,5 +5,5 @@ KEYWORDS=~amd64
 RDEPEND=dev-libs/libusb:1
 RESTRICT=strip
 SLOT=0
-SRC_URI=https://www.farnsworth.org/dale/codeplug/editcp/downloads/linux/editcp-1.0.16.tar.xz
+SRC_URI=https://www.farnsworth.org/dale/codeplug/editcp/downloads/linux/editcp-1.0.20.tar.xz
 _md5_=41422d9d5279be03d780df9300ecc31d
