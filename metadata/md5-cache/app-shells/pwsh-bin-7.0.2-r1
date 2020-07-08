@@ -4,7 +4,7 @@ EAPI=7
 HOMEPAGE=https://powershell.org/
 KEYWORDS=~amd64 ~arm ~arm64
 LICENSE=MIT
-RDEPEND=>=sys-apps/lsb-release-1.4 >=sys-libs/libunwind-1.1-r1 >=dev-libs/icu-57.1 >=dev-util/lttng-ust-2.8.1 || ( dev-libs/openssl-compat:1.0.0 =dev-libs/openssl-1.0*:0 ) >=net-misc/curl-7.49.0 >=app-crypt/mit-krb5-1.14.2 >=sys-libs/zlib-1.2.8-r1
+RDEPEND=>=sys-apps/lsb-release-1.4 >=sys-libs/libunwind-1.1-r1 >=dev-libs/icu-57.1 >=dev-util/lttng-ust-2.8.1 || ( dev-libs/openssl-compat:1.0.0 =dev-libs/openssl-1.0*:0 ) >=net-misc/curl-7.49.0 >=app-crypt/mit-krb5-1.14.2 sys-libs/pam >=sys-libs/zlib-1.2.8-r1
 SLOT=0
 SRC_URI=amd64? ( https://github.com/PowerShell/PowerShell/releases/download/v7.0.2/powershell-7.0.2-linux-x64.tar.gz ) arm? ( https://github.com/PowerShell/PowerShell/releases/download/v7.0.2/powershell-7.0.2-linux-arm32.tar.gz ) arm64? ( https://github.com/PowerShell/PowerShell/releases/download/v7.0.2/powershell-7.0.2-linux-arm64.tar.gz )
-_md5_=ae2f19b918cf277b787d9fd8c1056c11
+_md5_=fa68135b1a1e8301d33e37afa62ddc94
