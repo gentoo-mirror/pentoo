@@ -771,7 +771,7 @@ pentoo/pentoo-voip 2018.2-r1: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2019.3: Pentoo wireless meta ebuild
 pentoo/tribe 2012.0: Tribe meta ebuild
 pentoo/wctf-client 2020.1-r3: Packages needed to power the client NUC for WCTF events
-pentoo/zero-system 2020.2-r2: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
+pentoo/zero-system 2020.2-r3: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
 sci-electronics/litedram 20180514: Small footprint and configurable DRAM core
 sci-electronics/liteeth 20180301 20180719: Small footprint and configurable Ethernet core
 sci-electronics/litepcie 20180530: Small footprint and configurable PCIe core
@@ -802,7 +802,7 @@ sys-kernel/kconfig-hardened-check 0.5.3 0.5.5 9999: A script for checking the ha
 sys-kernel/minipli-sources 4.9.74: Unofficial forward ports of the last publicly available grsecurity patch
 sys-kernel/odroid-sources 9999: Linux kernel source for the ODROID-[UX]2 products
 sys-kernel/odroidxu-sources 9999: Linux kernel source for the ODROIDXU products
-sys-kernel/pentoo-sources 5.1.15 5.2.14 5.3.18 5.4.28 5.5.19 5.6.16 5.7.5: Pentoo kernel sources (kernel series 5.7)
+sys-kernel/pentoo-sources 5.4.51 5.7.8: Pentoo kernel sources (kernel series 5.7)
 sys-kernel/pf_ring-kmod 6.0.3 6.6.0 7.0.0: A new type of network socket that improves packet capture speed.
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
 sys-libs/libkudzu 1.2.85.1: Red Hat Hardware detection tools
