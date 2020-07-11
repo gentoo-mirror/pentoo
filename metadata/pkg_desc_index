@@ -31,7 +31,7 @@ app-crypt/xortool 0.99: A tool to analyze multi-byte xor cipher
 app-crypt/yubioath-desktop 5.0.1-r2 5.0.3 5.0.4: Library and tool for personalization of Yubico's YubiKey NEO
 app-dicts/raft-wordlists 20110803-r1: Raft wordlists
 app-dicts/seclists 2020.1 2020.2: A collection of multiple types of lists used during security assessments
-app-editors/visual-studio-code 1.46.0 1.46.1: Multiplatform Visual Studio Code from Microsoft
+app-editors/visual-studio-code 1.46.1 1.47.0: Multiplatform Visual Studio Code from Microsoft
 app-exploits/ROPgadget 6.2 6.3: Search for gadgets in binaries to facilitate your ROP exploitation
 app-exploits/deathstar 20180722: A tool to gain Domain Admin rights with a push of a button
 app-exploits/empire 3.2.2 3.2.3 3.3.0: A post-exploitation framework
