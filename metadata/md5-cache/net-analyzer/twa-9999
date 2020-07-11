@@ -1,0 +1,12 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install prepare unpack
+DESCRIPTION=A tiny web auditor with strong opinions
+EAPI=7
+HOMEPAGE=https://trailofbits.github.io/twa https://github.com/trailofbits/twa
+IUSE=+testssl
+LICENSE=MIT
+PROPERTIES=live
+RDEPEND=app-misc/jq net-misc/curl net-analyzer/netcat sys-apps/gawk testssl? ( net-analyzer/testssl )
+SLOT=0
+_eclasses_=git-r3	8ec5b53812bce105ae7943930e4660f8
+_md5_=6ca68bb552bd47e5b041baea826c5bce

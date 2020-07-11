@@ -154,6 +154,7 @@ net-analyzer/openvas-scanner:cron - Install a cron job to update GVM's feed dail
 net-analyzer/openvas-scanner:extras - Html docs support
 net-analyzer/ospd:extras - Html docs support
 net-analyzer/testssl:bundled-openssl - Install precompiled versions of OpenSSL for greater testing coverage
+net-analyzer/twa:testssl - Install net-analyzer/testssl to check TLS/SSL cipher
 net-libs/libosmocore:embedded - Build for embedded use and disable unsupported features
 net-libs/libosmocore:pcsc-lite - Enable smartcard support with sys-apps/pcsc-lite
 net-libs/libtins:ack-tracker - TCP ACK tracking support
