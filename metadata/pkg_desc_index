@@ -783,6 +783,7 @@ sci-electronics/migen 0.7: A Python toolbox for building complex digital hardwar
 sci-electronics/pcie_injector 20180527: Information gathering tool designed for extracting metadata of public documents
 sys-apps/become 1.0 1.0-r1: utility for changing the current real, effective or group id
 sys-apps/magic-pax 0.0.1: 
+sys-apps/openrazer 20200712: Razer Drivers for Linux (Blackwidow TE 2014 test branch)
 sys-apps/razercfg 0.42: Utility for advanced configuration of Razer mice
 sys-auth/polkit 0.116-r1: Policy framework for controlling privileges for system-wide services
 sys-devel/autofdo 0.18 0.19 9999: System to simplify real-world deployment of feedback-directed optimization
