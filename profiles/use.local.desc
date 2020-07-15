@@ -110,9 +110,6 @@ dev-libs/openssl-bad:tls-heartbeat - Compile with tls-heartbeat
 dev-libs/qbdi:tools - Enable advanced tools
 dev-python/django-constance-haiwen:database - Add django-picklefield support
 dev-python/django-constance-haiwen:redis - Add django-redis support
-dev-python/ipython:matplotlib - Add support for dev-python/matplotlib
-dev-python/ipython:nbconvert - Enable support for converting notebooks to various formats using app-text/pandoc
-dev-python/ipython:notebook - Install requirements for the web notebook based on www-servers/tornado
 dev-python/pyinstaller:clang - Support for sys-devel/clang
 dev-python/pyinstaller:leak-detector - Support for link with Boehm garbage collector to detect memory leaks
 dev-python/pypsrp:credssp - Add CredSSP support
