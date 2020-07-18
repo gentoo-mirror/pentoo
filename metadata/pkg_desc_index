@@ -37,7 +37,7 @@ app-exploits/deathstar 20180722: A tool to gain Domain Admin rights with a push 
 app-exploits/empire 3.2.2 3.2.3 3.3.0: A post-exploitation framework
 app-exploits/enumdb 2.1.0: Database brute force and post exploitation tool
 app-exploits/exploit-pattern 20200109: Generate and search pattern string for exploit development
-app-exploits/exploitdb 20200331 99999999: All exploits from exploit-db.com
+app-exploits/exploitdb 20200717 99999999: All exploits from exploit-db.com
 app-exploits/exploitdb-papers 20200331 99999999: Exploit database's papers
 app-exploits/getsploit 0.3.3_p20190530 9999: Command line utility for searching and downloading exploits
 app-exploits/linenum 20200107 99999999: Local Linux enumeration and privilege escalation checker
@@ -460,7 +460,7 @@ dev-util/mobsf 3.0.5: Automated, all-in-one mobile application (Android/iOS/Wind
 dev-util/objection 1.9.4 1.9.5: Runtime mobile exploration
 dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIPS
 dev-util/qark 0.9_pre20190405: A tool to look for Android application vulnerabilities
-dev-util/recaf-bin 2.0.3 2.2.0: A modern Java bytecode editor
+dev-util/recaf-bin 2.0.3 2.2.0 2.3.2: A modern Java bytecode editor
 dev-util/redasm 2.1.1: The OpenSource Disassembler
 dev-util/retdec 3.3-r2 4.0: RetDec is a retargetable machine-code decompiler based on LLVM.
 dev-util/soapui 5.4.0 5.5.0: The Swiss-Army Knife for SOAP Testing
@@ -741,7 +741,7 @@ net-wireless/uhd 3.15.0.0-r1: Universal Software Radio Peripheral (USRP) Hardwar
 net-wireless/virtualradar-bin 2.0.1 2.3.1: Open-source .NET application for ads-b mapping
 net-wireless/wifipumpkin3 1.0.5: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifitap 0.4.2-r1: A wireless tool to do direct connection to client without passing through an AP
-net-wireless/wifite 2.2.5-r3 2.5.2-r1: An automated wireless attack tool
+net-wireless/wifite 2.2.5-r3 2.5.2-r1 2.5.5: An automated wireless attack tool
 net-wireless/wireless-regdb 20090130-r1 20090309 20090817 20091125 20091125-r1: Binary regulatory database for CRDA
 net-wireless/wpa_sycophant 1.0 9999: Evil client portion of EAP relay attack
 pentoo/pentoo 2015.1: Pentoo meta ebuild to install all apps
