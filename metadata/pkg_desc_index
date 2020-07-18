@@ -30,7 +30,7 @@ app-crypt/wisecracker 1.0-r1: An open source framework for tools that can distri
 app-crypt/xortool 0.99: A tool to analyze multi-byte xor cipher
 app-crypt/yubioath-desktop 5.0.1-r2 5.0.3 5.0.4: Library and tool for personalization of Yubico's YubiKey NEO
 app-dicts/raft-wordlists 20110803-r1: Raft wordlists
-app-dicts/seclists 2020.1 2020.2: A collection of multiple types of lists used during security assessments
+app-dicts/seclists 2020.1 2020.2 2020.3: A collection of multiple types of lists used during security assessments
 app-editors/visual-studio-code 1.46.1 1.47.0: Multiplatform Visual Studio Code from Microsoft
 app-exploits/ROPgadget 6.2 6.3: Search for gadgets in binaries to facilitate your ROP exploitation
 app-exploits/deathstar 20180722: A tool to gain Domain Admin rights with a push of a button
@@ -47,7 +47,7 @@ app-exploits/packetstormexploits 2012.12 2013.12 2014.12 2015.12 2016.12 2017.12
 app-exploits/packetstormexploits-meta 2019: Meta ebuild of packetstorm exploits
 app-exploits/powercat 20170805: Netcat: The powershell version
 app-exploits/proton 20200311: Windows post-exploitation framework using Windows Script Host
-app-exploits/pwntools 4.1.0 4.1.1: CTF framework and exploit development library
+app-exploits/pwntools 4.1.0 4.1.1 4.2.1: CTF framework and exploit development library
 app-exploits/pypykatz 0.3.10 0.3.12: Python implementation of Mimikatz
 app-exploits/ropper 1.13.3-r2 1.13.5 9999: Use to display information about binary files in different file formats
 app-exploits/routersploit 3.4.0-r1 9999: An open-source exploitation framework dedicated to embedded devices
