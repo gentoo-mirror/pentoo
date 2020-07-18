@@ -9,4 +9,4 @@ PROPERTIES=live
 RDEPEND=>=dev-python/lxml-1.3.6
 SLOT=0
 _eclasses_=git-r3	8ec5b53812bce105ae7943930e4660f8
-_md5_=c3a2b92117f42436d854d7d07ecc00d6
+_md5_=0c3df106c6c44ee375619f18d729e4a2
