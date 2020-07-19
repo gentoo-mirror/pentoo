@@ -168,7 +168,7 @@ dev-libs/libuna 20181006 20190102: Library to support Unicode and ASCII (byte st
 dev-libs/libvhdi 20181227 20191221: Library and tools to access the Virtual Hard Disk (VHD) image format
 dev-libs/libvmdk 20181227 20191221: Library and tools to access the VMware Virtual Disk (VMDK) format
 dev-libs/openssl-bad 1.0.2_p20180915 1.0.2_p20190119: Snapshot for testssl.sh >2.8 from PM's fork, ready to compile
-dev-libs/qbdi 0.7.0 0.7.1: A Dynamic Binary Instrumentation framework based on LLVM
+dev-libs/qbdi 0.7.1: A Dynamic Binary Instrumentation framework based on LLVM
 dev-libs/redasm-database 20190317: Database files (signatures) for REDasm
 dev-libs/unicorn-bindings 1.0.2_rc2: Unicorn bindings
 dev-perl/Encoding-BER 1.02: Perl module for encoding/decoding data using ASN.1 Basic Encoding Rules (BER)
