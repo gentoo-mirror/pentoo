@@ -109,7 +109,7 @@ app-fuzz/slowhttptest 1.7_p20170811 1.8.1: Application Layer DoS attack simulato
 app-fuzz/smtp-fuzz 0.1: A smtp fuzzer
 app-fuzz/snmp-fuzzer 0.1.1-r1: A very complete snmp fuzzer
 app-fuzz/spike 2.9-r1: A generic network fuzzer
-app-misc/cyberchef 9.18.0 9.20.3: A web app for encryption, encoding, compression and data analysis (offline)
+app-misc/cyberchef 9.18.0 9.20.3 9.21.0: A web app for encryption, encoding, compression and data analysis (offline)
 app-misc/dangerzone 0.1 0.1.1 0.1.2 0.1.2-r1: Take potentially dangerous PDFs or images and convert them to a safe PDF
 app-misc/freediag 1.08: Free diagnostic software for OBD-II compliant motor vehicles
 app-misc/gplaycli 3.26 3.27 3.29: Google Play Downloader via Command line
