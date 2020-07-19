@@ -38,7 +38,7 @@ app-exploits/empire 3.2.2 3.2.3 3.3.0: A post-exploitation framework
 app-exploits/enumdb 2.1.0: Database brute force and post exploitation tool
 app-exploits/exploit-pattern 20200109: Generate and search pattern string for exploit development
 app-exploits/exploitdb 20200717 99999999: All exploits from exploit-db.com
-app-exploits/exploitdb-papers 20200331 99999999: Exploit database's papers
+app-exploits/exploitdb-papers 20200717 99999999: Exploit database's papers
 app-exploits/getsploit 0.3.3_p20190530 9999: Command line utility for searching and downloading exploits
 app-exploits/linenum 20200107 99999999: Local Linux enumeration and privilege escalation checker
 app-exploits/linux-exploit-suggester 20140519 99999999: Linux Exploit Suggester based on operating system release number
@@ -511,7 +511,7 @@ net-analyzer/enum4linux 0.8.9-r1: A tool for enumerating information from Window
 net-analyzer/evilgrade 2.0.9: A modular framework that takes advantage of poor upgrade implementations by injecting fake updates.
 net-analyzer/ffuf 0.10 0.12 1.0 1.0.2: Fast web fuzzer written in Go
 net-analyzer/fierce 1.4.0-r1 9999: A DNS reconnaissance tool for locating non-contiguous IP space
-net-analyzer/findomain 1.4.2 1.4.5 1.5.0 9999: The fastest and cross-platform subdomain enumerator, don't waste your time
+net-analyzer/findomain 1.4.2 1.4.5 1.5.0 1.7.0 9999: The fastest and cross-platform subdomain enumerator, don't waste your time
 net-analyzer/geoedge 0.2-r2: This little tools is designed to get geolocalization information of a host
 net-analyzer/geoipgen 0.4: Generate a list of hostnames based on country
 net-analyzer/gitgraber 20191002: Tool to scan for sensitive information within public GitHub repositories
@@ -569,7 +569,7 @@ net-analyzer/set 8.0.3: A social engineering framework
 net-analyzer/sipvicious 0.3.0: A voip pentest tools suite
 net-analyzer/sitadel 1.0.0_p20190828: Web application security scanner
 net-analyzer/smbmap 1.1.0-r1 1.8.2: SMBMap is a handy SMB enumeration tool
-net-analyzer/sn0int 0.16.0 0.17.1 0.18.2: Semi-automatic OSINT framework and package manager
+net-analyzer/sn0int 0.16.0 0.17.1 0.18.2 0.19.1: Semi-automatic OSINT framework and package manager
 net-analyzer/sniffglue 0.10.1: Secure multithreaded packet sniffer
 net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
 net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
