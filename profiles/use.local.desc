@@ -67,7 +67,6 @@ app-forensics/scap-security-guide:firefox - If enabled, the Firefox SCAP content
 app-forensics/scap-security-guide:fuse6 - If enabled, the JBoss Fuse6 SCAP content will be built
 app-forensics/scap-security-guide:jinja2 - If enabled, the jinja2 templating files will be cached into bytecode
 app-forensics/scap-security-guide:jre - If enabled, the JRE SCAP content will be built
-app-forensics/scap-security-guide:linkchecker - If enabled, linkchecker will be used to validate URLs in all the HTML guides and tables
 app-forensics/scap-security-guide:ocp3 - If enabled, the OCP3 SCAP content will be built
 app-forensics/scap-security-guide:ol7 - If enabled, the Oracle Linux 7 SCAP content will be built
 app-forensics/scap-security-guide:ol8 - If enabled, the Oracle Linux 8 SCAP content will be built
