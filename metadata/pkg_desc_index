@@ -811,7 +811,7 @@ sys-kernel/wireless-testing 9999: Wireless integration testing tree
 sys-libs/libkudzu 1.2.85.1: Red Hat Hardware detection tools
 sys-power/acpid 2.0.32-r1: Daemon for Advanced Configuration and Power Interface
 virtual/linux-sources 3-r104: Virtual for Linux kernel sources
-www-apps/BloodHound 3.0.4: Six Degrees of Domain Admin
+www-apps/BloodHound 3.0.4 3.0.5: Six Degrees of Domain Admin
 www-apps/beef 0.5.0.0: Browser exploitation framework
 www-apps/faraday 3.10.0: Integrated Penetration-Test Environment is a multiuser Penetration test IDE
 www-apps/geckodriver 0.23.0: Proxy for using WebDriver clients to interact with Gecko-based browsers.
