@@ -193,7 +193,6 @@ net-wireless/uhd:usrp1 - support USRP1 hardware
 net-wireless/uhd:usrp2 - support USRP2, N200, N210 hardware
 net-wireless/uhd:utils - utilities needed to list, query, calibrate, or update FPGA/Firmware
 net-wireless/uhd:x300 - support X300, X310 hardware
-sys-apps/razercfg:pm-utils - Installs the pm-utils hooks for suspend/resume and requires sys-power/pm-utils
 sys-auth/polkit:consolekit - Use sys-auth/consolekit for session tracking
 sys-auth/polkit:elogind - Use sys-auth/elogind for session tracking
 sys-auth/polkit:systemd - Use sys-apps/systemd for session tracking
