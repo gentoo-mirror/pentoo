@@ -31,7 +31,7 @@ app-crypt/xortool 0.99: A tool to analyze multi-byte xor cipher
 app-crypt/yubioath-desktop 5.0.1-r2 5.0.3 5.0.4: Library and tool for personalization of Yubico's YubiKey NEO
 app-dicts/raft-wordlists 20110803-r1: Raft wordlists
 app-dicts/seclists 2020.1 2020.2 2020.3: A collection of multiple types of lists used during security assessments
-app-editors/visual-studio-code 1.46.1 1.47.0: Multiplatform Visual Studio Code from Microsoft
+app-editors/visual-studio-code 1.46.1 1.47.0 1.47.2: Multiplatform Visual Studio Code from Microsoft
 app-exploits/ROPgadget 6.2 6.3: Search for gadgets in binaries to facilitate your ROP exploitation
 app-exploits/deathstar 20180722: A tool to gain Domain Admin rights with a push of a button
 app-exploits/empire 3.2.3 3.3.0 3.3.1: A post-exploitation framework
@@ -642,7 +642,7 @@ net-misc/wireshark-patoolkit 20191029: a collection of traffic analysis Wireshar
 net-misc/wireshark-sap-plugin 0.4.2 0.5.2 0.6.1 0.6.1-r1 9999: Wireshark plugin for SAP's protocols
 net-misc/wlan2eth 1.3: Wlan2eth is a tool that converts wlan pcap to ethernet-like frames.
 net-proxy/burpsuite 2020.6 2020.7: Interactive proxy for attacking and debugging web applications
-net-proxy/mitmproxy 5.1.1: An interactive, SSL-capable, man-in-the-middle HTTP proxy
+net-proxy/mitmproxy 5.1.1 5.2: An interactive, SSL-capable, man-in-the-middle HTTP proxy
 net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal network via reverse connection
 net-proxy/proxenet 0.4.1: A hacker friendly proxy for web application penetration tests.
 net-proxy/proxenet-plugins 9999: Repository for proxenet plugins
