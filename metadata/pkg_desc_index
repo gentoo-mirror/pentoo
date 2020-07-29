@@ -136,6 +136,7 @@ dev-go/go-exploitdb 20190911-r1: A tool for searching Exploits from some Exploit
 dev-go/gopkg-sourcemap 1.0.5 2.1.3: Source maps consumer for Golang
 dev-go/gost 0.1.2-r1: Build a local copy of Security Tracker. Notify via Email if there is an update
 dev-go/goval-dictionary 0.2.2-r1: Build a local copy of OVAL. Server mode for easy querying
+dev-java/gradle-bin 5.2.1: A project automation and build tool with a Groovy based DSL
 dev-java/jd-core 1.0.6: JD-Core is a JAVA decompiler written in JAVA
 dev-java/jgraphx 2.1.1.2 4.0.6: Open-source graph component for Java
 dev-java/msgpack 0.5.1 0.6.12 0.8.16: MessagePack for Java is a binary-based efficient object serialization library
@@ -454,7 +455,7 @@ dev-util/frida-tools 7.2.2 8.0.1: Frida CLI tools
 dev-util/ghidra 9.1.2-r1: A software reverse engineering framework
 dev-util/hexd 1.10: Eric Raymond's hex dumper
 dev-util/jadx-bin 1.0.0 1.1.0: A standalone graphical utility that displays Java source codes of .class file
-dev-util/jd-gui 1.6.6-r2: A standalone Java Decompiler GUI
+dev-util/jd-gui 1.6.6-r1: A standalone Java Decompiler GUI
 dev-util/jnitrace 3.0.8: A Frida based tool that traces usage of the JNI API in Android apps.
 dev-util/lief 0.10.1: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
