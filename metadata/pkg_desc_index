@@ -31,7 +31,7 @@ app-crypt/xortool 0.99: A tool to analyze multi-byte xor cipher
 app-crypt/yubioath-desktop 5.0.1-r2 5.0.3 5.0.4: Library and tool for personalization of Yubico's YubiKey NEO
 app-dicts/raft-wordlists 20110803-r1: Raft wordlists
 app-dicts/seclists 2020.1 2020.2 2020.3: A collection of multiple types of lists used during security assessments
-app-editors/visual-studio-code 1.46.1 1.47.0 1.47.2: Multiplatform Visual Studio Code from Microsoft
+app-editors/visual-studio-code 1.47.2 1.47.3: Multiplatform Visual Studio Code from Microsoft
 app-exploits/ROPgadget 6.2 6.3: Search for gadgets in binaries to facilitate your ROP exploitation
 app-exploits/deathstar 20180722: A tool to gain Domain Admin rights with a push of a button
 app-exploits/empire 3.2.3 3.3.0 3.3.1: A post-exploitation framework
@@ -454,7 +454,7 @@ dev-util/frida-tools 7.2.2 8.0.1: Frida CLI tools
 dev-util/ghidra 9.1.2-r1: A software reverse engineering framework
 dev-util/hexd 1.10: Eric Raymond's hex dumper
 dev-util/jadx-bin 1.0.0 1.1.0: A standalone graphical utility that displays Java source codes of .class file
-dev-util/jd-gui 1.6.6-r1: A standalone Java Decompiler GUI
+dev-util/jd-gui 1.6.6-r2: A standalone Java Decompiler GUI
 dev-util/jnitrace 3.0.8: A Frida based tool that traces usage of the JNI API in Android apps.
 dev-util/lief 0.10.1: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
@@ -462,7 +462,7 @@ dev-util/mobsf 3.0.5: Automated, all-in-one mobile application (Android/iOS/Wind
 dev-util/objection 1.9.4 1.9.5: Runtime mobile exploration
 dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIPS
 dev-util/qark 0.9_pre20190405: A tool to look for Android application vulnerabilities
-dev-util/recaf-bin 2.0.3 2.2.0 2.3.2: A modern Java bytecode editor
+dev-util/recaf-bin 2.3.2 2.3.7: A modern Java bytecode editor
 dev-util/redasm 2.1.1: The OpenSource Disassembler
 dev-util/retdec 3.3-r2 4.0: RetDec is a retargetable machine-code decompiler based on LLVM.
 dev-util/soapui 5.4.0 5.5.0 5.6.0: The Swiss-Army Knife for SOAP Testing
@@ -817,7 +817,7 @@ www-apps/beef 0.5.0.0: Browser exploitation framework
 www-apps/faraday 3.10.0: Integrated Penetration-Test Environment is a multiuser Penetration test IDE
 www-apps/geckodriver 0.23.0: Proxy for using WebDriver clients to interact with Gecko-based browsers.
 www-apps/rda 2.9: Web-based application for effective reporting writing
-www-apps/seafile-pro-server 7.1.4: Meta package for Seafile Pro Edition, file sync share solution
+www-apps/seafile-pro-server 7.1.6: Meta package for Seafile Pro Edition, file sync share solution
 www-apps/vulsrepo 20190412-r3: VulsRepo is visualized based on the json report output in vuls
 www-misc/firefox-bookmarks 0.3-r1: Firefox bookmarks for the Pento ISO only
 www-plugins/hackplugins-meta 20200428: Collection of browser's plugins for application security testing
