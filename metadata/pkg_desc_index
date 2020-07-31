@@ -816,7 +816,7 @@ virtual/linux-sources 3-r104: Virtual for Linux kernel sources
 www-apps/BloodHound 3.0.4 3.0.5: Six Degrees of Domain Admin
 www-apps/beef 0.5.0.0: Browser exploitation framework
 www-apps/faraday 3.10.0: Integrated Penetration-Test Environment is a multiuser Penetration test IDE
-www-apps/geckodriver 0.23.0: Proxy for using WebDriver clients to interact with Gecko-based browsers.
+www-apps/geckodriver 0.23.0 0.27.0: Proxy for using WebDriver clients to interact with Gecko-based browsers.
 www-apps/rda 2.9: Web-based application for effective reporting writing
 www-apps/seafile-pro-server 7.1.6: Meta package for Seafile Pro Edition, file sync share solution
 www-apps/vulsrepo 20190412-r3: VulsRepo is visualized based on the json report output in vuls
