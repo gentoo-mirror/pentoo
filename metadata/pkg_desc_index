@@ -327,7 +327,6 @@ dev-python/pystache 0.5.4: Mustache in Python
 dev-python/python-cas-haiwen 20180411: Python CAS client library
 dev-python/python-crontab 20191023: Crontab module for accessing system crontabs
 dev-python/python-docx 0.8.10: Create and modify Word documents with Python
-dev-python/python-gvm 1.1.0 1.5.0: Library to communicate with remote servers over GMP or OSP
 dev-python/python-iptools 0.7.0: A package is a collection of utilities for dealing with IP addresses
 dev-python/python-libnmap 0.7.0: A python library enabling python developers to manipulate nmap process and data
 dev-python/python-nmap 0.6.1: a python library which helps in using nmap port scanner
@@ -520,11 +519,6 @@ net-analyzer/gitgraber 20191002: Tool to scan for sensitive information within p
 net-analyzer/gitrob 2.0.0_beta-r1: Reconnaissance tool for GitHub organizations
 net-analyzer/go-webanalyze 20190705: Port of Wappalyzer in Go to automate scanning
 net-analyzer/gobuster 3.0.1-r3: A tool to brute-force URIs and DNS subdomains
-net-analyzer/greenbone-security-assistant 9.0.0-r1 9.0.1: Greenbone Security Assistant
-net-analyzer/gvm 11.0.0-r5: Greenbone Vulnerability Management, OpenVAS
-net-analyzer/gvm-libs 11.0.0 11.0.1: Greenbone vulnerability management libraries, previously named openvas-libraries
-net-analyzer/gvm-tools 2.0.0 2.1.0: Remote control for Greenbone Vulnerability Manager, previously named openvas-cli
-net-analyzer/gvmd 9.0.0-r8 9.0.1: Greenbone vulnerability manager, previously named openvas-manager
 net-analyzer/httprint 301: HTTP fingerprinter tool
 net-analyzer/hyenae 0.36.1: a highly flexible packet generator
 net-analyzer/ifchk 1.1.1: A network interface promiscuous mode detection tool
@@ -547,10 +541,7 @@ net-analyzer/nmap-vulners 1.2 1.4_beta 9999: NSE script based on Vulners.com API
 net-analyzer/nmap_vulscan 2.0-r1 2.0_p20170503 2.0_p20171214 2.0_p20190923: A NSE vulnerability scanner which uses an offline version of scip VulDB
 net-analyzer/ntlmrecon 0.2_beta: A tool to enumerate information from NTLM authentication enabled web endpoints
 net-analyzer/onesixtyone 0.7: An efficient SNMP scanner
-net-analyzer/openvas-scanner 7.0.0 7.0.1: Open Vulnerability Assessment Scanner
 net-analyzer/osmedeus 9999: A offensive security tool for reconnaissance and vulnerability scanning
-net-analyzer/ospd 2.0.0-r1 2.0.1: Base class for scanner wrappers,communication protocol for GVM
-net-analyzer/ospd-openvas 1.0.0 1.0.1: OSP server implementation to allow GVM to remotely control an OpenVAS Scanner
 net-analyzer/owtf 2.6.0-r1: The Offensive Web Testing Framework
 net-analyzer/padbuster 20110928: Automated script for performing Padding Oracle attacks
 net-analyzer/plecost 9999: Wordpress finger printing tool, retrieve information about the plugins and versions installed
