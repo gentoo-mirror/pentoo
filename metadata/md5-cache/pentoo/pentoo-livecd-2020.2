@@ -1,0 +1,10 @@
+DEFINED_PHASES=install setup
+DESCRIPTION=things needed by pentoo for livecd only
+EAPI=7
+HOMEPAGE=http://www.pentoo.ch
+IUSE=livecd
+KEYWORDS=~amd64 ~x86
+PDEPEND=livecd? ( pentoo/pentoo-installer app-admin/pwgen app-misc/livecd-tools app-portage/eix app-portage/gentoolkit app-portage/smart-live-rebuild net-misc/dhcpcd net-wireless/b43-fwcutter sys-apps/hwsetup sys-apps/mlocate sys-block/disktype sys-apps/gentoo-functions virtual/eject )
+RDEPEND=!<pentoo/pentoo-system-2014.3-r4
+SLOT=0
+_md5_=d0e782c4c258391a68335ee7161ab090
