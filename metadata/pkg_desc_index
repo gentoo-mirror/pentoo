@@ -743,6 +743,7 @@ pentoo/pentoo 2015.1: Pentoo meta ebuild to install all apps
 pentoo/pentoo-analyzer 2019.4: Pentoo analyzers meta ebuild
 pentoo/pentoo-bluetooth 2019.2: Pentoo bluetooth meta ebuild
 pentoo/pentoo-cinnamon 2018.2: Pentoo cinnamon meta ebuild
+pentoo/pentoo-core 2020.2: Pentoo minimum core requirements
 pentoo/pentoo-cracking 2020.1-r2: Pentoo cracking meta ebuild
 pentoo/pentoo-database 2018.3: Pentoo database attack meta ebuild
 pentoo/pentoo-desktop 2020.2: Pentoo meta ebuild to install all X and WM/DE related things
@@ -752,8 +753,8 @@ pentoo/pentoo-forensics 2020.1-r3: Pentoo forensics meta ebuild
 pentoo/pentoo-forging 2019.2-r1: Pentoo forging meta ebuild
 pentoo/pentoo-fuzzers 2020.1: Pentoo fuzzers meta ebuild
 pentoo/pentoo-gnome 2.32.1-r3: Meta package for the GNOME desktop, merge this package to install
-pentoo/pentoo-installer 20200728 99999999: Installer for pentoo, based on the ncurses Arch Linux installer
-pentoo/pentoo-livecd 2020.2: things needed by pentoo for livecd only
+pentoo/pentoo-installer 20200728-r1 99999999: Installer for pentoo, based on the ncurses Arch Linux installer
+pentoo/pentoo-livecd 2020.2-r1: things needed by pentoo for livecd only
 pentoo/pentoo-misc 2020.2: Pentoo misc meta ebuild
 pentoo/pentoo-mitm 2020.1: Pentoo mitm meta ebuild
 pentoo/pentoo-mobile 2020.2: Pentoo mobile meta ebuild
@@ -762,7 +763,7 @@ pentoo/pentoo-proxies 2020.0: Pentoo proxy meta ebuild
 pentoo/pentoo-radio 2020.2: Radio tools for pentoo
 pentoo/pentoo-rce 2020.0: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2020.0: Pentoo scanner meta ebuild
-pentoo/pentoo-system 2020.2-r5: Pentoo meta ebuild to install system
+pentoo/pentoo-system 2020.2-r6: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2018.2-r1: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2019.3: Pentoo wireless meta ebuild
 pentoo/tribe 2012.0: Tribe meta ebuild
