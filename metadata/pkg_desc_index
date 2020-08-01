@@ -762,7 +762,7 @@ pentoo/pentoo-proxies 2020.0: Pentoo proxy meta ebuild
 pentoo/pentoo-radio 2020.2: Radio tools for pentoo
 pentoo/pentoo-rce 2020.0: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2020.0: Pentoo scanner meta ebuild
-pentoo/pentoo-system 2020.2-r4: Pentoo meta ebuild to install system
+pentoo/pentoo-system 2020.2-r5: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2018.2-r1: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2019.3: Pentoo wireless meta ebuild
 pentoo/tribe 2012.0: Tribe meta ebuild
