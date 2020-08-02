@@ -9,15 +9,15 @@ HOMEPAGE="http://wctf.us"
 LICENSE=""
 SLOT="0"
 KEYWORDS="amd64"
-IUSE="minimal opencl sdr visuals wifi"
+IUSE="wctf-minimal opencl wctf-sdr wctf-visuals wctf-wifi"
 S="${WORKDIR}"
 
 RDEPEND="!pentoo/pentoo-system"
 
 PDEPEND="
 		app-misc/screen
-		!minimal? (
-			pentoo/pentoo-core
+		pentoo/pentoo-core
+		!wctf-minimal? (
 			app-misc/tmux
 			net-analyzer/tcpdump
 			net-analyzer/termshark
@@ -48,18 +48,18 @@ PDEPEND="
 			sys-devel/gdb
 			net-ftp/tftp-hpa
 		)
-		sdr? (
+		wctf-sdr? (
 			net-wireless/gr-osmosdr
 			media-radio/wsjtx
 			net-wireless/rfcat
 			dev-python/bottle
 		)
-		wifi? (
+		wctf-wifi? (
 			|| ( net-misc/iputils[arping(+)] net-analyzer/arping )
 			net-dns/dnsmasq
 			net-misc/telnet-bsd
 		)
-		visuals? ( xfce-base/xfce4-meta
+		wctf-visuals? ( xfce-base/xfce4-meta
 			x11-misc/slim
 			x11-terms/xfce4-terminal
 			media-fonts/noto-emoji
