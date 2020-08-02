@@ -577,7 +577,7 @@ net-analyzer/termshark 2.1.1-r1: A terminal UI for tshark, inspired by Wireshark
 net-analyzer/testssl 3.0.1 3.0.2: Tool to check TLS/SSL cipher support
 net-analyzer/thc-pptp-bruter 0.1.4: A brute force program that works against pptp vpn endpoints
 net-analyzer/thc-ssl-dos 1.4: THC-SSL-DOS is a tool to verify the performance of SSL servers
-net-analyzer/theHarvester 3.0.6_p20190415 3.1-r1 3.1-r2: The Harvester is a tool designed to collect email accounts of the target domain
+net-analyzer/theHarvester 3.0.6_p20190415 3.1-r1 3.1-r3: The Harvester is a tool designed to collect email accounts of the target domain
 net-analyzer/tplmap 20190820: Server-Side Template Injection and code injection tool
 net-analyzer/twa 1.9.3 9999: A tiny web auditor with strong opinions
 net-analyzer/ucsniff 3.20 3.20-r1: VoIP audio & video sniffer
