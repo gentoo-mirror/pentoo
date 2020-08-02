@@ -1,4 +1,4 @@
-BDEPEND=>=dev-vcs/git-1.8.2.1[curl] filecaps? ( sys-libs/libcap )
+BDEPEND=filecaps? ( sys-libs/libcap ) >=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=compile install postinst prepare unpack
 DESCRIPTION=A tunnel which turns UDP traffic into encrypted FakeTCP/UDP/ICMP traffic
 EAPI=7
@@ -9,4 +9,4 @@ PROPERTIES=live
 RDEPEND=iptables? ( net-firewall/iptables ) filecaps? ( sys-libs/libcap )
 SLOT=0
 _eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5	fcaps	da689a8e04bbbb3518888ff668fee45b	flag-o-matic	f1194291b9a1baca337c1c89b5f7f365	git-r3	8ec5b53812bce105ae7943930e4660f8	multilib	2477ebe553d3e4d2c606191fe6c33602	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
-_md5_=fe320a0f306dfbf6e12245448301cfd5
+_md5_=8fcd0076584e53d1e70bf8f3de05c027

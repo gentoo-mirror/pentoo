@@ -8,6 +8,6 @@ KEYWORDS=~amd64 ~arm ~x86
 LICENSE=MIT
 RDEPEND=iptables? ( net-firewall/iptables ) filecaps? ( sys-libs/libcap )
 SLOT=0
-SRC_URI=https://github.com/wangyu-/udp2raw-tunnel/archive/20181113.0.tar.gz -> udp2raw-tunnel-20181113.0.tar.gz
+SRC_URI=https://github.com/wangyu-/udp2raw-tunnel/archive/20200727.0.tar.gz -> udp2raw-tunnel-20200727.0.tar.gz
 _eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5	fcaps	da689a8e04bbbb3518888ff668fee45b	flag-o-matic	f1194291b9a1baca337c1c89b5f7f365	multilib	2477ebe553d3e4d2c606191fe6c33602	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
 _md5_=8fcd0076584e53d1e70bf8f3de05c027
