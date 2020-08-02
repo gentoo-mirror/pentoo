@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=Pentoo cracking meta ebuild
+EAPI=7
+HOMEPAGE=http://www.pentoo.ch
+IUSE=opencl +dict livecd-stage1 pentoo-extra pentoo-full
+KEYWORDS=~amd64 ~arm ~x86
+LICENSE=GPL-3
+PDEPEND=app-crypt/johntheripper-jumbo net-analyzer/hydra !arm? ( app-crypt/chntpw !livecd-stage1? ( opencl? ( pentoo/pentoo-opencl app-crypt/hashcat net-wireless/hcxkeys ) ) ) pentoo-full? ( net-analyzer/medusa dict? ( app-dicts/raft-wordlists app-misc/crunch ) app-text/cewl app-crypt/SIPcrack ) pentoo-extra? ( app-crypt/ophcrack app-dicts/seclists )
+SLOT=0
+_md5_=bdf715dbf570560eccee93b20f368ae0

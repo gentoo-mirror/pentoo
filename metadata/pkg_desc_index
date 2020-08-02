@@ -744,7 +744,7 @@ pentoo/pentoo-analyzer 2019.4: Pentoo analyzers meta ebuild
 pentoo/pentoo-bluetooth 2019.2: Pentoo bluetooth meta ebuild
 pentoo/pentoo-cinnamon 2018.2: Pentoo cinnamon meta ebuild
 pentoo/pentoo-core 2020.2: Pentoo minimum core requirements
-pentoo/pentoo-cracking 2020.1-r2: Pentoo cracking meta ebuild
+pentoo/pentoo-cracking 2020.2: Pentoo cracking meta ebuild
 pentoo/pentoo-database 2018.3: Pentoo database attack meta ebuild
 pentoo/pentoo-desktop 2020.2: Pentoo meta ebuild to install all X and WM/DE related things
 pentoo/pentoo-exploit 2020.0-r1: Pentoo exploit meta ebuild
@@ -759,15 +759,16 @@ pentoo/pentoo-misc 2020.2: Pentoo misc meta ebuild
 pentoo/pentoo-mitm 2020.1: Pentoo mitm meta ebuild
 pentoo/pentoo-mobile 2020.2: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2020.2: Collection of NFC tools
+pentoo/pentoo-opencl 0: Virtual for pulling in appropriate opencl stuffs
 pentoo/pentoo-proxies 2020.0: Pentoo proxy meta ebuild
 pentoo/pentoo-radio 2020.2: Radio tools for pentoo
 pentoo/pentoo-rce 2020.0: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2020.0: Pentoo scanner meta ebuild
 pentoo/pentoo-system 2020.2-r6: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2018.2-r1: Pentoo voip meta ebuild
-pentoo/pentoo-wireless 2019.3: Pentoo wireless meta ebuild
+pentoo/pentoo-wireless 2020.2: Pentoo wireless meta ebuild
 pentoo/tribe 2012.0: Tribe meta ebuild
-pentoo/wctf-client 2020.2-r2: Packages needed to power the client NUC for WCTF events
+pentoo/wctf-client 2020.2-r3: Packages needed to power the client NUC for WCTF events
 pentoo/zero-system 2020.2-r4: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
 sci-electronics/litedram 20180514: Small footprint and configurable DRAM core
 sci-electronics/liteeth 20180301 20180719: Small footprint and configurable Ethernet core
