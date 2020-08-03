@@ -1,12 +1,12 @@
 DEFINED_PHASES=configure
 DEPEND=dev-libs/libcerror nls? ( virtual/libiconv virtual/libintl )
 DESCRIPTION=Library for date and time formats
-EAPI=6
+EAPI=7
 HOMEPAGE=https://github.com/libyal/libfdatetime
 IUSE=nls
-KEYWORDS=~amd64 ~arm ~arm64 ~x86
+KEYWORDS=~amd64 ~arm64 ~x86
 LICENSE=LGPL-3
 RDEPEND=dev-libs/libcerror nls? ( virtual/libiconv virtual/libintl )
 SLOT=0
 SRC_URI=https://github.com/libyal/libfdatetime/releases/download/20180910/libfdatetime-alpha-20180910.tar.gz
-_md5_=ceabd5c8bf46eace5d0532f5079d9ebf
+_md5_=39be9035c5aba472226b3fc70c828174

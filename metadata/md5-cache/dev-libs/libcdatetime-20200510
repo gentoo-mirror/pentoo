@@ -1,12 +1,12 @@
 DEFINED_PHASES=configure
 DEPEND=dev-libs/libcerror
 DESCRIPTION=Library for cross-platform C date and time functions
-EAPI=6
+EAPI=7
 HOMEPAGE=https://github.com/libyal/libcdatetime
-IUSE=nls unicode
-KEYWORDS=~amd64 ~arm ~arm64 ~x86
+IUSE=nls
+KEYWORDS=~amd64 ~arm64 ~x86
 LICENSE=LGPL-3
 RDEPEND=dev-libs/libcerror
 SLOT=0
-SRC_URI=https://github.com/libyal/libcdatetime/releases/download/20170609/libcdatetime-alpha-20170609.tar.gz
-_md5_=6cd875d35f143a60b5524c0b5d84d731
+SRC_URI=https://github.com/libyal/libcdatetime/releases/download/20200510/libcdatetime-alpha-20200510.tar.gz
+_md5_=af27a1688ebe1f2d54484f4d33739198

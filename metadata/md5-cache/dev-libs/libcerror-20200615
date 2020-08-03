@@ -1,0 +1,12 @@
+DEFINED_PHASES=configure
+DEPEND=nls? ( virtual/libiconv virtual/libintl )
+DESCRIPTION=Library for cross-platform C error functions
+EAPI=7
+HOMEPAGE=https://github.com/libyal/libcerror
+IUSE=nls
+KEYWORDS=~amd64 ~arm64 ~x86
+LICENSE=LGPL-3
+RDEPEND=nls? ( virtual/libiconv virtual/libintl )
+SLOT=0
+SRC_URI=https://github.com/libyal/libcerror/releases/download/20200615/libcerror-beta-20200615.tar.gz
+_md5_=ca732d2f7a667238aa28a2c42e78ba2d

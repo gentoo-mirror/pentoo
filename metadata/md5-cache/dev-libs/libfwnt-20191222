@@ -4,11 +4,11 @@ DESCRIPTION=Library for Windows NT data types
 EAPI=7
 HOMEPAGE=https://github.com/libyal/libfwnt
 IUSE=debug nls python +threads winapi python_targets_python2_7 python_targets_python3_6
-KEYWORDS=~amd64 ~arm ~arm64 ~x86
+KEYWORDS=~amd64 ~arm64 ~x86
 LICENSE=LGPL-3
 RDEPEND=python? ( python_targets_python2_7? ( >=dev-lang/python-2.7.5-r2:2.7 ) python_targets_python3_6? ( dev-lang/python:3.6 ) >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,python_targets_python3_6(-)?,-python_single_target_python2_7(-),-python_single_target_python3_6(-)] ) dev-libs/libcdata dev-libs/libcerror dev-libs/libcnotify dev-libs/libcthreads
 REQUIRED_USE=python? ( || ( python_targets_python2_7 python_targets_python3_6 ) )
 SLOT=0
 SRC_URI=https://github.com/libyal/libfwnt/releases/download/20191222/libfwnt-alpha-20191222.tar.gz
 _eclasses_=multibuild	b2c915190b051f55a23b9354b9849847	multilib	2477ebe553d3e4d2c606191fe6c33602	python-r1	79e26ce8f853c9daebe9a4956e37cc1b	python-utils-r1	cae3d65c47270c9a8c4880076996c09c	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
-_md5_=bc8be2c8d0594b8ae23a0d6fa30fe5b5
+_md5_=5a4b3012af8887d45680efe930af9272

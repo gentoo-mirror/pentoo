@@ -1,12 +1,12 @@
 DEFINED_PHASES=configure
 DEPEND=dev-libs/libcerror nls? ( virtual/libiconv virtual/libintl )
 DESCRIPTION=Library for cross-platform C notification functions
-EAPI=6
+EAPI=7
 HOMEPAGE=https://github.com/libyal/libcnotify
 IUSE=nls
-KEYWORDS=~amd64 ~arm ~arm64 ~x86
+KEYWORDS=~amd64 ~arm64 ~x86
 LICENSE=LGPL-3
 RDEPEND=dev-libs/libcerror nls? ( virtual/libiconv virtual/libintl )
 SLOT=0
-SRC_URI=https://github.com/libyal/libcnotify/releases/download/20180102/libcnotify-beta-20180102.tar.gz
-_md5_=7f45757a54ba67009ec307ad772e1f3e
+SRC_URI=https://github.com/libyal/libcnotify/releases/download/20200627/libcnotify-beta-20200627.tar.gz
+_md5_=02eeee2db850efe4c24fbca464549940

@@ -1,10 +1,10 @@
 DEFINED_PHASES=configure
 DESCRIPTION=Library for cross-platform C string functions
-EAPI=6
+EAPI=7
 HOMEPAGE=https://github.com/libyal/libcstring
 IUSE=nls unicode
-KEYWORDS=~amd64 ~hppa ~ppc ~x86
+KEYWORDS=~amd64 ~arm64 ~x86
 LICENSE=LGPL-3
 SLOT=0
 SRC_URI=https://github.com/libyal/libcstring/releases/download/20150101/libcstring-alpha-20150101.tar.gz
-_md5_=15ca1946b714849a4efa634536c44bc1
+_md5_=a1f2fe8264a3d3ed04ece81bb132ec22

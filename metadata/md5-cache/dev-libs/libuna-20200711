@@ -1,12 +1,12 @@
 DEFINED_PHASES=configure
 DEPEND=dev-libs/libcdatetime dev-libs/libcerror dev-libs/libclocale dev-libs/libcnotify nls? ( virtual/libiconv virtual/libintl )
 DESCRIPTION=Library to support Unicode and ASCII (byte string) conversions
-EAPI=6
+EAPI=7
 HOMEPAGE=https://github.com/libyal/libuna
 IUSE=nls unicode
-KEYWORDS=~amd64 ~arm ~arm64 ~x86
+KEYWORDS=~amd64 ~arm64 ~x86
 LICENSE=LGPL-3
 RDEPEND=dev-libs/libcdatetime dev-libs/libcerror dev-libs/libclocale dev-libs/libcnotify nls? ( virtual/libiconv virtual/libintl )
 SLOT=0
-SRC_URI=https://github.com/libyal/libuna/releases/download/20181006/libuna-alpha-20181006.tar.gz
-_md5_=67fdff9911b03dcb1a0f8974e5188c59
+SRC_URI=https://github.com/libyal/libuna/releases/download/20200711/libuna-alpha-20200711.tar.gz
+_md5_=f5fa172a28280e0929f77b80cb720627

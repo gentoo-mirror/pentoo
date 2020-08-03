@@ -1,12 +1,12 @@
 DEFINED_PHASES=configure
 DEPEND=dev-libs/libcerror nls? ( virtual/libiconv virtual/libintl )
 DESCRIPTION=Library for cross-platform C threads functions
-EAPI=6
+EAPI=7
 HOMEPAGE=https://github.com/libyal/libcthreads
 IUSE=nls
-KEYWORDS=~amd64 ~arm ~arm64 ~x86
+KEYWORDS=~amd64 ~arm64 ~x86
 LICENSE=LGPL-3
 RDEPEND=dev-libs/libcerror nls? ( virtual/libiconv virtual/libintl )
 SLOT=0
 SRC_URI=https://github.com/libyal/libcthreads/releases/download/20180724/libcthreads-alpha-20180724.tar.gz
-_md5_=bb77cefb83d4196188e7cbcf4ca7fc4b
+_md5_=ef189c604a07cddaffe388b49dd0ff93

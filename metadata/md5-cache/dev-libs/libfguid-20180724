@@ -1,12 +1,12 @@
 DEFINED_PHASES=configure
 DEPEND=dev-libs/libcerror nls? ( virtual/libiconv virtual/libintl )
 DESCRIPTION=Library for GUID/UUID format
-EAPI=6
+EAPI=7
 HOMEPAGE=https://github.com/libyal/libfguid
 IUSE=nls
-KEYWORDS=~amd64 ~arm ~arm64 ~x86
+KEYWORDS=~amd64 ~arm64 ~x86
 LICENSE=LGPL-3
 RDEPEND=dev-libs/libcerror nls? ( virtual/libiconv virtual/libintl )
 SLOT=0
 SRC_URI=https://github.com/libyal/libfguid/releases/download/20180724/libfguid-alpha-20180724.tar.gz
-_md5_=a67edd8bc23761500fb641e7ff1ff8e7
+_md5_=cc5885e13981582ccac52a0ba4b73dfc
