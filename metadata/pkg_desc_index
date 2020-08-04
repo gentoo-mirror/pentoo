@@ -155,7 +155,7 @@ dev-libs/libcsplit 20190102 20200703: Library for cross-platform C split string 
 dev-libs/libcstring 20150101: Library for cross-platform C string functions
 dev-libs/libcsystem 20150629: Library for cross-platform C locale functions
 dev-libs/libcthreads 20180724 20200508: Library for cross-platform C threads functions
-dev-libs/libdwarf 20191002 20191104 20200114: The DWARF Debugging Information Format
+dev-libs/libdwarf 20200114 20200719: The DWARF Debugging Information Format
 dev-libs/libfcache 20181011 20200708: Library for cross-platform C cache functions
 dev-libs/libfdata 20190811 20200728: Library for cross-platform C file data functions
 dev-libs/libfdatetime 20180910: Library for date and time formats
@@ -664,7 +664,7 @@ net-wireless/cowpatty 4.8-r1: WLAN tools for bruteforcing 802.11 WPA/WPA2 keys
 net-wireless/crda 1.1.0-r1 1.1.1: Central Regulatory Domain Agent for wireless networks.
 net-wireless/create_ap 0.4.6: A script to create a NATed or bridged WiFi access point
 net-wireless/dsd 1.7.0_pre20180701 9999: Digital Speech Decoder
-net-wireless/dsdcc 1.8.6_p20200216 1.8.9 9999: Digital Speech Decoder rewritten as a C++ library
+net-wireless/dsdcc 1.9.0 9999: Digital Speech Decoder rewritten as a C++ library
 net-wireless/dump1090_sdrplus 20190812: Mode S decoder for (SDR) devices including RTL SDR, HackRF, Airspy and SDRplay
 net-wireless/eaphammer 1.12.0: Targeted evil twin attacks against WPA2-Enterprise networks
 net-wireless/editcp-bin 1.0.18 1.0.20: 
