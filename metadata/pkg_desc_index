@@ -466,8 +466,8 @@ dev-util/recaf-bin 2.3.2 2.3.7: A modern Java bytecode editor
 dev-util/redasm 2.1.1: The OpenSource Disassembler
 dev-util/retdec 3.3-r2 4.0: RetDec is a retargetable machine-code decompiler based on LLVM.
 dev-util/soapui 5.4.0 5.5.0 5.6.0: The Swiss-Army Knife for SOAP Testing
-dev-util/sonarqube-bin 7.9.3 8.3.1.34397: SonarQube Community Edition is an open platform to manage code quality
-dev-util/sonarscanner-bin 4.3.0.2102: SonarQube Command-Line Scanner
+dev-util/sonarqube-bin 7.9.3 8.3.1.34397 8.4.1.35646: SonarQube Community Edition is an open platform to manage code quality
+dev-util/sonarscanner-bin 4.3.0.2102 4.4.0.2170: SonarQube Command-Line Scanner
 dev-util/unicorn 1.0.2_rc2 1.0.2_rc3: A lightweight multi-platform, multi-architecture CPU emulator framework
 dev-util/valabind 1.4.0 1.7.1: Valabind is a tool to parse vala or vapi files to transform them into swig files
 dev-vcs/gitleaks 4.2.0 4.3.1: Audit git repos for secrets
