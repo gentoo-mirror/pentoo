@@ -1,13 +1,13 @@
-BDEPEND=|| ( dev-lang/ruby:2.5 dev-lang/ruby:2.4 dev-lang/ruby:2.6 ) virtual/rubygems dev-ruby/eventmachine www-servers/thin dev-ruby/sinatra:2 dev-ruby/rack:2.0 dev-ruby/rack-protection:2 dev-ruby/em-websocket dev-ruby/uglifier:* dev-ruby/mime-types:* dev-ruby/execjs dev-ruby/ansi dev-ruby/term-ansicolor dev-ruby/json:* dev-ruby/rubyzip dev-ruby/espeak-ruby dev-ruby/nokogiri dev-ruby/rake dev-ruby/otr-activerecord sqlite? ( dev-ruby/sqlite3 ) dev-ruby/parseconfig dev-ruby/erubis msf? ( dev-ruby/msfrpc-client dev-ruby/xmlrpc ) dev-ruby/bundler
+BDEPEND=|| ( dev-lang/ruby:2.5 dev-lang/ruby:2.6 ) virtual/rubygems dev-ruby/eventmachine www-servers/thin dev-ruby/sinatra:2 dev-ruby/rack:2.0 dev-ruby/rack-protection:2 dev-ruby/em-websocket dev-ruby/uglifier:* dev-ruby/mime-types:* dev-ruby/execjs dev-ruby/ansi dev-ruby/term-ansicolor dev-ruby/json:* dev-ruby/rubyzip dev-ruby/espeak-ruby dev-ruby/nokogiri dev-ruby/rake dev-ruby/otr-activerecord sqlite? ( dev-ruby/sqlite3 ) dev-ruby/parseconfig dev-ruby/erubis msf? ( dev-ruby/msfrpc-client dev-ruby/xmlrpc ) dev-ruby/bundler
 DEFINED_PHASES=-
 DESCRIPTION=Browser exploitation framework
 EAPI=7
 HOMEPAGE=http://beefproject.com/
 IUSE=qrcode dns geoip notifications +msf +sqlite
 LICENSE=AGPL-3
-RDEPEND=|| ( dev-lang/ruby:2.5 dev-lang/ruby:2.4 dev-lang/ruby:2.6 ) virtual/rubygems dev-ruby/eventmachine www-servers/thin dev-ruby/sinatra:2 dev-ruby/rack:2.0 dev-ruby/rack-protection:2 dev-ruby/em-websocket dev-ruby/uglifier:* dev-ruby/mime-types:* dev-ruby/execjs dev-ruby/ansi dev-ruby/term-ansicolor dev-ruby/json:* dev-ruby/rubyzip dev-ruby/espeak-ruby dev-ruby/nokogiri dev-ruby/rake dev-ruby/otr-activerecord sqlite? ( dev-ruby/sqlite3 ) dev-ruby/parseconfig dev-ruby/erubis msf? ( dev-ruby/msfrpc-client dev-ruby/xmlrpc )
+RDEPEND=|| ( dev-lang/ruby:2.5 dev-lang/ruby:2.6 ) virtual/rubygems dev-ruby/eventmachine www-servers/thin dev-ruby/sinatra:2 dev-ruby/rack:2.0 dev-ruby/rack-protection:2 dev-ruby/em-websocket dev-ruby/uglifier:* dev-ruby/mime-types:* dev-ruby/execjs dev-ruby/ansi dev-ruby/term-ansicolor dev-ruby/json:* dev-ruby/rubyzip dev-ruby/espeak-ruby dev-ruby/nokogiri dev-ruby/rake dev-ruby/otr-activerecord sqlite? ( dev-ruby/sqlite3 ) dev-ruby/parseconfig dev-ruby/erubis msf? ( dev-ruby/msfrpc-client dev-ruby/xmlrpc )
 RESTRICT=test
 SLOT=0
 SRC_URI=https://github.com/beefproject/beef/archive/v0.5.0.0.tar.gz -> beef-0.5.0.0.tar.gz
-_eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5	ruby-single	e6530f43a549f120f9396ccb852288f5	ruby-utils	cdb4c1e4283adb7707b7dd48ccaa7ad2
+_eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5	ruby-single	e6530f43a549f120f9396ccb852288f5	ruby-utils	9991225e034c8185d67fbc7a8816559f
 _md5_=7928278ffad447d144f8e3c5bcb20f6a
