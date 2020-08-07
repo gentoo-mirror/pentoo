@@ -535,7 +535,7 @@ net-analyzer/mosref 2.0_beta3: A secure remote execution framework using a compa
 net-analyzer/nbtool 20140416: Some tools for NetBIOS and DNS investigation, attacks, and communication
 net-analyzer/ncrack 0.7: Ncrack is a high-speed network authentication cracking tool
 net-analyzer/nessus-bin 8.11.0: A remote security scanner for Linux
-net-analyzer/nikto 2.1.6-r1 2.1.6_p20180122 2.1.6_p20181021 2.1.6_p20190508: Web server vulnerability scanner
+net-analyzer/nikto 2.1.6-r1 2.1.6_p20190508 2.1.6_p20200726: Web server vulnerability scanner
 net-analyzer/nmap 7.80-r1: A utility for network discovery and security auditing
 net-analyzer/nmap-vulners 1.2 1.4_beta 9999: NSE script based on Vulners.com API
 net-analyzer/nmap_vulscan 2.0-r1 2.0_p20170503 2.0_p20171214 2.0_p20190923: A NSE vulnerability scanner which uses an offline version of scip VulDB
@@ -640,7 +640,7 @@ net-proxy/proxenet 0.4.1: A hacker friendly proxy for web application penetratio
 net-proxy/proxenet-plugins 9999: Repository for proxenet plugins
 net-proxy/proxystrike 2.0 2.2: A tool designed to find vulnerabilities while browsing an application
 net-proxy/sshttp 0.35_p2-r1 0.35_p20191108: An easy to use OSI-Layer5 switching daemon
-net-proxy/zaproxy 2.7.0-r1 2.8.0 2.8.1 2.9.0: The OWASP Zed Attack Proxy for finding vulnerabilities in web applications
+net-proxy/zaproxy 2.7.0-r1 2.8.0 2.8.1 2.9.0 2.9.0-r1: The OWASP Zed Attack Proxy for finding vulnerabilities in web applications
 net-vpn/kcptun 20200201 20200226 20200321 20200409: A Stable & Secure Tunnel Based On KCP with N:M Multiplexing
 net-vpn/kcptun-plugins 20190313: SIP003-compatible KCPTUN and UDP2RAW plugins for Shadowsocks
 net-vpn/tuntox 0.0.9 9999: Tunnel TCP connections over the Tox protocol
