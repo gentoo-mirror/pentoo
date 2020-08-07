@@ -8,5 +8,5 @@ LICENSE=GPL-3
 RDEPEND=|| ( ( dev-lang/python:3.7 dev-python/tqdm[python_targets_python3_7(-),python_single_target_python3_7(+)] dev-python/pyopenssl[python_targets_python3_7(-),python_single_target_python3_7(+)] net-analyzer/scapy[python_targets_python3_7(-),python_single_target_python3_7(+)] ) ( dev-lang/python:3.6 dev-python/tqdm[python_targets_python3_6(-),python_single_target_python3_6(+)] dev-python/pyopenssl[python_targets_python3_6(-),python_single_target_python3_6(+)] net-analyzer/scapy[python_targets_python3_6(-),python_single_target_python3_6(+)] ) ) net-dns/dnsmasq net-libs/libnfnetlink dev-libs/libnl:3 net-wireless/hostapd[wpe] net-analyzer/dsniff virtual/httpd-basic
 SLOT=0
 SRC_URI=https://github.com/s0lst1c3/eaphammer/archive/v1.12.0.tar.gz -> eaphammer-1.12.0.tar.gz
-_eclasses_=multilib	2477ebe553d3e4d2c606191fe6c33602	python-any-r1	54a3178500786b0a7ede4a23b7f2a6ad	python-utils-r1	cae3d65c47270c9a8c4880076996c09c	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
+_eclasses_=multilib	2477ebe553d3e4d2c606191fe6c33602	python-any-r1	54a3178500786b0a7ede4a23b7f2a6ad	python-utils-r1	bae936266b68e0c374a74f2b0d0aaa44	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
 _md5_=53eedb6c126f1e98f5a5e70ca8cbcf2a

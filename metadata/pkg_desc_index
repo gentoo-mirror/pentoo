@@ -353,7 +353,6 @@ dev-python/service_identity 18.1.0-r1: Service identity verification for pyOpenS
 dev-python/shelljob 0.5.6: Run multiple subprocesses asynchronous/in parallel with streamed output
 dev-python/shodan 1.17.0 1.23.0: Python library and command-line utility for Shodan
 dev-python/simplekv 0.14.0: A key-value storage for binary data, support many backends.
-dev-python/social-auth-core 3.3.3: Python social authentication made simple
 dev-python/soupsieve 1.9.3: A modern CSS selector implementation for BeautifulSoup
 dev-python/sphinx-autodoc-typehints 1.8.0: Type hints (PEP 484) support for the Sphinx autodoc extension
 dev-python/splinter 0.13.0: tool for testing web applications
