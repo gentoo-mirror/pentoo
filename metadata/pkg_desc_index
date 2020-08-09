@@ -741,7 +741,7 @@ net-wireless/wpa_sycophant 1.0 9999: Evil client portion of EAP relay attack
 pentoo/pentoo 2015.1: Pentoo meta ebuild to install all apps
 pentoo/pentoo-analyzer 2019.4: Pentoo analyzers meta ebuild
 pentoo/pentoo-bluetooth 2019.2: Pentoo bluetooth meta ebuild
-pentoo/pentoo-cinnamon 2018.2: Pentoo cinnamon meta ebuild
+pentoo/pentoo-cinnamon 2020.1: Pentoo cinnamon meta ebuild
 pentoo/pentoo-core 2020.2: Pentoo minimum core requirements
 pentoo/pentoo-cracking 2020.2: Pentoo cracking meta ebuild
 pentoo/pentoo-database 2018.3: Pentoo database attack meta ebuild
