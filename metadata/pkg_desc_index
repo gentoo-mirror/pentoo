@@ -556,6 +556,7 @@ net-analyzer/ruler 2.2.0: A tool to abuse Exchange services
 net-analyzer/rustscan 1.2.2 9999: Faster Nmap Scanning with Rust
 net-analyzer/s3scanner 1.0.0_p20190928: Scan for open AWS S3 buckets and dump the contents
 net-analyzer/scamper 20191102b: Actively probes the Internet in order to analyze topology and performance
+net-analyzer/sdrplay 2.13.1-r1: SDRplay API/HW driver for all RSPs
 net-analyzer/serialusb 0.7: A cheap USB proxy for input devices
 net-analyzer/sessionlist 1.0-r1: A HTTP packets sniffer
 net-analyzer/set 8.0.3: A social engineering framework
