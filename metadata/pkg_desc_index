@@ -386,7 +386,7 @@ dev-python/zlib_wrapper 0.1.3: Wrapper around zlib with custom header crc32.
 dev-qt/qtserialport 5.14.2 5.15.0: Serial port abstraction library for the Qt5 framework
 dev-ruby/active_model_serializers 0.10.10: Generate JSON in an object-oriented and convention-driven manner
 dev-ruby/activerecord-session_store 1.1.3: An Action Dispatch session store backed by an Active Record class
-dev-ruby/bootstrap 4.5.0: Bootstrap 4 rubygem for Rails / Sprockets / Hanami / etc
+dev-ruby/bootstrap 4.5.0 4.5.2: Bootstrap 4 rubygem for Rails / Sprockets / Hanami / etc
 dev-ruby/case_transform 0.2: Extraction of the key_transform abilities of ActiveModelSerializers
 dev-ruby/ckeditor 5.1.0: Ckeditor 4.x integration gem for rails
 dev-ruby/ckeditor_rails 4.10.0: CKEditor is a javascript library of the WYSIWYG rich-text editor
@@ -509,7 +509,7 @@ net-analyzer/dsniff 2.4-r11: A collection of tools for network auditing and pene
 net-analyzer/enteletaor 1.1.1: Message Queue & Broker Injection tool
 net-analyzer/enum4linux 0.8.9-r1: A tool for enumerating information from Windows and Samba systems
 net-analyzer/evilgrade 2.0.9: A modular framework that takes advantage of poor upgrade implementations by injecting fake updates.
-net-analyzer/ffuf 0.10 0.12 1.0 1.0.2: Fast web fuzzer written in Go
+net-analyzer/ffuf 1.0.2 1.1.0: Fast web fuzzer written in Go
 net-analyzer/fierce 1.4.0-r1 9999: A DNS reconnaissance tool for locating non-contiguous IP space
 net-analyzer/findomain 1.4.2 1.4.5 1.5.0 1.7.0 9999: The fastest and cross-platform subdomain enumerator, don't waste your time
 net-analyzer/geoedge 0.2-r2: This little tools is designed to get geolocalization information of a host
@@ -781,7 +781,7 @@ sci-electronics/pcie_injector 20180527: Information gathering tool designed for 
 sys-apps/become 1.0 1.0-r1: utility for changing the current real, effective or group id
 sys-apps/magic-pax 0.0.1: 
 sys-apps/openrazer 20200712: Razer Drivers for Linux (Blackwidow TE 2014 test branch)
-sys-auth/polkit 0.116-r2: Policy framework for controlling privileges for system-wide services
+sys-auth/polkit 0.116-r2 0.117: Policy framework for controlling privileges for system-wide services
 sys-devel/autofdo 0.18 0.19 9999: System to simplify real-world deployment of feedback-directed optimization
 sys-devel/gcc-arm-none-eabi 9.2019.4 9.2020.2: GNU Arm Embedded Toolchain
 sys-devel/gdb-dashboard 0.11.1 0.11.4 9999: Modular visual interface for GDB in Python
