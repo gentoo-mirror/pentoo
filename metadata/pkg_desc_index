@@ -96,7 +96,7 @@ app-forensics/volatility 2.6.1-r1: Framework for analyzing volatile memory
 app-forensics/volatility3 1.0.0_beta1: Framework for analyzing volatile memory
 app-forensics/xmount 0.7.6: Convert on-the-fly between multiple input and output harddisk image types
 app-forensics/yara 4.0.0 4.0.1 4.0.2: A malware identification and classification tool
-app-forensics/yaramod 3.6.0: Parsing of YARA rules into AST and building new rulesets in C++
+app-forensics/yaramod 3.6.0 3.7.2: Parsing of YARA rules into AST and building new rulesets in C++
 app-forensics/zsteg 0.2.2: Detect stegano-hidden data in PNG & BMP
 app-fuzz/0d1n 2.6 9999: Web security tool to make fuzzing at HTTP/S
 app-fuzz/bed 0.5: BED is a multi-protocol fuzzer written in perl
