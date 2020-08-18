@@ -786,7 +786,7 @@ sys-devel/gcc-arm-none-eabi 9.2019.4 9.2020.2: GNU Arm Embedded Toolchain
 sys-devel/gdb-dashboard 0.11.1 0.11.4 9999: Modular visual interface for GDB in Python
 sys-devel/gef 2020.06 9999: A GDB Enhanced Features for exploit devs & reversers
 sys-devel/peda 1.1_p20190210 9999: Python Exploit Development Assistance for GDB
-sys-devel/pwndbg 20191209 99999999: A GDB plug-in that makes debugging with GDB suck less
+sys-devel/pwndbg 20200723 99999999: A GDB plug-in that makes debugging with GDB suck less
 sys-fs/ext4-crypt 20170216 99999999: A userspace tool to create ext4 encrypted directories
 sys-fs/sasquatch 20160119 20180522: The sasquatch project is a set of patches to the standard unsquashfs utility
 sys-fs/static-dev 0.1: A skeleton, statically managed /dev
