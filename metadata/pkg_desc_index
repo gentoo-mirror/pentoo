@@ -1,8 +1,10 @@
+acct-group/davmail 0: Group for Davmail
 acct-group/neo4j 0: Group for neo4j-community
 acct-group/solaar 0: Group for Solaar
 acct-group/sonar 0: Group for SonarQube
 acct-group/spiderfoot 0: Group for SpiderFoot
 acct-group/vuls 0: Group for Vuls
+acct-user/davmail 0: User for Davmail
 acct-user/sonar 0: User for SonarQube
 acct-user/spiderfoot 0: User for SpiderFoot
 acct-user/vuls 0: User for Vuls
@@ -601,7 +603,7 @@ net-libs/libpfring 7.0.0 7.2.0 7.4.0: A new type of network socket that improves
 net-libs/libsearpc 3.2.0-r1: A simple C language RPC framework
 net-libs/libtins 4.1 4.2: High-level, multiplatform C++ network packet sniffing and crafting library.
 net-libs/libvidcap 0.2.1: a cross-platform library for capturing video from webcams and other video capture devices
-net-mail/davmail-bin 4.7.3 5.2.0.2961 5.3.0.3065 5.3.1.3079 5.4.0.3135: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
+net-mail/davmail-bin 5.4.0.3135 5.5.1.3299: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
 net-mail/email2phonenumber 20190916 99999999: A OSINT tool to obtain a target's phone number just by having his email address
 net-mail/fakepop 11: fake pop3 server which returns the same messages to all users
 net-misc/brutespray 1.6.6 1.6.8: Brute-Forcing from Nmap output using default creds
