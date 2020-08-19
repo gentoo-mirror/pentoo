@@ -6,4 +6,4 @@ IUSE=livecd
 KEYWORDS=~amd64 ~x86
 PDEPEND=livecd? ( pentoo/pentoo-installer app-admin/pwgen app-misc/livecd-tools app-portage/eix app-portage/smart-live-rebuild net-wireless/b43-fwcutter sys-apps/hwsetup sys-block/disktype sys-fs/squashfs-tools sys-apps/gentoo-functions virtual/eject )
 SLOT=0
-_md5_=4546a29469c143159fa52fd1d7796d60
+_md5_=c67f5bd274637dd937c8b80e0ae01d94
