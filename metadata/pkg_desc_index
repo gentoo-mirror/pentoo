@@ -36,7 +36,7 @@ app-dicts/seclists 2020.1 2020.2 2020.3: A collection of multiple types of lists
 app-editors/visual-studio-code 1.47.3 1.48.0: Multiplatform Visual Studio Code from Microsoft
 app-exploits/ROPgadget 6.2 6.3: Search for gadgets in binaries to facilitate your ROP exploitation
 app-exploits/deathstar 20180722: A tool to gain Domain Admin rights with a push of a button
-app-exploits/empire 3.3.0 3.3.2: A post-exploitation framework
+app-exploits/empire 3.3.2 3.3.4: A post-exploitation framework
 app-exploits/enumdb 2.1.0: Database brute force and post exploitation tool
 app-exploits/exploit-pattern 20200109: Generate and search pattern string for exploit development
 app-exploits/exploitdb 20200717 99999999: All exploits from exploit-db.com
@@ -747,7 +747,7 @@ pentoo/pentoo-cinnamon 2020.1: Pentoo cinnamon meta ebuild
 pentoo/pentoo-core 2020.2-r1: Pentoo minimum core requirements
 pentoo/pentoo-cracking 2020.2: Pentoo cracking meta ebuild
 pentoo/pentoo-database 2018.3: Pentoo database attack meta ebuild
-pentoo/pentoo-desktop 2020.2-r1: Pentoo meta ebuild to install all X and WM/DE related things
+pentoo/pentoo-desktop 2020.2-r2: Pentoo meta ebuild to install all X and WM/DE related things
 pentoo/pentoo-exploit 2020.0-r1: Pentoo exploit meta ebuild
 pentoo/pentoo-footprint 2020.1: Pentoo footprint meta ebuild
 pentoo/pentoo-forensics 2020.1-r3: Pentoo forensics meta ebuild
