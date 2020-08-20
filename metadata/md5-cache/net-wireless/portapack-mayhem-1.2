@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile configure install unpack
+DEPEND=sys-devel/gcc-arm-none-eabi
+DESCRIPTION=Custom firmware for the HackRF SDR + PortaPack H1 addon
+EAPI=7
+HOMEPAGE=https://github.com/eried/portapack-mayhem
+IUSE=sdcard-files
+KEYWORDS=~amd64 ~arm ~x86
+LICENSE=GPL-2
+PDEPEND=>=net-wireless/hackrf-tools-2015.07.2-r1 >=app-mobilephone/dfu-util-0.7
+SLOT=0
+SRC_URI=https://github.com/eried/portapack-mayhem/releases/download/1.2/mayhem_v1.2_FIRMWARE.7z sdcard-files? ( https://github.com/eried/portapack-mayhem/releases/download/1.2/mayhem_v1.2_COPY_TO_SDCARD.7z )
+_md5_=927d39488f56d09a3ab8b2090a00a5f3
