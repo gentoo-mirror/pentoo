@@ -1,7 +1,7 @@
-# Copyright 1999-2020 Gentoo Foundation
+# Copyright 1999-2020 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI="7"
+EAPI=7
 
 DESCRIPTION="Pentoo meta ebuild to install all X and WM/DE related things"
 HOMEPAGE="http://www.pentoo.ch"
@@ -20,7 +20,7 @@ PDEPEND="X? (
 		!livecd-stage1? ( || ( x11-base/xorg-server dev-libs/wayland ) )
 		app-admin/genmenu
 		net-misc/networkmanager
-		x11-misc/slim
+		|| ( x11-misc/slim x11-misc/sddm )
 		app-arch/file-roller
 
 		pentoo-full? (
@@ -107,7 +107,7 @@ src_install() {
 
 	insinto /etc/skel
 	newins "${FILESDIR}"/Xdefaults .Xdefaults
-	use xfce && newins "${FILESDIR}"/xfce-xinitrc .Xdefaults
+	use xfce && newins "${FILESDIR}"/xfce-xinitrc .xinitrc
 
 	insinto /etc/skel/.config
 	doins "${FILESDIR}"/mimeapps.list
