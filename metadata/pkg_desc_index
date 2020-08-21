@@ -8,7 +8,7 @@ acct-user/davmail 0: User for Davmail
 acct-user/sonar 0: User for SonarQube
 acct-user/spiderfoot 0: User for SpiderFoot
 acct-user/vuls 0: User for Vuls
-app-admin/genmenu 9999: a tool for generating freedesktop-compliant menus
+app-admin/genmenu 0.0_p20200512 9999: a tool for generating freedesktop-compliant menus
 app-admin/vuls 0.9.0-r1: Vulnerability scanner for Linux, agentless, written in Golang
 app-antivirus/lkrg 0.6 0.7: Linux Kernel Runtime Guard
 app-antivirus/malheur 0.5.4-r1: Malware analysis tool
@@ -717,7 +717,7 @@ net-wireless/op25 20200418: software-defined analyzer for APCO P25 signals
 net-wireless/pixiewps 1.4.2: Bruteforce offline the WPS pin exploiting the low or non-existing entropy
 net-wireless/portapack-firmware 99999999: Portability Add-On for the HackRF Software-Defined Radio
 net-wireless/portapack-havoc 9999: Custom firmware for the HackRF SDR + PortaPack H1 addon
-net-wireless/portapack-mayhem 1.2 9999: Custom firmware for the HackRF SDR + PortaPack H1 addon
+net-wireless/portapack-mayhem 1.2-r1 9999: Custom firmware for the HackRF SDR + PortaPack H1 addon
 net-wireless/proxmark3 3.1.0_p20190820 3.1.0_p20200316 4.9237 9999: A general purpose RFID tool for Proxmark3 hardware
 net-wireless/pyrit 0.5.0_p20180801: GPU-accelerated attack against WPA-PSK authentication
 net-wireless/qspectrumanalyzer 2.2.0 9999: vendor and platform neutral SDR support library
