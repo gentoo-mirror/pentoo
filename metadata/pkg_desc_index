@@ -598,7 +598,7 @@ net-dialup/minimodem 0.24: General-purpose software audio FSK modem.
 net-fs/afpfs-ng 0.8.1 0.8.2: a client for the Apple Filing Protocol
 net-im/jitsi 2.11.5633: Secure IM communicator that supports SIP, XMPP, AIM/ICQ, Windows Live, Yahoo
 net-im/jitsi-videobridge 1132: https://github.com/jitsi/jitsi-videobridge
-net-libs/libosmocore 1.3.1 1.3.2: Utility functions for OsmocomBB, OpenBSC and related projects
+net-libs/libosmocore 1.3.1 1.3.2 1.4.0: Utility functions for OsmocomBB, OpenBSC and related projects
 net-libs/libpfring 7.0.0 7.2.0 7.4.0: A new type of network socket that improves packet capture speed.
 net-libs/libsearpc 3.2.0-r1: A simple C language RPC framework
 net-libs/libtins 4.1 4.2: High-level, multiplatform C++ network packet sniffing and crafting library.
