@@ -626,7 +626,6 @@ net-misc/rdesktop-brute 1.5.0: A Remote Desktop Protocol Client
 net-misc/seafile 7.0.5-r1 7.0.7 7.0.9: File syncing and sharing software with file encryption and group sharing
 net-misc/seafile-client 7.0.5 7.0.7 7.0.9: Seafile desktop client
 net-misc/sherlock 0.10.4 0.10.5 0.10.9 0.11.1 9999: Find usernames across social networks
-net-misc/sipp 3.6.0: SipBomber is a tool to stress SIP server/proxy implementations.
 net-misc/t50 5.8.5 5.8.7: Mixed Packet Injector & Network Stress Testing Tool
 net-misc/tcpick 0.2.1-r2: A tcp stream sniffer, tracker and capturer.
 net-misc/tko-subs 20190624: A tool that can help detect and takeover subdomains with dead DNS records
