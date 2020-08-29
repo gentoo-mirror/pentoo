@@ -78,7 +78,7 @@ app-forensics/oletools 0.55.1: A python tools to analyze MS OLE2 files and MS Of
 app-forensics/openscap 1.3.1 1.3.2 1.3.3: Framework which enables integration with Security Content Automation Protocol
 app-forensics/openscap-daemon 0.1.10-r1: Manages continuous scans of your infrastructure
 app-forensics/origami-pdf 2.1.0: A Ruby framework designed to parse, analyze, and forge PDF documents
-app-forensics/pcileech 4.4 4.5: Direct Memory Access (DMA) Attack Software
+app-forensics/pcileech 4.4 4.5 4.6: Direct Memory Access (DMA) Attack Software
 app-forensics/pdf-parser 0.7.4: This tool will parse a PDF document to identify the fundamental elements used
 app-forensics/pdfid 0.2.6 0.2.7: This tool will scan a PDF document looking for certain keyword
 app-forensics/pdfwalker 1.0.0-r1: A GTK frontend to explore the internals of a PDF document with Origami
@@ -143,7 +143,7 @@ dev-java/jd-core 1.0.6: JD-Core is a JAVA decompiler written in JAVA
 dev-java/jgraphx 2.1.1.2 4.0.6: Open-source graph component for Java
 dev-java/msgpack 0.5.1 0.6.12 0.8.16: MessagePack for Java is a binary-based efficient object serialization library
 dev-java/sleep 2.1-r1: Duct Tape for the Java platform
-dev-libs/LeechCore 1.7 2.0: Direct Memory Access (DMA) Attack Software
+dev-libs/LeechCore 1.7 2.0 2.1: Direct Memory Access (DMA) Attack Software
 dev-libs/hashdb 3.1.0-r1: The hashdb block hash database tool and API
 dev-libs/keystone 0.9.1-r1: assembly/assembler framework + bindings
 dev-libs/libcdata 20190112 20200509: Library for cross-platform C generic data functions
