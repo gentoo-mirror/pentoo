@@ -215,6 +215,7 @@ dev-python/cfscrape 1.9.7 2.0.7 2.1.1: A module to bypass Cloudflare's anti-bot 
 dev-python/cmake-converter 2.0.1: CMake converter for Visual Studio projects
 dev-python/codegen 1.0: Extension to ast that allow ast -> python code generation
 dev-python/config 0.4.0 0.4.2: A hierarchical, easy-to-use, powerful configuration module for Python
+dev-python/coreapi 2.3.3: Python client library for Core API
 dev-python/coreschema 0.0.4: Core Schema
 dev-python/csvkit 1.0.4-r1 1.0.5: A suite of utilities for converting to and working with CSV files
 dev-python/dataset 1.1.0 1.1.2: Easy-to-use data handling for SQL data stores
@@ -223,6 +224,8 @@ dev-python/delegator 0.1.1: Subprocesses for Humans 2.0
 dev-python/dhcplib 0.1.1: Pure-Python, spec-compliant DHCP-packet-processing library
 dev-python/django-constance-haiwen 20180515: Django live settings with pluggable backends, including Redis
 dev-python/django-formtools 2.1: A set of high-level abstractions for Django forms
+dev-python/django-guardian 2.3.0: Implementation of per object permissions for Django 1.2+
+dev-python/django-oauth-toolkit 1.1.3 1.2.0: OAuth2 goodies for the Djangonauts
 dev-python/django-post_office-haiwen 20180914: A Django app to monitor and send mail asynchronously
 dev-python/django-pylibmc 0.6.1: Django cache backend using pylibmc
 dev-python/django-ranged-response 0.2.0: Django FileResponse that adds Content-Range headers
@@ -334,6 +337,7 @@ dev-python/python-docx 0.8.10: Create and modify Word documents with Python
 dev-python/python-iptools 0.7.0: A package is a collection of utilities for dealing with IP addresses
 dev-python/python-libnmap 0.7.0: A python library enabling python developers to manipulate nmap process and data
 dev-python/python-nmap 0.6.1: a python library which helps in using nmap port scanner
+dev-python/python-oauth2 1.1.1: OAuth 2.0 provider for python
 dev-python/python-pptx 0.6.18: Create Open XML PowerPoint documents in Python
 dev-python/python-ptrace 0.9.4: A Python binding of ptrace library
 dev-python/python-secure 0.2.1: Secure headers and cookies for Python web frameworks
@@ -811,6 +815,7 @@ sys-libs/libkudzu 1.2.85.1: Red Hat Hardware detection tools
 sys-power/acpid 2.0.32-r1: Daemon for Advanced Configuration and Power Interface
 virtual/linux-sources 3-r104: Virtual for Linux kernel sources
 www-apps/BloodHound 3.0.4 3.0.5: Six Degrees of Domain Admin
+www-apps/Tiredful-API 9999: An intentionally designed broken web application based on REST API
 www-apps/beef 0.5.0.0: Browser exploitation framework
 www-apps/faraday 3.10.0: Integrated Penetration-Test Environment is a multiuser Penetration test IDE
 www-apps/geckodriver 0.23.0 0.27.0: Proxy for using WebDriver clients to interact with Gecko-based browsers.
