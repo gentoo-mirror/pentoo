@@ -593,7 +593,7 @@ net-analyzer/videojak 1.00 2.0: VideoJak is an IP Video security assessment tool
 net-analyzer/voiphopper 2.04-r3: VoIP Hopper is a tool that rapidly runs a VLAN Hop into the Voice VLAN
 net-analyzer/vomit 0.2c: Converts a Cisco IP phone conversation into a wav file
 net-analyzer/wafw00f 2.1.0-r1: Identifies and fingerprints Web Application Firewall (WAF) products
-net-analyzer/wfuzz 2.4.7-r1 3.0.0: Wfuzz is a tool designed for bruteforcing Web Applications
+net-analyzer/wfuzz 2.4.7-r1 3.0.1: Wfuzz is a tool designed for bruteforcing Web Applications
 net-analyzer/whatweb 0.5.1-r1 0.5.2: Next generation web scanner, identifies what software websites are running
 net-analyzer/wpscan 3.7.11 3.8.1 3.8.6: Wordpress security scanner
 net-analyzer/xbruteforcer 20180611: Login brute force tool for WordPress, Joomla, DruPal, OpenCart, and Magento.
