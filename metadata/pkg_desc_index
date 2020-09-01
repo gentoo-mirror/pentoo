@@ -692,6 +692,7 @@ net-wireless/gr-gsm 20191116: Set of tools for receiving information transmitted
 net-wireless/gr-ham 20200511: 
 net-wireless/gr-keyfob 9999: GNU Radio block for Hella wireless car key fobs
 net-wireless/gr-lte 9999: GNU Radio block for LTE signals
+net-wireless/gr-mixalot 9999: a set of GNU Radio blocks/utilities to encode pager messages
 net-wireless/gr-reveng 9999: GNU Radio block for reverse engineering RF protocols
 net-wireless/gr-tpms 9999: GNU Radio block for Tire Pressure Monitor tools
 net-wireless/grimwepa 1.10_p5-r101 1.10_p6: A password cracker for both WEP and WPA-encrypted access points
