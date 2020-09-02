@@ -6,5 +6,5 @@ HOMEPAGE=https://github.com/deltj/kis_shootout_python.git
 LICENSE=GPL-3
 PROPERTIES=live
 SLOT=0
-_eclasses_=git-r3	8ec5b53812bce105ae7943930e4660f8
+_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
 _md5_=f21b1780ae905ce1d9e30ef627293ac1

@@ -10,5 +10,5 @@ PROPERTIES=live
 RDEPEND=virtual/libusb:0 sys-libs/ncurses:*[tinfo] sys-libs/readline:= bluez? ( net-wireless/bluez ) qt? ( dev-qt/qtcore:5 dev-qt/qtwidgets:5 dev-qt/qtgui:5 )
 REQUIRED_USE=?? ( standalone-lf-em4100emul standalone-lf-em4100rswb standalone-lf-em4100rwc standalone-lf-icehid standalone-lf-samyrun standalone-lf-proxbrute standalone-lf-hidbrute standalone-hf-14asniff standalone-hf-legic standalone-hf-msdsal standalone-hf-young standalone-hf-mattyrun standalone-hf-colin standalone-hf-bog ) standalone-lf-icehid? ( pm3rdv4 ) standalone-hf-14asniff? ( pm3rdv4 ) standalone-hf-colin? ( pm3rdv4 ) standalone-hf-bog? ( pm3rdv4 )
 SLOT=0
-_eclasses_=git-r3	8ec5b53812bce105ae7943930e4660f8	multilib	2477ebe553d3e4d2c606191fe6c33602	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	udev	452708c3f55cf6e918b045adb949a9e6
+_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441	multilib	2477ebe553d3e4d2c606191fe6c33602	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	udev	452708c3f55cf6e918b045adb949a9e6
 _md5_=bd5e9a07079b0c7a2f306580e1758bc0
