@@ -1,9 +1,0 @@
-DEFINED_PHASES=install prepare
-EAPI=7
-HOMEPAGE=https://www.farnsworth.org/dale/codeplug/editcp
-KEYWORDS=~amd64
-RDEPEND=dev-libs/libusb:1
-RESTRICT=strip
-SLOT=0
-SRC_URI=https://www.farnsworth.org/dale/codeplug/editcp/downloads/linux/previous/editcp-1.0.18.tar.xz
-_md5_=34a8f6dcb6515462f22b3760e7b94281
