@@ -71,7 +71,7 @@ app-forensics/libforensic1394 0.2-r1 9999: Library for carrying out memory foren
 app-forensics/libpff 20161119 20180714: Library for accessing Personal Folder Files
 app-forensics/libvshadow 20191221: Library and tools to support the Volume Shadow Snapshot (VSS) format.
 app-forensics/make-pdf 0.1.7-r1: This tool will embed javascript inside a PDF document
-app-forensics/maltego 4.2.6.12502 4.2.7.12570: Visualise, map and mine data
+app-forensics/maltego 4.2.6.12502 4.2.7.12570 4.2.12.13389: Visualise, map and mine data
 app-forensics/mxtract 1.1: A memory extractor & analyzer
 app-forensics/mysql-magic 9999: dump mysql client password from memory
 app-forensics/oletools 0.55.1: A python tools to analyze MS OLE2 files and MS Office documents
@@ -477,7 +477,7 @@ dev-util/sonarqube-bin 7.9.3 8.3.1.34397 8.4.1.35646: SonarQube Community Editio
 dev-util/sonarscanner-bin 4.3.0.2102 4.4.0.2170: SonarQube Command-Line Scanner
 dev-util/unicorn 1.0.2_rc2 1.0.2_rc3: A lightweight multi-platform, multi-architecture CPU emulator framework
 dev-util/valabind 1.4.0 1.7.1: Valabind is a tool to parse vala or vapi files to transform them into swig files
-dev-vcs/gitleaks 4.2.0 4.3.1: Audit git repos for secrets
+dev-vcs/gitleaks 4.2.0 4.3.1 6.1.2: Audit git repos for secrets
 dev-vcs/trufflehog 2.1.11_p20200220: Searches through git repositories for high entropy strings and secrets
 gnome-base/gnome-keyring 3.31.91-r1 3.34.0 3.36.0: Password and keyring managing daemon
 gnome-base/libgnomeui 2.24.5-r4: User Interface routines for Gnome
@@ -519,7 +519,7 @@ net-analyzer/enum4linux 0.8.9-r1: A tool for enumerating information from Window
 net-analyzer/evilgrade 2.0.9: A modular framework that takes advantage of poor upgrade implementations by injecting fake updates.
 net-analyzer/ffuf 1.0.2 1.1.0: Fast web fuzzer written in Go
 net-analyzer/fierce 1.4.0-r1 9999: A DNS reconnaissance tool for locating non-contiguous IP space
-net-analyzer/findomain 1.4.2 1.4.5 1.5.0 1.7.0 9999: The fastest and cross-platform subdomain enumerator, don't waste your time
+net-analyzer/findomain 1.7.0 2.1.1 9999: The fastest and cross-platform subdomain enumerator, don't waste your time
 net-analyzer/geoedge 0.2-r2: This little tools is designed to get geolocalization information of a host
 net-analyzer/geoipgen 0.4: Generate a list of hostnames based on country
 net-analyzer/gitgraber 20191002: Tool to scan for sensitive information within public GitHub repositories
@@ -617,7 +617,7 @@ net-misc/corscanner 20190721 99999999: Fast CORS misconfiguration vulnerabilitie
 net-misc/dirscraper 20190224 99999999: Scanning tool which discovers dirs found in javascript files hosted on a website
 net-misc/faifa 0.1 9999: Power Line Communication device manager
 net-misc/goaltdns 20190330: A permutation generation tool written in golang
-net-misc/gowitness 1.3.1 1.3.2 1.3.3: A web screenshot utility using Chrome Headless
+net-misc/gowitness 1.3.1 1.3.2 1.3.3 1.3.4: A web screenshot utility using Chrome Headless
 net-misc/hackertarget 1.2.3 9999: A security toolkit for organizations with attack surface discovery
 net-misc/httprobe 0.1.1 0.1.2: Take a list of domains and probe for working HTTP and HTTPS servers
 net-misc/iaxclient 2.1_beta3-r1 2.1_beta3-r2 2.1_beta3-r3 2.1_beta3-r4 2.1_beta3-r5: Multiplatform IAX library for creating telephony solutions that interoperate with Asterisk
@@ -648,7 +648,7 @@ net-proxy/proxenet-plugins 9999: Repository for proxenet plugins
 net-proxy/proxystrike 2.0 2.2: A tool designed to find vulnerabilities while browsing an application
 net-proxy/sshttp 0.35_p2-r1 0.35_p20191108: An easy to use OSI-Layer5 switching daemon
 net-proxy/zaproxy 2.7.0-r1 2.8.0 2.8.1 2.9.0 2.9.0-r1: The OWASP Zed Attack Proxy for finding vulnerabilities in web applications
-net-vpn/kcptun 20200201 20200226 20200321 20200409: A Stable & Secure Tunnel Based On KCP with N:M Multiplexing
+net-vpn/kcptun 20200201 20200226 20200321 20200409 20200701: A Stable & Secure Tunnel Based On KCP with N:M Multiplexing
 net-vpn/kcptun-plugins 20190313: SIP003-compatible KCPTUN and UDP2RAW plugins for Shadowsocks
 net-vpn/tuntox 0.0.9 9999: Tunnel TCP connections over the Tox protocol
 net-vpn/udp2raw-tunnel 20200727.0 20200818.0 99999999: A tunnel which turns UDP traffic into encrypted FakeTCP/UDP/ICMP traffic
