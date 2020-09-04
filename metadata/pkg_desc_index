@@ -128,7 +128,7 @@ dev-db/neo4j-community 3.5.3-r1 3.5.12 3.5.16 4.0.0-r1 4.0.3 4.0.4: High-perform
 dev-db/nosqlmap 0.5_p20190812: A tool to automate injection attacks and exploit weaknesses in NoSQL
 dev-db/oat 1.3.1: a toolkit that could be used to audit security within Oracle database servers
 dev-db/sqlbf 1.0.1-r1: SQLBF is a tool to audit mssql passwords strength offline
-dev-db/sqlmap 1.4.7 1.4.8 9999: An automatic SQL injection and database takeover tool
+dev-db/sqlmap 1.4.8 1.4.9 9999: An automatic SQL injection and database takeover tool
 dev-db/sqlsus 0.7.2: MySQL injection and takeover tool
 dev-embedded/libmpsse 1.3_p20160602 1.3.2: Open source library for SPI/I2C control via FTDI chips
 dev-embedded/mphidflash 1.6 1.8: Tool for communicating with the USB-Bootloader in PIC microcontrollers
@@ -451,7 +451,7 @@ dev-util/appmon 0.5: Monitoring and tampering API calls of MacOS and iOS/Android
 dev-util/build-tools 30: Android SDK Build Tools
 dev-util/catalyst 3.0.9: Release metatool used for creating releases based on Gentoo Linux
 dev-util/collabreate 0.4.0_p20140528: A plugin for IDA Pro designed to provide collaborative reverse engineering
-dev-util/cutter 1.11.1: A Qt and C++ GUI for radare2 reverse engineering framework
+dev-util/cutter 1.12.0: A Qt and C++ GUI for radare2 reverse engineering framework
 dev-util/dependency-check-bin 5.2.4 5.3.2: A utility that detects vulnerabilities in application dependencies
 dev-util/dex2jar 2.1_pre20150601 2.1_pre20180402: Tools to work with android .dex and java .class files
 dev-util/dwarf-debugger 1.0.9 1.0.9_p20200521: Full featured multi arch/os debugger built on top of PyQt5 and frida
