@@ -78,7 +78,7 @@ app-forensics/oletools 0.55.1: A python tools to analyze MS OLE2 files and MS Of
 app-forensics/openscap 1.3.1 1.3.2 1.3.3: Framework which enables integration with Security Content Automation Protocol
 app-forensics/openscap-daemon 0.1.10-r1: Manages continuous scans of your infrastructure
 app-forensics/origami-pdf 2.1.0: A Ruby framework designed to parse, analyze, and forge PDF documents
-app-forensics/pcileech 4.4 4.5 4.6: Direct Memory Access (DMA) Attack Software
+app-forensics/pcileech 4.6 4.7: Direct Memory Access (DMA) Attack Software
 app-forensics/pdf-parser 0.7.4: This tool will parse a PDF document to identify the fundamental elements used
 app-forensics/pdfid 0.2.6 0.2.7: This tool will scan a PDF document looking for certain keyword
 app-forensics/pdfwalker 1.0.0-r1: A GTK frontend to explore the internals of a PDF document with Origami
