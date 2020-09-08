@@ -91,7 +91,7 @@ app-forensics/samhain 4.3.3 4.4.0: Advanced file integrity and intrusion detecti
 app-forensics/scap-security-guide 0.1.50 0.1.51: Security compliance content in SCAP, Bash, Ansible, and other formats
 app-forensics/scap-workbench 1.2.0-r1 1.2.1: SCAP Scanner And Tailoring Graphical User Interface
 app-forensics/spiderfoot 3.0: The most complete OSINT collection and reconnaissance tool
-app-forensics/stegoveritas 1.5: Automatic image steganography analysis tool
+app-forensics/stegoveritas 1.5 1.8: Automatic image steganography analysis tool
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
 app-forensics/thehive 3.4.1: A scalable 4-in-1 open source and free Security Incident Response Platform
 app-forensics/volatility 2.6.1-r1: Framework for analyzing volatile memory
