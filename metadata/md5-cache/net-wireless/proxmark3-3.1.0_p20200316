@@ -10,5 +10,5 @@ LICENSE=GPL-2
 RDEPEND=virtual/libusb:0 sys-libs/ncurses:*[tinfo] dev-qt/qtcore:5 dev-qt/qtwidgets:5 dev-qt/qtgui:5 sys-libs/readline:= dev-util/astyle
 SLOT=0
 SRC_URI=https://github.com/RfidResearchGroup/proxmark3/archive/1ac5211601b50b82b41737dce0c3a72d9e0374ac.tar.gz -> proxmark3-3.1.0_p20200316.tar.gz
-_eclasses_=multilib	2477ebe553d3e4d2c606191fe6c33602	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	udev	452708c3f55cf6e918b045adb949a9e6
+_eclasses_=multilib	98584e405e2b0264d37e8f728327fed1	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	udev	452708c3f55cf6e918b045adb949a9e6
 _md5_=b92726bcca444f114da1ef33a1033d06
