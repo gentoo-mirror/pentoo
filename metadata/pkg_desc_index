@@ -428,6 +428,12 @@ dev-ruby/ipaddr 1.2.2: IPAddr provides a set of methods to manipulate an IP addr
 dev-ruby/jsonapi-renderer 0.2.2: Efficiently render JSON API documents.
 dev-ruby/louis 2.2.3: Lookup mac address assignments in the iana database
 dev-ruby/memory_profiler 0.9.14: Memory profiling routines for Ruby 2.1+
+dev-ruby/metasploit-concern 3.0.0: Metasploit concern allows you to define concerns in app/concerns.
+dev-ruby/metasploit-credential 4.0.2: Code for modeling and managing credentials in Metasploit
+dev-ruby/metasploit-model 3.0.0: Common code, such as validators and mixins
+dev-ruby/metasploit-payloads 2.0.12: Compiled binaries for Metasploit's Meterpreter
+dev-ruby/metasploit_data_models 4.0.2: The database layer for Metasploit
+dev-ruby/metasploit_payloads-mettle 1.0.2 1.0.3: Compiled binaries for Metasploit's next-gen Meterpreter
 dev-ruby/mini_exiftool 2.10.0: wrapper for exiftool
 dev-ruby/msfrpc-client 1.1.2: Ruby client API to access the Rapid7 Metasploit Pro RPC service
 dev-ruby/mustermann-grape 1.0.1: Adds Grape style patterns to Mustermman
@@ -439,6 +445,8 @@ dev-ruby/popper_js 1.16.0: Popper.js assets as a Ruby gem
 dev-ruby/rack-accept 0.4.5: HTTP Accept, Accept-Charset, Accept-Encoding, and Accept-Language for Ruby/Rack
 dev-ruby/rack-cors 1.1.1: Rack CORS Middleware
 dev-ruby/rex 2.0.13: A variety of classes useful for security testing and exploit development
+dev-ruby/rex-core 0.1.13: Core libraries required for the Ruby Exploitation (Rex) Suite
+dev-ruby/rex-socket 0.1.23: The Ruby Exploitation (Rex) Socket Abstraction Library
 dev-ruby/ruby-gtkhex 0.2.0: A hexadecimal widget using gtk2, inspired by GHex
 dev-ruby/sablon 0.3.2: Document template processor of Microsoft XML format (docx)
 dev-ruby/similar_text 0.0.4: Calculate the similarity between two strings
@@ -539,7 +547,7 @@ net-analyzer/masscan 1.0.4-r1 1.0.5-r1: Mass IP port scanner
 net-analyzer/massdns 0.3 9999: A high-performance DNS stub resolver for bulk lookups and reconnaissance
 net-analyzer/medusa 2.2_p20181217: A modular, parallel, multiprotocol, network login auditor
 net-analyzer/metagoofil 1.4b-r1 2.2: Information gathering tool designed for extracting metadata of public documents
-net-analyzer/metasploit 9999: Advanced framework for developing, testing, and using vulnerability exploit code
+net-analyzer/metasploit 6.0.6 9999: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/mosref 2.0_beta3: A secure remote execution framework using a compact Scheme-influenced VM
 net-analyzer/nbtool 20140416: Some tools for NetBIOS and DNS investigation, attacks, and communication
 net-analyzer/ncrack 0.7: Ncrack is a high-speed network authentication cracking tool
