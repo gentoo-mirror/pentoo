@@ -3,7 +3,7 @@
 
 EAPI=7
 
-USE_RUBY="ruby25 ruby26 ruby27"
+USE_RUBY="ruby25 ruby26"
 
 inherit ruby-fakegem
 
@@ -15,5 +15,9 @@ LICENSE=""
 SLOT="0"
 
 ruby_add_rdepend "
-	dev-ruby/xyz
+	>=dev-ruby/addressable-2.3.4
+	dev-ruby/cookiejar
+	>=dev-ruby/em-socksify-0.3
+	>=dev-ruby/eventmachine-1.0.3
+	>=dev-ruby/http_parser_rb-0.6.0
 "
