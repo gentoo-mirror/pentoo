@@ -401,6 +401,7 @@ dev-ruby/case_transform 0.2: Extraction of the key_transform abilities of Active
 dev-ruby/ckeditor 5.1.0: Ckeditor 4.x integration gem for rails
 dev-ruby/ckeditor_rails 4.10.0: CKEditor is a javascript library of the WYSIWYG rich-text editor
 dev-ruby/cms_scanner 0.8.6-r1 0.10.0 0.12.1: Framework to provide an easy way to implement CMS Scanners
+dev-ruby/cookiejar 0.3.3: Allows for parsing and returning cookies in Ruby HTTP client code
 dev-ruby/data_objects 0.10.17: The Core DataObjects class
 dev-ruby/dm-core 1.2.1: An Object/Relational Mapper for Ruby
 dev-ruby/dm-do-adapter 1.2.0: A DataObjects Adapter for DataMapper
@@ -417,6 +418,8 @@ dev-ruby/dry-equalizer 0.3.0: collection of next-generation Ruby libraries
 dev-ruby/dry-inflector 0.2.0: collection of next-generation Ruby libraries
 dev-ruby/dry-logic 1.0.6: collection of next-generation Ruby libraries
 dev-ruby/dry-types 1.4.0: collection of next-generation Ruby libraries
+dev-ruby/em-http-request 1.1.7: 
+dev-ruby/em-socksify 0.3.2: Transparent proxy support for any EventMachine protocol
 dev-ruby/espeak-ruby 1.0.4: A small API for utilizing 'espeak' and 'lame' to create Text-To-Speech mp3 files
 dev-ruby/fastercsv 1.5.5: A complete replacement to the CSV standard library
 dev-ruby/get_process_mem 0.2.5: Get memory usage of a process
