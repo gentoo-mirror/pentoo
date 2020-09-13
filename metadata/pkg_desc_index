@@ -850,6 +850,7 @@ sys-kernel/pentoo-sources 5.4.51 5.7.16 5.8.7: Pentoo kernel sources (kernel ser
 sys-kernel/pf_ring-kmod 6.0.3 6.6.0 7.0.0: A new type of network socket that improves packet capture speed.
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
 sys-libs/libkudzu 1.2.85.1: Red Hat Hardware detection tools
+sys-libs/libxcrypt 2.4: A replacement for libcrypt with DES, MD5 and blowfish support
 sys-power/acpid 2.0.32-r1: Daemon for Advanced Configuration and Power Interface
 virtual/linux-sources 3-r104: Virtual for Linux kernel sources
 www-apps/BloodHound 3.0.4 3.0.5: Six Degrees of Domain Admin
