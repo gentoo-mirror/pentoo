@@ -196,6 +196,8 @@ dev-python/agate-excel 0.2.3-r1: Adds read support for Excel files (xls and xlsx
 dev-python/agate-sql 0.5.4-r1: Adds SQL read/write support to agate
 dev-python/aggdraw 1.3.11: High quality drawing interface for PIL
 dev-python/aiocmd 0.1.5: Coroutine-based CLI generator using prompt_toolkit
+dev-python/aiomultiprocess 0.8.0: asyncio version of the standard multiprocessing module
+dev-python/aiosqlite 0.15.0: asyncio bridge to the standard sqlite3 module
 dev-python/aiowinreg 0.0.3: Windows registry file reader
 dev-python/altgraph 0.17: A constructing graphs, BFS and DFS traversals, etc
 dev-python/apkid 2.1.0-r1 2.1.0_p20200522 2.1.0_p20200627: Android Package Protector Identifier
@@ -302,13 +304,14 @@ dev-python/nessrest 20180806: A high-level Web Crawling and Web Scraping framewo
 dev-python/netfilterqueue 0.8.1: Python bindings for libnetfilter_queue
 dev-python/nplusone 1.0.0: Detecting the n+1 queries problem in Python
 dev-python/oscrypto 1.2.0: TLS sockets, key generation, encryption, decryption, signing, verification
+dev-python/outcome 1.0.1: Capture the outcome of Python function calls.
 dev-python/parse 1.14.0: parse() is the opposite of format()
 dev-python/parsel 1.5.1: Extract data from HTML and XML using XPath and CSS selectors
 dev-python/pcodedmp 1.2.6: A VBA p-code disassembler
 dev-python/pdfkit 0.6.1: Wkhtmltopdf python wrapper
 dev-python/pefile 2019.4.18: Module to read and work with Portable Executable (PE) files
 dev-python/playsound 1.2.2: Single function module with no dependencies for playing sounds
-dev-python/plotly 4.1.1: Browser-based graphing library for Python
+dev-python/plotly 4.10.0: Browser-based graphing library for Python
 dev-python/proxy-db 0.2.5: Manage free and private proxies on local db for Python Projects
 dev-python/psd-tools 1.9.9 1.9.13: Package for working with Adobe Photoshop PSD files
 dev-python/py2neo 3.1.2 4.3.0-r1: A simple and pragmatic library which accesses the Neo4j graph database
@@ -317,6 +320,7 @@ dev-python/pyaff4 0.27: Python Advanced Forensic Format Version 4 library
 dev-python/pyaxmlparser 0.3.24: Parser for Android XML file and get Application Name without using Androguard
 dev-python/pycryptodomex 3.9.6 3.9.7: A self-contained cryptographic library for Python
 dev-python/pydispatcher 2.0.5: Multi-producer-multi-consumer signal dispatching mechanism
+dev-python/pyee 7.0.3: A port of node.js's EventEmitter to python.
 dev-python/pygeoif 0.7: A basic implementation of the __geo_interface__
 dev-python/pygexf 0.2.2: A python library to generate gexf file format
 dev-python/pygtail 0.11.0: Reads log file lines that have not been read
@@ -362,6 +366,7 @@ dev-python/service_identity 18.1.0-r1: Service identity verification for pyOpenS
 dev-python/shelljob 0.5.6: Run multiple subprocesses asynchronous/in parallel with streamed output
 dev-python/shodan 1.17.0 1.23.0: Python library and command-line utility for Shodan
 dev-python/simplekv 0.14.0: A key-value storage for binary data, support many backends.
+dev-python/sniffio 1.1.0: Sniff out which async library your code is running under
 dev-python/social-auth-core 3.3.3: Python social authentication made simple
 dev-python/soupsieve 1.9.3: A modern CSS selector implementation for BeautifulSoup
 dev-python/sphinx-autodoc-typehints 1.8.0: Type hints (PEP 484) support for the Sphinx autodoc extension
@@ -378,6 +383,7 @@ dev-python/tldextract 2.2.1-r1: Accurately separate the TLD from the registered 
 dev-python/tls_parser 1.2.1 1.2.2: Small library to parse TLS records.
 dev-python/tlslite-ng 0.7.5: New home of the TLS implementation in pure python.
 dev-python/torrequest 20181011-r1: Simple Python interface for HTTP(s) requests over Tor
+dev-python/trio 0.16.0: A friendly Python library for async concurrency and I/O
 dev-python/truffleHogRegexes 20190518-r1: These are the regexes that power trufflehog
 dev-python/validators 0.14.0: Python Data Validation for Humans
 dev-python/vulners 1.5.4 1.5.5: Python API wrapper for the Vulners Database
@@ -620,7 +626,7 @@ net-analyzer/termshark 2.1.1-r1: A terminal UI for tshark, inspired by Wireshark
 net-analyzer/testssl 3.0.1 3.0.2: Tool to check TLS/SSL cipher support
 net-analyzer/thc-pptp-bruter 0.1.4: A brute force program that works against pptp vpn endpoints
 net-analyzer/thc-ssl-dos 1.4: THC-SSL-DOS is a tool to verify the performance of SSL servers
-net-analyzer/theHarvester 3.0.6_p20190415 3.1-r1 3.1-r3: The Harvester is a tool designed to collect email accounts of the target domain
+net-analyzer/theHarvester 3.1-r3 3.2.0: The Harvester is a tool designed to collect email accounts of the target domain
 net-analyzer/tplmap 20190820: Server-Side Template Injection and code injection tool
 net-analyzer/twa 1.9.3 9999: A tiny web auditor with strong opinions
 net-analyzer/ucsniff 3.20 3.20-r1: VoIP audio & video sniffer
