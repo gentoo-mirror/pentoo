@@ -605,7 +605,6 @@ net-analyzer/ruler 2.2.0: A tool to abuse Exchange services
 net-analyzer/rustscan 1.2.2 9999: Faster Nmap Scanning with Rust
 net-analyzer/s3scanner 1.0.0_p20190928: Scan for open AWS S3 buckets and dump the contents
 net-analyzer/scamper 20191102b: Actively probes the Internet in order to analyze topology and performance
-net-analyzer/sdrplay 2.13.1-r1: SDRplay API/HW driver for all RSPs
 net-analyzer/serialusb 0.7: A cheap USB proxy for input devices
 net-analyzer/sessionlist 1.0-r1: A HTTP packets sniffer
 net-analyzer/set 8.0.3: A social engineering framework
@@ -813,7 +812,7 @@ pentoo/pentoo-mobile 2020.2: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2020.2: Collection of NFC tools
 pentoo/pentoo-opencl 0: Virtual for pulling in appropriate opencl stuffs
 pentoo/pentoo-proxies 2020.0: Pentoo proxy meta ebuild
-pentoo/pentoo-radio 2020.3-r1: Radio tools for pentoo
+pentoo/pentoo-radio 2020.3-r2: Radio tools for pentoo
 pentoo/pentoo-rce 2020.0: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2020.0: Pentoo scanner meta ebuild
 pentoo/pentoo-system 2020.2-r6: Pentoo meta ebuild to install system
@@ -858,6 +857,8 @@ sys-kernel/wireless-testing 9999: Wireless integration testing tree
 sys-libs/libkudzu 1.2.85.1: Red Hat Hardware detection tools
 sys-libs/libxcrypt 2.4: A replacement for libcrypt with DES, MD5 and blowfish support
 sys-power/acpid 2.0.32-r1: Daemon for Advanced Configuration and Power Interface
+virtual/jdk 11: Virtual for Java Development Kit (JDK)
+virtual/jre 11-r1: Virtual for Java Runtime Environment (JRE)
 virtual/linux-sources 3-r104: Virtual for Linux kernel sources
 www-apps/BloodHound 3.0.4 3.0.5: Six Degrees of Domain Admin
 www-apps/Tiredful-API 9999: An intentionally designed broken web application based on REST API
