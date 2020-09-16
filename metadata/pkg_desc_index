@@ -455,6 +455,7 @@ dev-ruby/opt_parse_validator 1.8.2 1.9.0 1.9.2: OptionParser lib in ruby
 dev-ruby/orm_adapter 0.5.0: Provides a single point of entry for using basic features of ruby ORMs
 dev-ruby/otr-activerecord 1.4.1: Off The Rails ActiveRecord: Use ActiveRecord with Grape, Sinatra, Rack
 dev-ruby/parseconfig 1.0.8: Provides simple parsing of standard *nix style config files.
+dev-ruby/patch_finder 1.0.2: Generic Patch Finder
 dev-ruby/popper_js 1.16.0: Popper.js assets as a Ruby gem
 dev-ruby/rack-accept 0.4.5: HTTP Accept, Accept-Charset, Accept-Encoding, and Accept-Language for Ruby/Rack
 dev-ruby/rack-cors 1.1.1: Rack CORS Middleware
@@ -579,7 +580,7 @@ net-analyzer/masscan 1.0.4-r1 1.0.5-r1: Mass IP port scanner
 net-analyzer/massdns 0.3 9999: A high-performance DNS stub resolver for bulk lookups and reconnaissance
 net-analyzer/medusa 2.2_p20181217: A modular, parallel, multiprotocol, network login auditor
 net-analyzer/metagoofil 1.4b-r1 2.2: Information gathering tool designed for extracting metadata of public documents
-net-analyzer/metasploit 6.0.6 9999: Advanced framework for developing, testing, and using vulnerability exploit code
+net-analyzer/metasploit 6.0.6-r1 9999: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/mosref 2.0_beta3: A secure remote execution framework using a compact Scheme-influenced VM
 net-analyzer/nbtool 20140416: Some tools for NetBIOS and DNS investigation, attacks, and communication
 net-analyzer/ncrack 0.7: Ncrack is a high-speed network authentication cracking tool
@@ -783,7 +784,6 @@ net-wireless/signalhound-spike 3.5.6: Spectrum analyzer software for Signal Houn
 net-wireless/ska 0.2: Fake Shared Key Authentication
 net-wireless/sniffair 3.0: SniffAir framework for wireless pentesting
 net-wireless/trunk-recorder 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
-net-wireless/uhd 3.15.0.0-r1: Universal Software Radio Peripheral (USRP) Hardware Driver
 net-wireless/virtualradar-bin 2.0.1 2.3.1: Open-source .NET application for ads-b mapping
 net-wireless/wifipumpkin3 1.0.7: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifitap 0.4.2-r1: A wireless tool to do direct connection to client without passing through an AP
@@ -815,12 +815,12 @@ pentoo/pentoo-proxies 2020.0: Pentoo proxy meta ebuild
 pentoo/pentoo-radio 2020.3-r2: Radio tools for pentoo
 pentoo/pentoo-rce 2020.0: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2020.0: Pentoo scanner meta ebuild
-pentoo/pentoo-system 2020.2-r6: Pentoo meta ebuild to install system
+pentoo/pentoo-system 2020.3: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2018.2-r1: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2020.3: Pentoo wireless meta ebuild
 pentoo/tribe 2012.0: Tribe meta ebuild
 pentoo/wctf-client 2020.3: Packages needed to power the client NUC for WCTF events
-pentoo/zero-system 2020.2-r4: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
+pentoo/zero-system 2020.3: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
 sci-electronics/litedram 20180514: Small footprint and configurable DRAM core
 sci-electronics/liteeth 20180301 20180719: Small footprint and configurable Ethernet core
 sci-electronics/litepcie 20180530: Small footprint and configurable PCIe core

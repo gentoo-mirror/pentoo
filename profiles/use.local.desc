@@ -171,16 +171,6 @@ net-wireless/proxmark3:standalone-lf-proxbrute - standalone HID ProxII bruteforc
 net-wireless/proxmark3:standalone-lf-samyrun - standalone HID26 read/clone/sim
 net-wireless/pyrit:cuda - Enable CUDA support via net-wireless/cpyrit-cuda
 net-wireless/pyrit:opencl - Enable OpenCL support via net-wireless/cpyrit-opencl
-net-wireless/uhd:b100 - support B100 hardware
-net-wireless/uhd:b200 - support B200, B210, B200mini, B205mini hardware
-net-wireless/uhd:e300 - support E300, E310 hardware
-net-wireless/uhd:mpmd - support N300, N310 hardware
-net-wireless/uhd:n230 - support N230 harware
-net-wireless/uhd:octoclock - Octoclock Network Support
-net-wireless/uhd:usrp1 - support USRP1 hardware
-net-wireless/uhd:usrp2 - support USRP2, N200, N210 hardware
-net-wireless/uhd:utils - utilities needed to list, query, calibrate, or update FPGA/Firmware
-net-wireless/uhd:x300 - support X300, X310 hardware
 pentoo/pentoo-cinnamon:gdm - GNOME Display Manager
 sys-auth/polkit:consolekit - Use sys-auth/consolekit for session tracking
 sys-auth/polkit:elogind - Use sys-auth/elogind for session tracking

@@ -1,15 +1,15 @@
-BDEPEND=ruby_targets_ruby25? ( dev-ruby/bundler:*[ruby_targets_ruby25(-)] dev-ruby/bundler-audit[ruby_targets_ruby25(-)] ) ruby_targets_ruby25? ( dev-lang/ruby:2.5 ) >=dev-vcs/git-1.8.2.1[curl]
+BDEPEND=ruby_targets_ruby26? ( dev-ruby/bundler:*[ruby_targets_ruby26(-)] dev-ruby/bundler-audit[ruby_targets_ruby26(-)] ) ruby_targets_ruby26? ( dev-lang/ruby:2.6 ) >=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=compile config configure install postinst prepare setup test unpack
-DEPEND=app-arch/xz-utils dev-db/postgresql:*[server] dev-db/sqlite || ( app-crypt/johntheripper-jumbo >=app-crypt/johntheripper-1.7.9-r1[-minimal(-)] ) dev-libs/libxml2 dev-libs/libxslt dev-libs/openssl net-analyzer/nmap net-libs/libpcap sys-libs/zlib ruby_targets_ruby25? ( dev-lang/ruby:2.5 )
+DEPEND=app-arch/xz-utils dev-db/postgresql:*[server] dev-db/sqlite || ( app-crypt/johntheripper-jumbo >=app-crypt/johntheripper-1.7.9-r1[-minimal(-)] ) dev-libs/libxml2 dev-libs/libxslt dev-libs/openssl net-analyzer/nmap net-libs/libpcap sys-libs/zlib ruby_targets_ruby26? ( dev-lang/ruby:2.6 )
 DESCRIPTION=Advanced framework for developing, testing, and using vulnerability exploit code
 EAPI=7
 HOMEPAGE=http://www.metasploit.org/
-IUSE=development +java nexpose oracle +pcap test ruby_targets_ruby25
+IUSE=development +java nexpose oracle +pcap test ruby_targets_ruby26
 LICENSE=BSD
 PROPERTIES=live
-RDEPEND=app-arch/xz-utils dev-db/postgresql:*[server] dev-db/sqlite || ( app-crypt/johntheripper-jumbo >=app-crypt/johntheripper-1.7.9-r1[-minimal(-)] ) dev-libs/libxml2 dev-libs/libxslt dev-libs/openssl net-analyzer/nmap net-libs/libpcap sys-libs/zlib >=app-eselect/eselect-metasploit-0.16 ruby_targets_ruby25? ( dev-lang/ruby:2.5 )
-REQUIRED_USE=|| ( ruby_targets_ruby25 )
+RDEPEND=app-arch/xz-utils dev-db/postgresql:*[server] dev-db/sqlite || ( app-crypt/johntheripper-jumbo >=app-crypt/johntheripper-1.7.9-r1[-minimal(-)] ) dev-libs/libxml2 dev-libs/libxslt dev-libs/openssl net-analyzer/nmap net-libs/libpcap sys-libs/zlib >=app-eselect/eselect-metasploit-0.16 ruby_targets_ruby26? ( dev-lang/ruby:2.6 )
+REQUIRED_USE=|| ( ruby_targets_ruby26 )
 RESTRICT=strip
 SLOT=9999
 _eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	estack	686eaab303305a908fd57b2fd7617800	eutils	2d5b3f4b315094768576b6799e4f926e	git-r3	3e7ec3d6619213460c85e2aa48398441	l10n	8cdd85e169b835d518bc2fd59f780d8e	multilib	98584e405e2b0264d37e8f728327fed1	multiprocessing	cac3169468f893670dac3e7cb940e045	ruby-ng	676004cfb6cdf3dedf1c778d56346624	ruby-utils	9991225e034c8185d67fbc7a8816559f	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	wrapper	4251d4c84c25f59094fd557e0063a974
-_md5_=ff7a840a46d0c5c58ccbf38c404ce514
+_md5_=d1c5a7a209944f9a18e4f71da294faf0
