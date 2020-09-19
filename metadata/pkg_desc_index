@@ -422,7 +422,7 @@ dev-ruby/dry-container 0.7.2: collection of next-generation Ruby libraries
 dev-ruby/dry-core 0.4.9: collection of next-generation Ruby libraries
 dev-ruby/dry-equalizer 0.3.0: collection of next-generation Ruby libraries
 dev-ruby/dry-inflector 0.2.0: collection of next-generation Ruby libraries
-dev-ruby/dry-logic 1.0.6: collection of next-generation Ruby libraries
+dev-ruby/dry-logic 1.0.6 1.0.7: collection of next-generation Ruby libraries
 dev-ruby/dry-types 1.4.0: collection of next-generation Ruby libraries
 dev-ruby/em-http-request 1.1.7: 
 dev-ruby/em-socksify 0.3.2: Transparent proxy support for any EventMachine protocol
