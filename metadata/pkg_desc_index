@@ -791,7 +791,7 @@ net-wireless/wifite 2.2.5-r3 2.5.2-r1 2.5.5: An automated wireless attack tool
 net-wireless/wireless-regdb 20090130-r1 20090309 20090817 20091125 20091125-r1: Binary regulatory database for CRDA
 net-wireless/wpa_sycophant 1.0 9999: Evil client portion of EAP relay attack
 pentoo/pentoo 2015.1: Pentoo meta ebuild to install all apps
-pentoo/pentoo-analyzer 2019.4: Pentoo analyzers meta ebuild
+pentoo/pentoo-analyzer 2020.3: Pentoo analyzers meta ebuild
 pentoo/pentoo-bluetooth 2019.2: Pentoo bluetooth meta ebuild
 pentoo/pentoo-cinnamon 2020.1: Pentoo cinnamon meta ebuild
 pentoo/pentoo-core 2020.3-r1: Pentoo minimum core requirements
