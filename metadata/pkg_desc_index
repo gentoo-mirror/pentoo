@@ -357,7 +357,7 @@ dev-python/queuelib 1.5.0: Collection of persistent (disk-based) queues
 dev-python/rangeparser 0.1.3-r1: A python package to parse ranges easily
 dev-python/rcssmin 1.0.6: RCSSmin is a CSS minifier
 dev-python/requests-file 1.4.3: File transport adapter for Requests
-dev-python/requests-futures 1.0.0: Asynchronous Python HTTP Requests for Humans using Futures
+dev-python/requests-futures 1.0.0-r1: Asynchronous Python HTTP Requests for Humans using Futures
 dev-python/requests-html 0.10.0: HTML Parsing for Humans
 dev-python/rjsmin 1.1.0: RCSSmin is a CSS minifier
 dev-python/ruamel-base 1.0.0: common routines for ruamel packages
@@ -382,7 +382,7 @@ dev-python/text-unidecode 1.3: The most basic Text::Unidecode port
 dev-python/tldextract 2.2.1-r1: Accurately separate the TLD from the registered domain and subdomains
 dev-python/tls_parser 1.2.1 1.2.2: Small library to parse TLS records.
 dev-python/tlslite-ng 0.7.5: New home of the TLS implementation in pure python.
-dev-python/torrequest 20181011-r1: Simple Python interface for HTTP(s) requests over Tor
+dev-python/torrequest 20181011-r2: Simple Python interface for HTTP(s) requests over Tor
 dev-python/trio 0.16.0: A friendly Python library for async concurrency and I/O
 dev-python/truffleHogRegexes 20190518-r1: These are the regexes that power trufflehog
 dev-python/validators 0.14.0: Python Data Validation for Humans
@@ -672,7 +672,7 @@ net-misc/pwnedornot 1.2.8_p20200602: OSINT Tool for Finding Passwords of Comprom
 net-misc/rdesktop-brute 1.5.0: A Remote Desktop Protocol Client
 net-misc/seafile 7.0.5-r1 7.0.7 7.0.9: File syncing and sharing software with file encryption and group sharing
 net-misc/seafile-client 7.0.5 7.0.7 7.0.9: Seafile desktop client
-net-misc/sherlock 0.10.4 0.10.5 0.10.9 0.11.1 9999: Find usernames across social networks
+net-misc/sherlock 0.10.4 0.10.5 0.10.9 0.11.1 0.12.9 9999: Find usernames across social networks
 net-misc/sippts 2.0.4: set of tools to audit VoIP servers and devices using SIP protocol
 net-misc/t50 5.8.5 5.8.7: Mixed Packet Injector & Network Stress Testing Tool
 net-misc/tcpick 0.2.1-r2: A tcp stream sniffer, tracker and capturer.
