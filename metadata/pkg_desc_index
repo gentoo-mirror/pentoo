@@ -51,7 +51,7 @@ app-exploits/packetstormexploits-meta 2019: Meta ebuild of packetstorm exploits
 app-exploits/powercat 20170805: Netcat: The powershell version
 app-exploits/proton 20200311: Windows post-exploitation framework using Windows Script Host
 app-exploits/pwntools 4.1.0 4.1.1 4.2.1: CTF framework and exploit development library
-app-exploits/pypykatz 0.3.10 0.3.12: Python implementation of Mimikatz
+app-exploits/pypykatz 0.3.12: Python implementation of Mimikatz
 app-exploits/ropper 1.13.3-r2 1.13.5 9999: Use to display information about binary files in different file formats
 app-exploits/routersploit 3.4.0-r1 9999: An open-source exploitation framework dedicated to embedded devices
 app-exploits/the-backdoor-factory 3.4.2-r2: BDF allows to patch executable binaries with user desired shellcode
@@ -290,11 +290,11 @@ dev-python/marshmallow-sqlalchemy 0.15.0 0.21.0: SQLAlchemy integration with the
 dev-python/matlink-gpapi 0.4.4.5: Unofficial python api for google play
 dev-python/maxminddb 1.5.2: A Python module for reading MaxMind DB files
 dev-python/mechanize 0.4.5: Stateful programmatic web browsing in Python
-dev-python/minidump 0.0.12 0.0.13: parse Windows minidump file format
+dev-python/minidump 0.0.13: parse Windows minidump file format
 dev-python/minikerberos 0.2.1 0.2.3: Kerberos manipulation library in pure Python
 dev-python/mitm6 0.2.2: pwning IPv4 via IPv6
 dev-python/mockito 1.2.0: Spying framework based on Mockito java library
-dev-python/msldap 0.2.14 0.3.11-r1: Python library to play with MS LDAP
+dev-python/msldap 0.3.11-r1: Python library to play with MS LDAP
 dev-python/msoffcrypto-tool 4.10.1: Decrypting MS Office files with passwords or other keys
 dev-python/nassl 3.0.0-r1: Experimental OpenSSL wrapper for Python 3.6+ and SSLyze
 dev-python/neo4j 1.7.6: Neo4j Bolt driver for Python
@@ -391,7 +391,7 @@ dev-python/w3lib 1.20.0: Library of web-related functions
 dev-python/webargs 5.5.2: Declarative parsing and validation of HTTP request objects
 dev-python/websocket-client 0.57.0: WebSocket client for python with hybi13 support
 dev-python/whitenoise 5.0.1: Radically simplified static file serving for WSGI applications
-dev-python/winacl 0.0.2 0.0.6: ACL/ACE/Security Descriptor manipulation library
+dev-python/winacl 0.0.6: ACL/ACE/Security Descriptor manipulation library
 dev-python/winsspi 0.0.5 0.0.7 0.0.9: Windows SSPI library in pure Python
 dev-python/yamllint 1.21.0: A linter for YAML files
 dev-python/yara-python 4.0.0 4.0.1 4.0.1-r2 4.0.2: Python interface for a malware identification and classification tool
