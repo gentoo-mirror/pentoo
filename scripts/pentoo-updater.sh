@@ -98,6 +98,12 @@ set_java() {
   fi
 }
 
+set_ruby() {
+  if portageq has_version / dev-lang/ruby:2.6; then
+    eselect ruby set ruby26
+  fi
+}
+
 check_profile () {
   if [ -L "/etc/portage/make.profile" ] && [ ! -e "/etc/portage/make.profile" ]; then
     failure="0"
@@ -396,6 +402,10 @@ main_checks() {
   if [ -n "$(portageq match / '<dev-lang/ruby-2.5')" ]; then
     revdep-rebuild --library 'libruby24.so.2.4' -- --buildpkg=y --usepkg=n --changed-deps --exclude ruby
   fi
+  #and then ruby 2.5
+  if [ -n "$(portageq match / '<dev-lang/ruby-2.6')" ]; then
+    revdep-rebuild --library 'libruby24.so.2.5' -- --buildpkg=y --usepkg=n --changed-deps --exclude ruby
+  fi
 
   #before we begin main installs, let's remove what may need removing
   #handle hard blocks here, and like this
@@ -434,20 +444,28 @@ main_checks() {
     printf "Removing pre-split numpy\n"
     emerge -C "<dev-python/numpy-1.17"
   fi
+  removeme8=$(portageq match / '<dev-ruby/bundler-1.17.3-r1')
+  if [ -n "${removeme8}" ]; then
+    printf "Removing conflicting bundler\n"
+    emerge -C "<dev-ruby/bundler-1.17.3-r1"
+  fi
 
   #before main upgrades, let's set a good java-vm
   set_java
+  set_ruby
 }
 
 main_upgrades() {
   emerge --buildpkg @changed-deps
   emerge --deep --update --newuse -kb --changed-deps --newrepo @world
   set_java #might fail, run it a few times
+  set_ruby
 
   perl-cleaner --ph-clean --modules -- --buildpkg=y || safe_exit
 
   emerge --deep --update --newuse -kb --changed-deps --newrepo @world || safe_exit
   set_java #might fail, run it a few times
+  set_ruby
 
   if [ ${RESET_PYTHON} = 1 ]; then
     eselect python set --python3 "${PYTHON3}" || safe_exit
@@ -518,6 +536,7 @@ else
   EMERGE_DEFAULT_OPTS="${EMERGE_DEFAULT_OPTS/--verbose /}" emerge --depclean || safe_exit
 fi
 set_java || WE_FAILED=1 #only tell the updater that this failed if it's still failing at the end
+set_ruby || WE_FAILED=1
 
 if portageq list_preserved_libs /; then
   FEATURES="-getbinpkg" emerge @preserved-rebuild --usepkg=n --buildpkg=y || safe_exit
