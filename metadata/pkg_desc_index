@@ -765,7 +765,7 @@ net-wireless/op25 20200418: software-defined analyzer for APCO P25 signals
 net-wireless/pixiewps 1.4.2: Bruteforce offline the WPS pin exploiting the low or non-existing entropy
 net-wireless/portapack-firmware 99999999: Portability Add-On for the HackRF Software-Defined Radio
 net-wireless/portapack-havoc 9999: Custom firmware for the HackRF SDR + PortaPack H1 addon
-net-wireless/portapack-mayhem 1.2.1 9999: Custom firmware for the HackRF SDR + PortaPack H1 addon
+net-wireless/portapack-mayhem 1.2.2 9999: Custom firmware for the HackRF SDR + PortaPack H1 addon
 net-wireless/proxmark3 3.1.0_p20190820 3.1.0_p20200316 4.9237 9999: A general purpose RFID tool for Proxmark3 hardware
 net-wireless/pyrit 0.5.0_p20180801: GPU-accelerated attack against WPA-PSK authentication
 net-wireless/qspectrumanalyzer 2.2.0 9999: vendor and platform neutral SDR support library
