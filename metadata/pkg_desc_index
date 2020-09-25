@@ -578,7 +578,7 @@ net-analyzer/masscan 1.0.4-r1 1.0.5-r1: Mass IP port scanner
 net-analyzer/massdns 0.3 9999: A high-performance DNS stub resolver for bulk lookups and reconnaissance
 net-analyzer/medusa 2.2_p20181217: A modular, parallel, multiprotocol, network login auditor
 net-analyzer/metagoofil 1.4b-r1 2.2: Information gathering tool designed for extracting metadata of public documents
-net-analyzer/metasploit 6.0.6-r2 9999: Advanced framework for developing, testing, and using vulnerability exploit code
+net-analyzer/metasploit 6.0.6-r3 9999: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/mosref 2.0_beta3: A secure remote execution framework using a compact Scheme-influenced VM
 net-analyzer/nbtool 20140416: Some tools for NetBIOS and DNS investigation, attacks, and communication
 net-analyzer/ncrack 0.7: Ncrack is a high-speed network authentication cracking tool
