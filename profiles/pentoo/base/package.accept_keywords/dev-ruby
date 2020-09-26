@@ -24,7 +24,6 @@ dev-ruby/coffee-rails:5.0
 
 #required by cewl Pentoo packages
 dev-ruby/mini_exiftool
-dev-ruby/spider
 
 # Pentoo ebuilds:
 dev-ruby/cookiejar
@@ -32,8 +31,6 @@ dev-ruby/em-http-request
 dev-ruby/em-socksify
 dev-ruby/hrr_rb_ssh
 dev-ruby/irb
-dev-ruby/reline
-dev-ruby/io-console
 dev-ruby/faye-websocket
 dev-ruby/openssl-cmac
 =dev-ruby/ruby_smb-2*
@@ -67,7 +64,6 @@ dev-ruby/rex-core
 dev-ruby/rex-socket
 dev-ruby/rex-ole
 dev-ruby/rex-arch
-dev-ruby/rex-struct2
 dev-ruby/rex-java
 dev-ruby/rex-registry
 dev-ruby/rex-zip
@@ -247,7 +243,6 @@ dev-ruby/typhoeus:1
 ~dev-ruby/dm-validations-1.2.0
 ~dev-ruby/dm-timestamps-1.2.0
 ~dev-ruby/do_sqlite3-0.10.17
-=dev-ruby/louis-2.2*
 ~dev-ruby/data_objects-0.10.17
 
 #rda
