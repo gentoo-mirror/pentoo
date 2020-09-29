@@ -32,7 +32,7 @@ app-crypt/xortool 0.99: A tool to analyze multi-byte xor cipher
 app-crypt/yubioath-desktop 5.0.1-r2 5.0.3 5.0.4: Library and tool for personalization of Yubico's YubiKey NEO
 app-dicts/raft-wordlists 20110803-r1: Raft wordlists
 app-dicts/seclists 2020.3: A collection of multiple types of lists used during security assessments
-app-editors/visual-studio-code 1.48.0: Multiplatform Visual Studio Code from Microsoft
+app-editors/visual-studio-code 1.48.0 1.49.2: Multiplatform Visual Studio Code from Microsoft
 app-eselect/eselect-metasploit 0.20: eselect module for metasploit
 app-exploits/ROPgadget 6.2 6.3: Search for gadgets in binaries to facilitate your ROP exploitation
 app-exploits/deathstar 20180722: A tool to gain Domain Admin rights with a push of a button
@@ -440,7 +440,7 @@ dev-ruby/memory_profiler 0.9.14: Memory profiling routines for Ruby 2.1+
 dev-ruby/metasploit-concern 3.0.0: Metasploit concern allows you to define concerns in app/concerns.
 dev-ruby/metasploit-credential 4.0.2: Code for modeling and managing credentials in Metasploit
 dev-ruby/metasploit-model 3.0.0-r2: Common code, such as validators and mixins
-dev-ruby/metasploit-payloads 2.0.12: Compiled binaries for Metasploit's Meterpreter
+dev-ruby/metasploit-payloads 2.0.12 2.0.14: Compiled binaries for Metasploit's Meterpreter
 dev-ruby/metasploit_data_models 4.0.2-r1: The database layer for Metasploit
 dev-ruby/metasploit_payloads-mettle 1.0.2 1.0.3: Compiled binaries for Metasploit's next-gen Meterpreter
 dev-ruby/mini_exiftool 2.10.0: wrapper for exiftool
