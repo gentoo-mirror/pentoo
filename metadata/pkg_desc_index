@@ -1,6 +1,5 @@
 acct-group/davmail 0: Group for Davmail
 acct-group/neo4j 0: Group for neo4j-community
-acct-group/solaar 0: Group for Solaar
 acct-group/sonar 0: Group for SonarQube
 acct-group/spiderfoot 0: Group for SpiderFoot
 acct-group/vuls 0: Group for Vuls
@@ -117,7 +116,6 @@ app-misc/dangerzone 0.1 0.1.1 0.1.2 0.1.2-r1: Take potentially dangerous PDFs or
 app-misc/freediag 1.08: Free diagnostic software for OBD-II compliant motor vehicles
 app-misc/gplaycli 3.26 3.27 3.29: Google Play Downloader via Command line
 app-misc/mat2 0.10.0 0.10.1 0.11.0: A handy tool to trash your metadata
-app-misc/solaar 9999: A Linux device manager for Logitech's Unifying Receiver peripherals
 app-pda/ideviceinstaller 1.1.0_p20181001 1.1.0_p20190928 1.1.1: A tool to interact with the installation_proxy of an Apple's iDevice
 app-pda/ifuse 1.1.4: Mount Apple iPhone/iPod Touch file systems for backup purposes
 app-pda/usbmuxd 1.1.1-r1: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
@@ -241,6 +239,7 @@ dev-python/dotty 1.5: EFILTER query language
 dev-python/dropbox-sdk 9.4.0 10.1.1: A Python SDK for integrating with the Dropbox API v2.
 dev-python/easygui 0.98.1: A module for very simple, very easy GUI programming in Python
 dev-python/editorconfig 0.12.2: EditorConfig File Locator and Interpreter for Python
+dev-python/entropy 0.1.5: entropy is a command line friend that helps you reduce entropy in your life
 dev-python/exifread 2.2.0 2.3.1: Read Exif metadata from tiff and jpeg files
 dev-python/face_recognition 1.2.3 1.3.0: Recognize faces from Python or from the command line
 dev-python/face_recognition_models 0.3.0: Models used by the face_recognition package.
@@ -613,7 +612,7 @@ net-analyzer/sn0int 0.16.0 0.17.1 0.18.2 0.19.1: Semi-automatic OSINT framework 
 net-analyzer/sniffglue 0.10.1: Secure multithreaded packet sniffer
 net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
 net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
-net-analyzer/sslyze 3.0.5 3.0.8: Fast and full-featured SSL scanner
+net-analyzer/sslyze 3.0.5 3.0.8-r1: Fast and full-featured SSL scanner
 net-analyzer/subfinder 2.3.3 2.3.4 2.4.3: A subdomain discovery tool that discovers valid subdomains for websites
 net-analyzer/subjack 2.1: Subdomain Takeover tool written in Go
 net-analyzer/sublert 1.4.7_p20200103: Monitor new subdomains deployed by specific organizations and issued TLS/SSL certificate
