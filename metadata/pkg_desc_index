@@ -797,7 +797,7 @@ pentoo/pentoo-cinnamon 2020.1: Pentoo cinnamon meta ebuild
 pentoo/pentoo-core 2020.3-r1: Pentoo minimum core requirements
 pentoo/pentoo-cracking 2020.2: Pentoo cracking meta ebuild
 pentoo/pentoo-database 2018.3: Pentoo database attack meta ebuild
-pentoo/pentoo-desktop 2020.2-r3: Pentoo meta ebuild to install all X and WM/DE related things
+pentoo/pentoo-desktop 2020.3: Pentoo meta ebuild to install all X and WM/DE related things
 pentoo/pentoo-exploit 2020.3: Pentoo exploit meta ebuild
 pentoo/pentoo-footprint 2020.1: Pentoo footprint meta ebuild
 pentoo/pentoo-forensics 2020.1-r3: Pentoo forensics meta ebuild
@@ -820,7 +820,7 @@ pentoo/pentoo-voip 2018.2-r1: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2020.3: Pentoo wireless meta ebuild
 pentoo/tribe 2012.0: Tribe meta ebuild
 pentoo/wctf-client 2020.3: Packages needed to power the client NUC for WCTF events
-pentoo/zero-system 2020.3: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
+pentoo/zero-system 2020.3-r1: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
 sci-electronics/litedram 20180514: Small footprint and configurable DRAM core
 sci-electronics/liteeth 20180301 20180719: Small footprint and configurable Ethernet core
 sci-electronics/litepcie 20180530: Small footprint and configurable PCIe core
