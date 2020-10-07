@@ -780,6 +780,7 @@ net-wireless/rtl8812au 4.2.5 4.3.1.4 4.3.14_p20190827 5.2.9_p20180327 5.6.4.2_p2
 net-wireless/rtl8812au_aircrack-ng 5.6.4.2_p20200816 9999: RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection
 net-wireless/rtl8822bu 5.3.1_p20190920 9999: RTL88x2BU driver with monitor mode and frame injection
 net-wireless/rx_tools 1.0.3-r1 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
+net-wireless/scopy 9999: A software oscilloscope and signal analysis toolset
 net-wireless/sdrtrunk-bin 0.4.0: decoding, monitoring, recording and streaming trunked mobile and related radio protocols
 net-wireless/signalhound-spike 3.5.9: Spectrum analyzer software for Signal Hound test equipment
 net-wireless/ska 0.2: Fake Shared Key Authentication
@@ -871,3 +872,4 @@ www-misc/firefox-bookmarks 0.3-r1: Firefox bookmarks for the Pento ISO only
 www-plugins/hackplugins-meta 20200428: Collection of browser's plugins for application security testing
 www-servers/thin 1.7.2: A fast and very simple Ruby web server
 www-servers/tornado 4.5.3 5.1-r1 6.0.3 6.0.3-r1 6.0.4: Python web framework and asynchronous networking library
+x11-libs/qwt-multiaxes 9999: 2D plotting library for Qt5
