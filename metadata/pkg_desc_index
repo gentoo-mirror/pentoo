@@ -762,6 +762,7 @@ net-wireless/mmdvmhost 9999: The host program for MMDVM
 net-wireless/morse2txt 1.0.0: Morse code decoder
 net-wireless/mt7610u_ulli-kroll 9999: Modified usb wifi driver for TP_link TL-WDN5200
 net-wireless/n4p 2.2-r4: Comprehensive Wireless and Network packet based hacking framework.Compare to Metasploit
+net-wireless/nanovna-qt 0.1_p20200507 9999: software for NanoVNA V2
 net-wireless/nfcpy 0.10.2: A tool to read/write NFC tags or communicate with another NFC device
 net-wireless/op25 20200418: software-defined analyzer for APCO P25 signals
 net-wireless/pixiewps 1.4.2: Bruteforce offline the WPS pin exploiting the low or non-existing entropy
@@ -819,7 +820,7 @@ pentoo/pentoo-system 2020.3-r2: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2018.2-r1: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2020.3: Pentoo wireless meta ebuild
 pentoo/tribe 2012.0: Tribe meta ebuild
-pentoo/wctf-client 2020.3: Packages needed to power the client NUC for WCTF events
+pentoo/wctf-client 2020.3-r1: Packages needed to power the client NUC for WCTF events
 pentoo/zero-system 2020.3-r1: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
 sci-electronics/litedram 20180514: Small footprint and configurable DRAM core
 sci-electronics/liteeth 20180301 20180719: Small footprint and configurable Ethernet core
