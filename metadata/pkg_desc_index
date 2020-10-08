@@ -585,7 +585,7 @@ net-analyzer/mosref 2.0_beta3: A secure remote execution framework using a compa
 net-analyzer/nbtool 20140416: Some tools for NetBIOS and DNS investigation, attacks, and communication
 net-analyzer/ncrack 0.7: Ncrack is a high-speed network authentication cracking tool
 net-analyzer/nikto 2.1.6-r1 2.1.6_p20190508 2.1.6_p20200726: Web server vulnerability scanner
-net-analyzer/nmap 7.80-r1: A utility for network discovery and security auditing
+net-analyzer/nmap 7.80-r1 7.90: A utility for network discovery and security auditing
 net-analyzer/nmap-vulners 1.2 1.4_beta 9999: NSE script based on Vulners.com API
 net-analyzer/nmap_vulscan 2.0-r1 2.0_p20170503 2.0_p20171214 2.0_p20190923: A NSE vulnerability scanner which uses an offline version of scip VulDB
 net-analyzer/ntlmrecon 0.2_beta: A tool to enumerate information from NTLM authentication enabled web endpoints
