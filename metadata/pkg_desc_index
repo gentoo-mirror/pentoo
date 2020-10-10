@@ -50,7 +50,7 @@ app-exploits/packetstormexploits-meta 2019: Meta ebuild of packetstorm exploits
 app-exploits/powercat 20170805: Netcat: The powershell version
 app-exploits/proton 20200311: Windows post-exploitation framework using Windows Script Host
 app-exploits/pwntools 4.1.0 4.1.1 4.2.1: CTF framework and exploit development library
-app-exploits/pypykatz 0.3.12: Python implementation of Mimikatz
+app-exploits/pypykatz 0.3.12 0.3.13: Python implementation of Mimikatz
 app-exploits/ropper 1.13.3-r2 1.13.5 9999: Use to display information about binary files in different file formats
 app-exploits/routersploit 3.4.0-r1 9999: An open-source exploitation framework dedicated to embedded devices
 app-exploits/the-backdoor-factory 3.4.2-r2: BDF allows to patch executable binaries with user desired shellcode
@@ -443,7 +443,7 @@ dev-ruby/metasploit-concern 3.0.0: Metasploit concern allows you to define conce
 dev-ruby/metasploit-credential 4.0.2: Code for modeling and managing credentials in Metasploit
 dev-ruby/metasploit-model 3.0.0-r2 3.1.2: Common code, such as validators and mixins
 dev-ruby/metasploit-payloads 2.0.12 2.0.14: Compiled binaries for Metasploit's Meterpreter
-dev-ruby/metasploit_data_models 4.0.2-r1: The database layer for Metasploit
+dev-ruby/metasploit_data_models 4.0.2-r1 4.1.0: The database layer for Metasploit
 dev-ruby/metasploit_payloads-mettle 1.0.2 1.0.3: Compiled binaries for Metasploit's next-gen Meterpreter
 dev-ruby/mini_exiftool 2.10.0: wrapper for exiftool
 dev-ruby/msfrpc-client 1.1.2: Ruby client API to access the Rapid7 Metasploit Pro RPC service
