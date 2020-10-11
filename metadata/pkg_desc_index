@@ -422,7 +422,7 @@ dev-ruby/dry-equalizer 0.3.0: collection of next-generation Ruby libraries
 dev-ruby/dry-inflector 0.2.0: collection of next-generation Ruby libraries
 dev-ruby/dry-logic 1.0.6 1.0.7 1.0.8: collection of next-generation Ruby libraries
 dev-ruby/dry-types 1.4.0: collection of next-generation Ruby libraries
-dev-ruby/em-http-request 1.1.7: 
+dev-ruby/em-http-request 1.1.7: EventMachine based, async HTTP Request client
 dev-ruby/em-socksify 0.3.2: Transparent proxy support for any EventMachine protocol
 dev-ruby/espeak-ruby 1.0.4: A small API for utilizing 'espeak' and 'lame' to create Text-To-Speech mp3 files
 dev-ruby/fastercsv 1.5.5: A complete replacement to the CSV standard library
