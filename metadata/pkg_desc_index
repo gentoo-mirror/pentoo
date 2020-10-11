@@ -435,7 +435,7 @@ dev-ruby/hrr_rb_ssh 0.4.2: Pure Ruby SSH 2.0 server and client implementation
 dev-ruby/io-console 0.5.6: add console capabilities to IO instances.
 dev-ruby/iostruct 0.0.4: A Struct that can read/write itself from/to IO-like objects
 dev-ruby/ipaddr 1.2.2-r1: IPAddr provides a set of methods to manipulate an IP address
-dev-ruby/irb 1.2.4: Interactive Ruby command-line tool for REPL
+dev-ruby/irb 1.2.4 1.2.7: Interactive Ruby command-line tool for REPL
 dev-ruby/jsonapi-renderer 0.2.2: Efficiently render JSON API documents.
 dev-ruby/louis 2.3.1: Lookup mac address assignments in the iana database
 dev-ruby/memory_profiler 0.9.14: Memory profiling routines for Ruby 2.1+
