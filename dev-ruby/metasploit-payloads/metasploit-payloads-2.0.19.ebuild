@@ -17,7 +17,7 @@ HOMEPAGE="https://rubygems.org/gems/metasploit-payloads"
 LICENSE="BSD"
 
 SLOT="${PV}"
-KEYWORDS="~amd64 ~arm ~x86"
+KEYWORDS="amd64 ~arm64 x86"
 IUSE=""
 
 #no tests
