@@ -671,8 +671,8 @@ net-misc/munin 0.14.1-r1 9999: Online hash checker for Virustotal and other serv
 net-misc/photon 1.3.0 9999: Incredibly fast crawler designed for OSINT
 net-misc/pwnedornot 1.2.8_p20200602: OSINT Tool for Finding Passwords of Compromised Email Addresses Topics
 net-misc/rdesktop-brute 1.5.0: A Remote Desktop Protocol Client
-net-misc/seafile 7.0.5-r1 7.0.7 7.0.9: File syncing and sharing software with file encryption and group sharing
-net-misc/seafile-client 7.0.5 7.0.7 7.0.9: Seafile desktop client
+net-misc/seafile 7.0.9 7.0.10: File syncing and sharing software with file encryption and group sharing
+net-misc/seafile-client 7.0.9 7.0.10: Seafile desktop client
 net-misc/sherlock 0.10.4 0.10.5 0.10.9 0.11.1 0.12.9 9999: Find usernames across social networks
 net-misc/sippts 2.0.4: set of tools to audit VoIP servers and devices using SIP protocol
 net-misc/t50 5.8.5 5.8.7: Mixed Packet Injector & Network Stress Testing Tool
