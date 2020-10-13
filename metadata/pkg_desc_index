@@ -206,6 +206,7 @@ dev-python/artifacts 20200515: Digital Forensics Artifact Repository
 dev-python/asciitree 0.3.3: Draws ASCII trees
 dev-python/asn1crypto 1.4.0: Python ASN.1 library with a focus on performance and a pythonic API
 dev-python/asysocks 0.0.2 0.0.3 0.0.7: Socks5 / Socks4 client and server library
+dev-python/banal 1.0.1: Commons of banal micro-functions for Python.
 dev-python/beautifultable 0.8.0: Print ASCII tables for terminals
 dev-python/biplist 1.0.3: A binary plist parser/generator for Python
 dev-python/blinkstick 1.1.8_p20200211 9999: BlinkStick Python interface to control devices connected to the computer
@@ -221,7 +222,7 @@ dev-python/config 0.4.0 0.4.2: A hierarchical, easy-to-use, powerful configurati
 dev-python/coreapi 2.3.3: Python client library for Core API
 dev-python/coreschema 0.0.4: Core Schema
 dev-python/csvkit 1.0.4-r1 1.0.5: A suite of utilities for converting to and working with CSV files
-dev-python/dataset 1.1.0 1.1.2: Easy-to-use data handling for SQL data stores
+dev-python/dataset 1.3.2: Easy-to-use data handling for SQL data stores
 dev-python/dbfread 2.0.7-r1: Read DBF Files with Python
 dev-python/delegator 0.1.1: Subprocesses for Humans 2.0
 dev-python/dhcplib 0.1.1: Pure-Python, spec-compliant DHCP-packet-processing library
@@ -303,6 +304,7 @@ dev-python/neobolt 1.7.17: Neo4j Bolt Connector for Python
 dev-python/neotime 1.7.4: Nanosecond resolution temporal types
 dev-python/nessrest 20180806: A high-level Web Crawling and Web Scraping framework
 dev-python/netfilterqueue 0.8.1: Python bindings for libnetfilter_queue
+dev-python/normality 2.1.1: A small set of text normalization functions
 dev-python/nplusone 1.0.0: Detecting the n+1 queries problem in Python
 dev-python/oscrypto 1.2.0: TLS sockets, key generation, encryption, decryption, signing, verification
 dev-python/outcome 1.0.1: Capture the outcome of Python function calls.
@@ -377,7 +379,6 @@ dev-python/stegoveritas-binwalk 2.1.2: Binwalk release specifically for stegover
 dev-python/stegoveritas-pfp 0.2.3: An 010 template interpreter for Python
 dev-python/stegoveritas-py010parser 0.1.10: A modified pycparser to parse 010 templates
 dev-python/syslog-rfc5424-formatter 1.1.1 1.2.2: Logging formatter which produces well-formatted RFC5424 Syslog Protocol messages
-dev-python/text-unidecode 1.3: The most basic Text::Unidecode port
 dev-python/tldextract 2.2.1-r1: Accurately separate the TLD from the registered domain and subdomains
 dev-python/tls_parser 1.2.1 1.2.2: Small library to parse TLS records.
 dev-python/tlslite-ng 0.7.5: New home of the TLS implementation in pure python.
@@ -487,7 +488,7 @@ dev-ruby/zpng 0.3.1: Pure ruby PNG file manipulation & validation
 dev-util/AndroidProjectCreator-bin 1.3.1 1.4: Decompile an APK to an Android Studio Project
 dev-util/androguard 3.3.5: Read Android's binary format for XML files (AXML) and a decompiler for DEX
 dev-util/apktool 2.4.1: A tool for reengineering 3rd party, closed, binary Android apps
-dev-util/appmon 0.5: Monitoring and tampering API calls of MacOS and iOS/Android apps
+dev-util/appmon 0.5_p20201005: Monitoring and tampering API calls of MacOS and iOS/Android apps
 dev-util/build-tools 30: Android SDK Build Tools
 dev-util/catalyst 3.0.9: Release metatool used for creating releases based on Gentoo Linux
 dev-util/collabreate 0.4.0_p20140528: A plugin for IDA Pro designed to provide collaborative reverse engineering
