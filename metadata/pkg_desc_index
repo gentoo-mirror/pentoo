@@ -702,7 +702,7 @@ net-wireless/b43-tools 9999: Tools for developers working on broadcom drivers/fi
 net-wireless/berate_ap 20190918 99999999: Script for orchestrating mana rogue WiFi Access Points (fork create_ap)
 net-wireless/bladerf_adsb 9999: bladeRF ADS-B hardware decoder
 net-wireless/blue_hydra 1.9.15-r2 9999: bluetooth discovery service built on top of bluez
-net-wireless/blue_sonar 0.2 9999: A simple wrapper for l2ping which shows rssi
+net-wireless/blue_sonar 0.3 9999: A simple wrapper for l2ping which shows rssi
 net-wireless/bluemaho 090417-r2: BlueMaho is GUI-shell (interface) for suite of tools for testing security of bluetooth devices
 net-wireless/broadcom-firmware-downloader 0.1-r2 0.2: Closed Broadcom Commercial Firmware Downloader
 net-wireless/broadcom-firmware-installer 0.1-r3 0.2: Closed Broadcom Commercial Firmware Installer
