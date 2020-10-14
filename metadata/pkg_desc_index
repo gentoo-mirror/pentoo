@@ -443,7 +443,7 @@ dev-ruby/memory_profiler 0.9.14: Memory profiling routines for Ruby 2.1+
 dev-ruby/metasploit-concern 3.0.0: Metasploit concern allows you to define concerns in app/concerns.
 dev-ruby/metasploit-credential 4.0.2: Code for modeling and managing credentials in Metasploit
 dev-ruby/metasploit-model 3.0.0-r2 3.1.2: Common code, such as validators and mixins
-dev-ruby/metasploit-payloads 2.0.14 2.0.16 2.0.19: Compiled binaries for Metasploit's Meterpreter
+dev-ruby/metasploit-payloads 2.0.12 2.0.16 2.0.19: Compiled binaries for Metasploit's Meterpreter
 dev-ruby/metasploit_data_models 4.0.2-r1 4.1.0: The database layer for Metasploit
 dev-ruby/metasploit_payloads-mettle 1.0.2 1.0.3: Compiled binaries for Metasploit's next-gen Meterpreter
 dev-ruby/mini_exiftool 2.10.0: wrapper for exiftool
