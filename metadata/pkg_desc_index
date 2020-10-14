@@ -638,7 +638,7 @@ net-analyzer/vomit 0.2c: Converts a Cisco IP phone conversation into a wav file
 net-analyzer/wafw00f 2.1.0-r1: Identifies and fingerprints Web Application Firewall (WAF) products
 net-analyzer/wfuzz 2.4.7-r1 3.0.1: Wfuzz is a tool designed for bruteforcing Web Applications
 net-analyzer/whatweb 0.5.2-r1 0.5.3: Next generation web scanner, identifies what software websites are running
-net-analyzer/wpscan 3.8.7-r1: Wordpress security scanner
+net-analyzer/wpscan 3.8.7-r1 3.8.8: Wordpress security scanner
 net-analyzer/xbruteforcer 20180611: Login brute force tool for WordPress, Joomla, DruPal, OpenCart, and Magento.
 net-analyzer/xplico 1.2.2: Extract data from TCP/IP traffic
 net-analyzer/xsstrike 3.1.5 9999: Advanced XSS detection suite
