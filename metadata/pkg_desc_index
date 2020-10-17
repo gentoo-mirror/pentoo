@@ -188,7 +188,7 @@ dev-python/PTP 0.4.2-r1: Pentester's Tools Parser
 dev-python/Protego 0.1.16: robots.txt parser with support for modern conventions
 dev-python/PyVirtualDisplay 0.2.5: python wrapper for Xvfb, Xephyr and Xvnc
 dev-python/Scrapy 1.8.0: A high-level Web Crawling and Web Scraping framework
-dev-python/acora 2.0: Fast multi-keyword search engine for text strings
+dev-python/acora 2.2: Fast multi-keyword search engine for text strings
 dev-python/adblockparser 0.7: Parser for Adblock Plus rules
 dev-python/agate 1.6.1-r1: A data analysis library that is optimized for humans instead of machines
 dev-python/agate-dbf 0.2.1-r1: Adds read support for dbf files to agate
@@ -215,7 +215,7 @@ dev-python/captcha 0.3: Library that generates audio and image CAPTCHAs
 dev-python/cchardet 2.1.4: Python library for interacting with Censys Search Engine (censys.io)
 dev-python/cement 2.10: Application Framework for Python
 dev-python/censys 0.0.8: Python library for interacting with Censys Search Engine (censys.io)
-dev-python/cfscrape 1.9.7 2.1.1: A module to bypass Cloudflare's anti-bot page
+dev-python/cfscrape 2.1.1: A module to bypass Cloudflare's anti-bot page
 dev-python/cmake-converter 2.0.1: CMake converter for Visual Studio projects
 dev-python/codegen 1.0: Extension to ast that allow ast -> python code generation
 dev-python/config 0.4.2: A hierarchical, easy-to-use, powerful configuration module for Python
@@ -316,7 +316,7 @@ dev-python/pefile 2019.4.18: Module to read and work with Portable Executable (P
 dev-python/playsound 1.2.2: Single function module with no dependencies for playing sounds
 dev-python/plotly 4.10.0: Browser-based graphing library for Python
 dev-python/proxy-db 0.2.5: Manage free and private proxies on local db for Python Projects
-dev-python/psd-tools 1.9.9 1.9.13: Package for working with Adobe Photoshop PSD files
+dev-python/psd-tools 1.9.13: Package for working with Adobe Photoshop PSD files
 dev-python/py2neo 3.1.2 4.3.0-r1: A simple and pragmatic library which accesses the Neo4j graph database
 dev-python/pyDes 2.0.1: Pure python implementation of DES and TRIPLE DES encryption algorithm
 dev-python/pyaff4 0.27: Python Advanced Forensic Format Version 4 library
