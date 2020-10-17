@@ -215,10 +215,10 @@ dev-python/captcha 0.3: Library that generates audio and image CAPTCHAs
 dev-python/cchardet 2.1.4: Python library for interacting with Censys Search Engine (censys.io)
 dev-python/cement 2.10: Application Framework for Python
 dev-python/censys 0.0.8: Python library for interacting with Censys Search Engine (censys.io)
-dev-python/cfscrape 1.9.7 2.0.7 2.1.1: A module to bypass Cloudflare's anti-bot page
+dev-python/cfscrape 1.9.7 2.1.1: A module to bypass Cloudflare's anti-bot page
 dev-python/cmake-converter 2.0.1: CMake converter for Visual Studio projects
 dev-python/codegen 1.0: Extension to ast that allow ast -> python code generation
-dev-python/config 0.4.0 0.4.2: A hierarchical, easy-to-use, powerful configuration module for Python
+dev-python/config 0.4.2: A hierarchical, easy-to-use, powerful configuration module for Python
 dev-python/coreapi 2.3.3: Python client library for Core API
 dev-python/coreschema 0.0.4: Core Schema
 dev-python/csvkit 1.0.4-r1 1.0.5: A suite of utilities for converting to and working with CSV files
@@ -239,7 +239,7 @@ dev-python/django-webpack-loader 0.6.0: Transparently use webpack with django
 dev-python/django_compressor 2.4: Compresses linked and inline JavaScript or CSS into single cached files
 dev-python/dnslib 0.9.12: Simple library to encode/decode DNS wire-format packets
 dev-python/dotty 1.5: EFILTER query language
-dev-python/dropbox-sdk 9.4.0 10.1.1: A Python SDK for integrating with the Dropbox API v2.
+dev-python/dropbox-sdk 10.1.1: A Python SDK for integrating with the Dropbox API v2.
 dev-python/easygui 0.98.1: A module for very simple, very easy GUI programming in Python
 dev-python/editorconfig 0.12.2: EditorConfig File Locator and Interpreter for Python
 dev-python/entropy 0.1.5: entropy is a command line friend that helps you reduce entropy in your life
@@ -328,10 +328,10 @@ dev-python/pygexf 0.2.2: A python library to generate gexf file format
 dev-python/pygtail 0.11.0: Reads log file lines that have not been read
 dev-python/pyhunter 1.7 9999: An (unofficial) Python wrapper for the Hunter.io API
 dev-python/pyinstaller 3.6-r1: Program converting Python programs into stand-alone executables
-dev-python/pyjsparser 2.5.2 2.7.1: Fast javascript parser (based on esprima.js)
+dev-python/pyjsparser 2.7.1: Fast javascript parser (based on esprima.js)
 dev-python/pylnk3 0.3.0: Python library for reading and writing Windows shortcut files
 dev-python/pyminifier 2.1 2.1_p20150625: Pyminifier is a Python code minifier, obfuscator, and compressor.
-dev-python/pymisp 2.4.117 2.4.122 2.4.124: A python library for using the MISP Rest API
+dev-python/pymisp 2.4.124: A python library for using the MISP Rest API
 dev-python/pymodbus 2.1.0: A fully featured modbus protocol stack in python
 dev-python/pypcapfile 0.12.0: Pure Python package for reading and parsing libpcap savefiles
 dev-python/pyppeteer 0.0.25: Headless chrome/chromium automation library
@@ -353,7 +353,7 @@ dev-python/python-whois 0.7.2: Whois querying and parsing of domain registration
 dev-python/python3-openid 3.1.0: Python 3 port of the python-openid library
 dev-python/pytimeparse 1.1.8: A small Python module to parse various kinds of time expressions
 dev-python/pywerview 0.2.0_p20191115-r1: A Python port of PowerSploit's PowerView
-dev-python/pyzmq 17.1.0 19.0.0: Lightweight and super-fast messaging library built on top of the ZeroMQ library
+dev-python/pyzmq 19.0.0: Lightweight and super-fast messaging library built on top of the ZeroMQ library
 dev-python/qt-py 1.2.5: Minimal Python 2 & 3 shim around all Qt bindings
 dev-python/queuelib 1.5.0: Collection of persistent (disk-based) queues
 dev-python/rangeparser 0.1.3-r1: A python package to parse ranges easily
@@ -378,7 +378,7 @@ dev-python/sqlalchemy_schemadisplay 1.3: Turn SQLAlchemy DB Model into a graph
 dev-python/stegoveritas-binwalk 2.1.2: Binwalk release specifically for stegoveritas
 dev-python/stegoveritas-pfp 0.2.3: An 010 template interpreter for Python
 dev-python/stegoveritas-py010parser 0.1.10: A modified pycparser to parse 010 templates
-dev-python/syslog-rfc5424-formatter 1.1.1 1.2.2: Logging formatter which produces well-formatted RFC5424 Syslog Protocol messages
+dev-python/syslog-rfc5424-formatter 1.2.2: Logging formatter which produces well-formatted RFC5424 Syslog Protocol messages
 dev-python/tldextract 2.2.1-r1: Accurately separate the TLD from the registered domain and subdomains
 dev-python/tls_parser 1.2.1 1.2.2: Small library to parse TLS records.
 dev-python/tlslite-ng 0.7.5: New home of the TLS implementation in pure python.
@@ -386,7 +386,7 @@ dev-python/torrequest 20181011-r2: Simple Python interface for HTTP(s) requests 
 dev-python/trio 0.16.0: A friendly Python library for async concurrency and I/O
 dev-python/truffleHogRegexes 20190518-r1: These are the regexes that power trufflehog
 dev-python/validators 0.14.0: Python Data Validation for Humans
-dev-python/vulners 1.5.4 1.5.5: Python API wrapper for the Vulners Database
+dev-python/vulners 1.5.5: Python API wrapper for the Vulners Database
 dev-python/w3lib 1.20.0: Library of web-related functions
 dev-python/webargs 5.5.2: Declarative parsing and validation of HTTP request objects
 dev-python/websocket-client 0.57.0: WebSocket client for python with hybi13 support
