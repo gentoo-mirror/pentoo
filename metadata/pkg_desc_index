@@ -141,7 +141,7 @@ dev-java/gradle-bin 5.2.1: A project automation and build tool with a Groovy bas
 dev-java/jd-core 1.0.6 1.1.3: JD-Core is a JAVA decompiler written in JAVA
 dev-java/jd-lib 1.1.0: Command line Java Decompiler
 dev-java/jgraphx 2.1.1.2 4.0.6: Open-source graph component for Java
-dev-java/logback 1.2.3: The reliable, generic, fast and flexible logging framework
+dev-java/logback 1.2.3 1.3.0_alpha5: The reliable, generic, fast and flexible logging framework
 dev-java/msgpack 0.5.1 0.6.12 0.8.16: MessagePack for Java is a binary-based efficient object serialization library
 dev-java/sleep 2.1-r1: Duct Tape for the Java platform
 dev-libs/LeechCore 1.7 2.0 2.1: Direct Memory Access (DMA) Attack Software
