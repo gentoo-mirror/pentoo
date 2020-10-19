@@ -320,6 +320,7 @@ dev-python/py2neo 3.1.2 4.3.0-r1: A simple and pragmatic library which accesses 
 dev-python/pyDes 2.0.1: Pure python implementation of DES and TRIPLE DES encryption algorithm
 dev-python/pyaff4 0.27: Python Advanced Forensic Format Version 4 library
 dev-python/pyaxmlparser 0.3.24: Parser for Android XML file and get Application Name without using Androguard
+dev-python/pydecomp 9999: A python library of common (de)compression and contents handling
 dev-python/pydispatcher 2.0.5: Multi-producer-multi-consumer signal dispatching mechanism
 dev-python/pyee 7.0.3 8.0.1: A port of node.js's EventEmitter to python.
 dev-python/pygeoif 0.7: A basic implementation of the __geo_interface__
