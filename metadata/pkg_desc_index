@@ -384,6 +384,7 @@ dev-python/tlslite-ng 0.7.5: New home of the TLS implementation in pure python.
 dev-python/torrequest 20181011-r2: Simple Python interface for HTTP(s) requests over Tor
 dev-python/trio 0.16.0: A friendly Python library for async concurrency and I/O
 dev-python/truffleHogRegexes 20190518-r1: These are the regexes that power trufflehog
+dev-python/tweepy 3.9.0: A Python library for accessing the Twitter API
 dev-python/validators 0.14.0: Python Data Validation for Humans
 dev-python/vulners 1.5.5: Python API wrapper for the Vulners Database
 dev-python/w3lib 1.20.0: Library of web-related functions
