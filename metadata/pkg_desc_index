@@ -174,7 +174,7 @@ dev-libs/libvmdk 20191221 20200810: Library and tools to access the VMware Virtu
 dev-libs/openssl-bad 1.0.2_p20180915 1.0.2_p20190119: Snapshot for testssl.sh >2.8 from PM's fork, ready to compile
 dev-libs/qbdi 0.7.1: A Dynamic Binary Instrumentation framework based on LLVM
 dev-libs/redasm-database 20190317: Database files (signatures) for REDasm
-dev-libs/unicorn-bindings 1.0.2_rc2: Unicorn bindings
+dev-libs/unicorn-bindings 1.0.2_rc2 1.0.2: Unicorn bindings
 dev-perl/Encoding-BER 1.02: Perl module for encoding/decoding data using ASN.1 Basic Encoding Rules (BER)
 dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
 dev-perl/Net-Address-IP-Local 0.1.2: A class for discovering the local system's IP address
@@ -586,7 +586,7 @@ net-analyzer/mosref 2.0_beta3: A secure remote execution framework using a compa
 net-analyzer/nbtool 20140416: Some tools for NetBIOS and DNS investigation, attacks, and communication
 net-analyzer/ncrack 0.7: Ncrack is a high-speed network authentication cracking tool
 net-analyzer/nikto 2.1.6-r1 2.1.6_p20190508 2.1.6_p20200726: Web server vulnerability scanner
-net-analyzer/nmap 7.80-r1 7.91: A utility for network discovery and security auditing
+net-analyzer/nmap 7.80-r1: A utility for network discovery and security auditing
 net-analyzer/nmap-vulners 1.2 1.4_beta 9999: NSE script based on Vulners.com API
 net-analyzer/nmap_vulscan 2.0_p20190923 2.1: A NSE vulnerability scanner which uses an offline version of scip VulDB
 net-analyzer/ntlmrecon 0.2_beta: A tool to enumerate information from NTLM authentication enabled web endpoints
