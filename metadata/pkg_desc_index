@@ -36,7 +36,7 @@ app-editors/visual-studio-code 1.48.0 1.49.2: Multiplatform Visual Studio Code f
 app-eselect/eselect-metasploit 0.20: eselect module for metasploit
 app-exploits/ROPgadget 6.2 6.3: Search for gadgets in binaries to facilitate your ROP exploitation
 app-exploits/deathstar 20180722: A tool to gain Domain Admin rights with a push of a button
-app-exploits/empire 3.3.4 3.4.0: A post-exploitation framework
+app-exploits/empire 3.3.4 3.4.0 3.5.2: A post-exploitation framework
 app-exploits/enumdb 2.1.0: Database brute force and post exploitation tool
 app-exploits/exploit-pattern 20200109: Generate and search pattern string for exploit development
 app-exploits/exploitdb 20200717 99999999: All exploits from exploit-db.com
@@ -260,6 +260,7 @@ dev-python/flask-jwt-extended 3.24.1: An open source Flask extension that provid
 dev-python/flask-restless 0.17.0: A Flask extension for easy ReSTful API generation
 dev-python/flask-security 3.0.0: Simple security for Flask apps
 dev-python/flask-session 0.3.1: Adds server-side session support to your Flask application
+dev-python/flask-socketio 4.3.1: Socket.IO integration for Flask applications
 dev-python/flask-sockets 0.2.1: Elegant WebSockets for your Flask apps
 dev-python/fpdf 1.7.2: Simple PDF generation for Python
 dev-python/frida-python 12.9.4 12.10.4 12.11.11: Dynamic instrumentation toolkit for reverse-engineers and security researchers
