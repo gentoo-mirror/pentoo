@@ -129,7 +129,7 @@ dev-db/oat 1.3.1: a toolkit that could be used to audit security within Oracle d
 dev-db/sqlbf 1.0.1-r1: SQLBF is a tool to audit mssql passwords strength offline
 dev-db/sqlmap 1.4.9 1.4.10 9999: An automatic SQL injection and database takeover tool
 dev-db/sqlsus 0.7.2: MySQL injection and takeover tool
-dev-embedded/libmpsse 1.3.2: Open source library for SPI/I2C control via FTDI chips
+dev-embedded/libmpsse 1.3.2-r1: Open source library for SPI/I2C control via FTDI chips
 dev-embedded/mphidflash 1.8: Tool for communicating with the USB-Bootloader in PIC microcontrollers
 dev-go/fetchbot 1.3: Simple, flexible web crawler that follows robots.txt policies and crawl delays
 dev-go/go-cve-dictionary 0.4.0: Build a local copy of CVE (NVD and Japanese JVN). Server mode for easy querying
