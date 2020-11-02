@@ -595,7 +595,7 @@ net-analyzer/osmedeus 9999: A offensive security tool for reconnaissance and vul
 net-analyzer/owtf 2.6.0-r1: The Offensive Web Testing Framework
 net-analyzer/padbuster 20110928: Automated script for performing Padding Oracle attacks
 net-analyzer/plecost 9999: Wordpress finger printing tool, retrieve information about the plugins and versions installed
-net-analyzer/polenum 1.6: Extract password policy from a windows machine
+net-analyzer/polenum 1.6.1: Extract password policy from a windows machine
 net-analyzer/ppscan 0.3-r1: Port scanner with HTTP and FTP tunneling support
 net-analyzer/pwncat 0.1.0: Netcat with IDS/IPS evasion, bind reverse shell and port forwarding magic
 net-analyzer/rdp-sec-check 20181109: Remote Desktop Protocol security settings checker
