@@ -488,9 +488,9 @@ dev-ruby/sys-proctable 1.2.2 1.2.6: A cross-platform Ruby interface for gatherin
 dev-ruby/zpng 0.3.1: Pure ruby PNG file manipulation & validation
 dev-util/AndroidProjectCreator-bin 1.3.1 1.4: Decompile an APK to an Android Studio Project
 dev-util/androguard 3.3.5: Read Android's binary format for XML files (AXML) and a decompiler for DEX
-dev-util/apktool 2.4.1: A tool for reengineering 3rd party, closed, binary Android apps
+dev-util/android-sdk-build-tools 30 30.0.2: Android SDK Build Tools
+dev-util/apktool 2.4.1-r1: A tool for reengineering 3rd party, closed, binary Android apps
 dev-util/appmon 0.5_p20201005: Monitoring and tampering API calls of MacOS and iOS/Android apps
-dev-util/build-tools 30: Android SDK Build Tools
 dev-util/catalyst 3.0.9 9999: Release metatool used for creating releases based on Gentoo Linux
 dev-util/collabreate 0.4.0_p20140528: A plugin for IDA Pro designed to provide collaborative reverse engineering
 dev-util/cutter 1.12.0: A Qt and C++ GUI for radare2 reverse engineering framework
