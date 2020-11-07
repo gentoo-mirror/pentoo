@@ -175,9 +175,6 @@ net-wireless/proxmark3:standalone-lf-samyrun - standalone HID26 read/clone/sim
 net-wireless/pyrit:cuda - Enable CUDA support via net-wireless/cpyrit-cuda
 net-wireless/pyrit:opencl - Enable OpenCL support via net-wireless/cpyrit-opencl
 pentoo/pentoo-cinnamon:gdm - GNOME Display Manager
-sys-auth/polkit:consolekit - Use sys-auth/consolekit for session tracking
-sys-auth/polkit:elogind - Use sys-auth/elogind for session tracking
-sys-auth/polkit:systemd - Use sys-apps/systemd for session tracking
 sys-kernel/compat-drivers:build-all-modules - Bypass any filtering of the modules and build them all. Use only when no other flag works!
 sys-kernel/compat-drivers:compat_drivers_ethernet_alx - COMPAT_DRIVERS_ETHERNET setting to build driver for alx ethernet cards
 sys-kernel/compat-drivers:compat_drivers_ethernet_atl1 - COMPAT_DRIVERS_ETHERNET setting to build driver for atl1 ethernet cards
