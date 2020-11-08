@@ -781,8 +781,8 @@ net-wireless/rtl8812au_aircrack-ng 5.6.4.2_p20200816 9999: RTL8812AU/21AU and RT
 net-wireless/rtl8822bu 5.3.1_p20190920 9999: RTL88x2BU driver with monitor mode and frame injection
 net-wireless/rx_tools 1.0.3-r1 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
 net-wireless/scopy 9999: A software oscilloscope and signal analysis toolset
-net-wireless/sdrtrunk 0.4.0: decoding, monitoring, recording and streaming trunked mobile and related radio protocols
-net-wireless/sdrtrunk-bin 0.4.0: decoding, monitoring, recording and streaming trunked mobile and related radio protocols
+net-wireless/sdrtrunk 0.4.0: Decode, monitor, record and stream trunked mobile and related radio protocols
+net-wireless/sdrtrunk-bin 0.4.0-r1: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/signalhound-spike 3.5.9: Spectrum analyzer software for Signal Hound test equipment
 net-wireless/ska 0.2: Fake Shared Key Authentication
 net-wireless/sniffair 3.0: SniffAir framework for wireless pentesting

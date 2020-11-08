@@ -1,10 +1,11 @@
-DEFINED_PHASES=compile prepare
-DEPEND=|| ( dev-java/openjdk-bin:15 ) !net-wireless/sdrtrunk-bin dev-java/gradle-bin:6.3
-DESCRIPTION=decoding, monitoring, recording and streaming trunked mobile and related radio protocols
+DEFINED_PHASES=compile install prepare
+DEPEND=dev-java/openjdk-bin:15 !net-wireless/sdrtrunk-bin dev-java/gradle-bin:6.3
+DESCRIPTION=Decode, monitor, record and stream trunked mobile and related radio protocols
 EAPI=7
 HOMEPAGE=https://github.com/DSheirer/sdrtrunk
+KEYWORDS=~amd64
 LICENSE=GPL-3
-RDEPEND=|| ( dev-java/openjdk-bin:15 )
+RDEPEND=dev-java/openjdk-bin:15
 SLOT=0
 SRC_URI=https://github.com/DSheirer/sdrtrunk/archive/v0.4.0.tar.gz -> sdrtrunk-0.4.0.tar.gz https://dev.pentoo.ch/~blshkv/distfiles/sdrtrunk-dependencies-20201103.tar.gz
-_md5_=7c1ded9784d6d876769d41fd51d694e4
+_md5_=c6e6d76fcc284489c73f491b1dc5f07f
