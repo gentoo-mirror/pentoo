@@ -298,7 +298,7 @@ dev-python/mitm6 0.2.2: pwning IPv4 via IPv6
 dev-python/mockito 1.2.0: Spying framework based on Mockito java library
 dev-python/msldap 0.3.11-r1 0.3.13: Python library to play with MS LDAP
 dev-python/msoffcrypto-tool 4.10.1: Decrypting MS Office files with passwords or other keys
-dev-python/nassl 3.0.0-r1: Experimental OpenSSL wrapper for Python 3.6+ and SSLyze
+dev-python/nassl 3.0.0 3.1.0: Experimental OpenSSL wrapper for Python 3.6+ and SSLyze
 dev-python/neo4j 1.7.6: Neo4j Bolt driver for Python
 dev-python/neobolt 1.7.17: Neo4j Bolt Connector for Python
 dev-python/neotime 1.7.4: Nanosecond resolution temporal types
@@ -617,7 +617,7 @@ net-analyzer/sn0int 0.16.0 0.17.1 0.18.2 0.19.1: Semi-automatic OSINT framework 
 net-analyzer/sniffglue 0.10.1: Secure multithreaded packet sniffer
 net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
 net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
-net-analyzer/sslyze 3.0.5 3.0.8-r1: Fast and full-featured SSL scanner
+net-analyzer/sslyze 3.0.5 3.0.8-r1 3.1.0: Fast and full-featured SSL scanner
 net-analyzer/subfinder 2.3.3 2.3.4 2.4.3: A subdomain discovery tool that discovers valid subdomains for websites
 net-analyzer/subjack 2.1: Subdomain Takeover tool written in Go
 net-analyzer/sublert 1.4.7_p20200103: Monitor new subdomains deployed by specific organizations and issued TLS/SSL certificate
@@ -636,7 +636,7 @@ net-analyzer/videojak 1.00 2.0: VideoJak is an IP Video security assessment tool
 net-analyzer/voiphopper 2.04-r3: VoIP Hopper is a tool that rapidly runs a VLAN Hop into the Voice VLAN
 net-analyzer/vomit 0.2c: Converts a Cisco IP phone conversation into a wav file
 net-analyzer/wafw00f 2.1.0-r1: Identifies and fingerprints Web Application Firewall (WAF) products
-net-analyzer/wfuzz 2.4.7-r1 3.0.1 3.0.3: Wfuzz is a tool designed for bruteforcing Web Applications
+net-analyzer/wfuzz 3.0.3 3.1.0: Wfuzz is a tool designed for bruteforcing Web Applications
 net-analyzer/whatweb 0.5.2-r1 0.5.3: Next generation web scanner, identifies what software websites are running
 net-analyzer/wpscan 3.8.7-r1 3.8.8 3.8.9: Wordpress security scanner
 net-analyzer/xbruteforcer 20180611: Login brute force tool for WordPress, Joomla, DruPal, OpenCart, and Magento.
