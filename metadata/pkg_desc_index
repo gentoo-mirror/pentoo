@@ -119,7 +119,7 @@ app-misc/mat2 0.10.0 0.10.1 0.11.0: A handy tool to trash your metadata
 app-pda/ideviceinstaller 1.1.0_p20181001 1.1.0_p20190928 1.1.1: A tool to interact with the installation_proxy of an Apple's iDevice
 app-pda/ifuse 1.1.4: Mount Apple iPhone/iPod Touch file systems for backup purposes
 app-pda/usbmuxd 1.1.1-r1: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
-app-shells/pwsh-bin 7.0.3: PowerShell - binary precompiled for glibc
+app-shells/pwsh-bin 7.0.3 7.1.0: PowerShell - binary precompiled for glibc
 app-text/cewl 5.4.8.1 5.4.9 9999: A custom word list generator
 app-text/unfurl 0.2.0: Pull out bits of URLs provided on stdin
 dev-db/mssqlscan 0.8.4: A small multi-threaded tool that scans for Microsoft SQL Servers
