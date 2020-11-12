@@ -5,5 +5,5 @@ HOMEPAGE=https://github.com/returntocorp/semgrep
 KEYWORDS=amd64
 LICENSE=LGPL-2
 SLOT=0
-SRC_URI=https://dev.pentoo.ch/~blshkv/distfiles/semgrep-core-bin-0.28.0.tar.gz
-_md5_=0ac82ead38c93493fac2a0613bd86b5e
+SRC_URI=https://files.pythonhosted.org/packages/fd/34/7910a69abf7ed0638061f402d74ddb71aeeac0b56352814f100f9646632d/semgrep-0.28.0-cp36.cp37.cp38.py36.py37.py38-none-any.whl -> semgrep-core-bin-0.28.0.zip
+_md5_=1e81c3f8c9c30312d6ad8a3b46621d79
