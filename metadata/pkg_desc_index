@@ -509,7 +509,7 @@ dev-util/jadx-bin 1.0.0 1.1.0: A standalone graphical utility that displays Java
 dev-util/jd-cli 1.1.0: Command line Java Decompiler
 dev-util/jd-cli-bin 1.1.0: Command line Java Decompiler
 dev-util/jd-gui 1.6.6-r1: A standalone Java Decompiler GUI
-dev-util/jnitrace 3.0.8: A Frida based tool that traces usage of the JNI API in Android apps.
+dev-util/jnitrace 3.0.8 3.1.0: A Frida based tool that traces usage of the JNI API in Android apps.
 dev-util/lief 0.10.1: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
 dev-util/mobsf 3.0.5 3.1.1: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
