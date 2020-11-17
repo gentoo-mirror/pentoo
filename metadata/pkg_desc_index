@@ -830,7 +830,7 @@ pentoo/pentoo-voip 2018.2-r1: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2020.3: Pentoo wireless meta ebuild
 pentoo/tribe 2012.0: Tribe meta ebuild
 pentoo/wctf-client 2020.4-r2: Packages needed to power the client NUC for WCTF events
-pentoo/zero-system 2020.4-r1: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
+pentoo/zero-system 2020.4-r2: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
 sci-electronics/litedram 20180514: Small footprint and configurable DRAM core
 sci-electronics/liteeth 20180301 20180719: Small footprint and configurable Ethernet core
 sci-electronics/litepcie 20180530: Small footprint and configurable PCIe core
