@@ -50,7 +50,7 @@ app-exploits/packetstormexploits-meta 2019: Meta ebuild of packetstorm exploits
 app-exploits/powercat 20170805: Netcat: The powershell version
 app-exploits/proton 20200311: Windows post-exploitation framework using Windows Script Host
 app-exploits/pwntools 4.2.1 4.3.0: CTF framework and exploit development library
-app-exploits/pypykatz 0.3.12 0.3.13: Python implementation of Mimikatz
+app-exploits/pypykatz 0.3.13 0.3.15: Python implementation of Mimikatz
 app-exploits/ropper 1.13.3-r2 1.13.5 9999: Use to display information about binary files in different file formats
 app-exploits/routersploit 3.4.0-r1 9999: An open-source exploitation framework dedicated to embedded devices
 app-exploits/the-backdoor-factory 3.4.2-r2: BDF allows to patch executable binaries with user desired shellcode
@@ -205,7 +205,7 @@ dev-python/apng 0.3.3 0.3.4: A Python module to deal with APNG files
 dev-python/artifacts 20200515: Digital Forensics Artifact Repository
 dev-python/asciitree 0.3.3: Draws ASCII trees
 dev-python/asn1crypto 1.4.0: Python ASN.1 library with a focus on performance and a pythonic API
-dev-python/asysocks 0.0.2 0.0.3 0.0.7: Socks5 / Socks4 client and server library
+dev-python/asysocks 0.0.7 0.0.10: Socks5 / Socks4 client and server library
 dev-python/banal 1.0.1: Commons of banal micro-functions for Python.
 dev-python/beautifultable 0.8.0: Print ASCII tables for terminals
 dev-python/biplist 1.0.3: A binary plist parser/generator for Python
@@ -295,7 +295,7 @@ dev-python/matlink-gpapi 0.4.4.5: Unofficial python api for google play
 dev-python/maxminddb 1.5.2: A Python module for reading MaxMind DB files
 dev-python/mechanize 0.4.5: Stateful programmatic web browsing in Python
 dev-python/minidump 0.0.13: parse Windows minidump file format
-dev-python/minikerberos 0.2.1 0.2.3: Kerberos manipulation library in pure Python
+dev-python/minikerberos 0.2.3 0.2.5: Kerberos manipulation library in pure Python
 dev-python/mitm6 0.2.2: pwning IPv4 via IPv6
 dev-python/mockito 1.2.0: Spying framework based on Mockito java library
 dev-python/msldap 0.3.11-r1 0.3.13: Python library to play with MS LDAP
@@ -856,7 +856,7 @@ sys-fs/yaffshiv 20160105 99999999: YAFFS filesystem extraction tool
 sys-kernel/chromeos-sources 9999: Linux kernel source for the Samsung Chromebook
 sys-kernel/compat-drivers 3.8-r1: Stable kernel pre-release wifi subsystem backport
 sys-kernel/ft60x_driver 20180209: USB FT60x driver
-sys-kernel/kconfig-hardened-check 0.5.3 0.5.5 9999: A script for checking the hardening options in the Linux kernel config
+sys-kernel/kconfig-hardened-check 0.5.5 0.5.7 0.5.9 9999: A script for checking the hardening options in the Linux kernel config
 sys-kernel/minipli-sources 4.9.74: Unofficial forward ports of the last publicly available grsecurity patch
 sys-kernel/odroid-sources 9999: Linux kernel source for the ODROID-[UX]2 products
 sys-kernel/odroidxu-sources 9999: Linux kernel source for the ODROIDXU products
