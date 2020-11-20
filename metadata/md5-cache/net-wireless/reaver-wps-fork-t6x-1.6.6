@@ -1,13 +1,14 @@
+BDEPEND=>=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.1:1.16 >=sys-devel/automake-1.15.1:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
 DEFINED_PHASES=configure install
-DEPEND=!net-wireless/reaver net-libs/libpcap dev-db/sqlite:3 >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.1:1.16 >=sys-devel/automake-1.15.1:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DEPEND=!net-wireless/reaver net-libs/libpcap dev-db/sqlite:3
 DESCRIPTION=Utilise Pixie Dust Attack to find the correct WPS PIN.
-EAPI=6
+EAPI=7
 HOMEPAGE=https://github.com/t6x/reaver-wps-fork-t6x
-KEYWORDS=~amd64 ~x86
+KEYWORDS=amd64 ~arm64 x86
 LICENSE=GPL-2
 PDEPEND=net-wireless/pixiewps
 RDEPEND=!net-wireless/reaver net-libs/libpcap dev-db/sqlite:3
 SLOT=0
 SRC_URI=https://github.com/t6x/reaver-wps-fork-t6x/archive/v1.6.6.tar.gz -> reaver-wps-fork-t6x-1.6.6.tar.gz
 _eclasses_=autotools	7d999b62b8749fad43fff00620cedf47	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	98584e405e2b0264d37e8f728327fed1	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
-_md5_=47024f57ba0d63d895ebcbb10dbbe52a
+_md5_=7c55a9013e378544445e235049774727
