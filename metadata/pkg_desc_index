@@ -630,7 +630,7 @@ net-analyzer/sublert 1.4.7_p20200103: Monitor new subdomains deployed by specifi
 net-analyzer/sublist3r 1.0_p20200105: Enumerate subdomains of websites using OSINT
 net-analyzer/takeover 20200312: Sub-Domain TakeOver Vulnerability Scanner
 net-analyzer/termshark 2.1.1-r1: A terminal UI for tshark, inspired by Wireshark
-net-analyzer/testssl 3.0.3: Tool to check TLS/SSL cipher support
+net-analyzer/testssl 3.0.4: Tool to check TLS/SSL cipher support
 net-analyzer/thc-pptp-bruter 0.1.4: A brute force program that works against pptp vpn endpoints
 net-analyzer/thc-ssl-dos 1.4: THC-SSL-DOS is a tool to verify the performance of SSL servers
 net-analyzer/theHarvester 3.1-r3 3.2.0: The Harvester is a tool designed to collect email accounts of the target domain
@@ -867,7 +867,7 @@ sys-libs/libkudzu 1.2.85.1: Red Hat Hardware detection tools
 sys-libs/libxcrypt 2.4: A replacement for libcrypt with DES, MD5 and blowfish support
 sys-power/acpid 2.0.32-r1: Daemon for Advanced Configuration and Power Interface
 virtual/linux-sources 3-r104: Virtual for Linux kernel sources
-www-apps/BloodHound 3.0.4 3.0.5: Six Degrees of Domain Admin
+www-apps/BloodHound 3.0.5 4.0.0: Six Degrees of Domain Admin
 www-apps/Tiredful-API 9999: An intentionally designed broken web application based on REST API
 www-apps/beef 0.5.0.0-r1: Browser exploitation framework
 www-apps/faraday 3.10.0: Integrated Penetration-Test Environment is a multiuser Penetration test IDE
