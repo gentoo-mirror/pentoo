@@ -66,7 +66,7 @@ app-forensics/guymager 0.8.12: Guymager is a fast and user friendly forensic ima
 app-forensics/inception 0.4.2: Firewire physical memory manipulation tool exploiting IEEE 1394 SBP-2 DMA
 app-forensics/kjackal 99999999: Linux Rootkit Scanner
 app-forensics/lazagne 2.4.3-r1 9999: Credentials recovery project
-app-forensics/libbfio 20190112 20191230: Library for providing a basic file input/output abstraction layer
+app-forensics/libbfio 20191230: Library for providing a basic file input/output abstraction layer
 app-forensics/libforensic1394 0.2-r1 9999: Library for carrying out memory forensics using firewire/ieee1394
 app-forensics/libpff 20161119 20180714: Library for accessing Personal Folder Files
 app-forensics/libvshadow 20191221: Library and tools to support the Volume Shadow Snapshot (VSS) format.
