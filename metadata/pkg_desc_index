@@ -274,7 +274,7 @@ dev-python/hrt 0.1.0: HTTP Request Translator (hrt) translates raw HTTP requests
 dev-python/htmlentities 0.3.0: Easy-to-use data handling for SQL data stores
 dev-python/http-tools 1.1.0: Capture, repeat and live intercept HTTP requests
 dev-python/hupper 1.9.1: Integrated process monitor for developing and reloading daemons
-dev-python/impacket 0.9.21-r1 0.9.21_p20201015 9999: A collection of Python classes focused on providing access to network packets
+dev-python/impacket 0.9.21-r1 0.9.21_p20201015 0.9.22 9999: A collection of Python classes focused on providing access to network packets
 dev-python/invoke 1.4.1: Pythonic task execution
 dev-python/ipparser 0.3.5: Parse IP address information
 dev-python/ipwhois 1.0.0: Retrieve and parse whois data for IPv4 and IPv6 addresses
