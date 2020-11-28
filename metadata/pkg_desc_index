@@ -870,7 +870,7 @@ sys-libs/libkudzu 1.2.85.1: Red Hat Hardware detection tools
 sys-libs/libxcrypt 2.4: A replacement for libcrypt with DES, MD5 and blowfish support
 sys-power/acpid 2.0.32-r1: Daemon for Advanced Configuration and Power Interface
 virtual/linux-sources 3-r104: Virtual for Linux kernel sources
-www-apps/BloodHound 3.0.5 4.0.0: Six Degrees of Domain Admin
+www-apps/BloodHound 3.0.5 4.0.1: Six Degrees of Domain Admin
 www-apps/Tiredful-API 9999: An intentionally designed broken web application based on REST API
 www-apps/beef 0.5.0.0-r1: Browser exploitation framework
 www-apps/faraday 3.10.0: Integrated Penetration-Test Environment is a multiuser Penetration test IDE
