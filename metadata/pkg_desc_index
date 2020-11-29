@@ -468,10 +468,10 @@ dev-ruby/rack-cors 1.1.1: Rack CORS Middleware
 dev-ruby/reline 0.1.5: Alternative GNU Readline or Editline implementation by pure Ruby
 dev-ruby/rex 2.0.13: A variety of classes useful for security testing and exploit development
 dev-ruby/rex-arch 0.1.13: architecture specific information for Rex
-dev-ruby/rex-bin_tools 0.1.6: suite of tools for analyzing executables to find specific chunks of code
+dev-ruby/rex-bin_tools 0.1.6-r1: suite of tools for analyzing executables to find specific chunks of code
 dev-ruby/rex-core 0.1.13: Core libraries required for the Ruby Exploitation (Rex) Suite
 dev-ruby/rex-encoder 0.1.4: provides the basis for all of the polymorphic encoders that Metasploit uses
-dev-ruby/rex-exploitation 0.1.24: various helper mechanisms for creating exploits
+dev-ruby/rex-exploitation 0.1.24-r1: various helper mechanisms for creating exploits
 dev-ruby/rex-java 0.1.5: Ruby Exploitation(Rex) library for parsing Java serialized streams
 dev-ruby/rex-mime 0.1.5: library is for creating and/or parsing MIME messages
 dev-ruby/rex-nop 0.1.1: Rex library for dynamic generation of x86 multi-byte NOPs
