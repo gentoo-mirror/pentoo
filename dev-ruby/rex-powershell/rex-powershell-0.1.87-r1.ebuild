@@ -5,9 +5,14 @@ EAPI=7
 
 USE_RUBY="ruby25 ruby26 ruby27"
 
+RUBY_FAKEGEM_EXTRAINSTALL="data"
 RUBY_FAKEGEM_RECIPE_TEST="none"
 RUBY_FAKEGEM_RECIPE_DOC="rdoc"
 RUBY_FAKEGEM_BINWRAP=""
+
+#FIXME convert to:
+#RUBY_FAKEGEM_GEMSPEC="${PN}.gemspec"
+#after the issue is fixed https://github.com/rapid7/rex-powershell/issues/26
 
 inherit ruby-fakegem
 
@@ -21,5 +26,5 @@ KEYWORDS="~amd64 ~arm ~x86"
 IUSE=""
 
 ruby_add_bdepend "dev-ruby/rex-random_identifier
-		  dev-ruby/rex-text
-		  dev-ruby/ruby-rc4"
+		dev-ruby/rex-text
+		dev-ruby/ruby-rc4"
