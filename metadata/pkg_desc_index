@@ -94,7 +94,6 @@ app-forensics/spiderfoot 3.0: The most complete OSINT collection and reconnaissa
 app-forensics/stegoveritas 1.5 1.8: Automatic image steganography analysis tool
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
 app-forensics/thehive 3.4.3: A scalable 4-in-1 open source and free Security Incident Response Platform
-app-forensics/volatility 2.6.1-r1: Framework for analyzing volatile memory
 app-forensics/volatility3 1.0.0_beta1: Framework for analyzing volatile memory
 app-forensics/xmount 0.7.6: Convert on-the-fly between multiple input and output harddisk image types
 app-forensics/yara 4.0.0 4.0.1 4.0.2: A malware identification and classification tool
