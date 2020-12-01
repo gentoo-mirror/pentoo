@@ -195,6 +195,7 @@ dev-python/agate-excel 0.2.3-r1: Adds read support for Excel files (xls and xlsx
 dev-python/agate-sql 0.5.4-r1: Adds SQL read/write support to agate
 dev-python/aggdraw 1.3.11: High quality drawing interface for PIL
 dev-python/aiocmd 0.1.5: Coroutine-based CLI generator using prompt_toolkit
+dev-python/aioconsole 0.3.1: Asynchronous console and interfaces for asyncio
 dev-python/aiomultiprocess 0.8.0: asyncio version of the standard multiprocessing module
 dev-python/aiosqlite 0.15.0: asyncio bridge to the standard sqlite3 module
 dev-python/aiowinreg 0.0.3: Windows registry file reader
@@ -268,6 +269,7 @@ dev-python/google-play-scraper 0.0.1.8 0.0.2.3: APIs to easily crawl the Google 
 dev-python/googlesearch 2.0.3: Google search from Python
 dev-python/gpapi 0.4.4-r1: Unofficial python api for google play
 dev-python/grequests 0.4.0: Use Requests with Gevent to make asyncronous HTTP Requests easily
+dev-python/gssapi 1.6.11: Python GSSAPI Wrapper
 dev-python/hexdump 3.3: Dump binary data to hex format and restore from there
 dev-python/hrt 0.1.0: HTTP Request Translator (hrt) translates raw HTTP requests to different scripts
 dev-python/htmlentities 0.3.0: Easy-to-use data handling for SQL data stores
@@ -301,7 +303,7 @@ dev-python/mockito 1.2.0: Spying framework based on Mockito java library
 dev-python/msldap 0.3.11-r1 0.3.13 0.3.20: Python library to play with MS LDAP
 dev-python/msoffcrypto-tool 4.10.1: Decrypting MS Office files with passwords or other keys
 dev-python/nassl 3.0.0 3.1.0: Experimental OpenSSL wrapper for Python 3.6+ and SSLyze
-dev-python/neo4j 1.7.6: Neo4j Bolt driver for Python
+dev-python/neo4j 1.7.6 4.2.0: Neo4j Bolt driver for Python
 dev-python/neobolt 1.7.17: Neo4j Bolt Connector for Python
 dev-python/neotime 1.7.4: Nanosecond resolution temporal types
 dev-python/nessrest 20180806: A high-level Web Crawling and Web Scraping framework
@@ -338,8 +340,9 @@ dev-python/pymisp 2.4.124: A python library for using the MISP Rest API
 dev-python/pymodbus 2.1.0: A fully featured modbus protocol stack in python
 dev-python/pypcapfile 0.12.0: Pure Python package for reading and parsing libpcap savefiles
 dev-python/pyppeteer 0.0.25: Headless chrome/chromium automation library
-dev-python/pypsrp 0.4.0: PowerShell Remoting Protocol and WinRM for Python
+dev-python/pypsrp 0.4.0 0.5.0: PowerShell Remoting Protocol and WinRM for Python
 dev-python/pysnmp-apps 0.5.3: PySNMP applications
+dev-python/pyspnego 0.1.3: Windows Negotiate Authentication Client and Server
 dev-python/pystache 0.5.4: Mustache in Python
 dev-python/python-cas-haiwen 20180411: Python CAS client library
 dev-python/python-crontab 20191023: Crontab module for accessing system crontabs
@@ -365,7 +368,6 @@ dev-python/requests-futures 1.0.0-r1: Asynchronous Python HTTP Requests for Huma
 dev-python/requests-html 0.10.0: HTML Parsing for Humans
 dev-python/rjsmin 1.1.0: RCSSmin is a CSS minifier
 dev-python/ruamel-base 1.0.0: common routines for ruamel packages
-dev-python/ruamel-yaml 0.16.10: YAML parser/emitter that supports roundtrip comment preservation
 dev-python/selenium-requests 1.3.1: Extends Selenium webdrv with the request function from the Requests library
 dev-python/semgrep 0.28.0: Lightweight static analysis for many languages
 dev-python/shelljob 0.5.6: Run multiple subprocesses asynchronous/in parallel with streamed output
@@ -555,7 +557,7 @@ net-analyzer/cisco-scanner 1.3: scan a network for cisco routers with default pa
 net-analyzer/cisco-torch 0.4b: Cisco mass scanning, fingerprinting, and exploitation tool
 net-analyzer/commix 3.1: Automated All-in-One OS command injection and exploitation tool
 net-analyzer/cottontail 20190426-r1: Capture all RabbitMQ messages being sent through a broker
-net-analyzer/crackmapexec 5.0.2-r1 5.1.0 5.1.1: A swiss army knife for pentesting Windows/Active Directory environments
+net-analyzer/crackmapexec 5.0.2-r1 5.1.0 5.1.1 5.1.4: A swiss army knife for pentesting Windows/Active Directory environments
 net-analyzer/davtest 1.0: tests WebDAV enabled servers
 net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden content
 net-analyzer/dirble-bin 1.3.1 1.4.2: Fast directory scanning and scraping tool
