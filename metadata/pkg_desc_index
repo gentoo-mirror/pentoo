@@ -125,7 +125,7 @@ dev-db/mssqlscan 0.8.4: A small multi-threaded tool that scans for Microsoft SQL
 dev-db/neo4j-community 3.5.3-r1 3.5.12 3.5.16 4.0.0-r1 4.0.3 4.0.4: High-performance, mature and robust NOSQL graph database
 dev-db/oat 1.3.1: a toolkit that could be used to audit security within Oracle database servers
 dev-db/sqlbf 1.0.1-r1: SQLBF is a tool to audit mssql passwords strength offline
-dev-db/sqlmap 1.4.10 1.4.11 9999: An automatic SQL injection and database takeover tool
+dev-db/sqlmap 1.4.11 1.4.12 9999: An automatic SQL injection and database takeover tool
 dev-db/sqlsus 0.7.2: MySQL injection and takeover tool
 dev-embedded/libmpsse 1.3.2-r1: Open source library for SPI/I2C control via FTDI chips
 dev-embedded/mphidflash 1.8: Tool for communicating with the USB-Bootloader in PIC microcontrollers
@@ -562,7 +562,7 @@ net-analyzer/davtest 1.0: tests WebDAV enabled servers
 net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden content
 net-analyzer/dirble-bin 1.3.1 1.4.2: Fast directory scanning and scraping tool
 net-analyzer/dirhunt 0.6.0-r1 0.7.0: Dirhunt is a web crawler optimized for searching and analyzing web directories.
-net-analyzer/dirsearch 0.3.9 0.4.0: A simple command line tool designed to brute force dirs and files in websites
+net-analyzer/dirsearch 0.3.9 0.4.0 0.4.0_p20201202: A simple command line tool designed to brute force dirs and files in websites
 net-analyzer/dnsrecon 0.9.1-r1 0.10.0_p20200409: DNS Enumeration Script
 net-analyzer/dripcap-bin 0.6.15-r1: Caffeinated Modern Packet Analyzer
 net-analyzer/droopescan 1.41.3-r1: A scanner that helps identifying issues in Drupal, SilverStripe, and Wordpress
