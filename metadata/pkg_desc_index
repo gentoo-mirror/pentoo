@@ -36,7 +36,7 @@ app-editors/visual-studio-code 1.48.0 1.49.2: Multiplatform Visual Studio Code f
 app-eselect/eselect-metasploit 0.20: eselect module for metasploit
 app-exploits/ROPgadget 6.2 6.3: Search for gadgets in binaries to facilitate your ROP exploitation
 app-exploits/deathstar 20180722: A tool to gain Domain Admin rights with a push of a button
-app-exploits/empire 3.6.0 3.6.1: A post-exploitation framework
+app-exploits/empire 3.6.1: A post-exploitation framework
 app-exploits/enumdb 2.1.0: Database brute force and post exploitation tool
 app-exploits/exploit-pattern 20200109: Generate and search pattern string for exploit development
 app-exploits/exploitdb 20200717 99999999: All exploits from exploit-db.com
@@ -80,7 +80,7 @@ app-forensics/openscap-daemon 0.1.10-r1: Manages continuous scans of your infras
 app-forensics/origami-pdf 2.1.0: A Ruby framework designed to parse, analyze, and forge PDF documents
 app-forensics/pcileech 4.6 4.7: Direct Memory Access (DMA) Attack Software
 app-forensics/pdf-parser 0.7.4: This tool will parse a PDF document to identify the fundamental elements used
-app-forensics/pdfid 0.2.6 0.2.7: This tool will scan a PDF document looking for certain keyword
+app-forensics/pdfid 0.2.7: This tool will scan a PDF document looking for certain keyword
 app-forensics/pdfwalker 1.0.0-r1: A GTK frontend to explore the internals of a PDF document with Origami
 app-forensics/prochunter 20171111: Linux process hunter
 app-forensics/reglookup 1.0.1-r1 9999: An utility for reading and querying Windows NT/2K/XP registries
@@ -340,7 +340,7 @@ dev-python/pymisp 2.4.124: A python library for using the MISP Rest API
 dev-python/pymodbus 2.1.0: A fully featured modbus protocol stack in python
 dev-python/pypcapfile 0.12.0: Pure Python package for reading and parsing libpcap savefiles
 dev-python/pyppeteer 0.0.25: Headless chrome/chromium automation library
-dev-python/pypsrp 0.4.0 0.5.0: PowerShell Remoting Protocol and WinRM for Python
+dev-python/pypsrp 0.5.0: PowerShell Remoting Protocol and WinRM for Python
 dev-python/pysnmp-apps 0.5.3: PySNMP applications
 dev-python/pyspnego 0.1.3: Windows Negotiate Authentication Client and Server
 dev-python/pystache 0.5.4: Mustache in Python
@@ -497,13 +497,13 @@ dev-util/AndroidProjectCreator-bin 1.3.1 1.4: Decompile an APK to an Android Stu
 dev-util/androguard 3.3.5: Read Android's binary format for XML files (AXML) and a decompiler for DEX
 dev-util/android-sdk-build-tools 30 30.0.2: Android SDK Build Tools
 dev-util/apktool 2.4.1-r1: A tool for reengineering 3rd party, closed, binary Android apps
-dev-util/appmon 0.5_p20201005 0.5_p20201013: Monitoring and tampering API calls of MacOS and iOS/Android apps
+dev-util/appmon 0.5_p20201013: Monitoring and tampering API calls of MacOS and iOS/Android apps
 dev-util/catalyst 3.0.9 9999: Release metatool used for creating releases based on Gentoo Linux
 dev-util/collabreate 0.4.0_p20140528: A plugin for IDA Pro designed to provide collaborative reverse engineering
 dev-util/cutter 1.12.0: A Qt and C++ GUI for radare2 reverse engineering framework
 dev-util/dependency-check-bin 5.2.4 5.3.2: A utility that detects vulnerabilities in application dependencies
 dev-util/dex2jar 2.1_pre20150601 2.1_pre20180402: Tools to work with android .dex and java .class files
-dev-util/dwarf-debugger 1.0.9 1.0.9_p20200521: Full featured multi arch/os debugger built on top of PyQt5 and frida
+dev-util/dwarf-debugger 1.0.9_p20200521: Full featured multi arch/os debugger built on top of PyQt5 and frida
 dev-util/electron-bin 6.0.11: Cross platform application development framework based on web technologies
 dev-util/electron-packager 14.2.1: Six Degrees of Domain Admin
 dev-util/frida-tools 7.2.2 8.0.1 8.1.3 9.0.0: Frida CLI tools
@@ -557,7 +557,7 @@ net-analyzer/cisco-scanner 1.3: scan a network for cisco routers with default pa
 net-analyzer/cisco-torch 0.4b: Cisco mass scanning, fingerprinting, and exploitation tool
 net-analyzer/commix 3.1: Automated All-in-One OS command injection and exploitation tool
 net-analyzer/cottontail 20190426-r1: Capture all RabbitMQ messages being sent through a broker
-net-analyzer/crackmapexec 5.0.2-r1 5.1.0 5.1.1 5.1.4: A swiss army knife for pentesting Windows/Active Directory environments
+net-analyzer/crackmapexec 5.1.4: A swiss army knife for pentesting Windows/Active Directory environments
 net-analyzer/davtest 1.0: tests WebDAV enabled servers
 net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden content
 net-analyzer/dirble-bin 1.3.1 1.4.2: Fast directory scanning and scraping tool
@@ -636,7 +636,7 @@ net-analyzer/termshark 2.1.1-r1: A terminal UI for tshark, inspired by Wireshark
 net-analyzer/testssl 3.0.4: Tool to check TLS/SSL cipher support
 net-analyzer/thc-pptp-bruter 0.1.4: A brute force program that works against pptp vpn endpoints
 net-analyzer/thc-ssl-dos 1.4: THC-SSL-DOS is a tool to verify the performance of SSL servers
-net-analyzer/theHarvester 3.1-r3 3.2.0: The Harvester is a tool designed to collect email accounts of the target domain
+net-analyzer/theHarvester 3.2.0: The Harvester is a tool designed to collect email accounts of the target domain
 net-analyzer/tplmap 20190820: Server-Side Template Injection and code injection tool
 net-analyzer/twa 1.9.3 1.10.0 9999: A tiny web auditor with strong opinions
 net-analyzer/ucsniff 3.20 3.20-r1: VoIP audio & video sniffer
