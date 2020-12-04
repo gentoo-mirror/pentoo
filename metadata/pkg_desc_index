@@ -318,7 +318,7 @@ dev-python/pcodedmp 1.2.6: A VBA p-code disassembler
 dev-python/pdfkit 0.6.1: Wkhtmltopdf python wrapper
 dev-python/pefile 2019.4.18: Module to read and work with Portable Executable (PE) files
 dev-python/playsound 1.2.2: Single function module with no dependencies for playing sounds
-dev-python/plotly 4.10.0: Browser-based graphing library for Python
+dev-python/plotly 4.13.0: Browser-based graphing library for Python
 dev-python/proxy-db 0.2.5: Manage free and private proxies on local db for Python Projects
 dev-python/psd-tools 1.9.13: Package for working with Adobe Photoshop PSD files
 dev-python/py2neo 3.1.2 4.3.0-r1: A simple and pragmatic library which accesses the Neo4j graph database
