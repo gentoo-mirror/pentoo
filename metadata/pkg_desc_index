@@ -562,7 +562,7 @@ net-analyzer/davtest 1.0: tests WebDAV enabled servers
 net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden content
 net-analyzer/dirble-bin 1.3.1 1.4.2: Fast directory scanning and scraping tool
 net-analyzer/dirhunt 0.6.0-r1 0.7.0: Dirhunt is a web crawler optimized for searching and analyzing web directories.
-net-analyzer/dirsearch 0.3.9 0.4.0 0.4.0_p20201202: A simple command line tool designed to brute force dirs and files in websites
+net-analyzer/dirsearch 0.3.9 0.4.0_p20201202: A simple command line tool designed to brute force dirs and files in websites
 net-analyzer/dnsrecon 0.9.1-r1 0.10.0_p20200409: DNS Enumeration Script
 net-analyzer/dripcap-bin 0.6.15-r1: Caffeinated Modern Packet Analyzer
 net-analyzer/droopescan 1.41.3-r1: A scanner that helps identifying issues in Drupal, SilverStripe, and Wordpress
