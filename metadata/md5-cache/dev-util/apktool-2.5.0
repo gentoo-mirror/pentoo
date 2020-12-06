@@ -1,0 +1,11 @@
+DEFINED_PHASES=install unpack
+DESCRIPTION=A tool for reengineering 3rd party, closed, binary Android apps
+EAPI=7
+HOMEPAGE=https://ibotpeaches.github.io/Apktool/
+IUSE=tools
+KEYWORDS=amd64 x86
+LICENSE=Apache-2.0
+RDEPEND=|| ( virtual/jre virtual/jdk ) tools? ( dev-util/android-sdk-build-tools )
+SLOT=0
+SRC_URI=https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_2.5.0.jar -> apktool-2.5.0.jar
+_md5_=93e97656e7107a16d2d693ad1234dd1f
