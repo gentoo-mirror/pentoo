@@ -520,7 +520,7 @@ dev-util/mobsf 3.0.5 3.1.1: Automated, all-in-one mobile application (Android/iO
 dev-util/objection 1.9.5 1.9.6: Runtime mobile exploration
 dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIPS
 dev-util/qark 0.9_pre20190405: A tool to look for Android application vulnerabilities
-dev-util/recaf-bin 2.5.0: A modern Java bytecode editor
+dev-util/recaf-bin 2.5.0 2.13.2: A modern Java bytecode editor
 dev-util/redasm 2.1.1: The OpenSource Disassembler
 dev-util/retdec 3.3-r2 4.0: RetDec is a retargetable machine-code decompiler based on LLVM.
 dev-util/semgrep-core 0.28.0: Lightweight static analysis for many languages
