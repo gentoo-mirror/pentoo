@@ -197,7 +197,7 @@ dev-python/aggdraw 1.3.11: High quality drawing interface for PIL
 dev-python/aiocmd 0.1.5: Coroutine-based CLI generator using prompt_toolkit
 dev-python/aioconsole 0.3.1: Asynchronous console and interfaces for asyncio
 dev-python/aiomultiprocess 0.8.0: asyncio version of the standard multiprocessing module
-dev-python/aiosqlite 0.15.0: asyncio bridge to the standard sqlite3 module
+dev-python/aiosqlite 0.15.0 0.16.0: asyncio bridge to the standard sqlite3 module
 dev-python/aiowinreg 0.0.3: Windows registry file reader
 dev-python/altgraph 0.17: A constructing graphs, BFS and DFS traversals, etc
 dev-python/apkid 2.1.0-r1 2.1.0_p20200627 2.1.1-r1: Android Package Protector Identifier
@@ -311,7 +311,7 @@ dev-python/netfilterqueue 0.8.1: Python bindings for libnetfilter_queue
 dev-python/normality 2.1.1: A small set of text normalization functions
 dev-python/nplusone 1.0.0: Detecting the n+1 queries problem in Python
 dev-python/oscrypto 1.2.0: TLS sockets, key generation, encryption, decryption, signing, verification
-dev-python/outcome 1.0.1: Capture the outcome of Python function calls.
+dev-python/outcome 1.0.1 1.1.0: Capture the outcome of Python function calls.
 dev-python/parse 1.14.0: parse() is the opposite of format()
 dev-python/parsel 1.5.1: Extract data from HTML and XML using XPath and CSS selectors
 dev-python/pcodedmp 1.2.6: A VBA p-code disassembler
@@ -327,7 +327,7 @@ dev-python/pyaff4 0.27: Python Advanced Forensic Format Version 4 library
 dev-python/pyaxmlparser 0.3.24: Parser for Android XML file and get Application Name without using Androguard
 dev-python/pydecomp 9999: A python library of common (de)compression and contents handling
 dev-python/pydispatcher 2.0.5: Multi-producer-multi-consumer signal dispatching mechanism
-dev-python/pyee 7.0.3 8.0.1: A port of node.js's EventEmitter to python.
+dev-python/pyee 7.0.3 8.0.1 8.1.0: A port of node.js's EventEmitter to python.
 dev-python/pygeoif 0.7: A basic implementation of the __geo_interface__
 dev-python/pygexf 0.2.2: A python library to generate gexf file format
 dev-python/pygtail 0.11.0: Reads log file lines that have not been read
@@ -339,7 +339,7 @@ dev-python/pyminifier 2.1 2.1_p20150625: Pyminifier is a Python code minifier, o
 dev-python/pymisp 2.4.124: A python library for using the MISP Rest API
 dev-python/pymodbus 2.1.0: A fully featured modbus protocol stack in python
 dev-python/pypcapfile 0.12.0: Pure Python package for reading and parsing libpcap savefiles
-dev-python/pyppeteer 0.0.25: Headless chrome/chromium automation library
+dev-python/pyppeteer 0.0.25 0.2.3: Headless chrome/chromium automation library
 dev-python/pypsrp 0.5.0: PowerShell Remoting Protocol and WinRM for Python
 dev-python/pysnmp-apps 0.5.3: PySNMP applications
 dev-python/pyspnego 0.1.3: Windows Negotiate Authentication Client and Server
@@ -373,7 +373,7 @@ dev-python/semgrep 0.28.0: Lightweight static analysis for many languages
 dev-python/shelljob 0.5.6: Run multiple subprocesses asynchronous/in parallel with streamed output
 dev-python/shodan 1.17.0 1.24.0: Python library and command-line utility for Shodan
 dev-python/simplekv 0.14.0: A key-value storage for binary data, support many backends.
-dev-python/sniffio 1.1.0: Sniff out which async library your code is running under
+dev-python/sniffio 1.1.0 1.2.0: Sniff out which async library your code is running under
 dev-python/social-auth-core 3.3.3: Python social authentication made simple
 dev-python/soupsieve 1.9.3: A modern CSS selector implementation for BeautifulSoup
 dev-python/sphinx-autodoc-typehints 1.8.0: Type hints (PEP 484) support for the Sphinx autodoc extension
@@ -389,7 +389,7 @@ dev-python/tldextract 2.2.1-r1: Accurately separate the TLD from the registered 
 dev-python/tls_parser 1.2.1 1.2.2: Small library to parse TLS records.
 dev-python/tlslite-ng 0.7.5: New home of the TLS implementation in pure python.
 dev-python/torrequest 20181011-r2: Simple Python interface for HTTP(s) requests over Tor
-dev-python/trio 0.16.0: A friendly Python library for async concurrency and I/O
+dev-python/trio 0.16.0 0.17.0: A friendly Python library for async concurrency and I/O
 dev-python/truffleHogRegexes 20190518-r1: These are the regexes that power trufflehog
 dev-python/tweepy 3.9.0: A Python library for accessing the Twitter API
 dev-python/validators 0.14.0: Python Data Validation for Humans
@@ -636,7 +636,7 @@ net-analyzer/termshark 2.1.1-r1: A terminal UI for tshark, inspired by Wireshark
 net-analyzer/testssl 3.0.4: Tool to check TLS/SSL cipher support
 net-analyzer/thc-pptp-bruter 0.1.4: A brute force program that works against pptp vpn endpoints
 net-analyzer/thc-ssl-dos 1.4: THC-SSL-DOS is a tool to verify the performance of SSL servers
-net-analyzer/theHarvester 3.2.0 3.2.1: The Harvester is a tool designed to collect email accounts of the target domain
+net-analyzer/theHarvester 3.2.1 3.2.2: The Harvester is a tool designed to collect email accounts of the target domain
 net-analyzer/tplmap 20190820: Server-Side Template Injection and code injection tool
 net-analyzer/twa 1.9.3 1.10.0 9999: A tiny web auditor with strong opinions
 net-analyzer/ucsniff 3.20 3.20-r1: VoIP audio & video sniffer
