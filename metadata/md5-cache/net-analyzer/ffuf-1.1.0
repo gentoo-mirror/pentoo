@@ -8,5 +8,5 @@ LICENSE=MIT
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://github.com/ffuf/ffuf/archive/v1.1.0.tar.gz -> ffuf-1.1.0.tar.gz
-_eclasses_=golang-base	c57d2c3f9e1a02d0feb8b87c7b689892	golang-vcs-snapshot	4a615ccf588f8bc48d956500949af39e
+_eclasses_=golang-base	027b7c82ab637d596b1a18ffcefa0ae4	golang-vcs-snapshot	00959bf58ac3a3f8faff481ad9c9cb5c
 _md5_=bd2b0fdf71eafbb3836c115a99ec9e2e
