@@ -394,11 +394,13 @@ dev-python/torrequest 20181011-r2: Simple Python interface for HTTP(s) requests 
 dev-python/trio 0.16.0 0.17.0: A friendly Python library for async concurrency and I/O
 dev-python/truffleHogRegexes 20190518-r1: These are the regexes that power trufflehog
 dev-python/tweepy 3.9.0: A Python library for accessing the Twitter API
+dev-python/uvloop 0.14.0: Ultra-fast implementation of asyncio event loop on top of libuv
 dev-python/validators 0.14.0: Python Data Validation for Humans
 dev-python/vulners 1.5.5: Python API wrapper for the Vulners Database
 dev-python/w3lib 1.20.0: Library of web-related functions
 dev-python/webargs 5.5.2: Declarative parsing and validation of HTTP request objects
 dev-python/websocket-client 0.57.0: WebSocket client for python with hybi13 support
+dev-python/websockets 8.1: Library for building WebSocket servers and clients in Python
 dev-python/whitenoise 5.0.1: Radically simplified static file serving for WSGI applications
 dev-python/winacl 0.0.6 0.1.0: ACL/ACE/Security Descriptor manipulation library
 dev-python/winsspi 0.0.5 0.0.7 0.0.9: Windows SSPI library in pure Python
