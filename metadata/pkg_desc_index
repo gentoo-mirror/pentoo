@@ -217,6 +217,7 @@ dev-python/cchardet 2.1.4: Python library for interacting with Censys Search Eng
 dev-python/cement 2.10: Application Framework for Python
 dev-python/censys 0.0.8: Python library for interacting with Censys Search Engine (censys.io)
 dev-python/cfscrape 2.1.1: A module to bypass Cloudflare's anti-bot page
+dev-python/click-plugins 1.1.1: Module for click to enable registering CLI commands via setuptools entry-points
 dev-python/cmake-converter 2.0.1: CMake converter for Visual Studio projects
 dev-python/codegen 1.0: Extension to ast that allow ast -> python code generation
 dev-python/config 0.4.2: A hierarchical, easy-to-use, powerful configuration module for Python
