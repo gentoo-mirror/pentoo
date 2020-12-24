@@ -37,7 +37,7 @@ app-editors/visual-studio-code 1.48.0 1.49.2: Multiplatform Visual Studio Code f
 app-eselect/eselect-metasploit 0.20: eselect module for metasploit
 app-exploits/ROPgadget 6.3 6.4: Search for gadgets in binaries to facilitate your ROP exploitation
 app-exploits/deathstar 20180722: A tool to gain Domain Admin rights with a push of a button
-app-exploits/empire 3.6.1: A post-exploitation framework
+app-exploits/empire 3.6.1 3.6.3: A post-exploitation framework
 app-exploits/enumdb 2.1.0: Database brute force and post exploitation tool
 app-exploits/exploit-pattern 20200109: Generate and search pattern string for exploit development
 app-exploits/exploitdb 20200717 99999999: All exploits from exploit-db.com
@@ -389,7 +389,7 @@ dev-python/stegoveritas-py010parser 0.1.10: A modified pycparser to parse 010 te
 dev-python/syslog-rfc5424-formatter 1.2.2: Logging formatter which produces well-formatted RFC5424 Syslog Protocol messages
 dev-python/tldextract 2.2.1-r1: Accurately separate the TLD from the registered domain and subdomains
 dev-python/tls_parser 1.2.1 1.2.2: Small library to parse TLS records.
-dev-python/tlslite-ng 0.7.5: New home of the TLS implementation in pure python.
+dev-python/tlslite-ng 0.7.6: New home of the TLS implementation in pure python.
 dev-python/torrequest 20181011-r2: Simple Python interface for HTTP(s) requests over Tor
 dev-python/trio 0.16.0 0.17.0: A friendly Python library for async concurrency and I/O
 dev-python/truffleHogRegexes 20190518-r1: These are the regexes that power trufflehog
@@ -652,7 +652,7 @@ net-analyzer/wafw00f 2.1.0-r1: Identifies and fingerprints Web Application Firew
 net-analyzer/webtech 1.2.9: Identify technologies used on websites
 net-analyzer/wfuzz 3.0.3 3.1.0: Wfuzz is a tool designed for bruteforcing Web Applications
 net-analyzer/whatweb 0.5.2-r1 0.5.3 0.5.4: Next generation web scanner, identifies what software websites are running
-net-analyzer/wpscan 3.8.7-r1 3.8.8 3.8.9: Wordpress security scanner
+net-analyzer/wpscan 3.8.7-r1 3.8.8 3.8.9 3.8.11: Wordpress security scanner
 net-analyzer/xbruteforcer 20180611: Login brute force tool for WordPress, Joomla, DruPal, OpenCart, and Magento.
 net-analyzer/xplico 1.2.2: Extract data from TCP/IP traffic
 net-analyzer/xsstrike 3.1.5 9999: Advanced XSS detection suite
