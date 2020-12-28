@@ -11,5 +11,5 @@ RDEPEND=virtual/libusb:1
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://github.com/mame82/UnifyingVulnsDisclosureRepo/archive/7bfa689104ab3d54d2a18e69a5a60195ec1cd876.tar.gz -> mjackit-20190606.tar.gz https://github.com/google/gousb/archive/a50ac95.tar.gz -> github.com-google-gousb-a50ac95.tar.gz https://github.com/manifoldco/promptui/archive/v0.3.2.tar.gz -> github.com-manifoldco-promptui-v0.3.2.tar.gz
-_eclasses_=golang-base	027b7c82ab637d596b1a18ffcefa0ae4	golang-vcs-snapshot	00959bf58ac3a3f8faff481ad9c9cb5c	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
+_eclasses_=golang-base	027b7c82ab637d596b1a18ffcefa0ae4	golang-vcs-snapshot	b9726cec9cc93f8884b4634e4ddacdec	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
 _md5_=75f6898aa399a0abe32b958daaac35fc
