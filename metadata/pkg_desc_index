@@ -166,7 +166,7 @@ dev-libs/libfguid 20180219 20180724: Library for GUID/UUID format
 dev-libs/libfmapi 20170112 20180714: Library for MAPI data types
 dev-libs/libfvalue 20200711: Library for generic file value functions
 dev-libs/libfwnt 20191222 20200723: Library for Windows NT data types
-dev-libs/libguytools2 2.0.5-r1 2.1.0: Library for guymager
+dev-libs/libguytools2 2.1.0: Library for guymager
 dev-libs/libsmdev 20190315 20200210: Library to access to storage media device
 dev-libs/libuna 20190102 20200711: Library to support Unicode and ASCII (byte string) conversions
 dev-libs/libvhdi 20181227 20191221: Library and tools to access the Virtual Hard Disk (VHD) image format
