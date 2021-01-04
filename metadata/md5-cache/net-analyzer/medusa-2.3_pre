@@ -1,0 +1,14 @@
+BDEPEND=>=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.1:1.16 >=sys-devel/automake-1.15.1:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DEFINED_PHASES=configure prepare
+DEPEND=ssh? ( net-libs/libssh2 ) postgres? ( dev-db/postgresql:= ) rdp? ( net-misc/freerdp ) subversion? ( dev-vcs/subversion ) !libressl? ( dev-libs/openssl:= ) libressl? ( dev-libs/libressl:= ) afp? ( net-fs/afpfs-ng )
+DESCRIPTION=A modular, parallel, multiprotocol, network login auditor
+EAPI=7
+HOMEPAGE=http://foofus.net/goons/jmk/medusa/medusa.html
+IUSE=afp ncp postgres +rdp +ssh subversion debug libressl
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=ssh? ( net-libs/libssh2 ) postgres? ( dev-db/postgresql:= ) rdp? ( net-misc/freerdp ) subversion? ( dev-vcs/subversion ) !libressl? ( dev-libs/openssl:= ) libressl? ( dev-libs/libressl:= ) afp? ( net-fs/afpfs-ng )
+SLOT=0
+SRC_URI=https://github.com/jmk-foofus/medusa/archive/bdaa2dda92ad3681387a60cc41d3bd9f077360a1.tar.gz -> medusa-2.3_pre.tar.gz
+_eclasses_=autotools	3ec5e49b810b2571ca9c6d76f55867bb	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
+_md5_=d7dc64bc50436a6b72c320dbc27cb19c
