@@ -1,0 +1,9 @@
+DEFINED_PHASES=install
+DESCRIPTION=Database files (signatures) for REDasm
+EAPI=7
+HOMEPAGE=http://redasm.io
+KEYWORDS=amd64 ~arm64 x86
+LICENSE=GPL-3
+SLOT=0
+SRC_URI=https://github.com/REDasmOrg/REDasm-Database/archive/f85b189a9b7415b7a4b5a20a0f7f9e49ee7bad25.tar.gz -> redasm-database-20210109.tar.gz
+_md5_=fc439aef782cb35ed9d621569e0165d4

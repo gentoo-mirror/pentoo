@@ -146,7 +146,6 @@ dev-java/openjdk-bin 15.0.1_p9: Prebuilt Java JDK binaries provided by AdoptOpen
 dev-java/sleep 2.1-r1: Duct Tape for the Java platform
 dev-libs/LeechCore 2.1 2.3: Direct Memory Access (DMA) Attack Software
 dev-libs/hashdb 3.1.0-r1: The hashdb block hash database tool and API
-dev-libs/keystone 0.9.1-r1: assembly/assembler framework + bindings
 dev-libs/libcdata 20190112 20200509: Library for cross-platform C generic data functions
 dev-libs/libcdatetime 20181004 20200510: Library for cross-platform C date and time functions
 dev-libs/libcerror 20181117 20191112 20200615: Library for cross-platform C error functions
@@ -173,7 +172,7 @@ dev-libs/libvhdi 20181227 20191221: Library and tools to access the Virtual Hard
 dev-libs/libvmdk 20191221 20200810: Library and tools to access the VMware Virtual Disk (VMDK) format
 dev-libs/openssl-bad 1.0.2_p20180915 1.0.2_p20190119: Snapshot for testssl.sh >2.8 from PM's fork, ready to compile
 dev-libs/qbdi 0.7.1: A Dynamic Binary Instrumentation framework based on LLVM
-dev-libs/redasm-database 20190317: Database files (signatures) for REDasm
+dev-libs/redasm-database 20190317 20210109: Database files (signatures) for REDasm
 dev-libs/unicorn-bindings 1.0.2_rc2 1.0.2: Unicorn bindings
 dev-perl/Encoding-BER 1.02: Perl module for encoding/decoding data using ASN.1 Basic Encoding Rules (BER)
 dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
@@ -525,7 +524,7 @@ dev-util/objection 1.9.5 1.9.6: Runtime mobile exploration
 dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIPS
 dev-util/qark 0.9_pre20190405: A tool to look for Android application vulnerabilities
 dev-util/recaf-bin 2.5.0 2.13.2: A modern Java bytecode editor
-dev-util/redasm 2.1.1: The OpenSource Disassembler
+dev-util/redasm 2.1.1 2.1.1_p1 3.0.0_beta1: The OpenSource Disassembler
 dev-util/retdec 3.3-r2 4.0: RetDec is a retargetable machine-code decompiler based on LLVM.
 dev-util/semgrep-core 0.28.0: Lightweight static analysis for many languages
 dev-util/semgrep-core-bin 0.28.0 0.36.0: Lightweight static analysis for many languages
