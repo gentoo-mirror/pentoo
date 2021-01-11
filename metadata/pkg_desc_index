@@ -792,7 +792,7 @@ net-wireless/rfcat 1.9.1 1.9.2 1.9.3: The swiss army knife of subGHz
 net-wireless/rfidler 0.01_p20160313 0.01_p20180128: Software defined RFID (LF) Reader/Writer/Emulator
 net-wireless/rfidtool 0.01: command line rfid interface
 net-wireless/rtl8812au 4.2.5 4.3.1.4 4.3.14_p20190827 5.2.9_p20180327 5.6.4.2_p20200318 5.6.4.2_p20200703: Linux kernel driver for rtl8812au USB WiFi chipsets
-net-wireless/rtl8812au_aircrack-ng 5.6.4.2_p20200816 9999: RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection
+net-wireless/rtl8812au_aircrack-ng 5.6.4.2_p20200816 5.6.4.2_p20201231 9999: RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection
 net-wireless/rtl8822bu 5.3.1_p20190920 9999: RTL88x2BU driver with monitor mode and frame injection
 net-wireless/rx_tools 1.0.3-r1 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
 net-wireless/scopy 9999: A software oscilloscope and signal analysis toolset
