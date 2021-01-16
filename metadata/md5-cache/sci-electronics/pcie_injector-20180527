@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile setup
+DEPEND=sci-electronics/litex[python_single_target_python3_7(-)?,python_single_target_python3_8(-)?,python_single_target_python3_9(-)?] sci-electronics/migen[python_single_target_python3_7(-)?,python_single_target_python3_8(-)?,python_single_target_python3_9(-)?] sci-electronics/litedram[python_single_target_python3_7(-)?,python_single_target_python3_8(-)?,python_single_target_python3_9(-)?] sci-electronics/litepcie[python_single_target_python3_7(-)?,python_single_target_python3_8(-)?,python_single_target_python3_9(-)?] sci-electronics/liteusb[python_single_target_python3_7(-)?,python_single_target_python3_8(-)?,python_single_target_python3_9(-)?]
+DESCRIPTION=Information gathering tool designed for extracting metadata of public documents
+EAPI=6
+HOMEPAGE=https://github.com/enjoy-digital/pcie_injector/
+IUSE=python_single_target_python3_7 python_single_target_python3_8 python_single_target_python3_9
+LICENSE=BSD
+RDEPEND=sci-electronics/litex[python_single_target_python3_7(-)?,python_single_target_python3_8(-)?,python_single_target_python3_9(-)?] sci-electronics/migen[python_single_target_python3_7(-)?,python_single_target_python3_8(-)?,python_single_target_python3_9(-)?] sci-electronics/litedram[python_single_target_python3_7(-)?,python_single_target_python3_8(-)?,python_single_target_python3_9(-)?] sci-electronics/litepcie[python_single_target_python3_7(-)?,python_single_target_python3_8(-)?,python_single_target_python3_9(-)?] sci-electronics/liteusb[python_single_target_python3_7(-)?,python_single_target_python3_8(-)?,python_single_target_python3_9(-)?]
+SLOT=0
+SRC_URI=https://github.com/enjoy-digital/pcie_injector/archive/950e56b091504d45ad17ee46ccb4d3950c182d42.zip -> pcie_injector-20180527.zip
+_eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	python-single-r1	d3100de905f978df912135806cf27188	python-utils-r1	65bb60d137e5a51f58ada69bf3f366da	toolchain-funcs	1a94dc06d324bd0dab754e11abe6d27e
+_md5_=1bca08cce3098d1acdf04d4134aa6362

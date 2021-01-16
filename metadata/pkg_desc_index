@@ -13,6 +13,7 @@ app-admin/vuls 0.9.0-r1: Vulnerability scanner for Linux, agentless, written in 
 app-antivirus/lkrg 0.6 0.7: Linux Kernel Runtime Guard
 app-antivirus/malheur 0.5.4-r1: Malware analysis tool
 app-antivirus/tyton 1.2_p20200604 9999: Kernel-Mode Rootkit Hunter
+app-antivirus/veil 3.1.14-r1: A tool for payloads generation that bypass common anti-virus solutions
 app-crypt/SIPcrack 0.4-r1: SIPcrack is a SIP protocol login cracker
 app-crypt/acsccid 1.1.7 1.1.8: Generic driver for ACS (CCID and non-CCID) Smart Card Reader
 app-crypt/asleap 2.2_p20160730-r1 2.2_p20201128: Cisco LEAP and Generic MS-CHAPv2 Dictionary Attack
@@ -29,7 +30,7 @@ app-crypt/stegcracker 2.0.7 20190219-r1: Steganography brute-force utility to un
 app-crypt/steghide 0.5.1: A steganography program which hides data in various media files
 app-crypt/wisecracker 1.0-r1: An open source framework for tools that can distribute brute force cryptanalysis
 app-crypt/xortool 0.99: A tool to analyze multi-byte xor cipher
-app-crypt/yubioath-desktop 5.0.1-r2 5.0.3 5.0.4: Library and tool for personalization of Yubico's YubiKey NEO
+app-crypt/yubioath-desktop 5.0.3 5.0.4: Library and tool for personalization of Yubico's YubiKey NEO
 app-dicts/raft-wordlists 20110803-r1: Raft wordlists
 app-dicts/seclists 2020.3 2020.4: A collection of multiple types of lists used during security assessments
 app-editors/visual-studio-code 1.48.0 1.49.2: Multiplatform Visual Studio Code from Microsoft
@@ -114,7 +115,7 @@ app-misc/cyberchef 9.18.0 9.20.3 9.21.0: A web app for encryption, encoding, com
 app-misc/dangerzone 0.1 0.1.1 0.1.2 0.1.2-r1: Take potentially dangerous PDFs or images and convert them to a safe PDF
 app-misc/freediag 1.08: Free diagnostic software for OBD-II compliant motor vehicles
 app-misc/gplaycli 3.26 3.27 3.29: Google Play Downloader via Command line
-app-misc/mat2 0.10.0 0.10.1 0.11.0: A handy tool to trash your metadata
+app-misc/mat2 0.11.0: A handy tool to trash your metadata
 app-pda/ideviceinstaller 1.1.0_p20181001 1.1.0_p20190928 1.1.1: A tool to interact with the installation_proxy of an Apple's iDevice
 app-pda/ifuse 1.1.4: Mount Apple iPhone/iPod Touch file systems for backup purposes
 app-pda/usbmuxd 1.1.1-r1: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
@@ -167,8 +168,8 @@ dev-libs/libfwnt 20191222 20200723: Library for Windows NT data types
 dev-libs/libguytools2 2.1.0: Library for guymager
 dev-libs/libsmdev 20190315 20200210: Library to access to storage media device
 dev-libs/libuna 20190102 20200711: Library to support Unicode and ASCII (byte string) conversions
-dev-libs/libvhdi 20181227 20191221: Library and tools to access the Virtual Hard Disk (VHD) image format
-dev-libs/libvmdk 20191221 20200810: Library and tools to access the VMware Virtual Disk (VMDK) format
+dev-libs/libvhdi 20191221: Library and tools to access the Virtual Hard Disk (VHD) image format
+dev-libs/libvmdk 20200810: Library and tools to access the VMware Virtual Disk (VMDK) format
 dev-libs/openssl-bad 1.0.2_p20180915 1.0.2_p20190119: Snapshot for testssl.sh >2.8 from PM's fork, ready to compile
 dev-libs/qbdi 0.7.1: A Dynamic Binary Instrumentation framework based on LLVM
 dev-libs/redasm-database 20190317 20210109: Database files (signatures) for REDasm
@@ -218,6 +219,8 @@ dev-python/cfscrape 2.1.1: A module to bypass Cloudflare's anti-bot page
 dev-python/click-plugins 1.1.1: Module for click to enable registering CLI commands via setuptools entry-points
 dev-python/cmake-converter 2.0.1: CMake converter for Visual Studio projects
 dev-python/codegen 1.0: Extension to ast that allow ast -> python code generation
+dev-python/config 0.4.2: A hierarchical, easy-to-use, powerful configuration module for Python
+dev-python/coreapi 2.3.3: Python client library for Core API
 dev-python/coreschema 0.0.4: Core Schema
 dev-python/csvkit 1.0.4-r1 1.0.5: A suite of utilities for converting to and working with CSV files
 dev-python/dataset 1.3.2: Easy-to-use data handling for SQL data stores
@@ -305,6 +308,7 @@ dev-python/neo4j 1.7.6 4.2.0: Neo4j Bolt driver for Python
 dev-python/neobolt 1.7.17: Neo4j Bolt Connector for Python
 dev-python/neotime 1.7.4: Nanosecond resolution temporal types
 dev-python/nessrest 20180806: A high-level Web Crawling and Web Scraping framework
+dev-python/netfilterqueue 0.8.1: Python bindings for libnetfilter_queue
 dev-python/normality 2.1.1: A small set of text normalization functions
 dev-python/nplusone 1.0.0: Detecting the n+1 queries problem in Python
 dev-python/oscrypto 1.2.0: TLS sockets, key generation, encryption, decryption, signing, verification
@@ -319,6 +323,7 @@ dev-python/plotly 4.13.0: Browser-based graphing library for Python
 dev-python/proxy-db 0.2.5: Manage free and private proxies on local db for Python Projects
 dev-python/psd-tools 1.9.13: Package for working with Adobe Photoshop PSD files
 dev-python/py2neo 3.1.2 4.3.0-r1: A simple and pragmatic library which accesses the Neo4j graph database
+dev-python/pyDes 2.0.1: Pure python implementation of DES and TRIPLE DES encryption algorithm
 dev-python/pyaff4 0.27: Python Advanced Forensic Format Version 4 library
 dev-python/pyaxmlparser 0.3.24: Parser for Android XML file and get Application Name without using Androguard
 dev-python/pydecomp 9999: A python library of common (de)compression and contents handling
@@ -337,6 +342,7 @@ dev-python/pymodbus 2.1.0: A fully featured modbus protocol stack in python
 dev-python/pypcapfile 0.12.0: Pure Python package for reading and parsing libpcap savefiles
 dev-python/pyppeteer 0.0.25 0.2.3: Headless chrome/chromium automation library
 dev-python/pypsrp 0.5.0: PowerShell Remoting Protocol and WinRM for Python
+dev-python/pysnmp-apps 0.5.3: PySNMP applications
 dev-python/pyspnego 0.1.3: Windows Negotiate Authentication Client and Server
 dev-python/pystache 0.5.4: Mustache in Python
 dev-python/python-cas-haiwen 20180411: Python CAS client library
@@ -344,6 +350,7 @@ dev-python/python-crontab 20191023: Crontab module for accessing system crontabs
 dev-python/python-docx 0.8.10: Create and modify Word documents with Python
 dev-python/python-iptools 0.7.0: A package is a collection of utilities for dealing with IP addresses
 dev-python/python-libnmap 0.7.0: A python library enabling python developers to manipulate nmap process and data
+dev-python/python-nmap 0.6.1: a python library which helps in using nmap port scanner
 dev-python/python-oauth2 1.1.1: OAuth 2.0 provider for python
 dev-python/python-pptx 0.6.18: Create Open XML PowerPoint documents in Python
 dev-python/python-ptrace 0.9.4: A Python binding of ptrace library
@@ -361,6 +368,7 @@ dev-python/requests-file 1.4.3: File transport adapter for Requests
 dev-python/requests-futures 1.0.0-r1: Asynchronous Python HTTP Requests for Humans using Futures
 dev-python/requests-html 0.10.0: HTML Parsing for Humans
 dev-python/rjsmin 1.1.0: RCSSmin is a CSS minifier
+dev-python/ruamel-base 1.0.0: common routines for ruamel packages
 dev-python/selenium-requests 1.3.1: Extends Selenium webdrv with the request function from the Requests library
 dev-python/semgrep 0.28.0-r1 0.36.0 0.37.0: Lightweight static analysis for many languages
 dev-python/shelljob 0.5.6: Run multiple subprocesses asynchronous/in parallel with streamed output
@@ -398,6 +406,7 @@ dev-python/winsspi 0.0.5 0.0.7 0.0.9: Windows SSPI library in pure Python
 dev-python/xlutils 2.0.0-r1: provides a collection of utilities for working with Excel files
 dev-python/yamllint 1.21.0: A linter for YAML files
 dev-python/yara-python 4.0.0 4.0.1 4.0.1-r2 4.0.2: Python interface for a malware identification and classification tool
+dev-python/yaswfp 0.9.3: Yet Another SWF Parser.
 dev-python/zap-api-python 0.0.15: OWASP ZAP Python API
 dev-python/zlib_wrapper 0.1.3: Wrapper around zlib with custom header crc32.
 dev-qt/qtserialport 5.15.1 5.15.2: Serial port abstraction library for the Qt5 framework
@@ -512,6 +521,7 @@ dev-util/lief 0.10.1: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
 dev-util/mobsf 3.0.5 3.1.1: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
 dev-util/objection 1.9.5 1.9.6: Runtime mobile exploration
+dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIPS
 dev-util/qark 0.9_pre20190405: A tool to look for Android application vulnerabilities
 dev-util/recaf-bin 2.5.0 2.13.2: A modern Java bytecode editor
 dev-util/redasm 2.1.1 2.1.1_p1 3.0.0_beta1: The OpenSource Disassembler
@@ -543,6 +553,7 @@ net-analyzer/bolt 0.2.1 9999: CSRF Scanner
 net-analyzer/bonesi 0.3.1 9999: BoNeSi - the DDoS botnet simulator
 net-analyzer/cameradar 4.1.3-r1 5.0.0: Cameradar hacks its way into RTSP videosurveillance cameras
 net-analyzer/capanalysis 1.2.3: A web visual tool for information security specialists
+net-analyzer/cipherscan 20190726 20200312: A very simple way to find out which SSL ciphersuites are supported by a target
 net-analyzer/cisco-auditing-tool 1: Perl script which scans cisco routers for common vulnerabilities.
 net-analyzer/cisco-bruteforce-enabler 1: cisco internal bruteforcer
 net-analyzer/cisco-scanner 1.3: scan a network for cisco routers with default passwords
@@ -595,6 +606,7 @@ net-analyzer/onesixtyone 0.7: An efficient SNMP scanner
 net-analyzer/osmedeus 9999: A offensive security tool for reconnaissance and vulnerability scanning
 net-analyzer/owtf 2.6.0-r1: The Offensive Web Testing Framework
 net-analyzer/padbuster 20110928: Automated script for performing Padding Oracle attacks
+net-analyzer/plecost 9999: Wordpress finger printing tool, retrieve information about the plugins and versions installed
 net-analyzer/polenum 1.6.1: Extract password policy from a windows machine
 net-analyzer/ppscan 0.3-r1: Port scanner with HTTP and FTP tunneling support
 net-analyzer/pwncat 0.1.0: Netcat with IDS/IPS evasion, bind reverse shell and port forwarding magic
@@ -672,7 +684,7 @@ net-misc/munin 0.14.1-r1 9999: Online hash checker for Virustotal and other serv
 net-misc/photon 1.3.0 9999: Incredibly fast crawler designed for OSINT
 net-misc/pwnedornot 1.2.8_p20200602: OSINT Tool for Finding Passwords of Compromised Email Addresses Topics
 net-misc/rdesktop-brute 1.5.0: A Remote Desktop Protocol Client
-net-misc/seafile 7.0.9 7.0.10 8.0.1: File syncing and sharing software with file encryption and group sharing
+net-misc/seafile 7.0.10 8.0.1: File syncing and sharing software with file encryption and group sharing
 net-misc/seafile-client 7.0.9 7.0.10 8.0.1: Seafile desktop client
 net-misc/sherlock 0.10.4 0.10.5 0.10.9 0.11.1 0.12.9 9999: Find usernames across social networks
 net-misc/sippts 2.0.4: set of tools to audit VoIP servers and devices using SIP protocol
@@ -826,6 +838,14 @@ pentoo/pentoo-wireless 2020.3: Pentoo wireless meta ebuild
 pentoo/tribe 2012.0: Tribe meta ebuild
 pentoo/wctf-client 2020.4-r2: Packages needed to power the client NUC for WCTF events
 pentoo/zero-system 2020.4-r4: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
+sci-electronics/litedram 20180514: Small footprint and configurable DRAM core
+sci-electronics/liteeth 20180301 20180719: Small footprint and configurable Ethernet core
+sci-electronics/litepcie 20180530: Small footprint and configurable PCIe core
+sci-electronics/litescope 20180531: Small footprint and configurable embedded FPGA logic analyzer
+sci-electronics/liteusb 20180301: Small footprint and configurable USB core
+sci-electronics/litex 20180531 20180718: Information gathering tool designed for extracting metadata of public documents
+sci-electronics/migen 0.7: A Python toolbox for building complex digital hardware
+sci-electronics/pcie_injector 20180527: Information gathering tool designed for extracting metadata of public documents
 sys-apps/become 1.0 1.0-r1: utility for changing the current real, effective or group id
 sys-apps/fchroot 0.1.2: Funtoo's franken-chroot tool
 sys-apps/magic-pax 0.0.1: 
@@ -866,5 +886,4 @@ www-apps/vulsrepo 20190412-r3: VulsRepo is visualized based on the json report o
 www-misc/firefox-bookmarks 0.3-r1: Firefox bookmarks for the Pento ISO only
 www-plugins/hackplugins-meta 20200428: Collection of browser's plugins for application security testing
 www-servers/thin 1.7.2: A fast and very simple Ruby web server
-www-servers/tornado 4.5.3 5.1-r1 6.0.3 6.0.3-r1 6.0.4: Python web framework and asynchronous networking library
 x11-libs/qwt-multiaxes 9999: 2D plotting library for Qt5

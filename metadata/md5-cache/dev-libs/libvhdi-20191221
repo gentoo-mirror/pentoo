@@ -1,15 +1,15 @@
 BDEPEND=virtual/pkgconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.2-r1:1.16 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
 DEFINED_PHASES=configure prepare setup
-DEPEND=python_single_target_python3_7? ( dev-lang/python:3.7 >=dev-lang/python-exec-2:=[python_targets_python3_7] ) fuse? ( sys-fs/fuse:0=[static-libs?] )
+DEPEND=python_single_target_python3_7? ( dev-lang/python:3.7 >=dev-lang/python-exec-2:=[python_targets_python3_7] ) python_single_target_python3_8? ( dev-lang/python:3.8 >=dev-lang/python-exec-2:=[python_targets_python3_8] ) python_single_target_python3_9? ( dev-lang/python:3.9 >=dev-lang/python-exec-2:=[python_targets_python3_9] ) fuse? ( sys-fs/fuse:0=[static-libs?] )
 DESCRIPTION=Library and tools to access the Virtual Hard Disk (VHD) image format
 EAPI=7
 HOMEPAGE=https://github.com/libyal/libvhdi
-IUSE=debug +fuse unicode python nls static static-libs +python_single_target_python3_7
+IUSE=debug +fuse unicode python nls static static-libs python_single_target_python3_7 python_single_target_python3_8 python_single_target_python3_9
 KEYWORDS=~amd64 ~hppa ~ppc ~x86
 LICENSE=LGPL-3
-RDEPEND=python_single_target_python3_7? ( dev-lang/python:3.7 >=dev-lang/python-exec-2:=[python_targets_python3_7] ) fuse? ( sys-fs/fuse:0=[static-libs?] )
+RDEPEND=python_single_target_python3_7? ( dev-lang/python:3.7 >=dev-lang/python-exec-2:=[python_targets_python3_7] ) python_single_target_python3_8? ( dev-lang/python:3.8 >=dev-lang/python-exec-2:=[python_targets_python3_8] ) python_single_target_python3_9? ( dev-lang/python:3.9 >=dev-lang/python-exec-2:=[python_targets_python3_9] ) fuse? ( sys-fs/fuse:0=[static-libs?] )
 REQUIRED_USE=static? ( static-libs )
 SLOT=0
 SRC_URI=https://github.com/libyal/libvhdi/releases/download/20191221/libvhdi-alpha-20191221.tar.gz -> libvhdi-20191221.tar.gz
 _eclasses_=autotools	9988ecbe04129214297a7bbf3d253710	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	d410501a125f99ffb560b0c523cd3d1e	python-single-r1	d3100de905f978df912135806cf27188	python-utils-r1	65bb60d137e5a51f58ada69bf3f366da	toolchain-funcs	1a94dc06d324bd0dab754e11abe6d27e
-_md5_=99ccd38fc70c3b1367167c64dc2aceba
+_md5_=c8c1f49464c28ff1bc4a90b11f1eb55d
