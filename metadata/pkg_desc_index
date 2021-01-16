@@ -399,7 +399,7 @@ dev-python/tweepy 3.9.0: A Python library for accessing the Twitter API
 dev-python/uvloop 0.14.0: Ultra-fast implementation of asyncio event loop on top of libuv
 dev-python/validators 0.14.0: Python Data Validation for Humans
 dev-python/vulners 1.5.5: Python API wrapper for the Vulners Database
-dev-python/w3lib 1.20.0: Library of web-related functions
+dev-python/w3lib 1.22.0: Library of web-related functions
 dev-python/webargs 5.5.2: Declarative parsing and validation of HTTP request objects
 dev-python/websocket-client 0.57.0: WebSocket client for python with hybi13 support
 dev-python/websockets 8.1: Library for building WebSocket servers and clients in Python
@@ -626,6 +626,7 @@ net-analyzer/serialusb 0.7: A cheap USB proxy for input devices
 net-analyzer/sessionlist 1.0-r1: A HTTP packets sniffer
 net-analyzer/set 8.0.3: A social engineering framework
 net-analyzer/sipvicious 0.3.0: A voip pentest tools suite
+net-analyzer/sitadel 1.0.0_p20190828: Web application security scanner
 net-analyzer/smbmap 1.8.2-r1: SMBMap is a handy SMB enumeration tool
 net-analyzer/sn0int 0.16.0 0.17.1 0.18.2 0.19.1: Semi-automatic OSINT framework and package manager
 net-analyzer/sniffglue 0.10.1: Secure multithreaded packet sniffer
