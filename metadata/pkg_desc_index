@@ -119,7 +119,7 @@ app-misc/mat2 0.11.0: A handy tool to trash your metadata
 app-pda/ideviceinstaller 1.1.0_p20181001 1.1.0_p20190928 1.1.1: A tool to interact with the installation_proxy of an Apple's iDevice
 app-pda/ifuse 1.1.4: Mount Apple iPhone/iPod Touch file systems for backup purposes
 app-pda/usbmuxd 1.1.1-r1: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
-app-shells/pwsh-bin 7.0.3 7.1.0: PowerShell - binary precompiled for glibc
+app-shells/pwsh-bin 7.1.0 7.1.1: PowerShell - binary precompiled for glibc
 app-text/cewl 5.4.8.1 5.4.9 9999: A custom word list generator
 app-text/unfurl 0.2.0: Pull out bits of URLs provided on stdin
 dev-db/mssqlscan 0.8.4: A small multi-threaded tool that scans for Microsoft SQL Servers
@@ -652,7 +652,7 @@ net-analyzer/vomit 0.2c: Converts a Cisco IP phone conversation into a wav file
 net-analyzer/wafw00f 2.1.0-r1: Identifies and fingerprints Web Application Firewall (WAF) products
 net-analyzer/webtech 1.2.9: Identify technologies used on websites
 net-analyzer/wfuzz 3.0.3 3.1.0: Wfuzz is a tool designed for bruteforcing Web Applications
-net-analyzer/whatweb 0.5.2-r1 0.5.3 0.5.4: Next generation web scanner, identifies what software websites are running
+net-analyzer/whatweb 0.5.4 0.5.5: Next generation web scanner, identifies what software websites are running
 net-analyzer/wpscan 3.8.7-r1 3.8.8 3.8.9 3.8.11: Wordpress security scanner
 net-analyzer/xbruteforcer 20180611: Login brute force tool for WordPress, Joomla, DruPal, OpenCart, and Magento.
 net-analyzer/xplico 1.2.2: Extract data from TCP/IP traffic
