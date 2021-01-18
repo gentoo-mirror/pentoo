@@ -30,7 +30,7 @@ app-crypt/stegcracker 2.0.7 20190219-r1: Steganography brute-force utility to un
 app-crypt/steghide 0.5.1: A steganography program which hides data in various media files
 app-crypt/wisecracker 1.0-r1: An open source framework for tools that can distribute brute force cryptanalysis
 app-crypt/xortool 0.99: A tool to analyze multi-byte xor cipher
-app-crypt/yubioath-desktop 5.0.3 5.0.4: Library and tool for personalization of Yubico's YubiKey NEO
+app-crypt/yubioath-desktop 5.0.4: Library and tool for personalization of Yubico's YubiKey NEO
 app-dicts/raft-wordlists 20110803-r1: Raft wordlists
 app-dicts/seclists 2020.3 2020.4: A collection of multiple types of lists used during security assessments
 app-editors/visual-studio-code 1.48.0 1.49.2: Multiplatform Visual Studio Code from Microsoft
