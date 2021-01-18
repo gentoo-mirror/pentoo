@@ -181,7 +181,7 @@ dev-perl/String-HexConvert 0.02: Converts ascii strings to hex and reverse
 dev-perl/Tie-CharArray 1.00: Manipulate perl strings through tied array
 dev-python/EasyProcess 0.2.7: Easy to use python subprocess interface
 dev-python/Flask-KVSession 0.6.2: Transparent server-side session support for flask
-dev-python/IP2Location 8.4.1: Python API for IP2Location database
+dev-python/IP2Location 8.5.1: Python API for IP2Location database
 dev-python/Js2Py 0.67_p20200212: JavaScript to Python Translator & JavaScript interpreter
 dev-python/PTP 0.4.2-r1: Pentester's Tools Parser
 dev-python/Protego 0.1.16: robots.txt parser with support for modern conventions
@@ -520,7 +520,7 @@ dev-util/jd-cli 1.1.0: Command line Java Decompiler
 dev-util/jd-cli-bin 1.1.0: Command line Java Decompiler
 dev-util/jd-gui 1.6.6-r1: A standalone Java Decompiler GUI
 dev-util/jnitrace 3.0.8 3.1.0: A Frida based tool that traces usage of the JNI API in Android apps.
-dev-util/lief 0.10.1-r1: Library to instrument executable formats
+dev-util/lief 0.10.1-r2: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
 dev-util/mobsf 3.0.5 3.1.1 3.2.6: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
 dev-util/objection 1.9.5 1.9.6: Runtime mobile exploration
