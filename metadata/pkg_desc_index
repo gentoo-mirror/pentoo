@@ -278,7 +278,7 @@ dev-python/httpcore 0.12.2: A minimal low-level HTTP client.
 dev-python/httpx 0.16.1: The next generation HTTP client.
 dev-python/hupper 1.9.1: Integrated process monitor for developing and reloading daemons
 dev-python/impacket 0.9.22-r2 9999: A collection of Python classes focused on providing access to network packets
-dev-python/invoke 1.4.1: Pythonic task execution
+dev-python/invoke 1.4.1 1.5.0: Pythonic task execution
 dev-python/ipparser 0.3.5: Parse IP address information
 dev-python/ipwhois 1.0.0: Retrieve and parse whois data for IPv4 and IPv6 addresses
 dev-python/isc_dhcp_leases 0.9.1: Small python module for reading /var/lib/dhcp/dhcpd.leases from isc-dhcp-server
@@ -304,7 +304,7 @@ dev-python/mitm6 0.2.2: pwning IPv4 via IPv6
 dev-python/mockito 1.2.0: Spying framework based on Mockito java library
 dev-python/msldap 0.3.11-r1 0.3.13 0.3.20: Python library to play with MS LDAP
 dev-python/msoffcrypto-tool 4.10.1: Decrypting MS Office files with passwords or other keys
-dev-python/nassl 3.0.0 3.1.0: Experimental OpenSSL wrapper for Python 3.6+ and SSLyze
+dev-python/nassl 3.0.0 3.1.0 4.0.0: Experimental OpenSSL wrapper for Python 3.7+ and SSLyze
 dev-python/neo4j 1.7.6 4.2.0: Neo4j Bolt driver for Python
 dev-python/neobolt 1.7.17: Neo4j Bolt Connector for Python
 dev-python/neotime 1.7.4: Nanosecond resolution temporal types
@@ -389,7 +389,7 @@ dev-python/stegoveritas-pfp 0.2.3: An 010 template interpreter for Python
 dev-python/stegoveritas-py010parser 0.1.10: A modified pycparser to parse 010 templates
 dev-python/syslog-rfc5424-formatter 1.2.2: Logging formatter which produces well-formatted RFC5424 Syslog Protocol messages
 dev-python/tldextract 2.2.1-r1: Accurately separate the TLD from the registered domain and subdomains
-dev-python/tls_parser 1.2.1 1.2.2: Small library to parse TLS records.
+dev-python/tls_parser 1.2.2: Small library to parse TLS records.
 dev-python/tlslite-ng 0.7.6: New home of the TLS implementation in pure python.
 dev-python/torrequest 20181011-r2: Simple Python interface for HTTP(s) requests over Tor
 dev-python/trio 0.16.0 0.17.0: A friendly Python library for async concurrency and I/O
@@ -519,7 +519,7 @@ dev-util/jd-cli 1.1.0: Command line Java Decompiler
 dev-util/jd-cli-bin 1.1.0: Command line Java Decompiler
 dev-util/jd-gui 1.6.6-r1: A standalone Java Decompiler GUI
 dev-util/jnitrace 3.0.8 3.1.0: A Frida based tool that traces usage of the JNI API in Android apps.
-dev-util/lief 0.10.1-r2: Library to instrument executable formats
+dev-util/lief 0.10.1-r2 0.11.0: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
 dev-util/mobsf 3.2.6-r2: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
 dev-util/objection 1.9.5 1.9.6: Runtime mobile exploration
@@ -631,7 +631,7 @@ net-analyzer/sn0int 0.16.0 0.17.1 0.18.2 0.19.1: Semi-automatic OSINT framework 
 net-analyzer/sniffglue 0.10.1: Secure multithreaded packet sniffer
 net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
 net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
-net-analyzer/sslyze 3.0.5 3.0.8-r1 3.1.0: Fast and full-featured SSL scanner
+net-analyzer/sslyze 3.0.5 3.0.8-r1 3.1.0 4.0.0: Fast and full-featured SSL scanner
 net-analyzer/subfinder 2.4.3 2.4.5: A subdomain discovery tool that discovers valid subdomains for websites
 net-analyzer/subjack 2.1: Subdomain Takeover tool written in Go
 net-analyzer/sublert 1.4.7_p20200103: Monitor new subdomains deployed by specific organizations and issued TLS/SSL certificate
