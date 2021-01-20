@@ -98,6 +98,7 @@ app-forensics/thehive 3.4.3: A scalable 4-in-1 open source and free Security Inc
 app-forensics/volatility3 1.0.0_beta1: Framework for analyzing volatile memory
 app-forensics/xmount 0.7.6: Convert on-the-fly between multiple input and output harddisk image types
 app-forensics/yara 4.0.0 4.0.1 4.0.2: A malware identification and classification tool
+app-forensics/yara-rust 0.4.3: Rust bindings for VirusTotal/yara
 app-forensics/yaramod 3.6.0 3.7.2: Parsing of YARA rules into AST and building new rulesets in C++
 app-forensics/zsteg 0.2.2: Detect stegano-hidden data in PNG & BMP
 app-fuzz/0d1n 2.6 9999: Web security tool to make fuzzing at HTTP/S
@@ -521,7 +522,7 @@ dev-util/jd-gui 1.6.6-r1: A standalone Java Decompiler GUI
 dev-util/jnitrace 3.0.8 3.1.0: A Frida based tool that traces usage of the JNI API in Android apps.
 dev-util/lief 0.10.1-r2 0.11.0: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
-dev-util/mobsf 3.2.6-r2: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
+dev-util/mobsf 3.2.6-r2 3.2.9: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
 dev-util/objection 1.9.5 1.9.6: Runtime mobile exploration
 dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIPS
 dev-util/qark 0.9_pre20190405: A tool to look for Android application vulnerabilities
@@ -550,7 +551,7 @@ net-analyzer/arpantispoofer 1.0.1.32: An utility to detect and resist arp spoofi
 net-analyzer/autoscan-network 1.50: Utility for network exploration with Samba support.
 net-analyzer/badtouch 0.7.1: Scriptable network authentication cracker
 net-analyzer/bbrecon 20200228: Automated reconnaissance and information gathering (fork)
-net-analyzer/bettercap 2.27.1-r1 2.28: A complete, modular, portable and easily extensible MITM framework
+net-analyzer/bettercap 2.28 2.29: A complete, modular, portable and easily extensible MITM framework
 net-analyzer/bolt 0.2.1 9999: CSRF Scanner
 net-analyzer/bonesi 0.3.1 9999: BoNeSi - the DDoS botnet simulator
 net-analyzer/cameradar 4.1.3-r1 5.0.0: Cameradar hacks its way into RTSP videosurveillance cameras
@@ -631,7 +632,7 @@ net-analyzer/sn0int 0.16.0 0.17.1 0.18.2 0.19.1: Semi-automatic OSINT framework 
 net-analyzer/sniffglue 0.10.1: Secure multithreaded packet sniffer
 net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
 net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
-net-analyzer/sslyze 3.0.5 3.0.8-r1 3.1.0 4.0.0: Fast and full-featured SSL scanner
+net-analyzer/sslyze 3.1.0 4.0.1: Fast and full-featured SSL scanner
 net-analyzer/subfinder 2.4.3 2.4.5: A subdomain discovery tool that discovers valid subdomains for websites
 net-analyzer/subjack 2.1: Subdomain Takeover tool written in Go
 net-analyzer/sublert 1.4.7_p20200103: Monitor new subdomains deployed by specific organizations and issued TLS/SSL certificate
@@ -804,7 +805,7 @@ net-wireless/signalhound-spike 3.5.9: Spectrum analyzer software for Signal Houn
 net-wireless/ska 0.2: Fake Shared Key Authentication
 net-wireless/sniffair 3.0: SniffAir framework for wireless pentesting
 net-wireless/trunk-recorder 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
-net-wireless/virtualradar-bin 2.0.1 2.3.1: Open-source .NET application for ads-b mapping
+net-wireless/virtualradar-bin 2.3.1 2.4.3: Open-source .NET application for ads-b mapping
 net-wireless/wifipumpkin3 1.0.8_p1: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifitap 0.4.2-r1: A wireless tool to do direct connection to client without passing through an AP
 net-wireless/wifite 2.5.5 2.5.7: An automated wireless attack tool
