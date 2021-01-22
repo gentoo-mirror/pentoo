@@ -122,6 +122,7 @@ app-pda/ifuse 1.1.4: Mount Apple iPhone/iPod Touch file systems for backup purpo
 app-pda/usbmuxd 1.1.1-r1: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
 app-shells/pwsh-bin 7.1.0 7.1.1: PowerShell - binary precompiled for glibc
 app-text/cewl 5.4.8.1 5.4.9 9999: A custom word list generator
+app-text/endesive 2.0.2: 
 app-text/unfurl 0.2.0: Pull out bits of URLs provided on stdin
 dev-db/mssqlscan 0.8.4: A small multi-threaded tool that scans for Microsoft SQL Servers
 dev-db/neo4j-community 3.5.3-r1 3.5.12 3.5.16 4.0.0-r1 4.0.3 4.0.4: High-performance, mature and robust NOSQL graph database
@@ -186,6 +187,7 @@ dev-python/IP2Location 8.5.1: Python API for IP2Location database
 dev-python/Js2Py 0.67_p20200212: JavaScript to Python Translator & JavaScript interpreter
 dev-python/PTP 0.4.2-r1: Pentester's Tools Parser
 dev-python/Protego 0.1.16: robots.txt parser with support for modern conventions
+dev-python/PyKCS11 1.5.10: A complete PKCS#11 wrapper for Python
 dev-python/PyVirtualDisplay 0.2.5: python wrapper for Xvfb, Xephyr and Xvnc
 dev-python/Scrapy 1.8.0: A high-level Web Crawling and Web Scraping framework
 dev-python/acora 2.2: Fast multi-keyword search engine for text strings
