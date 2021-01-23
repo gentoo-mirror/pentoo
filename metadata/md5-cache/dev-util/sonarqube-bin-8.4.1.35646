@@ -11,5 +11,5 @@ RDEPEND=>=virtual/jdk-1.8
 RESTRICT=mirror
 SLOT=0
 SRC_URI=https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-8.4.1.35646.zip
-_eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	systemd	74b223e42834adf09a2d21fe5fe13741	toolchain-funcs	1a94dc06d324bd0dab754e11abe6d27e
+_eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	systemd	74b223e42834adf09a2d21fe5fe13741	toolchain-funcs	24921b57d6561d87cbef4916a296ada4
 _md5_=5f63b5e5aec6e11e698c9cec6b84c625
