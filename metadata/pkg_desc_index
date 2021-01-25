@@ -714,7 +714,7 @@ net-vpn/kcptun 20200201 20200226 20200321 20200409 20200701: A Stable & Secure T
 net-vpn/kcptun-plugins 20190313: SIP003-compatible KCPTUN and UDP2RAW plugins for Shadowsocks
 net-vpn/tuntox 0.0.9 9999: Tunnel TCP connections over the Tox protocol
 net-vpn/udp2raw-tunnel 20200727.0 20200818.0 99999999: A tunnel which turns UDP traffic into encrypted FakeTCP/UDP/ICMP traffic
-net-wireless/airgeddon 10.31: bash script for Linux systems to audit wireless networks
+net-wireless/airgeddon 10.40: bash script for Linux systems to audit wireless networks
 net-wireless/b43-openfwwf 5.2: OpenBroadcom Firmware
 net-wireless/b43-tools 9999: Tools for developers working on broadcom drivers/firmware
 net-wireless/berate_ap 20190918 99999999: Script for orchestrating mana rogue WiFi Access Points (fork create_ap)
@@ -820,7 +820,7 @@ pentoo/pentoo-cinnamon 2020.1: Pentoo cinnamon meta ebuild
 pentoo/pentoo-core 2020.4: Pentoo minimum core requirements
 pentoo/pentoo-cracking 2020.2: Pentoo cracking meta ebuild
 pentoo/pentoo-database 2020.4: Pentoo database attack meta ebuild
-pentoo/pentoo-desktop 2020.4-r1: Pentoo meta ebuild to install all X and WM/DE related things
+pentoo/pentoo-desktop 2021.0: Pentoo meta ebuild to install all X and WM/DE related things
 pentoo/pentoo-exploit 2020.4: Pentoo exploit meta ebuild
 pentoo/pentoo-footprint 2020.4: Pentoo footprint meta ebuild
 pentoo/pentoo-forensics 2020.1-r3: Pentoo forensics meta ebuild
