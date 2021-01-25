@@ -33,6 +33,7 @@ app-crypt/xortool 0.99: A tool to analyze multi-byte xor cipher
 app-crypt/yubioath-desktop 5.0.4: Library and tool for personalization of Yubico's YubiKey NEO
 app-dicts/raft-wordlists 20110803-r1: Raft wordlists
 app-dicts/seclists 2020.3 2020.4: A collection of multiple types of lists used during security assessments
+app-editors/rehex 0.3.1: Reverse Engineers' Hex Editor
 app-editors/visual-studio-code 1.48.0 1.49.2: Multiplatform Visual Studio Code from Microsoft
 app-eselect/eselect-metasploit 0.20: eselect module for metasploit
 app-exploits/ROPgadget 6.4 6.5: Search for gadgets in binaries to facilitate your ROP exploitation
@@ -577,7 +578,7 @@ net-analyzer/dsniff 2.4-r11: A collection of tools for network auditing and pene
 net-analyzer/enteletaor 1.1.1: Message Queue & Broker Injection tool
 net-analyzer/enum4linux 0.8.9-r1: A tool for enumerating information from Windows and Samba systems
 net-analyzer/evilgrade 2.0.9: A modular framework that takes advantage of poor upgrade implementations by injecting fake updates.
-net-analyzer/ffuf 1.0.2 1.1.0: Fast web fuzzer written in Go
+net-analyzer/ffuf 1.1.0 1.2.1: Fast web fuzzer / directory brute force
 net-analyzer/fierce 1.4.0-r1 9999: A DNS reconnaissance tool for locating non-contiguous IP space
 net-analyzer/findomain 2.1.1 2.1.5: The fastest and cross-platform subdomain enumerator, don't waste your time
 net-analyzer/geoipgen 0.4: Generate a list of hostnames based on country
