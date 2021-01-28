@@ -345,7 +345,7 @@ dev-python/pyminifier 2.1 2.1_p20150625: Pyminifier is a Python code minifier, o
 dev-python/pymisp 2.4.124: A python library for using the MISP Rest API
 dev-python/pymodbus 2.1.0: A fully featured modbus protocol stack in python
 dev-python/pypcapfile 0.12.0: Pure Python package for reading and parsing libpcap savefiles
-dev-python/pyppeteer 0.0.25 0.2.3: Headless chrome/chromium automation library
+dev-python/pyppeteer 0.0.25 0.2.5: Headless chrome/chromium automation library
 dev-python/pypsrp 0.5.0: PowerShell Remoting Protocol and WinRM for Python
 dev-python/pysnmp-apps 0.5.3: PySNMP applications
 dev-python/pyspnego 0.1.3: Windows Negotiate Authentication Client and Server
