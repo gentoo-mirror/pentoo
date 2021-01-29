@@ -589,7 +589,7 @@ net-analyzer/gobuster 3.0.1-r3: A tool to brute-force URIs and DNS subdomains
 net-analyzer/httprint 301: HTTP fingerprinter tool
 net-analyzer/hyenae 0.36.1: a highly flexible packet generator
 net-analyzer/ifchk 1.1.1: A network interface promiscuous mode detection tool
-net-analyzer/ike-scan 1.9.4 1.9.4_p20170805: A utility for finding, fingerprinting and testing IKE VPN servers
+net-analyzer/ike-scan 1.9.4_p20201223: A utility for finding, fingerprinting and testing IKE VPN servers
 net-analyzer/iposint 20190615: Discovery IP Address of the target
 net-analyzer/jmsdigger-bin 20130815: JMSDigger is an Enterprise Messaging Application assessment tool focuses on ActiveMQ
 net-analyzer/kismet-analyzer 0.3.0: Library for parsing kismet results from the .kismet database file
