@@ -1,0 +1,9 @@
+DEFINED_PHASES=install
+DESCRIPTION=Intercept & view all your HTTP(S) Mock endpoints
+EAPI=7
+HOMEPAGE=https://github.com/httptoolkit/httptoolkit.tech
+KEYWORDS=amd64
+LICENSE=MIT
+SLOT=0
+SRC_URI=https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.1.0/HTTPToolkit-linux-x64-1.1.0.zip
+_md5_=ad0cca2a094a81378dd06436606593fa
