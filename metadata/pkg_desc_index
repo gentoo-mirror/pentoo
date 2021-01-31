@@ -55,7 +55,6 @@ app-exploits/pwntools 4.2.1 4.3.0 4.3.1: CTF framework and exploit development l
 app-exploits/pypykatz 0.3.13 0.3.15: Python implementation of Mimikatz
 app-exploits/ropper 1.13.3-r2 1.13.5 9999: Use to display information about binary files in different file formats
 app-exploits/routersploit 3.4.0-r1 9999: An open-source exploitation framework dedicated to embedded devices
-app-exploits/the-backdoor-factory 3.4.2-r2: BDF allows to patch executable binaries with user desired shellcode
 app-exploits/unix-privesc-check 20170904 99999999: Shell script to check for simple privilege escalation vectors
 app-exploits/webshells 20190713 99999999: Various webshells
 app-exploits/weevely 4.0.1 9999: Weevely is a stealth PHP web shell that simulate telnet-like console
@@ -70,7 +69,6 @@ app-forensics/kjackal 99999999: Linux Rootkit Scanner
 app-forensics/lazagne 2.4.3-r1 9999: Credentials recovery project
 app-forensics/libbfio 20191230: Library for providing a basic file input/output abstraction layer
 app-forensics/libforensic1394 0.2-r1 9999: Library for carrying out memory forensics using firewire/ieee1394
-app-forensics/libpff 20161119 20180714: Library for accessing Personal Folder Files
 app-forensics/libvshadow 20191221: Library and tools to support the Volume Shadow Snapshot (VSS) format.
 app-forensics/make-pdf 0.1.7-r1: This tool will embed javascript inside a PDF document
 app-forensics/maltego 4.2.6.12502 4.2.7.12570 4.2.12.13389: Visualise, map and mine data
@@ -167,7 +165,6 @@ dev-libs/libfdatetime 20180910: Library for date and time formats
 dev-libs/libfguid 20180219 20180724: Library for GUID/UUID format
 dev-libs/libfmapi 20170112 20180714: Library for MAPI data types
 dev-libs/libfvalue 20200711: Library for generic file value functions
-dev-libs/libfwnt 20191222 20200723: Library for Windows NT data types
 dev-libs/libguytools2 2.1.0: Library for guymager
 dev-libs/libsmdev 20190315 20200210: Library to access to storage media device
 dev-libs/libuna 20190102 20200711: Library to support Unicode and ASCII (byte string) conversions
@@ -746,7 +743,6 @@ net-wireless/gr-ais 9999: GNU Radio block that decodes Automatic Information Sys
 net-wireless/gr-ax25 9999: GNU Radio block for ax.25 routines
 net-wireless/gr-correctiq 9999: GNU Radio block to remove that IQ DC spike
 net-wireless/gr-dab 9999: GNU Radio block for digital audio broadcasting
-net-wireless/gr-dsd 9999: GNU Radio block for Digital Speech Decoder
 net-wireless/gr-dsss 9999: GNU Radio block for Direct Sequence Spread Spectrum
 net-wireless/gr-elster 9999: GNU Radio block for decoding packets transmitted by Elster R2S smart meters
 net-wireless/gr-gps 9999: GNU Radio block for a GPS receiver
@@ -772,7 +768,6 @@ net-wireless/ipw2200 1.2.0: Driver for the Intel 2200BG/2915ABG miniPCI/PCI adap
 net-wireless/kalibrate-hackrf 9999: A tool to scan GSM base stations and calculate the local oscillator frequency offset
 net-wireless/karmetasploit 0.1-r3: KARMA + Metasploit 3 == Karmetasploit
 net-wireless/killerbee 2.7.1_p20200309: Framework and Tools for Attacking ZigBee and IEEE 802.15.4 networks
-net-wireless/killerzee 9999: Tools for Attacking and Evaluating Z-Wave Networks
 net-wireless/kismet_shootout 0.0_p20190717 9999: Kismet WiFi data source shootout
 net-wireless/libfreefare 0.4.0: a library for high level manipulation of MIFARE tags
 net-wireless/linux-wlan-ng-modules 0.2.5: Kernel modules for Prism2/2.5/3 based 802.11b USB wireless LAN products
@@ -783,18 +778,15 @@ net-wireless/morse2txt 1.0.0: Morse code decoder
 net-wireless/mt7610u_ulli-kroll 9999: Modified usb wifi driver for TP_link TL-WDN5200
 net-wireless/n4p 2.2-r4: Comprehensive Wireless and Network packet based hacking framework.Compare to Metasploit
 net-wireless/nanovna-qt 0.1_p20200507 9999: software for NanoVNA V2
-net-wireless/nfcpy 0.10.2: A tool to read/write NFC tags or communicate with another NFC device
 net-wireless/op25 20200418: software-defined analyzer for APCO P25 signals
 net-wireless/pixiewps 1.4.2: Bruteforce offline the WPS pin exploiting the low or non-existing entropy
 net-wireless/portapack-firmware 99999999: Portability Add-On for the HackRF Software-Defined Radio
 net-wireless/portapack-havoc 9999: Custom firmware for the HackRF SDR + PortaPack H1 addon
 net-wireless/portapack-mayhem 1.2.2 9999: Custom firmware for the HackRF SDR + PortaPack H1 addon
 net-wireless/proxmark3 3.1.0_p20190820 3.1.0_p20200316 4.9237 9999: A general purpose RFID tool for Proxmark3 hardware
-net-wireless/pyrit 0.5.0_p20180801: GPU-accelerated attack against WPA-PSK authentication
 net-wireless/qspectrumanalyzer 2.2.0 9999: vendor and platform neutral SDR support library
 net-wireless/reaver-wps-fork-t6x 1.6.5-r1 1.6.6: Utilise Pixie Dust Attack to find the correct WPS PIN.
 net-wireless/rfcat 1.9.1 1.9.2 1.9.3: The swiss army knife of subGHz
-net-wireless/rfidler 0.01_p20160313 0.01_p20180128: Software defined RFID (LF) Reader/Writer/Emulator
 net-wireless/rfidtool 0.01: command line rfid interface
 net-wireless/rtl8812au 4.2.5 4.3.1.4 4.3.14_p20190827 5.2.9_p20180327 5.6.4.2_p20200318 5.6.4.2_p20200703: Linux kernel driver for rtl8812au USB WiFi chipsets
 net-wireless/rtl8812au_aircrack-ng 5.6.4.2_p20200118 9999: RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection
@@ -805,11 +797,9 @@ net-wireless/sdrtrunk 0.4.0: Decode, monitor, record and stream trunked mobile a
 net-wireless/sdrtrunk-bin 0.4.0-r1: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/signalhound-spike 3.5.9: Spectrum analyzer software for Signal Hound test equipment
 net-wireless/ska 0.2: Fake Shared Key Authentication
-net-wireless/sniffair 3.0: SniffAir framework for wireless pentesting
 net-wireless/trunk-recorder 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
 net-wireless/virtualradar-bin 2.3.1 2.4.3: Open-source .NET application for ads-b mapping
 net-wireless/wifipumpkin3 1.0.8_p1: Framework for Rogue Wi-Fi Access Point Attack
-net-wireless/wifitap 0.4.2-r1: A wireless tool to do direct connection to client without passing through an AP
 net-wireless/wifite 2.5.5 2.5.8: An automated wireless attack tool
 net-wireless/wireless-regdb 20090130-r1 20090309 20090817 20091125 20091125-r1: Binary regulatory database for CRDA
 net-wireless/wpa_sycophant 1.0 9999: Evil client portion of EAP relay attack
