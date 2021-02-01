@@ -200,7 +200,7 @@ dev-python/aiomultiprocess 0.8.0: asyncio version of the standard multiprocessin
 dev-python/aiosqlite 0.15.0 0.16.0: asyncio bridge to the standard sqlite3 module
 dev-python/aiowinreg 0.0.3: Windows registry file reader
 dev-python/altgraph 0.17: A constructing graphs, BFS and DFS traversals, etc
-dev-python/apkid 2.1.0-r1 2.1.0_p20200627 2.1.1-r1: Android Package Protector Identifier
+dev-python/apkid 2.1.1-r1 2.1.2: Android Package Protector Identifier
 dev-python/apng 0.3.3 0.3.4: A Python module to deal with APNG files
 dev-python/artifacts 20200515: Digital Forensics Artifact Repository
 dev-python/asciitree 0.3.3: Draws ASCII trees
