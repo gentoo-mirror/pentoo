@@ -38,7 +38,6 @@ app-forensics/data-carver-processors:stego - Add stegonagraphy support
 app-forensics/guymager:ewf - Include ewf library
 app-forensics/guymager:hdparm - Install sys-apps/smartmontools utility
 app-forensics/guymager:smart - Install sys-apps/smartmontools and enable S.M.A.R.T. disk monitoring
-app-forensics/libpff:winapi - [can anyone answer this?]
 app-forensics/openscap:chroot - Scan entire chroots using offline scanning
 app-forensics/openscap:docker - Enables the oscap-docker utility
 app-forensics/openscap:gconf - Build the gconf independant probes
@@ -101,7 +100,6 @@ app-misc/mat2:nautilus - Enable nautilus extension
 dev-java/openjdk-bin:gentoo-vm - Allow this JDK to be recognised by Gentoo (package manager, eselect, java-config, EXPERIMENTAL!)
 dev-java/openjdk-bin:headless-awt - Don't install the X backend for AWT, needed by some GUIs (used to be X flag)
 dev-java/openjdk-bin:source - Install JVM sources
-dev-libs/libfwnt:winapi - Install winapi
 dev-libs/libvhdi:fuse - Enable fuse support
 dev-libs/libvmdk:fuse - Enable fuse support
 dev-libs/openssl-bad:asm - Compile with asm
@@ -171,8 +169,6 @@ net-wireless/proxmark3:standalone-hf-young - standalone Mifare sniff/simulation
 net-wireless/proxmark3:standalone-lf-hidbrute - standalone HID corporate 1000 bruteforce
 net-wireless/proxmark3:standalone-lf-proxbrute - standalone HID ProxII bruteforce
 net-wireless/proxmark3:standalone-lf-samyrun - standalone HID26 read/clone/sim
-net-wireless/pyrit:cuda - Enable CUDA support via net-wireless/cpyrit-cuda
-net-wireless/pyrit:opencl - Enable OpenCL support via net-wireless/cpyrit-opencl
 pentoo/pentoo-cinnamon:gdm - GNOME Display Manager
 sys-kernel/compat-drivers:build-all-modules - Bypass any filtering of the modules and build them all. Use only when no other flag works!
 sys-kernel/compat-drivers:compat_drivers_ethernet_alx - COMPAT_DRIVERS_ETHERNET setting to build driver for alx ethernet cards

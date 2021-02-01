@@ -166,7 +166,6 @@ dev-libs/libfguid 20180219 20180724: Library for GUID/UUID format
 dev-libs/libfmapi 20170112 20180714: Library for MAPI data types
 dev-libs/libfvalue 20200711: Library for generic file value functions
 dev-libs/libguytools2 2.1.0: Library for guymager
-dev-libs/libsmdev 20190315 20200210: Library to access to storage media device
 dev-libs/libuna 20190102 20200711: Library to support Unicode and ASCII (byte string) conversions
 dev-libs/libvhdi 20191221: Library and tools to access the Virtual Hard Disk (VHD) image format
 dev-libs/libvmdk 20200810: Library and tools to access the VMware Virtual Disk (VMDK) format
@@ -743,6 +742,7 @@ net-wireless/gr-ais 9999: GNU Radio block that decodes Automatic Information Sys
 net-wireless/gr-ax25 9999: GNU Radio block for ax.25 routines
 net-wireless/gr-correctiq 9999: GNU Radio block to remove that IQ DC spike
 net-wireless/gr-dab 9999: GNU Radio block for digital audio broadcasting
+net-wireless/gr-dsd 9999: GNU Radio block for Digital Speech Decoder
 net-wireless/gr-dsss 9999: GNU Radio block for Direct Sequence Spread Spectrum
 net-wireless/gr-elster 9999: GNU Radio block for decoding packets transmitted by Elster R2S smart meters
 net-wireless/gr-gps 9999: GNU Radio block for a GPS receiver
