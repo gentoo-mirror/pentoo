@@ -561,7 +561,7 @@ net-analyzer/cisco-scanner 1.3: scan a network for cisco routers with default pa
 net-analyzer/cisco-torch 0.4b: Cisco mass scanning, fingerprinting, and exploitation tool
 net-analyzer/commix 3.1: Automated All-in-One OS command injection and exploitation tool
 net-analyzer/cottontail 20190426-r1: Capture all RabbitMQ messages being sent through a broker
-net-analyzer/crackmapexec 5.1.4: A swiss army knife for pentesting Windows/Active Directory environments
+net-analyzer/crackmapexec 5.1.4 5.1.5: A swiss army knife for pentesting Windows/Active Directory environments
 net-analyzer/davtest 1.0: tests WebDAV enabled servers
 net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden content
 net-analyzer/dirble-bin 1.3.1 1.4.2: Fast directory scanning and scraping tool
@@ -584,7 +584,7 @@ net-analyzer/go-webanalyze 20190705: Port of Wappalyzer in Go to automate scanni
 net-analyzer/gobuster 3.0.1-r3: A tool to brute-force URIs and DNS subdomains
 net-analyzer/httprint 301: HTTP fingerprinter tool
 net-analyzer/hyenae 0.36.1: a highly flexible packet generator
-net-analyzer/ifchk 1.1.1: A network interface promiscuous mode detection tool
+net-analyzer/ifchk 1.1.1 1.1.2: A network interface promiscuous mode detection tool
 net-analyzer/ike-scan 1.9.4_p20201223: A utility for finding, fingerprinting and testing IKE VPN servers
 net-analyzer/iposint 20190615: Discovery IP Address of the target
 net-analyzer/jmsdigger-bin 20130815: JMSDigger is an Enterprise Messaging Application assessment tool focuses on ActiveMQ
