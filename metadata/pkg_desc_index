@@ -22,6 +22,7 @@ app-crypt/bruteforce-salted-openssl 1.4.2: A bruteforce cracker for openssl encr
 app-crypt/bruteforce-wallet 1.5.2 1.5.3: Crypto-currency wallet password recovery tool
 app-crypt/cryptohaze-combined 1.31: GPU and OpenCL accelerated password auditing tools for security professionals
 app-crypt/elfcrypt 20200224 99999999: A Simple ELF crypter
+app-crypt/haiti-hash 1.0.1: A CLI tool to identify the hash type of a given hash
 app-crypt/hashid 3.1.4 9999: Software to identify the different types of hashes
 app-crypt/rcracki_mt 0.7.0-r1: Perform a rainbow table attack on password hashes
 app-crypt/routerkeygen 20190721 99999999: Generates WPA/WEP keys based on MAC and/or BSSID
@@ -427,6 +428,7 @@ dev-ruby/dm-sqlite-adapter 1.2.0: Sqlite3 Adapter for DataMapper
 dev-ruby/dm-timestamps 1.2.0: DataMapper plugin for writing and specing migrations
 dev-ruby/dm-validations 1.2.0: DataMapper plugin for writing and specing migrations
 dev-ruby/do_sqlite3 0.10.17: Implements the DataObjects API for Sqlite3
+dev-ruby/docopt 0.6.1: 
 dev-ruby/dry-configurable 0.11.6: collection of next-generation Ruby libraries
 dev-ruby/dry-container 0.7.2: collection of next-generation Ruby libraries
 dev-ruby/dry-core 0.4.9 0.4.10 0.5.0: collection of next-generation Ruby libraries
