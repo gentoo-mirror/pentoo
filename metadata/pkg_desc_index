@@ -33,7 +33,7 @@ app-crypt/wisecracker 1.0-r1: An open source framework for tools that can distri
 app-crypt/xortool 0.99: A tool to analyze multi-byte xor cipher
 app-crypt/yubioath-desktop 5.0.4: Library and tool for personalization of Yubico's YubiKey NEO
 app-dicts/raft-wordlists 20110803-r1: Raft wordlists
-app-dicts/seclists 2020.3 2020.4: A collection of multiple types of lists used during security assessments
+app-dicts/seclists 2020.3 2020.4 2021.1: A collection of multiple types of lists used during security assessments
 app-editors/rehex 0.3.1: Reverse Engineers' Hex Editor
 app-editors/visual-studio-code 1.48.0 1.49.2: Multiplatform Visual Studio Code from Microsoft
 app-eselect/eselect-metasploit 0.20: eselect module for metasploit
