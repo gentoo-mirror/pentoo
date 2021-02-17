@@ -9,5 +9,5 @@ LICENSE=GPL-3
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://github.com/rverton/webanalyze/archive/ab86050f17f1c3ddd70af3164cb1f56f405d2d38.tar.gz -> go-webanalyze-20190705.tar.gz https://github.com/PuerkitoBio/goquery/archive/v1.5.1.tar.gz -> github.com-PuerkitoBio-goquery-v1.5.1.tar.gz https://github.com/andybalholm/cascadia/archive/v1.0.0.tar.gz -> github.com-andybalholm-cascadia-v1.0.0.tar.gz https://github.com/bobesa/go-domain-util/archive/1d708c0.tar.gz -> github.com-bobesa-go-domain-util-1d708c0.tar.gz https://github.com/golang/net/archive/627f964.tar.gz -> github.com-golang-net-627f964.tar.gz https://github.com/golang/text/archive/v0.3.2.tar.gz -> github.com-golang-text-v0.3.2.tar.gz
-_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	eutils	2d5b3f4b315094768576b6799e4f926e	golang-base	027b7c82ab637d596b1a18ffcefa0ae4	golang-vcs-snapshot	b9726cec9cc93f8884b4634e4ddacdec	l10n	8cdd85e169b835d518bc2fd59f780d8e	wrapper	4251d4c84c25f59094fd557e0063a974
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	eutils	2d5b3f4b315094768576b6799e4f926e	golang-base	904cd4c642d6923795b9bd99b6fe0e74	golang-vcs-snapshot	b9726cec9cc93f8884b4634e4ddacdec	l10n	8cdd85e169b835d518bc2fd59f780d8e	wrapper	4251d4c84c25f59094fd557e0063a974
 _md5_=a43b13ff3466fcda26f103c8a451a5b2
