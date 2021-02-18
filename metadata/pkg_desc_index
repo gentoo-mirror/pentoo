@@ -842,7 +842,7 @@ sci-electronics/pcie_injector 20180527: Information gathering tool designed for 
 sys-apps/become 1.0 1.0-r1: utility for changing the current real, effective or group id
 sys-apps/fchroot 0.1.2: Funtoo's franken-chroot tool
 sys-apps/magic-pax 0.0.1: 
-sys-apps/openrazer 2.8.0 2.8.0_p20200712 2.9.0: Razer Drivers for Linux
+sys-apps/openrazer 2.8.0_p20200712 2.9.0: Razer Drivers for Linux
 sys-devel/autofdo 0.18 0.19 9999: System to simplify real-world deployment of feedback-directed optimization
 sys-devel/gcc-arm-none-eabi 9.2020.2 10.2020.4: GNU Arm Embedded Toolchain
 sys-devel/gdb-dashboard 0.11.1 0.11.4 9999: Modular visual interface for GDB in Python
