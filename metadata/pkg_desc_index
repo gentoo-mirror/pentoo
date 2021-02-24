@@ -529,7 +529,7 @@ dev-util/retdec 3.3-r2 4.0: RetDec is a retargetable machine-code decompiler bas
 dev-util/semgrep-core 0.28.0: Lightweight static analysis for many languages
 dev-util/semgrep-core-bin 0.28.0 0.36.0: Lightweight static analysis for many languages
 dev-util/soapui 5.4.0 5.5.0 5.6.0: The Swiss-Army Knife for SOAP Testing
-dev-util/sonarqube-bin 7.9.3 8.3.1.34397 8.4.1.35646: SonarQube Community Edition is an open platform to manage code quality
+dev-util/sonarqube-bin 7.9.3 8.3.1.34397 8.4.1.35646 8.7.0.41497: SonarQube Community Edition is an open platform to manage code quality
 dev-util/sonarscanner-bin 4.3.0.2102 4.4.0.2170: SonarQube Command-Line Scanner
 dev-util/unicorn 1.0.2_rc3 1.0.2: A lightweight multi-platform, multi-architecture CPU emulator framework
 dev-util/valabind 1.7.1 1.7.2: Valabind is a tool to parse vala or vapi files to transform them into swig files
