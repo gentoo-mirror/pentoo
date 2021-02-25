@@ -403,6 +403,7 @@ dev-python/whitenoise 5.0.1: Radically simplified static file serving for WSGI a
 dev-python/winacl 0.0.6 0.1.0: ACL/ACE/Security Descriptor manipulation library
 dev-python/winsspi 0.0.5 0.0.7 0.0.9: Windows SSPI library in pure Python
 dev-python/xlutils 2.0.0-r1: provides a collection of utilities for working with Excel files
+dev-python/xtract 0.1_alpha3: Library to (un)pack archives and (de)compress files
 dev-python/yamllint 1.21.0: A linter for YAML files
 dev-python/yara-python 4.0.3 4.0.4: Python interface for a malware identification and classification tool
 dev-python/yaswfp 0.9.3: Yet Another SWF Parser.
