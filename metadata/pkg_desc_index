@@ -521,7 +521,7 @@ dev-util/jnitrace 3.0.8 3.1.0 3.2.0: A Frida based tool that traces usage of the
 dev-util/lief 0.11.1 0.11.2: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
 dev-util/mobsf 3.2.6-r2 3.2.9: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
-dev-util/objection 1.9.5 1.9.6: Runtime mobile exploration
+dev-util/objection 1.9.6 1.10.0: Runtime mobile exploration
 dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIPS
 dev-util/qark 0.9_pre20190405: A tool to look for Android application vulnerabilities
 dev-util/recaf-bin 2.5.0 2.13.2: A modern Java bytecode editor
