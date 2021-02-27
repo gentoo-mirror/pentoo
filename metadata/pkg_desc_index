@@ -599,7 +599,7 @@ net-analyzer/ncrack 0.7: Ncrack is a high-speed network authentication cracking 
 net-analyzer/nmap 7.80-r1: A utility for network discovery and security auditing
 net-analyzer/nmap-vulners 1.2 1.4_beta 9999: NSE script based on Vulners.com API
 net-analyzer/nmap_vulscan 2.0_p20190923 2.1: A NSE vulnerability scanner which uses an offline version of scip VulDB
-net-analyzer/ntlmrecon 0.2_beta: A tool to enumerate information from NTLM authentication enabled web endpoints
+net-analyzer/ntlmrecon 0.2_beta 0.4_beta: A tool to enumerate information from NTLM authentication enabled web endpoints
 net-analyzer/onesixtyone 0.7: An efficient SNMP scanner
 net-analyzer/osmedeus 9999: A offensive security tool for reconnaissance and vulnerability scanning
 net-analyzer/owtf 2.6.0-r1: The Offensive Web Testing Framework
