@@ -1,13 +1,13 @@
 DEFINED_PHASES=install prepare setup
-DEPEND=python_single_target_python3_7? ( dev-lang/python:3.7 >=dev-lang/python-exec-2:=[python_targets_python3_7] )
+DEPEND=python_single_target_python3_7? ( dev-lang/python:3.7 >=dev-lang/python-exec-2:=[python_targets_python3_7] ) python_single_target_python3_8? ( dev-lang/python:3.8 >=dev-lang/python-exec-2:=[python_targets_python3_8] ) python_single_target_python3_9? ( dev-lang/python:3.9 >=dev-lang/python-exec-2:=[python_targets_python3_9] )
 DESCRIPTION=Advanced XSS detection suite
 EAPI=7
 HOMEPAGE=https://github.com/s0md3v/XSStrike
-IUSE=+python_single_target_python3_7
+IUSE=python_single_target_python3_7 python_single_target_python3_8 python_single_target_python3_9
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
-RDEPEND=python_single_target_python3_7? ( dev-lang/python:3.7 >=dev-lang/python-exec-2:=[python_targets_python3_7] ) python_single_target_python3_7? ( dev-python/tld[python_targets_python3_7(-)] dev-python/fuzzywuzzy[python_targets_python3_7(-)] dev-python/requests[python_targets_python3_7(-)] dev-python/selenium[python_targets_python3_7(-)] )
+RDEPEND=python_single_target_python3_7? ( dev-lang/python:3.7 >=dev-lang/python-exec-2:=[python_targets_python3_7] ) python_single_target_python3_8? ( dev-lang/python:3.8 >=dev-lang/python-exec-2:=[python_targets_python3_8] ) python_single_target_python3_9? ( dev-lang/python:3.9 >=dev-lang/python-exec-2:=[python_targets_python3_9] ) python_single_target_python3_7? ( dev-python/tld[python_targets_python3_7(-)] dev-python/fuzzywuzzy[python_targets_python3_7(-)] dev-python/requests[python_targets_python3_7(-)] dev-python/selenium[python_targets_python3_7(-)] ) python_single_target_python3_8? ( dev-python/tld[python_targets_python3_8(-)] dev-python/fuzzywuzzy[python_targets_python3_8(-)] dev-python/requests[python_targets_python3_8(-)] dev-python/selenium[python_targets_python3_8(-)] ) python_single_target_python3_9? ( dev-python/tld[python_targets_python3_9(-)] dev-python/fuzzywuzzy[python_targets_python3_9(-)] dev-python/requests[python_targets_python3_9(-)] dev-python/selenium[python_targets_python3_9(-)] )
 SLOT=0
 SRC_URI=https://github.com/s0md3v/XSStrike/archive/3.1.5.tar.gz -> xsstrike-3.1.5.tar.gz
 _eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	eutils	2d5b3f4b315094768576b6799e4f926e	l10n	8cdd85e169b835d518bc2fd59f780d8e	multilib	d410501a125f99ffb560b0c523cd3d1e	python-single-r1	d3100de905f978df912135806cf27188	python-utils-r1	69861348186337fa4b269de5826004b3	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	wrapper	4251d4c84c25f59094fd557e0063a974
-_md5_=24c5a39ab4c27f2a76f15e68c38392b4
+_md5_=4d56d51fb72e0faaadfdf9f9f8a43943
