@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=Pentoo voip meta ebuild
+EAPI=7
+HOMEPAGE=http://www.pentoo.ch
+IUSE=pentoo-full
+KEYWORDS=~amd64 ~arm64 ~x86
+LICENSE=GPL-3
+PDEPEND=net-voip/sipvicious net-misc/sipp pentoo-full? ( net-misc/sipsak net-misc/voipong )
+SLOT=0
+_md5_=2e189f1584235c91a4b4575e6d05fc3f

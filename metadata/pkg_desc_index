@@ -621,7 +621,6 @@ net-analyzer/scapy 2.4.4_p20210227: A Python interactive packet manipulation pro
 net-analyzer/serialusb 0.7: A cheap USB proxy for input devices
 net-analyzer/sessionlist 1.0-r1: A HTTP packets sniffer
 net-analyzer/set 8.0.3: A social engineering framework
-net-analyzer/sipvicious 0.3.0: A voip pentest tools suite
 net-analyzer/sitadel 1.0.0_p20190828: Web application security scanner
 net-analyzer/smbmap 1.8.2-r1: SMBMap is a handy SMB enumeration tool
 net-analyzer/sn0int 0.16.0 0.17.1 0.18.2 0.19.1: Semi-automatic OSINT framework and package manager
@@ -827,7 +826,7 @@ pentoo/pentoo-radio 2021.0-r1: Radio tools for pentoo
 pentoo/pentoo-rce 2020.1: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2020.0: Pentoo scanner meta ebuild
 pentoo/pentoo-system 2020.3-r2: Pentoo meta ebuild to install system
-pentoo/pentoo-voip 2018.2-r1: Pentoo voip meta ebuild
+pentoo/pentoo-voip 2021.0: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2020.3: Pentoo wireless meta ebuild
 pentoo/tribe 2012.0: Tribe meta ebuild
 pentoo/wctf-client 2020.4-r2: Packages needed to power the client NUC for WCTF events
