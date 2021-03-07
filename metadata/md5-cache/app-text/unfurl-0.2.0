@@ -9,4 +9,4 @@ RESTRICT=strip
 SLOT=0
 SRC_URI=https://github.com/tomnomnom/unfurl/archive/v0.2.0.tar.gz -> unfurl-0.2.0.tar.gz https://github.com/jakewarren/tldomains/archive/dd0852eb6e50.tar.gz -> github.com-jakewarren-tldomains-dd0852eb6e50.tar.gz
 _eclasses_=golang-base	904cd4c642d6923795b9bd99b6fe0e74	golang-vcs-snapshot	b9726cec9cc93f8884b4634e4ddacdec
-_md5_=dd545b980fd036598641f0eb7eb8136b
+_md5_=8c3a8a709b5712d36f24ef9ab4626940
