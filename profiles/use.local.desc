@@ -145,7 +145,6 @@ net-libs/libtins:ack-tracker - TCP ACK tracking support
 net-libs/libtins:cxx11 - C++11 support
 net-libs/libtins:dot11 - IEEE 802.11 support
 net-libs/libtins:wpa2 - WPA2 decryption support
-net-misc/seafile-client:shibboleth - Build support for Shibboleth single sign-on
 net-vpn/kcptun:server - Enable server side daemon
 net-vpn/udp2raw-tunnel:iptables - include support for iptables filtering
 net-wireless/chirp:radioreference - support downloading data from radioreference.com (premium users only)
