@@ -53,7 +53,7 @@ app-exploits/packetstormexploits-meta 2020: Meta ebuild of packetstorm exploits
 app-exploits/powercat 20170805: Netcat: The powershell version
 app-exploits/proton 20200311: Windows post-exploitation framework using Windows Script Host
 app-exploits/pwntools 4.2.1 4.3.0 4.3.1: CTF framework and exploit development library
-app-exploits/pypykatz 0.3.13 0.3.15: Python implementation of Mimikatz
+app-exploits/pypykatz 0.3.13 0.3.15 0.4.2: Python implementation of Mimikatz
 app-exploits/ropper 1.13.5 1.13.6 9999: Use to display information about binary files in different file formats
 app-exploits/routersploit 3.4.0-r1 9999: An open-source exploitation framework dedicated to embedded devices
 app-exploits/unix-privesc-check 20170904 99999999: Shell script to check for simple privilege escalation vectors
@@ -199,7 +199,7 @@ dev-python/aiocmd 0.1.5: Coroutine-based CLI generator using prompt_toolkit
 dev-python/aioconsole 0.3.1: Asynchronous console and interfaces for asyncio
 dev-python/aiomultiprocess 0.8.0: asyncio version of the standard multiprocessing module
 dev-python/aiosqlite 0.15.0 0.16.0: asyncio bridge to the standard sqlite3 module
-dev-python/aiowinreg 0.0.3: Windows registry file reader
+dev-python/aiowinreg 0.0.3 0.0.4: Windows registry file reader
 dev-python/altgraph 0.17: A constructing graphs, BFS and DFS traversals, etc
 dev-python/apkid 2.1.1-r1 2.1.2: Android Package Protector Identifier
 dev-python/apng 0.3.3 0.3.4: A Python module to deal with APNG files
@@ -299,7 +299,7 @@ dev-python/matlink-gpapi 0.4.4.5: Unofficial python api for google play
 dev-python/maxminddb 1.5.2: A Python module for reading MaxMind DB files
 dev-python/mechanize 0.4.5: Stateful programmatic web browsing in Python
 dev-python/minidump 0.0.13: parse Windows minidump file format
-dev-python/minikerberos 0.2.3 0.2.5: Kerberos manipulation library in pure Python
+dev-python/minikerberos 0.2.3 0.2.5 0.2.9: Kerberos manipulation library in pure Python
 dev-python/mitm6 0.2.2: pwning IPv4 via IPv6
 dev-python/mockito 1.2.0: Spying framework based on Mockito java library
 dev-python/msldap 0.3.11-r1 0.3.13 0.3.20: Python library to play with MS LDAP
@@ -400,7 +400,7 @@ dev-python/w3lib 1.22.0: Library of web-related functions
 dev-python/webargs 5.5.2: Declarative parsing and validation of HTTP request objects
 dev-python/websocket-client 0.57.0: WebSocket client for python with hybi13 support
 dev-python/whitenoise 5.0.1 5.2.0: Radically simplified static file serving for WSGI applications
-dev-python/winacl 0.0.6 0.1.0: ACL/ACE/Security Descriptor manipulation library
+dev-python/winacl 0.0.6 0.1.0 0.1.1: ACL/ACE/Security Descriptor manipulation library
 dev-python/winsspi 0.0.5 0.0.7 0.0.9: Windows SSPI library in pure Python
 dev-python/xlutils 2.0.0-r1: provides a collection of utilities for working with Excel files
 dev-python/xtract 0.1_alpha3: Library to (un)pack archives and (de)compress files
