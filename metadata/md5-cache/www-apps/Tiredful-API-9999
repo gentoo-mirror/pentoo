@@ -9,5 +9,5 @@ LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=python_single_target_python3_7? ( dev-python/django[python_targets_python3_7(-)] dev-python/django-oauth-toolkit[python_targets_python3_7(-)] dev-python/djangorestframework[python_targets_python3_7(-)] dev-python/oauthlib[python_targets_python3_7(-)] dev-python/python-oauth2[python_targets_python3_7(-)] dev-python/pyjwt[python_targets_python3_7(-)] )
 SLOT=0
-_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441	multilib	d410501a125f99ffb560b0c523cd3d1e	python-single-r1	d3100de905f978df912135806cf27188	python-utils-r1	41a7dd844b3de07121fe2821bbeea142	toolchain-funcs	24921b57d6561d87cbef4916a296ada4
+_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441	multilib	d410501a125f99ffb560b0c523cd3d1e	python-single-r1	d3100de905f978df912135806cf27188	python-utils-r1	2dc8e06a3429719b43e9140f7292a425	toolchain-funcs	24921b57d6561d87cbef4916a296ada4
 _md5_=73a977f39e9acd5feb5daf03e0e0dcd2
