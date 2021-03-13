@@ -351,7 +351,7 @@ dev-python/python-crontab 20191023: Crontab module for accessing system crontabs
 dev-python/python-docx 0.8.10: Create and modify Word documents with Python
 dev-python/python-iptools 0.7.0: A package is a collection of utilities for dealing with IP addresses
 dev-python/python-libnmap 0.7.0: A python library enabling python developers to manipulate nmap process and data
-dev-python/python-nmap 0.6.1: a python library which helps in using nmap port scanner
+dev-python/python-nmap 0.6.1 0.6.4: a python library which helps in using nmap port scanner
 dev-python/python-oauth2 1.1.1: OAuth 2.0 provider for python
 dev-python/python-pptx 0.6.18: Create Open XML PowerPoint documents in Python
 dev-python/python-ptrace 0.9.4: A Python binding of ptrace library
