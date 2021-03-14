@@ -159,17 +159,18 @@ dev-libs/libcsplit 20190102 20200703: Library for cross-platform C split string 
 dev-libs/libcstring 20150101: Library for cross-platform C string functions
 dev-libs/libcsystem 20150629: Library for cross-platform C locale functions
 dev-libs/libcthreads 20180724 20200508: Library for cross-platform C threads functions
-dev-libs/libdwarf 20200719 20200825: The DWARF Debugging Information Format
+dev-libs/libdwarf 20200825 20210305: The DWARF Debugging Information Format
 dev-libs/libfcache 20181011 20200708: Library for cross-platform C cache functions
-dev-libs/libfdata 20190811 20200728: Library for cross-platform C file data functions
+dev-libs/libfdata 20200728 20201129: Library for cross-platform C file data functions
 dev-libs/libfdatetime 20180910: Library for date and time formats
 dev-libs/libfguid 20180219 20180724: Library for GUID/UUID format
 dev-libs/libfmapi 20170112 20180714: Library for MAPI data types
-dev-libs/libfvalue 20200711: Library for generic file value functions
+dev-libs/libfvalue 20200711 20200902: Library for generic file value functions
+dev-libs/libfwnt 20200723: Library for Windows NT data types
 dev-libs/libguytools2 2.1.0: Library for guymager
 dev-libs/libuna 20190102 20200711: Library to support Unicode and ASCII (byte string) conversions
-dev-libs/libvhdi 20191221: Library and tools to access the Virtual Hard Disk (VHD) image format
-dev-libs/libvmdk 20200810: Library and tools to access the VMware Virtual Disk (VMDK) format
+dev-libs/libvhdi 20191221 20201204: Library and tools to access the Virtual Hard Disk (VHD) image format
+dev-libs/libvmdk 20200810 20200926: Library and tools to access the VMware Virtual Disk (VMDK) format
 dev-libs/openssl-bad 1.0.2_p20180915 1.0.2_p20190119: Snapshot for testssl.sh >2.8 from PM's fork, ready to compile
 dev-libs/qbdi 0.7.1: A Dynamic Binary Instrumentation framework based on LLVM
 dev-libs/redasm-database 20190317 20210109: Database files (signatures) for REDasm
