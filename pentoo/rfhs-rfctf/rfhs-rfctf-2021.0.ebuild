@@ -8,7 +8,7 @@ HOMEPAGE="https://rfhackers.com/rfctf/"
 
 LICENSE="BSD-2"
 SLOT="0"
-KEYWORDS="~amd64 ~x86"
+KEYWORDS="amd64 x86"
 IUSE="+gui +wifi"
 
 PDEPEND="
@@ -33,5 +33,6 @@ PDEPEND="
 			net-wireless/reaver-wps-fork-t6x
 			net-wireless/wifite
 			net-wireless/wpa_supplicant
+			pentoo/pentoo-opencl
 		)
 "
