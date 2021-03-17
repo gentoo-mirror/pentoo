@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=Meta package for the RFHS RFCTF game
+EAPI=7
+HOMEPAGE=https://rfhackers.com/rfctf/
+IUSE=+gui +wifi
+KEYWORDS=~amd64 ~x86
+LICENSE=BSD-2
+PDEPEND=app-admin/supervisor gui? ( pentoo/pentoo-desktop www-apps/novnc x11-misc/x11vnc ) wifi? ( net-wireless/aircrack-ng app-crypt/asleap app-crypt/hashcat net-analyzer/wireshark[tshark] net-analyzer/termshark net-dialup/freeradius[wpe] net-wireless/hostapd[wpe] net-wireless/iw net-wireless/kismet net-wireless/mdk net-wireless/pixiewps net-wireless/reaver-wps-fork-t6x net-wireless/wifite net-wireless/wpa_supplicant )
+SLOT=0
+_md5_=f22d9c961aec88863d24ac828b27e797

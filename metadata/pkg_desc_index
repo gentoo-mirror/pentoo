@@ -826,6 +826,7 @@ pentoo/pentoo-scanner 2020.0: Pentoo scanner meta ebuild
 pentoo/pentoo-system 2020.3-r2: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2021.0: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2020.3: Pentoo wireless meta ebuild
+pentoo/rfhs-rfctf 2021.0: Meta package for the RFHS RFCTF game
 pentoo/tribe 2012.0: Tribe meta ebuild
 pentoo/wctf-client 2021.0: Packages needed to power the client NUC for WCTF events
 pentoo/zero-system 2021.0-r1: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
