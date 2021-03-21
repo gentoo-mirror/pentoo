@@ -4,11 +4,12 @@ DEPEND=ssh? ( net-libs/libssh2 ) postgres? ( dev-db/postgresql:= ) rdp? ( net-mi
 DESCRIPTION=A modular, parallel, multiprotocol, network login auditor
 EAPI=7
 HOMEPAGE=http://foofus.net/goons/jmk/medusa/medusa.html
+INHERIT=autotools multilib
 IUSE=afp ncp postgres +rdp +ssh subversion debug libressl
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 RDEPEND=ssh? ( net-libs/libssh2 ) postgres? ( dev-db/postgresql:= ) rdp? ( net-misc/freerdp ) subversion? ( dev-vcs/subversion ) !libressl? ( dev-libs/openssl:= ) libressl? ( dev-libs/libressl:= ) afp? ( net-fs/afpfs-ng )
 SLOT=0
 SRC_URI=https://github.com/jmk-foofus/medusa/archive/292193b3995444aede53ff873899640b08129fc7.tar.gz -> medusa-2.2_p20181217.tar.gz
-_eclasses_=autotools	9988ecbe04129214297a7bbf3d253710	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	24921b57d6561d87cbef4916a296ada4
+_eclasses_=toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	libtool	f143db5a74ccd9ca28c1234deffede96	autotools	4ba6c345bf49883c84d5fa5c9bf40c0b
 _md5_=ea2f2a659fe3a52b9bbefc88690291c6

@@ -3,10 +3,11 @@ DEPEND=>=app-pda/libimobiledevice-1.2.0:= >=app-pda/libplist-1.8:= >=dev-libs/li
 DESCRIPTION=A tool to interact with the installation_proxy of an Apple's iDevice
 EAPI=6
 HOMEPAGE=http://www.libimobiledevice.org/ https://github.com/libimobiledevice/ideviceinstaller
+INHERIT=autotools
 KEYWORDS=amd64 x86
 LICENSE=GPL-2
 RDEPEND=>=app-pda/libimobiledevice-1.2.0:= >=app-pda/libplist-1.8:= >=dev-libs/libzip-0.10
 SLOT=0
 SRC_URI=https://github.com/libimobiledevice/ideviceinstaller/archive/b37ce232a44e4e212f71d3792cbd3d86e2f9ac33.zip -> ideviceinstaller-1.1.0_p20190928.zip
-_eclasses_=autotools	9988ecbe04129214297a7bbf3d253710	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	24921b57d6561d87cbef4916a296ada4
+_eclasses_=toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	libtool	f143db5a74ccd9ca28c1234deffede96	autotools	4ba6c345bf49883c84d5fa5c9bf40c0b
 _md5_=bdc3ed366a40bf4e6f90fc5f4bc60396
