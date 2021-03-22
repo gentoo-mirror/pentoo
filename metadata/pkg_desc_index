@@ -705,7 +705,7 @@ net-vpn/kcptun 20200201 20200226 20200321 20200409 20200701: A Stable & Secure T
 net-vpn/kcptun-plugins 20190313: SIP003-compatible KCPTUN and UDP2RAW plugins for Shadowsocks
 net-vpn/tuntox 0.0.9 9999: Tunnel TCP connections over the Tox protocol
 net-vpn/udp2raw-tunnel 20200727.0 20200818.0 99999999: A tunnel which turns UDP traffic into encrypted FakeTCP/UDP/ICMP traffic
-net-wireless/airgeddon 10.40: bash script for Linux systems to audit wireless networks
+net-wireless/airgeddon 10.41: bash script for Linux systems to audit wireless networks
 net-wireless/b43-openfwwf 5.2: OpenBroadcom Firmware
 net-wireless/b43-tools 9999: Tools for developers working on broadcom drivers/firmware
 net-wireless/berate_ap 20190918 99999999: Script for orchestrating mana rogue WiFi Access Points (fork create_ap)
