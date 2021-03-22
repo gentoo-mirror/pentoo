@@ -1,0 +1,10 @@
+DEFINED_PHASES=install
+DESCRIPTION=Command line Java Decompiler
+EAPI=7
+HOMEPAGE=https://github.com/kwart/jd-cli
+KEYWORDS=amd64 x86
+LICENSE=Apache-2.0
+RDEPEND=|| ( virtual/jre virtual/jdk )
+SLOT=GPL-3
+SRC_URI=https://github.com/kwart/jd-cli/releases/download/jd-cli-1.2.0/jd-cli-1.2.0-dist.tar.gz
+_md5_=08ebab24114cdb1db7862701fe1c3e19
