@@ -2,6 +2,7 @@ DEFINED_PHASES=install prepare setup
 DESCRIPTION=Discovery IP Address of the target
 EAPI=7
 HOMEPAGE=https://github.com/j3ssie/IPOsint
+INHERIT=eutils python-single-r1
 IUSE=+python_single_target_python3_7
 KEYWORDS=~amd64
 LICENSE=Unlicense
@@ -9,5 +10,5 @@ RDEPEND=python_single_target_python3_7? ( dev-lang/python:3.7 >=dev-lang/python-
 REQUIRED_USE=^^ ( python_single_target_python3_7 )
 SLOT=0
 SRC_URI=https://github.com/j3ssie/IPOsint/archive/6b8d1dbeebc19e70fc92418c1af26511362182cb.tar.gz -> iposint-20190615.tar.gz
-_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	eutils	2d5b3f4b315094768576b6799e4f926e	l10n	8cdd85e169b835d518bc2fd59f780d8e	multilib	d410501a125f99ffb560b0c523cd3d1e	python-single-r1	d3100de905f978df912135806cf27188	python-utils-r1	2dc8e06a3429719b43e9140f7292a425	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	wrapper	4251d4c84c25f59094fd557e0063a974
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	l10n	8cdd85e169b835d518bc2fd59f780d8e	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	2d5b3f4b315094768576b6799e4f926e	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	python-utils-r1	543b53e4d003ebd889082f4673e52af5	python-single-r1	c7de0087e87a282f2faec351822e097c
 _md5_=9b572664a5bf74293aabe5e27e80f1d2

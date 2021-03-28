@@ -3,11 +3,12 @@ DEPEND=python_targets_python3_7? ( dev-lang/python:3.7 ) python_targets_python3_
 DESCRIPTION=This tool will parse a PDF document to identify the fundamental elements used
 EAPI=7
 HOMEPAGE=https://blog.didierstevens.com/programs/pdf-tools/
+INHERIT=python-r1 unpacker
 IUSE=unicode yara python_targets_python3_7 python_targets_python3_8
 KEYWORDS=~amd64 ~arm ~x86
 LICENSE=public-domain
 RDEPEND=python_targets_python3_7? ( dev-lang/python:3.7 ) python_targets_python3_8? ( dev-lang/python:3.8 ) >=dev-lang/python-exec-2:=[python_targets_python3_7(-)?,python_targets_python3_8(-)?,-python_single_target_python3_7(-),-python_single_target_python3_8(-)] app-arch/unzip yara? ( dev-python/yara-python[python_targets_python3_7(-)?,python_targets_python3_8(-)?,-python_single_target_python3_7(-),-python_single_target_python3_8(-)] )
 SLOT=0
 SRC_URI=https://www.didierstevens.com/files/software/pdf-parser_V0_7_4.zip
-_eclasses_=multibuild	6b3d5ee849dafe6cdfd7b859c211fb01	multilib	d410501a125f99ffb560b0c523cd3d1e	python-r1	6d099888c5b4dd4868c26508df307e95	python-utils-r1	2dc8e06a3429719b43e9140f7292a425	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	unpacker	45b49db67094fdafbb6a16a2299e894b
+_eclasses_=multibuild	6b3d5ee849dafe6cdfd7b859c211fb01	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	python-utils-r1	543b53e4d003ebd889082f4673e52af5	python-r1	a0dcde4775c7b2f7530678fc8143340e	unpacker	45b49db67094fdafbb6a16a2299e894b
 _md5_=cfb5d4b42c796cbab6a8046a23807dd6

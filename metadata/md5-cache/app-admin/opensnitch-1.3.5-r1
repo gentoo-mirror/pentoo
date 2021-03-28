@@ -4,6 +4,7 @@ DEPEND=>=dev-lang/go-1.13 net-libs/libnetfilter_queue
 DESCRIPTION=Desktop application firewall
 EAPI=7
 HOMEPAGE=https://github.com/evilsocket/opensnitch
+INHERIT=distutils-r1 golang-vcs-snapshot
 IUSE=python_targets_python3_7 python_targets_python3_8
 KEYWORDS=~amd64 ~x86
 LICENSE=Apache-2.0
@@ -12,5 +13,5 @@ REQUIRED_USE=|| ( python_targets_python3_7 python_targets_python3_8 )
 RESTRICT=mirror
 SLOT=0
 SRC_URI=https://github.com/evilsocket/opensnitch/archive/v1.3.5.tar.gz -> opensnitch-1.3.5.tar.gz https://github.com/evilsocket/ftrace/archive/v1.2.0.tar.gz -> github.com-evilsocket-ftrace-v1.2.0.tar.gz https://github.com/fsnotify/fsnotify/archive/v1.4.7.tar.gz -> github.com-fsnotify-fsnotify-v1.4.7.tar.gz https://github.com/golang/glog/archive/23def4e6c14b.tar.gz -> github.com-golang-glog-23def4e6c14b.tar.gz https://github.com/golang/protobuf/archive/v1.0.0.tar.gz -> github.com-golang-protobuf-v1.0.0.tar.gz https://github.com/google/gopacket/archive/v1.1.14.tar.gz -> github.com-google-gopacket-v1.1.14.tar.gz https://github.com/vishvananda/netlink/archive/v1.1.0.tar.gz -> github.com-vishvananda-netlink-v1.1.0.tar.gz https://github.com/vishvananda/netns/archive/0a2b9b5464df.tar.gz -> github.com-vishvananda-netns-0a2b9b5464df.tar.gz https://github.com/golang/net/archive/8d16fa6dc9a8.tar.gz -> github.com-golang-net-8d16fa6dc9a8.tar.gz https://github.com/golang/sync/archive/6e8e738ad208.tar.gz -> github.com-golang-sync-6e8e738ad208.tar.gz https://github.com/golang/sys/archive/7fc4e5ec1444.tar.gz -> github.com-golang-sys-7fc4e5ec1444.tar.gz https://github.com/golang/text/archive/v0.3.0.tar.gz -> github.com-golang-text-v0.3.0.tar.gz https://github.com/googleapis/go-genproto/archive/7fd901a49ba6.tar.gz -> github.com-googleapis-go-genproto-7fd901a49ba6.tar.gz https://github.com/grpc/grpc-go/archive/v1.11.3.tar.gz -> github.com-grpc-grpc-go-v1.11.3.tar.gz
-_eclasses_=distutils-r1	16579e06f8839831bd5c03455bb87e3f	golang-base	904cd4c642d6923795b9bd99b6fe0e74	golang-vcs-snapshot	b9726cec9cc93f8884b4634e4ddacdec	multibuild	6b3d5ee849dafe6cdfd7b859c211fb01	multilib	d410501a125f99ffb560b0c523cd3d1e	multiprocessing	cac3169468f893670dac3e7cb940e045	python-r1	6d099888c5b4dd4868c26508df307e95	python-utils-r1	2dc8e06a3429719b43e9140f7292a425	toolchain-funcs	24921b57d6561d87cbef4916a296ada4
+_eclasses_=multiprocessing	cac3169468f893670dac3e7cb940e045	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	multibuild	6b3d5ee849dafe6cdfd7b859c211fb01	python-utils-r1	543b53e4d003ebd889082f4673e52af5	python-r1	a0dcde4775c7b2f7530678fc8143340e	distutils-r1	2ac0db834bfc8d76a5ad34d536d15b35	golang-base	904cd4c642d6923795b9bd99b6fe0e74	golang-vcs-snapshot	b9726cec9cc93f8884b4634e4ddacdec
 _md5_=c95f9b28503ab293f9f7f2a9df57af8f
