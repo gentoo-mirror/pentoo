@@ -53,7 +53,7 @@ app-exploits/packetstormexploits-meta 2020: Meta ebuild of packetstorm exploits
 app-exploits/powercat 20170805: Netcat: The powershell version
 app-exploits/proton 20200311: Windows post-exploitation framework using Windows Script Host
 app-exploits/pwntools 4.2.1 4.3.0 4.3.1: CTF framework and exploit development library
-app-exploits/pypykatz 0.3.15 0.4.3: Python implementation of Mimikatz
+app-exploits/pypykatz 0.3.15 0.4.3 0.4.8: Python implementation of Mimikatz
 app-exploits/ropper 1.13.5 1.13.6 9999: Use to display information about binary files in different file formats
 app-exploits/routersploit 3.4.0-r1 9999: An open-source exploitation framework dedicated to embedded devices
 app-exploits/traitor 0.0.2: Subdomain OSINT Enumeration
@@ -522,7 +522,7 @@ dev-util/jd-gui 1.6.6-r1: A standalone Java Decompiler GUI
 dev-util/jnitrace 3.1.0 3.2.1: A Frida based tool that traces usage of the JNI API in Android apps.
 dev-util/lief 0.11.3 0.11.4: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
-dev-util/mobsf 3.2.9 3.3.3 3.3.5: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
+dev-util/mobsf 3.3.5 3.4.0: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
 dev-util/objection 1.9.6 1.10.1: Runtime mobile exploration
 dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIPS
 dev-util/qark 0.9_pre20190405: A tool to look for Android application vulnerabilities
