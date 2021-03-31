@@ -3,9 +3,10 @@ DEPEND=net-libs/libpcap >=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=A wifi-protected-setup (WPS) brute force attack tool, similar to reaver
 EAPI=6
 HOMEPAGE=https://github.com/aanarchyy/bully/releases
+INHERIT=git-r3
 KEYWORDS=amd64 arm x86
 LICENSE=GPL-3+ GPL-2 BSD
 PROPERTIES=live
 SLOT=0
-_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
 _md5_=4aa78e1b066adfe9305b204b91381c9c

@@ -3,11 +3,12 @@ DEPEND=virtual/jre:11 !dev-util/jd-gui-bin virtual/jdk:11 dev-java/gradle-bin:5.
 DESCRIPTION=A standalone Java Decompiler GUI
 EAPI=7
 HOMEPAGE=http://jd.benow.ca/
+INHERIT=desktop java-pkg-2
 IUSE=elibc_FreeBSD
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 RDEPEND=virtual/jre:11 !dev-util/jd-gui-bin >=dev-java/java-config-2.2.0-r3
 SLOT=0
 SRC_URI=https://github.com/java-decompiler/jd-gui/archive/v1.6.6.tar.gz -> jd-gui-1.6.6.tar.gz https://dev.pentoo.ch/~blshkv/distfiles/jd-gui-dependencies-20191226.tar.gz
-_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	java-pkg-2	c4e6af2574fd1dc79b43a6e27af4b5fb	java-utils-2	378e4cda228ea0231a0ac283cb2ad25c
+_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	java-utils-2	2440f41421207d084e5e3f1fb001b34e	java-pkg-2	45c44ec10db6affb3ebee1ac72039888
 _md5_=b37f0dc41170dc27e79b7447ddb78d70

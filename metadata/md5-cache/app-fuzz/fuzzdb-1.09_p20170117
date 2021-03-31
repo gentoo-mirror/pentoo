@@ -3,9 +3,10 @@ DEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=Attack and Discovery Pattern Database for Application Fuzz Testing
 EAPI=5
 HOMEPAGE=https://github.com/fuzzdb-project
+INHERIT=git-r3
 KEYWORDS=~amd64 ~arm ~x86
 LICENSE=BSD
 PROPERTIES=live
 SLOT=0
-_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
 _md5_=df80d4a516e55a6f1804e5684dce214d
