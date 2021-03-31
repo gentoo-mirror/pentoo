@@ -3,6 +3,7 @@ DEPEND=app-arch/unzip
 DESCRIPTION=SonarQube Command-Line Scanner
 EAPI=7
 HOMEPAGE=https://www.sonarqube.org/
+INHERIT=eutils
 IUSE=embedded_jre
 KEYWORDS=~amd64 ~x86
 LICENSE=LGPL-3
@@ -10,5 +11,5 @@ RDEPEND=!embedded_jre? ( >=virtual/jre-1.8 )
 RESTRICT=mirror
 SLOT=0
 SRC_URI=https://binaries.sonarsource.com/Distribution/sonar-scanner-cli/sonar-scanner-cli-4.3.0.2102-linux.zip
-_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	eutils	2d5b3f4b315094768576b6799e4f926e	l10n	8cdd85e169b835d518bc2fd59f780d8e	wrapper	4251d4c84c25f59094fd557e0063a974
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	l10n	8cdd85e169b835d518bc2fd59f780d8e	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	2d5b3f4b315094768576b6799e4f926e
 _md5_=68e45f6dd1458103ad6ffba169c98cab

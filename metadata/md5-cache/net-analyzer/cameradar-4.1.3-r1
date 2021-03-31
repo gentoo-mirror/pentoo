@@ -3,6 +3,7 @@ DEFINED_PHASES=compile install postinst prepare unpack
 DESCRIPTION=Cameradar hacks its way into RTSP videosurveillance cameras
 EAPI=7
 HOMEPAGE=https://github.com/ullaakut/cameradar
+INHERIT=go-module
 IUSE=gnome X
 KEYWORDS=~amd64
 LICENSE=BSD

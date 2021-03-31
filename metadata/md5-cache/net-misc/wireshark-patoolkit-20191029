@@ -3,6 +3,7 @@ DEPEND=>=net-analyzer/wireshark-2.6:=
 DESCRIPTION=a collection of traffic analysis Wireshark plugins focused on security
 EAPI=7
 HOMEPAGE=https://github.com/pentesteracademy/patoolkit
+INHERIT=multilib
 KEYWORDS=~amd64 ~arm ~x86
 LICENSE=GPL-2
 RDEPEND=>=net-analyzer/wireshark-2.6:=

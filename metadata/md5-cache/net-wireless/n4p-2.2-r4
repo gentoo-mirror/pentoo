@@ -2,6 +2,7 @@ DEFINED_PHASES=install
 DESCRIPTION=Comprehensive Wireless and Network packet based hacking framework.Compare to Metasploit
 EAPI=5
 HOMEPAGE=https://github.com/Cyb3r-Assassin
+INHERIT=multilib
 IUSE=+wireless +mitm +wpe +wps +vpn +extras
 KEYWORDS=~amd64 ~arm ~x86
 LICENSE=GPL-2
