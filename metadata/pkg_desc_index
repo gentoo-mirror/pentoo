@@ -273,7 +273,6 @@ dev-python/google-play-scraper 0.0.2.3 0.1.2: APIs to easily crawl the Google Pl
 dev-python/googlesearch 2.0.3: Google search from Python
 dev-python/gpapi 0.4.4-r1: Unofficial python api for google play
 dev-python/grequests 0.4.0: Use Requests with Gevent to make asyncronous HTTP Requests easily
-dev-python/gssapi 1.6.11: Python GSSAPI Wrapper
 dev-python/hexdump 3.3: Dump binary data to hex format and restore from there
 dev-python/hrt 0.1.0: HTTP Request Translator (hrt) translates raw HTTP requests to different scripts
 dev-python/htmlentities 0.3.0: Easy-to-use data handling for SQL data stores
