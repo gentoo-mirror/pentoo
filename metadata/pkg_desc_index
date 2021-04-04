@@ -54,7 +54,7 @@ app-exploits/packetstormexploits 2012.12 2013.12 2014.12 2015.12 2016.12 2017.12
 app-exploits/packetstormexploits-meta 2020: Meta ebuild of packetstorm exploits
 app-exploits/powercat 20170805: Netcat: The powershell version
 app-exploits/proton 20200311: Windows post-exploitation framework using Windows Script Host
-app-exploits/pwntools 4.2.1 4.3.0 4.3.1: CTF framework and exploit development library
+app-exploits/pwntools 4.3.1 4.4.0: CTF framework and exploit development library
 app-exploits/pypykatz 0.3.15 0.4.3 0.4.8: Python implementation of Mimikatz
 app-exploits/ropper 1.13.5 1.13.6 9999: Use to display information about binary files in different file formats
 app-exploits/routersploit 3.4.0-r1 9999: An open-source exploitation framework dedicated to embedded devices
