@@ -610,7 +610,7 @@ net-analyzer/padbuster 20110928: Automated script for performing Padding Oracle 
 net-analyzer/plecost 9999: Wordpress finger printing tool, retrieve information about the plugins and versions installed
 net-analyzer/polenum 1.6.1: Extract password policy from a windows machine
 net-analyzer/ppscan 0.3-r1: Port scanner with HTTP and FTP tunneling support
-net-analyzer/pwncat 0.1.0: Netcat with IDS/IPS evasion, bind reverse shell and port forwarding magic
+net-analyzer/pwncat 0.1.1: Netcat with IDS/IPS evasion, bind reverse shell and port forwarding magic
 net-analyzer/rdp-sec-check 20181109: Remote Desktop Protocol security settings checker
 net-analyzer/recon-ng 5.1.1 9999: Web Reconnaissance Framework
 net-analyzer/responder 3.0.2.0 3.0.3.0: LLMNR, NBT-NS and MDNS poisoner, HTTP/SMB/MSSQL/FTP/LDAP rogue authentication
