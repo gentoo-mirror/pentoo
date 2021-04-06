@@ -822,12 +822,12 @@ pentoo/pentoo-mobile 2020.3: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2020.2: Collection of NFC tools
 pentoo/pentoo-opencl 0: Virtual for pulling in appropriate opencl stuffs
 pentoo/pentoo-proxies 2020.0: Pentoo proxy meta ebuild
-pentoo/pentoo-radio 2021.0-r2: Radio tools for pentoo
+pentoo/pentoo-radio 2021.1: Radio tools for pentoo
 pentoo/pentoo-rce 2020.1: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2020.0: Pentoo scanner meta ebuild
 pentoo/pentoo-system 2021.0: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2021.0: Pentoo voip meta ebuild
-pentoo/pentoo-wireless 2021.0: Pentoo wireless meta ebuild
+pentoo/pentoo-wireless 2021.1: Pentoo wireless meta ebuild
 pentoo/rfctf-client 2021.0: Packages needed to power the client and SDR devices for RFCTF events
 pentoo/tribe 2012.0: Tribe meta ebuild
 pentoo/zero-system 2021.0-r1: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
