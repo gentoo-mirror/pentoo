@@ -555,7 +555,7 @@ net-analyzer/bbrecon 20200228: Automated reconnaissance and information gatherin
 net-analyzer/bettercap 2.29 2.30.2: A complete, modular, portable and easily extensible MITM framework
 net-analyzer/bolt 0.2.1 9999: CSRF Scanner
 net-analyzer/bonesi 0.3.1 9999: BoNeSi - the DDoS botnet simulator
-net-analyzer/cameradar 5.0.0: Cameradar hacks its way into RTSP videosurveillance cameras
+net-analyzer/cameradar 5.0.0 5.0.1: Cameradar hacks its way into RTSP videosurveillance cameras
 net-analyzer/capanalysis 1.2.3: A web visual tool for information security specialists
 net-analyzer/cipherscan 20190726 20200312: A very simple way to find out which SSL ciphersuites are supported by a target
 net-analyzer/cisco-auditing-tool 1: Perl script which scans cisco routers for common vulnerabilities.
