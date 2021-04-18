@@ -240,7 +240,7 @@ dev-python/dhcplib 0.1.1: Pure-Python, spec-compliant DHCP-packet-processing lib
 dev-python/django-constance-haiwen 20180515: Django live settings with pluggable backends, including Redis
 dev-python/django-formtools 2.1: A set of high-level abstractions for Django forms
 dev-python/django-guardian 2.3.0: Implementation of per object permissions for Django 1.2+
-dev-python/django-oauth-toolkit 1.1.3 1.2.0: OAuth2 goodies for the Djangonauts
+dev-python/django-oauth-toolkit 1.1.3 1.2.0 1.5.0: OAuth2 goodies for the Djangonauts
 dev-python/django-post_office-haiwen 20180914: A Django app to monitor and send mail asynchronously
 dev-python/django-pylibmc 0.6.1: Django cache backend using pylibmc
 dev-python/django-ranged-response 0.2.0: Django FileResponse that adds Content-Range headers
@@ -383,7 +383,7 @@ dev-python/rjsmin 1.1.0: RCSSmin is a CSS minifier
 dev-python/ruamel-base 1.0.0: common routines for ruamel packages
 dev-python/selenium-requests 1.3.1: Extends Selenium webdrv with the request function from the Requests library
 dev-python/semgrep 0.37.0 0.42.0: Lightweight static analysis for many languages
-dev-python/shelljob 0.6.2: Run multiple subprocesses asynchronous/in parallel with streamed output
+dev-python/shelljob 0.6.3: Run multiple subprocesses asynchronous/in parallel with streamed output
 dev-python/shodan 1.17.0 1.24.0: Python library and command-line utility for Shodan
 dev-python/simplekv 0.14.0: A key-value storage for binary data, support many backends.
 dev-python/sniffio 1.1.0 1.2.0: Sniff out which async library your code is running under
