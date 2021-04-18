@@ -730,7 +730,7 @@ net-wireless/cowpatty 4.8-r1: WLAN tools for bruteforcing 802.11 WPA/WPA2 keys
 net-wireless/crda 1.1.0-r1 1.1.1: Central Regulatory Domain Agent for wireless networks.
 net-wireless/create_ap 0.4.6: A script to create a NATed or bridged WiFi access point
 net-wireless/dsd 1.7.0_pre20180701 9999: Digital Speech Decoder
-net-wireless/dsdcc 1.9.0 9999: Digital Speech Decoder rewritten as a C++ library
+net-wireless/dsdcc 1.9.0 1.9.2 9999: Digital Speech Decoder rewritten as a C++ library
 net-wireless/dump1090_sdrplus 20190812: Mode S decoder for (SDR) devices including RTL SDR, HackRF, Airspy and SDRplay
 net-wireless/eaphammer 1.12.0 1.13.5: Targeted evil twin attacks against WPA2-Enterprise networks
 net-wireless/editcp-bin 1.0.23: Codeplug editor for the MD-380/MD-390/MD40/MD-UV380/MD-UV390 DMR radios
