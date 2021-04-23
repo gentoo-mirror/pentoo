@@ -620,14 +620,14 @@ net-analyzer/ppscan 0.3-r1: Port scanner with HTTP and FTP tunneling support
 net-analyzer/pwncat 0.1.1: Netcat with IDS/IPS evasion, bind reverse shell and port forwarding magic
 net-analyzer/rdp-sec-check 20181109: Remote Desktop Protocol security settings checker
 net-analyzer/recon-ng 5.1.1 9999: Web Reconnaissance Framework
-net-analyzer/responder 3.0.3.0 3.0.5.0: LLMNR, NBT-NS and MDNS poisoner, HTTP/SMB/MSSQL/FTP/LDAP rogue authentication
+net-analyzer/responder 3.0.3.0 3.0.6.0: LLMNR, NBT-NS and MDNS poisoner, HTTP/SMB/MSSQL/FTP/LDAP rogue authentication
 net-analyzer/rpcapd 4.1.3: Remote packet capture daemon
 net-analyzer/rshijack 0.3.0: A tcp connection hijacker, rust rewrite of shijack
 net-analyzer/ruler 2.2.0: A tool to abuse Exchange services
 net-analyzer/rustscan 1.2.2 9999: Faster Nmap Scanning with Rust
 net-analyzer/s3scanner 1.0.0_p20190928: Scan for open AWS S3 buckets and dump the contents
 net-analyzer/scamper 20191102b: Actively probes the Internet in order to analyze topology and performance
-net-analyzer/scapy 2.4.4_p20210227: A Python interactive packet manipulation program for mastering the network
+net-analyzer/scapy 2.4.4_p20210227 2.4.5: A Python interactive packet manipulation program for mastering the network
 net-analyzer/serialusb 0.7: A cheap USB proxy for input devices
 net-analyzer/sessionlist 1.0-r1: A HTTP packets sniffer
 net-analyzer/set 8.0.3: A social engineering framework
@@ -845,7 +845,7 @@ sci-electronics/pcie_injector 20180527: Information gathering tool designed for 
 sys-apps/become 1.0 1.0-r1: utility for changing the current real, effective or group id
 sys-apps/fchroot 0.1.2: Funtoo's franken-chroot tool
 sys-apps/magic-pax 0.0.1: 
-sys-apps/openrazer 2.8.0_p20200712 2.9.0 3.0.0: Razer Drivers for Linux
+sys-apps/openrazer 3.0.0 3.0.1: Razer Drivers for Linux
 sys-devel/autofdo 0.18 0.19 9999: System to simplify real-world deployment of feedback-directed optimization
 sys-devel/gcc-arm-none-eabi 9.2020.2 10.2020.4: GNU Arm Embedded Toolchain
 sys-devel/gdb-dashboard 0.11.1 0.11.4 9999: Modular visual interface for GDB in Python
