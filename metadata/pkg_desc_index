@@ -58,7 +58,7 @@ app-exploits/pwntools 4.3.1 4.4.0: CTF framework and exploit development library
 app-exploits/pypykatz 0.3.15 0.4.3 0.4.8: Python implementation of Mimikatz
 app-exploits/ropper 1.13.5 1.13.6 9999: Use to display information about binary files in different file formats
 app-exploits/routersploit 3.4.0-r1 9999: An open-source exploitation framework dedicated to embedded devices
-app-exploits/traitor 0.0.2: Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
+app-exploits/traitor 0.0.2 0.0.3: Automatically exploit low-hanging fruit to pop a root shell
 app-exploits/unix-privesc-check 20170904 99999999: Shell script to check for simple privilege escalation vectors
 app-exploits/webshells 20190713 99999999: Various webshells
 app-exploits/weevely 4.0.1 9999: Weevely is a stealth PHP web shell that simulate telnet-like console
