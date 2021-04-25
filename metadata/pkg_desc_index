@@ -599,7 +599,7 @@ net-analyzer/iposint 20190615: Discovery IP Address of the target
 net-analyzer/jmsdigger-bin 20130815: JMSDigger is an Enterprise Messaging Application assessment tool focuses on ActiveMQ
 net-analyzer/kismet-analyzer 0.3.0: Library for parsing kismet results from the .kismet database file
 net-analyzer/maketh 0.2.0: Ethernet packet injector and creator
-net-analyzer/masscan 1.0.4-r1 1.0.5-r1: Mass IP port scanner
+net-analyzer/masscan 1.0.5-r1 1.3.2: Mass IP port scanner
 net-analyzer/massdns 0.3 9999: A high-performance DNS stub resolver for bulk lookups and reconnaissance
 net-analyzer/medusa 2.3_pre: A modular, parallel, multiprotocol, network login auditor
 net-analyzer/metagoofil 2.2_p20201005: Information gathering tool designed for extracting metadata of public documents
@@ -666,7 +666,7 @@ net-dialup/minimodem 0.24: General-purpose software audio FSK modem.
 net-im/jitsi 2.11.5633: Secure IM communicator that supports SIP, XMPP, AIM/ICQ, Windows Live, Yahoo
 net-im/jitsi-videobridge 1132: https://github.com/jitsi/jitsi-videobridge
 net-libs/libosmocore 1.3.1 1.3.2 1.4.0 1.4.2: Utility functions for OsmocomBB, OpenBSC and related projects
-net-libs/libpfring 7.0.0 7.2.0 7.4.0: A new type of network socket that improves packet capture speed.
+net-libs/libpfring 7.4.0 7.8.0: A new type of network socket that improves packet capture speed.
 net-libs/libtins 4.1 4.2 4.3: High-level, multiplatform C++ network packet sniffing and crafting library.
 net-libs/libvidcap 0.2.1: a cross-platform library for capturing video from webcams and other video capture devices
 net-mail/davmail-bin 5.5.1.3299-r2: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
@@ -876,7 +876,7 @@ www-apps/beef 0.5.0.0-r1: Browser exploitation framework
 www-apps/faraday 3.10.0: Integrated Penetration-Test Environment is a multiuser Penetration test IDE
 www-apps/geckodriver 0.23.0 0.27.0: Proxy for using WebDriver clients to interact with Gecko-based browsers.
 www-apps/rda 2.9: Web-based application for effective reporting writing
-www-apps/seafile-pro-server 7.1.15 8.0.1: Meta package for Seafile Pro Edition, file sync share solution
+www-apps/seafile-pro-server 7.1.16 8.0.2: Meta package for Seafile Pro Edition, file sync share solution
 www-apps/vulsrepo 20190412-r3: VulsRepo is visualized based on the json report output in vuls
 www-misc/firefox-bookmarks 0.3-r1: Firefox bookmarks for the Pento ISO only
 www-plugins/hackplugins-meta 20200428: Collection of browser's plugins for application security testing
