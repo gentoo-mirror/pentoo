@@ -1,6 +1,6 @@
 BDEPEND=dev-lang/go >=dev-lang/go-1.10
 DEFINED_PHASES=compile install postinst unpack
-DESCRIPTION=Fast web fuzzer written in Go
+DESCRIPTION=Fast web fuzzer / directory brute force
 EAPI=7
 HOMEPAGE=https://github.com/ffuf/ffuf
 INHERIT=golang-vcs-snapshot
@@ -8,6 +8,6 @@ KEYWORDS=~amd64 ~arm ~arm64 ~x86
 LICENSE=MIT
 RESTRICT=strip
 SLOT=0
-SRC_URI=https://github.com/ffuf/ffuf/archive/v1.1.0.tar.gz -> ffuf-1.1.0.tar.gz
+SRC_URI=https://github.com/ffuf/ffuf/archive/v1.3.1.tar.gz -> ffuf-1.3.1.tar.gz https://github.com/pelletier/go-toml/archive/v1.8.1.tar.gz -> github.com-pelletier-go-toml-v1.8.1.tar.gz
 _eclasses_=golang-base	b8fb27dacacea08140c53857f439fc7d	golang-vcs-snapshot	ff485cabd3f37b060f110b0be95092ec
-_md5_=bd2b0fdf71eafbb3836c115a99ec9e2e
+_md5_=4279b01519996216f188f7033a2782bb
