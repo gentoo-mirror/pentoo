@@ -55,7 +55,7 @@ app-exploits/packetstormexploits-meta 2020: Meta ebuild of packetstorm exploits
 app-exploits/powercat 20170805: Netcat: The powershell version
 app-exploits/proton 20200311: Windows post-exploitation framework using Windows Script Host
 app-exploits/pwntools 4.3.1 4.4.0: CTF framework and exploit development library
-app-exploits/pypykatz 0.4.8 0.5.0: Python implementation of Mimikatz
+app-exploits/pypykatz 0.4.8 0.5.0-r1: Python implementation of Mimikatz
 app-exploits/ropper 1.13.5 1.13.6 9999: Use to display information about binary files in different file formats
 app-exploits/routersploit 3.4.0-r1 9999: An open-source exploitation framework dedicated to embedded devices
 app-exploits/traitor 0.0.2 0.0.3: Automatically exploit low-hanging fruit to pop a root shell
@@ -335,6 +335,7 @@ dev-python/playsound 1.2.2: Single function module with no dependencies for play
 dev-python/proxy-db 0.2.5: Manage free and private proxies on local db for Python Projects
 dev-python/psd-tools 1.9.13: Package for working with Adobe Photoshop PSD files
 dev-python/psutil 5.8.0: Retrieve information on running processes and system utilization
+dev-python/psycopg2cffi 2.8.1-r1: Implementation of the psycopg2 module using cffi. Compatible with Psycopg 2.5.
 dev-python/py2neo 3.1.2 4.3.0-r1: A simple and pragmatic library which accesses the Neo4j graph database
 dev-python/pyDes 2.0.1: Pure python implementation of DES and TRIPLE DES encryption algorithm
 dev-python/pyaff4 0.27: Python Advanced Forensic Format Version 4 library
@@ -578,7 +579,7 @@ net-analyzer/davtest 1.0: tests WebDAV enabled servers
 net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden content
 net-analyzer/dirble-bin 1.3.1 1.4.2: Fast directory scanning and scraping tool
 net-analyzer/dirhunt 0.6.0-r1 0.7.0: Dirhunt is a web crawler optimized for searching and analyzing web directories.
-net-analyzer/dirsearch 0.3.9 0.4.0_p20201202: A simple command line tool designed to brute force dirs and files in websites
+net-analyzer/dirsearch 0.3.9 0.4.0_p20201202 0.4.0_p20210427: A simple command line tool designed to brute force dirs and files in websites
 net-analyzer/dnsrecon 0.10.0 0.10.1: DNS Enumeration Script
 net-analyzer/dripcap-bin 0.6.15-r1: Caffeinated Modern Packet Analyzer
 net-analyzer/droopescan 1.41.3-r1: A scanner that helps identifying issues in Drupal, SilverStripe, and Wordpress
@@ -593,6 +594,7 @@ net-analyzer/gitgraber 20191002: Tool to scan for sensitive information within p
 net-analyzer/gitrob 2.0.0_beta-r1: Reconnaissance tool for GitHub organizations
 net-analyzer/go-webanalyze 20190705: Port of Wappalyzer in Go to automate scanning
 net-analyzer/gobuster 3.0.1-r3: A tool to brute-force URIs and DNS subdomains
+net-analyzer/honeypots 0.14 9999: 16 different honeypots for monitoring network traffic
 net-analyzer/httprint 301: HTTP fingerprinter tool
 net-analyzer/hyenae 0.36.1: a highly flexible packet generator
 net-analyzer/ifchk 1.1.1 1.1.2: A network interface promiscuous mode detection tool
