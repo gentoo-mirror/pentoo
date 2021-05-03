@@ -22,7 +22,7 @@ app-crypt/bruteforce-salted-openssl 1.4.2: A bruteforce cracker for openssl encr
 app-crypt/bruteforce-wallet 1.5.2 1.5.3: Crypto-currency wallet password recovery tool
 app-crypt/cryptohaze-combined 1.31: GPU and OpenCL accelerated password auditing tools for security professionals
 app-crypt/elfcrypt 20200224 99999999: A Simple ELF crypter
-app-crypt/haiti-hash 1.0.1: A CLI tool to identify the hash type of a given hash
+app-crypt/haiti-hash 1.0.1 1.1.1: A CLI tool to identify the hash type of a given hash
 app-crypt/hashid 3.1.4 9999: Software to identify the different types of hashes
 app-crypt/rcracki_mt 0.7.0-r1: Perform a rainbow table attack on password hashes
 app-crypt/routerkeygen 20190721 99999999: Generates WPA/WEP keys based on MAC and/or BSSID
