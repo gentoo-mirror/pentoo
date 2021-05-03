@@ -696,7 +696,6 @@ net-misc/rdesktop-brute 1.5.0: A Remote Desktop Protocol Client
 net-misc/sherlock 0.10.4 0.10.5 0.10.9 0.11.1 0.12.9 9999: Find usernames across social networks
 net-misc/sippts 2.0.4: set of tools to audit VoIP servers and devices using SIP protocol
 net-misc/t50 5.8.5 5.8.7: Mixed Packet Injector & Network Stress Testing Tool
-net-misc/tcpick 0.2.1-r2: A tcp stream sniffer, tracker and capturer.
 net-misc/tko-subs 20190624: A tool that can help detect and takeover subdomains with dead DNS records
 net-misc/voipong 2.0: tool for detecting all VoIP calls on a pipeline and dumps actual conversation to seperate wav files
 net-misc/waybackurls 0.0.2: Fetch all the URLs that the Wayback Machine knows about for a domain
@@ -824,7 +823,7 @@ pentoo/pentoo-fuzzers 2020.1: Pentoo fuzzers meta ebuild
 pentoo/pentoo-gnome 2.32.1-r3: Meta package for the GNOME desktop, merge this package to install
 pentoo/pentoo-installer 20210311 99999999: Installer for pentoo, based on the ncurses Arch Linux installer
 pentoo/pentoo-livecd 2021.0: things needed by pentoo for livecd only
-pentoo/pentoo-misc 2021.0: Pentoo misc meta ebuild
+pentoo/pentoo-misc 2021.1: Pentoo misc meta ebuild
 pentoo/pentoo-mitm 2020.1: Pentoo mitm meta ebuild
 pentoo/pentoo-mobile 2020.3: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2020.2: Collection of NFC tools
