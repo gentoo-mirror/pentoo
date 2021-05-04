@@ -155,6 +155,7 @@ dev-java/msgpack 0.5.1 0.6.12 0.8.16: MessagePack for Java is a binary-based eff
 dev-java/openjdk-bin 15.0.1_p9: Prebuilt Java JDK binaries provided by AdoptOpenJDK
 dev-java/sleep 2.1-r1: Duct Tape for the Java platform
 dev-libs/LeechCore 2.1 2.3: Direct Memory Access (DMA) Attack Software
+dev-libs/cm256cc 1.1.0: Fast GF(256) Cauchy MDS Block Erasure Codec in C++
 dev-libs/hashdb 3.1.0-r1: The hashdb block hash database tool and API
 dev-libs/libcdata 20190112 20200509: Library for cross-platform C generic data functions
 dev-libs/libcdatetime 20181004 20200510: Library for cross-platform C date and time functions
@@ -182,6 +183,7 @@ dev-libs/libvmdk 20200810 20200926: Library and tools to access the VMware Virtu
 dev-libs/openssl-bad 1.0.2_p20180915 1.0.2_p20190119: Snapshot for testssl.sh >2.8 from PM's fork, ready to compile
 dev-libs/qbdi 0.7.1: A Dynamic Binary Instrumentation framework based on LLVM
 dev-libs/redasm-database 20190317 20210109: Database files (signatures) for REDasm
+dev-libs/serialDV 1.1.4: C++ library to encode/decode audio with AMBE3000
 dev-libs/unicorn-bindings 1.0.2_rc2 1.0.2: Unicorn bindings
 dev-perl/Encoding-BER 1.02: Perl module for encoding/decoding data using ASN.1 Basic Encoding Rules (BER)
 dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
@@ -797,6 +799,7 @@ net-wireless/rtl8812au_aircrack-ng 5.6.4.2_p20200118 9999: RTL8812AU/21AU and RT
 net-wireless/rtl8822bu 5.3.1_p20190920 9999: RTL88x2BU driver with monitor mode and frame injection
 net-wireless/rx_tools 1.0.3-r1 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
 net-wireless/scopy 9999: A software oscilloscope and signal analysis toolset
+net-wireless/sdrangel 6.10.3: SDR Rx/Tx software
 net-wireless/sdrtrunk 0.4.0: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/sdrtrunk-bin 0.4.0-r1: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/signalhound-spike 3.5.9: Spectrum analyzer software for Signal Hound test equipment
