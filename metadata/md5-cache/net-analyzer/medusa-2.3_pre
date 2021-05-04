@@ -1,15 +1,15 @@
 BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.2-r1:1.16 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
 DEFINED_PHASES=configure prepare
-DEPEND=ssh? ( net-libs/libssh2 ) postgres? ( dev-db/postgresql:= ) rdp? ( net-misc/freerdp ) subversion? ( dev-vcs/subversion ) !libressl? ( dev-libs/openssl:= ) libressl? ( dev-libs/libressl:= )
+DEPEND=dev-libs/openssl:= ssh? ( net-libs/libssh2 ) postgres? ( dev-db/postgresql:= ) rdp? ( net-misc/freerdp ) subversion? ( dev-vcs/subversion )
 DESCRIPTION=A modular, parallel, multiprotocol, network login auditor
 EAPI=7
 HOMEPAGE=http://foofus.net/goons/jmk/medusa/medusa.html
 INHERIT=autotools multilib
-IUSE=afp ncp postgres +rdp +ssh subversion debug libressl
+IUSE=afp ncp postgres +rdp +ssh subversion debug
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
-RDEPEND=ssh? ( net-libs/libssh2 ) postgres? ( dev-db/postgresql:= ) rdp? ( net-misc/freerdp ) subversion? ( dev-vcs/subversion ) !libressl? ( dev-libs/openssl:= ) libressl? ( dev-libs/libressl:= )
+RDEPEND=dev-libs/openssl:= ssh? ( net-libs/libssh2 ) postgres? ( dev-db/postgresql:= ) rdp? ( net-misc/freerdp ) subversion? ( dev-vcs/subversion )
 SLOT=0
 SRC_URI=https://github.com/jmk-foofus/medusa/archive/bdaa2dda92ad3681387a60cc41d3bd9f077360a1.tar.gz -> medusa-2.3_pre.tar.gz
 _eclasses_=gnuconfig	9f91b4b0c84e734a87492d4293f03de5	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	libtool	f143db5a74ccd9ca28c1234deffede96	autotools	9e63f92c2a5d867fea55ecb160c7d354
-_md5_=c222161c2868644266abcc748b3acd07
+_md5_=3c211189756c56ff84fc36b3ba79777d
