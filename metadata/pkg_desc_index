@@ -157,6 +157,7 @@ dev-java/sleep 2.1-r1: Duct Tape for the Java platform
 dev-libs/LeechCore 2.1 2.3: Direct Memory Access (DMA) Attack Software
 dev-libs/cm256cc 1.1.0: Fast GF(256) Cauchy MDS Block Erasure Codec in C++
 dev-libs/hashdb 3.1.0-r1: The hashdb block hash database tool and API
+dev-libs/keystone 0.9.2: assembly/assembler framework + bindings
 dev-libs/libcdata 20190112 20200509: Library for cross-platform C generic data functions
 dev-libs/libcdatetime 20181004 20200510: Library for cross-platform C date and time functions
 dev-libs/libcerror 20181117 20191112 20200615 20201121: Library for cross-platform C error functions
@@ -267,6 +268,7 @@ dev-python/filebytes 0.10.0: Classes to parse the following file formats
 dev-python/filedepot 0.7.1: Toolkit for storing files and attachments in web applications
 dev-python/filteralchemy-fork 0.1.0: Declarative query builder for SQLAlchemy
 dev-python/flasgger 0.9.4: Easy OpenAPI specs and Swagger UI for your Flask API
+dev-python/flask-bootstrap 3.3.7.1: Simple integration of Flask and WTForms
 dev-python/flask-caching 1.8.0: Continuation of the Flask-Cache Extension
 dev-python/flask-classful 0.14.2: Class based views for Flask
 dev-python/flask-datepicker 0.14: Simple integration of Flask and WTForms
@@ -794,7 +796,7 @@ net-wireless/reaver-wps-fork-t6x 1.6.5-r1 1.6.6: Utilise Pixie Dust Attack to fi
 net-wireless/rfcat 1.9.1 1.9.2 1.9.3: The swiss army knife of subGHz
 net-wireless/rfidtool 0.01: command line rfid interface
 net-wireless/rtl8812au 4.2.5 4.3.1.4 4.3.14_p20190827 5.2.9_p20180327 5.6.4.2_p20200318 5.6.4.2_p20200703: Linux kernel driver for rtl8812au USB WiFi chipsets
-net-wireless/rtl8812au_aircrack-ng 5.6.4.2_p20200118 9999: RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection
+net-wireless/rtl8812au_aircrack-ng 5.6.4.2_p20200118 5.6.4.2_p20210504 9999: RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection
 net-wireless/rtl8822bu 5.3.1_p20190920 9999: RTL88x2BU driver with monitor mode and frame injection
 net-wireless/rx_tools 1.0.3-r1 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
 net-wireless/scopy 9999: A software oscilloscope and signal analysis toolset
@@ -870,7 +872,7 @@ sys-kernel/kconfig-hardened-check 0.5.5 0.5.7 0.5.9 9999: A script for checking 
 sys-kernel/minipli-sources 4.9.74: Unofficial forward ports of the last publicly available grsecurity patch
 sys-kernel/odroid-sources 9999: Linux kernel source for the ODROID-[UX]2 products
 sys-kernel/odroidxu-sources 9999: Linux kernel source for the ODROIDXU products
-sys-kernel/pentoo-sources 5.10.26 5.11.16: Pentoo kernel sources (kernel series 5.11)
+sys-kernel/pentoo-sources 5.10.26 5.11.16 5.12.2: Pentoo kernel sources (kernel series 5.12)
 sys-kernel/pf_ring-kmod 7.0.0 7.8.0_p20210421: High-speed packet processing framework (kernel modules for)
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
 sys-libs/libxcrypt 2.4: A replacement for libcrypt with DES, MD5 and blowfish support
