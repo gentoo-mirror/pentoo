@@ -297,7 +297,6 @@ dev-python/impacket 0.9.22-r2 9999: A collection of Python classes focused on pr
 dev-python/invoke 1.4.1 1.5.0: Pythonic task execution
 dev-python/ipparser 0.3.5: Parse IP address information
 dev-python/ipwhois 1.0.0: Retrieve and parse whois data for IPv4 and IPv6 addresses
-dev-python/ipykernel 5.5.3-r1: IPython Kernel for Jupyter
 dev-python/isc_dhcp_leases 0.9.1: Small python module for reading /var/lib/dhcp/dhcpd.leases from isc-dhcp-server
 dev-python/javalang 0.12.0: A pure Python library for working with Java source code
 dev-python/jsbeautifier 1.11.0 1.13.0: Beautify, unpack or deobfuscate JavaScript
