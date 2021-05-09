@@ -139,6 +139,11 @@ net-analyzer/medusa:ncp - Use net-fs/ncpfs and enable NCP module
 net-analyzer/medusa:ssh - Enable SSH2 module
 net-analyzer/testssl:bundled-openssl - Install precompiled versions of OpenSSL for greater testing coverage
 net-analyzer/twa:testssl - Install net-analyzer/testssl to check TLS/SSL cipher
+net-dns/avahi:autoipd - Build and install the IPv4LL (RFC3927) network address configuration daemon
+net-dns/avahi:bookmarks - Install the avahi-bookmarks application (requires dev-python/twisted)
+net-dns/avahi:gtk - Use gtk3 for the avahi utilities to build the avahi-ui-gtk3 library
+net-dns/avahi:howl-compat - Enable compat libraries for howl
+net-dns/avahi:mdnsresponder-compat - Enable compat libraries for mDNSResponder
 net-libs/libosmocore:pcsc-lite - Enable smartcard support with sys-apps/pcsc-lite
 net-libs/libtins:ack-tracker - TCP ACK tracking support
 net-libs/libtins:cxx11 - C++11 support
