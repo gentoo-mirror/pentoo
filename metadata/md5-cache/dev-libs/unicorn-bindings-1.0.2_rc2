@@ -12,5 +12,5 @@ RDEPEND=~dev-util/unicorn-1.0.2_rc2 python_targets_python3_7? ( dev-lang/python:
 REQUIRED_USE=|| ( python_targets_python3_7 )
 SLOT=0
 SRC_URI=https://github.com/unicorn-engine/unicorn/archive/1.0.2-rc2.tar.gz -> unicorn-1.0.2_rc2.tar.gz
-_eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multiprocessing	cac3169468f893670dac3e7cb940e045	multibuild	6b3d5ee849dafe6cdfd7b859c211fb01	python-utils-r1	20c4a380a6193a089c8c432f3e5f8402	python-r1	26e4ad0a4190b14f70973dc253e86535	distutils-r1	f0ca511df3fddd316b783632b804e8fb
+_eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multiprocessing	cac3169468f893670dac3e7cb940e045	multibuild	6b3d5ee849dafe6cdfd7b859c211fb01	python-utils-r1	d273d56dc725880edbeb1f6389faf5f1	python-r1	26e4ad0a4190b14f70973dc253e86535	distutils-r1	f0ca511df3fddd316b783632b804e8fb
 _md5_=22c1be9f57656da47cae9b09662c0978
