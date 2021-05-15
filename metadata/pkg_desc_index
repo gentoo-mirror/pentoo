@@ -871,7 +871,7 @@ sys-fs/static-dev 0.1: A skeleton, statically managed /dev
 sys-fs/ubi_reader 0.6.3 9999: Reading information and extracting data from UBIFS images
 sys-fs/yaffshiv 20160105 99999999: YAFFS filesystem extraction tool
 sys-kernel/chromeos-sources 9999: Linux kernel source for the Samsung Chromebook
-sys-kernel/compat-drivers 3.8-r1: Stable kernel pre-release wifi subsystem backport
+sys-kernel/compat-drivers 5.10.34: Stable kernel pre-release wifi subsystem backport
 sys-kernel/fragattacks-drivers58 20210507: 
 sys-kernel/ft60x_driver 20180209 20190318: USB FT60x driver
 sys-kernel/kconfig-hardened-check 0.5.5 0.5.7 0.5.9 9999: A script for checking the hardening options in the Linux kernel config
