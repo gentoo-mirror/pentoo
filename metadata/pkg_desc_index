@@ -252,7 +252,7 @@ dev-python/django-simple-captcha 0.5.12: A very simple, yet powerful, Django cap
 dev-python/django-statici18n 1.8.3: Django helper for generating Javascript catalog to static files
 dev-python/django-webpack-loader 0.6.0: Transparently use webpack with django
 dev-python/django_compressor 2.4: Compresses linked and inline JavaScript or CSS into single cached files
-dev-python/dnslib 0.9.12: Simple library to encode/decode DNS wire-format packets
+dev-python/dnslib 0.9.12 0.9.16: Simple library to encode/decode DNS wire-format packets
 dev-python/dotty 1.5: EFILTER query language
 dev-python/dropbox-sdk 10.1.1: A Python SDK for integrating with the Dropbox API v2.
 dev-python/easygui 0.98.1: A module for very simple, very easy GUI programming in Python
@@ -812,7 +812,7 @@ net-wireless/signalhound-spike 3.5.9: Spectrum analyzer software for Signal Houn
 net-wireless/ska 0.2: Fake Shared Key Authentication
 net-wireless/trunk-recorder 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
 net-wireless/virtualradar-bin 2.4.3: Open-source .NET application for ads-b mapping
-net-wireless/wifipumpkin3 1.0.8_p1: Framework for Rogue Wi-Fi Access Point Attack
+net-wireless/wifipumpkin3 1.0.8_p1 1.0.8_p2: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifite 2.5.5 2.5.8: An automated wireless attack tool
 net-wireless/wireless-regdb 20090130-r1 20090309 20090817 20091125 20091125-r1: Binary regulatory database for CRDA
 net-wireless/wpa_sycophant 1.0 9999: Evil client portion of EAP relay attack
