@@ -8,7 +8,7 @@ acct-user/sonar 0: User for SonarQube
 acct-user/spiderfoot 0: User for SpiderFoot
 acct-user/vuls 0: User for Vuls
 app-admin/genmenu 0.0_p20200826 9999: a tool for generating freedesktop-compliant menus
-app-admin/opensnitch 1.3.5-r1 1.3.6: Desktop application firewall
+app-admin/opensnitch 1.3.6: Desktop application firewall
 app-admin/vuls 0.9.0-r1: Vulnerability scanner for Linux, agentless, written in Golang
 app-antivirus/lkrg 0.8.1 0.8.1_p20210341 0.9.1: Linux Kernel Runtime Guard
 app-antivirus/malheur 0.5.4-r1: Malware analysis tool
@@ -123,7 +123,7 @@ app-pda/ideviceinstaller 1.1.0_p20181001 1.1.0_p20190928 1.1.1: A tool to intera
 app-pda/ifuse 1.1.4: Mount Apple iPhone/iPod Touch file systems for backup purposes
 app-pda/usbmuxd 1.1.1-r1: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
 app-shells/pwsh-bin 7.1.2 7.1.3: PowerShell - binary precompiled for glibc
-app-text/cewl 5.4.8.1 5.4.9 9999: A custom word list generator
+app-text/cewl 5.4.9 5.5.1 9999: A custom word list generator
 app-text/endesive 2.0.2: 
 app-text/unfurl 0.2.0: Pull out bits of URLs provided on stdin
 dev-db/mssqlscan 0.8.4: A small multi-threaded tool that scans for Microsoft SQL Servers
@@ -569,7 +569,7 @@ net-analyzer/arpantispoofer 1.0.1.32: An utility to detect and resist arp spoofi
 net-analyzer/autoscan-network 1.50: Utility for network exploration with Samba support.
 net-analyzer/badtouch 0.7.1: Scriptable network authentication cracker
 net-analyzer/bbrecon 20200228: Automated reconnaissance and information gathering (fork)
-net-analyzer/bettercap 2.30.2 2.31.0: A complete, modular, portable and easily extensible MITM framework
+net-analyzer/bettercap 2.31.0: A complete, modular, portable and easily extensible MITM framework
 net-analyzer/bolt 0.2.1 9999: CSRF Scanner
 net-analyzer/bonesi 0.3.1 9999: BoNeSi - the DDoS botnet simulator
 net-analyzer/cameradar 5.0.0 5.0.1: Cameradar hacks its way into RTSP videosurveillance cameras
