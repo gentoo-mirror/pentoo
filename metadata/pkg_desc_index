@@ -539,13 +539,13 @@ dev-util/jd-cli 1.2.0: Command line Java Decompiler
 dev-util/jd-cli-bin 1.1.0 1.2.0: Command line Java Decompiler
 dev-util/jd-gui 1.6.6-r1 1.6.6-r2: A standalone Java Decompiler GUI
 dev-util/jnitrace 3.2.1 3.2.2: A Frida based tool that traces usage of the JNI API in Android apps.
-dev-util/lief 0.11.3 0.11.4: Library to instrument executable formats
+dev-util/lief 0.11.4 0.11.5: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
 dev-util/mobsf 3.4.0 3.4.3: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
 dev-util/objection 1.10.2 1.11.0-r1: Runtime mobile exploration
 dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIPS
 dev-util/qark 0.9_pre20190405: A tool to look for Android application vulnerabilities
-dev-util/recaf-bin 2.5.0 2.13.2: A modern Java bytecode editor
+dev-util/recaf-bin 2.13.2 2.19.6: A modern Java bytecode editor
 dev-util/redasm 3.0.0_beta5: The OpenSource Disassembler
 dev-util/retdec 4.0: RetDec is a retargetable machine-code decompiler based on LLVM.
 dev-util/semgrep-core-bin 0.36.0 0.42.0 0.51.0: Lightweight static analysis for many languages
