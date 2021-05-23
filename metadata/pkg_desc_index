@@ -527,7 +527,7 @@ dev-util/appmon 0.5_p20201013: Monitoring and tampering API calls of MacOS and i
 dev-util/catalyst 3.0.9 9999: Release metatool used for creating releases based on Gentoo Linux
 dev-util/collabreate 0.4.0_p20140528: A plugin for IDA Pro designed to provide collaborative reverse engineering
 dev-util/dependency-check-bin 5.2.4 5.3.2: A utility that detects vulnerabilities in application dependencies
-dev-util/dex2jar 2.1_pre20150601 2.1_pre20180402: Tools to work with android .dex and java .class files
+dev-util/dex2jar 2.1_pre20180402-r1: Tools to work with android .dex and java .class files
 dev-util/dwarf-debugger 1.0.9_p20200521: Full featured multi arch/os debugger built on top of PyQt5 and frida
 dev-util/electron-bin 6.0.11: Cross platform application development framework based on web technologies
 dev-util/electron-packager 14.2.1: Six Degrees of Domain Admin
