@@ -318,7 +318,7 @@ dev-python/minidump 0.0.13 0.0.17: parse Windows minidump file format
 dev-python/minikerberos 0.2.5 0.2.9 0.2.11: Kerberos manipulation library in pure Python
 dev-python/mitm6 0.2.2: pwning IPv4 via IPv6
 dev-python/mockito 1.2.0: Spying framework based on Mockito java library
-dev-python/msldap 0.3.11-r1 0.3.13 0.3.20: Python library to play with MS LDAP
+dev-python/msldap 0.3.20 0.3.29: Python library to play with MS LDAP
 dev-python/msoffcrypto-tool 4.10.1: Decrypting MS Office files with passwords or other keys
 dev-python/nassl 3.0.0 3.1.0 4.0.0: Experimental OpenSSL wrapper for Python 3.7+ and SSLyze
 dev-python/neo4j 1.7.6 4.2.0: Neo4j Bolt driver for Python
@@ -805,7 +805,7 @@ net-wireless/rtl8812au_aircrack-ng 5.6.4.2_p20200118 5.6.4.2_p20210504 9999: RTL
 net-wireless/rtl8822bu 5.3.1_p20190920 9999: RTL88x2BU driver with monitor mode and frame injection
 net-wireless/rx_tools 1.0.3-r1 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
 net-wireless/scopy 9999: A software oscilloscope and signal analysis toolset
-net-wireless/sdrangel 6.10.3 6.11.0: SDR Rx/Tx software
+net-wireless/sdrangel 6.11.0 6.12.1: SDR Rx/Tx software
 net-wireless/sdrtrunk 0.4.0: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/sdrtrunk-bin 0.4.0-r1: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/signalhound-spike 3.5.9: Spectrum analyzer software for Signal Hound test equipment
