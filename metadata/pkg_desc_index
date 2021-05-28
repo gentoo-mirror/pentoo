@@ -709,8 +709,9 @@ net-misc/wireshark-patoolkit 20191029: a collection of traffic analysis Wireshar
 net-misc/wireshark-sap-plugin 0.4.2 0.5.2 0.6.1 0.6.1-r1 9999: Wireshark plugin for SAP's protocols
 net-misc/wlan2eth 1.3: Wlan2eth is a tool that converts wlan pcap to ethernet-like frames.
 net-print/hplip 3.20.11-r1: HP Linux Imaging and Printing - Print, scan, fax drivers and service tools
-net-proxy/burpsuite 2021.5.1: Interactive proxy for attacking and debugging web applications
-net-proxy/httptoolkit-bin 1.0.2 1.1.0: Intercept & view all your HTTP(S) Mock endpoints
+net-proxy/burpsuite 2021.6: Interactive proxy for attacking and debugging web applications
+net-proxy/burpsuite-pro 2021.6: Interactive proxy for attacking and debugging web applications
+net-proxy/httptoolkit-bin 1.1.0 1.3.0: Intercept & view all your HTTP(S) Mock endpoints
 net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal network via reverse connection
 net-proxy/proxenet 0.4.1: A hacker friendly proxy for web application penetration tests.
 net-proxy/proxenet-plugins 9999: Repository for proxenet plugins
