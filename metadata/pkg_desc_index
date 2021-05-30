@@ -556,8 +556,6 @@ dev-util/unicorn 1.0.2_rc3 1.0.2: A lightweight multi-platform, multi-architectu
 dev-util/valabind 1.7.1 1.7.2: Valabind is a tool to parse vala or vapi files to transform them into swig files
 dev-vcs/gitleaks 4.2.0 4.3.1 6.1.2: Audit git repos for secrets
 dev-vcs/trufflehog 2.1.11_p20200220: Searches through git repositories for high entropy strings and secrets
-gnome-base/gnome-keyring 3.34.0 3.36.0: Password and keyring managing daemon
-gnome-base/libgnomeui 2.24.5-r4: User Interface routines for Gnome
 media-gfx/wkhtmltopdf 0.12.6: Convert html to pdf (and various image formats) using webkit
 media-libs/mbelib 1.3.0-r1 9999: P25 Phase 1 and ProVoice vocoder
 net-analyzer/GyoiThon 9999: GyoiThon is a growing penetration test tool using Machine Learning
@@ -565,8 +563,6 @@ net-analyzer/amass 3.11.1 3.12.2: Subdomain OSINT Enumeration
 net-analyzer/aquatone 1.7.0-r2: A Tool for Domain Flyovers
 net-analyzer/armitage 9999 20160709-r1: Cyber Attack Management for Metasploit
 net-analyzer/armitage-bin 20140818 20141120 20150813: Cyber Attack Management for Metasploit
-net-analyzer/arpantispoofer 1.0.1.32: An utility to detect and resist arp spoofing
-net-analyzer/autoscan-network 1.50: Utility for network exploration with Samba support.
 net-analyzer/badtouch 0.7.1: Scriptable network authentication cracker
 net-analyzer/bbrecon 20200228: Automated reconnaissance and information gathering (fork)
 net-analyzer/bettercap 2.31.0 2.31.1: A complete, modular, portable and easily extensible MITM framework
@@ -784,7 +780,7 @@ net-wireless/linux-wlan-ng-modules 0.2.5: Kernel modules for Prism2/2.5/3 based 
 net-wireless/md380tools 9999: Python tools and patched firmware for the TYT-MD380
 net-wireless/mjackit 20190606-r1: Demo tool for Logitech Unifying vulnerabilities
 net-wireless/mmdvmhost 9999: The host program for MMDVM
-net-wireless/morse2txt 1.0.0: Morse code decoder
+net-wireless/morse2txt 1.1.0: Morse code decoder
 net-wireless/mt7610u_ulli-kroll 9999: Modified usb wifi driver for TP_link TL-WDN5200
 net-wireless/n4p 2.2-r4: Comprehensive Wireless and Network packet based hacking framework.Compare to Metasploit
 net-wireless/nanovna-qt 0.1_p20200507 9999: software for NanoVNA V2

@@ -135,7 +135,6 @@ dev-util/unicorn:unicorn_targets_m68k - Use the m68k architecture
 dev-util/unicorn:unicorn_targets_mips - Use the mips architecture
 dev-util/unicorn:unicorn_targets_sparc - Use the sparc architecture
 dev-util/unicorn:unicorn_targets_x86 - Use the x86 architecture
-gnome-base/gnome-keyring:ssh-agent - Add SSH agent support
 net-analyzer/medusa:afp - Use net-fs/afpfs-ng and enable AFP module
 net-analyzer/medusa:ncp - Use net-fs/ncpfs and enable NCP module
 net-analyzer/medusa:ssh - Enable SSH2 module
