@@ -149,7 +149,7 @@ dev-java/jetty-io 11.0.2: IO Utility
 dev-java/jetty-jmx 11.0.2: Jetty IO Utility
 dev-java/jetty-server 11.0.2: The core jetty server artifact
 dev-java/jetty-util 11.0.2: Jetty IO Utility
-dev-java/jgraphx 2.1.1.2 4.0.6: Open-source graph component for Java
+dev-java/jgraphx 2.1.1.2 4.2.2: Open-source graph component for Java
 dev-java/logback 1.2.3: The reliable, generic, fast and flexible logging framework
 dev-java/msgpack 0.5.1 0.6.12 0.8.16: MessagePack for Java is a binary-based efficient object serialization library
 dev-java/openjdk-bin 15.0.1_p9: Prebuilt Java JDK binaries provided by AdoptOpenJDK
