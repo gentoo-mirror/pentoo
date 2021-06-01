@@ -437,7 +437,7 @@ dev-ruby/activerecord-session_store 2.0.0: An Action Dispatch session store back
 dev-ruby/bootstrap 4.6.0 5.0.1: Bootstrap rubygem for Rails / Sprockets / Hanami / etc
 dev-ruby/case_transform 0.2: Extraction of the key_transform abilities of ActiveModelSerializers
 dev-ruby/ckeditor 5.1.0: Ckeditor 4.x integration gem for rails
-dev-ruby/ckeditor_rails 4.10.0: CKEditor is a javascript library of the WYSIWYG rich-text editor
+dev-ruby/ckeditor_rails 4.10.0-r1 4.10.0_p20191030: CKEditor is a javascript library of the WYSIWYG rich-text editor
 dev-ruby/cms_scanner 0.13.1: Framework to provide an easy way to implement CMS Scanners
 dev-ruby/cookiejar 0.3.3: Allows for parsing and returning cookies in Ruby HTTP client code
 dev-ruby/data_objects 0.10.17: The Core DataObjects class
@@ -884,7 +884,7 @@ www-apps/Tiredful-API 9999: An intentionally designed broken web application bas
 www-apps/beef 0.5.0.0-r1: Browser exploitation framework
 www-apps/faraday 3.10.0: Integrated Penetration-Test Environment is a multiuser Penetration test IDE
 www-apps/geckodriver 0.23.0 0.27.0: Proxy for using WebDriver clients to interact with Gecko-based browsers.
-www-apps/rda 2.9: Web-based application for effective reporting writing
+www-apps/rda 2.9 3.0: Web-based application for effective reporting writing
 www-apps/seafile-pro-server 7.1.18 8.0.3: Meta package for Seafile Pro Edition, file sync share solution
 www-apps/vulsrepo 20190412-r3: VulsRepo is visualized based on the json report output in vuls
 www-misc/firefox-bookmarks 0.3-r1: Firefox bookmarks for the Pento ISO only
