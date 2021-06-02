@@ -685,7 +685,6 @@ net-wireless/linux-wlan-ng-modules 0.2.5: Kernel modules for Prism2/2.5/3 based 
 net-wireless/md380tools 9999: Python tools and patched firmware for the TYT-MD380
 net-wireless/mjackit 20190606-r1: Demo tool for Logitech Unifying vulnerabilities
 net-wireless/mmdvmhost 9999: The host program for MMDVM
-net-wireless/morse2txt 1.1.0: Morse code decoder
 net-wireless/mt7610u_ulli-kroll 9999: Modified usb wifi driver for TP_link TL-WDN5200
 net-wireless/n4p 2.2-r4: Comprehensive Wireless and Network packet based hacking framework.Compare to Metasploit
 net-wireless/nanovna-qt 0.1_p20200507 9999: software for NanoVNA V2
