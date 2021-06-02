@@ -225,7 +225,7 @@ dev-python/editorconfig 0.12.2: EditorConfig File Locator and Interpreter for Py
 dev-python/entropy 0.1.5: entropy is a command line friend that helps you reduce entropy in your life
 dev-python/exifread 2.2.0 2.3.1: Read Exif metadata from tiff and jpeg files
 dev-python/filebytes 0.10.0: Classes to parse the following file formats
-dev-python/flasgger 0.9.4: Easy OpenAPI specs and Swagger UI for your Flask API
+dev-python/flasgger 0.9.5: Easy OpenAPI specs and Swagger UI for your Flask API
 dev-python/flask-bootstrap 3.3.7.1: Simple integration of Flask and WTForms
 dev-python/flask-caching 1.8.0: Continuation of the Flask-Cache Extension
 dev-python/flask-datepicker 0.14: Simple integration of Flask and WTForms
@@ -260,6 +260,7 @@ dev-python/macholib 1.14: A package is a collection of utilities for dealing wit
 dev-python/manuel 1.9.0: Manuel lets you build tested documentation
 dev-python/matlink-gpapi 0.4.4.5: Unofficial python api for google play
 dev-python/maxminddb 1.5.2: A Python module for reading MaxMind DB files
+dev-python/mechanize 0.4.5: Stateful programmatic web browsing in Python
 dev-python/minidump 0.0.13 0.0.17: parse Windows minidump file format
 dev-python/minikerberos 0.2.11 0.2.14: Kerberos manipulation library in pure Python
 dev-python/msldap 0.3.20 0.3.29: Python library to play with MS LDAP
@@ -312,7 +313,7 @@ dev-python/python-whois 0.7.2: Whois querying and parsing of domain registration
 dev-python/pytimeparse 1.1.8: A small Python module to parse various kinds of time expressions
 dev-python/pywerview 0.3.0 0.3.1: A Python port of PowerSploit's PowerView
 dev-python/pywinrm 0.4.1: Python library for Windows Remote Management
-dev-python/qt-py 1.2.5: Minimal Python 2 & 3 shim around all Qt bindings
+dev-python/qt-py 1.3.3: Minimal Python 2 & 3 shim around all Qt bindings
 dev-python/queuelib 1.5.0: Collection of persistent (disk-based) queues
 dev-python/rangeparser 0.1.3-r1: A python package to parse ranges easily
 dev-python/requests-file 1.4.3: File transport adapter for Requests
@@ -321,7 +322,7 @@ dev-python/rich 9.8.2: Validate configuration and produce human readable error m
 dev-python/ruamel-base 1.0.0: common routines for ruamel packages
 dev-python/semgrep 0.52.0: Lightweight static analysis for many languages
 dev-python/shelljob 0.6.3: Run multiple subprocesses asynchronous/in parallel with streamed output
-dev-python/shodan 1.17.0 1.24.0: Python library and command-line utility for Shodan
+dev-python/shodan 1.25.0: Python library and command-line utility for Shodan
 dev-python/simplekv 0.14.0: A key-value storage for binary data, support many backends.
 dev-python/sniffio 1.1.0 1.2.0: Sniff out which async library your code is running under
 dev-python/soupsieve 1.9.3: A modern CSS selector implementation for BeautifulSoup
@@ -522,7 +523,7 @@ net-analyzer/masscan 1.0.5-r1 1.3.2: Mass IP port scanner
 net-analyzer/massdns 0.3 9999: A high-performance DNS stub resolver for bulk lookups and reconnaissance
 net-analyzer/medusa 2.3_pre: A modular, parallel, multiprotocol, network login auditor
 net-analyzer/metagoofil 2.2_p20201005: Information gathering tool designed for extracting metadata of public documents
-net-analyzer/metasploit 6.0.23 6.0.46 9999: Advanced framework for developing, testing, and using vulnerability exploit code
+net-analyzer/metasploit 6.0.46 9999: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/mosref 2.0_beta3: A secure remote execution framework using a compact Scheme-influenced VM
 net-analyzer/nbtool 20140416: Some tools for NetBIOS and DNS investigation, attacks, and communication
 net-analyzer/ncrack 0.7: Ncrack is a high-speed network authentication cracking tool

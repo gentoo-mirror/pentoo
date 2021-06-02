@@ -1,16 +1,16 @@
-BDEPEND=python_targets_python3_8? ( dev-lang/python:3.8 ) >=dev-lang/python-exec-2:=[python_targets_python3_8(-)?,-python_single_target_python3_8(-)] >=dev-python/setuptools-42.0.2[python_targets_python3_8(-)?,-python_single_target_python3_8(-)]
+BDEPEND=python_targets_python3_8? ( dev-lang/python:3.8 ) python_targets_python3_9? ( dev-lang/python:3.9 ) >=dev-lang/python-exec-2:=[python_targets_python3_8(-)?,python_targets_python3_9(-)?,-python_single_target_python3_8(-),-python_single_target_python3_9(-)] >=dev-python/setuptools-42.0.2[python_targets_python3_8(-)?,python_targets_python3_9(-)?,-python_single_target_python3_8(-),-python_single_target_python3_9(-)]
 DEFINED_PHASES=compile configure install prepare test
 DESCRIPTION=An automated wireless attack tool
 EAPI=7
 HOMEPAGE=https://github.com/derv82/wifite2
 INHERIT=distutils-r1
-IUSE=dict opencl extra python_targets_python3_8
+IUSE=dict opencl extra python_targets_python3_8 python_targets_python3_9
 KEYWORDS=amd64 x86
 LICENSE=GPL-2
-PDEPEND=net-wireless/aircrack-ng[python_targets_python3_8(-)?,-python_single_target_python3_8(-)] net-wireless/hcxdumptool net-wireless/hcxtools amd64? ( opencl? ( app-crypt/hashcat ) ) dict? ( sys-apps/cracklib-words ) extra? ( net-analyzer/wireshark net-wireless/reaver-wps-fork-t6x !net-wireless/reaver net-wireless/bully net-wireless/cowpatty net-analyzer/macchanger )
-RDEPEND=python_targets_python3_8? ( dev-lang/python:3.8 ) >=dev-lang/python-exec-2:=[python_targets_python3_8(-)?,-python_single_target_python3_8(-)]
-REQUIRED_USE=|| ( python_targets_python3_8 )
+PDEPEND=net-wireless/aircrack-ng[python_targets_python3_8(-)?,python_targets_python3_9(-)?,-python_single_target_python3_8(-),-python_single_target_python3_9(-)] net-wireless/hcxdumptool net-wireless/hcxtools amd64? ( opencl? ( app-crypt/hashcat ) ) dict? ( sys-apps/cracklib-words ) extra? ( net-analyzer/wireshark net-wireless/reaver-wps-fork-t6x !net-wireless/reaver net-wireless/bully net-wireless/cowpatty net-analyzer/macchanger )
+RDEPEND=python_targets_python3_8? ( dev-lang/python:3.8 ) python_targets_python3_9? ( dev-lang/python:3.9 ) >=dev-lang/python-exec-2:=[python_targets_python3_8(-)?,python_targets_python3_9(-)?,-python_single_target_python3_8(-),-python_single_target_python3_9(-)]
+REQUIRED_USE=|| ( python_targets_python3_8 python_targets_python3_9 )
 SLOT=2
 SRC_URI=https://github.com/kimocoder/wifite2/archive/2.5.8.tar.gz -> wifite2-2.5.8.tar.gz
 _eclasses_=multiprocessing	cac3169468f893670dac3e7cb940e045	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	multibuild	6b3d5ee849dafe6cdfd7b859c211fb01	python-utils-r1	6e84b7d3d8d0bb1ee12774f4a66909e2	python-r1	26e4ad0a4190b14f70973dc253e86535	distutils-r1	c21cf58c1e3c67e0ea53c96a7b37eddd
-_md5_=d9545f2da761027d953f46a77c2009fa
+_md5_=adcbb90d5607a3e1aa0d9c40d138cd53
