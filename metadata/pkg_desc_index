@@ -104,7 +104,7 @@ app-fuzz/spike 2.9-r1: A generic network fuzzer
 app-misc/cyberchef 9.18.0 9.20.3 9.21.0: A web app for encryption, encoding, compression and data analysis (offline)
 app-misc/dangerzone 0.1 0.1.1 0.1.2 0.1.2-r1: Take potentially dangerous PDFs or images and convert them to a safe PDF
 app-misc/freediag 1.08: Free diagnostic software for OBD-II compliant motor vehicles
-app-misc/gplaycli 3.26 3.27 3.29: Google Play Downloader via Command line
+app-misc/gplaycli 3.29: Google Play Downloader via Command line
 app-misc/mat2 0.11.0: A handy tool to trash your metadata
 app-pda/ideviceinstaller 1.1.0_p20181001 1.1.0_p20190928 1.1.1: A tool to interact with the installation_proxy of an Apple's iDevice
 app-pda/ifuse 1.1.4: Mount Apple iPhone/iPod Touch file systems for backup purposes
