@@ -765,7 +765,7 @@ sys-devel/gef 2021.01 2021.04 9999: A GDB Enhanced Features for exploit devs & r
 sys-devel/peda 1.1_p20190210 9999: Python Exploit Development Assistance for GDB
 sys-devel/pwndbg 20200723 99999999: A GDB plug-in that makes debugging with GDB suck less
 sys-fs/ext4-crypt 20170216 99999999: A userspace tool to create ext4 encrypted directories
-sys-fs/sasquatch 20160119 20180522: The sasquatch project is a set of patches to the standard unsquashfs utility
+sys-fs/sasquatch 20160119 20180522 20210325: The sasquatch project is a set of patches to the standard unsquashfs utility
 sys-fs/static-dev 0.1: A skeleton, statically managed /dev
 sys-fs/yaffshiv 20160105 99999999: YAFFS filesystem extraction tool
 sys-kernel/chromeos-sources 9999: Linux kernel source for the Samsung Chromebook
