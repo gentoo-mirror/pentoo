@@ -1,14 +1,15 @@
 DEFINED_PHASES=install postinst prepare unpack
-DEPEND=python_targets_python3_8? ( dev-lang/python:3.8 ) >=dev-lang/python-exec-2:=[python_targets_python3_8(-)?,-python_single_target_python3_8(-)] app-arch/unzip
+DEPEND=python_targets_python3_8? ( dev-lang/python:3.8 ) python_targets_python3_9? ( dev-lang/python:3.9 ) >=dev-lang/python-exec-2:=[python_targets_python3_8(-)?,python_targets_python3_9(-)?,-python_single_target_python3_8(-),-python_single_target_python3_9(-)] app-arch/unzip
 DESCRIPTION=This tool will parse a PDF document to identify the fundamental elements used
 EAPI=7
 HOMEPAGE=https://blog.didierstevens.com/programs/pdf-tools/
 INHERIT=python-r1 unpacker
-IUSE=unicode yara python_targets_python3_8
+IUSE=unicode yara python_targets_python3_8 python_targets_python3_9
 KEYWORDS=~amd64 ~arm ~x86
 LICENSE=public-domain
-RDEPEND=python_targets_python3_8? ( dev-lang/python:3.8 ) >=dev-lang/python-exec-2:=[python_targets_python3_8(-)?,-python_single_target_python3_8(-)] app-arch/unzip yara? ( dev-python/yara-python[python_targets_python3_8(-)?,-python_single_target_python3_8(-)] )
+RDEPEND=python_targets_python3_8? ( dev-lang/python:3.8 ) python_targets_python3_9? ( dev-lang/python:3.9 ) >=dev-lang/python-exec-2:=[python_targets_python3_8(-)?,python_targets_python3_9(-)?,-python_single_target_python3_8(-),-python_single_target_python3_9(-)] app-arch/unzip yara? ( dev-python/yara-python[python_targets_python3_8(-)?,python_targets_python3_9(-)?,-python_single_target_python3_8(-),-python_single_target_python3_9(-)] )
+REQUIRED_USE=|| ( python_targets_python3_8 python_targets_python3_9 )
 SLOT=0
 SRC_URI=https://www.didierstevens.com/files/software/pdf-parser_V0_7_4.zip
 _eclasses_=multibuild	6b3d5ee849dafe6cdfd7b859c211fb01	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	python-utils-r1	6e84b7d3d8d0bb1ee12774f4a66909e2	python-r1	26e4ad0a4190b14f70973dc253e86535	unpacker	517f16af48ee3ab88180dd58b5143213
-_md5_=cfb5d4b42c796cbab6a8046a23807dd6
+_md5_=dc5a77becbf5ec459f00e3d52fbe84c9
