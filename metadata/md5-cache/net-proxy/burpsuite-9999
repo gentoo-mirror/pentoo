@@ -3,10 +3,8 @@ DESCRIPTION=Interactive proxy for attacking and debugging web applications
 EAPI=7
 HOMEPAGE=https://portswigger.net/burp/
 INHERIT=desktop
-KEYWORDS=amd64 x86
 LICENSE=BURP
 RDEPEND=|| ( virtual/jre virtual/jdk )
 SLOT=0
-SRC_URI=https://portswigger.net/burp/releases/download?product=pro&version=2021.6&type=Jar -> burpsuite_pro_v2021.6.jar
 _eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28
-_md5_=cf627bae96110b3a62cb23772f1875af
+_md5_=05245497ad67c873f63d99fcd5332bc3
