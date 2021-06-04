@@ -6,5 +6,5 @@ HOMEPAGE=https://github.com/ZerBea/hcxkeys
 KEYWORDS=amd64 x86
 RDEPEND=dev-libs/openssl:* virtual/opencl
 SLOT=0
-SRC_URI=https://github.com/ZerBea/hcxkeys/archive/6.0.0.tar.gz -> hcxkeys-6.0.0.tar.gz
+SRC_URI=https://github.com/ZerBea/hcxkeys/archive/6.2.0.tar.gz -> hcxkeys-6.2.0.tar.gz
 _md5_=597f3b03b48bb929ad757b2998c8dbc6

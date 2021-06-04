@@ -4,9 +4,9 @@ DESCRIPTION=Small tool to capture packets from wlan devices
 EAPI=7
 HOMEPAGE=https://github.com/ZerBea/hcxdumptool
 IUSE=gpio
-KEYWORDS=~amd64 ~arm ~x86
+KEYWORDS=amd64 ~arm64 x86
 LICENSE=MIT
 RDEPEND=dev-libs/openssl:=
 SLOT=0
-SRC_URI=https://github.com/ZerBea/hcxdumptool/archive/6.1.1.tar.gz -> hcxdumptool-6.1.1.tar.gz
-_md5_=e345c3cc16a1d21ecfd2a41f664deaba
+SRC_URI=https://github.com/ZerBea/hcxdumptool/archive/6.2.0.tar.gz -> hcxdumptool-6.2.0.tar.gz
+_md5_=beb33fec1df1b6fb1b010ee6dee2ff74
