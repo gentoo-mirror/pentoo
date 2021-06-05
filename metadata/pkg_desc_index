@@ -245,7 +245,7 @@ dev-python/http-tools 2.1.0: Capture, repeat and live intercept HTTP requests
 dev-python/httpcore 0.12.2: A minimal low-level HTTP client.
 dev-python/httpx 0.16.1: The next generation HTTP client.
 dev-python/hupper 1.9.1: Integrated process monitor for developing and reloading daemons
-dev-python/impacket 0.9.22-r2 9999: A collection of Python classes focused on providing access to network packets
+dev-python/impacket 0.9.22-r2 0.9.22_p20210529 9999: A collection of Python classes focused on providing access to network packets
 dev-python/invoke 1.4.1 1.5.0: Pythonic task execution
 dev-python/isc_dhcp_leases 0.9.1: Small python module for reading /var/lib/dhcp/dhcpd.leases from isc-dhcp-server
 dev-python/javalang 0.12.0: A pure Python library for working with Java source code
