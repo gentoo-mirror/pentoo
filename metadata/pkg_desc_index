@@ -432,6 +432,7 @@ dev-qt/qtserialport 5.15.1 5.15.2: Serial port abstraction library for the Qt5 f
 dev-ruby/active_model_serializers 0.10.10 0.10.12: Generate JSON in an object-oriented and convention-driven manner
 dev-ruby/activerecord-session_store 2.0.0: An Action Dispatch session store backed by an Active Record class
 dev-ruby/bootstrap 4.6.0 5.0.1: Bootstrap rubygem for Rails / Sprockets / Hanami / etc
+dev-ruby/bundler 2.1.4-r1: An easy way to vendor gem dependencies
 dev-ruby/case_transform 0.2: Extraction of the key_transform abilities of ActiveModelSerializers
 dev-ruby/ckeditor 5.1.0: Ckeditor 4.x integration gem for rails
 dev-ruby/ckeditor_rails 4.10.0-r1 4.10.0_p20191030: CKEditor is a javascript library of the WYSIWYG rich-text editor
