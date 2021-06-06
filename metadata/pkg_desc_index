@@ -830,7 +830,7 @@ pentoo/pentoo-nfc 2020.2: Collection of NFC tools
 pentoo/pentoo-opencl 0-r1: Virtual for pulling in appropriate opencl stuffs
 pentoo/pentoo-proxies 2020.0: Pentoo proxy meta ebuild
 pentoo/pentoo-radio 2021.1: Radio tools for pentoo
-pentoo/pentoo-rce 2020.1: Pentoo RCE meta ebuild
+pentoo/pentoo-rce 2021.2: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2020.0: Pentoo scanner meta ebuild
 pentoo/pentoo-system 2021.0: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2021.0: Pentoo voip meta ebuild
