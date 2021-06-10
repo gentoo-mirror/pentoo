@@ -253,7 +253,7 @@ dev-python/django_compressor 2.4: Compresses linked and inline JavaScript or CSS
 dev-python/dnslib 0.9.12 0.9.16: Simple library to encode/decode DNS wire-format packets
 dev-python/dotty 1.5: EFILTER query language
 dev-python/dropbox-sdk 10.1.1: A Python SDK for integrating with the Dropbox API v2.
-dev-python/easygui 0.98.1: A module for very simple, very easy GUI programming in Python
+dev-python/easygui 0.98.1 0.98.2: A module for very simple, very easy GUI programming in Python
 dev-python/editorconfig 0.12.2: EditorConfig File Locator and Interpreter for Python
 dev-python/entropy 0.1.5: entropy is a command line friend that helps you reduce entropy in your life
 dev-python/exifread 2.2.0 2.3.1: Read Exif metadata from tiff and jpeg files
