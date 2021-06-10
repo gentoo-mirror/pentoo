@@ -1,14 +1,14 @@
 DEFINED_PHASES=compile configure install postinst prepare
-DEPEND=crackapd? ( python_targets_python3_8? ( dev-lang/python:3.8 ) >=dev-lang/python-exec-2:=[python_targets_python3_8(-)?,-python_single_target_python3_8(-)] app-crypt/asleap ) dev-libs/openssl:0=[-bindist] dev-libs/libnl:3 net-libs/libnfnetlink
+DEPEND=crackapd? ( python_targets_python3_8? ( dev-lang/python:3.8 ) python_targets_python3_9? ( dev-lang/python:3.9 ) >=dev-lang/python-exec-2:=[python_targets_python3_8(-)?,python_targets_python3_9(-)?,-python_single_target_python3_8(-),-python_single_target_python3_9(-)] app-crypt/asleap ) dev-libs/openssl:0=[-bindist] dev-libs/libnl:3 net-libs/libnfnetlink
 DESCRIPTION=SensePost's modified hostapd for wifi attacks
 EAPI=7
 HOMEPAGE=https://w1f1.net https://github.com/sensepost/hostapd-mana
 INHERIT=python-r1 toolchain-funcs savedconfig
-IUSE=+crackapd python_targets_python3_8 savedconfig
+IUSE=+crackapd python_targets_python3_8 python_targets_python3_9 savedconfig
 KEYWORDS=~amd64 ~x86
 LICENSE=BSD
-RDEPEND=crackapd? ( python_targets_python3_8? ( dev-lang/python:3.8 ) >=dev-lang/python-exec-2:=[python_targets_python3_8(-)?,-python_single_target_python3_8(-)] app-crypt/asleap ) dev-libs/openssl:0=[-bindist] dev-libs/libnl:3 net-libs/libnfnetlink
+RDEPEND=crackapd? ( python_targets_python3_8? ( dev-lang/python:3.8 ) python_targets_python3_9? ( dev-lang/python:3.9 ) >=dev-lang/python-exec-2:=[python_targets_python3_8(-)?,python_targets_python3_9(-)?,-python_single_target_python3_8(-),-python_single_target_python3_9(-)] app-crypt/asleap ) dev-libs/openssl:0=[-bindist] dev-libs/libnl:3 net-libs/libnfnetlink
 SLOT=0
 SRC_URI=https://github.com/sensepost/hostapd-mana/archive/2.6.5.tar.gz -> hostapd-mana-2.6.5.tar.gz
 _eclasses_=multibuild	6b3d5ee849dafe6cdfd7b859c211fb01	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	ebdbaed22e873a5abe6205f41349b479	python-utils-r1	6e84b7d3d8d0bb1ee12774f4a66909e2	python-r1	26e4ad0a4190b14f70973dc253e86535	portability	c10bdc40668533b1faf15b1d89df0303	savedconfig	0bc45cb0429003c9abc73bae24a0d5bd
-_md5_=92a2721505ffb248f64611c65ef683fe
+_md5_=9d0e1546877d223e058ad0d691a8f88e
