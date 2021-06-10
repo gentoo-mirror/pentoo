@@ -370,7 +370,7 @@ dev-python/python-libnmap 0.7.0: A python library enabling python developers to 
 dev-python/python-nmap 0.6.1 0.6.4: a python library which helps in using nmap port scanner
 dev-python/python-oauth2 1.1.1: OAuth 2.0 provider for python
 dev-python/python-pptx 0.6.18: Create Open XML PowerPoint documents in Python
-dev-python/python-ptrace 0.9.4: A Python binding of ptrace library
+dev-python/python-ptrace 0.9.8: A Python binding of ptrace library
 dev-python/python-secure 0.2.1: Secure headers and cookies for Python web frameworks
 dev-python/python-socketio 5.1.0: Python implementation of the Socket.IO realtime server.
 dev-python/python-whois 0.7.2: Whois querying and parsing of domain registration information
