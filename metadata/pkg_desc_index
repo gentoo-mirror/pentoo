@@ -72,7 +72,7 @@ app-forensics/kjackal 99999999: Linux Rootkit Scanner
 app-forensics/lazagne 2.4.3-r1 9999: Credentials recovery project
 app-forensics/libbfio 20191230 20201229: Library for providing a basic file input/output abstraction layer
 app-forensics/libforensic1394 0.2-r1 9999: Library for carrying out memory forensics using firewire/ieee1394
-app-forensics/libvshadow 20191221 20201222: Library and tools to support the Volume Shadow Snapshot (VSS) format.
+app-forensics/libvshadow 20191221 20201222 20210425: Library and tools to support the Volume Shadow Snapshot (VSS) format.
 app-forensics/make-pdf 0.1.7-r1: This tool will embed javascript inside a PDF document
 app-forensics/maltego 4.2.6.12502 4.2.12.13389 4.2.18.13878: Visualise, map and mine data
 app-forensics/mxtract 1.1: A memory extractor & analyzer
@@ -160,7 +160,7 @@ dev-libs/libcdata 20190112 20200509: Library for cross-platform C generic data f
 dev-libs/libcdatetime 20181004 20200510: Library for cross-platform C date and time functions
 dev-libs/libcerror 20181117 20191112 20200615 20201121: Library for cross-platform C error functions
 dev-libs/libcfile 20200216 20201229: Library for cross-platform C file functions
-dev-libs/libclocale 20200428 20200913: Library for cross-platform C locale functions
+dev-libs/libclocale 20200428 20200913 20210526: Library for cross-platform C locale functions
 dev-libs/libcnotify 20191109 20200627 20200913: Library for cross-platform C notification functions
 dev-libs/libcpath 20171210 20180720 20181228 20200623: Library for cross-platform C path functions
 dev-libs/libcsplit 20190102 20200703: Library for cross-platform C split string functions
@@ -174,7 +174,7 @@ dev-libs/libfdatetime 20180910: Library for date and time formats
 dev-libs/libfguid 20180219 20180724: Library for GUID/UUID format
 dev-libs/libfmapi 20170112 20180714: Library for MAPI data types
 dev-libs/libfvalue 20200711 20200902: Library for generic file value functions
-dev-libs/libfwnt 20200723: Library for Windows NT data types
+dev-libs/libfwnt 20200723 20210421: Library for Windows NT data types
 dev-libs/libguytools2 2.1.0: Library for guymager
 dev-libs/libuna 20190102 20200711 20201204: Library to support Unicode and ASCII (byte string) conversions
 dev-libs/libvhdi 20191221 20201204: Library and tools to access the Virtual Hard Disk (VHD) image format
