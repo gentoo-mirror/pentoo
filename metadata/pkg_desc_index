@@ -356,7 +356,6 @@ dev-python/pylzma 0.5.0: Platform independent python bindings for the LZMA compr
 dev-python/pyminifier 2.1 2.1_p20150625: Pyminifier is a Python code minifier, obfuscator, and compressor.
 dev-python/pymisp 2.4.124: A python library for using the MISP Rest API
 dev-python/pymodbus 2.1.0: A fully featured modbus protocol stack in python
-dev-python/pypax 0.9.5: Python module to get or set either PT_PAX and/or XATTR_PAX flags
 dev-python/pypcapfile 0.12.0: Pure Python package for reading and parsing libpcap savefiles
 dev-python/pyppeteer 0.0.25 0.2.5: Headless chrome/chromium automation library
 dev-python/pypsrp 0.5.0: PowerShell Remoting Protocol and WinRM for Python

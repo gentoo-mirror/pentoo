@@ -111,8 +111,6 @@ dev-python/django-constance-haiwen:database - Add django-picklefield support
 dev-python/django-constance-haiwen:redis - Add django-redis support
 dev-python/pyinstaller:clang - Support for sys-devel/clang
 dev-python/pyinstaller:leak-detector - Support for link with Boehm garbage collector to detect memory leaks
-dev-python/pypax:ptpax - Enable PT_PAX_FLAGS support.
-dev-python/pypax:xtpax - Enable XATTR_PAX_FLAGS support.
 dev-python/pypsrp:credssp - Add CredSSP support
 dev-python/social-auth-core:saml - Use SAML
 dev-python/stegoveritas-binwalk:graph - Enable support for generating entropy graphs
