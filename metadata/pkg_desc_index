@@ -183,7 +183,7 @@ dev-libs/openssl-bad 1.0.2_p20180915 1.0.2_p20190119: Snapshot for testssl.sh >2
 dev-libs/qbdi 0.7.1: A Dynamic Binary Instrumentation framework based on LLVM
 dev-libs/redasm-database 20190317 20210109: Database files (signatures) for REDasm
 dev-libs/serialDV 1.1.4: C++ library to encode/decode audio with AMBE3000
-dev-libs/unicorn-bindings 1.0.2_rc2 1.0.2: Unicorn bindings
+dev-libs/unicorn-bindings 1.0.3: Unicorn bindings
 dev-perl/Encoding-BER 1.02: Perl module for encoding/decoding data using ASN.1 Basic Encoding Rules (BER)
 dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
 dev-perl/Net-Address-IP-Local 0.1.2: A class for discovering the local system's IP address

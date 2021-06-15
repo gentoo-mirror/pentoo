@@ -1,16 +1,15 @@
 BDEPEND=python_targets_python3_8? ( dev-lang/python:3.8 ) python_targets_python3_9? ( dev-lang/python:3.9 ) >=dev-lang/python-exec-2:=[python_targets_python3_8(-)?,python_targets_python3_9(-)?,-python_single_target_python3_8(-),-python_single_target_python3_9(-)] >=dev-python/setuptools-42.0.2[python_targets_python3_8(-)?,python_targets_python3_9(-)?,-python_single_target_python3_8(-),-python_single_target_python3_9(-)]
 DEFINED_PHASES=compile configure install prepare setup test
-DEPEND=~dev-util/unicorn-1.0.2_rc2 virtual/pkgconfig python? ( dev-python/setuptools[python_targets_python3_8(-)?,python_targets_python3_9(-)?,-python_single_target_python3_8(-),-python_single_target_python3_9(-)] )
+DEPEND=~dev-util/unicorn-1.0.3 virtual/pkgconfig python? ( dev-python/setuptools[python_targets_python3_8(-)?,python_targets_python3_9(-)?,-python_single_target_python3_8(-),-python_single_target_python3_9(-)] )
 DESCRIPTION=Unicorn bindings
 EAPI=7
 HOMEPAGE=http://www.unicorn-engine.org
 INHERIT=multilib distutils-r1
 IUSE=python python_targets_python3_8 python_targets_python3_9
-KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
-RDEPEND=~dev-util/unicorn-1.0.2_rc2 python_targets_python3_8? ( dev-lang/python:3.8 ) python_targets_python3_9? ( dev-lang/python:3.9 ) >=dev-lang/python-exec-2:=[python_targets_python3_8(-)?,python_targets_python3_9(-)?,-python_single_target_python3_8(-),-python_single_target_python3_9(-)]
+RDEPEND=~dev-util/unicorn-1.0.3 python_targets_python3_8? ( dev-lang/python:3.8 ) python_targets_python3_9? ( dev-lang/python:3.9 ) >=dev-lang/python-exec-2:=[python_targets_python3_8(-)?,python_targets_python3_9(-)?,-python_single_target_python3_8(-),-python_single_target_python3_9(-)]
 REQUIRED_USE=|| ( python_targets_python3_8 python_targets_python3_9 )
 SLOT=0
-SRC_URI=https://github.com/unicorn-engine/unicorn/archive/1.0.2-rc2.tar.gz -> unicorn-1.0.2_rc2.tar.gz
+SRC_URI=https://github.com/unicorn-engine/unicorn/archive/.tar.gz -> unicorn-1.0.3.tar.gz
 _eclasses_=multilib	ebdbaed22e873a5abe6205f41349b479	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multiprocessing	cac3169468f893670dac3e7cb940e045	multibuild	6b3d5ee849dafe6cdfd7b859c211fb01	python-utils-r1	6e84b7d3d8d0bb1ee12774f4a66909e2	python-r1	26e4ad0a4190b14f70973dc253e86535	distutils-r1	c21cf58c1e3c67e0ea53c96a7b37eddd
-_md5_=5c16737ed111e8e6d6121b490fdfdec8
+_md5_=9f4b278cf235d63f967d7095e0618b72
