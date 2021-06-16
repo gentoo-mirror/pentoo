@@ -9,4 +9,4 @@ RDEPEND=|| ( virtual/jre virtual/jdk )
 SLOT=0
 SRC_URI=https://portswigger.net/burp/releases/download?product=community&version=2021.6.1 -> burpsuite_community_v2021.6.1.jar
 _eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28
-_md5_=5568e2c3f1242e0d298a9bb6e6ba37bf
+_md5_=086dd71c6e189e18803f5905d9f0f441
