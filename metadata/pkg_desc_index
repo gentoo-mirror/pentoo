@@ -111,7 +111,6 @@ app-fuzz/protos-bin 1.1-r1: The PROTOS fuzzing collection
 app-fuzz/slowhttptest 1.7_p20170811 1.8.1 1.8.2: Application Layer DoS attack simulator
 app-fuzz/smtp-fuzz 0.1: A smtp fuzzer
 app-fuzz/snmp-fuzzer 0.1.1-r1: A very complete snmp fuzzer
-app-fuzz/spike 2.9-r1: A generic network fuzzer
 app-misc/cyberchef 9.18.0 9.20.3 9.21.0: A web app for encryption, encoding, compression and data analysis (offline)
 app-misc/dangerzone 0.1 0.1.1 0.1.2 0.1.2-r1: Take potentially dangerous PDFs or images and convert them to a safe PDF
 app-misc/freediag 1.08: Free diagnostic software for OBD-II compliant motor vehicles
@@ -124,7 +123,6 @@ app-shells/pwsh-bin 7.1.2 7.1.3: PowerShell - binary precompiled for glibc
 app-text/cewl 5.4.9 5.5.1 9999: A custom word list generator
 app-text/endesive 2.0.2: 
 app-text/unfurl 0.2.0: Pull out bits of URLs provided on stdin
-dev-db/mssqlscan 0.8.4: A small multi-threaded tool that scans for Microsoft SQL Servers
 dev-db/neo4j-community 4.2.2: High-performance, mature and robust NOSQL graph database
 dev-db/oat 1.3.1: a toolkit that could be used to audit security within Oracle database servers
 dev-db/sqlbf 1.0.1-r1: SQLBF is a tool to audit mssql passwords strength offline
@@ -571,8 +569,6 @@ net-analyzer/cameradar 5.0.0 5.0.1: Cameradar hacks its way into RTSP videosurve
 net-analyzer/capanalysis 1.2.3: A web visual tool for information security specialists
 net-analyzer/cipherscan 20190726 20200312: A very simple way to find out which SSL ciphersuites are supported by a target
 net-analyzer/cisco-auditing-tool 1: Perl script which scans cisco routers for common vulnerabilities.
-net-analyzer/cisco-bruteforce-enabler 1: cisco internal bruteforcer
-net-analyzer/cisco-scanner 1.3: scan a network for cisco routers with default passwords
 net-analyzer/cisco-torch 0.4b: Cisco mass scanning, fingerprinting, and exploitation tool
 net-analyzer/commix 3.1 3.2: Automated All-in-One OS command injection and exploitation tool
 net-analyzer/cottontail 20190426-r1: Capture all RabbitMQ messages being sent through a broker
@@ -685,15 +681,11 @@ net-misc/goaltdns 20190330: A permutation generation tool written in golang
 net-misc/gowitness 1.3.1 1.3.2 1.3.3 1.3.4: A web screenshot utility using Chrome Headless
 net-misc/hackertarget 1.2.3 9999: A security toolkit for organizations with attack surface discovery
 net-misc/httprobe 0.1.1 0.1.2: Take a list of domains and probe for working HTTP and HTTPS servers
-net-misc/iaxclient 2.1_beta3-r1 2.1_beta3-r2 2.1_beta3-r3 2.1_beta3-r4 2.1_beta3-r5: Multiplatform IAX library for creating telephony solutions that interoperate with Asterisk
-net-misc/juniper-vpn 5.3: Juniper Networks SSL VPN
-net-misc/karma 20060124: MITM framework for wifi
 net-misc/linkfinder 20191124: A python script that finds endpoints in JavaScript files
 net-misc/meg 0.2.4: Fetch many paths for many hosts - without killing the hosts
 net-misc/munin 0.14.1-r1 9999: Online hash checker for Virustotal and other services
 net-misc/photon 1.3.0 9999: Incredibly fast crawler designed for OSINT
 net-misc/pwnedornot 1.2.8_p20200602: OSINT Tool for Finding Passwords of Compromised Email Addresses Topics
-net-misc/rdesktop-brute 1.5.0: A Remote Desktop Protocol Client
 net-misc/sherlock 0.10.4 0.10.5 0.10.9 0.11.1 0.12.9 9999: Find usernames across social networks
 net-misc/sippts 2.0.4: set of tools to audit VoIP servers and devices using SIP protocol
 net-misc/t50 5.8.5 5.8.7: Mixed Packet Injector & Network Stress Testing Tool
@@ -723,16 +715,13 @@ net-wireless/berate_ap 20190918 99999999: Script for orchestrating mana rogue Wi
 net-wireless/bladerf_adsb 9999: bladeRF ADS-B hardware decoder
 net-wireless/blue_hydra 1.9.15-r2 9999: bluetooth discovery service built on top of bluez
 net-wireless/blue_sonar 0.3 9999: A simple wrapper for l2ping which shows rssi
-net-wireless/bluemaho 090417-r2: BlueMaho is GUI-shell (interface) for suite of tools for testing security of bluetooth devices
 net-wireless/broadcom-firmware-downloader 0.1-r2 0.2: Closed Broadcom Commercial Firmware Downloader
 net-wireless/broadcom-firmware-installer 0.1-r3 0.2: Closed Broadcom Commercial Firmware Installer
-net-wireless/bt-audit 0.1.1-r1: A small bluetooth audit suite
 net-wireless/btle-sniffer 0.2 0.2_p20200129: Bluetooth radio packet sniffer/scanner and sender
 net-wireless/btscanner 2.1-r5: A utility for bluetooth scanning and discovery
 net-wireless/bully 1.1_p20170926 1.4: A wifi-protected-setup (WPS) brute force attack tool, similar to reaver
 net-wireless/chirp 20200213 20201221: Free open-source tool for programming your amateur radio
 net-wireless/cowpatty 4.8-r1: WLAN tools for bruteforcing 802.11 WPA/WPA2 keys
-net-wireless/crda 1.1.0-r1 1.1.1: Central Regulatory Domain Agent for wireless networks.
 net-wireless/create_ap 0.4.6: A script to create a NATed or bridged WiFi access point
 net-wireless/dsd 1.7.0_pre20180701 9999: Digital Speech Decoder
 net-wireless/dsdcc 1.9.0 1.9.3 9999: Digital Speech Decoder rewritten as a C++ library
@@ -767,16 +756,11 @@ net-wireless/hcxkeys 6.0.0 6.2.0: Generate plainmasterkeys (rainbowtables) and h
 net-wireless/hcxtools 6.1.3 6.2.0: Portable solution for capturing wlan traffic and conversion to hashcat formats
 net-wireless/hostapd 2.6-r6 2.7-r2 2.8 2.9-r3: IEEE 802.11 wireless LAN Host AP daemon
 net-wireless/hostapd-mana 2.6.5 9999: SensePost's modified hostapd for wifi attacks
-net-wireless/intel-wimax-binary-supplicant 1.4.0: Authentication information for WiMax Networks
-net-wireless/intel-wimax-network-service 1.4.0 1.4.0-r1: Intel WiMAX daemon used to interface to the hardware
-net-wireless/intel-wimax-tools 1.4.2 1.4.2.1: Tools to use Intel's WiMax cards
-net-wireless/ipw2200 1.2.0: Driver for the Intel 2200BG/2915ABG miniPCI/PCI adapters patched with modified inject patches
 net-wireless/kalibrate-hackrf 9999: A tool to scan GSM base stations and calculate the local oscillator frequency offset
 net-wireless/karmetasploit 0.1-r3: KARMA + Metasploit 3 == Karmetasploit
 net-wireless/killerbee 2.7.1_p20200309: Framework and Tools for Attacking ZigBee and IEEE 802.15.4 networks
 net-wireless/kismet_shootout 0.0_p20190717 9999: Kismet WiFi data source shootout
 net-wireless/libfreefare 0.4.0: a library for high level manipulation of MIFARE tags
-net-wireless/linux-wlan-ng-modules 0.2.5: Kernel modules for Prism2/2.5/3 based 802.11b USB wireless LAN products
 net-wireless/md380tools 9999: Python tools and patched firmware for the TYT-MD380
 net-wireless/mjackit 20190606-r1: Demo tool for Logitech Unifying vulnerabilities
 net-wireless/mmdvmhost 9999: The host program for MMDVM
@@ -807,7 +791,6 @@ net-wireless/trunk-recorder 9999: Records calls from a Trunked Radio System (P25
 net-wireless/virtualradar-bin 2.4.3: Open-source .NET application for ads-b mapping
 net-wireless/wifipumpkin3 1.0.8_p1 1.0.8_p2: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifite 2.5.5 2.5.8: An automated wireless attack tool
-net-wireless/wireless-regdb 20090130-r1 20090309 20090817 20091125 20091125-r1: Binary regulatory database for CRDA
 net-wireless/wpa_sycophant 1.0 9999: Evil client portion of EAP relay attack
 pentoo/pentoo 2015.1: Pentoo meta ebuild to install all apps
 pentoo/pentoo-analyzer 2020.3: Pentoo analyzers meta ebuild

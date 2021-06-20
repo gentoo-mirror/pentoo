@@ -12,5 +12,5 @@ RDEPEND=acct-group/vuls acct-user/vuls app-admin/vuls
 RESTRICT=mirror
 SLOT=0
 SRC_URI=https://github.com/usiusi360/vulsrepo/archive/310e6fef185581ac1f75dfe55b84fd378b7437b7.tar.gz -> vulsrepo-20190412.tar.gz https://github.com/BurntSushi/toml/archive/v0.3.0.tar.gz -> github.com-BurntSushi-toml-v0.3.0.tar.gz https://github.com/abbot/go-http-auth/archive/v0.4.0.tar.gz -> github.com-abbot-go-http-auth-v0.4.0.tar.gz https://github.com/golang/crypto/archive/20be4c3c3ed5.tar.gz -> github.com-golang-crypto-20be4c3c3ed5.tar.gz https://github.com/golang/net/archive/1617124.tar.gz -> github.com-golang-net-1617124.tar.gz
-_eclasses_=golang-base	b8fb27dacacea08140c53857f439fc7d	golang-vcs-snapshot	ff485cabd3f37b060f110b0be95092ec	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	ebdbaed22e873a5abe6205f41349b479	systemd	fdf0d765c3f11f91fe54f8def9a8c0e6
+_eclasses_=golang-base	b8fb27dacacea08140c53857f439fc7d	golang-vcs-snapshot	ff485cabd3f37b060f110b0be95092ec	toolchain-funcs	2545dc6f0aaecb2dea61424911e82674	multilib	ba7da83f763a749a2870c28785c6dc0b	systemd	fdf0d765c3f11f91fe54f8def9a8c0e6
 _md5_=e2d3924bd0494fba1e469d2ef7e9144e
