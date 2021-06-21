@@ -8,5 +8,5 @@ LICENSE=GPL-3
 RDEPEND=app-dicts/seclists app-misc/jq app-shells/bash app-text/unfurl net-analyzer/aquatone net-analyzer/dirsearch net-analyzer/massdns net-analyzer/nmap net-analyzer/sublist3r net-dns/bind-tools net-misc/httprobe net-misc/waybackurls sys-apps/coreutils sys-apps/findutils sys-apps/grep sys-apps/sed sys-libs/ncurses virtual/awk www-client/chromium
 SLOT=0
 SRC_URI=https://gitlab.com/0bs1d1an/bbrecon/repository/20347e8be4b9bee9a852a9adcd256d67022a8b4b/archive.tar.bz2 -> bbrecon-20200228.tar.bz2
-_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	l10n	3c7381c56a184f0dd5ba3fb824808f30	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	f93c6ebbcd4a4e3e3f2328a13511b73a
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	l10n	3c7381c56a184f0dd5ba3fb824808f30	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	45faf8ab7d5fe72e58a634092cd1f283
 _md5_=c9148afe9e1114ea397012e6e5261b0f

@@ -9,5 +9,5 @@ LICENSE=GPL-3+
 PDEPEND=>=app-shells/bash-4.2 virtual/awk net-wireless/aircrack-ng x11-terms/xterm sys-apps/iproute2 sys-apps/pciutils sys-process/procps net-analyzer/ettercap net-analyzer/bettercap net-analyzer/wireshark[tshark] app-misc/crunch net-wireless/hcxdumptool net-wireless/hcxtools net-wireless/mdk net-misc/dhcp net-dns/dnsmasq opencl? ( app-crypt/hashcat ) net-wireless/hostapd[wpe(+)] net-wireless/reaver-wps-fork-t6x net-wireless/bully net-wireless/pixiewps || ( net-firewall/nftables net-firewall/iptables ) app-crypt/asleap dev-libs/openssl x11-apps/xdpyinfo sys-apps/ethtool sys-apps/usbutils sys-apps/util-linux net-misc/wget app-admin/ccze x11-apps/xset
 SLOT=0
 SRC_URI=https://github.com/v1s1t0r1sh3r3/airgeddon/archive/v10.41.tar.gz -> airgeddon-10.41.tar.gz
-_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	l10n	3c7381c56a184f0dd5ba3fb824808f30	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	f93c6ebbcd4a4e3e3f2328a13511b73a
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	l10n	3c7381c56a184f0dd5ba3fb824808f30	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	45faf8ab7d5fe72e58a634092cd1f283
 _md5_=83890b1d1af55363b9e195ebfc67ab59
