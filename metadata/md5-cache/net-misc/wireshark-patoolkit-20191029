@@ -9,5 +9,5 @@ LICENSE=GPL-2
 RDEPEND=>=net-analyzer/wireshark-2.6:=
 SLOT=0
 SRC_URI=https://github.com/pentesteracademy/patoolkit/archive/1e604b9799f19cc072841296ae31d014913492d3.tar.gz -> wireshark-patoolkit-20191029.tar.gz
-_eclasses_=multilib	ba7da83f763a749a2870c28785c6dc0b	toolchain-funcs	2545dc6f0aaecb2dea61424911e82674
+_eclasses_=multilib	6f710a580aea2e8c7f5be70f8912ad43	toolchain-funcs	7a9551c9a6680454019664620505375a
 _md5_=68bcfb48032c67bdc36b407be8f82aa8
