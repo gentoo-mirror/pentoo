@@ -16,7 +16,7 @@ app-antivirus/tyton 1.2_p20200604 9999: Kernel-Mode Rootkit Hunter
 app-antivirus/veil 3.1.14-r1: A tool for payloads generation that bypass common anti-virus solutions
 app-crypt/SIPcrack 0.4-r1: SIPcrack is a SIP protocol login cracker
 app-crypt/acsccid 1.1.7 1.1.8: Generic driver for ACS (CCID and non-CCID) Smart Card Reader
-app-crypt/asleap 2.2_p20160730-r1 2.2_p20201128: Cisco LEAP and Generic MS-CHAPv2 Dictionary Attack
+app-crypt/asleap 2.2_p20201128: Cisco LEAP and Generic MS-CHAPv2 Dictionary Attack
 app-crypt/bruteforce-luks 1.3.1 1.3.2 1.4.0 9999: A bruteforce cracker for LUKS encrypted volumes
 app-crypt/bruteforce-salted-openssl 1.4.2: A bruteforce cracker for openssl encrypted files
 app-crypt/bruteforce-wallet 1.5.2 1.5.3: Crypto-currency wallet password recovery tool
@@ -861,7 +861,6 @@ sys-kernel/odroidxu-sources 9999: Linux kernel source for the ODROIDXU products
 sys-kernel/pentoo-sources 5.10.26 5.11.16 5.12.9: Pentoo kernel sources (kernel series 5.12)
 sys-kernel/pf_ring-kmod 7.0.0 7.8.0_p20210421: High-speed packet processing framework (kernel modules for)
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
-sys-libs/libxcrypt 2.4: A replacement for libcrypt with DES, MD5 and blowfish support
 sys-power/acpid 2.0.32-r1: Daemon for Advanced Configuration and Power Interface
 virtual/linux-sources 3-r104: Virtual for Linux kernel sources
 www-apps/BloodHound 3.0.5 4.0.1 4.0.2: Six Degrees of Domain Admin
