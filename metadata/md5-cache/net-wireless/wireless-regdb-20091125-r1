@@ -1,0 +1,10 @@
+DEFINED_PHASES=compile install prepare unpack
+DEPEND=dev-libs/openssl dev-python/m2crypto
+DESCRIPTION=Binary regulatory database for CRDA
+EAPI=7
+HOMEPAGE=http://wireless.kernel.org/en/developers/Regulatory
+KEYWORDS=amd64 ~ppc ~ppc64 x86
+LICENSE=as-is
+SLOT=0
+SRC_URI=https://git.kernel.org/pub/scm/linux/kernel/git/sforshee/wireless-regdb.git/snapshot/wireless-regdb-master-2009-11-25.tar.gz
+_md5_=acd87ecf252daa6537a8d178e4ec555c
