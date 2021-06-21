@@ -1,12 +1,13 @@
 DEFINED_PHASES=compile install prepare
-DEPEND=dev-libs/openssl net-libs/libpcap =sys-libs/libxcrypt-2.4*
+DEPEND=dev-libs/openssl net-libs/libpcap
 DESCRIPTION=Cisco LEAP and Generic MS-CHAPv2 Dictionary Attack
 EAPI=7
 HOMEPAGE=https://github.com/joswr1ght/asleap
 INHERIT=flag-o-matic toolchain-funcs
+KEYWORDS=amd64 x86
 LICENSE=GPL-2
-RDEPEND=dev-libs/openssl net-libs/libpcap =sys-libs/libxcrypt-2.4*
+RDEPEND=dev-libs/openssl net-libs/libpcap
 SLOT=0
 SRC_URI=https://github.com/joswr1ght/asleap/archive/254acabba34cb44608c9d2dcf7a147553d3d5ba3.tar.gz -> asleap-2.2_p20201128.tar.gz
 _eclasses_=toolchain-funcs	e867df3870e8ff04a5b94f925be8b06a	multilib	f8d35c2432bb32c4f1e779c4287b31ec	edos2unix	33e347e171066657f91f8b0c72ec8773	l10n	3c7381c56a184f0dd5ba3fb824808f30	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	9a53f21c753d823ba20a22f857c25cb4	flag-o-matic	bc2e7662a4a9a8643be851982a837ddc
-_md5_=9c92be5f9d76183b4c8fe79a117ad5b8
+_md5_=17ad538030dddf517b361ae73644d609
