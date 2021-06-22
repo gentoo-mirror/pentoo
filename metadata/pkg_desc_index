@@ -854,7 +854,7 @@ sys-kernel/chromeos-sources 9999: Linux kernel source for the Samsung Chromebook
 sys-kernel/compat-drivers 5.10.34: Stable kernel pre-release wifi subsystem backport
 sys-kernel/fragattacks-drivers58 20210507: 
 sys-kernel/ft60x_driver 20180209 20190318: USB FT60x driver
-sys-kernel/kconfig-hardened-check 0.5.5 0.5.7 0.5.9 9999: A script for checking the hardening options in the Linux kernel config
+sys-kernel/kconfig-hardened-check 0.5.9 0.5.10 9999: A script for checking the hardening options in the Linux kernel config
 sys-kernel/minipli-sources 4.9.74: Unofficial forward ports of the last publicly available grsecurity patch
 sys-kernel/odroid-sources 9999: Linux kernel source for the ODROID-[UX]2 products
 sys-kernel/odroidxu-sources 9999: Linux kernel source for the ODROIDXU products
