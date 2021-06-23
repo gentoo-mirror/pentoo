@@ -11,5 +11,5 @@ RDEPEND=>=sys-devel/gcc-4.5 !build? ( dev-lang/perl sys-devel/bc sys-devel/bison
 RESTRICT=binchecks strip
 SLOT=4.9.74
 SRC_URI=https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.9.tar.xz https://github.com/minipli/linux-unofficial_grsec/releases/download/v4.9.74-unofficial_grsec/v4.9.74-unofficial_grsec-20180103130648.diff https://dev.gentoo.org/~mpagano/genpatches/tarballs/genpatches-4.9-76.base.tar.xz
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	toolchain-funcs	e867df3870e8ff04a5b94f925be8b06a	multilib	f8d35c2432bb32c4f1e779c4287b31ec	eapi7-ver	f9ec87e93172b25ce65a85303dc06964	kernel-2	66af59cfd68077668c584c41aea800ef
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	eapi7-ver	f9ec87e93172b25ce65a85303dc06964	kernel-2	66af59cfd68077668c584c41aea800ef
 _md5_=cfa0dc70f998f1e791d4ae097dabbf20

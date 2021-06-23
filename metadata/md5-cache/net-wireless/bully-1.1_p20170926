@@ -8,5 +8,5 @@ KEYWORDS=amd64 arm x86
 LICENSE=GPL-3+ GPL-2 BSD
 PROPERTIES=live
 SLOT=0
-_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
+_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
 _md5_=4aa78e1b066adfe9305b204b91381c9c
