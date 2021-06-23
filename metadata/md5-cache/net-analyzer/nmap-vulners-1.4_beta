@@ -7,4 +7,4 @@ LICENSE=GPL-3
 RDEPEND=net-analyzer/nmap[nse]
 SLOT=0
 SRC_URI=https://github.com/vulnersCom/nmap-vulners/archive/v1.4-beta.tar.gz -> nmap-vulners-1.4_beta.tar.gz
-_md5_=aae64babb1901207beafb251e8521104
+_md5_=67592938ad511626dab80b369fc76086
