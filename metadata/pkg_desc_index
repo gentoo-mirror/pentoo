@@ -629,7 +629,6 @@ net-analyzer/ruler 2.2.0: A tool to abuse Exchange services
 net-analyzer/rustscan 1.2.2 9999: Faster Nmap Scanning with Rust
 net-analyzer/s3scanner 1.0.0_p20190928: Scan for open AWS S3 buckets and dump the contents
 net-analyzer/scamper 20191102b: Actively probes the Internet in order to analyze topology and performance
-net-analyzer/scapy 2.4.4_p20210227 2.4.5: A Python interactive packet manipulation program for mastering the network
 net-analyzer/serialusb 0.7: A cheap USB proxy for input devices
 net-analyzer/sessionlist 1.0-r1: A HTTP packets sniffer
 net-analyzer/set 8.0.3: A social engineering framework
@@ -759,7 +758,7 @@ net-wireless/hostapd 2.6-r6 2.7-r2 2.8 2.9-r3: IEEE 802.11 wireless LAN Host AP 
 net-wireless/hostapd-mana 2.6.5 9999: SensePost's modified hostapd for wifi attacks
 net-wireless/kalibrate-hackrf 9999: A tool to scan GSM base stations and calculate the local oscillator frequency offset
 net-wireless/karmetasploit 0.1-r3: KARMA + Metasploit 3 == Karmetasploit
-net-wireless/killerbee 2.7.1_p20200309: Framework and Tools for Attacking ZigBee and IEEE 802.15.4 networks
+net-wireless/killerbee 2.7.1_p20200309 3.0.0_beta1: Framework and Tools for Attacking ZigBee and IEEE 802.15.4 networks
 net-wireless/kismet_shootout 0.0_p20190717 9999: Kismet WiFi data source shootout
 net-wireless/libfreefare 0.4.0: a library for high level manipulation of MIFARE tags
 net-wireless/md380tools 9999: Python tools and patched firmware for the TYT-MD380
