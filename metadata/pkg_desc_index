@@ -265,7 +265,7 @@ dev-python/filedepot 0.7.1: Toolkit for storing files and attachments in web app
 dev-python/filteralchemy-fork 0.1.0: Declarative query builder for SQLAlchemy
 dev-python/flasgger 0.9.5: Easy OpenAPI specs and Swagger UI for your Flask API
 dev-python/flask-bootstrap 3.3.7.1: Simple integration of Flask and WTForms
-dev-python/flask-caching 1.8.0: Continuation of the Flask-Cache Extension
+dev-python/flask-caching 1.10.1: Continuation of the Flask-Cache Extension
 dev-python/flask-classful 0.14.2: Class based views for Flask
 dev-python/flask-datepicker 0.14: Simple integration of Flask and WTForms
 dev-python/flask-jwt 0.3.2: JWT (JSON Web Tokens) for Flask applications
