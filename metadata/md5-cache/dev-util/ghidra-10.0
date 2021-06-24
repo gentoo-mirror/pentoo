@@ -1,0 +1,14 @@
+DEFINED_PHASES=compile install preinst prepare setup unpack
+DEPEND=virtual/jre:11 virtual/jdk:11 dev-java/gradle-bin:6.3 sys-devel/bison dev-java/jflex app-arch/unzip >=dev-java/java-config-2.2.0-r3
+DESCRIPTION=A software reverse engineering framework
+EAPI=7
+HOMEPAGE=https://ghidra-sre.org/
+INHERIT=java-pkg-2
+IUSE=elibc_FreeBSD
+KEYWORDS=amd64
+LICENSE=Apache-2.0
+RDEPEND=virtual/jre:11 >=dev-java/java-config-2.2.0-r3
+SLOT=0
+SRC_URI=https://github.com/NationalSecurityAgency/ghidra/archive/Ghidra_10.0_build.tar.gz https://github.com/pxb1988/dex2jar/releases/download/2.0/dex-tools-2.0.zip https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/android4me/AXMLPrinter2.jar https://sourceforge.net/projects/catacombae/files/HFSExplorer/0.21/hfsexplorer-0_21-bin.zip mirror://sourceforge/yajsw/yajsw/yajsw-stable-12.12.zip https://www.eclipse.org/downloads/download.php?r=1&protocol=https&file=/tools/cdt/releases/8.6/cdt-8.6.0.zip mirror://sourceforge/project/pydev/pydev/PyDev%206.3.1/PyDev%206.3.1.zip -> PyDev-6.3.1.zip https://dev.pentoo.ch/~blshkv/distfiles/ghidra-dependencies-20210624.tar.gz
+_eclasses_=java-utils-2	b5e6ac3113ad5ad2b604a72029a9969f	java-pkg-2	37e38ed0662a78bfde9cb4f6d11ed6dc
+_md5_=d38302d923ac071e1c5977a4c8982b0d
