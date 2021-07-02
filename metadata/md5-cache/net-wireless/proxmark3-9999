@@ -11,5 +11,5 @@ PROPERTIES=live
 RDEPEND=virtual/libusb:0 app-arch/bzip2 dev-libs/jansson sys-libs/ncurses:*[tinfo] sys-libs/readline:= bluez? ( net-wireless/bluez ) qt? ( dev-qt/qtcore:5 dev-qt/qtwidgets:5 dev-qt/qtgui:5 )
 REQUIRED_USE=?? ( standalone-lf-em4100emul standalone-lf-em4100rswb standalone-lf-em4100rwc standalone-lf-icehid standalone-lf-samyrun standalone-lf-proxbrute standalone-lf-hidbrute standalone-hf-14asniff standalone-hf-legic standalone-hf-msdsal standalone-hf-young standalone-hf-mattyrun standalone-hf-colin standalone-hf-bog ) standalone-lf-icehid? ( pm3rdv4 ) standalone-hf-14asniff? ( pm3rdv4 ) standalone-hf-colin? ( pm3rdv4 ) standalone-hf-bog? ( pm3rdv4 )
 SLOT=0
-_eclasses_=toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	udev	452708c3f55cf6e918b045adb949a9e6	git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
+_eclasses_=toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	udev	26207b5d4f4708920b9fcb7302d94068	git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
 _md5_=80cd29e75d2e9e8e12fb0dac520f1245
