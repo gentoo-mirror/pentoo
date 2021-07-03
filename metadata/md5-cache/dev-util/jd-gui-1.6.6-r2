@@ -10,5 +10,5 @@ LICENSE=GPL-3
 RDEPEND=virtual/jre:11 !dev-util/jd-gui-bin >=dev-java/java-config-2.2.0-r3
 SLOT=0
 SRC_URI=https://github.com/java-decompiler/jd-gui/archive/v1.6.6.tar.gz -> jd-gui-1.6.6.tar.gz https://dev.pentoo.ch/~blshkv/distfiles/jd-gui-dependencies-20210516.tar.gz
-_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	java-utils-2	14a796a27babeb8a6cc84d3b788e5024	java-pkg-2	37e38ed0662a78bfde9cb4f6d11ed6dc
+_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	java-utils-2	bd56fb0d459d0bad9d07fa32febe53cb	java-pkg-2	37e38ed0662a78bfde9cb4f6d11ed6dc
 _md5_=4230737913e5c449d34f850be57c0250
