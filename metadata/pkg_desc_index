@@ -309,6 +309,7 @@ dev-python/jwt 1.1.0: JSON Web Token library for Python
 dev-python/ldapdomaindump 0.9.3: Active Directory information dumper via LDAP
 dev-python/leather 0.3.3: Python charting for 80% of humans
 dev-python/libsast 1.4.1 1.4.4 1.4.5-r1: A generic SAST core built on top of semgrep and regex
+dev-python/limits 1.5.1: Rate limiting utilities
 dev-python/litecli 1.4.1-r1 1.5.0: CLI for SQLite Databases with auto-completion and syntax highlighting
 dev-python/lsassy 2.1.3 2.1.4: Python library to parse remote lsass dumps
 dev-python/macholib 1.14: A package is a collection of utilities for dealing with IP addresses
@@ -331,6 +332,7 @@ dev-python/nessrest 20180806: A high-level Web Crawling and Web Scraping framewo
 dev-python/netfilterqueue 0.8.1: Python bindings for libnetfilter_queue
 dev-python/normality 2.1.1: A small set of text normalization functions
 dev-python/nplusone 1.0.0: Detecting the n+1 queries problem in Python
+dev-python/orjson-bin 3.5.4: Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 dev-python/oscrypto 1.2.1: TLS sockets, key generation, encryption, decryption, signing, verification
 dev-python/outcome 1.0.1 1.1.0: Capture the outcome of Python function calls.
 dev-python/parse 1.14.0: parse() is the opposite of format()
@@ -403,6 +405,7 @@ dev-python/semgrep 0.52.0 0.55.1: Lightweight static analysis for many languages
 dev-python/shelljob 0.6.3: Run multiple subprocesses asynchronous/in parallel with streamed output
 dev-python/shodan 1.25.0: Python library and command-line utility for Shodan
 dev-python/simplekv 0.14.0: A key-value storage for binary data, support many backends.
+dev-python/slowapi 0.1.4: A rate limiting extension for Starlette and Fastapi
 dev-python/sniffio 1.1.0 1.2.0: Sniff out which async library your code is running under
 dev-python/social-auth-core 3.3.3: Python social authentication made simple
 dev-python/soupsieve 1.9.3: A modern CSS selector implementation for BeautifulSoup
@@ -663,7 +666,7 @@ net-analyzer/termshark 2.2.0: A terminal UI for tshark, inspired by Wireshark
 net-analyzer/testssl 3.0.4 3.0.5: Tool to check TLS/SSL cipher support
 net-analyzer/thc-pptp-bruter 0.1.4: A brute force program that works against pptp vpn endpoints
 net-analyzer/thc-ssl-dos 1.4: THC-SSL-DOS is a tool to verify the performance of SSL servers
-net-analyzer/theHarvester 3.2.4: The Harvester is a tool designed to collect email accounts of the target domain
+net-analyzer/theHarvester 3.2.4 4.0.0: The Harvester is a tool designed to collect email accounts of the target domain
 net-analyzer/tplmap 20190820: Server-Side Template Injection and code injection tool
 net-analyzer/twa 1.9.3 1.10.0 9999: A tiny web auditor with strong opinions
 net-analyzer/unicornscan 0.4.7.2: A utility for information gathering or security auditing
@@ -816,7 +819,7 @@ pentoo/pentoo-cracking 2020.2: Pentoo cracking meta ebuild
 pentoo/pentoo-database 2020.4: Pentoo database attack meta ebuild
 pentoo/pentoo-desktop 2021.2: Pentoo meta ebuild to install all X and WM/DE related things
 pentoo/pentoo-exploit 2020.4: Pentoo exploit meta ebuild
-pentoo/pentoo-footprint 2020.4: Pentoo footprint meta ebuild
+pentoo/pentoo-footprint 2021.1: Pentoo footprint meta ebuild
 pentoo/pentoo-forensics 2020.1-r3: Pentoo forensics meta ebuild
 pentoo/pentoo-forging 2019.2-r1: Pentoo forging meta ebuild
 pentoo/pentoo-fuzzers 2020.1: Pentoo fuzzers meta ebuild
