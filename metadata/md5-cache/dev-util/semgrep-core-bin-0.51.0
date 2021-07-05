@@ -1,9 +1,0 @@
-DEFINED_PHASES=install
-DESCRIPTION=Lightweight static analysis for many languages
-EAPI=7
-HOMEPAGE=https://github.com/returntocorp/semgrep
-KEYWORDS=amd64
-LICENSE=LGPL-2
-SLOT=0
-SRC_URI=https://files.pythonhosted.org/packages/c5/1a/6d49215970dd828a3ae8fa6aa6799eb43b1984ab9567fbe2ba468347b847/semgrep-0.51.0-cp36.cp37.cp38.cp39.py36.py37.py38.py39-none-any.whl -> semgrep-core-bin-0.51.0.zip
-_md5_=2393eb53b0c34997d76ae4809b26ae91
