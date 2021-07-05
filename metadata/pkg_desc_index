@@ -121,7 +121,7 @@ app-pda/ifuse 1.1.4: Mount Apple iPhone/iPod Touch file systems for backup purpo
 app-pda/usbmuxd 1.1.1-r1: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
 app-shells/pwsh-bin 7.1.2 7.1.3: PowerShell - binary precompiled for glibc
 app-text/cewl 5.4.9 5.5.1 9999: A custom word list generator
-app-text/endesive 2.0.2: 
+app-text/endesive 2.0.2: Sign and verify digital signatures in mail, PDF and XML documents
 app-text/unfurl 0.2.0: Pull out bits of URLs provided on stdin
 dev-db/neo4j-community 4.2.2: High-performance, mature and robust NOSQL graph database
 dev-db/oat 1.3.1: a toolkit that could be used to audit security within Oracle database servers
@@ -193,7 +193,6 @@ dev-python/IP2Location 8.5.1: Python API for IP2Location database
 dev-python/Js2Py 0.67_p20200212: JavaScript to Python Translator & JavaScript interpreter
 dev-python/PTP 0.4.2-r1: Pentester's Tools Parser
 dev-python/Protego 0.1.16: robots.txt parser with support for modern conventions
-dev-python/PyKCS11 1.5.10: A complete PKCS#11 wrapper for Python
 dev-python/PyVirtualDisplay 0.2.5: python wrapper for Xvfb, Xephyr and Xvnc
 dev-python/Scrapy 1.8.0: A high-level Web Crawling and Web Scraping framework
 dev-python/acora 2.2: Fast multi-keyword search engine for text strings
@@ -361,6 +360,7 @@ dev-python/pygtail 0.11.0: Reads log file lines that have not been read
 dev-python/pyhunter 1.7 9999: An (unofficial) Python wrapper for the Hunter.io API
 dev-python/pyinstaller 3.6-r1: Program converting Python programs into stand-alone executables
 dev-python/pyjsparser 2.7.1: Fast javascript parser (based on esprima.js)
+dev-python/pykcs11 1.5.10: A complete PKCS#11 wrapper for Python
 dev-python/pylnk3 0.4.0 0.4.2: Python library for reading and writing Windows shortcut files
 dev-python/pylzma 0.5.0: Platform independent python bindings for the LZMA compression library.
 dev-python/pyminifier 2.1 2.1_p20150625: Pyminifier is a Python code minifier, obfuscator, and compressor.
