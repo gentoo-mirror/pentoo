@@ -175,7 +175,7 @@ dev-libs/libfvalue 20200711 20200902: Library for generic file value functions
 dev-libs/libfwnt 20200723 20210421: Library for Windows NT data types
 dev-libs/libguytools2 2.1.0: Library for guymager
 dev-libs/libuna 20190102 20200711 20201204: Library to support Unicode and ASCII (byte string) conversions
-dev-libs/libvhdi 20191221 20201204: Library and tools to access the Virtual Hard Disk (VHD) image format
+dev-libs/libvhdi 20201204 20210425: Library and tools to access the Virtual Hard Disk (VHD) image format
 dev-libs/libvmdk 20200810 20200926: Library and tools to access the VMware Virtual Disk (VMDK) format
 dev-libs/openssl-bad 1.0.2_p20180915 1.0.2_p20190119: Snapshot for testssl.sh >2.8 from PM's fork, ready to compile
 dev-libs/qbdi 0.7.1: A Dynamic Binary Instrumentation framework based on LLVM
