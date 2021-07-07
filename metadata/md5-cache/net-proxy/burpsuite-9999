@@ -7,4 +7,4 @@ LICENSE=BURP
 RDEPEND=|| ( virtual/jre virtual/jdk )
 SLOT=0
 _eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28
-_md5_=b20d1403e7def02022e218271fd42a32
+_md5_=64b691afaab50cac041bd60298b0623f
