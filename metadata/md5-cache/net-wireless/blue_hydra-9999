@@ -13,5 +13,5 @@ RDEPEND=ruby_targets_ruby25? ( dev-ruby/dm-migrations[ruby_targets_ruby25(-)] de
 REQUIRED_USE=|| ( ruby_targets_ruby25 ruby_targets_ruby26 )
 RESTRICT=!test? ( test )
 SLOT=0
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	multilib	97566c1a256d07b00848aa767e38a352	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	ruby-utils	d92c635a1f0565208b3819451b7ed349	ruby-ng	b97a1a9a3103f9a66f622ea3eb2ce12b	git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	multilib	97566c1a256d07b00848aa767e38a352	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	ruby-utils	08ae6f9c60b19aabce3f66a30cce9a2d	ruby-ng	b97a1a9a3103f9a66f622ea3eb2ce12b	git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
 _md5_=860b581122637c10ee4da46f35cce731
