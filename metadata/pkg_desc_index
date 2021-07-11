@@ -136,7 +136,6 @@ dev-go/go-exploitdb 20190911-r1: A tool for searching Exploits from some Exploit
 dev-go/gopkg-sourcemap 1.0.5 2.1.3: Source maps consumer for Golang
 dev-go/gost 0.1.2-r1: Build a local copy of Security Tracker. Notify via Email if there is an update
 dev-go/goval-dictionary 0.2.2-r1: Build a local copy of OVAL. Server mode for easy querying
-dev-java/gradle-bin 5.2.1 6.3: A project automation and build tool with a Groovy based DSL
 dev-java/jakarta-servlet-api 5.0.0: Jakarta Servlet API
 dev-java/jd-core 1.0.6 1.1.3: JD-Core is a JAVA decompiler written in JAVA
 dev-java/jd-lib 1.1.0: Command line Java Decompiler
@@ -547,7 +546,7 @@ dev-util/dwarf-debugger 1.0.9_p20200521: Full featured multi arch/os debugger bu
 dev-util/electron-bin 6.0.11: Cross platform application development framework based on web technologies
 dev-util/electron-packager 14.2.1: Six Degrees of Domain Admin
 dev-util/frida-tools 9.2.4 9.2.5: Frida CLI tools
-dev-util/ghidra 9.2.4 10.0: A software reverse engineering framework
+dev-util/ghidra 10.0-r1 10.0.1: A software reverse engineering framework
 dev-util/hexd 1.10: Eric Raymond's hex dumper
 dev-util/jadx-bin 1.1.0 1.2.0: A standalone graphical utility that displays Java source codes of .class file
 dev-util/jd-cli 1.2.0: Command line Java Decompiler
