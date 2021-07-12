@@ -679,7 +679,7 @@ net-analyzer/wpscan 3.8.15 3.8.18: Wordpress security scanner
 net-analyzer/xbruteforcer 20180611: Login brute force tool for WordPress, Joomla, DruPal, OpenCart, and Magento.
 net-analyzer/xplico 1.2.2: Extract data from TCP/IP traffic
 net-analyzer/xsstrike 3.1.5 9999: Advanced XSS detection suite
-net-dialup/freeradius 3.0.20-r1 3.0.21-r1: Highly configurable free RADIUS server
+net-dialup/freeradius 3.0.20-r3 3.0.21-r3: Highly configurable free RADIUS server
 net-dialup/minimodem 0.24: General-purpose software audio FSK modem.
 net-im/jitsi 2.11.5633: Secure IM communicator that supports SIP, XMPP, AIM/ICQ, Windows Live, Yahoo
 net-im/jitsi-videobridge 1132: https://github.com/jitsi/jitsi-videobridge
