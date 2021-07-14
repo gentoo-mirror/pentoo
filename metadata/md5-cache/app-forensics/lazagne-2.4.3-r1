@@ -11,4 +11,4 @@ RDEPEND=python_targets_python3_8? ( dev-lang/python:3.8[sqlite] ) python_targets
 SLOT=0
 SRC_URI=https://github.com/AlessandroZ/LaZagne/archive/2.4.3.tar.gz -> lazagne-2.4.3.tar.gz
 _eclasses_=multibuild	05a584848db4901c97fcd94ae7cc3a97	eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	python-utils-r1	2f5967e7ced9abfa71ff7b0ea8d61b3a	python-r1	e20b80360497e6215aed0dd4ca7d6bad
-_md5_=7d6a361bab82b28aa1139f651153c3b6
+_md5_=b896965032f8c457f1cc3e5b446c734f

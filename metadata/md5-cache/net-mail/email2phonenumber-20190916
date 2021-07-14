@@ -10,4 +10,4 @@ RDEPEND=python_targets_python3_8? ( dev-lang/python:3.8 ) python_targets_python3
 SLOT=0
 SRC_URI=https://github.com/martinvigo/email2phonenumber/archive/28c277ebb8c1185d639ce21dab897b6300153042.tar.gz -> email2phonenumber-20190916.tar.gz
 _eclasses_=multibuild	05a584848db4901c97fcd94ae7cc3a97	eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	python-utils-r1	2f5967e7ced9abfa71ff7b0ea8d61b3a	python-r1	e20b80360497e6215aed0dd4ca7d6bad
-_md5_=e9d5ed5b80ec4376eb8ebd067148f69c
+_md5_=793e4de10c080d1d1457e85f19168428
