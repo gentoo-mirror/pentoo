@@ -233,7 +233,6 @@ dev-python/colored-traceback 0.3.0:
 dev-python/config 0.4.2: A hierarchical, easy-to-use, powerful configuration module for Python
 dev-python/coreapi 2.3.3: Python client library for Core API
 dev-python/coreschema 0.0.4: Core Schema
-dev-python/csvkit 1.0.4-r1 1.0.5: A suite of utilities for converting to and working with CSV files
 dev-python/databases 0.4.3: Async database support for Python.
 dev-python/dataset 1.3.2: Easy-to-use data handling for SQL data stores
 dev-python/dbfread 2.0.7-r1: Read DBF Files with Python
