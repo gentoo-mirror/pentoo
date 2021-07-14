@@ -630,7 +630,7 @@ net-analyzer/nmap_vulscan 2.0_p20190923 2.1: A NSE vulnerability scanner which u
 net-analyzer/ntlmrecon 0.2_beta 0.4_beta: A tool to enumerate information from NTLM authentication enabled web endpoints
 net-analyzer/onesixtyone 0.7: An efficient SNMP scanner
 net-analyzer/osmedeus 9999: A offensive security tool for reconnaissance and vulnerability scanning
-net-analyzer/owtf 2.6.0-r1: The Offensive Web Testing Framework
+net-analyzer/owtf 2.6.0-r1 2.6.0_p20210714: The Offensive Web Testing Framework
 net-analyzer/padbuster 20110928: Automated script for performing Padding Oracle attacks
 net-analyzer/plecost 9999: Wordpress finger printing tool, retrieve information about the plugins and versions installed
 net-analyzer/polenum 1.6.1: Extract password policy from a windows machine
