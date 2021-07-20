@@ -797,7 +797,7 @@ net-wireless/rtl8812au_aircrack-ng 5.6.4.2_p20200118 5.6.4.2_p20210504 9999: RTL
 net-wireless/rtl8822bu 5.3.1_p20190920 9999: RTL88x2BU driver with monitor mode and frame injection
 net-wireless/rx_tools 1.0.3-r1 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
 net-wireless/scopy 9999: A software oscilloscope and signal analysis toolset
-net-wireless/sdrangel 6.15.1: SDR Rx/Tx software
+net-wireless/sdrangel 6.15.1 6.16.1: SDR Rx/Tx software
 net-wireless/sdrtrunk 0.4.0-r1: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/sdrtrunk-bin 0.4.0-r1: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/signalhound-spike 3.5.9: Spectrum analyzer software for Signal Hound test equipment
@@ -854,7 +854,7 @@ sys-devel/autofdo 0.18 0.19 9999: System to simplify real-world deployment of fe
 sys-devel/gcc-arm-none-eabi 9.2020.2 10.2020.4: GNU Arm Embedded Toolchain
 sys-devel/gdb-dashboard 0.11.1 0.11.4 9999: Modular visual interface for GDB in Python
 sys-devel/gef 2021.04 2021.07 9999: A GDB Enhanced Features for exploit devs & reversers
-sys-devel/peda 1.1_p20190210 9999: Python Exploit Development Assistance for GDB
+sys-devel/peda 1.2 9999: Python Exploit Development Assistance for GDB
 sys-devel/pwndbg 20200723 20210622 99999999: A GDB plug-in that makes debugging with GDB suck less
 sys-fs/cramfsswap 1.4.2: swap endianness of a cram filesystem (cramfs)
 sys-fs/ext4-crypt 20170216 99999999: A userspace tool to create ext4 encrypted directories
