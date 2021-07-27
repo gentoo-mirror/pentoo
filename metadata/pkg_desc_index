@@ -693,7 +693,7 @@ net-misc/brutespray 1.6.6 1.6.8: Brute-Forcing from Nmap output using default cr
 net-misc/corscanner 20190721 99999999: Fast CORS misconfiguration vulnerabilities scannerbeers
 net-misc/dirscraper 20190224 99999999: Scanning tool which discovers dirs found in javascript files hosted on a website
 net-misc/goaltdns 20190330: A permutation generation tool written in golang
-net-misc/gowitness 1.3.1 1.3.2 1.3.3 1.3.4: A web screenshot utility using Chrome Headless
+net-misc/gowitness 1.3.4 2.3.6: A web screenshot utility using Chrome Headless
 net-misc/hackertarget 1.2.3 9999: A security toolkit for organizations with attack surface discovery
 net-misc/httprobe 0.1.1 0.1.2: Take a list of domains and probe for working HTTP and HTTPS servers
 net-misc/linkfinder 20191124: A python script that finds endpoints in JavaScript files
