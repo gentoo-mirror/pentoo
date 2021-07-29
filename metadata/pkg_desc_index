@@ -811,7 +811,7 @@ net-wireless/wireless-regdb 20091125-r1: Binary regulatory database for CRDA
 net-wireless/wpa_sycophant 1.0 9999: Evil client portion of EAP relay attack
 pentoo/pentoo 2015.1: Pentoo meta ebuild to install all apps
 pentoo/pentoo-analyzer 2020.3: Pentoo analyzers meta ebuild
-pentoo/pentoo-bluetooth 2019.2: Pentoo bluetooth meta ebuild
+pentoo/pentoo-bluetooth 2021.2: Pentoo bluetooth meta ebuild
 pentoo/pentoo-cinnamon 2020.1: Pentoo cinnamon meta ebuild
 pentoo/pentoo-core 2021.0-r1: Pentoo minimum core requirements
 pentoo/pentoo-cracking 2020.2: Pentoo cracking meta ebuild
