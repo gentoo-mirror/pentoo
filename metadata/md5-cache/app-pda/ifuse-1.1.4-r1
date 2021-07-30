@@ -1,13 +1,14 @@
+BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.2-r1:1.16 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
 DEFINED_PHASES=install postinst prepare
 DEPEND=>=app-pda/libimobiledevice-1.3.0:= >=app-pda/libplist-2.2.0:= >=sys-fs/fuse-2.7.0:= virtual/pkgconfig
 DESCRIPTION=Mount Apple iPhone/iPod Touch file systems for backup purposes
-EAPI=6
+EAPI=7
 HOMEPAGE=http://www.libimobiledevice.org/
-INHERIT=readme.gentoo-r1
+INHERIT=readme.gentoo-r1 autotools
 KEYWORDS=~amd64 ~x86
 LICENSE=LGPL-2.1
 RDEPEND=>=app-pda/libimobiledevice-1.3.0:= >=app-pda/libplist-2.2.0:= >=sys-fs/fuse-2.7.0:=
 SLOT=0
 SRC_URI=https://github.com/libimobiledevice/ifuse/archive/1.1.4.tar.gz -> ifuse-1.1.4.tar.gz
-_eclasses_=readme.gentoo-r1	e51390d48521eb3d400db57d557b7530
-_md5_=9c30f4ff1f9f0a2ed10c7356a36ef59b
+_eclasses_=readme.gentoo-r1	e51390d48521eb3d400db57d557b7530	gnuconfig	262062cef0ba4f22b397193da514a350	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	libtool	241a8f577b9781a42a7421e53448a44e	autotools	2a36908d5f63f41614b450a2459567da
+_md5_=4c1c8f20c2273902692a604a1051e09e
