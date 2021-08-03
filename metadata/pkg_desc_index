@@ -53,7 +53,7 @@ app-exploits/packetstormexploits-meta 2020: Meta ebuild of packetstorm exploits
 app-exploits/powercat 20170805: Netcat: The powershell version
 app-exploits/proton 20200311: Windows post-exploitation framework using Windows Script Host
 app-exploits/pwntools 4.6.0 4.7.0_beta0: CTF framework and exploit development library
-app-exploits/pypykatz 0.4.8 0.5.0-r1: Python implementation of Mimikatz
+app-exploits/pypykatz 0.5.0-r1 0.5.1: Python implementation of Mimikatz
 app-exploits/ropgadget 6.5 6.6: Search for gadgets in binaries to facilitate your ROP exploitation
 app-exploits/ropper 1.13.5 1.13.6 9999: Use to display information about binary files in different file formats
 app-exploits/routersploit 3.4.0-r1 9999: An open-source exploitation framework dedicated to embedded devices
@@ -205,9 +205,9 @@ dev-python/aiocmd 0.1.5: Coroutine-based CLI generator using prompt_toolkit
 dev-python/aioconsole 0.3.1: Asynchronous console and interfaces for asyncio
 dev-python/aiomultiprocess 0.8.0 0.9.0: asyncio version of the standard multiprocessing module
 dev-python/aiopg 1.2.1: aiopg is a library for accessing a PostgreSQL database from the asyncio
-dev-python/aiosmb 0.2.41 0.2.43: Asynchronous SMB protocol implementation
+dev-python/aiosmb 0.2.43 0.2.50: Asynchronous SMB protocol implementation
 dev-python/aiosqlite 0.16.0 0.17.0: asyncio bridge to the standard sqlite3 module
-dev-python/aiowinreg 0.0.3 0.0.4: Windows registry file reader
+dev-python/aiowinreg 0.0.4 0.0.7: Windows registry file reader
 dev-python/altgraph 0.17: A constructing graphs, BFS and DFS traversals, etc
 dev-python/apkid 2.1.1-r1 2.1.2: Android Package Protector Identifier
 dev-python/apng 0.3.3 0.3.4: A Python module to deal with APNG files
@@ -215,7 +215,7 @@ dev-python/artifacts 20200515: Digital Forensics Artifact Repository
 dev-python/asciitree 0.3.3: Draws ASCII trees
 dev-python/aspectlib 1.5.2: Aspect-oriented programming, monkey-patch and decorators library
 dev-python/asyncpg 0.23.0: A fast PostgreSQL Database Client Library for Python/asyncio.
-dev-python/asysocks 0.0.11 0.1.1: Socks5 / Socks4 client and server library
+dev-python/asysocks 0.1.1 0.1.2: Socks5 / Socks4 client and server library
 dev-python/banal 1.0.1: Commons of banal micro-functions for Python.
 dev-python/beautifultable 0.8.0: Print ASCII tables for terminals
 dev-python/bidict 0.21.2: The bidirectional mapping library for Python.
@@ -315,11 +315,11 @@ dev-python/marshmallow-sqlalchemy 0.15.0 0.21.0: SQLAlchemy integration with the
 dev-python/matlink-gpapi 0.4.4.5: Unofficial python api for google play
 dev-python/maxminddb 1.5.2: A Python module for reading MaxMind DB files
 dev-python/mechanize 0.4.5: Stateful programmatic web browsing in Python
-dev-python/minidump 0.0.13 0.0.17: parse Windows minidump file format
+dev-python/minidump 0.0.13 0.0.17 0.0.18: parse Windows minidump file format
 dev-python/minikerberos 0.2.11 0.2.14: Kerberos manipulation library in pure Python
 dev-python/mitm6 0.2.2: pwning IPv4 via IPv6
 dev-python/mockito 1.2.0: Spying framework based on Mockito java library
-dev-python/msldap 0.3.20 0.3.29: Python library to play with MS LDAP
+dev-python/msldap 0.3.29 0.3.30: Python library to play with MS LDAP
 dev-python/msoffcrypto-tool 4.10.1 4.12.0: Decrypting MS Office files with passwords or other keys
 dev-python/nassl 3.0.0 3.1.0 4.0.0: Experimental OpenSSL wrapper for Python 3.7+ and SSLyze
 dev-python/neo4j 4.2.0 4.2.1: Neo4j Bolt driver for Python
