@@ -12,5 +12,5 @@ RDEPEND=virtual/libusb:0 app-arch/bzip2 dev-libs/jansson sys-libs/ncurses:*[tinf
 REQUIRED_USE=?? ( standalone-lf-em4100emul standalone-lf-em4100rswb standalone-lf-em4100rwc standalone-lf-icehid standalone-lf-samyrun standalone-lf-proxbrute standalone-lf-hidbrute standalone-lf-tharexde standalone-lf-nexid standalone-hf-14asniff standalone-hf-legic standalone-hf-msdsal standalone-hf-young standalone-hf-mattyrun standalone-hf-colin standalone-hf-bog standalone-hf-aveful standalone-hf-craftbyte standalone-hf-tcprst standalone-hf-iceclass standalone-hf-tmudford ) standalone-lf-icehid? ( pm3rdv4 ) standalone-hf-14asniff? ( pm3rdv4 ) standalone-lf-nexid? ( pm3rdv4 ) standalone-hf-colin? ( pm3rdv4 ) standalone-hf-bog? ( pm3rdv4 ) standalone-hf-iceclass? ( pm3rdv4 )
 SLOT=0
 SRC_URI=https://github.com/RfidResearchGroup/proxmark3/archive/v4.13441.tar.gz -> proxmark3-4.13441.tar.gz
-_eclasses_=toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	udev	26207b5d4f4708920b9fcb7302d94068
+_eclasses_=toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	udev	0a92682c0f65a60d01453db598fc6490
 _md5_=43fc800f74f083dcca63aa805ea852ed
