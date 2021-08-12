@@ -421,7 +421,6 @@ dev-python/stegoveritas-py010parser 0.1.10: A modified pycparser to parse 010 te
 dev-python/syslog-rfc5424-formatter 1.2.2: Logging formatter which produces well-formatted RFC5424 Syslog Protocol messages
 dev-python/tldextract 2.2.1-r1: Accurately separate the TLD from the registered domain and subdomains
 dev-python/tls_parser 1.2.2: Small library to parse TLS records.
-dev-python/tlslite-ng 0.7.6: New home of the TLS implementation in pure python.
 dev-python/torrequest 20181011-r2: Simple Python interface for HTTP(s) requests over Tor
 dev-python/trio 0.16.0 0.17.0: A friendly Python library for async concurrency and I/O
 dev-python/truffleHogRegexes 20190518-r1: These are the regexes that power trufflehog
@@ -584,7 +583,6 @@ net-analyzer/bolt 0.2.1 9999: CSRF Scanner
 net-analyzer/bonesi 0.3.1 9999: BoNeSi - the DDoS botnet simulator
 net-analyzer/cameradar 5.0.0 5.0.1: Cameradar hacks its way into RTSP videosurveillance cameras
 net-analyzer/capanalysis 1.2.3: A web visual tool for information security specialists
-net-analyzer/cipherscan 20190726 20200312: A very simple way to find out which SSL ciphersuites are supported by a target
 net-analyzer/cisco-auditing-tool 1: Perl script which scans cisco routers for common vulnerabilities.
 net-analyzer/cisco-torch 0.4b: Cisco mass scanning, fingerprinting, and exploitation tool
 net-analyzer/commix 3.1 3.2: Automated All-in-One OS command injection and exploitation tool
