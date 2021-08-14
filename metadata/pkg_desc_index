@@ -119,7 +119,6 @@ app-misc/mat2 0.11.0: A handy tool to trash your metadata
 app-pda/ideviceinstaller 1.1.0_p20181001 1.1.0_p20190928 1.1.1: A tool to interact with the installation_proxy of an Apple's iDevice
 app-pda/ifuse 1.1.4-r1: Mount Apple iPhone/iPod Touch file systems for backup purposes
 app-pda/usbmuxd 1.1.1-r1: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
-app-shells/pwsh-bin 7.1.2 7.1.3: PowerShell - binary precompiled for glibc
 app-text/cewl 5.5.1 9999: A custom word list generator
 app-text/endesive 2.0.2: Sign and verify digital signatures in mail, PDF and XML documents
 app-text/unfurl 0.2.0: Pull out bits of URLs provided on stdin
@@ -550,7 +549,7 @@ dev-util/hexd 1.10: Eric Raymond's hex dumper
 dev-util/jadx-bin 1.1.0 1.2.0: A standalone graphical utility that displays Java source codes of .class file
 dev-util/jd-cli 1.2.0: Command line Java Decompiler
 dev-util/jd-cli-bin 1.1.0 1.2.0: Command line Java Decompiler
-dev-util/jd-gui 1.6.6-r3: A standalone Java Decompiler GUI
+dev-util/jd-gui 1.6.6-r4: A standalone Java Decompiler GUI
 dev-util/jnitrace 3.2.1 3.2.2: A Frida based tool that traces usage of the JNI API in Android apps.
 dev-util/lief 0.11.4 0.11.5: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process

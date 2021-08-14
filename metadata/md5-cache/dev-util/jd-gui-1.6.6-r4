@@ -1,5 +1,5 @@
 DEFINED_PHASES=compile install preinst prepare setup
-DEPEND=virtual/jre:11 !dev-util/jd-gui-bin virtual/jdk:11 dev-java/gradle-bin:* >=dev-java/java-config-2.2.0-r3
+DEPEND=virtual/jre:11 !dev-util/jd-gui-bin virtual/jdk:11 dev-java/gradle-bin:6 >=dev-java/java-config-2.2.0-r3
 DESCRIPTION=A standalone Java Decompiler GUI
 EAPI=7
 HOMEPAGE=http://jd.benow.ca/
@@ -11,4 +11,4 @@ RDEPEND=virtual/jre:11 !dev-util/jd-gui-bin >=dev-java/java-config-2.2.0-r3
 SLOT=0
 SRC_URI=https://github.com/java-decompiler/jd-gui/archive/v1.6.6.tar.gz -> jd-gui-1.6.6.tar.gz https://dev.pentoo.ch/~blshkv/distfiles/jd-gui-dependencies-20210516.tar.gz
 _eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	java-utils-2	ac9fb9efa5413c5fb85a4203fe930e88	java-pkg-2	37e38ed0662a78bfde9cb4f6d11ed6dc
-_md5_=a7b2134ba015d82769362b74ac4c1b85
+_md5_=cbecf3568beddd5296e130ce101aef14
