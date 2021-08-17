@@ -870,7 +870,7 @@ sys-kernel/kconfig-hardened-check 0.5.9 0.5.10 9999: A script for checking the h
 sys-kernel/minipli-sources 4.9.74: Unofficial forward ports of the last publicly available grsecurity patch
 sys-kernel/odroid-sources 9999: Linux kernel source for the ODROID-[UX]2 products
 sys-kernel/odroidxu-sources 9999: Linux kernel source for the ODROIDXU products
-sys-kernel/pentoo-sources 5.10.26 5.11.16 5.12.13: Pentoo kernel sources (kernel series 5.12)
+sys-kernel/pentoo-sources 5.10.26 5.11.16 5.12.19: Pentoo kernel sources (kernel series 5.12)
 sys-kernel/pf_ring-kmod 7.0.0 7.8.0_p20210421: High-speed packet processing framework (kernel modules for)
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
 sys-power/acpid 2.0.32-r1: Daemon for Advanced Configuration and Power Interface
