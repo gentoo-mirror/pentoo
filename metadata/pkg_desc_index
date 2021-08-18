@@ -848,7 +848,7 @@ sci-electronics/migen 0.7: A Python toolbox for building complex digital hardwar
 sci-electronics/pcie_injector 20180527: Information gathering tool designed for extracting metadata of public documents
 sys-apps/fchroot 0.1.2: Funtoo's franken-chroot tool
 sys-apps/magic-pax 0.0.1: 
-sys-apps/openrazer 3.0.0 3.0.1: Razer Drivers for Linux
+sys-apps/openrazer 3.0.1 3.1.0: Razer Drivers for Linux
 sys-devel/autofdo 0.18 0.19 9999: System to simplify real-world deployment of feedback-directed optimization
 sys-devel/gcc-arm-none-eabi 9.2020.2 10.2020.4: GNU Arm Embedded Toolchain
 sys-devel/gdb-dashboard 0.11.1 0.11.4 9999: Modular visual interface for GDB in Python
