@@ -10,5 +10,5 @@ LICENSE=LGPL-2.1
 RDEPEND=>=app-pda/libimobiledevice-1.3.0:= >=app-pda/libplist-2.2.0:= >=sys-fs/fuse-2.7.0:=
 SLOT=0
 SRC_URI=https://github.com/libimobiledevice/ifuse/archive/1.1.4.tar.gz -> ifuse-1.1.4.tar.gz
-_eclasses_=readme.gentoo-r1	e51390d48521eb3d400db57d557b7530	gnuconfig	262062cef0ba4f22b397193da514a350	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	libtool	241a8f577b9781a42a7421e53448a44e	autotools	c7052b276346587968d52ea8eaf5aca1
+_eclasses_=readme.gentoo-r1	c9646d622541c023f5159b86a14e930c	gnuconfig	262062cef0ba4f22b397193da514a350	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	libtool	241a8f577b9781a42a7421e53448a44e	autotools	c7052b276346587968d52ea8eaf5aca1
 _md5_=4c1c8f20c2273902692a604a1051e09e
