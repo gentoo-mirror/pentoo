@@ -577,7 +577,7 @@ net-analyzer/armitage 9999 20160709-r1: Cyber Attack Management for Metasploit
 net-analyzer/armitage-bin 20140818 20141120 20150813: Cyber Attack Management for Metasploit
 net-analyzer/badtouch 0.7.1: Scriptable network authentication cracker
 net-analyzer/bbrecon 20200228: Automated reconnaissance and information gathering (fork)
-net-analyzer/bettercap 2.31.0 2.31.1: A complete, modular, portable and easily extensible MITM framework
+net-analyzer/bettercap 2.31.1 2.32.0: A complete, modular, portable and easily extensible MITM framework
 net-analyzer/bolt 0.2.1 9999: CSRF Scanner
 net-analyzer/bonesi 0.3.1 9999: BoNeSi - the DDoS botnet simulator
 net-analyzer/cameradar 5.0.0 5.0.1: Cameradar hacks its way into RTSP videosurveillance cameras
