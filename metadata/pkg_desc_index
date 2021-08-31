@@ -709,7 +709,7 @@ net-misc/wireshark-sap-plugin 0.4.2 0.5.2 0.6.1 0.6.1-r1 9999: Wireshark plugin 
 net-misc/wlan2eth 1.3: Wlan2eth is a tool that converts wlan pcap to ethernet-like frames.
 net-proxy/burpsuite 2021.6.2 2021.7.2_rc 2021.8.1 2021.8.2 9999: Interactive proxy for attacking and debugging web applications
 net-proxy/burpsuite-pro 2021.6.2 2021.7.2_rc 2021.8.1 2021.8.2: Interactive proxy for attacking and debugging web applications
-net-proxy/insomnia-bin 2021.4.1: REST API client, a postman alternative
+net-proxy/insomnia-bin 2021.4.1 2021.5.2: REST API client, a postman alternative
 net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal network via reverse connection
 net-proxy/proxenet 0.4.1: A hacker friendly proxy for web application penetration tests.
 net-proxy/proxenet-plugins 9999: Repository for proxenet plugins
@@ -794,7 +794,7 @@ net-wireless/rtl8812au_aircrack-ng 5.6.4.2_p20200118 5.6.4.2_p20210504 9999: RTL
 net-wireless/rtl8822bu 5.3.1_p20190920 5.8.7.4_p20210626 9999: RTL88x2BU driver with monitor mode and frame injection
 net-wireless/rx_tools 1.0.3-r1 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
 net-wireless/scopy 9999: A software oscilloscope and signal analysis toolset
-net-wireless/sdrangel 6.15.1 6.16.1: SDR Rx/Tx software
+net-wireless/sdrangel 6.16.1 6.16.4: SDR Rx/Tx software
 net-wireless/sdrtrunk 0.4.0-r1: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/sdrtrunk-bin 0.4.0-r1: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/signalhound-spike 3.5.9: Spectrum analyzer software for Signal Hound test equipment
