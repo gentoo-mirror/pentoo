@@ -534,7 +534,7 @@ dev-ruby/zpng 0.3.1: Pure ruby PNG file manipulation & validation
 dev-util/AndroidProjectCreator-bin 1.4 1.5: Decompile an APK to an Android Studio Project
 dev-util/androguard 3.3.5 3.4.0_alpha1: Read Android's binary format for XML files (AXML) and a decompiler for DEX
 dev-util/android-sdk-build-tools 30.0.2-r1 30.0.3: Android SDK Build Tools
-dev-util/apktool 2.4.1-r1 2.5.0: A tool for reengineering 3rd party, closed, binary Android apps
+dev-util/apktool 2.5.0 2.6.0: A tool for reengineering 3rd party, closed, binary Android apps
 dev-util/appmon 0.5_p20201013: Monitoring and tampering API calls of MacOS and iOS/Android apps
 dev-util/catalyst 3.0.9 9999: Release metatool used for creating releases based on Gentoo Linux
 dev-util/collabreate 0.4.0_p20140528: A plugin for IDA Pro designed to provide collaborative reverse engineering
