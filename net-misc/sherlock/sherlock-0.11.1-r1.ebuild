@@ -14,12 +14,12 @@ if [[ ${PV} == *9999 ]]; then
 	inherit git-r3
 	EGIT_REPO_URI="https://github.com/sherlock-project/sherlock"
 else
-	# snapshot: 20200907
-	COMMIT="bf2daa39ea26075f916e009a4b22566526c96c8a"
+	# snapshot: 20200509
+	HASH_COMMIT="0ba49808878b3efe24029639dfcac7f55a02c0d0"
 
-	SRC_URI="https://github.com/sherlock-project/sherlock/archive/${COMMIT}.tar.gz -> ${P}.tar.gz"
+	SRC_URI="https://github.com/sherlock-project/sherlock/archive/${HASH_COMMIT}.tar.gz -> ${P}.tar.gz"
 	KEYWORDS="~amd64 ~arm ~mips ~x86"
-	S="${WORKDIR}/${PN}-${COMMIT}"
+	S="${WORKDIR}/${PN}-${HASH_COMMIT}"
 fi
 
 LICENSE="MIT"
@@ -34,17 +34,19 @@ RDEPEND="${PYTHON_DEPS}
 		dev-python/beautifulsoup4[${PYTHON_MULTI_USEDEP}]
 		dev-python/certifi[${PYTHON_MULTI_USEDEP}]
 		dev-python/chardet[${PYTHON_MULTI_USEDEP}]
-		dev-python/colorama[${PYTHON_MULTI_USEDEP}]
+		>=dev-python/colorama-0.4.1[${PYTHON_MULTI_USEDEP}]
 		dev-python/idna[${PYTHON_MULTI_USEDEP}]
 		dev-python/lxml[${PYTHON_MULTI_USEDEP}]
-		dev-python/PySocks[${PYTHON_MULTI_USEDEP}]
-		dev-python/requests[${PYTHON_MULTI_USEDEP}]
+		>=dev-python/PySocks-1.7.0[${PYTHON_MULTI_USEDEP}]
+		>=dev-python/requests-2.22.0[${PYTHON_MULTI_USEDEP}]
 		dev-python/requests-futures[${PYTHON_MULTI_USEDEP}]
 		dev-python/soupsieve[${PYTHON_MULTI_USEDEP}]
 		dev-python/torrequest[${PYTHON_MULTI_USEDEP}]
 		dev-python/urllib3[${PYTHON_MULTI_USEDEP}]
 		>=net-libs/stem-1.8.0[${PYTHON_MULTI_USEDEP}]
 	')"
+
+PATCHES=( "${FILESDIR}"/${P}_add_support_custom_data_json-r1.patch )
 
 pkg_setup() {
 	python-single-r1_pkg_setup
@@ -70,11 +72,12 @@ src_test() {
 
 src_install() {
 	insinto "/usr/share/${PN}"
-	doins -r *.py sherlock/*
+	doins -r *.py sherlock/* data_bad_site.json
 
 	python_optimize "${D}/usr/share/${PN}"
 
 	make_wrapper ${PN} "${EPYTHON} /usr/share/${PN}/sherlock.py"
+	make_wrapper ${PN}-get-sitelist "${EPYTHON} /usr/share/${PN}/site_list.py"
 
 	dodoc *.md Dockerfile
 }
