@@ -63,8 +63,8 @@ app-exploits/weevely 4.0.1 9999: Weevely is a stealth PHP web shell that simulat
 app-exploits/wesng 20200616 99999999: Windows Exploit Suggester - Next Generation
 app-forensics/bulk_extractor 1.5.5-r1 1.6.0 9999: Scans a disk image for regular expressions and other content
 app-forensics/cortex 2.1.3 3.0.0: A powerful observable analysis and active response engine
-app-forensics/eagleeye 20191229: Find people's social media profile using reverse image search
-app-forensics/fuxploider 1.0 9999: File upload vulnerability scanner and exploitation tool
+app-forensics/eagleeye 20191229-r1: Find people's social media profile using reverse image search
+app-forensics/fuxploider 1.0-r1 9999: File upload vulnerability scanner and exploitation tool
 app-forensics/guymager 0.8.12: Guymager is a fast and user friendly forensic imager.
 app-forensics/inception 0.4.2: Firewire physical memory manipulation tool exploiting IEEE 1394 SBP-2 DMA
 app-forensics/kjackal 99999999: Linux Rootkit Scanner
@@ -90,7 +90,7 @@ app-forensics/s3tk 0.3.0 9999: A security toolkit for Amazon S3
 app-forensics/samhain 4.3.3 4.4.0: Advanced file integrity and intrusion detection tool.
 app-forensics/scap-security-guide 0.1.50 0.1.51: Security compliance content in SCAP, Bash, Ansible, and other formats
 app-forensics/scap-workbench 1.2.0-r1 1.2.1: SCAP Scanner And Tailoring Graphical User Interface
-app-forensics/spiderfoot 3.0 3.3-r1 3.4: The most complete OSINT collection and reconnaissance tool
+app-forensics/spiderfoot 3.0-r1 3.3-r2 3.4-r1: The most complete OSINT collection and reconnaissance tool
 app-forensics/stegoveritas 1.8: Automatic image steganography analysis tool
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
 app-forensics/thehive 3.4.3: A scalable 4-in-1 open source and free Security Incident Response Platform
@@ -259,7 +259,7 @@ dev-python/exifread 2.2.0 2.3.1: Read Exif metadata from tiff and jpeg files
 dev-python/face_recognition 1.2.3 1.3.0: Recognize faces from Python or from the command line
 dev-python/face_recognition_models 0.3.0: Models used by the face_recognition package.
 dev-python/fake-useragent 0.1.11: Up to date simple useragent faker with real world database
-dev-python/faraday-plugins 1.0.1: No project description provided
+dev-python/faraday-plugins 1.0.1-r1: No project description provided
 dev-python/fastapi 0.65.2: FastAPI framework, high performance, easy to learn, fast to code, ready for production
 dev-python/fastkml 0.11: Fast KML processing in python
 dev-python/filebytes 0.10.0: Classes to parse the following file formats
@@ -280,7 +280,7 @@ dev-python/fpdf 1.7.2: Simple PDF generation for Python
 dev-python/frida-python 15.0.2 15.1.1: Dynamic instrumentation toolkit for reverse-engineers and security researchers
 dev-python/geoip2-python 3.0.0: Python bindings for GeoIP2
 dev-python/google-play-scraper 0.0.2.3 0.1.2 0.2.1: APIs to easily crawl the Google Play Store for Python
-dev-python/googlesearch 2.0.3: Google search from Python
+dev-python/googlesearch 2.0.3-r1: Google search from Python
 dev-python/gpapi 0.4.4-r1: Unofficial python api for google play
 dev-python/graphene 3.0.0_beta7: GraphQL Framework for Python
 dev-python/graphql-core 3.1.5: GraphQL for Python
@@ -340,7 +340,7 @@ dev-python/pdfkit 0.6.1: Wkhtmltopdf python wrapper
 dev-python/pefile 2019.4.18 2021.5.24: Module to read and work with Portable Executable (PE) files
 dev-python/playsound 1.2.2: Single function module with no dependencies for playing sounds
 dev-python/promise 2.3.0: Promises/A+ implementation for Python
-dev-python/proxy-db 0.2.5: Manage free and private proxies on local db for Python Projects
+dev-python/proxy-db 0.2.5-r1: Manage free and private proxies on local db for Python Projects
 dev-python/psd-tools 1.9.13: Package for working with Adobe Photoshop PSD files
 dev-python/psutil 5.8.0: Retrieve information on running processes and system utilization
 dev-python/psycopg2cffi 2.8.1-r1: Implementation of the psycopg2 module using cffi. Compatible with Psycopg 2.5.
@@ -363,7 +363,7 @@ dev-python/pykcs11 1.5.10: A complete PKCS#11 wrapper for Python
 dev-python/pylnk3 0.4.0 0.4.2: Python library for reading and writing Windows shortcut files
 dev-python/pylzma 0.5.0: Platform independent python bindings for the LZMA compression library.
 dev-python/pyminifier 2.1 2.1_p20150625: Pyminifier is a Python code minifier, obfuscator, and compressor.
-dev-python/pymisp 2.4.124: A python library for using the MISP Rest API
+dev-python/pymisp 2.4.124-r1: A python library for using the MISP Rest API
 dev-python/pymodbus 2.1.0: A fully featured modbus protocol stack in python
 dev-python/pypcapfile 0.12.0: Pure Python package for reading and parsing libpcap savefiles
 dev-python/pyppeteer 0.0.25 0.2.5: Headless chrome/chromium automation library
@@ -387,7 +387,7 @@ dev-python/python-socketio 5.1.0: Python implementation of the Socket.IO realtim
 dev-python/python-whois 0.7.2: Whois querying and parsing of domain registration information
 dev-python/python3-openid 3.1.0: Python 3 port of the python-openid library
 dev-python/pytimeparse 1.1.8: A small Python module to parse various kinds of time expressions
-dev-python/pywerview 0.3.1 0.3.2: A Python port of PowerSploit's PowerView
+dev-python/pywerview 0.3.1-r1 0.3.2-r1: A Python port of PowerSploit's PowerView
 dev-python/pywinrm 0.4.1: Python library for Windows Remote Management
 dev-python/qt-py 1.3.3: Minimal Python 2 & 3 shim around all Qt bindings
 dev-python/queuelib 1.5.0: Collection of persistent (disk-based) queues
@@ -395,7 +395,7 @@ dev-python/rangeparser 0.1.3-r1: A python package to parse ranges easily
 dev-python/rcssmin 1.0.6: RCSSmin is a CSS minifier
 dev-python/requests-file 1.4.3: File transport adapter for Requests
 dev-python/requests-futures 1.0.0-r1: Asynchronous Python HTTP Requests for Humans using Futures
-dev-python/requests-html 0.10.0: HTML Parsing for Humans
+dev-python/requests-html 0.10.0-r1: HTML Parsing for Humans
 dev-python/rich 9.8.2: Validate configuration and produce human readable error messages
 dev-python/rjsmin 1.1.0: RCSSmin is a CSS minifier
 dev-python/ruamel-base 1.0.0: common routines for ruamel packages
@@ -407,10 +407,10 @@ dev-python/simplekv 0.14.0: A key-value storage for binary data, support many ba
 dev-python/slowapi 0.1.4: A rate limiting extension for Starlette and Fastapi
 dev-python/sniffio 1.1.0 1.2.0: Sniff out which async library your code is running under
 dev-python/social-auth-core 3.3.3: Python social authentication made simple
-dev-python/soupsieve 1.9.3: A modern CSS selector implementation for BeautifulSoup
+dev-python/soupsieve 1.9.3-r1: A modern CSS selector implementation for BeautifulSoup
 dev-python/sphinx-autodoc-typehints 1.8.0: Type hints (PEP 484) support for the Sphinx autodoc extension
 dev-python/splinter 0.13.0: tool for testing web applications
-dev-python/spry 0.5.5: social media scanner
+dev-python/spry 0.5.5-r1: social media scanner
 dev-python/sqlalchemy_mixins 1.2.1: Active Record, Django-like queries
 dev-python/sqlalchemy_schemadisplay 1.3: Turn SQLAlchemy DB Model into a graph
 dev-python/sqlalchemy_utc 0.12.0: SQLAlchemy type to store aware datetime values
@@ -554,7 +554,7 @@ dev-util/jd-gui 1.6.6-r4: A standalone Java Decompiler GUI
 dev-util/jnitrace 3.2.1 3.2.2: A Frida based tool that traces usage of the JNI API in Android apps.
 dev-util/lief 0.11.4 0.11.5: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
-dev-util/mobsf 3.4.0 3.4.3: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
+dev-util/mobsf 3.4.0-r1 3.4.3-r1: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
 dev-util/objection 1.10.2 1.11.0-r1: Runtime mobile exploration
 dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIPS
 dev-util/qark 0.9_pre20190405: A tool to look for Android application vulnerabilities
@@ -587,14 +587,14 @@ net-analyzer/cisco-auditing-tool 1: Perl script which scans cisco routers for co
 net-analyzer/cisco-torch 0.4b: Cisco mass scanning, fingerprinting, and exploitation tool
 net-analyzer/commix 3.1 3.2: Automated All-in-One OS command injection and exploitation tool
 net-analyzer/cottontail 20190426-r1: Capture all RabbitMQ messages being sent through a broker
-net-analyzer/crackmapexec 5.1.6 5.1.7: A swiss army knife for pentesting Windows/Active Directory environments
+net-analyzer/crackmapexec 5.1.6-r1 5.1.7-r1: A swiss army knife for pentesting Windows/Active Directory environments
 net-analyzer/davtest 1.0: tests WebDAV enabled servers
 net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden content
 net-analyzer/dirble-bin 1.3.1 1.4.2: Fast directory scanning and scraping tool
-net-analyzer/dirhunt 0.6.0-r1 0.7.0: Dirhunt is a web crawler optimized for searching and analyzing web directories.
+net-analyzer/dirhunt 0.6.0-r2 0.7.0-r1: Dirhunt is a web crawler optimized for searching and analyzing web directories.
 net-analyzer/dirsearch 0.3.9 0.4.0_p20201202 0.4.0_p20210427: A simple command line tool designed to brute force dirs and files in websites
 net-analyzer/dnsrecon 0.10.0 0.10.1: DNS Enumeration Script
-net-analyzer/droopescan 1.41.3-r1: A scanner that helps identifying issues in Drupal, SilverStripe, and Wordpress
+net-analyzer/droopescan 1.41.3-r2: A scanner that helps identifying issues in Drupal, SilverStripe, and Wordpress
 net-analyzer/enteletaor 1.1.1: Message Queue & Broker Injection tool
 net-analyzer/enum4linux 0.8.9-r1 0.9.1: A tool for enumerating information from Windows and Samba systems
 net-analyzer/evilgrade 2.0.9: A modular framework that takes advantage of poor upgrade implementations by injecting fake updates.
@@ -611,11 +611,11 @@ net-analyzer/httprint 301: HTTP fingerprinter tool
 net-analyzer/hyenae 0.36.1: a highly flexible packet generator
 net-analyzer/ifchk 1.1.1 1.1.2: A network interface promiscuous mode detection tool
 net-analyzer/ike-scan 1.9.4_p20201223: A utility for finding, fingerprinting and testing IKE VPN servers
-net-analyzer/iposint 20190615: Discovery IP Address of the target
+net-analyzer/iposint 20190615-r1: Discovery IP Address of the target
 net-analyzer/jmsdigger-bin 20130815: JMSDigger is an Enterprise Messaging Application assessment tool focuses on ActiveMQ
 net-analyzer/kismet-analyzer 0.3.0: Library for parsing kismet results from the .kismet database file
 net-analyzer/maketh 0.2.0: Ethernet packet injector and creator
-net-analyzer/maryam 2.2.6: OWASP Maryam is a modular open source OSINT and data gathering framework
+net-analyzer/maryam 2.2.6-r1: OWASP Maryam is a modular open source OSINT and data gathering framework
 net-analyzer/masscan 1.0.5-r1 1.3.2: Mass IP port scanner
 net-analyzer/massdns 0.3 9999: A high-performance DNS stub resolver for bulk lookups and reconnaissance
 net-analyzer/medusa 2.3_pre: A modular, parallel, multiprotocol, network login auditor
@@ -629,7 +629,7 @@ net-analyzer/nmap_vulscan 2.0_p20190923 2.1: A NSE vulnerability scanner which u
 net-analyzer/ntlmrecon 0.2_beta 0.4_beta: A tool to enumerate information from NTLM authentication enabled web endpoints
 net-analyzer/onesixtyone 0.7: An efficient SNMP scanner
 net-analyzer/osmedeus 9999: A offensive security tool for reconnaissance and vulnerability scanning
-net-analyzer/owtf 2.6.0-r1 2.6.0_p20210714: The Offensive Web Testing Framework
+net-analyzer/owtf 2.6.0-r1 2.6.0_p20210714-r1: The Offensive Web Testing Framework
 net-analyzer/padbuster 20110928: Automated script for performing Padding Oracle attacks
 net-analyzer/plecost 9999: Wordpress finger printing tool, retrieve information about the plugins and versions installed
 net-analyzer/polenum 1.6.1: Extract password policy from a windows machine
@@ -646,7 +646,7 @@ net-analyzer/s3scanner 1.0.0_p20190928: Scan for open AWS S3 buckets and dump th
 net-analyzer/scamper 20191102b: Actively probes the Internet in order to analyze topology and performance
 net-analyzer/serialusb 0.7: A cheap USB proxy for input devices
 net-analyzer/sessionlist 1.0-r1: A HTTP packets sniffer
-net-analyzer/set 8.0.3: A social engineering framework
+net-analyzer/set 8.0.3-r1: A social engineering framework
 net-analyzer/sitadel 1.0.0_p20190828: Web application security scanner
 net-analyzer/smbmap 1.8.2-r1: SMBMap is a handy SMB enumeration tool
 net-analyzer/sn0int 0.16.0 0.17.1 0.18.2 0.19.1: Semi-automatic OSINT framework and package manager
@@ -663,13 +663,13 @@ net-analyzer/termshark 2.2.0: A terminal UI for tshark, inspired by Wireshark
 net-analyzer/testssl 3.0.4 3.0.5: Tool to check TLS/SSL cipher support
 net-analyzer/thc-pptp-bruter 0.1.4: A brute force program that works against pptp vpn endpoints
 net-analyzer/thc-ssl-dos 1.4: THC-SSL-DOS is a tool to verify the performance of SSL servers
-net-analyzer/theHarvester 3.2.4 4.0.0: The Harvester is a tool designed to collect email accounts of the target domain
+net-analyzer/theHarvester 3.2.4-r1 4.0.0-r1: The Harvester is a tool designed to collect email accounts of the target domain
 net-analyzer/tplmap 20190820: Server-Side Template Injection and code injection tool
 net-analyzer/twa 1.9.3 1.10.0 9999: A tiny web auditor with strong opinions
 net-analyzer/unicornscan 0.4.7.2: A utility for information gathering or security auditing
 net-analyzer/videojak 1.00 2.0: VideoJak is an IP Video security assessment tool
 net-analyzer/voiphopper 2.04-r3: VoIP Hopper is a tool that rapidly runs a VLAN Hop into the Voice VLAN
-net-analyzer/wafw00f 2.1.0-r1: Identifies and fingerprints Web Application Firewall (WAF) products
+net-analyzer/wafw00f 2.1.0-r2: Identifies and fingerprints Web Application Firewall (WAF) products
 net-analyzer/webtech 1.2.11 1.2.12: Identify technologies used on websites
 net-analyzer/wfuzz 3.0.3 3.1.0: Wfuzz is a tool designed for bruteforcing Web Applications
 net-analyzer/whatweb 0.5.5: Next generation web scanner, identifies what software websites are running
@@ -686,21 +686,21 @@ net-libs/libpfring 7.4.0 7.8.0: A new type of network socket that improves packe
 net-libs/libtins 4.1 4.2 4.3: High-level, multiplatform C++ network packet sniffing and crafting library.
 net-libs/libvidcap 0.2.1: a cross-platform library for capturing video from webcams and other video capture devices
 net-mail/davmail-bin 5.5.1.3299-r2 6.0.0.3375: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
-net-mail/email2phonenumber 20190916 99999999: A OSINT tool to obtain a target's phone number just by having his email address
+net-mail/email2phonenumber 20190916-r1 99999999: A OSINT tool to obtain a target's phone number just by having his email address
 net-mail/fakepop 11: fake pop3 server which returns the same messages to all users
 net-misc/brutespray 1.6.6 1.6.8: Brute-Forcing from Nmap output using default creds
 net-misc/corscanner 20190721 99999999: Fast CORS misconfiguration vulnerabilities scannerbeers
-net-misc/dirscraper 20190224 99999999: Scanning tool which discovers dirs found in javascript files hosted on a website
+net-misc/dirscraper 20190224-r1 99999999: Scanning tool which discovers dirs found in javascript files hosted on a website
 net-misc/goaltdns 20190330: A permutation generation tool written in golang
 net-misc/gowitness 1.3.4 2.3.6: A web screenshot utility using Chrome Headless
 net-misc/hackertarget 1.2.3 9999: A security toolkit for organizations with attack surface discovery
 net-misc/httprobe 0.1.1 0.1.2: Take a list of domains and probe for working HTTP and HTTPS servers
 net-misc/linkfinder 20191124: A python script that finds endpoints in JavaScript files
 net-misc/meg 0.2.4: Fetch many paths for many hosts - without killing the hosts
-net-misc/munin 0.14.1-r1 9999: Online hash checker for Virustotal and other services
+net-misc/munin 0.14.1-r2 9999: Online hash checker for Virustotal and other services
 net-misc/photon 1.3.0 9999: Incredibly fast crawler designed for OSINT
 net-misc/pwnedornot 1.2.8_p20200602: OSINT Tool for Finding Passwords of Compromised Email Addresses Topics
-net-misc/sherlock 0.10.4 0.10.5 0.10.9 0.11.1 0.12.9 9999: Find usernames across social networks
+net-misc/sherlock 0.10.4-r1 0.10.5-r1 0.10.9-r1 0.11.1-r1 0.12.9-r1 9999: Find usernames across social networks
 net-misc/sippts 2.0.4: set of tools to audit VoIP servers and devices using SIP protocol
 net-misc/t50 5.8.5 5.8.7: Mixed Packet Injector & Network Stress Testing Tool
 net-misc/tko-subs 20190624: A tool that can help detect and takeover subdomains with dead DNS records
@@ -803,7 +803,7 @@ net-wireless/signalhound-spike 3.5.9: Spectrum analyzer software for Signal Houn
 net-wireless/ska 0.2: Fake Shared Key Authentication
 net-wireless/trunk-recorder 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
 net-wireless/virtualradar-bin 2.4.3: Open-source .NET application for ads-b mapping
-net-wireless/wifipumpkin3 1.0.8_p1 1.0.8_p2: Framework for Rogue Wi-Fi Access Point Attack
+net-wireless/wifipumpkin3 1.0.8_p1-r1 1.0.8_p2-r1: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifite 2.5.5 2.5.8: An automated wireless attack tool
 net-wireless/wireless-regdb 20091125-r1: Binary regulatory database for CRDA
 net-wireless/wpa_sycophant 1.0 9999: Evil client portion of EAP relay attack
@@ -878,7 +878,7 @@ virtual/linux-sources 3-r104: Virtual for Linux kernel sources
 www-apps/BloodHound 4.0.2 4.0.3: Six Degrees of Domain Admin
 www-apps/Tiredful-API 9999: An intentionally designed broken web application based on REST API
 www-apps/beef 0.5.0.0-r1: Browser exploitation framework
-www-apps/faraday 3.10.0: Integrated Penetration-Test Environment is a multiuser Penetration test IDE
+www-apps/faraday 3.10.0-r1: Integrated Penetration-Test Environment is a multiuser Penetration test IDE
 www-apps/geckodriver 0.23.0 0.27.0: Proxy for using WebDriver clients to interact with Gecko-based browsers.
 www-apps/rda 2.9 3.0: Web-based application for effective reporting writing
 www-apps/seafile-pro-server 7.1.22 8.0.9: Meta package for Seafile Pro Edition, file sync share solution
