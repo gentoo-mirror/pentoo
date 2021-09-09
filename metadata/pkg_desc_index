@@ -546,7 +546,7 @@ dev-util/dwarf-debugger 1.0.9_p20200521: Full featured multi arch/os debugger bu
 dev-util/electron-bin 6.0.11: Cross platform application development framework based on web technologies
 dev-util/electron-packager 14.2.1: Six Degrees of Domain Admin
 dev-util/frida-tools 9.2.4 9.2.5 10.0.0: Frida CLI tools
-dev-util/ghidra 10.0-r1 10.0.1 10.0.2: A software reverse engineering framework
+dev-util/ghidra 10.0.2 10.0.3: A software reverse engineering framework
 dev-util/jadx-bin 1.1.0 1.2.0: A standalone graphical utility that displays Java source codes of .class file
 dev-util/jd-cli 1.2.0: Command line Java Decompiler
 dev-util/jd-cli-bin 1.1.0 1.2.0: Command line Java Decompiler
