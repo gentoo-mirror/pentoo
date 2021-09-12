@@ -1,17 +1,17 @@
-BDEPEND=ruby_targets_ruby25? ( dev-ruby/bundler:2[ruby_targets_ruby25(-)] test? ( dev-ruby/rake[ruby_targets_ruby25(-)] dev-ruby/rspec:2[ruby_targets_ruby25(-)] ) ) ruby_targets_ruby26? ( dev-ruby/bundler:2[ruby_targets_ruby26(-)] test? ( dev-ruby/rake[ruby_targets_ruby26(-)] dev-ruby/rspec:2[ruby_targets_ruby26(-)] ) ) test? ( ruby_targets_ruby25? ( dev-ruby/dm-migrations[ruby_targets_ruby25(-)] dev-ruby/dm-sqlite-adapter[ruby_targets_ruby25(-)] dev-ruby/dm-timestamps[ruby_targets_ruby25(-)] dev-ruby/dm-validations[ruby_targets_ruby25(-)] dev-ruby/louis[ruby_targets_ruby25(-)] development? ( dev-ruby/pry[ruby_targets_ruby25(-)] dev-ruby/rake[ruby_targets_ruby25(-)] dev-ruby/rspec:2[ruby_targets_ruby25(-)] ) ) ruby_targets_ruby26? ( dev-ruby/dm-migrations[ruby_targets_ruby26(-)] dev-ruby/dm-sqlite-adapter[ruby_targets_ruby26(-)] dev-ruby/dm-timestamps[ruby_targets_ruby26(-)] dev-ruby/dm-validations[ruby_targets_ruby26(-)] dev-ruby/louis[ruby_targets_ruby26(-)] development? ( dev-ruby/pry[ruby_targets_ruby26(-)] dev-ruby/rake[ruby_targets_ruby26(-)] dev-ruby/rspec:2[ruby_targets_ruby26(-)] ) ) ) ruby_targets_ruby25? ( dev-lang/ruby:2.5 ) ruby_targets_ruby26? ( dev-lang/ruby:2.6 ) >=dev-vcs/git-1.8.2.1[curl]
+BDEPEND=ruby_targets_ruby26? ( dev-ruby/bundler:2[ruby_targets_ruby26(-)] test? ( dev-ruby/rake[ruby_targets_ruby26(-)] dev-ruby/rspec:2[ruby_targets_ruby26(-)] ) ) test? ( ruby_targets_ruby26? ( dev-ruby/dm-migrations[ruby_targets_ruby26(-)] dev-ruby/dm-sqlite-adapter[ruby_targets_ruby26(-)] dev-ruby/dm-timestamps[ruby_targets_ruby26(-)] dev-ruby/dm-validations[ruby_targets_ruby26(-)] dev-ruby/louis[ruby_targets_ruby26(-)] development? ( dev-ruby/pry[ruby_targets_ruby26(-)] dev-ruby/rake[ruby_targets_ruby26(-)] dev-ruby/rspec:2[ruby_targets_ruby26(-)] ) ) ) ruby_targets_ruby26? ( dev-lang/ruby:2.6 ) >=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=compile configure install prepare setup test unpack
-DEPEND=ruby_targets_ruby25? ( dev-lang/ruby:2.5 ) ruby_targets_ruby26? ( dev-lang/ruby:2.6 )
+DEPEND=ruby_targets_ruby26? ( dev-lang/ruby:2.6 )
 DESCRIPTION=bluetooth discovery service built on top of bluez
 EAPI=7
 HOMEPAGE=https://github.com/zerochaos-/blue_hydra
 INHERIT=ruby-ng git-r3
-IUSE=development ubertooth test ruby_targets_ruby25 ruby_targets_ruby26
+IUSE=development ubertooth test ruby_targets_ruby26
 LICENSE=BSD-4
 PDEPEND=dev-python/dbus-python >=net-wireless/bluez-5.46[test-programs,deprecated(+)] ubertooth? ( net-wireless/ubertooth )
 PROPERTIES=live
-RDEPEND=ruby_targets_ruby25? ( dev-ruby/dm-migrations[ruby_targets_ruby25(-)] dev-ruby/dm-sqlite-adapter[ruby_targets_ruby25(-)] dev-ruby/dm-timestamps[ruby_targets_ruby25(-)] dev-ruby/dm-validations[ruby_targets_ruby25(-)] dev-ruby/louis[ruby_targets_ruby25(-)] development? ( dev-ruby/pry[ruby_targets_ruby25(-)] dev-ruby/rake[ruby_targets_ruby25(-)] dev-ruby/rspec:2[ruby_targets_ruby25(-)] ) ) ruby_targets_ruby26? ( dev-ruby/dm-migrations[ruby_targets_ruby26(-)] dev-ruby/dm-sqlite-adapter[ruby_targets_ruby26(-)] dev-ruby/dm-timestamps[ruby_targets_ruby26(-)] dev-ruby/dm-validations[ruby_targets_ruby26(-)] dev-ruby/louis[ruby_targets_ruby26(-)] development? ( dev-ruby/pry[ruby_targets_ruby26(-)] dev-ruby/rake[ruby_targets_ruby26(-)] dev-ruby/rspec:2[ruby_targets_ruby26(-)] ) ) ruby_targets_ruby25? ( dev-lang/ruby:2.5 ) ruby_targets_ruby26? ( dev-lang/ruby:2.6 )
-REQUIRED_USE=|| ( ruby_targets_ruby25 ruby_targets_ruby26 )
+RDEPEND=ruby_targets_ruby26? ( dev-ruby/dm-migrations[ruby_targets_ruby26(-)] dev-ruby/dm-sqlite-adapter[ruby_targets_ruby26(-)] dev-ruby/dm-timestamps[ruby_targets_ruby26(-)] dev-ruby/dm-validations[ruby_targets_ruby26(-)] dev-ruby/louis[ruby_targets_ruby26(-)] development? ( dev-ruby/pry[ruby_targets_ruby26(-)] dev-ruby/rake[ruby_targets_ruby26(-)] dev-ruby/rspec:2[ruby_targets_ruby26(-)] ) ) ruby_targets_ruby26? ( dev-lang/ruby:2.6 )
+REQUIRED_USE=|| ( ruby_targets_ruby26 )
 RESTRICT=!test? ( test )
 SLOT=0
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	multilib	4b66d835ec72e021e359bb81eacfe988	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	ruby-utils	08ae6f9c60b19aabce3f66a30cce9a2d	ruby-ng	ab9b21d1b0a24b6afdd489885350e82e	git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	multilib	4b66d835ec72e021e359bb81eacfe988	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	ruby-utils	08ae6f9c60b19aabce3f66a30cce9a2d	ruby-ng	b3936ca28790633a9d3e5dd891ac9ae6	git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
 _md5_=860b581122637c10ee4da46f35cce731
