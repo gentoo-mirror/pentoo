@@ -788,7 +788,7 @@ net-wireless/portapack-mayhem 1.4.0 9999: Custom firmware for the HackRF SDR + P
 net-wireless/proxmark3 4.13441-r1 9999: A general purpose RFID tool for Proxmark3 hardware
 net-wireless/qspectrumanalyzer 2.2.0 9999: vendor and platform neutral SDR support library
 net-wireless/reaver-wps-fork-t6x 1.6.5-r1 1.6.6: Utilise Pixie Dust Attack to find the correct WPS PIN.
-net-wireless/rfcat 1.9.1 1.9.2 1.9.3: The swiss army knife of subGHz
+net-wireless/rfcat 1.9.2 1.9.3 1.9.5: The swiss army knife of subGHz
 net-wireless/rfidtool 0.01: command line rfid interface
 net-wireless/rtl8812au 4.2.5 4.3.1.4 4.3.14_p20190827 5.2.9_p20180327 5.6.4.2_p20200318 5.6.4.2_p20200703: Linux kernel driver for rtl8812au USB WiFi chipsets
 net-wireless/rtl8812au_aircrack-ng 5.6.4.2_p20200118 5.6.4.2_p20210504 9999: RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection
