@@ -449,7 +449,7 @@ dev-ruby/bundler 2.1.4-r1: An easy way to vendor gem dependencies
 dev-ruby/case_transform 0.2: Extraction of the key_transform abilities of ActiveModelSerializers
 dev-ruby/ckeditor 5.1.0: Ckeditor 4.x integration gem for rails
 dev-ruby/ckeditor_rails 4.10.0-r1 4.10.0_p20191030: CKEditor is a javascript library of the WYSIWYG rich-text editor
-dev-ruby/cms_scanner 0.13.1 0.13.5: Framework to provide an easy way to implement CMS Scanners
+dev-ruby/cms_scanner 0.13.6: Framework to provide an easy way to implement CMS Scanners
 dev-ruby/cookiejar 0.3.3: Allows for parsing and returning cookies in Ruby HTTP client code
 dev-ruby/data_objects 0.10.17: The Core DataObjects class
 dev-ruby/dm-core 1.2.1: An Object/Relational Mapper for Ruby
@@ -495,7 +495,7 @@ dev-ruby/mini_exiftool 2.10.0: wrapper for exiftool
 dev-ruby/msfrpc-client 1.1.2: Ruby client API to access the Rapid7 Metasploit Pro RPC service
 dev-ruby/mustermann-grape 1.0.1: Adds Grape style patterns to Mustermman
 dev-ruby/openssl-cmac 2.0.1: Ruby Gem for RFC 4493, 4494, 4615 - The AES-CMAC Algorithm
-dev-ruby/opt_parse_validator 1.9.3 1.9.4: OptionParser lib in ruby
+dev-ruby/opt_parse_validator 1.9.5: OptionParser lib in ruby
 dev-ruby/orm_adapter 0.5.0: Provides a single point of entry for using basic features of ruby ORMs
 dev-ruby/otr-activerecord 1.4.1: Off The Rails ActiveRecord: Use ActiveRecord with Grape, Sinatra, Rack
 dev-ruby/parseconfig 1.0.8: Provides simple parsing of standard *nix style config files.
@@ -672,7 +672,7 @@ net-analyzer/wafw00f 2.1.0-r2: Identifies and fingerprints Web Application Firew
 net-analyzer/webtech 1.2.11 1.2.12: Identify technologies used on websites
 net-analyzer/wfuzz 3.0.3 3.1.0: Wfuzz is a tool designed for bruteforcing Web Applications
 net-analyzer/whatweb 0.5.5: Next generation web scanner, identifies what software websites are running
-net-analyzer/wpscan 3.8.15 3.8.18: Wordpress security scanner
+net-analyzer/wpscan 3.8.19: Wordpress security scanner
 net-analyzer/xbruteforcer 20180611: Login brute force tool for WordPress, Joomla, DruPal, OpenCart, and Magento.
 net-analyzer/xplico 1.2.2: Extract data from TCP/IP traffic
 net-analyzer/xsstrike 3.1.5 9999: Advanced XSS detection suite
