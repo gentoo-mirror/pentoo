@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile configure install prepare
+DEPEND=alsa? ( media-libs/alsa-lib ) ilbc? ( media-libs/libilbc ) gsm? ( media-sound/gsm ) speex? ( media-libs/speex ) ssl? ( dev-libs/openssl )
+DESCRIPTION=Multimedia communication libraries for building VoIP applications
+EAPI=7
+HOMEPAGE=http://www.pjsip.org/
+IUSE=alsa doc epoll examples ext-sound g711 g722 g7221 gsm ilbc l16 oss python speex ssl
+KEYWORDS=amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=alsa? ( media-libs/alsa-lib ) ilbc? ( media-libs/libilbc ) gsm? ( media-sound/gsm ) speex? ( media-libs/speex ) ssl? ( dev-libs/openssl )
+SLOT=0
+SRC_URI=https://github.com/pjsip/pjproject/archive/refs/tags/2.10.tar.gz -> pjsip-2.10.tar.gz
+_md5_=da297b0fdbfd14e30a58900983b29961

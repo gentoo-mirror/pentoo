@@ -717,6 +717,7 @@ net-proxy/proxenet 0.4.1: A hacker friendly proxy for web application penetratio
 net-proxy/proxenet-plugins 9999: Repository for proxenet plugins
 net-proxy/sshttp 0.35_p2-r1 0.35_p20191108: An easy to use OSI-Layer5 switching daemon
 net-proxy/zaproxy 2.9.0-r1 2.10.0-r1: The OWASP Zed Attack Proxy for finding vulnerabilities in web applications
+net-voip/pjsip 2.10: Multimedia communication libraries for building VoIP applications
 net-vpn/kcptun 20200201 20200226 20200321 20200409 20200701: A Stable & Secure Tunnel Based On KCP with N:M Multiplexing
 net-vpn/kcptun-plugins 20190313: SIP003-compatible KCPTUN and UDP2RAW plugins for Shadowsocks
 net-vpn/tuntox 0.0.9 9999: Tunnel TCP connections over the Tox protocol
