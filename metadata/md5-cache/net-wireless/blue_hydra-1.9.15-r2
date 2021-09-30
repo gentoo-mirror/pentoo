@@ -1,18 +1,18 @@
-BDEPEND=ruby_targets_ruby26? ( dev-ruby/bundler:2[ruby_targets_ruby26(-)] test? ( dev-ruby/rake[ruby_targets_ruby26(-)] dev-ruby/rspec:2[ruby_targets_ruby26(-)] ) ) test? ( ruby_targets_ruby26? ( dev-ruby/dm-migrations[ruby_targets_ruby26(-)] dev-ruby/dm-sqlite-adapter[ruby_targets_ruby26(-)] dev-ruby/dm-timestamps[ruby_targets_ruby26(-)] dev-ruby/dm-validations[ruby_targets_ruby26(-)] dev-ruby/louis[ruby_targets_ruby26(-)] development? ( dev-ruby/pry[ruby_targets_ruby26(-)] dev-ruby/rake[ruby_targets_ruby26(-)] dev-ruby/rspec:2[ruby_targets_ruby26(-)] ) ) ) ruby_targets_ruby26? ( dev-lang/ruby:2.6 )
+BDEPEND=ruby_targets_ruby26? ( dev-ruby/bundler:2[ruby_targets_ruby26(-)] test? ( dev-ruby/rake[ruby_targets_ruby26(-)] dev-ruby/rspec:2[ruby_targets_ruby26(-)] ) ) ruby_targets_ruby27? ( dev-ruby/bundler:2[ruby_targets_ruby27(-)] test? ( dev-ruby/rake[ruby_targets_ruby27(-)] dev-ruby/rspec:2[ruby_targets_ruby27(-)] ) ) test? ( ruby_targets_ruby26? ( dev-ruby/dm-migrations[ruby_targets_ruby26(-)] dev-ruby/dm-sqlite-adapter[ruby_targets_ruby26(-)] dev-ruby/dm-timestamps[ruby_targets_ruby26(-)] dev-ruby/dm-validations[ruby_targets_ruby26(-)] dev-ruby/louis[ruby_targets_ruby26(-)] development? ( dev-ruby/pry[ruby_targets_ruby26(-)] dev-ruby/rake[ruby_targets_ruby26(-)] dev-ruby/rspec:2[ruby_targets_ruby26(-)] ) ) ruby_targets_ruby27? ( dev-ruby/dm-migrations[ruby_targets_ruby27(-)] dev-ruby/dm-sqlite-adapter[ruby_targets_ruby27(-)] dev-ruby/dm-timestamps[ruby_targets_ruby27(-)] dev-ruby/dm-validations[ruby_targets_ruby27(-)] dev-ruby/louis[ruby_targets_ruby27(-)] development? ( dev-ruby/pry[ruby_targets_ruby27(-)] dev-ruby/rake[ruby_targets_ruby27(-)] dev-ruby/rspec:2[ruby_targets_ruby27(-)] ) ) ) ruby_targets_ruby26? ( dev-lang/ruby:2.6 ) ruby_targets_ruby27? ( dev-lang/ruby:2.7 )
 DEFINED_PHASES=compile configure install prepare setup test unpack
-DEPEND=ruby_targets_ruby26? ( dev-lang/ruby:2.6 )
+DEPEND=ruby_targets_ruby26? ( dev-lang/ruby:2.6 ) ruby_targets_ruby27? ( dev-lang/ruby:2.7 )
 DESCRIPTION=bluetooth discovery service built on top of bluez
 EAPI=7
 HOMEPAGE=https://github.com/zerochaos-/blue_hydra
 INHERIT=ruby-ng
-IUSE=development ubertooth test ruby_targets_ruby26
+IUSE=development ubertooth test ruby_targets_ruby26 ruby_targets_ruby27
 KEYWORDS=~amd64 ~x86
 LICENSE=BSD-4
 PDEPEND=dev-python/dbus-python >=net-wireless/bluez-5.46[test-programs,deprecated(+)] ubertooth? ( net-wireless/ubertooth )
-RDEPEND=ruby_targets_ruby26? ( dev-ruby/dm-migrations[ruby_targets_ruby26(-)] dev-ruby/dm-sqlite-adapter[ruby_targets_ruby26(-)] dev-ruby/dm-timestamps[ruby_targets_ruby26(-)] dev-ruby/dm-validations[ruby_targets_ruby26(-)] dev-ruby/louis[ruby_targets_ruby26(-)] development? ( dev-ruby/pry[ruby_targets_ruby26(-)] dev-ruby/rake[ruby_targets_ruby26(-)] dev-ruby/rspec:2[ruby_targets_ruby26(-)] ) ) ruby_targets_ruby26? ( dev-lang/ruby:2.6 )
-REQUIRED_USE=|| ( ruby_targets_ruby26 )
+RDEPEND=ruby_targets_ruby26? ( dev-ruby/dm-migrations[ruby_targets_ruby26(-)] dev-ruby/dm-sqlite-adapter[ruby_targets_ruby26(-)] dev-ruby/dm-timestamps[ruby_targets_ruby26(-)] dev-ruby/dm-validations[ruby_targets_ruby26(-)] dev-ruby/louis[ruby_targets_ruby26(-)] development? ( dev-ruby/pry[ruby_targets_ruby26(-)] dev-ruby/rake[ruby_targets_ruby26(-)] dev-ruby/rspec:2[ruby_targets_ruby26(-)] ) ) ruby_targets_ruby27? ( dev-ruby/dm-migrations[ruby_targets_ruby27(-)] dev-ruby/dm-sqlite-adapter[ruby_targets_ruby27(-)] dev-ruby/dm-timestamps[ruby_targets_ruby27(-)] dev-ruby/dm-validations[ruby_targets_ruby27(-)] dev-ruby/louis[ruby_targets_ruby27(-)] development? ( dev-ruby/pry[ruby_targets_ruby27(-)] dev-ruby/rake[ruby_targets_ruby27(-)] dev-ruby/rspec:2[ruby_targets_ruby27(-)] ) ) ruby_targets_ruby26? ( dev-lang/ruby:2.6 ) ruby_targets_ruby27? ( dev-lang/ruby:2.7 )
+REQUIRED_USE=|| ( ruby_targets_ruby26 ruby_targets_ruby27 )
 RESTRICT=!test? ( test )
 SLOT=0
 SRC_URI=https://github.com/zerochaos-/blue_hydra/archive/1.9.15.tar.gz -> blue_hydra-1.9.15.tar.gz
 _eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	multilib	4b66d835ec72e021e359bb81eacfe988	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	ruby-utils	08ae6f9c60b19aabce3f66a30cce9a2d	ruby-ng	b3936ca28790633a9d3e5dd891ac9ae6
-_md5_=9a75cb8975ee4778d82fae5570cc64ce
+_md5_=d0f98965a45d5cf814144a43677fe6b4
