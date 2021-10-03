@@ -659,7 +659,7 @@ net-analyzer/sublert 1.4.7_p20200103: Monitor new subdomains deployed by specifi
 net-analyzer/sublist3r 1.0_p20200105 1.1_p20200629: Enumerate subdomains of websites using OSINT
 net-analyzer/takeover 20200312: Sub-Domain TakeOver Vulnerability Scanner
 net-analyzer/termshark 2.2.0: A terminal UI for tshark, inspired by Wireshark
-net-analyzer/testssl 3.0.4 3.0.5: Tool to check TLS/SSL cipher support
+net-analyzer/testssl 3.0.5 3.0.6: Tool to check TLS/SSL cipher support
 net-analyzer/thc-pptp-bruter 0.1.4: A brute force program that works against pptp vpn endpoints
 net-analyzer/thc-ssl-dos 1.4: THC-SSL-DOS is a tool to verify the performance of SSL servers
 net-analyzer/theHarvester 3.2.4-r1 4.0.0-r1: The Harvester is a tool designed to collect email accounts of the target domain
