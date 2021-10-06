@@ -31,7 +31,6 @@ app-crypt/stegcracker 2.0.7 20190219-r1: Steganography brute-force utility to un
 app-crypt/steghide 0.5.1: A steganography program which hides data in various media files
 app-crypt/wisecracker 1.0-r1: An open source framework for tools that can distribute brute force cryptanalysis
 app-crypt/xortool 0.99: A tool to analyze multi-byte xor cipher
-app-crypt/yubioath-desktop 5.0.5: Library and tool for personalization of Yubico's YubiKey NEO
 app-dicts/raft-wordlists 20110803-r1: Raft wordlists
 app-dicts/seclists 2020.4 2021.1 2021.2 2021.3.1: A collection of multiple types of lists used during security assessments
 app-editors/rehex 0.3.91 0.3.92: Reverse Engineers' Hex Editor
