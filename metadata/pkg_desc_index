@@ -364,7 +364,7 @@ dev-python/pyminifier 2.1 2.1_p20150625: Pyminifier is a Python code minifier, o
 dev-python/pymisp 2.4.124-r1: A python library for using the MISP Rest API
 dev-python/pymodbus 2.1.0: A fully featured modbus protocol stack in python
 dev-python/pypcapfile 0.12.0: Pure Python package for reading and parsing libpcap savefiles
-dev-python/pyppeteer 0.0.25 0.2.5: Headless chrome/chromium automation library
+dev-python/pyppeteer 0.0.25 0.2.6: Headless chrome/chromium automation library
 dev-python/pypsrp 0.5.0: PowerShell Remoting Protocol and WinRM for Python
 dev-python/pysnmp-apps 0.5.3: PySNMP applications
 dev-python/pyspnego 0.1.3: Windows Negotiate Authentication Client and Server
@@ -661,7 +661,7 @@ net-analyzer/termshark 2.2.0: A terminal UI for tshark, inspired by Wireshark
 net-analyzer/testssl 3.0.5 3.0.6: Tool to check TLS/SSL cipher support
 net-analyzer/thc-pptp-bruter 0.1.4: A brute force program that works against pptp vpn endpoints
 net-analyzer/thc-ssl-dos 1.4: THC-SSL-DOS is a tool to verify the performance of SSL servers
-net-analyzer/theHarvester 3.2.4-r1 4.0.0-r1: The Harvester is a tool designed to collect email accounts of the target domain
+net-analyzer/theHarvester 3.2.4-r1 4.0.0-r1 4.0.1: The Harvester is a tool designed to collect email accounts of the target domain
 net-analyzer/tplmap 20190820: Server-Side Template Injection and code injection tool
 net-analyzer/twa 1.9.3 1.10.0 9999: A tiny web auditor with strong opinions
 net-analyzer/unicornscan 0.4.7.2: A utility for information gathering or security auditing
