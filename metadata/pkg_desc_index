@@ -598,7 +598,7 @@ net-analyzer/enum4linux 0.8.9-r1 0.9.1: A tool for enumerating information from 
 net-analyzer/evilgrade 2.0.9: A modular framework that takes advantage of poor upgrade implementations by injecting fake updates.
 net-analyzer/ffuf 1.2.1 1.3.1: Fast web fuzzer / directory brute force
 net-analyzer/fierce 1.4.0-r1 9999: A DNS reconnaissance tool for locating non-contiguous IP space
-net-analyzer/findomain 2.1.1 2.1.5: The fastest and cross-platform subdomain enumerator, don't waste your time
+net-analyzer/findomain 2.1.1 2.1.5 5.0.0: The fastest and cross-platform subdomain enumerator, don't waste your time
 net-analyzer/geoipgen 0.4: Generate a list of hostnames based on country
 net-analyzer/gitgraber 20191002: Tool to scan for sensitive information within public GitHub repositories
 net-analyzer/gitrob 2.0.0_beta-r1: Reconnaissance tool for GitHub organizations
