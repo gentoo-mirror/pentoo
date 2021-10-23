@@ -1,7 +1,8 @@
 DEFINED_PHASES=compile install postinst postrm preinst prepare setup
 DEPEND=!!net-wireless/rtl8812au !!net-wireless/rtl8812au_asus !!net-wireless/rtl8812au_astsam kernel_linux? ( sys-apps/kmod[tools] dist-kernel? ( virtual/dist-kernel:= ) ) sys-apps/sed kernel_linux? ( virtual/linux-sources virtual/libelf )
+DESCRIPTION=Wi-Fi fragmentation and aggregation vulnerability tests
 EAPI=7
-HOMEPAGE=https://github.com/aircrack-ng/rtl8812au
+HOMEPAGE=https://github.com/vanhoefm/fragattacks-drivers58
 INHERIT=linux-mod linux-info
 IUSE=kernel_linux kernel_linux kernel_linux dist-kernel kernel_linux
 KEYWORDS=~amd64 ~x86
@@ -10,4 +11,4 @@ RDEPEND=kernel_linux? ( sys-apps/kmod[tools] dist-kernel? ( virtual/dist-kernel:
 SLOT=0
 SRC_URI=https://github.com/vanhoefm/fragattacks-drivers58/archive/92453e8ab9cf1db26fca29aa0155870f6bdd2bf9.tar.gz -> fragattacks-drivers58-20210507.tar.gz
 _eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	dab5d8ec471d025b79c9e6906bcf3bff	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	4b66d835ec72e021e359bb81eacfe988	linux-info	6b67971d8a0a029d13181f2cfb9f5fa9	linux-mod	42a7a0aa05c4a383593bdaad7958058a
-_md5_=224264733b3c336cb2c21b158be06cc8
+_md5_=02192da5051d050a158b6ed853a65e86

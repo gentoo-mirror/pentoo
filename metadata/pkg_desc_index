@@ -608,7 +608,7 @@ net-analyzer/honeypots 0.14 9999: 16 different honeypots for monitoring network 
 net-analyzer/httprint 301: HTTP fingerprinter tool
 net-analyzer/hyenae 0.36.1: a highly flexible packet generator
 net-analyzer/ifchk 1.1.1 1.1.2: A network interface promiscuous mode detection tool
-net-analyzer/ike-scan 1.9.4_p20201223: A utility for finding, fingerprinting and testing IKE VPN servers
+net-analyzer/ike-scan 1.9.4_p20201223 1.9.5: A utility for finding, fingerprinting and testing IKE VPN servers
 net-analyzer/iposint 20190615-r1: Discovery IP Address of the target
 net-analyzer/jmsdigger-bin 20130815: JMSDigger is an Enterprise Messaging Application assessment tool focuses on ActiveMQ
 net-analyzer/kismet-analyzer 0.3.0: Library for parsing kismet results from the .kismet database file
@@ -863,7 +863,7 @@ sys-fs/ubi_reader 0.6.3 9999: Reading information and extracting data from UBIFS
 sys-fs/yaffshiv 20160105 99999999: YAFFS filesystem extraction tool
 sys-kernel/chromeos-sources 9999: Linux kernel source for the Samsung Chromebook
 sys-kernel/compat-drivers 5.10.34: Stable kernel pre-release wifi subsystem backport
-sys-kernel/fragattacks-drivers58 20210507: 
+sys-kernel/fragattacks-drivers58 20210507: Wi-Fi fragmentation and aggregation vulnerability tests
 sys-kernel/ft60x_driver 20180209 20190318: USB FT60x driver
 sys-kernel/kconfig-hardened-check 0.5.9 0.5.10 9999: A script for checking the hardening options in the Linux kernel config
 sys-kernel/minipli-sources 4.9.74: Unofficial forward ports of the last publicly available grsecurity patch
