@@ -320,7 +320,7 @@ dev-python/mitm6 0.2.2: pwning IPv4 via IPv6
 dev-python/mockito 1.2.0: Spying framework based on Mockito java library
 dev-python/msldap 0.3.29 0.3.30: Python library to play with MS LDAP
 dev-python/msoffcrypto-tool 4.10.1 4.12.0: Decrypting MS Office files with passwords or other keys
-dev-python/nassl 3.0.0 3.1.0 4.0.0: Experimental OpenSSL wrapper for Python 3.7+ and SSLyze
+dev-python/nassl 3.1.0 4.0.0 4.0.1: Experimental OpenSSL wrapper for Python 3.7+ and SSLyze
 dev-python/neo4j 4.2.0 4.2.1: Neo4j Bolt driver for Python
 dev-python/neobolt 1.7.17: Neo4j Bolt Connector for Python
 dev-python/neotime 1.7.4: Nanosecond resolution temporal types
