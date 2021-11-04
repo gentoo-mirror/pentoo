@@ -796,6 +796,7 @@ net-wireless/rtl8822bu 5.3.1_p20190920 5.8.7.4_p20210626 9999: RTL88x2BU driver 
 net-wireless/rx_tools 1.0.3-r1 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
 net-wireless/scopy 9999: A software oscilloscope and signal analysis toolset
 net-wireless/sdrangel 6.16.1 6.16.4: SDR Rx/Tx software
+net-wireless/sdrpp 1.0.4 9999: SDR++ is a cross-platform and open source SDR software with the aim of being bloat free and simple to use.
 net-wireless/sdrtrunk 0.4.0-r1: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/sdrtrunk-bin 0.4.0-r1: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/signalhound-spike 3.5.9: Spectrum analyzer software for Signal Hound test equipment
