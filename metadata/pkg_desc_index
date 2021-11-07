@@ -722,6 +722,7 @@ net-vpn/kcptun-plugins 20190313: SIP003-compatible KCPTUN and UDP2RAW plugins fo
 net-vpn/tuntox 0.0.9 9999: Tunnel TCP connections over the Tox protocol
 net-vpn/udp2raw-tunnel 20200727.0 20200818.0 99999999: A tunnel which turns UDP traffic into encrypted FakeTCP/UDP/ICMP traffic
 net-wireless/airgeddon 10.42: bash script for Linux systems to audit wireless networks
+net-wireless/airspyhf 1.6.8 9999: User mode driver for Airspy HF+
 net-wireless/b43-openfwwf 5.2: OpenBroadcom Firmware
 net-wireless/b43-tools 9999: Tools for developers working on broadcom drivers/firmware
 net-wireless/berate_ap 20190918 99999999: Script for orchestrating mana rogue WiFi Access Points (fork create_ap)
