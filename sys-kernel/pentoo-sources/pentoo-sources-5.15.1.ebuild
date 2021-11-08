@@ -4,13 +4,14 @@
 EAPI="8"
 ETYPE="sources"
 K_WANT_GENPATCHES="base extras experimental"
-K_GENPATCHES_VER="21"
+K_GENPATCHES_VER="3"
 
 inherit kernel-2
 detect_version
 detect_arch
 
-KEYWORDS="amd64 x86"
+#some kind of radiotap bug
+#KEYWORDS="amd64 x86"
 HOMEPAGE="https://github.com/pentoo/pentoo-livecd/tree/master/kernel/"
 IUSE="experimental pax_kernel"
 
@@ -31,8 +32,6 @@ src_unpack() {
 	eapply -s "${FILESDIR}/4004_zd1211rw-inject+dbi-fix-4.7ish.patch"
 	eapply -s "${FILESDIR}/4005_ipw2200-inject-4.7ish.patch"
 	eapply -s "${FILESDIR}/4400_logo_larry_the_cow.patch"
-	#backported from 5.14 by johill for us https://p.sipsolutions.net/4856546e581cce26.txt
-	eapply -s "${FILESDIR}/4001_cfg80211_remove_maxchannels.patch"
 }
 
 src_install() {
