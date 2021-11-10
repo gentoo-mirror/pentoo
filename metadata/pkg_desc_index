@@ -668,7 +668,7 @@ net-analyzer/unicornscan 0.4.7.2: A utility for information gathering or securit
 net-analyzer/videojak 1.00 2.0: VideoJak is an IP Video security assessment tool
 net-analyzer/voiphopper 2.04-r3: VoIP Hopper is a tool that rapidly runs a VLAN Hop into the Voice VLAN
 net-analyzer/wafw00f 2.1.0-r2: Identifies and fingerprints Web Application Firewall (WAF) products
-net-analyzer/webtech 1.2.11 1.2.12: Identify technologies used on websites
+net-analyzer/webtech 1.2.12 1.3: Identify technologies used on websites
 net-analyzer/wfuzz 3.0.3 3.1.0: Wfuzz is a tool designed for bruteforcing Web Applications
 net-analyzer/whatweb 0.5.5: Next generation web scanner, identifies what software websites are running
 net-analyzer/wpscan 3.8.19: Wordpress security scanner
