@@ -661,7 +661,7 @@ net-analyzer/termshark 2.2.0: A terminal UI for tshark, inspired by Wireshark
 net-analyzer/testssl 3.0.5 3.0.6: Tool to check TLS/SSL cipher support
 net-analyzer/thc-pptp-bruter 0.1.4: A brute force program that works against pptp vpn endpoints
 net-analyzer/thc-ssl-dos 1.4: THC-SSL-DOS is a tool to verify the performance of SSL servers
-net-analyzer/theHarvester 3.2.4-r1 4.0.0-r1 4.0.1: The Harvester is a tool designed to collect email accounts of the target domain
+net-analyzer/theHarvester 4.0.0-r1 4.0.1 4.0.2: The Harvester is a tool designed to collect email accounts of the target domain
 net-analyzer/tplmap 20190820: Server-Side Template Injection and code injection tool
 net-analyzer/twa 1.9.3 1.10.0 9999: A tiny web auditor with strong opinions
 net-analyzer/unicornscan 0.4.7.2: A utility for information gathering or security auditing
