@@ -89,7 +89,7 @@ app-forensics/s3tk 0.3.0 9999: A security toolkit for Amazon S3
 app-forensics/samhain 4.3.3 4.4.0: Advanced file integrity and intrusion detection tool.
 app-forensics/scap-security-guide 0.1.50 0.1.51: Security compliance content in SCAP, Bash, Ansible, and other formats
 app-forensics/scap-workbench 1.2.0-r1 1.2.1: SCAP Scanner And Tailoring Graphical User Interface
-app-forensics/spiderfoot 3.0-r1 3.3-r2 3.4-r1: The most complete OSINT collection and reconnaissance tool
+app-forensics/spiderfoot 3.0-r1 3.5: The most complete OSINT collection and reconnaissance tool
 app-forensics/stegoveritas 1.8: Automatic image steganography analysis tool
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
 app-forensics/thehive 3.4.3: A scalable 4-in-1 open source and free Security Incident Response Platform
@@ -255,7 +255,7 @@ dev-python/dropbox-sdk 10.1.1: A Python SDK for integrating with the Dropbox API
 dev-python/easygui 0.98.1 0.98.2: A module for very simple, very easy GUI programming in Python
 dev-python/editorconfig 0.12.2: EditorConfig File Locator and Interpreter for Python
 dev-python/entropy 0.1.5: entropy is a command line friend that helps you reduce entropy in your life
-dev-python/exifread 2.2.0 2.3.1: Read Exif metadata from tiff and jpeg files
+dev-python/exifread 2.3.1 2.3.2: Read Exif metadata from tiff and jpeg files
 dev-python/face_recognition 1.2.3 1.3.0: Recognize faces from Python or from the command line
 dev-python/face_recognition_models 0.3.0: Models used by the face_recognition package.
 dev-python/fake-useragent 0.1.11: Up to date simple useragent faker with real world database
@@ -295,7 +295,7 @@ dev-python/hupper 1.9.1: Integrated process monitor for developing and reloading
 dev-python/impacket 0.9.22_p20210529 0.9.23 0.9.24 9999: A collection of Python classes focused on providing access to network packets
 dev-python/invoke 1.5.0 1.6.0: Pythonic task execution
 dev-python/ipparser 0.3.5: Parse IP address information
-dev-python/ipwhois 1.0.0: Retrieve and parse whois data for IPv4 and IPv6 addresses
+dev-python/ipwhois 1.0.0 1.2.0: Retrieve and parse whois data for IPv4 and IPv6 addresses
 dev-python/isc_dhcp_leases 0.9.1: Small python module for reading /var/lib/dhcp/dhcpd.leases from isc-dhcp-server
 dev-python/javalang 0.12.0: A pure Python library for working with Java source code
 dev-python/jsbeautifier 1.13.0 1.14.0: Beautify, unpack or deobfuscate JavaScript
