@@ -89,7 +89,7 @@ app-forensics/s3tk 0.3.0 9999: A security toolkit for Amazon S3
 app-forensics/samhain 4.3.3 4.4.0: Advanced file integrity and intrusion detection tool.
 app-forensics/scap-security-guide 0.1.50 0.1.51: Security compliance content in SCAP, Bash, Ansible, and other formats
 app-forensics/scap-workbench 1.2.0-r1 1.2.1: SCAP Scanner And Tailoring Graphical User Interface
-app-forensics/spiderfoot 3.0-r1 3.5: The most complete OSINT collection and reconnaissance tool
+app-forensics/spiderfoot 3.0-r1 3.5-r1: The most complete OSINT collection and reconnaissance tool
 app-forensics/stegoveritas 1.8: Automatic image steganography analysis tool
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
 app-forensics/thehive 3.4.3: A scalable 4-in-1 open source and free Security Incident Response Platform
@@ -380,9 +380,8 @@ dev-python/python-nmap 0.6.1 0.6.4: a python library which helps in using nmap p
 dev-python/python-oauth2 1.1.1: OAuth 2.0 provider for python
 dev-python/python-pptx 0.6.18: Create Open XML PowerPoint documents in Python
 dev-python/python-ptrace 0.9.8: A Python binding of ptrace library
-dev-python/python-secure 0.2.1: Secure headers and cookies for Python web frameworks
 dev-python/python-socketio 5.1.0: Python implementation of the Socket.IO realtime server.
-dev-python/python-whois 0.7.2: Whois querying and parsing of domain registration information
+dev-python/python-whois 0.7.2 0.7.3: Whois querying and parsing of domain registration information
 dev-python/python3-openid 3.1.0: Python 3 port of the python-openid library
 dev-python/pytimeparse 1.1.8: A small Python module to parse various kinds of time expressions
 dev-python/pywerview 0.3.1-r1 0.3.2-r1: A Python port of PowerSploit's PowerView
@@ -397,6 +396,7 @@ dev-python/requests-html 0.10.0-r1: HTML Parsing for Humans
 dev-python/rich 9.8.2: Validate configuration and produce human readable error messages
 dev-python/rjsmin 1.1.0: RCSSmin is a CSS minifier
 dev-python/ruamel-base 1.0.0: common routines for ruamel packages
+dev-python/secure 0.3.0: Secure headers and cookies for Python web frameworks
 dev-python/selenium-requests 1.3.1: Extends Selenium webdrv with the request function from the Requests library
 dev-python/semgrep 0.52.0 0.55.1: Lightweight static analysis for many languages
 dev-python/shelljob 0.6.3: Run multiple subprocesses asynchronous/in parallel with streamed output
