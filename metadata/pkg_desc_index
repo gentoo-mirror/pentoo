@@ -150,7 +150,6 @@ dev-java/sleep 2.1-r1: Duct Tape for the Java platform
 dev-libs/LeechCore 2.6 2.7 2.8: Direct Memory Access (DMA) Attack Software
 dev-libs/cm256cc 1.1.0: Fast GF(256) Cauchy MDS Block Erasure Codec in C++
 dev-libs/hashdb 3.1.0-r1: The hashdb block hash database tool and API
-dev-libs/keystone 0.9.2: assembly/assembler framework + bindings
 dev-libs/libcdata 20190112 20200509: Library for cross-platform C generic data functions
 dev-libs/libcdatetime 20181004 20200510: Library for cross-platform C date and time functions
 dev-libs/libcerror 20181117 20191112 20200615 20201121: Library for cross-platform C error functions
@@ -262,7 +261,7 @@ dev-python/fake-useragent 0.1.11: Up to date simple useragent faker with real wo
 dev-python/faraday-plugins 1.0.1-r1: No project description provided
 dev-python/fastapi 0.65.2: FastAPI framework, high performance, easy to learn, fast to code, ready for production
 dev-python/fastkml 0.11: Fast KML processing in python
-dev-python/filebytes 0.10.0: Classes to parse the following file formats
+dev-python/filebytes 0.10.2: Classes to parse the following file formats
 dev-python/filedepot 0.7.1: Toolkit for storing files and attachments in web applications
 dev-python/filteralchemy-fork 0.1.0: Declarative query builder for SQLAlchemy
 dev-python/flasgger 0.9.5: Easy OpenAPI specs and Swagger UI for your Flask API
