@@ -2,7 +2,7 @@ BDEPEND=virtual/pkgconfig sys-devel/gnuconfig >=app-portage/elt-patches-20170815
 DEFINED_PHASES=install prepare
 DEPEND=net-misc/curl
 DESCRIPTION=A Web Content Scanner to look for existing/hidden content
-EAPI=7
+EAPI=8
 HOMEPAGE=http://dirb.sourceforge.net/
 INHERIT=autotools
 KEYWORDS=~amd64 ~x86
@@ -11,4 +11,4 @@ RDEPEND=net-misc/curl
 SLOT=0
 SRC_URI=mirror://sourceforge/dirb/dirb222.tar.gz
 _eclasses_=gnuconfig	262062cef0ba4f22b397193da514a350	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	4b66d835ec72e021e359bb81eacfe988	libtool	241a8f577b9781a42a7421e53448a44e	autotools	c9df06c186913b43eb211100ef5fe2cf
-_md5_=4c4ce40231807c7e3b3d7de8767f3028
+_md5_=270bcc0f22788c28d032e5831d49d829
