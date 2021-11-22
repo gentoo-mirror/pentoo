@@ -547,7 +547,7 @@ dev-util/jadx-bin 1.2.0 1.3.0: A standalone graphical utility that displays Java
 dev-util/jd-cli 1.2.0: Command line Java Decompiler
 dev-util/jd-cli-bin 1.1.0 1.2.0: Command line Java Decompiler
 dev-util/jd-gui 1.6.6-r4: A standalone Java Decompiler GUI
-dev-util/jnitrace 3.2.1 3.2.2: A Frida based tool that traces usage of the JNI API in Android apps.
+dev-util/jnitrace 3.2.2 3.3.0: A Frida based tool that traces usage of the JNI API in Android apps.
 dev-util/lief 0.11.4 0.11.5: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
 dev-util/mobsf 3.4.0-r1 3.4.3-r1: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
@@ -665,7 +665,7 @@ net-analyzer/twa 1.9.3 1.10.0 9999: A tiny web auditor with strong opinions
 net-analyzer/videojak 1.00 2.0: VideoJak is an IP Video security assessment tool
 net-analyzer/voiphopper 2.04-r3: VoIP Hopper is a tool that rapidly runs a VLAN Hop into the Voice VLAN
 net-analyzer/wafw00f 2.1.0-r2: Identifies and fingerprints Web Application Firewall (WAF) products
-net-analyzer/webtech 1.2.12 1.3: Identify technologies used on websites
+net-analyzer/webtech 1.3 1.3.1: Identify technologies used on websites
 net-analyzer/wfuzz 3.0.3 3.1.0: Wfuzz is a tool designed for bruteforcing Web Applications
 net-analyzer/whatweb 0.5.5: Next generation web scanner, identifies what software websites are running
 net-analyzer/wpscan 3.8.19: Wordpress security scanner
