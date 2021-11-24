@@ -76,7 +76,7 @@ app-forensics/maltego 4.2.18.13878: Visualise, map and mine data
 app-forensics/mxtract 1.1: A memory extractor & analyzer
 app-forensics/mysql-magic 9999: dump mysql client password from memory
 app-forensics/oletools 0.56 0.56.2 0.60: A python tools to analyze MS OLE2 files and MS Office documents
-app-forensics/openscap 1.3.4 1.3.5: Framework which enables integration with Security Content Automation Protocol
+app-forensics/openscap 1.3.4 1.3.5-r1: Framework which enables integration with Security Content Automation Protocol
 app-forensics/openscap-daemon 0.1.10-r1: Manages continuous scans of your infrastructure
 app-forensics/origami-pdf 2.1.0: A Ruby framework designed to parse, analyze, and forge PDF documents
 app-forensics/pcileech 4.9 4.11 4.12: Direct Memory Access (DMA) Attack Software
