@@ -8,7 +8,7 @@ acct-user/sonar 0: User for SonarQube
 acct-user/spiderfoot 0: User for SpiderFoot
 acct-user/vuls 0: User for Vuls
 app-admin/genmenu 0.0_p20200826 9999: a tool for generating freedesktop-compliant menus
-app-admin/opensnitch 1.4.0 1.4.1 1.4.2: Desktop application firewall
+app-admin/opensnitch 1.4.0 1.4.1 1.4.2 1.4.3: Desktop application firewall
 app-admin/vuls 0.9.0-r1: Vulnerability scanner for Linux, agentless, written in Golang
 app-antivirus/lkrg 0.8.1 0.8.1_p20210341 0.9.1-r1 0.9.1_p20211124: Linux Kernel Runtime Guard
 app-antivirus/malheur 0.5.4-r1: Malware analysis tool
@@ -323,7 +323,6 @@ dev-python/neo4j 4.2.0 4.2.1: Neo4j Bolt driver for Python
 dev-python/neobolt 1.7.17: Neo4j Bolt Connector for Python
 dev-python/neotime 1.7.4: Nanosecond resolution temporal types
 dev-python/nessrest 20180806: A high-level Web Crawling and Web Scraping framework
-dev-python/netfilterqueue 0.8.1: Python bindings for libnetfilter_queue
 dev-python/normality 2.1.1: A small set of text normalization functions
 dev-python/nplusone 1.0.0: Detecting the n+1 queries problem in Python
 dev-python/orjson-bin 3.5.4: Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
