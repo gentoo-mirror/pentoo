@@ -781,7 +781,7 @@ net-wireless/op25 20200418 20210818: software-defined analyzer for APCO P25 sign
 net-wireless/pixiewps 1.4.2: Bruteforce offline the WPS pin exploiting the low or non-existing entropy
 net-wireless/portapack-firmware 99999999: Portability Add-On for the HackRF Software-Defined Radio
 net-wireless/portapack-havoc 9999: Custom firmware for the HackRF SDR + PortaPack H1 addon
-net-wireless/portapack-mayhem 1.3.1 1.4.1 9999: Custom firmware for the HackRF SDR + PortaPack H1 addon
+net-wireless/portapack-mayhem 1.3.1 1.4.2 9999: Custom firmware for the HackRF SDR + PortaPack H1 addon
 net-wireless/proxmark3 4.13441-r1 4.14434 9999: A general purpose RFID tool for Proxmark3 hardware
 net-wireless/qspectrumanalyzer 2.2.0 9999: vendor and platform neutral SDR support library
 net-wireless/reaver-wps-fork-t6x 1.6.5-r1 1.6.6: Utilise Pixie Dust Attack to find the correct WPS PIN.
