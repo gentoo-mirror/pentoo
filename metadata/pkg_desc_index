@@ -10,7 +10,7 @@ acct-user/vuls 0: User for Vuls
 app-admin/genmenu 0.0_p20200826 9999: a tool for generating freedesktop-compliant menus
 app-admin/opensnitch 1.4.0 1.4.1 1.4.2: Desktop application firewall
 app-admin/vuls 0.9.0-r1: Vulnerability scanner for Linux, agentless, written in Golang
-app-antivirus/lkrg 0.8.1 0.8.1_p20210341 0.9.1 0.9.1_p20210913: Linux Kernel Runtime Guard
+app-antivirus/lkrg 0.8.1 0.8.1_p20210341 0.9.1-r1 0.9.1_p20211124: Linux Kernel Runtime Guard
 app-antivirus/malheur 0.5.4-r1: Malware analysis tool
 app-antivirus/tyton 1.2_p20200604 9999: Kernel-Mode Rootkit Hunter
 app-antivirus/veil 3.1.14-r1: A tool for payloads generation that bypass common anti-virus solutions
