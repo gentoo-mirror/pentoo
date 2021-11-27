@@ -344,7 +344,6 @@ dev-python/py2neo 3.1.2 4.3.0-r1: A simple and pragmatic library which accesses 
 dev-python/pyDes 2.0.1: Pure python implementation of DES and TRIPLE DES encryption algorithm
 dev-python/pyaff4 0.27: Python Advanced Forensic Format Version 4 library
 dev-python/pyaxmlparser 0.3.24 0.3.26: Parser for Android XML file and get Application Name without using Androguard
-dev-python/pydantic 1.6.2: Data validation and settings management using python 3.6 type hinting
 dev-python/pydecomp 9999: A python library of common (de)compression and contents handling
 dev-python/pydispatcher 2.0.5: Multi-producer-multi-consumer signal dispatching mechanism
 dev-python/pyee 7.0.3 8.0.1 8.1.0: A port of node.js's EventEmitter to python.
@@ -647,7 +646,7 @@ net-analyzer/sn0int 0.16.0 0.17.1 0.18.2 0.19.1: Semi-automatic OSINT framework 
 net-analyzer/sniffglue 0.12.1: Secure multithreaded packet sniffer
 net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
 net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
-net-analyzer/sslyze 4.0.4 4.1.0: Fast and full-featured SSL scanner
+net-analyzer/sslyze 4.0.4 4.1.0 5.0.0: Fast and full-featured SSL scanner
 net-analyzer/subfinder 2.4.3 2.4.5: A subdomain discovery tool that discovers valid subdomains for websites
 net-analyzer/subjack 2.1: Subdomain Takeover tool written in Go
 net-analyzer/sublert 1.4.7_p20200103: Monitor new subdomains deployed by specific organizations and issued TLS/SSL certificate
