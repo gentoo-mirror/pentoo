@@ -674,7 +674,7 @@ net-dialup/freeradius 3.0.20-r3 3.0.21-r3: Highly configurable free RADIUS serve
 net-dialup/minimodem 0.24: General-purpose software audio FSK modem.
 net-im/jitsi 2.11.5633: Secure IM communicator that supports SIP, XMPP, AIM/ICQ, Windows Live, Yahoo
 net-im/jitsi-videobridge 1132: https://github.com/jitsi/jitsi-videobridge
-net-libs/libosmocore 1.3.1 1.3.2 1.4.0 1.4.2 1.5.1: Utility functions for OsmocomBB, OpenBSC and related projects
+net-libs/libosmocore 1.3.2 1.4.0 1.4.2 1.5.1 1.6.0: Utility functions for OsmocomBB, OpenBSC and related projects
 net-libs/libpfring 7.4.0 7.8.0: A new type of network socket that improves packet capture speed.
 net-libs/libtins 4.1 4.2 4.3: High-level, multiplatform C++ network packet sniffing and crafting library.
 net-libs/libvidcap 0.2.1: a cross-platform library for capturing video from webcams and other video capture devices
