@@ -1,11 +1,11 @@
 DEFINED_PHASES=install
-DEPEND=virtual/jre:* !net-wireless/sdrtrunk
+DEPEND=virtual/jre:* media-libs/alsa-lib !net-wireless/sdrtrunk
 DESCRIPTION=Decode, monitor, record and stream trunked mobile and related radio protocols
 EAPI=7
 HOMEPAGE=https://github.com/DSheirer/sdrtrunk
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
-RDEPEND=virtual/jre:*
+RDEPEND=virtual/jre:* media-libs/alsa-lib
 SLOT=0
 SRC_URI=https://github.com/DSheirer/sdrtrunk/releases/download/v0.4.0/sdr-trunk-linux-x86_64-v0.4.0.zip
-_md5_=ee907e81b22cf430df19427f71d8b128
+_md5_=230c2e59ad4ca2af66d1029609c74b94
