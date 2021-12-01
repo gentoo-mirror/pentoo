@@ -1,0 +1,12 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile unpack
+DEPEND=doc? ( app-text/pandoc )
+EAPI=8
+INHERIT=git-r3
+IUSE=doc
+LICENSE=GPL-3
+PROPERTIES=live
+RDEPEND=doc? ( app-text/pandoc )
+SLOT=0
+_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
+_md5_=a521a3113740fc0574ebcb19f327da98
