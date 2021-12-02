@@ -1,12 +1,14 @@
-BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
-DEFINED_PHASES=compile unpack
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl] >=dev-lang/go-1.10
+DEFINED_PHASES=compile install unpack
 DEPEND=doc? ( app-text/pandoc )
-EAPI=8
-INHERIT=git-r3
+EAPI=7
+INHERIT=git-r3 golang-vcs-snapshot
 IUSE=doc
 LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=doc? ( app-text/pandoc )
+RESTRICT=strip
 SLOT=0
-_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
-_md5_=a521a3113740fc0574ebcb19f327da98
+SRC_URI=https://github.com/dhowden/tag/archive/v0.0.0-20201120070457-d52dcb253c63.tar.gz -> github.com-dhowden-tag-v0.0.0-20201120070457-d52dcb253c63.tar.gz https://github.com/fsnotify/fsnotify/archive/v1.5.1.tar.gz -> github.com-fsnotify-fsnotify-v1.5.1.tar.gz https://github.com/go-sql-driver/mysql/archive/v1.6.0.tar.gz -> github.com-go-sql-driver-mysql-v1.6.0.tar.gz https://github.com/golang-jwt/jwt/v4/archive/v4.1.0.tar.gz -> github.com-golang-jwt-jwt-v4-v4.1.0.tar.gz https://github.com/google/uuid/archive/v1.3.0.tar.gz -> github.com-google-uuid-v1.3.0.tar.gz https://github.com/gorilla/websocket/archive/v1.4.2.tar.gz -> github.com-gorilla-websocket-v1.4.2.tar.gz https://github.com/kardianos/service/archive/v1.2.0.tar.gz -> github.com-kardianos-service-v1.2.0.tar.gz https://github.com/kballard/go-shellquote/archive/v0.0.0-20180428030007-95032a82bc51.tar.gz -> github.com-kballard-go-shellquote-v0.0.0-20180428030007-95032a82bc51.tar.gz https://github.com/mattn/go-isatty/archive/v0.0.14.tar.gz -> github.com-mattn-go-isatty-v0.0.14.tar.gz https://github.com/remyoudompheng/bigfft/archive/v0.0.0-20200410134404-eec4a21b6bb0.tar.gz -> github.com-remyoudompheng-bigfft-v0.0.0-20200410134404-eec4a21b6bb0.tar.gz https://github.com/stretchr/testify/archive/v1.7.0.tar.gz -> github.com-stretchr-testify-v1.7.0.tar.gz https://golang.org/x/crypto/archive/v0.0.0-20211117183948-ae814b36b871.tar.gz -> golang.org-x-crypto-v0.0.0-20211117183948-ae814b36b871.tar.gz https://golang.org/x/mod/archive/v0.5.1.tar.gz -> golang.org-x-mod-v0.5.1.tar.gz https://golang.org/x/net/archive/v0.0.0-20211123203042-d83791d6bcd9.tar.gz -> golang.org-x-net-v0.0.0-20211123203042-d83791d6bcd9.tar.gz https://golang.org/x/sys/archive/v0.0.0-20211124211545-fe61309f8881.tar.gz -> golang.org-x-sys-v0.0.0-20211124211545-fe61309f8881.tar.gz https://golang.org/x/text/archive/v0.3.7.tar.gz -> golang.org-x-text-v0.3.7.tar.gz https://golang.org/x/tools/archive/v0.1.7.tar.gz -> golang.org-x-tools-v0.1.7.tar.gz https://golang.org/x/xerrors/archive/v0.0.0-20200804184101-5ec99f83aff1.tar.gz -> golang.org-x-xerrors-v0.0.0-20200804184101-5ec99f83aff1.tar.gz https://gopkg.in/ini.v1/archive/v1.66.0.tar.gz -> gopkg.in-ini.v1-v1.66.0.tar.gz
+_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da	golang-base	b8fb27dacacea08140c53857f439fc7d	golang-vcs-snapshot	ee98df2c8a27c4347826db72f6dc2d50
+_md5_=c125ad985d6de13fd6bc14c3f661a0d7
