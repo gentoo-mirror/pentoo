@@ -37,7 +37,7 @@ app-editors/rehex 0.3.91 0.3.92: Reverse Engineers' Hex Editor
 app-emulation/containerd 1.4.4: A daemon to control runC
 app-eselect/eselect-metasploit 0.20: eselect module for metasploit
 app-exploits/deathstar 20201217-r1 20210519: A tool to gain Domain Admin rights with a push of a button
-app-exploits/empire 4.1.3 4.1.3-r1: A post-exploitation framework
+app-exploits/empire 4.1.3-r1 4.2.0: A post-exploitation framework
 app-exploits/enumdb 2.1.0: Database brute force and post exploitation tool
 app-exploits/exploit-pattern 20200109: Generate and search pattern string for exploit development
 app-exploits/exploitdb 20200717 99999999: All exploits from exploit-db.com
@@ -249,6 +249,7 @@ dev-python/django-statici18n 1.8.3: Django helper for generating Javascript cata
 dev-python/django-webpack-loader 0.6.0: Transparently use webpack with django
 dev-python/django_compressor 2.4: Compresses linked and inline JavaScript or CSS into single cached files
 dev-python/dnslib 0.9.12 0.9.16: Simple library to encode/decode DNS wire-format packets
+dev-python/donut-shellcode 0.9.2: Donut Python C extension
 dev-python/dotty 1.5: EFILTER query language
 dev-python/dropbox-sdk 10.1.1: A Python SDK for integrating with the Dropbox API v2.
 dev-python/easygui 0.98.1 0.98.2: A module for very simple, very easy GUI programming in Python
@@ -357,7 +358,6 @@ dev-python/pyjsparser 2.7.1: Fast javascript parser (based on esprima.js)
 dev-python/pykcs11 1.5.10: A complete PKCS#11 wrapper for Python
 dev-python/pylnk3 0.4.0 0.4.2: Python library for reading and writing Windows shortcut files
 dev-python/pylzma 0.5.0: Platform independent python bindings for the LZMA compression library.
-dev-python/pyminifier 2.1 2.1_p20150625: Pyminifier is a Python code minifier, obfuscator, and compressor.
 dev-python/pymisp 2.4.124-r1: A python library for using the MISP Rest API
 dev-python/pymodbus 2.1.0: A fully featured modbus protocol stack in python
 dev-python/pypcapfile 0.12.0: Pure Python package for reading and parsing libpcap savefiles
@@ -864,7 +864,7 @@ sys-kernel/chromeos-sources 9999: Linux kernel source for the Samsung Chromebook
 sys-kernel/compat-drivers 5.10.34: Stable kernel pre-release wifi subsystem backport
 sys-kernel/fragattacks-drivers58 20210507: Wi-Fi fragmentation and aggregation vulnerability tests
 sys-kernel/ft60x_driver 20180209 20190318: USB FT60x driver
-sys-kernel/kconfig-hardened-check 0.5.9 0.5.10 9999: A script for checking the hardening options in the Linux kernel config
+sys-kernel/kconfig-hardened-check 0.5.9 0.5.10 0.5.14 9999: A script for checking the hardening options in the Linux kernel config
 sys-kernel/minipli-sources 4.9.74: Unofficial forward ports of the last publicly available grsecurity patch
 sys-kernel/odroid-sources 9999: Linux kernel source for the ODROID-[UX]2 products
 sys-kernel/odroidxu-sources 9999: Linux kernel source for the ODROIDXU products
