@@ -622,7 +622,7 @@ net-analyzer/mosref 2.0_beta3: A secure remote execution framework using a compa
 net-analyzer/nbtool 20140416: Some tools for NetBIOS and DNS investigation, attacks, and communication
 net-analyzer/ncrack 0.7: Ncrack is a high-speed network authentication cracking tool
 net-analyzer/nmap-vulners 1.2 1.4_beta 9999: NSE script based on Vulners.com API
-net-analyzer/nmap_vulscan 2.0_p20190923 2.1: A NSE vulnerability scanner which uses an offline version of scip VulDB
+net-analyzer/nmap_vulscan 2.1 9999: A NSE vulnerability scanner which uses an offline version of scip VulDB
 net-analyzer/ntlmrecon 0.2_beta 0.4_beta: A tool to enumerate information from NTLM authentication enabled web endpoints
 net-analyzer/onesixtyone 0.7: An efficient SNMP scanner
 net-analyzer/osmedeus 9999: A offensive security tool for reconnaissance and vulnerability scanning
