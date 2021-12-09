@@ -19,6 +19,7 @@ S="${WORKDIR}"
 
 src_install() {
 	rm -r utilities
+	rm .gitattributes
 	insinto /usr/share/nmap/scripts/vulscan
 	doins -r * || die "install failed"
 }
