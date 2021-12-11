@@ -1,0 +1,10 @@
+DEFINED_PHASES=install
+DESCRIPTION=Packages needed to power the client and SDR devices for RFCTF events
+EAPI=7
+HOMEPAGE=https://rfhackers.com
+IUSE=pentoo-in-a-container rfctf-minimal opencl rfctf-sdr rfctf-visuals rfctf-virtual rfctf-wifi
+KEYWORDS=amd64
+PDEPEND=app-misc/screen pentoo/pentoo-core !rfctf-minimal? ( !pentoo-in-a-container? ( app-admin/sudo app-pda/ifuse app-pda/usbmuxd sys-apps/fwupd sys-apps/rng-tools sys-apps/watchdog sys-power/intel-undervolt sys-power/thermald net-wireless/rtl8812au_aircrack-ng sys-fs/btrfs-progs sys-process/usbtop ) app-misc/tmux net-analyzer/termshark app-text/wgetpaste dev-ruby/pry dev-ruby/rb-inotify dev-vcs/git >=sys-apps/util-linux-2.31_rc1 sys-process/iotop-c net-wireless/hostapd net-analyzer/nmap net-analyzer/netcat net-analyzer/tcpdump net-dns/bind-tools net-misc/autossh net-misc/ntp net-wireless/aircrack-ng sys-devel/gdb net-ftp/tftp-hpa ) rfctf-sdr? ( media-radio/fldigi net-wireless/gr-mixalot !rfctf-virtual? ( net-wireless/gr-osmosdr ) net-wireless/gnuradio dev-python/pyzmq net-wireless/gr-paint !rfctf-minimal? ( net-wireless/gr-rds media-radio/wsjtx ) !rfctf-virtual? ( net-wireless/rfcat ) ) rfctf-wifi? ( || ( net-misc/iputils[arping(+)] net-analyzer/arping ) net-misc/telnet-bsd ) rfctf-visuals? ( xfce-base/xfce4-meta x11-misc/slim x11-terms/xfce4-terminal media-fonts/noto-emoji www-client/google-chrome net-wireless/kismet net-wireless/kismetdb sci-geosciences/gpsd net-wireless/rtl_433 net-wireless/mousejack opencl? ( pentoo/pentoo-opencl net-wireless/gnuradio net-wireless/fosphor_knob ) )
+RDEPEND=!pentoo/pentoo-system
+SLOT=0
+_md5_=78df486820b709ee401f234dba106f73
