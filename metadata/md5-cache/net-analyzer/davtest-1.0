@@ -9,5 +9,5 @@ LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=virtual/perl-Getopt-Long dev-perl/HTTP-DAV
 SLOT=0
-_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da	multilib	4b66d835ec72e021e359bb81eacfe988	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa
+_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da	multilib	4b66d835ec72e021e359bb81eacfe988	toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8
 _md5_=3097aa0bf782fb757ada43cfcd047d63
