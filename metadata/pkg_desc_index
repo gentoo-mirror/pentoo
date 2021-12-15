@@ -528,7 +528,7 @@ dev-ruby/spider 0.5.4: web spidering library
 dev-ruby/swagger-blocks 3.0.0: Define and serve live-updating Swagger JSON for Ruby apps
 dev-ruby/sys-proctable 1.2.2 1.2.6: A cross-platform Ruby interface for gathering process information
 dev-ruby/zpng 0.3.1: Pure ruby PNG file manipulation & validation
-dev-util/AndroidProjectCreator-bin 1.4 1.5: Decompile an APK to an Android Studio Project
+dev-util/AndroidProjectCreator-bin 1.5 1.5.2: Decompile an APK to an Android Studio Project
 dev-util/androguard 3.3.5 3.4.0_alpha1: Read Android's binary format for XML files (AXML) and a decompiler for DEX
 dev-util/android-sdk-build-tools 30.0.2-r1 30.0.3: Android SDK Build Tools
 dev-util/apktool 2.5.0 2.6.0: A tool for reengineering 3rd party, closed, binary Android apps
@@ -847,7 +847,7 @@ sci-electronics/migen 0.7: A Python toolbox for building complex digital hardwar
 sci-electronics/pcie_injector 20180527: Information gathering tool designed for extracting metadata of public documents
 sys-apps/fchroot 0.1.2: Funtoo's franken-chroot tool
 sys-apps/magic-pax 0.0.1: 
-sys-apps/openrazer 3.0.1 3.1.0: Razer Drivers for Linux
+sys-apps/openrazer 3.1.0 3.2.0: Razer Drivers for Linux
 sys-devel/autofdo 0.18 0.19 9999: System to simplify real-world deployment of feedback-directed optimization
 sys-devel/gcc-arm-none-eabi 10.3_p202110: GNU Arm Embedded Toolchain
 sys-devel/gdb-dashboard 0.11.1 0.11.4 9999: Modular visual interface for GDB in Python
