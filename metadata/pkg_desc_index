@@ -555,6 +555,7 @@ dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIP
 dev-util/qark 0.9_pre20190405: A tool to look for Android application vulnerabilities
 dev-util/recaf-bin 2.13.2 2.19.6: A modern Java bytecode editor
 dev-util/redasm 3.0.0_beta5: The OpenSource Disassembler
+dev-util/reflutter 0.4.9: Flutter apps reverse engineering
 dev-util/retdec 4.0 9999: RetDec is a retargetable machine-code decompiler based on LLVM.
 dev-util/semgrep-core-bin 0.52.0 0.55.1 0.57.0: Lightweight static analysis for many languages
 dev-util/soapui 5.4.0 5.5.0 5.6.0: The Swiss-Army Knife for SOAP Testing
