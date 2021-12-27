@@ -582,7 +582,7 @@ net-analyzer/cameradar 5.0.0 5.0.1: Cameradar hacks its way into RTSP videosurve
 net-analyzer/capanalysis 1.2.3: A web visual tool for information security specialists
 net-analyzer/cisco-auditing-tool 1: Perl script which scans cisco routers for common vulnerabilities.
 net-analyzer/cisco-torch 0.4b: Cisco mass scanning, fingerprinting, and exploitation tool
-net-analyzer/commix 3.1 3.2: Automated All-in-One OS command injection and exploitation tool
+net-analyzer/commix 3.2 3.3: Automated All-in-One OS command injection and exploitation tool
 net-analyzer/cottontail 20190426-r1: Capture all RabbitMQ messages being sent through a broker
 net-analyzer/crackmapexec 5.1.7-r1: A swiss army knife for pentesting Windows/Active Directory environments
 net-analyzer/davtest 1.0: tests WebDAV enabled servers
