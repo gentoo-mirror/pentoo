@@ -557,7 +557,7 @@ dev-util/redasm 3.0.0_beta5: The OpenSource Disassembler
 dev-util/reflutter 0.4.9: Flutter apps reverse engineering
 dev-util/retdec 4.0 9999: RetDec is a retargetable machine-code decompiler based on LLVM.
 dev-util/semgrep-core-bin 0.52.0 0.55.1 0.57.0: Lightweight static analysis for many languages
-dev-util/soapui 5.4.0 5.5.0 5.6.0: The Swiss-Army Knife for SOAP Testing
+dev-util/soapui 5.5.0 5.6.0 5.6.1: The Swiss-Army Knife for SOAP Testing
 dev-util/sonarqube-bin 7.9.3 8.3.1.34397 8.4.1.35646 8.7.0.41497: SonarQube Community Edition is an open platform to manage code quality
 dev-util/sonarscanner-bin 4.3.0.2102 4.4.0.2170: SonarQube Command-Line Scanner
 dev-util/unicorn 1.0.3-r1 2.0.0_rc5: A lightweight multi-platform, multi-architecture CPU emulator framework
