@@ -634,7 +634,7 @@ net-analyzer/ppscan 0.3-r1: Port scanner with HTTP and FTP tunneling support
 net-analyzer/pwncat 0.1.1 0.1.2: Netcat with IDS/IPS evasion, bind reverse shell and port forwarding magic
 net-analyzer/rdp-sec-check 20181109: Remote Desktop Protocol security settings checker
 net-analyzer/recon-ng 5.1.1 9999: Web Reconnaissance Framework
-net-analyzer/responder 3.0.3.0 3.0.6.0 3.0.7.0: LLMNR, NBT-NS and MDNS poisoner, HTTP/SMB/MSSQL/FTP/LDAP rogue authentication
+net-analyzer/responder 3.0.6.0 3.0.7.0 3.1.1.0: LLMNR, NBT-NS and MDNS poisoner, HTTP/SMB/MSSQL/FTP/LDAP rogue authentication
 net-analyzer/rpcapd 4.1.3: Remote packet capture daemon
 net-analyzer/rshijack 0.4.0: A tcp connection hijacker, rust rewrite of shijack
 net-analyzer/ruler 2.2.0: A tool to abuse Exchange services
@@ -794,7 +794,7 @@ net-wireless/rtl8812au_aircrack-ng 5.6.4.2_p20200118 5.6.4.2_p20210504 5.6.4.2_p
 net-wireless/rtl8822bu 5.3.1_p20190920 5.8.7.4_p20210626 9999: RTL88x2BU driver with monitor mode and frame injection
 net-wireless/rx_tools 1.0.3-r1 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
 net-wireless/scopy 9999: A software oscilloscope and signal analysis toolset
-net-wireless/sdrangel 6.16.4 6.17.5: SDR Rx/Tx software
+net-wireless/sdrangel 6.16.4 6.17.5 6.17.6: SDR Rx/Tx software
 net-wireless/sdrpp 1.0.4 9999: SDR++ is a cross-platform and open source SDR software with the aim of being bloat free and simple to use.
 net-wireless/sdrtrunk 0.4.0-r1: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/sdrtrunk-bin 0.4.0-r1: Decode, monitor, record and stream trunked mobile and related radio protocols
