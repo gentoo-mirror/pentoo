@@ -320,7 +320,7 @@ dev-python/mitm6 0.2.2: pwning IPv4 via IPv6
 dev-python/mockito 1.2.0: Spying framework based on Mockito java library
 dev-python/msldap 0.3.29 0.3.30: Python library to play with MS LDAP
 dev-python/msoffcrypto-tool 4.10.1 4.12.0: Decrypting MS Office files with passwords or other keys
-dev-python/nassl 3.1.0 4.0.0 4.0.1: Experimental OpenSSL wrapper for Python 3.7+ and SSLyze
+dev-python/nassl 4.0.1 4.0.2: Experimental OpenSSL wrapper for Python 3.7+ and SSLyze
 dev-python/neo4j 4.2.0 4.2.1: Neo4j Bolt driver for Python
 dev-python/neobolt 1.7.17: Neo4j Bolt Connector for Python
 dev-python/neotime 1.7.4: Nanosecond resolution temporal types
@@ -416,7 +416,7 @@ dev-python/stegoveritas-pfp 0.2.3: An 010 template interpreter for Python
 dev-python/stegoveritas-py010parser 0.1.10: A modified pycparser to parse 010 templates
 dev-python/syslog-rfc5424-formatter 1.2.2: Logging formatter which produces well-formatted RFC5424 Syslog Protocol messages
 dev-python/tldextract 2.2.1-r1: Accurately separate the TLD from the registered domain and subdomains
-dev-python/tls_parser 1.2.2: Small library to parse TLS records.
+dev-python/tls_parser 1.2.2 2.0.0: Small library to parse TLS records.
 dev-python/torrequest 20181011-r2: Simple Python interface for HTTP(s) requests over Tor
 dev-python/truffleHogRegexes 20190518-r1: These are the regexes that power trufflehog
 dev-python/tweepy 3.9.0: A Python library for accessing the Twitter API
@@ -650,7 +650,7 @@ net-analyzer/sn0int 0.16.0 0.17.1 0.18.2 0.19.1: Semi-automatic OSINT framework 
 net-analyzer/sniffglue 0.12.1: Secure multithreaded packet sniffer
 net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
 net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
-net-analyzer/sslyze 5.0.0 5.0.1: Fast and full-featured SSL scanner
+net-analyzer/sslyze 5.0.1 5.0.2: Fast and full-featured SSL scanner
 net-analyzer/subfinder 2.4.3 2.4.5: A subdomain discovery tool that discovers valid subdomains for websites
 net-analyzer/subjack 2.1: Subdomain Takeover tool written in Go
 net-analyzer/sublert 1.4.7_p20200103: Monitor new subdomains deployed by specific organizations and issued TLS/SSL certificate
