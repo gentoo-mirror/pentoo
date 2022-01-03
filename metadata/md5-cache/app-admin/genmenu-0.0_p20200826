@@ -1,15 +1,15 @@
 DEFINED_PHASES=install postinst setup
-DEPEND=python_single_target_python3_8? ( dev-lang/python:3.8 >=dev-lang/python-exec-2:=[python_targets_python3_8] ) python_single_target_python3_9? ( dev-lang/python:3.9 >=dev-lang/python-exec-2:=[python_targets_python3_9] ) python_single_target_python3_8? ( dev-python/lxml[python_targets_python3_8(-)] ) python_single_target_python3_9? ( dev-python/lxml[python_targets_python3_9(-)] )
+DEPEND=python_single_target_python3_9? ( dev-lang/python:3.9 >=dev-lang/python-exec-2:=[python_targets_python3_9] ) python_single_target_python3_10? ( dev-lang/python:3.10 >=dev-lang/python-exec-2:=[python_targets_python3_10] ) python_single_target_python3_9? ( dev-python/lxml[python_targets_python3_9(-)] ) python_single_target_python3_10? ( dev-python/lxml[python_targets_python3_10(-)] )
 DESCRIPTION=a tool for generating freedesktop-compliant menus
 EAPI=7
 HOMEPAGE=https://github.com/pentoo/genmenu
 INHERIT=python-single-r1
-IUSE=python_single_target_python3_8 python_single_target_python3_9
+IUSE=python_single_target_python3_9 python_single_target_python3_10
 KEYWORDS=amd64 x86
 LICENSE=GPL-2
-RDEPEND=python_single_target_python3_8? ( dev-lang/python:3.8 >=dev-lang/python-exec-2:=[python_targets_python3_8] ) python_single_target_python3_9? ( dev-lang/python:3.9 >=dev-lang/python-exec-2:=[python_targets_python3_9] ) python_single_target_python3_8? ( dev-python/lxml[python_targets_python3_8(-)] ) python_single_target_python3_9? ( dev-python/lxml[python_targets_python3_9(-)] )
-REQUIRED_USE=^^ ( python_single_target_python3_8 python_single_target_python3_9 )
+RDEPEND=python_single_target_python3_9? ( dev-lang/python:3.9 >=dev-lang/python-exec-2:=[python_targets_python3_9] ) python_single_target_python3_10? ( dev-lang/python:3.10 >=dev-lang/python-exec-2:=[python_targets_python3_10] ) python_single_target_python3_9? ( dev-python/lxml[python_targets_python3_9(-)] ) python_single_target_python3_10? ( dev-python/lxml[python_targets_python3_10(-)] )
+REQUIRED_USE=^^ ( python_single_target_python3_9 python_single_target_python3_10 )
 SLOT=0
 SRC_URI=https://github.com/pentoo/genmenu/archive/dac9f9eaff891d6de9def7fe659e88c56367b038.tar.gz -> genmenu-0.0_p20200826.tar.gz
 _eclasses_=eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	multiprocessing	61c959fc55c15c00bbb1079d6a71370b	toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	de4beb52bfa93c4c5d96792a6b5e1784	python-utils-r1	a8b7938ade305f087865de7e52d079b5	python-single-r1	d46c125afba8be02eb1cd7104bac6e9c
-_md5_=f735590e3a854d66b85f1fb339a3a32f
+_md5_=197993fd74c0bce6d126c34a1e75b89b
