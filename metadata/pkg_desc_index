@@ -122,7 +122,7 @@ app-text/unfurl 0.2.0: Pull out bits of URLs provided on stdin
 dev-db/neo4j-community 4.2.2: High-performance, mature and robust NOSQL graph database
 dev-db/oat 1.3.1: a toolkit that could be used to audit security within Oracle database servers
 dev-db/sqlbf 1.0.1-r1: SQLBF is a tool to audit mssql passwords strength offline
-dev-db/sqlmap 1.5.9 1.5.11 1.5.12 9999: An automatic SQL injection and database takeover tool
+dev-db/sqlmap 1.5.11 1.5.12 1.6 9999: An automatic SQL injection and database takeover tool
 dev-db/sqlsus 0.7.2: MySQL injection and takeover tool
 dev-embedded/libmpsse 1.3.2-r1: Open source library for SPI/I2C control via FTDI chips
 dev-embedded/mphidflash 1.8: Tool for communicating with the USB-Bootloader in PIC microcontrollers
@@ -794,7 +794,7 @@ net-wireless/rtl8812au_aircrack-ng 5.6.4.2_p20200118 5.6.4.2_p20210504 5.6.4.2_p
 net-wireless/rtl8822bu 5.3.1_p20190920 5.8.7.4_p20210626 9999: RTL88x2BU driver with monitor mode and frame injection
 net-wireless/rx_tools 1.0.3-r1 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
 net-wireless/scopy 9999: A software oscilloscope and signal analysis toolset
-net-wireless/sdrangel 6.16.4 6.17.5 6.17.6: SDR Rx/Tx software
+net-wireless/sdrangel 6.17.5 6.17.6 6.17.7: SDR Rx/Tx software
 net-wireless/sdrpp 1.0.4 9999: SDR++ is a cross-platform and open source SDR software with the aim of being bloat free and simple to use.
 net-wireless/sdrtrunk 0.4.0-r1: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/sdrtrunk-bin 0.4.0-r1: Decode, monitor, record and stream trunked mobile and related radio protocols
@@ -880,7 +880,7 @@ www-apps/beef 0.5.0.0-r1: Browser exploitation framework
 www-apps/faraday 3.10.0-r1: Integrated Penetration-Test Environment is a multiuser Penetration test IDE
 www-apps/geckodriver 0.27.0 0.30.0: Proxy for using WebDriver clients to interact with Gecko-based browsers.
 www-apps/rda 2.9 3.0: Web-based application for effective reporting writing
-www-apps/seafile-pro-server 7.1.22 8.0.14: Meta package for Seafile Pro Edition, file sync share solution
+www-apps/seafile-pro-server 7.1.22 8.0.14 9.0.3: Meta package for Seafile Pro Edition, file sync share solution
 www-apps/vulsrepo 20190412-r3: VulsRepo is visualized based on the json report output in vuls
 www-misc/firefox-bookmarks 0.3-r1: Firefox bookmarks for the Pento ISO only
 www-plugins/hackplugins-meta 20200428: Collection of browser's plugins for application security testing
