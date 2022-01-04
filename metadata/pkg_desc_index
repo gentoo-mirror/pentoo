@@ -421,6 +421,7 @@ dev-python/torrequest 20181011-r2: Simple Python interface for HTTP(s) requests 
 dev-python/truffleHogRegexes 20190518-r1: These are the regexes that power trufflehog
 dev-python/tweepy 3.9.0: A Python library for accessing the Twitter API
 dev-python/uvloop 0.14.0: Ultra-fast implementation of asyncio event loop on top of libuv
+dev-python/vaderSentiment 3.3.2: VADER Sentiment Analysis
 dev-python/validators 0.14.0: Python Data Validation for Humans
 dev-python/vulners 1.5.5: Python API wrapper for the Vulners Database
 dev-python/w3lib 1.22.0: Library of web-related functions
@@ -429,6 +430,7 @@ dev-python/websocket-client 0.57.0: WebSocket client for python with hybi13 supp
 dev-python/whitenoise 5.0.1 5.2.0: Radically simplified static file serving for WSGI applications
 dev-python/winacl 0.0.6 0.1.0 0.1.1: ACL/ACE/Security Descriptor manipulation library
 dev-python/winsspi 0.0.5 0.0.7 0.0.9: Windows SSPI library in pure Python
+dev-python/wordcloud 1.8.1: A little word cloud generator
 dev-python/xlutils 2.0.0-r1: provides a collection of utilities for working with Excel files
 dev-python/xtract 0.1_alpha3: Library to (un)pack archives and (de)compress files
 dev-python/yamllint 1.21.0 1.26.1: A linter for YAML files
@@ -612,7 +614,7 @@ net-analyzer/iposint 20190615-r1: Discovery IP Address of the target
 net-analyzer/jmsdigger-bin 20130815: JMSDigger is an Enterprise Messaging Application assessment tool focuses on ActiveMQ
 net-analyzer/kismet-analyzer 0.3.0: Library for parsing kismet results from the .kismet database file
 net-analyzer/maketh 0.2.0: Ethernet packet injector and creator
-net-analyzer/maryam 2.2.6-r1: OWASP Maryam is a modular open source OSINT and data gathering framework
+net-analyzer/maryam 2.2.6-r1 2.5.0: OWASP Maryam is a modular open source OSINT and data gathering framework
 net-analyzer/masscan 1.0.5-r1 1.3.2: Mass IP port scanner
 net-analyzer/massdns 0.3 9999: A high-performance DNS stub resolver for bulk lookups and reconnaissance
 net-analyzer/medusa 2.3_pre: A modular, parallel, multiprotocol, network login auditor
