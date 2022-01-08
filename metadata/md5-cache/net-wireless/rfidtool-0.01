@@ -1,9 +1,0 @@
-DEFINED_PHASES=compile install
-DESCRIPTION=command line rfid interface
-EAPI=0
-HOMEPAGE=http://www.bindshell.net/tools/rfidtool
-KEYWORDS=~amd64 ~x86
-LICENSE=GPL-2
-SLOT=0
-SRC_URI=https://pkgbuild.com/~giovanni/rfidtool-v0.01.tar.bz2
-_md5_=a16684ec21af52443ce3e299074e9647
