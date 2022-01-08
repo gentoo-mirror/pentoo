@@ -742,7 +742,7 @@ net-wireless/dsd 1.7.0_pre20211213 9999: Digital Speech Decoder
 net-wireless/dsdcc 1.9.0 1.9.3 9999: Digital Speech Decoder rewritten as a C++ library
 net-wireless/dump1090_sdrplus 20190812 20200921: Mode S decoder for (SDR) devices including RTL SDR, HackRF, Airspy and SDRplay
 net-wireless/eaphammer 1.12.0 1.13.5: Targeted evil twin attacks against WPA2-Enterprise networks
-net-wireless/editcp-bin 1.0.25: Codeplug editor for the MD-380/MD-390/MD40/MD-UV380/MD-UV390 DMR radios
+net-wireless/editcp-bin 1.0.27 1.0.28: Codeplug editor for the MD-380/MD-390/MD40/MD-UV380/MD-UV390 DMR radios
 net-wireless/fern-wifi-cracker 3.1 3.3: Wireless tool for WEP/WPA cracking and WPS keys recovery
 net-wireless/fosphor_knob 0.11: A visualization we use for the RF Village
 net-wireless/gps-sdr-sim 9999: GPS Spoofing tool for transmit capable SDR's like the HackRF, bladeRF and USRP

@@ -10,6 +10,6 @@ LICENSE=GPL-3
 RDEPEND=dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtserialport:5 dev-libs/libpcre:= !net-wireless/editcp virtual/libusb:1
 RESTRICT=strip
 SLOT=0
-SRC_URI=https://www.farnsworth.org/dale/codeplug/editcp/downloads/linux/editcp-1.0.25.tar.xz
+SRC_URI=https://www.farnsworth.org/dale/codeplug/editcp/downloads/linux/editcp-1.0.28.tar.xz https://www.farnsworth.org/dale/codeplug/editcp/downloads/linux/previous/editcp-1.0.28.tar.xz
 _eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	de4beb52bfa93c4c5d96792a6b5e1784	udev	2d229ad4bfa09058e0184b1ca900db32	xdg-utils	4f29a8b760a594a212abe9c2ba957c31	xdg	6024fbc93167fad782e2032933654857
-_md5_=b26f81c6755a80adb4b14aec7267df0b
+_md5_=fe9f42aa858149befb61788c5b8f6789
