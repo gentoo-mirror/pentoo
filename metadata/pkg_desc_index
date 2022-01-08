@@ -770,7 +770,7 @@ net-wireless/hcxkeys 6.0.0 6.2.0: Generate plainmasterkeys (rainbowtables) and h
 net-wireless/hcxtools 6.1.3 6.2.0: Portable solution for capturing wlan traffic and conversion to hashcat formats
 net-wireless/hostapd 2.9-r6: IEEE 802.11 wireless LAN Host AP daemon
 net-wireless/hostapd-mana 2.6.5 9999: SensePost's modified hostapd for wifi attacks
-net-wireless/kalibrate-hackrf 9999: A tool to scan GSM base stations and calculate the local oscillator frequency offset
+net-wireless/kalibrate-hackrf 20160604: Calculate the local oscillator frequency offset using GSM stations
 net-wireless/karmetasploit 0.1-r3: KARMA + Metasploit 3 == Karmetasploit
 net-wireless/killerbee 2.7.1_p20200309 3.0.0_beta1: Framework and Tools for Attacking ZigBee and IEEE 802.15.4 networks
 net-wireless/kismet_shootout 0.0_p20190717 9999: Kismet WiFi data source shootout
