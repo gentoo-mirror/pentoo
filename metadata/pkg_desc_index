@@ -639,7 +639,7 @@ net-analyzer/recon-ng 5.1.1 9999: Web Reconnaissance Framework
 net-analyzer/responder 3.0.6.0 3.0.7.0 3.1.1.0: LLMNR, NBT-NS and MDNS poisoner, HTTP/SMB/MSSQL/FTP/LDAP rogue authentication
 net-analyzer/rpcapd 4.1.3: Remote packet capture daemon
 net-analyzer/rshijack 0.4.0: A tcp connection hijacker, rust rewrite of shijack
-net-analyzer/ruler 2.2.0: A tool to abuse Exchange services
+net-analyzer/ruler 2.4.1: A tool to abuse Exchange services
 net-analyzer/rustscan 1.2.2 9999: Faster Nmap Scanning with Rust
 net-analyzer/s3scanner 1.0.0_p20190928 2.0.1: Scan for open AWS S3 buckets and dump the contents
 net-analyzer/scamper 20191102b: Actively probes the Internet in order to analyze topology and performance
