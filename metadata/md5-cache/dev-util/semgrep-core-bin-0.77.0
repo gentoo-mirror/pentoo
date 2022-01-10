@@ -6,4 +6,4 @@ KEYWORDS=amd64
 LICENSE=LGPL-2
 SLOT=0
 SRC_URI=https://files.pythonhosted.org/packages/cp36.cp37.cp38.cp39.py36.py37.py38.py39/s/semgrep/semgrep-0.77.0-cp36.cp37.cp38.cp39.py36.py37.py38.py39-none-any.whl -> semgrep-core-bin-0.77.0.zip
-_md5_=5b70d02a791ebe2c246b597d491c4d71
+_md5_=050734f42fe006cbfb1e8adbed9ae088
