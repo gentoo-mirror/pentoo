@@ -43,6 +43,7 @@ app-exploits/exploit-pattern 20200109: Generate and search pattern string for ex
 app-exploits/exploitdb 20200717 99999999: All exploits from exploit-db.com
 app-exploits/exploitdb-papers 20200717 99999999: Exploit database's papers
 app-exploits/getsploit 0.3.3_p20190530 9999: Command line utility for searching and downloading exploits
+app-exploits/h2rs 0.0.1: Detects request smuggling via HTTP/2 downgrades
 app-exploits/linenum 20200107 99999999: Local Linux enumeration and privilege escalation checker
 app-exploits/linux-exploit-suggester 20140519 99999999: Linux Exploit Suggester based on operating system release number
 app-exploits/linuxprivchecker 20200609 99999999: A Linux Privilege Escalation Check Script
@@ -392,8 +393,6 @@ dev-python/quark-engine 22.1.1: An Obfuscation-Neglect Android Malware Scoring S
 dev-python/queuelib 1.5.0: Collection of persistent (disk-based) queues
 dev-python/rangeparser 0.1.3-r1: A python package to parse ranges easily
 dev-python/rcssmin 1.0.6: RCSSmin is a CSS minifier
-dev-python/requests-file 1.4.3: File transport adapter for Requests
-dev-python/requests-futures 1.0.0-r1: Asynchronous Python HTTP Requests for Humans using Futures
 dev-python/requests-html 0.10.0-r1: HTML Parsing for Humans
 dev-python/rjsmin 1.1.0: RCSSmin is a CSS minifier
 dev-python/ruamel-base 1.0.0: common routines for ruamel packages
