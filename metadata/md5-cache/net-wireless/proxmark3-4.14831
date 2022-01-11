@@ -1,15 +1,16 @@
-BDEPEND=virtual/pkgconfig >=dev-vcs/git-1.8.2.1[curl]
-DEFINED_PHASES=compile install postinst test unpack
+BDEPEND=virtual/pkgconfig
+DEFINED_PHASES=compile install postinst test
 DEPEND=virtual/libusb:0 app-arch/bzip2 dev-libs/jansson sys-libs/ncurses:*[tinfo] sys-libs/readline:= bluez? ( net-wireless/bluez ) qt? ( dev-qt/qtcore:5 dev-qt/qtwidgets:5 dev-qt/qtgui:5 ) firmware? ( sys-devel/gcc-arm-none-eabi:0 )
 DESCRIPTION=A general purpose RFID tool for Proxmark3 hardware
 EAPI=7
 HOMEPAGE=https://github.com/RfidResearchGroup/proxmark3
-INHERIT=udev git-r3
+INHERIT=udev
 IUSE=+bluez deprecated +firmware +pm3rdv4 +qt standalone-lf-em4100emul standalone-lf-em4100rswb standalone-lf-em4100rwc standalone-lf-hidbrute standalone-lf-hidfcbrute standalone-lf-icehid standalone-lf-nexid standalone-lf-proxbrute standalone-lf-samyrun standalone-lf-tharexde standalone-hf-14asniff standalone-hf-15sniff standalone-hf-aveful standalone-hf-bog standalone-hf-colin standalone-hf-craftbyte standalone-hf-iceclass standalone-hf-legic standalone-hf-mattyrun standalone-hf-mfcsim standalone-hf-msdsal standalone-hf-reblay standalone-hf-tcprst standalone-hf-tmudford standalone-hf-young standalone-dankarmulti
+KEYWORDS=amd64
 LICENSE=GPL-3+
-PROPERTIES=live
 RDEPEND=virtual/libusb:0 app-arch/bzip2 dev-libs/jansson sys-libs/ncurses:*[tinfo] sys-libs/readline:= bluez? ( net-wireless/bluez ) qt? ( dev-qt/qtcore:5 dev-qt/qtwidgets:5 dev-qt/qtgui:5 )
 REQUIRED_USE=?? ( standalone-lf-em4100emul standalone-lf-em4100rswb standalone-lf-em4100rwc standalone-lf-hidbrute standalone-lf-hidfcbrute standalone-lf-icehid standalone-lf-nexid standalone-lf-proxbrute standalone-lf-samyrun standalone-lf-tharexde standalone-hf-14asniff standalone-hf-15sniff standalone-hf-aveful standalone-hf-bog standalone-hf-colin standalone-hf-craftbyte standalone-hf-iceclass standalone-hf-legic standalone-hf-mattyrun standalone-hf-mfcsim standalone-hf-msdsal standalone-hf-reblay standalone-hf-tcprst standalone-hf-tmudford standalone-hf-young standalone-dankarmulti ) standalone-lf-hidfcbrute? ( pm3rdv4 ) standalone-lf-icehid? ( pm3rdv4 ) standalone-lf-nexid? ( pm3rdv4 ) standalone-lf-tharexde? ( pm3rdv4 ) standalone-hf-14asniff? ( pm3rdv4 ) standalone-hf-15sniff? ( pm3rdv4 ) standalone-hf-bog? ( pm3rdv4 ) standalone-hf-colin? ( pm3rdv4 ) standalone-hf-iceclass? ( pm3rdv4 ) standalone-hf-mfcsim? ( pm3rdv4 ) standalone-hf-reblay? ( pm3rdv4 )
 SLOT=0
-_eclasses_=toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	de4beb52bfa93c4c5d96792a6b5e1784	udev	2d229ad4bfa09058e0184b1ca900db32	git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
-_md5_=639a85160b49f3cbafe227c1e17ae8ec
+SRC_URI=https://github.com/RfidResearchGroup/proxmark3/archive/v4.14831.tar.gz -> proxmark3-4.14831.tar.gz
+_eclasses_=toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	de4beb52bfa93c4c5d96792a6b5e1784	udev	2d229ad4bfa09058e0184b1ca900db32
+_md5_=a6a856486a3af2fe889e21209d7f167e
