@@ -9,6 +9,6 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 RDEPEND=python_single_target_python3_9? ( >=dev-lang/python-3.9.9-r1:3.9 ) python_single_target_python3_10? ( >=dev-lang/python-3.10.0_p1-r1:3.10 ) python_single_target_python3_9? ( dev-python/certifi[python_targets_python3_9(-)] dev-python/chardet[python_targets_python3_9(-)] dev-python/idna[python_targets_python3_9(-)] >=dev-python/pyyaml-5.1.2[python_targets_python3_9(-)] dev-python/requests[python_targets_python3_9(-)] dev-python/urllib3[python_targets_python3_9(-)] ) python_single_target_python3_10? ( dev-python/certifi[python_targets_python3_10(-)] dev-python/chardet[python_targets_python3_10(-)] dev-python/idna[python_targets_python3_10(-)] >=dev-python/pyyaml-5.1.2[python_targets_python3_10(-)] dev-python/requests[python_targets_python3_10(-)] dev-python/urllib3[python_targets_python3_10(-)] )
 SLOT=0
-SRC_URI=https://github.com/epinna/tplmap/archive/749807616ab1b173827913b325c5974e8f77f3d8.tar.gz -> tplmap-20190820.tar.gz
+SRC_URI=https://github.com/epinna/tplmap/archive/6f2150134dc637ff80478f623f28bb548ea2ca15.tar.gz -> tplmap-20211014.tar.gz
 _eclasses_=eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	multiprocessing	61c959fc55c15c00bbb1079d6a71370b	toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	de4beb52bfa93c4c5d96792a6b5e1784	python-utils-r1	7ec9eb6bbbeccd424c0430368962d272	python-single-r1	9783802d3840cbbd78c02b313df760cc
-_md5_=4e2db2428bd8331bf9c2885b404176da
+_md5_=96b40c7cb8e38b4dda6c833c37cc2e08

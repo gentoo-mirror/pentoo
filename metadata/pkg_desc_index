@@ -671,7 +671,7 @@ net-analyzer/testssl 3.0.5 3.0.6: Tool to check TLS/SSL cipher support
 net-analyzer/thc-pptp-bruter 0.1.4: A brute force program that works against pptp vpn endpoints
 net-analyzer/thc-ssl-dos 1.4: THC-SSL-DOS is a tool to verify the performance of SSL servers
 net-analyzer/theHarvester 4.0.1 4.0.2 4.0.3: The Harvester is a tool designed to collect email accounts of the target domain
-net-analyzer/tplmap 20190820: Server-Side Template Injection and code injection tool
+net-analyzer/tplmap 20211014: Server-Side Template Injection and code injection tool
 net-analyzer/twa 1.9.3 1.10.0 9999: A tiny web auditor with strong opinions
 net-analyzer/videojak 1.00 2.0: VideoJak is an IP Video security assessment tool
 net-analyzer/voiphopper 2.04-r3: VoIP Hopper is a tool that rapidly runs a VLAN Hop into the Voice VLAN
