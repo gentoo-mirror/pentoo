@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install
+DEPEND=dev-libs/libnl:= net-libs/libpcap:=
+DESCRIPTION=Wireless injection tool tool to exploit common IEEE 802.11 protocol weaknesses
+EAPI=8
+INHERIT=toolchain-funcs
+KEYWORDS=~amd64 ~arm ~x86
+LICENSE=GPL-3
+RDEPEND=dev-libs/libnl:= net-libs/libpcap:=
+SLOT=0
+SRC_URI=https://github.com/aircrack-ng/mdk4/archive/9e595b2f72b9c6cf12cc688e46e3eba3bac1b4d3.tar.gz -> mdk4-4.2_p20211014.tar.gz
+_eclasses_=toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	de4beb52bfa93c4c5d96792a6b5e1784
+_md5_=26800bf55fd630d62c4512fc043e9c17

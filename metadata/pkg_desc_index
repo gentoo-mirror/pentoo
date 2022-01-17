@@ -786,6 +786,7 @@ net-wireless/killerbee 2.7.1_p20200309 3.0.0_beta1: Framework and Tools for Atta
 net-wireless/kismet_shootout 0.0_p20190717 9999: Kismet WiFi data source shootout
 net-wireless/libfreefare 0.4.0: a library for high level manipulation of MIFARE tags
 net-wireless/md380tools 9999: Python tools and patched firmware for the TYT-MD380
+net-wireless/mdk4 4.2_p20211014: Wireless injection tool tool to exploit common IEEE 802.11 protocol weaknesses
 net-wireless/mjackit 20190606-r1: Demo tool for Logitech Unifying vulnerabilities
 net-wireless/mmdvmhost 9999: The host program for MMDVM
 net-wireless/mt7610u_ulli-kroll 9999: Modified usb wifi driver for TP_link TL-WDN5200
