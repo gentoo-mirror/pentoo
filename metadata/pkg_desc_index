@@ -786,7 +786,7 @@ net-wireless/killerbee 2.7.1_p20200309 3.0.0_beta1: Framework and Tools for Atta
 net-wireless/kismet_shootout 0.0_p20190717 9999: Kismet WiFi data source shootout
 net-wireless/libfreefare 0.4.0: a library for high level manipulation of MIFARE tags
 net-wireless/md380tools 9999: Python tools and patched firmware for the TYT-MD380
-net-wireless/mdk4 4.2_p20211014: Wireless injection tool tool to exploit common IEEE 802.11 protocol weaknesses
+net-wireless/mdk4 4.2_p20211014-r1: Wireless injection tool tool to exploit common IEEE 802.11 protocol weaknesses
 net-wireless/mjackit 20190606-r1: Demo tool for Logitech Unifying vulnerabilities
 net-wireless/mmdvmhost 9999: The host program for MMDVM
 net-wireless/mt7610u_ulli-kroll 9999: Modified usb wifi driver for TP_link TL-WDN5200
@@ -812,7 +812,7 @@ net-wireless/sdrtrunk 0.4.0-r1: Decode, monitor, record and stream trunked mobil
 net-wireless/sdrtrunk-bin 0.4.0-r1: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/signalhound-spike 3.5.9: Spectrum analyzer software for Signal Hound test equipment
 net-wireless/ska 0.2: Fake Shared Key Authentication
-net-wireless/trunk-recorder 3.3.7 4.1.1 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
+net-wireless/trunk-recorder 3.3.7 4.3.0 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
 net-wireless/virtualradar-bin 2.4.3: Open-source .NET application for ads-b mapping
 net-wireless/wifipumpkin3 1.0.8_p1-r1 1.0.8_p2-r1: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifite 2.5.5 2.5.8: An automated wireless attack tool
