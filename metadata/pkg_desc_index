@@ -307,6 +307,7 @@ dev-python/json2html 1.3.0-r1: A python module for converting complex JSON oject
 dev-python/jsonfield 2.0.2: A reusable Django field that allows you to store validated JSON
 dev-python/jwt 1.1.0: JSON Web Token library for Python
 dev-python/kaleido 0.2.1: Static image export for web-based visualization libraries
+dev-python/krb5 0.2.0: Kerberos API bindings for Python
 dev-python/ldap3 2.8.1: A strictly RFC 4511 conforming LDAP V3 pure Python client
 dev-python/ldapdomaindump 0.9.3: Active Directory information dumper via LDAP
 dev-python/leather 0.3.3: Python charting for 80% of humans
@@ -370,7 +371,7 @@ dev-python/pymisp 2.4.124-r1 2.4.152: A python library for using the MISP Rest A
 dev-python/pymodbus 2.1.0: A fully featured modbus protocol stack in python
 dev-python/pypcapfile 0.12.0: Pure Python package for reading and parsing libpcap savefiles
 dev-python/pyppeteer 0.0.25 0.2.6: Headless chrome/chromium automation library
-dev-python/pypsrp 0.5.0: PowerShell Remoting Protocol and WinRM for Python
+dev-python/pypsrp 0.5.0 0.7.0: PowerShell Remoting Protocol and WinRM for Python
 dev-python/pysnmp-apps 0.5.3: PySNMP applications
 dev-python/pyspnego 0.1.3: Windows Negotiate Authentication Client and Server
 dev-python/pystache 0.5.4: Mustache in Python
@@ -595,7 +596,7 @@ net-analyzer/cisco-auditing-tool 1: Perl script which scans cisco routers for co
 net-analyzer/cisco-torch 0.4b: Cisco mass scanning, fingerprinting, and exploitation tool
 net-analyzer/commix 3.2 3.3: Automated All-in-One OS command injection and exploitation tool
 net-analyzer/cottontail 20190426-r1: Capture all RabbitMQ messages being sent through a broker
-net-analyzer/crackmapexec 5.1.7-r1: A swiss army knife for pentesting Windows/Active Directory environments
+net-analyzer/crackmapexec 5.1.7-r1 5.2.2: A swiss army knife for pentesting Windows/Active Directory environments
 net-analyzer/davtest 1.0: tests WebDAV enabled servers
 net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden content
 net-analyzer/dirble-bin 1.3.1 1.4.2: Fast directory scanning and scraping tool
