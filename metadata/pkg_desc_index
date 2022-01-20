@@ -392,7 +392,6 @@ dev-python/python-whois 0.7.2 0.7.3: Whois querying and parsing of domain regist
 dev-python/python3-openid 3.1.0: Python 3 port of the python-openid library
 dev-python/pytimeparse 1.1.8: A small Python module to parse various kinds of time expressions
 dev-python/pywerview 0.3.1-r1 0.3.2-r1: A Python port of PowerSploit's PowerView
-dev-python/pywinrm 0.4.1: Python library for Windows Remote Management
 dev-python/pyzipper 0.3.5: AES encryption for zipfile
 dev-python/qt-py 1.3.3: Minimal Python 2 & 3 shim around all Qt bindings
 dev-python/quark-engine 22.1.1: An Obfuscation-Neglect Android Malware Scoring System
@@ -491,12 +490,12 @@ dev-ruby/irb 1.2.7 1.2.9: Interactive Ruby command-line tool for REPL
 dev-ruby/jsonapi-renderer 0.2.2: Efficiently render JSON API documents.
 dev-ruby/louis 2.3.1 2.3.2: Lookup mac address assignments in the iana database
 dev-ruby/memory_profiler 0.9.14 1.0.0: Memory profiling routines for Ruby 2.1+
-dev-ruby/metasploit-concern 3.0.0 3.0.1 4.0.2: Metasploit concern allows you to define concerns in app/concerns.
-dev-ruby/metasploit-credential 4.0.3 5.0.2: Code for modeling and managing credentials in Metasploit
-dev-ruby/metasploit-model 3.1.3 4.0.2: Common code, such as validators and mixins
+dev-ruby/metasploit-concern 3.0.0 3.0.1 4.0.3: Metasploit concern allows you to define concerns in app/concerns.
+dev-ruby/metasploit-credential 4.0.3 5.0.2 5.0.5: Code for modeling and managing credentials in Metasploit
+dev-ruby/metasploit-model 3.1.3 4.0.3: Common code, such as validators and mixins
 dev-ruby/metasploit-payloads 2.0.45 2.0.47: Compiled binaries for Metasploit's Meterpreter
-dev-ruby/metasploit_data_models 4.1.1 5.0.1: The database layer for Metasploit
-dev-ruby/metasploit_payloads-mettle 1.0.10: Compiled binaries for Metasploit's next-gen Meterpreter
+dev-ruby/metasploit_data_models 4.1.1 5.0.4: The database layer for Metasploit
+dev-ruby/metasploit_payloads-mettle 1.0.10 1.0.17: Compiled binaries for Metasploit's next-gen Meterpreter
 dev-ruby/mini_exiftool 2.10.0: wrapper for exiftool
 dev-ruby/msfrpc-client 1.1.2: Ruby client API to access the Rapid7 Metasploit Pro RPC service
 dev-ruby/mustermann-grape 1.0.1: Adds Grape style patterns to Mustermman
@@ -504,6 +503,7 @@ dev-ruby/openssl-cmac 2.0.1: Ruby Gem for RFC 4493, 4494, 4615 - The AES-CMAC Al
 dev-ruby/opt_parse_validator 1.9.5: OptionParser lib in ruby
 dev-ruby/orm_adapter 0.5.0: Provides a single point of entry for using basic features of ruby ORMs
 dev-ruby/otr-activerecord 1.4.1: Off The Rails ActiveRecord: Use ActiveRecord with Grape, Sinatra, Rack
+dev-ruby/packetfu 1.1.13: A mid-level packet manipulation library
 dev-ruby/parseconfig 1.0.8: Provides simple parsing of standard *nix style config files.
 dev-ruby/patch_finder 1.0.2: Generic Patch Finder
 dev-ruby/popper_js 2.9.2 2.9.3: Popper.js assets as a Ruby gem
@@ -530,13 +530,14 @@ dev-ruby/rex-struct2 0.1.1 0.1.2 0.1.3: Ruby Exploitation(Rex) library for gener
 dev-ruby/rex-text 0.2.28 0.2.29 0.2.34: Rex library for text generation and manipulation
 dev-ruby/rex-zip 0.1.3 0.1.4: Ruby Exploitation(Rex) library for working with zip and related files
 dev-ruby/ruby-gtkhex 0.2.0: A hexadecimal widget using gtk2, inspired by GHex
-dev-ruby/ruby-oci8 2.2.9: A Ruby library for Oracle OCI8
+dev-ruby/ruby-oci8 2.2.9 2.2.10: A Ruby library for Oracle OCI8
 dev-ruby/ruby_smb 2.0.4 2.0.6 2.0.7: pure Ruby implementation of the SMB Protocol Family
 dev-ruby/sablon 0.3.2: Document template processor of Microsoft XML format (docx)
 dev-ruby/similar_text 0.0.4: Calculate the similarity between two strings
 dev-ruby/spider 0.5.4: web spidering library
 dev-ruby/swagger-blocks 3.0.0: Define and serve live-updating Swagger JSON for Ruby apps
 dev-ruby/sys-proctable 1.2.2 1.2.6: A cross-platform Ruby interface for gathering process information
+dev-ruby/unix-crypt 1.3.0: Performs the UNIX crypt(3) algorithm
 dev-ruby/zpng 0.3.1: Pure ruby PNG file manipulation & validation
 dev-util/AndroidProjectCreator-bin 1.5 1.5.2: Decompile an APK to an Android Studio Project
 dev-util/androguard 3.3.5 3.4.0_alpha1: Read Android's binary format for XML files (AXML) and a decompiler for DEX
@@ -629,7 +630,7 @@ net-analyzer/masscan 1.0.5-r1 1.3.2: Mass IP port scanner
 net-analyzer/massdns 0.3 9999: A high-performance DNS stub resolver for bulk lookups and reconnaissance
 net-analyzer/medusa 2.3_pre: A modular, parallel, multiprotocol, network login auditor
 net-analyzer/metagoofil 2.2_p20201005: Information gathering tool designed for extracting metadata of public documents
-net-analyzer/metasploit 6.0.50 9999: Advanced framework for developing, testing, and using vulnerability exploit code
+net-analyzer/metasploit 6.0.50 6.1.25 9999: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/mosref 2.0_beta3: A secure remote execution framework using a compact Scheme-influenced VM
 net-analyzer/nbtool 20140416: Some tools for NetBIOS and DNS investigation, attacks, and communication
 net-analyzer/ncrack 0.7: Ncrack is a high-speed network authentication cracking tool
