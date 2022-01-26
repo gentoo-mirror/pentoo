@@ -61,7 +61,7 @@ app-exploits/unix-privesc-check 20170904 99999999: Shell script to check for sim
 app-exploits/webshells 20190713 99999999: Various webshells
 app-exploits/weevely 4.0.1 9999: Weevely is a stealth PHP web shell that simulate telnet-like console
 app-exploits/wesng 20200616 99999999: Windows Exploit Suggester - Next Generation
-app-forensics/bulk_extractor 1.5.5-r1 1.6.0 9999: Scans a disk image for regular expressions and other content
+app-forensics/bulk_extractor 1.6.0 2.0.0_beta3 9999: Scans a disk image for regular expressions and other content
 app-forensics/cortex 2.1.3 3.0.0: A powerful observable analysis and active response engine
 app-forensics/eagleeye 9999 20211020: Find people's social media profile using reverse image search
 app-forensics/fuxploider 1.0-r1 9999: File upload vulnerability scanner and exploitation tool
@@ -570,7 +570,7 @@ dev-util/redasm 3.0.0_beta5: The OpenSource Disassembler
 dev-util/reflutter 0.4.9: Flutter apps reverse engineering
 dev-util/retdec 4.0 9999: RetDec is a retargetable machine-code decompiler based on LLVM.
 dev-util/semgrep-core-bin 0.52.0 0.55.1 0.57.0 0.77.0: Lightweight static analysis for many languages
-dev-util/soapui 5.5.0 5.6.0 5.6.1: The Swiss-Army Knife for SOAP Testing
+dev-util/soapui 5.6.0 5.6.1 5.7.0: The Swiss-Army Knife for SOAP Testing
 dev-util/sonarqube-bin 7.9.3 8.3.1.34397 8.4.1.35646 8.7.0.41497: SonarQube Community Edition is an open platform to manage code quality
 dev-util/sonarscanner-bin 4.3.0.2102 4.4.0.2170: SonarQube Command-Line Scanner
 dev-util/unicorn 1.0.3-r1 2.0.0_rc5: A lightweight multi-platform, multi-architecture CPU emulator framework
@@ -894,7 +894,7 @@ www-apps/beef 0.5.0.0-r1: Browser exploitation framework
 www-apps/faraday 3.10.0-r1: Integrated Penetration-Test Environment is a multiuser Penetration test IDE
 www-apps/geckodriver 0.27.0 0.30.0: Proxy for using WebDriver clients to interact with Gecko-based browsers.
 www-apps/rda 2.9 3.0: Web-based application for effective reporting writing
-www-apps/seafile-pro-server 7.1.22 8.0.14 9.0.3: Meta package for Seafile Pro Edition, file sync share solution
+www-apps/seafile-pro-server 7.1.22 8.0.14 9.0.4: Meta package for Seafile Pro Edition, file sync share solution
 www-apps/vulsrepo 20190412-r3: VulsRepo is visualized based on the json report output in vuls
 www-misc/firefox-bookmarks 0.3-r1: Firefox bookmarks for the Pento ISO only
 www-plugins/hackplugins-meta 20200428: Collection of browser's plugins for application security testing
