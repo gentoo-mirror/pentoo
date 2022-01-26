@@ -263,7 +263,7 @@ dev-python/face_recognition 1.2.3 1.3.0: Recognize faces from Python or from the
 dev-python/face_recognition_models 0.3.0: Models used by the face_recognition package.
 dev-python/fake-useragent 0.1.11: Up to date simple useragent faker with real world database
 dev-python/faraday-plugins 1.0.1-r1: No project description provided
-dev-python/fastapi 0.65.2: FastAPI framework, high performance, easy to learn, fast to code, ready for production
+dev-python/fastapi 0.65.2 0.73.0: FastAPI framework, high performance, easy to learn, fast to code, ready for production
 dev-python/fastkml 0.11: Fast KML processing in python
 dev-python/filebytes 0.10.2: Classes to parse the following file formats
 dev-python/filedepot 0.7.1: Toolkit for storing files and attachments in web applications
@@ -419,7 +419,6 @@ dev-python/sqlalchemy_mixins 1.2.1: Active Record, Django-like queries
 dev-python/sqlalchemy_schemadisplay 1.3: Turn SQLAlchemy DB Model into a graph
 dev-python/sqlalchemy_utc 0.12.0: SQLAlchemy type to store aware datetime values
 dev-python/sse-starlette 0.7.2: Server Sent Events for Starlette
-dev-python/starlette 0.14.2: The little ASGI framework that shines
 dev-python/stegoveritas-binwalk 2.1.2: Binwalk release specifically for stegoveritas
 dev-python/stegoveritas-pfp 0.2.3: An 010 template interpreter for Python
 dev-python/stegoveritas-py010parser 0.1.10: A modified pycparser to parse 010 templates
