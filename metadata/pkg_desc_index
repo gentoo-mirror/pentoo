@@ -356,7 +356,6 @@ dev-python/pyaff4 0.27: Python Advanced Forensic Format Version 4 library
 dev-python/pyaxmlparser 0.3.24 0.3.26: Parser for Android XML file and get Application Name without using Androguard
 dev-python/pydecomp 9999: A python library of common (de)compression and contents handling
 dev-python/pydispatcher 2.0.5: Multi-producer-multi-consumer signal dispatching mechanism
-dev-python/pydot 1.4.2-r2: Python interface to Graphviz's Dot language
 dev-python/pyee 8.1.0 8.2.2: A port of node.js's EventEmitter to python.
 dev-python/pygeoif 0.7: A basic implementation of the __geo_interface__
 dev-python/pygexf 0.2.2: A python library to generate gexf file format
@@ -717,7 +716,7 @@ net-misc/tko-subs 20190624: A tool that can help detect and takeover subdomains 
 net-misc/voipong 2.0: tool for detecting all VoIP calls on a pipeline and dumps actual conversation to seperate wav files
 net-misc/waybackurls 0.0.2: Fetch all the URLs that the Wayback Machine knows about for a domain
 net-misc/wireshark-patoolkit 20191029: a collection of traffic analysis Wireshark plugins focused on security
-net-misc/wireshark-sap-plugin 0.4.2 0.5.2 0.6.1 0.6.1-r1 9999: Wireshark plugin for SAP's protocols
+net-misc/wireshark-sap-plugin 0.6.1 0.6.1-r1 0.9.1: Wireshark plugin for SAP's protocols
 net-misc/wlan2eth 1.3: Wlan2eth is a tool that converts wlan pcap to ethernet-like frames.
 net-proxy/burpsuite 2021.10.3 2021.12_rc 2021.12.1 9999: Interactive proxy for attacking and debugging web applications
 net-proxy/burpsuite-pro 2021.10.3 2021.12_rc 2021.12.1: Interactive proxy for attacking and debugging web applications
