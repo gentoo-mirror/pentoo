@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=Pentoo scanner meta ebuild
+EAPI=7
+HOMEPAGE=http://www.pentoo.ch
+IUSE=pentoo-full
+KEYWORDS=amd64 arm x86
+LICENSE=GPL-3
+PDEPEND=net-analyzer/nmap net-analyzer/mdns-scan pentoo-full? ( net-analyzer/enum4linux net-analyzer/firewalk net-analyzer/hunt net-analyzer/ike-scan net-analyzer/nbtscan net-analyzer/nikto net-analyzer/nmap_vulscan net-analyzer/nmbscan net-analyzer/onesixtyone net-analyzer/ppscan net-analyzer/scanssh net-analyzer/upnpscan amd64? ( net-analyzer/wpscan net-analyzer/zmap ) )
+SLOT=0
+_md5_=a83dbcb2211de259f704edd500f8eaa3
