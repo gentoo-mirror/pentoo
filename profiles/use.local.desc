@@ -127,12 +127,6 @@ dev-util/recaf-bin:system-openjfx - Add OpenJFX support
 dev-util/redasm:database - Add REDasm database support
 dev-util/retdec:system-libs - Use system libraries
 dev-util/sonarscanner-bin:embedded_jre - Install embedded JRE
-dev-util/unicorn:unicorn_targets_aarch64 - Use the aarch64 architecture
-dev-util/unicorn:unicorn_targets_arm - Use the arm architecture
-dev-util/unicorn:unicorn_targets_m68k - Use the m68k architecture
-dev-util/unicorn:unicorn_targets_mips - Use the mips architecture
-dev-util/unicorn:unicorn_targets_sparc - Use the sparc architecture
-dev-util/unicorn:unicorn_targets_x86 - Use the x86 architecture
 net-analyzer/medusa:afp - Use net-fs/afpfs-ng and enable AFP module
 net-analyzer/medusa:ncp - Use net-fs/ncpfs and enable NCP module
 net-analyzer/medusa:ssh - Enable SSH2 module
