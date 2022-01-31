@@ -864,7 +864,6 @@ sys-apps/openrazer 3.1.0 3.2.0: Razer Drivers for Linux
 sys-devel/autofdo 0.18 0.19 9999: System to simplify real-world deployment of feedback-directed optimization
 sys-devel/gcc-arm-none-eabi 10.3_p202110: GNU Arm Embedded Toolchain
 sys-devel/gdb-dashboard 0.11.1 0.11.4 9999: Modular visual interface for GDB in Python
-sys-devel/gef 2021.04 2021.07 2021.10 9999: A GDB Enhanced Features for exploit devs & reversers
 sys-devel/peda 1.2 9999: Python Exploit Development Assistance for GDB
 sys-devel/pwndbg 20200723 20210622 99999999: A GDB plug-in that makes debugging with GDB suck less
 sys-fs/cramfsswap 1.4.2: swap endianness of a cram filesystem (cramfs)
