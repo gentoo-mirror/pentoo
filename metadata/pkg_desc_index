@@ -54,7 +54,6 @@ app-exploits/proton 20200311: Windows post-exploitation framework using Windows 
 app-exploits/pwntools 4.6.0 4.7.0_beta0 4.7.0: CTF framework and exploit development library
 app-exploits/pypykatz 0.5.0-r1 0.5.2: Python implementation of Mimikatz
 app-exploits/ropgadget 6.5 6.6: Search for gadgets in binaries to facilitate your ROP exploitation
-app-exploits/ropper 1.13.5 1.13.6 9999: Use to display information about binary files in different file formats
 app-exploits/routersploit 3.4.0-r1 9999: An open-source exploitation framework dedicated to embedded devices
 app-exploits/traitor 0.0.2 0.0.3: Automatically exploit low-hanging fruit to pop a root shell
 app-exploits/unix-privesc-check 20170904 99999999: Shell script to check for simple privilege escalation vectors
@@ -265,7 +264,6 @@ dev-python/fake-useragent 0.1.11: Up to date simple useragent faker with real wo
 dev-python/faraday-plugins 1.0.1-r1: No project description provided
 dev-python/fastapi 0.65.2 0.73.0: FastAPI framework, high performance, easy to learn, fast to code, ready for production
 dev-python/fastkml 0.11: Fast KML processing in python
-dev-python/filebytes 0.10.2: Classes to parse the following file formats
 dev-python/filedepot 0.7.1: Toolkit for storing files and attachments in web applications
 dev-python/filteralchemy-fork 0.1.0: Declarative query builder for SQLAlchemy
 dev-python/flasgger 0.9.5: Easy OpenAPI specs and Swagger UI for your Flask API
@@ -842,7 +840,7 @@ pentoo/pentoo-nfc 2020.2: Collection of NFC tools
 pentoo/pentoo-opencl 0-r3: Virtual for pulling in appropriate opencl stuffs
 pentoo/pentoo-proxies 2021.0: Pentoo proxy meta ebuild
 pentoo/pentoo-radio 2021.3: Radio tools for pentoo
-pentoo/pentoo-rce 2022.0-r1: Pentoo RCE meta ebuild
+pentoo/pentoo-rce 2022.0-r2: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2020.0: Pentoo scanner meta ebuild
 pentoo/pentoo-system 2021.4-r1: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2021.0: Pentoo voip meta ebuild
