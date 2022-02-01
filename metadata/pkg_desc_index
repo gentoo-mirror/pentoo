@@ -878,7 +878,7 @@ sys-kernel/minipli-sources 4.9.74: Unofficial forward ports of the last publicly
 sys-kernel/odroid-sources 9999: Linux kernel source for the ODROID-[UX]2 products
 sys-kernel/odroidxu-sources 9999: Linux kernel source for the ODROIDXU products
 sys-kernel/pentoo-lts-sources 0: Pentoo kernel sources (kernel series .)
-sys-kernel/pentoo-sources 5.15.18: Pentoo kernel sources (kernel series 5.15)
+sys-kernel/pentoo-sources 5.15.18 5.16.4: Pentoo kernel sources (kernel series 5.16)
 sys-kernel/pf_ring-kmod 7.0.0 7.8.0_p20210421: High-speed packet processing framework (kernel modules for)
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
 sys-power/acpid 2.0.32-r1: Daemon for Advanced Configuration and Power Interface
