@@ -1,12 +1,11 @@
-# Copyright 1999-2021 Gentoo Authors
+# Copyright 1999-2022 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=7
 
 MY_PV="${PV/_p/R}"
 DISTUTILS_USE_SETUPTOOLS=rdepend
-#dev-python/flask-restful is not python3.9 yet
-PYTHON_COMPAT=( python3_{7..8} )
+PYTHON_COMPAT=( python3_{9..10} )
 
 inherit distutils-r1
 
