@@ -32,7 +32,7 @@ app-crypt/steghide 0.5.1: A steganography program which hides data in various me
 app-crypt/wisecracker 1.0-r1: An open source framework for tools that can distribute brute force cryptanalysis
 app-crypt/xortool 0.99: A tool to analyze multi-byte xor cipher
 app-dicts/raft-wordlists 20110803-r1: Raft wordlists
-app-dicts/seclists 2021.1 2021.2 2021.3.1 2021.4: A collection of multiple types of lists used during security assessments
+app-dicts/seclists 2021.4 2022.1: A collection of multiple types of lists used during security assessments
 app-editors/rehex 0.4.0 0.4.1: Reverse Engineers' Hex Editor
 app-emulation/containerd 1.4.4: A daemon to control runC
 app-eselect/eselect-metasploit 0.20: eselect module for metasploit
