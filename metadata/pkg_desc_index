@@ -882,7 +882,7 @@ sys-kernel/pentoo-sources 5.15.18 5.16.4: Pentoo kernel sources (kernel series 5
 sys-kernel/pf_ring-kmod 7.0.0 7.8.0_p20210421: High-speed packet processing framework (kernel modules for)
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
 sys-power/acpid 2.0.32-r1: Daemon for Advanced Configuration and Power Interface
-virtual/linux-sources 3-r106: Virtual for Linux kernel sources
+virtual/linux-sources 3-r107: Virtual for Linux kernel sources
 www-apps/BloodHound 4.0.2 4.0.3: Six Degrees of Domain Admin
 www-apps/Tiredful-API 9999: An intentionally designed broken web application based on REST API
 www-apps/beef 0.5.0.0-r1: Browser exploitation framework
