@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install prepare
+DEPEND=virtual/libusb:1 >=dev-libs/LeechCore-2.7 >=dev-libs/memprocfs-4.7 ft60x_driver? ( sys-kernel/ft60x_driver )
+DESCRIPTION=Direct Memory Access (DMA) Attack Software
+EAPI=7
+HOMEPAGE=https://github.com/ufrisk/pcileech
+IUSE=ft60x_driver
+KEYWORDS=amd64 ~arm64 x86
+LICENSE=Apache-2.0
+RDEPEND=virtual/libusb:1 >=dev-libs/LeechCore-2.7 >=dev-libs/memprocfs-4.7 ft60x_driver? ( sys-kernel/ft60x_driver )
+SLOT=0
+SRC_URI=https://github.com/ufrisk/pcileech/archive/v4.14.tar.gz -> pcileech-4.14.tar.gz
+_md5_=2c7eaff0926fd3bac16d4691af318d95
