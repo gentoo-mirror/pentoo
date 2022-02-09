@@ -6,4 +6,4 @@ KEYWORDS=amd64
 LICENSE=MIT
 SLOT=0
 SRC_URI=https://github.com/Kong/insomnia/releases/download/core%402022.1.0-beta.0/Insomnia.Core-2022.1.0-beta.0.tar.gz -> insomnia-bin-2022.1.0_beta_p0.tar.gz
-_md5_=69a7aacd914e4e9e71fc5a8a3ef8da7d
+_md5_=47f41b2e8f8cb2c84407f27bd3411335
