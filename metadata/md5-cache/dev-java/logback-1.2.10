@@ -1,5 +1,5 @@
 DEFINED_PHASES=compile install preinst prepare setup test
-DEPEND=virtual/jre:11 dev-java/slf4j-api dev-java/slf4j-log4j12 dev-java/junit:4 dev-java/osgi-core-api virtual/jdk:11 dev-java/mockito dev-java/janino dev-java/joda-time java-virtuals/servlet-api:3.1 dev-java/jansi dev-java/oracle-javamail dev-java/jetty-server >=dev-java/java-config-2.2.0-r3
+DEPEND=virtual/jre:11 dev-java/slf4j-api dev-java/assertj-core dev-java/junit:4 dev-java/osgi-core-api virtual/jdk:11 dev-java/mockito dev-java/joda-time java-virtuals/servlet-api:3.1 dev-java/jansi dev-java/oracle-javamail dev-java/jetty-server >=dev-java/java-config-2.2.0-r3
 DESCRIPTION=The reliable, generic, fast and flexible logging framework
 EAPI=7
 HOMEPAGE=https://github.com/qos-ch/logback
@@ -7,6 +7,6 @@ INHERIT=java-pkg-2 java-pkg-simple
 LICENSE=GPL-3
 RDEPEND=virtual/jre:11 >=dev-java/java-config-2.2.0-r3
 SLOT=0
-SRC_URI=https://github.com/qos-ch/logback/archive/v_1.2.3.tar.gz -> logback-1.2.3.tar.gz
+SRC_URI=https://github.com/qos-ch/logback/archive/v_1.2.10.tar.gz -> logback-1.2.10.tar.gz
 _eclasses_=java-utils-2	fe178a2da6b16798a2363acc5543dffa	java-pkg-2	2d0eb1353bf1264bd6e61736d3e409a2	java-pkg-simple	6b49cf40f97e7a6458469114e1712118
-_md5_=a26a4f45f04be218f6c95fff458f995c
+_md5_=3d079f9be338c43e70949c273e5d6e2a
