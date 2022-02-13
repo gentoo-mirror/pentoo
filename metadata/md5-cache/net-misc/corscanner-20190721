@@ -6,9 +6,9 @@ INHERIT=eutils python-single-r1
 IUSE=python_single_target_python3_9 python_single_target_python3_10
 KEYWORDS=~amd64 ~arm64 ~mips ~x86
 LICENSE=MIT
-RDEPEND=python_single_target_python3_9? ( >=dev-lang/python-3.9.9-r1:3.9 ) python_single_target_python3_10? ( >=dev-lang/python-3.10.0_p1-r1:3.10 ) python_single_target_python3_9? ( dev-python/requests[${PYTHON_MULTI_USEDEP}] dev-python/gevent[${PYTHON_MULTI_USEDEP}] dev-python/tldextract[${PYTHON_MULTI_USEDEP}] dev-python/argparse[${PYTHON_MULTI_USEDEP}] dev-python/colorama[${PYTHON_MULTI_USEDEP}] ) python_single_target_python3_10? ( dev-python/requests[${PYTHON_MULTI_USEDEP}] dev-python/gevent[${PYTHON_MULTI_USEDEP}] dev-python/tldextract[${PYTHON_MULTI_USEDEP}] dev-python/argparse[${PYTHON_MULTI_USEDEP}] dev-python/colorama[${PYTHON_MULTI_USEDEP}] )
+RDEPEND=python_single_target_python3_9? ( >=dev-lang/python-3.9.9-r1:3.9 ) python_single_target_python3_10? ( >=dev-lang/python-3.10.0_p1-r1:3.10 ) python_single_target_python3_9? ( dev-python/requests[python_targets_python3_9(-)] dev-python/gevent[python_targets_python3_9(-)] dev-python/tldextract[python_targets_python3_9(-)] dev-python/argparse[python_targets_python3_9(-)] dev-python/colorama[python_targets_python3_9(-)] ) python_single_target_python3_10? ( dev-python/requests[python_targets_python3_10(-)] dev-python/gevent[python_targets_python3_10(-)] dev-python/tldextract[python_targets_python3_10(-)] dev-python/argparse[python_targets_python3_10(-)] dev-python/colorama[python_targets_python3_10(-)] )
 REQUIRED_USE=^^ ( python_single_target_python3_9 python_single_target_python3_10 )
 SLOT=0
 SRC_URI=https://github.com/chenjj/CORScanner/archive/a4894211115ad7f3a59fbd3e69b20575fd74e435.tar.gz -> corscanner-20190721.tar.gz
 _eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	dab5d8ec471d025b79c9e6906bcf3bff	eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	multiprocessing	61c959fc55c15c00bbb1079d6a71370b	toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	de4beb52bfa93c4c5d96792a6b5e1784	python-utils-r1	ce976d20176213d68719e1a760f6e9fe	python-single-r1	3c5721adc30f98c39739c5970a4762d8
-_md5_=4fd3d12650cda05d9e263e50186c4a06
+_md5_=31ebabe4dd4c0016d2d6a7e5d6fedb8d
