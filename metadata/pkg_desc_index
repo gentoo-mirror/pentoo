@@ -552,7 +552,7 @@ dev-util/electron-bin 6.0.11: Cross platform application development framework b
 dev-util/electron-packager 14.2.1: Six Degrees of Domain Admin
 dev-util/frida-tools 10.2.2 10.3.0 10.4.1: Frida CLI tools
 dev-util/ghidra 10.1.1 10.1.2: A software reverse engineering framework
-dev-util/jadx-bin 1.3.1 1.3.2: A standalone graphical utility that displays Java source codes of .class file
+dev-util/jadx-bin 1.3.2 1.3.3: A standalone graphical utility that displays Java source codes of .class file
 dev-util/jd-cli 1.2.0: Command line Java Decompiler
 dev-util/jd-cli-bin 1.1.0 1.2.0: Command line Java Decompiler
 dev-util/jd-gui 1.6.6-r4: A standalone Java Decompiler GUI
