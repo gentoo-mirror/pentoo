@@ -1,0 +1,10 @@
+DEFINED_PHASES=install
+DEPEND=app-arch/unzip
+DESCRIPTION=Software police-like scanner with its own touch
+EAPI=8
+HOMEPAGE=https://github.com/chuot/rdio-scanner
+KEYWORDS=~amd64 ~arm ~arm64 ~x86
+LICENSE=GPL-3
+SLOT=0
+SRC_URI=amd64? ( https://github.com/chuot/rdio-scanner/releases/download/v6.1.13/rdio-scanner-linux-amd64-v6.1.13.zip ) x86? ( https://github.com/chuot/rdio-scanner/releases/download/v6.1.13/rdio-scanner-linux-386-v6.1.13.zip ) arm? ( https://github.com/chuot/rdio-scanner/releases/download/v6.1.13/rdio-scanner-linux-arm-v6.1.13.zip ) arm64? ( https://github.com/chuot/rdio-scanner/releases/download/v6.1.13/rdio-scanner-linux-arm64-v6.1.13.zip )
+_md5_=db2b89a8afb136745ead9839f8aa630f
