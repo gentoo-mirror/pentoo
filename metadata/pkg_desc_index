@@ -812,7 +812,7 @@ net-wireless/sdrtrunk 0.4.0-r1: Decode, monitor, record and stream trunked mobil
 net-wireless/sdrtrunk-bin 0.4.0-r1: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/signalhound-spike 3.5.9: Spectrum analyzer software for Signal Hound test equipment
 net-wireless/ska 0.2: Fake Shared Key Authentication
-net-wireless/trunk-recorder 3.3.7 4.3.0 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
+net-wireless/trunk-recorder 3.3.7 4.3.1 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
 net-wireless/virtualradar-bin 2.4.3: Open-source .NET application for ads-b mapping
 net-wireless/wifipumpkin3 1.0.8_p2-r1 1.0.9_p2: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifite 2.5.8 2.6.0: An automated wireless attack tool
