@@ -9,4 +9,4 @@ RDEPEND=sys-libs/ncurses-compat python2? ( dev-lang/python:2.7 )
 RESTRICT=strip
 SLOT=0
 SRC_URI=amd64? ( https://developer.arm.com/-/media/Files/downloads/gnu-rm/10.3-2021.10/gcc-arm-none-eabi-10.3-2021.10-x86_64-linux.tar.bz2 ) arm64? ( https://developer.arm.com/-/media/Files/downloads/gnu-rm/10.3-2021.10/gcc-arm-none-eabi-10.3-2021.10-aarch64-linux.tar.bz2 )
-_md5_=5ac867d928c011b5f51859f1ce2f4546
+_md5_=951498be1403d8eb3084f20c09bd1ae5
