@@ -541,7 +541,7 @@ dev-ruby/zpng 0.3.1: Pure ruby PNG file manipulation & validation
 dev-util/AndroidProjectCreator-bin 1.5 1.5.2: Decompile an APK to an Android Studio Project
 dev-util/androguard 3.3.5 3.4.0_alpha1: Read Android's binary format for XML files (AXML) and a decompiler for DEX
 dev-util/android-sdk-build-tools 30.0.2-r1 30.0.3: Android SDK Build Tools
-dev-util/apktool 2.5.0 2.6.0: A tool for reengineering 3rd party, closed, binary Android apps
+dev-util/apktool 2.6.0 2.6.1: A tool for reengineering 3rd party, closed, binary Android apps
 dev-util/appmon 0.5_p20201013: Monitoring and tampering API calls of MacOS and iOS/Android apps
 dev-util/catalyst 3.0.9 9999: Release metatool used for creating releases based on Gentoo Linux
 dev-util/collabreate 0.4.0_p20140528: A plugin for IDA Pro designed to provide collaborative reverse engineering
@@ -748,6 +748,7 @@ net-wireless/chirp 20200213 20201221 20211216: Free open-source tool for program
 net-wireless/cowpatty 4.8-r1: WLAN tools for bruteforcing 802.11 WPA/WPA2 keys
 net-wireless/crda 1.1.0-r1 1.1.1: Central Regulatory Domain Agent for wireless networks
 net-wireless/create_ap 0.4.6: A script to create a NATed or bridged WiFi access point
+net-wireless/csdr 9999: a simple DSP library and cli for SDR
 net-wireless/dsd 1.7.0_pre20211213 9999: Digital Speech Decoder
 net-wireless/dsdcc 1.9.0 1.9.3 9999: Digital Speech Decoder rewritten as a C++ library
 net-wireless/dump1090_sdrplus 20190812 20200921: Mode S decoder for (SDR) devices including RTL SDR, HackRF, Airspy and SDRplay
@@ -834,7 +835,7 @@ pentoo/pentoo-fuzzers 2020.1: Pentoo fuzzers meta ebuild
 pentoo/pentoo-gnome 2.32.1-r3: Meta package for the GNOME desktop, merge this package to install
 pentoo/pentoo-installer 20211021 99999999: Installer for pentoo, based on the ncurses Arch Linux installer
 pentoo/pentoo-livecd 2021.2: things needed by pentoo for livecd only
-pentoo/pentoo-misc 2021.3-r1: Pentoo misc meta ebuild
+pentoo/pentoo-misc 2022.0: Pentoo misc meta ebuild
 pentoo/pentoo-mitm 2020.1: Pentoo mitm meta ebuild
 pentoo/pentoo-mobile 2020.3: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2020.2: Collection of NFC tools
