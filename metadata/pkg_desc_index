@@ -813,7 +813,7 @@ net-wireless/signalhound-spike 3.5.9: Spectrum analyzer software for Signal Houn
 net-wireless/ska 0.2: Fake Shared Key Authentication
 net-wireless/trunk-recorder 4.3.2 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
 net-wireless/virtualradar-bin 2.4.3: Open-source .NET application for ads-b mapping
-net-wireless/wifipumpkin3 1.0.8_p2-r1 1.0.9_p2: Framework for Rogue Wi-Fi Access Point Attack
+net-wireless/wifipumpkin3 1.0.9_p2 1.1.2_p2: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifite 2.5.8 2.6.0: An automated wireless attack tool
 net-wireless/wireless-regdb 20091125-r1: Binary regulatory database for CRDA
 net-wireless/wpa_sycophant 1.0 9999: Evil client portion of EAP relay attack
