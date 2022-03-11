@@ -115,7 +115,6 @@ dev-python/pypsrp:credssp - Add CredSSP support
 dev-python/social-auth-core:saml - Use SAML
 dev-python/stegoveritas-binwalk:graph - Enable support for generating entropy graphs
 dev-python/whitenoise:brotli - Add Brotli support
-dev-python/yara-python:dex - Add dex module debugging support
 dev-util/apktool:tools - Add Android SDK build tools support
 dev-util/catalyst:ccache - Add ccache support
 dev-util/catalyst:iso - Add ISO support
