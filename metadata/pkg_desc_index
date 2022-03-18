@@ -769,6 +769,7 @@ net-wireless/gr-gsm 20191116 20210505: Set of tools for receiving information tr
 net-wireless/gr-ham 20200511: 
 net-wireless/gr-keyfob 9999: GNU Radio block for Hella wireless car key fobs
 net-wireless/gr-lte 9999: GNU Radio block for LTE signals
+net-wireless/gr-m2k 9999: A C++ library for interfacing with the ADALM2000
 net-wireless/gr-mixalot 0.0_p2020902 9999: a set of GNU Radio blocks/utilities to encode pager messages
 net-wireless/gr-reveng 9999: GNU Radio block for reverse engineering RF protocols
 net-wireless/gr-tpms 9999: GNU Radio block for Tire Pressure Monitor tools
@@ -784,6 +785,7 @@ net-wireless/karmetasploit 0.1-r3: KARMA + Metasploit 3 == Karmetasploit
 net-wireless/killerbee 2.7.1_p20200309 3.0.0_beta1: Framework and Tools for Attacking ZigBee and IEEE 802.15.4 networks
 net-wireless/kismet_shootout 0.0_p20190717 9999: Kismet WiFi data source shootout
 net-wireless/libfreefare 0.4.0: a library for high level manipulation of MIFARE tags
+net-wireless/libm2k 9999: A C++ library for interfacing with the ADALM2000
 net-wireless/md380tools 9999: Python tools and patched firmware for the TYT-MD380
 net-wireless/mdk4 4.2_p20220118: Wireless injection tool tool to exploit common IEEE 802.11 protocol weaknesses
 net-wireless/mjackit 20190606-r1: Demo tool for Logitech Unifying vulnerabilities
@@ -803,6 +805,7 @@ net-wireless/rfcat 1.9.5-r1: The swiss army knife of subGHz
 net-wireless/rtl8812au 4.2.5 4.3.1.4 4.3.14_p20190827 5.2.9_p20180327 5.6.4.2_p20200318 5.6.4.2_p20200703: Linux kernel driver for rtl8812au USB WiFi chipsets
 net-wireless/rtl8812au_aircrack-ng 5.6.4.2_p20200118 5.6.4.2_p20210504 5.6.4.2_p20211108 9999: RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection
 net-wireless/rtl8822bu 5.3.1_p20190920 5.8.7.4_p20210626 9999: RTL88x2BU driver with monitor mode and frame injection
+net-wireless/rtl_power_fftw 0.0_p20200601 9999: power spectrum for RTLSDR dongles
 net-wireless/rx_tools 1.0.3-r1 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
 net-wireless/scopy 9999: A software oscilloscope and signal analysis toolset
 net-wireless/sdrangel 6.18.1 6.19.0: SDR Rx/Tx software
