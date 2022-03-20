@@ -112,6 +112,8 @@ dev-python/django-constance-haiwen:redis - Add django-redis support
 dev-python/pyinstaller:clang - Support for sys-devel/clang
 dev-python/pyinstaller:leak-detector - Support for link with Boehm garbage collector to detect memory leaks
 dev-python/pypsrp:credssp - Add CredSSP support
+dev-python/simplespectral:faster - Use dev-python/scipy to speed up drawing
+dev-python/simplespectral:fastest - Use dev-python/pyFFTW to speed up drawing to the max
 dev-python/social-auth-core:saml - Use SAML
 dev-python/stegoveritas-binwalk:graph - Enable support for generating entropy graphs
 dev-python/whitenoise:brotli - Add Brotli support
@@ -160,6 +162,13 @@ net-wireless/proxmark3:standalone-hf-young - standalone Mifare sniff/simulation
 net-wireless/proxmark3:standalone-lf-hidbrute - standalone HID corporate 1000 bruteforce
 net-wireless/proxmark3:standalone-lf-proxbrute - standalone HID ProxII bruteforce
 net-wireless/proxmark3:standalone-lf-samyrun - standalone HID26 read/clone/sim
+net-wireless/soapy_power:faster - Use dev-python/scipy to speed up drawing
+net-wireless/soapy_power:fastest - Use dev-python/pyFFTW to speed up drawing to the max
+net-wireless/srsran:bladerf - support Nuand BladeRF hardware
+net-wireless/srsran:simcard - support hardware sim cards
+net-wireless/srsran:soapysdr - use soapysdr to support various hardware
+net-wireless/srsran:uhd - support Ettus Research hardware
+net-wireless/srsran:zeromq - enable zeromq message passing
 pentoo/pentoo-cinnamon:gdm - GNOME Display Manager
 sys-kernel/compat-drivers:build-all-modules - Bypass any filtering of the modules and build them all. Use only when no other flag works!
 sys-kernel/compat-drivers:compat_drivers_ethernet_alx - COMPAT_DRIVERS_ETHERNET setting to build driver for alx ethernet cards
