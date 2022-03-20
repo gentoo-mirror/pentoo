@@ -28,7 +28,6 @@ PDEPEND="net-wireless/gnuradio[uhd?]
 		amd64? (
 			net-wireless/editcp-bin
 			net-wireless/mjackit
-			net-wireless/srslte
 			)
 		app-misc/rtlamr
 		app-mobilephone/dfu-util
@@ -57,7 +56,6 @@ PDEPEND="net-wireless/gnuradio[uhd?]
 		net-wireless/rx_tools
 		uhd? ( net-wireless/uhd )
 		net-wireless/urh
-		net-wireless/yatebts
 		media-radio/gpredict
 		net-wireless/jackit
 	)"
