@@ -10,5 +10,5 @@ RDEPEND=|| ( dev-lang/ruby:2.6 dev-lang/ruby:2.7 ) virtual/rubygems dev-ruby/eve
 RESTRICT=test
 SLOT=0
 SRC_URI=https://github.com/beefproject/beef/archive/v0.5.0.0.tar.gz -> beef-0.5.0.0.tar.gz
-_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	dab5d8ec471d025b79c9e6906bcf3bff	ruby-utils	4e22efed0e6cba1c59b5ad83d18f6c43	ruby-single	214d0508e74b80c85efcef39699cb9a2
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	dab5d8ec471d025b79c9e6906bcf3bff	ruby-utils	707c7b16c28e3483e51d7ec7f7b0d5ed	ruby-single	d832a35ebec5113ec8d275b948432e59
 _md5_=c74b70bbded2779922502daeb3bc54bb

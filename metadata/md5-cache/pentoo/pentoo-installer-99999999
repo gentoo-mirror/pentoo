@@ -8,5 +8,5 @@ LICENSE=GPL-3
 PDEPEND=app-crypt/pinentry[gtk,ncurses] app-misc/jq dev-util/dialog sys-apps/gptfdisk sys-apps/util-linux sys-block/parted sys-boot/efibootmgr sys-boot/grub:2[-multislot(-),grub_platforms_efi-32,grub_platforms_efi-64] sys-boot/os-prober sys-boot/shim sys-boot/mokutil sys-fs/btrfs-progs sys-fs/cryptsetup sys-fs/dosfstools sys-fs/f2fs-tools sys-fs/growpart sys-fs/jfsutils sys-fs/reiserfsprogs sys-fs/squashfs-tools sys-fs/xfsprogs x11-misc/wmctrl net-misc/rsync
 PROPERTIES=live
 SLOT=0
-_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
+_eclasses_=git-r3	b9ac6f96d2a88edb5b351df634dc5e53
 _md5_=e654ab9879037eb1b34853a68049f7f9
