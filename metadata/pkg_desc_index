@@ -881,18 +881,13 @@ sys-fs/jefferson 0.3: JFFS2 filesystem extraction tool
 sys-fs/sasquatch 20210325: The sasquatch project is a set of patches to the standard unsquashfs utility
 sys-fs/static-dev 0.1: A skeleton, statically managed /dev
 sys-fs/yaffshiv 20160105 99999999: YAFFS filesystem extraction tool
-sys-kernel/chromeos-sources 9999: Linux kernel source for the Samsung Chromebook
 sys-kernel/compat-drivers 5.10.34: Stable kernel pre-release wifi subsystem backport
 sys-kernel/fragattacks-drivers58 20210507: Wi-Fi fragmentation and aggregation vulnerability tests
 sys-kernel/ft60x_driver 20180209 20190318: USB FT60x driver
 sys-kernel/kconfig-hardened-check 0.5.9 0.5.10 0.5.14 9999: A script for checking the hardening options in the Linux kernel config
-sys-kernel/minipli-sources 4.9.74: Unofficial forward ports of the last publicly available grsecurity patch
-sys-kernel/odroid-sources 9999: Linux kernel source for the ODROID-[UX]2 products
-sys-kernel/odroidxu-sources 9999: Linux kernel source for the ODROIDXU products
 sys-kernel/pentoo-lts-sources 2: Pentoo kernel sources (kernel series .)
 sys-kernel/pentoo-sources 5.15.26 5.16.18: Pentoo kernel sources (kernel series 5.16)
 sys-kernel/pf_ring-kmod 7.0.0 7.8.0_p20210421: High-speed packet processing framework (kernel modules for)
-sys-kernel/wireless-testing 9999: Wireless integration testing tree
 sys-power/acpid 2.0.32-r1: Daemon for Advanced Configuration and Power Interface
 virtual/linux-sources 3-r108: Virtual for Linux kernel sources
 www-apps/BloodHound 4.0.3 4.1.0: Six Degrees of Domain Admin
