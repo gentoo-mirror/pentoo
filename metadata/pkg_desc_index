@@ -188,9 +188,9 @@ dev-python/Flask-KVSession 0.6.2: Transparent server-side session support for fl
 dev-python/IP2Location 8.5.1 8.6.4: Python API for IP2Location database
 dev-python/Js2Py 0.67_p20200212: JavaScript to Python Translator & JavaScript interpreter
 dev-python/PTP 0.4.2-r1: Pentester's Tools Parser
-dev-python/Protego 0.1.16: robots.txt parser with support for modern conventions
+dev-python/Protego 0.1.16 0.2.1: robots.txt parser with support for modern conventions
 dev-python/PyVirtualDisplay 0.2.5: python wrapper for Xvfb, Xephyr and Xvnc
-dev-python/Scrapy 1.8.0: A high-level Web Crawling and Web Scraping framework
+dev-python/Scrapy 1.8.0 2.6.0: A high-level Web Crawling and Web Scraping framework
 dev-python/acora 2.2: Fast multi-keyword search engine for text strings
 dev-python/adblockparser 0.7: Parser for Adblock Plus rules
 dev-python/aesedb 0.0.5: async parser for JET
