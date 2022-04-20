@@ -1,7 +1,7 @@
-# Copyright 1999-2019 Gentoo Authors
+# Copyright 1999-2022 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI=7
+EAPI=8
 
 inherit linux-mod
 
@@ -13,7 +13,7 @@ if [[ ${PV} == *9999 ]]; then
 	EGIT_REPO_URI="https://github.com/aircrack-ng/rtl8812au.git"
 	EGIT_BRANCH="v5.6.4.2"
 else
-	HASH_COMMIT="3a64331a1c809bbbc21eca63b825970f213ec5ac"
+	HASH_COMMIT="37e27f9165300c89607144b646545fac576ec510"
 	SRC_URI="https://github.com/aircrack-ng/rtl8812au/archive/${HASH_COMMIT}.tar.gz -> ${P}.tar.gz"
 	KEYWORDS="amd64 x86"
 
