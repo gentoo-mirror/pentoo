@@ -10,4 +10,4 @@ RDEPEND=ncurses? ( sys-libs/ncurses-compat ) sys-libs/zlib
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://dl.google.com/android/repository/build-tools_r31-linux.zip
-_md5_=367c6dfb4df74b1b415ddecba55a8217
+_md5_=b777ad2282b1999c18a5f1b68a701d22
