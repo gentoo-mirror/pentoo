@@ -8,5 +8,5 @@ LICENSE=BSD GPL-2 LGPL-2 LGPL-3 MIT NEWLIB ZLIB
 RDEPEND=sys-libs/ncurses-compat virtual/libcrypt dev-libs/expat python3? ( =dev-lang/python-3* )
 RESTRICT=strip
 SLOT=0
-SRC_URI=amd64? ( https://developer.arm.com/-/media/Files/downloads/gnu/11.2-2022.02/binrel/gcc-arm-11.2-2022.02-x86_64-aarch64-none-linux-gnu.tar.xz )
-_md5_=ff02109c13739a5364f087065a1382aa
+SRC_URI=amd64? ( https://developer.arm.com/-/media/Files/downloads/gnu/11.2-2022.02/binrel/gcc-arm-11.2-2022.02-x86_64-arm-none-eabi.tar.xz )
+_md5_=2f3eb2610e4f233edaa59e4cb8016c42
