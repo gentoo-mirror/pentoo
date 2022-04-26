@@ -35,7 +35,9 @@ DEPEND="${RDEPEND}
 		dev-cpp/gtest
 	)"
 
-BDEPEND="virtual/pkgconfig"
+BDEPEND="virtual/pkgconfig
+	dev-perl/Template-Toolkit
+	dev-lua/busted"
 
 src_configure() {
 	export LUA_PKG=${ELUA}
