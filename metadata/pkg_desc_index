@@ -799,6 +799,7 @@ net-wireless/mt7610u_ulli-kroll 9999: Modified usb wifi driver for TP_link TL-WD
 net-wireless/n4p 2.2-r4: Comprehensive Wireless and Network packet based hacking framework.Compare to Metasploit
 net-wireless/nanovna-qt 9999 20210227: Software for NanoVNA V2
 net-wireless/nanovna-saver 0.3.10 9999: tool for reading, displaying and saving data from the NanoVNA
+net-wireless/nrc7292 1.3.4 9999: RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection
 net-wireless/op25 20200418 20210818: software-defined analyzer for APCO P25 signals
 net-wireless/pixiewps 1.4.2: Bruteforce offline the WPS pin exploiting the low or non-existing entropy
 net-wireless/portapack-firmware 99999999: Portability Add-On for the HackRF Software-Defined Radio
