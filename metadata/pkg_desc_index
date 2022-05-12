@@ -886,7 +886,7 @@ sys-kernel/chromeos-sources 9999: Linux kernel source for the Samsung Chromebook
 sys-kernel/compat-drivers 5.10.34: Stable kernel pre-release wifi subsystem backport
 sys-kernel/fragattacks-drivers58 20210507: Wi-Fi fragmentation and aggregation vulnerability tests
 sys-kernel/ft60x_driver 20180209 20190318: USB FT60x driver
-sys-kernel/kconfig-hardened-check 0.5.9 0.5.10 0.5.14 9999: A script for checking the hardening options in the Linux kernel config
+sys-kernel/kconfig-hardened-check 0.5.10 0.5.14 0.5.17 9999: A script for checking the hardening options in the Linux kernel config
 sys-kernel/pentoo-lts-sources 2: Pentoo kernel sources (kernel series .)
 sys-kernel/pentoo-sources 5.15.34 5.17.5: Pentoo kernel sources (kernel series 5.17)
 sys-kernel/pf_ring-kmod 7.0.0 7.8.0_p20210421: High-speed packet processing framework (kernel modules for)
