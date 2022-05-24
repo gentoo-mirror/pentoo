@@ -154,6 +154,7 @@ net-wireless/hostapd:logwatch - Install support files for sys-apps/logwatch
 net-wireless/hostapd:netlink - Adding support for using netlink to create VLANs
 net-wireless/hostapd:sqlite - Adding sqlite support
 net-wireless/hostapd:wps - Add support for Wi-Fi Protected Setup
+net-wireless/portapack-mayhem:sdcard-files - Install files meant for the sdcard of the portapack
 net-wireless/proxmark3:deprecated - build and install the mfkey and nonce2key tools
 net-wireless/proxmark3:firmware - build firmware to update the proxmark3 hardware
 net-wireless/proxmark3:pm3rdv4 - build proxmark3 rdv4 specific firmware instead of generic
