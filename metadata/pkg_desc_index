@@ -252,6 +252,7 @@ dev-python/dnslib 0.9.16 0.9.19: Simple library to encode/decode DNS wire-format
 dev-python/donut-shellcode 0.9.2: Donut Python C extension
 dev-python/dotty 1.5: EFILTER query language
 dev-python/dropbox-sdk 10.1.1: A Python SDK for integrating with the Dropbox API v2.
+dev-python/dsinternals 1.2.4: Directory Services Internals Library
 dev-python/easygui 0.98.1 0.98.2: A module for very simple, very easy GUI programming in Python
 dev-python/editorconfig 0.12.2: EditorConfig File Locator and Interpreter for Python
 dev-python/entropy 0.1.5: entropy is a command line friend that helps you reduce entropy in your life
@@ -292,7 +293,7 @@ dev-python/htmlentities 0.3.0: Easy-to-use data handling for SQL data stores
 dev-python/http-tools 2.1.0: Capture, repeat and live intercept HTTP requests
 dev-python/httpagentparser 1.9.1: Extracts OS Browser etc information from http user agent string
 dev-python/hupper 1.9.1: Integrated process monitor for developing and reloading daemons
-dev-python/impacket 0.9.22_p20210529 0.9.24 0.10.0 9999: A collection of Python classes focused on providing access to network packets
+dev-python/impacket 0.9.22_p20210529 0.9.24 0.10.0-r1 9999: A collection of Python classes focused on providing access to network packets
 dev-python/inotify 0.2.10: an efficient and elegant inotify
 dev-python/invoke 1.5.0 1.6.0: Pythonic task execution
 dev-python/ipparser 0.3.5: Parse IP address information
