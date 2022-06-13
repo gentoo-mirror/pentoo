@@ -600,7 +600,7 @@ net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden conten
 net-analyzer/dirble-bin 1.3.1 1.4.2: Fast directory scanning and scraping tool
 net-analyzer/dirhunt 0.6.0-r2 0.7.0-r1: Dirhunt is a web crawler optimized for searching and analyzing web directories.
 net-analyzer/dirsearch 0.3.9 0.4.0_p20201202 0.4.0_p20210427: A simple command line tool designed to brute force dirs and files in websites
-net-analyzer/dnsrecon 1.0.0 1.1.0: DNS Enumeration Script
+net-analyzer/dnsrecon 1.1.0 1.1.1: DNS Enumeration Script
 net-analyzer/droopescan 1.41.3-r2: A scanner that helps identifying issues in Drupal, SilverStripe, and Wordpress
 net-analyzer/enteletaor 1.1.1: Message Queue & Broker Injection tool
 net-analyzer/enum4linux 0.8.9-r1 0.9.1: A tool for enumerating information from Windows and Samba systems
@@ -719,7 +719,7 @@ net-misc/wireshark-sap-plugin 0.6.1 0.6.1-r1 0.9.1: Wireshark plugin for SAP's p
 net-misc/wlan2eth 1.3: Wlan2eth is a tool that converts wlan pcap to ethernet-like frames.
 net-proxy/burpsuite 2022.1_rc 2022.3.8 2022.3.9 9999: Interactive proxy for attacking and debugging web applications
 net-proxy/burpsuite-pro 2022.1_rc 2022.3.8 2022.3.9: Interactive proxy for attacking and debugging web applications
-net-proxy/insomnia-bin 2022.1.0_beta_p0 2022.2.1 2022.3.0: REST API client, a postman alternative
+net-proxy/insomnia-bin 2022.1.0_beta_p0 2022.3.0 2022.4.0: REST API client, a postman alternative
 net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal network via reverse connection
 net-proxy/proxenet 0.4.1: A hacker friendly proxy for web application penetration tests.
 net-proxy/proxenet-plugins 9999: Repository for proxenet plugins
