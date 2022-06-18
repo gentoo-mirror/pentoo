@@ -421,7 +421,6 @@ dev-python/stegoveritas-pfp 0.2.3: An 010 template interpreter for Python
 dev-python/stegoveritas-py010parser 0.1.10: A modified pycparser to parse 010 templates
 dev-python/syslog-rfc5424-formatter 1.2.2: Logging formatter which produces well-formatted RFC5424 Syslog Protocol messages
 dev-python/tk 0.1.0: TensorKit is a deep learning helper between Python and C++
-dev-python/tldextract 2.2.1-r1: Accurately separate the TLD from the registered domain and subdomains
 dev-python/tls_parser 1.2.2 2.0.0: Small library to parse TLS records.
 dev-python/torrequest 20181011-r2: Simple Python interface for HTTP(s) requests over Tor
 dev-python/truffleHogRegexes 20190518-r1: These are the regexes that power trufflehog
