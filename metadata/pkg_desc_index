@@ -842,7 +842,7 @@ pentoo/pentoo-installer 20220322 99999999: Installer for pentoo, based on the nc
 pentoo/pentoo-livecd 2021.2: things needed by pentoo for livecd only
 pentoo/pentoo-misc 2022.0-r1: Pentoo misc meta ebuild
 pentoo/pentoo-mitm 2020.1: Pentoo mitm meta ebuild
-pentoo/pentoo-mobile 2020.3: Pentoo mobile meta ebuild
+pentoo/pentoo-mobile 2022.1: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2020.2: Collection of NFC tools
 pentoo/pentoo-opencl 0-r3: Virtual for pulling in appropriate opencl stuffs
 pentoo/pentoo-proxies 2021.0: Pentoo proxy meta ebuild
@@ -854,7 +854,7 @@ pentoo/pentoo-voip 2021.0: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2021.4: Pentoo wireless meta ebuild
 pentoo/rfctf-client 2022.0: Packages needed to power the client and SDR devices for RFCTF events
 pentoo/tribe 2012.0: Tribe meta ebuild
-pentoo/zero-system 2022.0: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
+pentoo/zero-system 2022.1: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
 sci-electronics/litedram 20180514: Small footprint and configurable DRAM core
 sci-electronics/liteeth 20180301 20180719: Small footprint and configurable Ethernet core
 sci-electronics/litepcie 20180530: Small footprint and configurable PCIe core
@@ -883,7 +883,7 @@ sys-kernel/fragattacks-drivers58 20210507: Wi-Fi fragmentation and aggregation v
 sys-kernel/ft60x_driver 20180209 20190318: USB FT60x driver
 sys-kernel/kconfig-hardened-check 0.5.10 0.5.14 0.5.17 9999: A script for checking the hardening options in the Linux kernel config
 sys-kernel/pentoo-lts-sources 2: Pentoo kernel sources (kernel series .)
-sys-kernel/pentoo-sources 5.15.44 5.17.12: Pentoo kernel sources (kernel series 5.17)
+sys-kernel/pentoo-sources 5.15.44 5.18.6: Pentoo kernel sources (kernel series 5.18)
 sys-kernel/pf_ring-kmod 7.0.0 7.8.0_p20210421: High-speed packet processing framework (kernel modules for)
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
 sys-power/acpid 2.0.32-r1: Daemon for Advanced Configuration and Power Interface

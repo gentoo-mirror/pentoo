@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=Pentoo mobile meta ebuild
+EAPI=7
+HOMEPAGE=http://www.pentoo.ch
+IUSE=+android +ios pentoo-extra pentoo-full
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+PDEPEND=dev-util/frida-tools pentoo-full? ( dev-util/dwarf-debugger dev-util/objection dev-util/lief ) android? ( dev-util/apktool dev-util/dex2jar dev-util/android-tools pentoo-full? ( dev-util/appmon dev-python/apkid app-misc/gplaycli dev-util/androguard ) ) ios? ( app-pda/ideviceinstaller app-pda/ifuse app-pda/usbmuxd pentoo-full? ( sys-devel/clang ) )
+SLOT=0
+_md5_=5002d0e29fceb48658add0a9657cc627
