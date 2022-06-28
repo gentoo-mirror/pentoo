@@ -52,7 +52,6 @@ app-exploits/powercat 20170805: Netcat: The powershell version
 app-exploits/proton 20200311: Windows post-exploitation framework using Windows Script Host
 app-exploits/pwntools 4.7.1 4.8.0: CTF framework and exploit development library
 app-exploits/pypykatz 0.5.6 0.5.7: Python implementation of Mimikatz
-app-exploits/ropgadget 6.6 6.7: Search for gadgets in binaries to facilitate your ROP exploitation
 app-exploits/routersploit 3.4.0-r1 9999: An open-source exploitation framework dedicated to embedded devices
 app-exploits/traitor 0.0.3 0.0.14: Automatically exploit low-hanging fruit to pop a root shell
 app-exploits/unix-privesc-check 20170904 99999999: Shell script to check for simple privilege escalation vectors
@@ -871,7 +870,6 @@ sys-devel/autofdo 0.18 0.19 9999: System to simplify real-world deployment of fe
 sys-devel/gcc-arm-none-eabi 10.3_p202110 11.2_p202202-r2: GNU Arm Embedded Toolchain
 sys-devel/gdb-dashboard 0.11.1 0.11.4 9999: Modular visual interface for GDB in Python
 sys-devel/peda 1.2 9999: Python Exploit Development Assistance for GDB
-sys-devel/pwndbg 20200723 20210622 99999999: A GDB plug-in that makes debugging with GDB suck less
 sys-fs/cramfsswap 1.4.2: swap endianness of a cram filesystem (cramfs)
 sys-fs/ext4-crypt 20170216 99999999: A userspace tool to create ext4 encrypted directories
 sys-fs/jefferson 0.3: JFFS2 filesystem extraction tool
