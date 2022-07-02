@@ -13,4 +13,4 @@ REQUIRED_USE=?? ( standalone-lf-em4100emul standalone-lf-em4100rswb standalone-l
 SLOT=0
 SRC_URI=https://github.com/RfidResearchGroup/proxmark3/archive/v4.14831.tar.gz -> proxmark3-4.14831.tar.gz
 _eclasses_=toolchain-funcs	e9da88162e7a3c60376e80c2c2adcdfb	multilib	4fbbbc98f236f1b43acd99476bc3cd85	udev	f3a0a3964e2028a140c181f00eea9712
-_md5_=a6a856486a3af2fe889e21209d7f167e
+_md5_=3b5e797cdc4021f06a5994a2acb82468
