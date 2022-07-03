@@ -820,7 +820,7 @@ net-wireless/soapy_power 1.6.1-r1 9999: Obtain power spectrum from SoapySDR devi
 net-wireless/srsran 22.04 9999: Open source SDR 4G/5G software suite from Software Radio Systems
 net-wireless/trunk-recorder 4.3.2 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
 net-wireless/virtualradar-bin 2.4.3: Open-source .NET application for ads-b mapping
-net-wireless/wifipumpkin3 1.0.9_p2 1.1.2_p2: Framework for Rogue Wi-Fi Access Point Attack
+net-wireless/wifipumpkin3 1.1.2_p2 1.1.3_p1: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifite 2.5.8 2.6.0: An automated wireless attack tool
 net-wireless/wireless-regdb 20091125-r1: Binary regulatory database for CRDA
 net-wireless/wpa_sycophant 1.0 9999: Evil client portion of EAP relay attack
@@ -860,7 +860,7 @@ sci-electronics/liteeth 20180301 20180719: Small footprint and configurable Ethe
 sci-electronics/litepcie 20180530: Small footprint and configurable PCIe core
 sci-electronics/litescope 20180531: Small footprint and configurable embedded FPGA logic analyzer
 sci-electronics/liteusb 20180301: Small footprint and configurable USB core
-sci-electronics/litex 20180531 20180718: Information gathering tool designed for extracting metadata of public documents
+sci-electronics/litex 2022.04 20180718: Information gathering tool designed for extracting metadata of public documents
 sci-electronics/migen 0.7: A Python toolbox for building complex digital hardware
 sci-electronics/pcie_injector 20180527: Information gathering tool designed for extracting metadata of public documents
 sys-apps/fchroot 0.1.2: Funtoo's franken-chroot tool
