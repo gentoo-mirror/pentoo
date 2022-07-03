@@ -49,6 +49,7 @@ src_compile() {
 	python3 /usr/bin/invoke build.zlib --do-not-clean
 	python3 /usr/bin/invoke build.legacy-openssl --do-not-clean
 	python3 /usr/bin/invoke build.modern-openssl --do-not-clean
+	distutils-r1_src_compile
 }
 
 python_compile() {
