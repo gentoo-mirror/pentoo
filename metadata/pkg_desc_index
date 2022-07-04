@@ -189,6 +189,7 @@ dev-python/PTP 0.4.2-r1: Pentester's Tools Parser
 dev-python/Protego 0.1.16 0.2.1: robots.txt parser with support for modern conventions
 dev-python/PyVirtualDisplay 0.2.5: python wrapper for Xvfb, Xephyr and Xvnc
 dev-python/Scrapy 1.8.0 2.6.0: A high-level Web Crawling and Web Scraping framework
+dev-python/aardwolf 0.0.8: Asynchronous RDP protocol implementation
 dev-python/acora 2.2: Fast multi-keyword search engine for text strings
 dev-python/adblockparser 0.7: Parser for Adblock Plus rules
 dev-python/aesedb 0.0.5: async parser for JET
@@ -207,8 +208,10 @@ dev-python/aiowinreg 0.0.4 0.0.7: Windows registry file reader
 dev-python/altgraph 0.17: A constructing graphs, BFS and DFS traversals, etc
 dev-python/apkid 2.1.2-r1 2.1.3: Android Package Protector Identifier
 dev-python/apng 0.3.3 0.3.4: A Python module to deal with APNG files
+dev-python/arc4 0.2.0: A small and insanely fast ARCFOUR (RC4) cipher
 dev-python/artifacts 20200515: Digital Forensics Artifact Repository
 dev-python/asciitree 0.3.3: Draws ASCII trees
+dev-python/asn1tools 0.163.0: ASN.1 parsing, encoding and decoding
 dev-python/aspectlib 1.5.2: Aspect-oriented programming, monkey-patch and decorators library
 dev-python/asyncpg 0.23.0: A fast PostgreSQL Database Client Library for Python/asyncio.
 dev-python/asysocks 0.1.2 0.1.7: Socks5 / Socks4 client and server library
@@ -216,6 +219,7 @@ dev-python/banal 1.0.1: Commons of banal micro-functions for Python.
 dev-python/beautifultable 0.8.0: Print ASCII tables for terminals
 dev-python/bidict 0.21.2: The bidirectional mapping library for Python.
 dev-python/biplist 1.0.3: A binary plist parser/generator for Python
+dev-python/bitstruct 8.15.1: conversions between Python values and C bit field structs
 dev-python/blinkstick 1.1.8_p20200211 9999: BlinkStick Python interface to control devices connected to the computer
 dev-python/bluepy 1.3.0-r1: Python interface to Bluetooth LE on Linux
 dev-python/captcha 0.3: Library that generates audio and image CAPTCHAs
@@ -426,7 +430,7 @@ dev-python/tls_parser 1.2.2 2.0.0: Small library to parse TLS records.
 dev-python/torrequest 20181011-r2: Simple Python interface for HTTP(s) requests over Tor
 dev-python/truffleHogRegexes 20190518-r1: These are the regexes that power trufflehog
 dev-python/tweepy 3.9.0: A Python library for accessing the Twitter API
-dev-python/unicrypto 0.0.5: Unified interface for cryptographic libraries
+dev-python/unicrypto 0.0.5-r1: Unified interface for cryptographic libraries
 dev-python/uvloop 0.14.0: Ultra-fast implementation of asyncio event loop on top of libuv
 dev-python/vaderSentiment 3.3.2: VADER Sentiment Analysis
 dev-python/validators 0.14.0: Python Data Validation for Humans
@@ -594,7 +598,7 @@ net-analyzer/cisco-auditing-tool 1: Perl script which scans cisco routers for co
 net-analyzer/cisco-torch 0.4b: Cisco mass scanning, fingerprinting, and exploitation tool
 net-analyzer/commix 3.3 3.4: Automated All-in-One OS command injection and exploitation tool
 net-analyzer/cottontail 20190426-r1: Capture all RabbitMQ messages being sent through a broker
-net-analyzer/crackmapexec 5.1.7-r1 5.2.2: A swiss army knife for pentesting Windows/Active Directory environments
+net-analyzer/crackmapexec 5.1.7-r1 5.2.2 5.3.0: A swiss army knife for pentesting Windows/Active Directory environments
 net-analyzer/davtest 1.0: tests WebDAV enabled servers
 net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden content
 net-analyzer/dirble-bin 1.3.1 1.4.2: Fast directory scanning and scraping tool
