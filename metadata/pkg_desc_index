@@ -91,7 +91,6 @@ app-forensics/spiderfoot 3.0-r1 3.5-r1: The most complete OSINT collection and r
 app-forensics/stegoveritas 1.8: Automatic image steganography analysis tool
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
 app-forensics/thehive 3.4.3: A scalable 4-in-1 open source and free Security Incident Response Platform
-app-forensics/volatility3 1.0.1 2.0.0: Framework for analyzing volatile memory
 app-forensics/xmount 0.7.6: Convert on-the-fly between multiple input and output harddisk image types
 app-forensics/yara-rust 0.4.3: Rust bindings for VirusTotal/yara
 app-forensics/yaramod 3.6.0 3.7.2: Parsing of YARA rules into AST and building new rulesets in C++
@@ -176,7 +175,6 @@ dev-libs/openssl-bad 1.0.2_p20180915 1.0.2_p20190119: Snapshot for testssl.sh >2
 dev-libs/qbdi 0.7.1: A Dynamic Binary Instrumentation framework based on LLVM
 dev-libs/redasm-database 20190317 20210109: Database files (signatures) for REDasm
 dev-libs/serialDV 1.1.4: C++ library to encode/decode audio with AMBE3000
-dev-libs/unicorn-bindings 1.0.3: Unicorn bindings
 dev-perl/Encoding-BER 1.02: Perl module for encoding/decoding data using ASN.1 Basic Encoding Rules (BER)
 dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
 dev-perl/Net-Address-IP-Local 0.1.2: A class for discovering the local system's IP address
