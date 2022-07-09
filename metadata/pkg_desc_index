@@ -260,6 +260,7 @@ dev-python/editorconfig 0.12.2: EditorConfig File Locator and Interpreter for Py
 dev-python/entropy 0.1.5: entropy is a command line friend that helps you reduce entropy in your life
 dev-python/eventlet 0.33.0: Highly concurrent networking library
 dev-python/exifread 2.3.1 2.3.2: Read Exif metadata from tiff and jpeg files
+dev-python/face 20.1.1: 
 dev-python/face_recognition 1.2.3 1.3.0: Recognize faces from Python or from the command line
 dev-python/face_recognition_models 0.3.0: Models used by the face_recognition package.
 dev-python/fake-useragent 0.1.11: Up to date simple useragent faker with real world database
@@ -284,6 +285,7 @@ dev-python/fpdf 1.7.2: Simple PDF generation for Python
 dev-python/frida-python 15.1.3 15.1.14 15.1.17: Dynamic instrumentation toolkit for reverse-engineers and security researchers
 dev-python/gatt-python 0.2.6-r1: Bluetooth GATT SDK for Python
 dev-python/geoip2-python 3.0.0: Python bindings for GeoIP2
+dev-python/glom 22.1.0: A declarative object transformer for conglomerating nested data
 dev-python/google-play-scraper 0.0.2.3 0.1.2 0.2.1: APIs to easily crawl the Google Play Store for Python
 dev-python/googlesearch 3.0.0-r1: Google search from Python
 dev-python/gpapi 0.4.4-r1: Unofficial python api for google play
@@ -404,7 +406,7 @@ dev-python/ruamel-base 1.0.0: common routines for ruamel packages
 dev-python/rzpipe 0.1.2: Pipe interface for rizin
 dev-python/secure 0.3.0: Secure headers and cookies for Python web frameworks
 dev-python/selenium-requests 1.3.1: Extends Selenium webdrv with the request function from the Requests library
-dev-python/semgrep 0.52.0 0.55.1 0.77.0: Lightweight static analysis for many languages
+dev-python/semgrep 0.55.1 0.77.0 0.103.0: Lightweight static analysis for many languages
 dev-python/shelljob 0.6.3: Run multiple subprocesses asynchronous/in parallel with streamed output
 dev-python/shodan 1.25.0: Python library and command-line utility for Shodan
 dev-python/simplekv 0.14.0: A key-value storage for binary data, support many backends.
@@ -570,7 +572,7 @@ dev-util/recaf-bin 2.19.6 2.21.13: A modern Java bytecode editor
 dev-util/redasm 3.0.0_beta5: The OpenSource Disassembler
 dev-util/reflutter 0.7.2: Flutter apps reverse engineering
 dev-util/retdec 4.0 9999: RetDec is a retargetable machine-code decompiler based on LLVM.
-dev-util/semgrep-core-bin 0.52.0 0.55.1 0.57.0 0.77.0: Lightweight static analysis for many languages
+dev-util/semgrep-core-bin 0.52.0 0.55.1 0.57.0 0.77.0 0.103.0: Lightweight static analysis for many languages
 dev-util/soapui 5.6.0 5.6.1 5.7.0: The Swiss-Army Knife for SOAP Testing
 dev-util/sonarqube-bin 7.9.3 8.3.1.34397 8.4.1.35646 8.7.0.41497: SonarQube Community Edition is an open platform to manage code quality
 dev-util/sonarscanner-bin 4.3.0.2102 4.4.0.2170: SonarQube Command-Line Scanner
