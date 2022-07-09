@@ -566,7 +566,7 @@ dev-util/mobsf 3.4.3-r1 3.4.6 3.5.0: Automated, all-in-one mobile application (A
 dev-util/objection 1.10.2 1.11.0-r1: Runtime mobile exploration
 dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIPS
 dev-util/qark 0.9_pre20190405: A tool to look for Android application vulnerabilities
-dev-util/recaf-bin 2.13.2 2.19.6: A modern Java bytecode editor
+dev-util/recaf-bin 2.19.6 2.21.13: A modern Java bytecode editor
 dev-util/redasm 3.0.0_beta5: The OpenSource Disassembler
 dev-util/reflutter 0.7.2: Flutter apps reverse engineering
 dev-util/retdec 4.0 9999: RetDec is a retargetable machine-code decompiler based on LLVM.
