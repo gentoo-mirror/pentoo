@@ -784,7 +784,7 @@ net-wireless/hackrf-firmware 9999: Hardware designs and software for HackRF
 net-wireless/hcxdumptool 6.1.3 6.2.0: Small tool to capture packets from wlan devices
 net-wireless/hcxkeys 6.0.0 6.2.0: Generate plainmasterkeys (rainbowtables) and hashes for hashcat/JTR
 net-wireless/hcxtools 6.1.3 6.2.0: Portable solution for capturing wlan traffic and conversion to hashcat formats
-net-wireless/hostapd 2.9-r6: IEEE 802.11 wireless LAN Host AP daemon
+net-wireless/hostapd 2.9-r6 2.10: IEEE 802.11 wireless LAN Host AP daemon
 net-wireless/hostapd-mana 2.6.5_p20210920 9999: SensePost's modified hostapd for wifi attacks
 net-wireless/jackit 0.0_p20170918-r1: Exploit Code for Mousejack
 net-wireless/kalibrate-hackrf 20160704: Calculate the local oscillator frequency offset using GSM stations
