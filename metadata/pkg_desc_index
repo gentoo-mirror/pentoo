@@ -908,6 +908,5 @@ www-apps/seafile-pro-server 7.1.22 8.0.14 9.0.5: Meta package for Seafile Pro Ed
 www-apps/vulsrepo 20190412-r3: VulsRepo is visualized based on the json report output in vuls
 www-misc/firefox-bookmarks 0.3-r1: Firefox bookmarks for the Pento ISO only
 www-plugins/hackplugins-meta 20200428: Collection of browser's plugins for application security testing
-www-servers/thin 1.7.2: A fast and very simple Ruby web server
 x11-libs/qwt-multiaxes 9999: 2D plotting library for Qt5
 xfce-extra/xfce4-sensors-plugin 1.3.95: A panel plug-in for acpi, lm-sensors and hddtemp sensors
