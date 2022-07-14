@@ -1,12 +1,13 @@
-DEFINED_PHASES=configure install postinst
+DEFINED_PHASES=configure install prepare
 DEPEND=>=dev-libs/libusb-1.0.16:= sys-libs/zlib:= dev-qt/qtquickcontrols2:5= dev-qt/qtdeclarative:5= dev-qt/qtwidgets:5= dev-qt/qtgui:5= dev-qt/qtdeclarative:5= dev-qt/qtnetwork:5= dev-qt/qtserialport:5= >=dev-qt/qtcore-5.15.0:5=
 DESCRIPTION=desktop application for updating Flipper Zero firmware
 EAPI=8
 HOMEPAGE=https://update.flipperzero.one/
 INHERIT=qmake-utils
+KEYWORDS=~amd64 ~arm64 x86
 LICENSE=GPL-3+
 RDEPEND=>=dev-libs/libusb-1.0.16:= sys-libs/zlib:= dev-qt/qtquickcontrols2:5= dev-qt/qtdeclarative:5= dev-qt/qtwidgets:5= dev-qt/qtgui:5= dev-qt/qtdeclarative:5= dev-qt/qtnetwork:5= dev-qt/qtserialport:5= >=dev-qt/qtcore-5.15.0:5=
 SLOT=0
-SRC_URI=https://github.com/flipperdevices/qFlipper/archive/refs/tags/1.0.1.tar.gz -> qflipper-1.0.1.tar.gz
+SRC_URI=https://github.com/flipperdevices/qFlipper/archive/refs/tags/1.1.0.tar.gz -> qflipper-1.1.0.tar.gz
 _eclasses_=toolchain-funcs	e9da88162e7a3c60376e80c2c2adcdfb	multilib	4fbbbc98f236f1b43acd99476bc3cd85	qmake-utils	59420c906278d16deaaa629f9d115707
-_md5_=264e8c7924b65ec531f4dad5a7ea5877
+_md5_=5455e0fd2a979a2506d204aa1163fea8
