@@ -7,5 +7,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=MIT
 SLOT=0
 SRC_URI=https://github.com/droberson/ELFcrypt/archive/f3c0121dc153d49756403cad83cbd160933edf78.tar.gz -> elfcrypt-20200224.tar.gz
-_eclasses_=toolchain-funcs	3484f775017f532a8d1ae02c65defe13	multilib	4fbbbc98f236f1b43acd99476bc3cd85
+_eclasses_=toolchain-funcs	1542e649be915f43f6908a9e93909961	multilib	5ca4e49abed8e3a2f7b56920eadee157
 _md5_=7e699b0b935b4dc6c0c6a691486481a4

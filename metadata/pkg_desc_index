@@ -117,7 +117,6 @@ app-text/endesive 2.0.2: Sign and verify digital signatures in mail, PDF and XML
 app-text/unfurl 0.2.0: Pull out bits of URLs provided on stdin
 dev-db/neo4j-community 4.2.2: High-performance, mature and robust NOSQL graph database
 dev-db/oat 1.3.1: a toolkit that could be used to audit security within Oracle database servers
-dev-db/sqlbf 1.0.1-r1: SQLBF is a tool to audit mssql passwords strength offline
 dev-db/sqlsus 0.7.2: MySQL injection and takeover tool
 dev-embedded/libmpsse 1.3.2-r1: Open source library for SPI/I2C control via FTDI chips
 dev-embedded/mphidflash 1.8: Tool for communicating with the USB-Bootloader in PIC microcontrollers
@@ -661,13 +660,11 @@ net-analyzer/rustscan 1.2.2 9999: Faster Nmap Scanning with Rust
 net-analyzer/s3scanner 1.0.0_p20190928 2.0.1: Scan for open AWS S3 buckets and dump the contents
 net-analyzer/scamper 20191102b: Actively probes the Internet in order to analyze topology and performance
 net-analyzer/serialusb 0.7: A cheap USB proxy for input devices
-net-analyzer/sessionlist 1.0-r1: A HTTP packets sniffer
 net-analyzer/set 8.0.3-r1: A social engineering framework
 net-analyzer/sitadel 1.0.0_p20190828: Web application security scanner
 net-analyzer/smbmap 1.8.2-r1: SMBMap is a handy SMB enumeration tool
 net-analyzer/sn0int 0.18.2 0.19.1 0.24.2: Semi-automatic OSINT framework and package manager
 net-analyzer/sniffglue 0.12.1: Secure multithreaded packet sniffer
-net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
 net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
 net-analyzer/sslyze 5.0.4 5.0.5: Fast and full-featured SSL scanner
 net-analyzer/subfinder 2.4.5 2.5.0: A subdomain discovery tool that discovers valid subdomains for websites
@@ -727,7 +724,6 @@ net-proxy/burpsuite 2022.1_rc 2022.5.2 2022.6.1 9999: Interactive proxy for atta
 net-proxy/burpsuite-pro 2022.1_rc 2022.5.2 2022.6.1: Interactive proxy for attacking and debugging web applications
 net-proxy/insomnia-bin 2022.1.0_beta_p0 2022.4.1 2022.4.2: REST API client, a postman alternative
 net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal network via reverse connection
-net-proxy/proxenet 0.4.1: A hacker friendly proxy for web application penetration tests.
 net-proxy/proxenet-plugins 9999: Repository for proxenet plugins
 net-proxy/sshttp 0.35_p2-r1 0.35_p20191108: An easy to use OSI-Layer5 switching daemon
 net-proxy/zaproxy 2.11.0 2.11.1: The OWASP Zed Attack Proxy for finding vulnerabilities in web applications
@@ -800,7 +796,6 @@ net-wireless/mdk4 4.2_p20220118: Wireless injection tool tool to exploit common 
 net-wireless/mjackit 20190606-r1: Demo tool for Logitech Unifying vulnerabilities
 net-wireless/mmdvmhost 9999: The host program for MMDVM
 net-wireless/mt7610u_ulli-kroll 9999: Modified usb wifi driver for TP_link TL-WDN5200
-net-wireless/n4p 2.2-r4: Comprehensive Wireless and Network packet based hacking framework.Compare to Metasploit
 net-wireless/nanovna-qt 9999 20210227: Software for NanoVNA V2
 net-wireless/nanovna-saver 0.3.10 9999: tool for reading, displaying and saving data from the NanoVNA
 net-wireless/nrc7292 1.3.4 9999: RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection

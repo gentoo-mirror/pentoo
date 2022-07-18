@@ -10,5 +10,5 @@ LICENSE=MIT
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://github.com/subfinder/goaltdns/archive/2b3e8a30b8cf333be47885687ca92794d8f485fa.tar.gz -> goaltdns-20190330.tar.gz https://github.com/bobesa/go-domain-util/archive/1d708c0.tar.gz -> github.com-bobesa-go-domain-util-1d708c0.tar.gz
-_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4a1902f969e5718126434fc35f3a0d9c	eutils	dab5d8ec471d025b79c9e6906bcf3bff	golang-base	9f0e420ab37bc55a318d74bab3aae891	golang-vcs-snapshot	6864f899c6843043ba23620fcd4a908c
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4a1902f969e5718126434fc35f3a0d9c	eutils	23cb2d46c80c12aa8b25973b4cdcb257	golang-base	9f0e420ab37bc55a318d74bab3aae891	golang-vcs-snapshot	6864f899c6843043ba23620fcd4a908c
 _md5_=9f7c60e94a216d6bdd6aa42e5cbfda2a
