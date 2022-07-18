@@ -109,6 +109,7 @@ app-misc/dangerzone 0.1.2 0.1.2-r1: Take potentially dangerous PDFs or images an
 app-misc/freediag 1.08: Free diagnostic software for OBD-II compliant motor vehicles
 app-misc/gplaycli 3.29: Google Play Downloader via Command line
 app-misc/mat2 0.11.0: A handy tool to trash your metadata
+app-misc/radexreader 1.2.1: Reader for the RADEX RD1212 and the RADEX ONE Geiger counters
 app-misc/siglo 0.9.9: GTK app to sync InfiniTime watch with PinePhone
 app-pda/ideviceinstaller 1.1.0_p20181001 1.1.0_p20190928 1.1.1: A tool to interact with the installation_proxy of an Apple's iDevice
 app-pda/ifuse 1.1.4-r1: Mount Apple iPhone/iPod Touch file systems for backup purposes
