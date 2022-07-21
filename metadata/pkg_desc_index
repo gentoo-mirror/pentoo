@@ -666,6 +666,7 @@ net-analyzer/sitadel 1.0.0_p20190828: Web application security scanner
 net-analyzer/smbmap 1.8.2-r1: SMBMap is a handy SMB enumeration tool
 net-analyzer/sn0int 0.18.2 0.19.1 0.24.2: Semi-automatic OSINT framework and package manager
 net-analyzer/sniffglue 0.12.1: Secure multithreaded packet sniffer
+net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
 net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
 net-analyzer/sslyze 5.0.4 5.0.5: Fast and full-featured SSL scanner
 net-analyzer/subfinder 2.4.5 2.5.0: A subdomain discovery tool that discovers valid subdomains for websites
