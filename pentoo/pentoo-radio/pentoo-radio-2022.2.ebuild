@@ -21,6 +21,7 @@ PDEPEND="net-wireless/gnuradio[uhd?]
 	rtlsdr? ( net-wireless/rtl-sdr )
 
 	bluetooth? (
+				net-wireless/nrf_sniffer_ble
 				bladerf? ( net-wireless/btle-sniffer )
 				hackrf? ( net-wireless/btle-sniffer )
 				)
@@ -41,6 +42,7 @@ PDEPEND="net-wireless/gnuradio[uhd?]
 		net-wireless/qdmr
 		net-wireless/dump1090
 		net-wireless/gr-ieee802154
+		net-wireless/nrf802154_sniffer
 		net-wireless/gr-rds
 		net-wireless/inspectrum
 		net-wireless/killerbee
