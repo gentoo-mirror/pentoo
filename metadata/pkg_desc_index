@@ -8,7 +8,7 @@ acct-user/sonar 0: User for SonarQube
 acct-user/spiderfoot 0: User for SpiderFoot
 acct-user/vuls 0: User for Vuls
 app-admin/genmenu 0.0_p20200826 9999: a tool for generating freedesktop-compliant menus
-app-admin/opensnitch 1.4.3 1.5.0 1.5.1: Desktop application firewall
+app-admin/opensnitch 1.5.1 1.5.2: Desktop application firewall
 app-admin/vuls 0.19.0-r1: Vulnerability scanner for Linux, agentless, written in Golang
 app-antivirus/malheur 0.5.4-r1: Malware analysis tool
 app-antivirus/tyton 1.2_p20200604 9999: Kernel-Mode Rootkit Hunter
@@ -832,14 +832,14 @@ net-wireless/wifite 2.5.8 2.6.0: An automated wireless attack tool
 net-wireless/wireless-regdb 20091125-r1: Binary regulatory database for CRDA
 net-wireless/wpa_sycophant 1.0 9999: Evil client portion of EAP relay attack
 pentoo/pentoo 2015.1: Pentoo meta ebuild to install all apps
-pentoo/pentoo-analyzer 2020.3: Pentoo analyzers meta ebuild
-pentoo/pentoo-bluetooth 2021.2: Pentoo bluetooth meta ebuild
+pentoo/pentoo-analyzer 2022.2: Pentoo analyzers meta ebuild
+pentoo/pentoo-bluetooth 2022.2: Pentoo bluetooth meta ebuild
 pentoo/pentoo-cinnamon 2020.1: Pentoo cinnamon meta ebuild
-pentoo/pentoo-core 2022.1-r1: Pentoo minimum core requirements
-pentoo/pentoo-cracking 2020.2: Pentoo cracking meta ebuild
-pentoo/pentoo-database 2020.4: Pentoo database attack meta ebuild
-pentoo/pentoo-desktop 2022.1: Pentoo meta ebuild to install all X and WM/DE related things
-pentoo/pentoo-exploit 2020.4: Pentoo exploit meta ebuild
+pentoo/pentoo-core 2022.2: Pentoo minimum core requirements
+pentoo/pentoo-cracking 2022.2: Pentoo cracking meta ebuild
+pentoo/pentoo-database 2022.2: Pentoo database attack meta ebuild
+pentoo/pentoo-desktop 2022.2: Pentoo meta ebuild to install all X and WM/DE related things
+pentoo/pentoo-exploit 2022.2: Pentoo exploit meta ebuild
 pentoo/pentoo-footprint 2022.2: Pentoo footprint meta ebuild
 pentoo/pentoo-forensics 2020.3: Pentoo forensics meta ebuild
 pentoo/pentoo-forging 2019.2-r1: Pentoo forging meta ebuild
