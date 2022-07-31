@@ -841,24 +841,24 @@ pentoo/pentoo-database 2022.2: Pentoo database attack meta ebuild
 pentoo/pentoo-desktop 2022.2: Pentoo meta ebuild to install all X and WM/DE related things
 pentoo/pentoo-exploit 2022.2: Pentoo exploit meta ebuild
 pentoo/pentoo-footprint 2022.2: Pentoo footprint meta ebuild
-pentoo/pentoo-forensics 2020.3: Pentoo forensics meta ebuild
-pentoo/pentoo-forging 2019.2-r1: Pentoo forging meta ebuild
-pentoo/pentoo-fuzzers 2020.1: Pentoo fuzzers meta ebuild
+pentoo/pentoo-forensics 2022.2: Pentoo forensics meta ebuild
+pentoo/pentoo-forging 2022.2: Pentoo forging meta ebuild
+pentoo/pentoo-fuzzers 2022.2: Pentoo fuzzers meta ebuild
 pentoo/pentoo-gnome 2.32.1-r3: Meta package for the GNOME desktop, merge this package to install
 pentoo/pentoo-installer 20220322 99999999: Installer for pentoo, based on the ncurses Arch Linux installer
 pentoo/pentoo-livecd 2021.2: things needed by pentoo for livecd only
 pentoo/pentoo-misc 2022.0-r1: Pentoo misc meta ebuild
-pentoo/pentoo-mitm 2020.1: Pentoo mitm meta ebuild
+pentoo/pentoo-mitm 2022.2: Pentoo mitm meta ebuild
 pentoo/pentoo-mobile 2022.1: Pentoo mobile meta ebuild
-pentoo/pentoo-nfc 2020.2: Collection of NFC tools
+pentoo/pentoo-nfc 2022.2: Collection of NFC tools
 pentoo/pentoo-opencl 0-r3: Virtual for pulling in appropriate opencl stuffs
-pentoo/pentoo-proxies 2021.0: Pentoo proxy meta ebuild
+pentoo/pentoo-proxies 2022.2: Pentoo proxy meta ebuild
 pentoo/pentoo-radio 2022.2: Radio tools for pentoo
 pentoo/pentoo-rce 2022.2: Pentoo RCE meta ebuild
-pentoo/pentoo-scanner 2022.0: Pentoo scanner meta ebuild
+pentoo/pentoo-scanner 2022.2: Pentoo scanner meta ebuild
 pentoo/pentoo-system 2021.4-r1: Pentoo meta ebuild to install system
-pentoo/pentoo-voip 2021.0: Pentoo voip meta ebuild
-pentoo/pentoo-wireless 2021.4: Pentoo wireless meta ebuild
+pentoo/pentoo-voip 2022.2: Pentoo voip meta ebuild
+pentoo/pentoo-wireless 2022.2: Pentoo wireless meta ebuild
 pentoo/rfctf-client 2022.0: Packages needed to power the client and SDR devices for RFCTF events
 pentoo/tribe 2012.0: Tribe meta ebuild
 pentoo/zero-system 2022.2-r1: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
