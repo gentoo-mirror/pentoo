@@ -725,7 +725,8 @@ net-vpn/kcptun 20200409 20200701: A Stable & Secure Tunnel Based On KCP with N:M
 net-vpn/kcptun-plugins 20190313: SIP003-compatible KCPTUN and UDP2RAW plugins for Shadowsocks
 net-vpn/tuntox 0.0.9 0.0.10 9999: Tunnel TCP connections over the Tox protocol
 net-vpn/udp2raw-tunnel 20200727.0 20200818.0 99999999: A tunnel which turns UDP traffic into encrypted FakeTCP/UDP/ICMP traffic
-net-wireless/airgeddon 11.0: bash script for Linux systems to audit wireless networks
+net-wireless/airgeddon 11.02: bash script for Linux systems to audit wireless networks
+net-wireless/airspyhf 1.6.8 9999: User mode driver for Airspy HF+
 net-wireless/b43-openfwwf 5.2: OpenBroadcom Firmware
 net-wireless/b43-tools 9999: Tools for developers working on broadcom drivers/firmware
 net-wireless/berate_ap 20190918 99999999: Script for orchestrating mana rogue WiFi Access Points (fork create_ap)
@@ -734,6 +735,7 @@ net-wireless/blue_hydra 1.9.16 9999: bluetooth discovery service built on top of
 net-wireless/blue_sonar 0.3 9999: A simple wrapper for l2ping which shows rssi
 net-wireless/broadcom-firmware-downloader 0.1-r2 0.2: Closed Broadcom Commercial Firmware Downloader
 net-wireless/broadcom-firmware-installer 0.1-r3 0.2: Closed Broadcom Commercial Firmware Installer
+net-wireless/btle-sniffer 0.2_p20200129: Bluetooth radio packet sniffer/scanner and sender
 net-wireless/btscanner 2.1-r5: A utility for bluetooth scanning and discovery
 net-wireless/bully 1.1_p20170926 1.4: A wifi-protected-setup (WPS) brute force attack tool, similar to reaver
 net-wireless/chirp 20200213 20201221 20211216: Free open-source tool for programming your amateur radio
