@@ -10,5 +10,5 @@ LICENSE=GPL-2
 RDEPEND=kernel_linux? ( sys-apps/kmod[tools] dist-kernel? ( virtual/dist-kernel:= ) )
 SLOT=0
 SRC_URI=https://github.com/aircrack-ng/rtl8812au/archive/cab4e4ec56884f65e0c279c1b5ceaf70dbe79be0.tar.gz -> rtl8812au_aircrack-ng-5.6.4.2_p20220605.tar.gz
-_eclasses_=toolchain-funcs	1542e649be915f43f6908a9e93909961	multilib	5ca4e49abed8e3a2f7b56920eadee157	linux-info	dcbf4f67bc38bee48e9d69a4344e8059	linux-mod	6ff232574f0bcad33767903505553e8d
+_eclasses_=toolchain-funcs	1542e649be915f43f6908a9e93909961	multilib	5ca4e49abed8e3a2f7b56920eadee157	linux-info	ed0c33b32400b6ee591cdb6dc5b9ef10	linux-mod	6ff232574f0bcad33767903505553e8d
 _md5_=952c361e4ae11f1a1706ed6709555304
