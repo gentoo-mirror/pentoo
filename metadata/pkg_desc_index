@@ -503,7 +503,7 @@ dev-ruby/mini_exiftool 2.10.0: wrapper for exiftool
 dev-ruby/msfrpc-client 1.1.2: Ruby client API to access the Rapid7 Metasploit Pro RPC service
 dev-ruby/mustermann-grape 1.0.1: Adds Grape style patterns to Mustermman
 dev-ruby/openssl-cmac 2.0.1: Ruby Gem for RFC 4493, 4494, 4615 - The AES-CMAC Algorithm
-dev-ruby/opt_parse_validator 1.9.5: OptionParser lib in ruby
+dev-ruby/opt_parse_validator 1.9.5-r1: OptionParser lib in ruby
 dev-ruby/orm_adapter 0.5.0: Provides a single point of entry for using basic features of ruby ORMs
 dev-ruby/otr-activerecord 1.4.1: Off The Rails ActiveRecord: Use ActiveRecord with Grape, Sinatra, Rack
 dev-ruby/packetfu 1.1.13: A mid-level packet manipulation library
@@ -693,7 +693,6 @@ net-im/jitsi-videobridge 1132: https://github.com/jitsi/jitsi-videobridge
 net-libs/libosmocore 1.6.0-r1 1.6.0_p20220508: Utility functions for OsmocomBB, OpenBSC and related projects
 net-libs/libpfring 7.4.0 7.8.0: A new type of network socket that improves packet capture speed.
 net-libs/libtins 4.3: High-level, multiplatform C++ network packet sniffing and crafting library.
-net-libs/libvidcap 0.2.1: a cross-platform library for capturing video from webcams and other video capture devices
 net-mail/davmail-bin 6.0.0.3375 6.0.1.3390: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
 net-mail/email2phonenumber 20190916-r1 99999999: A OSINT tool to obtain a target's phone number just by having his email address
 net-mail/fakepop 11: fake pop3 server which returns the same messages to all users
