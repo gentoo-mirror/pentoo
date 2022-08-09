@@ -101,6 +101,7 @@ dev-java/openjdk-bin:headless-awt - Don't install the X backend for AWT, needed 
 dev-java/openjdk-bin:source - Install JVM sources
 dev-libs/libvhdi:fuse - Enable fuse support
 dev-libs/libvmdk:fuse - Enable fuse support
+dev-libs/nanopb:pb-malloc - Enable dynamic allocation support in the decoder.
 dev-libs/openssl-bad:asm - Compile with asm
 dev-libs/openssl-bad:rfc3779 - Compile with rfc3779
 dev-libs/openssl-bad:sslv2 - Compile with sslv2
