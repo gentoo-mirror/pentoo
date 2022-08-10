@@ -387,7 +387,6 @@ dev-python/python-multipart 0.0.5: A streaming multipart parser for Python
 dev-python/python-nmap 0.6.1 0.6.4: a python library which helps in using nmap port scanner
 dev-python/python-oauth2 1.1.1: OAuth 2.0 provider for python
 dev-python/python-pptx 0.6.18: Create Open XML PowerPoint documents in Python
-dev-python/python-ptrace 0.9.8: A Python binding of ptrace library
 dev-python/python-socketio 5.1.0: Python implementation of the Socket.IO realtime server.
 dev-python/python-whois 0.7.2 0.7.3: Whois querying and parsing of domain registration information
 dev-python/python3-openid 3.1.0: Python 3 port of the python-openid library
