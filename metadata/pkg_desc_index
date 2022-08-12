@@ -813,7 +813,7 @@ net-wireless/trunk-recorder 4.3.2 9999: Records calls from a Trunked Radio Syste
 net-wireless/virtualradar-bin 2.4.3: Open-source .NET application for ads-b mapping
 net-wireless/wifipumpkin3 1.1.2_p2 1.1.3_p2: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifite 2.6.0 2.6.2: An automated wireless attack tool
-net-wireless/wireless-regdb 20220606: Binary regulatory database for CRDA
+net-wireless/wireless-regdb 20220606-r1: Binary regulatory database for CRDA
 net-wireless/wpa_sycophant 1.0 9999: Evil client portion of EAP relay attack
 pentoo/pentoo 2015.1: Pentoo meta ebuild to install all apps
 pentoo/pentoo-analyzer 2022.2: Pentoo analyzers meta ebuild
