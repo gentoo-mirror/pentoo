@@ -287,6 +287,7 @@ dev-python/glom 22.1.0: A declarative object transformer for conglomerating nest
 dev-python/google-play-scraper 0.0.2.3 0.1.2 0.2.1: APIs to easily crawl the Google Play Store for Python
 dev-python/googlesearch 3.0.0-r1: Google search from Python
 dev-python/gpapi 0.4.4-r1: Unofficial python api for google play
+dev-python/gpsoauth 1.0.2: A client library for Google Play Services OAuth.
 dev-python/graphene 3.0.0_beta7: GraphQL Framework for Python
 dev-python/graphql-core 3.1.5: GraphQL for Python
 dev-python/graphql-relay 3.1.0: Relay library for graphql-core-next
@@ -306,6 +307,7 @@ dev-python/isc_dhcp_leases 0.9.1: Small python module for reading /var/lib/dhcp/
 dev-python/itemadapter 0.4.0: Common interface for scrapy data container classes
 dev-python/itemloaders 1.0.4: Library to populate items using XPath and CSS with a convenient API
 dev-python/javalang 0.12.0: A pure Python library for working with Java source code
+dev-python/javaobj-py3 0.4.3: Module for serializing and de-serializing Java objects
 dev-python/jsbeautifier 1.13.0 1.14.0: Beautify, unpack or deobfuscate JavaScript
 dev-python/json2html 1.3.0-r1: A python module for converting complex JSON oject to HTML Table representation
 dev-python/jsonfield 2.0.2: A reusable Django field that allows you to store validated JSON
