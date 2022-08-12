@@ -743,7 +743,7 @@ net-wireless/btscanner 2.1-r5: A utility for bluetooth scanning and discovery
 net-wireless/bully 1.1_p20170926 1.4: A wifi-protected-setup (WPS) brute force attack tool, similar to reaver
 net-wireless/chirp 20200213 20201221 20211216: Free open-source tool for programming your amateur radio
 net-wireless/cowpatty 4.8-r1 4.8_p20181130: WLAN tools for bruteforcing 802.11 WPA/WPA2 keys
-net-wireless/crda 1.1.0-r1 1.1.1: Central Regulatory Domain Agent for wireless networks
+net-wireless/crda 4.14: Central Regulatory Domain Agent for wireless networks
 net-wireless/create_ap 0.4.6: A script to create a NATed or bridged WiFi access point
 net-wireless/csdr 9999: a simple DSP library and cli for SDR
 net-wireless/dsd 1.7.0_pre20211213 9999: Digital Speech Decoder
@@ -813,7 +813,7 @@ net-wireless/trunk-recorder 4.3.2 9999: Records calls from a Trunked Radio Syste
 net-wireless/virtualradar-bin 2.4.3: Open-source .NET application for ads-b mapping
 net-wireless/wifipumpkin3 1.1.2_p2 1.1.3_p2: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifite 2.6.0 2.6.2: An automated wireless attack tool
-net-wireless/wireless-regdb 20091125-r1: Binary regulatory database for CRDA
+net-wireless/wireless-regdb 20220606: Binary regulatory database for CRDA
 net-wireless/wpa_sycophant 1.0 9999: Evil client portion of EAP relay attack
 pentoo/pentoo 2015.1: Pentoo meta ebuild to install all apps
 pentoo/pentoo-analyzer 2022.2: Pentoo analyzers meta ebuild
