@@ -222,7 +222,7 @@ dev-python/bluepy 1.3.0-r1: Python interface to Bluetooth LE on Linux
 dev-python/captcha 0.3: Library that generates audio and image CAPTCHAs
 dev-python/cchardet 2.1.4: Python library for interacting with Censys Search Engine (censys.io)
 dev-python/cement 2.10: Application Framework for Python
-dev-python/censys 0.0.8: Python library for interacting with Censys Search Engine (censys.io)
+dev-python/censys 0.0.8 2.1.7: Python library for interacting with Censys Search Engine (censys.io)
 dev-python/cfscrape 2.1.1: A module to bypass Cloudflare's anti-bot page
 dev-python/cherrypy-cors 1.6: CORS handling as a cherrypy tool.
 dev-python/click-option-group 0.5.3: Option groups missing in Click
@@ -263,7 +263,7 @@ dev-python/face_recognition 1.2.3 1.3.0: Recognize faces from Python or from the
 dev-python/face_recognition_models 0.3.0: Models used by the face_recognition package.
 dev-python/fake-useragent 0.1.11: Up to date simple useragent faker with real world database
 dev-python/faraday-plugins 1.0.1-r1: No project description provided
-dev-python/fastapi 0.73.0 0.77.0: FastAPI framework, high performance, easy to learn, fast to code, ready for production
+dev-python/fastapi 0.77.0 0.79.0: FastAPI framework, high performance, easy to learn, fast to code, ready for production
 dev-python/fastkml 0.11: Fast KML processing in python
 dev-python/filedepot 0.7.1: Toolkit for storing files and attachments in web applications
 dev-python/filteralchemy-fork 0.1.0: Declarative query builder for SQLAlchemy
@@ -409,7 +409,7 @@ dev-python/secure 0.3.0: Secure headers and cookies for Python web frameworks
 dev-python/selenium-requests 1.3.1: Extends Selenium webdrv with the request function from the Requests library
 dev-python/semgrep 0.55.1 0.77.0 0.103.0: Lightweight static analysis for many languages
 dev-python/shelljob 0.6.3: Run multiple subprocesses asynchronous/in parallel with streamed output
-dev-python/shodan 1.25.0: Python library and command-line utility for Shodan
+dev-python/shodan 1.25.0 1.28.0: Python library and command-line utility for Shodan
 dev-python/simplekv 0.14.0: A key-value storage for binary data, support many backends.
 dev-python/simplesoapy 1.5.1-r1 9999: Simple pythonic wrapper for SoapySDR library
 dev-python/simplespectral 1.0.0 9999: Heavily simplified scipy.signal.spectral module
@@ -607,7 +607,7 @@ net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden conten
 net-analyzer/dirble-bin 1.3.1 1.4.2: Fast directory scanning and scraping tool
 net-analyzer/dirhunt 0.6.0-r2 0.7.0-r1: Dirhunt is a web crawler optimized for searching and analyzing web directories.
 net-analyzer/dirsearch 0.3.9 0.4.0_p20201202 0.4.0_p20210427: A simple command line tool designed to brute force dirs and files in websites
-net-analyzer/dnsrecon 1.1.1 1.1.2: DNS Enumeration Script
+net-analyzer/dnsrecon 1.1.2 1.1.3: DNS Enumeration Script
 net-analyzer/droopescan 1.41.3-r2: A scanner that helps identifying issues in Drupal, SilverStripe, and Wordpress
 net-analyzer/enteletaor 1.1.1: Message Queue & Broker Injection tool
 net-analyzer/enum4linux 0.8.9-r1 0.9.1: A tool for enumerating information from Windows and Samba systems
@@ -676,7 +676,7 @@ net-analyzer/takeover 20200312: Sub-Domain TakeOver Vulnerability Scanner
 net-analyzer/testssl 3.0.6 3.0.7: Tool to check TLS/SSL cipher support
 net-analyzer/thc-pptp-bruter 0.1.4: A brute force program that works against pptp vpn endpoints
 net-analyzer/thc-ssl-dos 1.4: THC-SSL-DOS is a tool to verify the performance of SSL servers
-net-analyzer/theHarvester 4.0.1 4.0.2 4.0.3: The Harvester is a tool designed to collect email accounts of the target domain
+net-analyzer/theHarvester 4.0.3 4.2.0: The Harvester is a tool designed to collect email accounts of the target domain
 net-analyzer/tplmap 20211014: Server-Side Template Injection and code injection tool
 net-analyzer/twa 1.9.3 1.10.0 9999: A tiny web auditor with strong opinions
 net-analyzer/videojak 1.00 2.0: VideoJak is an IP Video security assessment tool
