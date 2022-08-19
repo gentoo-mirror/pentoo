@@ -1,10 +1,10 @@
 BDEPEND=virtual/pkgconfig
-DEFINED_PHASES=compile install postinst test
+DEFINED_PHASES=compile install postinst postrm prepare test
 DEPEND=virtual/libusb:0 app-arch/bzip2 dev-libs/jansson sys-libs/ncurses:*[tinfo] sys-libs/readline:= bluez? ( net-wireless/bluez ) qt? ( dev-qt/qtcore:5 dev-qt/qtwidgets:5 dev-qt/qtgui:5 ) firmware? ( sys-devel/gcc-arm-none-eabi:0 )
 DESCRIPTION=A general purpose RFID tool for Proxmark3 hardware
 EAPI=7
 HOMEPAGE=https://github.com/RfidResearchGroup/proxmark3
-INHERIT=udev
+INHERIT=udev toolchain-funcs
 IUSE=+bluez deprecated +firmware +pm3rdv4 +qt standalone-lf-em4100emul standalone-lf-em4100rswb standalone-lf-em4100rwc standalone-lf-hidbrute standalone-lf-hidfcbrute standalone-lf-icehid standalone-lf-nexid standalone-lf-proxbrute standalone-lf-samyrun standalone-lf-tharexde standalone-hf-14asniff standalone-hf-15sniff standalone-hf-aveful standalone-hf-bog standalone-hf-colin standalone-hf-craftbyte standalone-hf-iceclass standalone-hf-legic standalone-hf-mattyrun standalone-hf-mfcsim standalone-hf-msdsal standalone-hf-reblay standalone-hf-tcprst standalone-hf-tmudford standalone-hf-young standalone-dankarmulti
 KEYWORDS=amd64
 LICENSE=GPL-3+
@@ -13,4 +13,4 @@ REQUIRED_USE=?? ( standalone-lf-em4100emul standalone-lf-em4100rswb standalone-l
 SLOT=0
 SRC_URI=https://github.com/RfidResearchGroup/proxmark3/archive/v4.14831.tar.gz -> proxmark3-4.14831.tar.gz
 _eclasses_=toolchain-funcs	1542e649be915f43f6908a9e93909961	multilib	5ca4e49abed8e3a2f7b56920eadee157	udev	f3a0a3964e2028a140c181f00eea9712
-_md5_=3b5e797cdc4021f06a5994a2acb82468
+_md5_=8c3227eec94ed70efe5da587aa116e09
