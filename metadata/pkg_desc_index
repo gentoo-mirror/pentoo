@@ -197,7 +197,7 @@ dev-python/agate-sql 0.5.4-r1: Adds SQL read/write support to agate
 dev-python/aggdraw 1.3.11: High quality drawing interface for PIL
 dev-python/aiocmd 0.1.5: Coroutine-based CLI generator using prompt_toolkit
 dev-python/aioconsole 0.3.1: Asynchronous console and interfaces for asyncio
-dev-python/aiogram 2.22.1: Asynchronous framework for Telegram Bot API
+dev-python/aiogram 2.22.1 3.0.0_beta4: Asynchronous framework for Telegram Bot API
 dev-python/aiomultiprocess 0.8.0 0.9.0: asyncio version of the standard multiprocessing module
 dev-python/aiopg 1.2.1: aiopg is a library for accessing a PostgreSQL database from the asyncio
 dev-python/aiosmb 0.2.50 0.3.8: Asynchronous SMB protocol implementation
@@ -321,6 +321,7 @@ dev-python/limits 1.5.1: Rate limiting utilities
 dev-python/litecli 1.4.1-r1 1.5.0: CLI for SQLite Databases with auto-completion and syntax highlighting
 dev-python/lsassy 3.1.2 3.1.3: Python library to parse remote lsass dumps
 dev-python/macholib 1.14: A package is a collection of utilities for dealing with IP addresses
+dev-python/magic-filter 1.0.8: Magic filter based on dynamic attribute getter
 dev-python/manuel 1.9.0: Manuel lets you build tested documentation
 dev-python/marshmallow-sqlalchemy 0.15.0 0.21.0: SQLAlchemy integration with the marshmallow (de)serialization library
 dev-python/matlink-gpapi 0.4.4.5: Unofficial python api for google play
@@ -815,7 +816,7 @@ net-wireless/srsran 22.04 9999: Open source SDR 4G/5G software suite from Softwa
 net-wireless/trunk-recorder 4.3.2 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
 net-wireless/virtualradar-bin 2.4.3: Open-source .NET application for ads-b mapping
 net-wireless/wifipumpkin3 1.1.2_p2 1.1.3_p2: Framework for Rogue Wi-Fi Access Point Attack
-net-wireless/wifite 2.6.0 2.6.2: An automated wireless attack tool
+net-wireless/wifite 2.6.2 2.6.5: An automated wireless attack tool
 net-wireless/wireless-regdb 20220606-r1: Binary regulatory database for CRDA
 net-wireless/wpa_sycophant 1.0 9999: Evil client portion of EAP relay attack
 pentoo/pentoo 2015.1: Pentoo meta ebuild to install all apps
