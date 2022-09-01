@@ -756,7 +756,7 @@ net-wireless/dump1090_sdrplus 20190812 20200921: Mode S decoder for (SDR) device
 net-wireless/eaphammer 1.12.0 1.13.5: Targeted evil twin attacks against WPA2-Enterprise networks
 net-wireless/editcp-bin 1.0.31: Codeplug editor for the MD-380/MD-390/MD40/MD-UV380/MD-UV390 DMR radios
 net-wireless/fern-wifi-cracker 3.1 3.3: Wireless tool for WEP/WPA cracking and WPS keys recovery
-net-wireless/fosphor_knob 0.11: A visualization we use for the RF Village
+net-wireless/fosphor_knob 0.11-r1: A visualization we use for the RF Village
 net-wireless/gps-sdr-sim 9999: GPS Spoofing tool for transmit capable SDR's like the HackRF, bladeRF and USRP
 net-wireless/gr-air-modes 20200507: This module implements a complete Mode S and ADS-B receiver for Gnuradio
 net-wireless/gr-dsd 9999: GNU Radio block for Digital Speech Decoder
@@ -841,7 +841,7 @@ pentoo/pentoo-mobile 2022.1: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2022.2: Collection of NFC tools
 pentoo/pentoo-opencl 0-r3: Virtual for pulling in appropriate opencl stuffs
 pentoo/pentoo-proxies 2022.2-r1: Pentoo proxy meta ebuild
-pentoo/pentoo-radio 2022.2: Radio tools for pentoo
+pentoo/pentoo-radio 2022.2-r1: Radio tools for pentoo
 pentoo/pentoo-rce 2022.2: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2022.2: Pentoo scanner meta ebuild
 pentoo/pentoo-system 2021.4-r1: Pentoo meta ebuild to install system
@@ -849,7 +849,7 @@ pentoo/pentoo-voip 2022.2: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2022.2: Pentoo wireless meta ebuild
 pentoo/rfctf-client 2022.0: Packages needed to power the client and SDR devices for RFCTF events
 pentoo/tribe 2012.0: Tribe meta ebuild
-pentoo/zero-system 2022.2-r2: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
+pentoo/zero-system 2022.2-r3: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
 sci-electronics/litedram 20180514: Small footprint and configurable DRAM core
 sci-electronics/liteeth 20180301 20180719: Small footprint and configurable Ethernet core
 sci-electronics/litepcie 20180530: Small footprint and configurable PCIe core
