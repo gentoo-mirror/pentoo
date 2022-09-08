@@ -140,6 +140,7 @@ dev-java/jetty-util 11.0.9: Jetty IO Utility
 dev-java/jgraphx 2.1.1.2 4.2.2: Open-source graph component for Java
 dev-java/msgpack 0.5.1 0.6.12 0.8.16: MessagePack for Java is a binary-based efficient object serialization library
 dev-java/openjdk-bin 15.0.1_p9: Prebuilt Java JDK binaries provided by AdoptOpenJDK
+dev-java/openjfx 17.0.3_p2: Java OpenJFX client application platform
 dev-java/sleep 2.1-r1: Duct Tape for the Java platform
 dev-libs/LeechCore 2.10 2.12: Direct Memory Access (DMA) Attack Software
 dev-libs/cm256cc 1.1.0: Fast GF(256) Cauchy MDS Block Erasure Codec in C++
@@ -807,7 +808,7 @@ net-wireless/rx_tools 1.0.3-r1 9999: rx_fm, rx_power, and rx_sdr tools for recei
 net-wireless/scopy 9999: A software oscilloscope and signal analysis toolset
 net-wireless/sdrangel 6.19.0 6.20.1: SDR Rx/Tx software
 net-wireless/sdrpp 1.0.4 9999: a cross-platform SDR software with the aim of being bloat free and simple to use
-net-wireless/sdrtrunk 0.4.0-r1: Decode, monitor, record and stream trunked mobile and related radio protocols
+net-wireless/sdrtrunk 0.4.0-r1 0.5.0_beta5: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/sdrtrunk-bin 0.4.0-r1: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/signalhound-spike 3.5.9: Spectrum analyzer software for Signal Hound test equipment
 net-wireless/ska 0.2: Fake Shared Key Authentication
