@@ -11,5 +11,5 @@ LICENSE=BSD
 RDEPEND=internal-tls? ( dev-libs/libtommath ) !internal-tls? ( dev-libs/openssl:0=[-bindist(-)] ) kernel_linux? ( dev-libs/libnl:3 crda? ( net-wireless/crda ) ) netlink? ( net-libs/libnfnetlink ) sqlite? ( >=dev-db/sqlite-3 )
 SLOT=0
 SRC_URI=https://github.com/sensepost/hostapd-mana/archive/1302a7204d9118efa0668df1924c938dbe8d1b11.tar.gz -> hostapd-mana-2.6.5_p20210920.tar.gz
-_eclasses_=multibuild	d26d81f242cb193d899a72bca423d0bd	eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	1542e649be915f43f6908a9e93909961	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	b9fc5e97e886514e5132f50465185401	python-r1	2d51fd03931e743811ce30d198e4dcfd	portability	d33a77692bb47e8227f27e17fb9c3c05	savedconfig	7cb1bf66b4acedc4f06802a012d3b08d
+_eclasses_=multibuild	d26d81f242cb193d899a72bca423d0bd	eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	1542e649be915f43f6908a9e93909961	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	b9fc5e97e886514e5132f50465185401	python-r1	2d51fd03931e743811ce30d198e4dcfd	portability	58227860123d3e8da23290064ce3373e	savedconfig	4011d8d7370446e970e2c92b20a31341
 _md5_=7e8a69727007ab05d49ea1283bf7e503
