@@ -255,7 +255,7 @@ dev-python/donut-shellcode 0.9.2: Donut Python C extension
 dev-python/dotty 1.5: EFILTER query language
 dev-python/dropbox-sdk 10.1.1: A Python SDK for integrating with the Dropbox API v2.
 dev-python/dsinternals 1.2.4: Directory Services Internals Library
-dev-python/easygui 0.98.1 0.98.2: A module for very simple, very easy GUI programming in Python
+dev-python/easygui 0.98.1 0.98.3: A module for very simple, very easy GUI programming in Python
 dev-python/editorconfig 0.12.2: EditorConfig File Locator and Interpreter for Python
 dev-python/entropy 0.1.5: entropy is a command line friend that helps you reduce entropy in your life
 dev-python/eventlet 0.33.0: Highly concurrent networking library
