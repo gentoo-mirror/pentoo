@@ -283,7 +283,7 @@ dev-python/flask-session 0.3.1: Adds server-side session support to your Flask a
 dev-python/flask-socketio 4.3.1-r1: Socket.IO integration for Flask applications
 dev-python/flask-sockets 0.2.1: Elegant WebSockets for your Flask apps
 dev-python/fpdf 1.7.2: Simple PDF generation for Python
-dev-python/frida-python 15.1.14 15.1.17 15.2.0: Dynamic instrumentation toolkit for reverse-engineers and security researchers
+dev-python/frida-python 15.2.0 15.2.2: Dynamic instrumentation toolkit for reverse-engineers and security researchers
 dev-python/gatt-python 0.2.6-r1: Bluetooth GATT SDK for Python
 dev-python/geoip2-python 3.0.0: Python bindings for GeoIP2
 dev-python/glom 22.1.0: A declarative object transformer for conglomerating nested data
