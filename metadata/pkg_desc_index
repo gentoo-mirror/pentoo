@@ -170,7 +170,7 @@ dev-libs/libvhdi 20201204 20210425: Library and tools to access the Virtual Hard
 dev-libs/libvmdk 20200926 20210418: Library and tools to access the VMware Virtual Disk (VMDK) format
 dev-libs/memprocfs 4.7 5.0: The Memory Process File System
 dev-libs/nanopb 0.4.6-r1: plain-C Protocol Buffers for embedded/memory-constrained systems
-dev-libs/openssl-bad 1.0.2_p20180915 1.0.2_p20190119: Snapshot for testssl.sh >2.8 from PM's fork, ready to compile
+dev-libs/openssl-bad 1.0.2_p20190119 1.0.2_p20220901: Snapshot for testssl.sh >2.8 from PM's fork, ready to compile
 dev-libs/qbdi 0.7.1: A Dynamic Binary Instrumentation framework based on LLVM
 dev-libs/redasm-database 20190317 20210109: Database files (signatures) for REDasm
 dev-libs/serialDV 1.1.4: C++ library to encode/decode audio with AMBE3000
