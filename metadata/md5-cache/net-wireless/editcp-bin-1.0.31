@@ -11,5 +11,5 @@ RDEPEND=dev-qt/qtlocation:5 dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtserialport:5
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://www.farnsworth.org/dale/codeplug/editcp/downloads/linux/editcp-1.0.31.tar.xz https://www.farnsworth.org/dale/codeplug/editcp/downloads/linux/previous/editcp-1.0.31.tar.xz
-_eclasses_=desktop	22952d8f27cac191d75529d4c38e6bfa	toolchain-funcs	1542e649be915f43f6908a9e93909961	multilib	5ca4e49abed8e3a2f7b56920eadee157	udev	eec0bbab06977f1cfc5597269c1fa152	xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e	xdg	6024fbc93167fad782e2032933654857
+_eclasses_=desktop	22952d8f27cac191d75529d4c38e6bfa	toolchain-funcs	1542e649be915f43f6908a9e93909961	multilib	5ca4e49abed8e3a2f7b56920eadee157	udev	eec0bbab06977f1cfc5597269c1fa152	xdg-utils	ac0e315a3688929e34ac75b139e7349a	xdg	6024fbc93167fad782e2032933654857
 _md5_=8127498a43ac0100f63e719127fe6458
