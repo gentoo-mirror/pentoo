@@ -825,10 +825,10 @@ pentoo/pentoo 2015.1: Pentoo meta ebuild to install all apps
 pentoo/pentoo-analyzer 2022.2: Pentoo analyzers meta ebuild
 pentoo/pentoo-bluetooth 2022.2: Pentoo bluetooth meta ebuild
 pentoo/pentoo-cinnamon 2020.1: Pentoo cinnamon meta ebuild
-pentoo/pentoo-core 2022.2-r2: Pentoo minimum core requirements
+pentoo/pentoo-core 2022.2-r3: Pentoo minimum core requirements
 pentoo/pentoo-cracking 2022.2: Pentoo cracking meta ebuild
 pentoo/pentoo-database 2022.2: Pentoo database attack meta ebuild
-pentoo/pentoo-desktop 2022.2-r1: Pentoo meta ebuild to install all X and WM/DE related things
+pentoo/pentoo-desktop 2022.2-r2: Pentoo meta ebuild to install all X and WM/DE related things
 pentoo/pentoo-exploit 2022.2: Pentoo exploit meta ebuild
 pentoo/pentoo-footprint 2022.2: Pentoo footprint meta ebuild
 pentoo/pentoo-forensics 2022.2: Pentoo forensics meta ebuild
@@ -878,7 +878,7 @@ sys-kernel/fragattacks-drivers58 20210507: Wi-Fi fragmentation and aggregation v
 sys-kernel/ft60x_driver 20180209 20190318: USB FT60x driver
 sys-kernel/kconfig-hardened-check 0.5.10 0.5.14 0.5.17 9999: A script for checking the hardening options in the Linux kernel config
 sys-kernel/pentoo-lts-sources 2: Pentoo kernel sources (kernel series .)
-sys-kernel/pentoo-sources 5.15.64 5.18.19 5.19.12: Pentoo kernel sources (kernel series 5.19)
+sys-kernel/pentoo-sources 5.15.64 5.18.19 5.19.13: Pentoo kernel sources (kernel series 5.19)
 sys-kernel/pf_ring-kmod 7.0.0 7.8.0_p20210421: High-speed packet processing framework (kernel modules for)
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
 sys-power/acpid 2.0.33: Daemon for Advanced Configuration and Power Interface
