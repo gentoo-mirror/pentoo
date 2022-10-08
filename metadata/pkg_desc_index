@@ -34,6 +34,7 @@ app-dicts/raft-wordlists 20110803-r1: Raft wordlists
 app-dicts/seclists 2022.2 2022.3: A collection of multiple types of lists used during security assessments
 app-editors/rehex 0.4.1 0.5.3: Reverse Engineers' Hex Editor
 app-eselect/eselect-metasploit 0.20: eselect module for metasploit
+app-exploits/deathstar 20201217-r1 20210519: A tool to gain Domain Admin rights with a push of a button
 app-exploits/empire 4.7.3 4.8.0: A post-exploitation framework
 app-exploits/enumdb 2.1.0: Database brute force and post exploitation tool
 app-exploits/exploit-pattern 20200109: Generate and search pattern string for exploit development
@@ -223,7 +224,7 @@ dev-python/bluepy 1.3.0-r1: Python interface to Bluetooth LE on Linux
 dev-python/captcha 0.3: Library that generates audio and image CAPTCHAs
 dev-python/cchardet 2.1.4: Python library for interacting with Censys Search Engine (censys.io)
 dev-python/cement 2.10: Application Framework for Python
-dev-python/censys 0.0.8 2.1.7: Python library for interacting with Censys Search Engine (censys.io)
+dev-python/censys 2.1.8: Python library for interacting with Censys Search Engine (censys.io)
 dev-python/cfscrape 2.1.1: A module to bypass Cloudflare's anti-bot page
 dev-python/cherrypy-cors 1.6: CORS handling as a cherrypy tool.
 dev-python/click-option-group 0.5.3: Option groups missing in Click
@@ -332,7 +333,7 @@ dev-python/minikerberos 0.2.14 0.2.20 0.3.1 0.3.2: Kerberos manipulation library
 dev-python/mitm6 0.2.2: pwning IPv4 via IPv6
 dev-python/mockito 1.2.0: Spying framework based on Mockito java library
 dev-python/msldap 0.3.38 0.4.1: Python library to play with MS LDAP
-dev-python/msoffcrypto-tool 4.10.1 4.12.0: Decrypting MS Office files with passwords or other keys
+dev-python/msoffcrypto-tool 4.12.0 5.0.0: Decrypting MS Office files with passwords or other keys
 dev-python/nassl 4.0.1 4.0.2: Experimental OpenSSL wrapper for Python 3.7+ and SSLyze
 dev-python/neo4j 4.2.0 4.2.1: Neo4j Bolt driver for Python
 dev-python/neobolt 1.7.17: Neo4j Bolt Connector for Python
@@ -376,7 +377,7 @@ dev-python/pylzma 0.5.0: Platform independent python bindings for the LZMA compr
 dev-python/pymisp 2.4.124-r1 2.4.152: A python library for using the MISP Rest API
 dev-python/pymodbus 2.1.0: A fully featured modbus protocol stack in python
 dev-python/pypcapfile 0.12.0: Pure Python package for reading and parsing libpcap savefiles
-dev-python/pyppeteer 0.0.25 0.2.6: Headless chrome/chromium automation library
+dev-python/pyppeteer 0.2.6 1.0.2: Headless chrome/chromium automation library
 dev-python/pypsrp 0.5.0 0.7.0: PowerShell Remoting Protocol and WinRM for Python
 dev-python/pysnmp-apps 0.5.3: PySNMP applications
 dev-python/pyspnego 0.1.3: Windows Negotiate Authentication Client and Server
