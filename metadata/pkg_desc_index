@@ -196,7 +196,7 @@ dev-python/agate-sql 0.5.4-r1: Adds SQL read/write support to agate
 dev-python/aggdraw 1.3.11: High quality drawing interface for PIL
 dev-python/aiocmd 0.1.5: Coroutine-based CLI generator using prompt_toolkit
 dev-python/aioconsole 0.3.1: Asynchronous console and interfaces for asyncio
-dev-python/aiogram 2.22.1 3.0.0_beta4: Asynchronous framework for Telegram Bot API
+dev-python/aiogram 2.22.1 3.0.0_beta4 3.0.0_beta5: Asynchronous framework for Telegram Bot API
 dev-python/aiomultiprocess 0.8.0 0.9.0: asyncio version of the standard multiprocessing module
 dev-python/aiopg 1.2.1: aiopg is a library for accessing a PostgreSQL database from the asyncio
 dev-python/aiosmb 0.3.8 0.4.0 0.4.2: Asynchronous SMB protocol implementation
@@ -320,7 +320,7 @@ dev-python/limits 1.5.1: Rate limiting utilities
 dev-python/litecli 1.4.1-r1 1.5.0: CLI for SQLite Databases with auto-completion and syntax highlighting
 dev-python/lsassy 3.1.2 3.1.3: Python library to parse remote lsass dumps
 dev-python/macholib 1.14: A package is a collection of utilities for dealing with IP addresses
-dev-python/magic-filter 1.0.8: Magic filter based on dynamic attribute getter
+dev-python/magic-filter 1.0.8 1.0.9: Magic filter based on dynamic attribute getter
 dev-python/manuel 1.9.0: Manuel lets you build tested documentation
 dev-python/marshmallow-sqlalchemy 0.15.0 0.21.0: SQLAlchemy integration with the marshmallow (de)serialization library
 dev-python/matlink-gpapi 0.4.4.5: Unofficial python api for google play
@@ -436,7 +436,6 @@ dev-python/torrequest 20181011-r2: Simple Python interface for HTTP(s) requests 
 dev-python/truffleHogRegexes 20190518-r1: These are the regexes that power trufflehog
 dev-python/tweepy 3.9.0: A Python library for accessing the Twitter API
 dev-python/unicrypto 0.0.5-r1 0.0.9: Unified interface for cryptographic libraries
-dev-python/uvloop 0.14.0: Ultra-fast implementation of asyncio event loop on top of libuv
 dev-python/vaderSentiment 3.3.2: VADER Sentiment Analysis
 dev-python/validators 0.14.0: Python Data Validation for Humans
 dev-python/vulners 1.5.5: Python API wrapper for the Vulners Database
