@@ -427,7 +427,6 @@ dev-python/spyse-python 2.2.3: Python wrapper for spyse.com
 dev-python/sqlalchemy_mixins 1.2.1: Active Record, Django-like queries
 dev-python/sqlalchemy_schemadisplay 1.3: Turn SQLAlchemy DB Model into a graph
 dev-python/sqlalchemy_utc 0.12.0: SQLAlchemy type to store aware datetime values
-dev-python/sse-starlette 0.7.2: Server Sent Events for Starlette
 dev-python/stegoveritas-binwalk 2.1.2: Binwalk release specifically for stegoveritas
 dev-python/stegoveritas-pfp 0.2.3: An 010 template interpreter for Python
 dev-python/stegoveritas-py010parser 0.1.10: A modified pycparser to parse 010 templates
