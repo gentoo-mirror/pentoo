@@ -257,7 +257,6 @@ dev-python/dotty 1.5: EFILTER query language
 dev-python/dropbox-sdk 10.1.1: A Python SDK for integrating with the Dropbox API v2.
 dev-python/dsinternals 1.2.4: Directory Services Internals Library
 dev-python/easygui 0.98.1 0.98.3: A module for very simple, very easy GUI programming in Python
-dev-python/editorconfig 0.12.2: EditorConfig File Locator and Interpreter for Python
 dev-python/entropy 0.1.5: entropy is a command line friend that helps you reduce entropy in your life
 dev-python/eventlet 0.33.0: Highly concurrent networking library
 dev-python/exifread 2.3.1 2.3.2: Read Exif metadata from tiff and jpeg files
@@ -287,6 +286,7 @@ dev-python/frida-python 15.2.0 15.2.2: Dynamic instrumentation toolkit for rever
 dev-python/gatt-python 0.2.6-r1: Bluetooth GATT SDK for Python
 dev-python/geoip2-python 3.0.0: Python bindings for GeoIP2
 dev-python/glom 22.1.0: A declarative object transformer for conglomerating nested data
+dev-python/google-cloud-dialogflow 2.16.1: Client library for the Dialogflow API
 dev-python/google-play-scraper 0.0.2.3 0.1.2 0.2.1: APIs to easily crawl the Google Play Store for Python
 dev-python/googlesearch 3.0.0-r1: Google search from Python
 dev-python/gpapi 0.4.4-r1: Unofficial python api for google play
@@ -311,7 +311,7 @@ dev-python/itemadapter 0.4.0: Common interface for scrapy data container classes
 dev-python/itemloaders 1.0.4: Library to populate items using XPath and CSS with a convenient API
 dev-python/javalang 0.12.0: A pure Python library for working with Java source code
 dev-python/javaobj-py3 0.4.3: Module for serializing and de-serializing Java objects
-dev-python/jsbeautifier 1.13.0 1.14.0: Beautify, unpack or deobfuscate JavaScript
+dev-python/jsbeautifier 1.14.0 1.14.6: Beautify, unpack or deobfuscate JavaScript
 dev-python/json2html 1.3.0-r1: A python module for converting complex JSON oject to HTML Table representation
 dev-python/jsonfield 2.0.2: A reusable Django field that allows you to store validated JSON
 dev-python/jwt 1.1.0-r1: JSON Web Token library for Python
