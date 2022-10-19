@@ -10,5 +10,5 @@ LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=dev-libs/libevent:=[threads] net-libs/tox
 SLOT=0
-_eclasses_=toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157	systemd	5f4bb0758df2e483babf68cd517078ca	user-info	69a1ed744ec33cf2c910ff2bd6084d11	user	1f6dd43c7e925ba0272de52bcd326972	git-r3	b9ac6f96d2a88edb5b351df634dc5e53
+_eclasses_=toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157	systemd	5f4bb0758df2e483babf68cd517078ca	user-info	69a1ed744ec33cf2c910ff2bd6084d11	user	ee8b59cbe68b390f981e3ee247ed908f	git-r3	b9ac6f96d2a88edb5b351df634dc5e53
 _md5_=f756fed472aab41d7cda24cf22fb9fe6
