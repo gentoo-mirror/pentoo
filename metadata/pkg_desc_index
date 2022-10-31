@@ -351,6 +351,7 @@ dev-python/parsel 1.5.1: Extract data from HTML and XML using XPath and CSS sele
 dev-python/parver 0.3.1: Parse and manipulate version numbers
 dev-python/pcodedmp 1.2.6: A VBA p-code disassembler
 dev-python/pdfkit 0.6.1 1.0.0: Wkhtmltopdf python wrapper
+dev-python/peewee_async 0.8.0: Asynchronous interface for peewee ORM powered by asyncio.
 dev-python/pefile 2019.4.18 2021.5.24: Module to read and work with Portable Executable (PE) files
 dev-python/playsound 1.2.2: Single function module with no dependencies for playing sounds
 dev-python/promise 2.3.0: Promises/A+ implementation for Python
