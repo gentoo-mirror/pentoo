@@ -4,7 +4,7 @@
 EAPI="8"
 ETYPE="sources"
 K_WANT_GENPATCHES="base extras experimental"
-K_GENPATCHES_VER="24"
+K_GENPATCHES_VER="6"
 
 inherit kernel-2
 detect_version
@@ -29,7 +29,6 @@ src_unpack() {
 	kernel-2_src_unpack
 	#penpatches
 	eapply -s "${FILESDIR}/4004_zd1211rw-inject+dbi-fix-4.7ish.patch"
-	eapply -s "${FILESDIR}/4005_ipw2200-inject-4.7ish.patch"
 	eapply -s "${FILESDIR}/4400_logo_larry_the_cow.patch"
 }
 
