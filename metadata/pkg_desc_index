@@ -288,6 +288,7 @@ dev-python/geoip2-python 3.0.0: Python bindings for GeoIP2
 dev-python/glom 22.1.0: A declarative object transformer for conglomerating nested data
 dev-python/google-cloud-dialogflow 2.16.1: Client library for the Dialogflow API
 dev-python/google-play-scraper 0.0.2.3 0.1.2 0.2.1: APIs to easily crawl the Google Play Store for Python
+dev-python/googleapis-common-protos 1.56.4-r1: Python classes generated from the common protos in the googleapis repository
 dev-python/googlesearch 3.0.0-r1: Google search from Python
 dev-python/gpapi 0.4.4-r1: Unofficial python api for google play
 dev-python/gpsoauth 1.0.2: A client library for Google Play Services OAuth.
