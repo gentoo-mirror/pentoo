@@ -197,7 +197,7 @@ dev-python/agate-sql 0.5.4-r1: Adds SQL read/write support to agate
 dev-python/aggdraw 1.3.11: High quality drawing interface for PIL
 dev-python/aiocmd 0.1.5: Coroutine-based CLI generator using prompt_toolkit
 dev-python/aioconsole 0.3.1: Asynchronous console and interfaces for asyncio
-dev-python/aiogram 2.22.1 3.0.0_beta4 3.0.0_beta5: Asynchronous framework for Telegram Bot API
+dev-python/aiogram 2.23.1 3.0.0_beta4 3.0.0_beta5: Asynchronous framework for Telegram Bot API
 dev-python/aiogram_dialog 1.9.0 2.0.0_beta9 2.0.0_beta11: GUI framework on top of aiogram
 dev-python/aiomultiprocess 0.8.0 0.9.0: asyncio version of the standard multiprocessing module
 dev-python/aiopg 1.2.1: aiopg is a library for accessing a PostgreSQL database from the asyncio
@@ -890,7 +890,7 @@ www-apps/beef 0.5.0.0-r1: Browser exploitation framework
 www-apps/faraday 3.10.0-r1: Integrated Penetration-Test Environment is a multiuser Penetration test IDE
 www-apps/geckodriver 0.27.0 0.30.0: Proxy for using WebDriver clients to interact with Gecko-based browsers.
 www-apps/rda 2.9 3.0: Web-based application for effective reporting writing
-www-apps/seafile-pro-server 9.0.9 9.0.11: Meta package for Seafile Pro Edition, file sync share solution
+www-apps/seafile-pro-server 9.0.11 9.0.12: Meta package for Seafile Pro Edition, file sync share solution
 www-apps/vulsrepo 20190412-r3: VulsRepo is visualized based on the json report output in vuls
 www-misc/firefox-bookmarks 0.3-r1: Firefox bookmarks for the Pento ISO only
 www-plugins/hackplugins-meta 20200428: Collection of browser's plugins for application security testing
