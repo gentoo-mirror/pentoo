@@ -108,6 +108,7 @@ app-misc/cyberchef 9.18.0 9.20.3 9.21.0: A web app for encryption, encoding, com
 app-misc/dangerzone 0.1.2 0.1.2-r1: Take potentially dangerous PDFs or images and convert them to a safe PDF
 app-misc/freediag 1.08: Free diagnostic software for OBD-II compliant motor vehicles
 app-misc/gplaycli 3.29: Google Play Downloader via Command line
+app-misc/libpst 0.6.76: Utilities to read and convert MS Outlook personal folders (.pst) files.
 app-misc/mat2 0.11.0 0.13.0: A handy tool to trash your metadata
 app-misc/radexreader 1.2.1: Reader for the RADEX RD1212 and the RADEX ONE Geiger counters
 app-misc/siglo 0.9.9: GTK app to sync InfiniTime watch with PinePhone

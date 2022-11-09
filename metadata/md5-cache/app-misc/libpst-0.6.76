@@ -1,0 +1,12 @@
+DEFINED_PHASES=configure
+DEPEND=gnome-extra/libgsf sys-libs/zlib python? ( dev-libs/boost[python] )
+DESCRIPTION=Utilities to read and convert MS Outlook personal folders (.pst) files.
+EAPI=8
+HOMEPAGE=https://www.five-ten-sg.com/libpst/
+IUSE=debug static shared python profiling
+KEYWORDS=~amd64
+LICENSE=GPL-2
+RDEPEND=gnome-extra/libgsf sys-libs/zlib python? ( dev-libs/boost[python] )
+SLOT=0
+SRC_URI=https://www.five-ten-sg.com/libpst/packages/libpst-0.6.76.tar.gz
+_md5_=5a0f1f1ba9402f9b6eef18c6fb38094f

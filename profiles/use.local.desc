@@ -94,6 +94,8 @@ app-fuzz/protos-bin:ldap - Include LDAP
 app-fuzz/protos-bin:sip - Include SIP
 app-fuzz/protos-bin:snmp - Include SNMP
 app-misc/freediag:gui - Enable scangui using x11-libs/fltk library
+app-misc/libpst:profiling - Enable gprof profiling
+app-misc/libpst:shared - Enable libpst shared object
 app-misc/mat2:dolphin - Enable dolphin extension
 app-misc/mat2:nautilus - Enable nautilus extension
 dev-java/openjdk-bin:gentoo-vm - Allow this JDK to be recognised by Gentoo (package manager, eselect, java-config, EXPERIMENTAL!)
