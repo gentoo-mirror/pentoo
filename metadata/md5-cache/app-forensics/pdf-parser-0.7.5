@@ -1,15 +1,15 @@
 DEFINED_PHASES=install postinst prepare unpack
-DEPEND=python_targets_python3_9? ( >=dev-lang/python-3.9.12:3.9 ) python_targets_python3_10? ( >=dev-lang/python-3.10.4:3.10 ) app-arch/unzip
+DEPEND=python_targets_python3_10? ( >=dev-lang/python-3.10.4:3.10 ) python_targets_python3_11? ( >=dev-lang/python-3.11.0_beta4:3.11 ) app-arch/unzip
 DESCRIPTION=This tool will parse a PDF document to identify the fundamental elements used
 EAPI=7
 HOMEPAGE=https://blog.didierstevens.com/programs/pdf-tools/
 INHERIT=python-r1 unpacker
-IUSE=unicode yara python_targets_python3_9 python_targets_python3_10
+IUSE=unicode yara python_targets_python3_10 python_targets_python3_11
 KEYWORDS=~amd64 ~arm64 ~x86
 LICENSE=public-domain
-RDEPEND=python_targets_python3_9? ( >=dev-lang/python-3.9.12:3.9 ) python_targets_python3_10? ( >=dev-lang/python-3.10.4:3.10 ) app-arch/unzip yara? ( dev-python/yara-python[python_targets_python3_9(-)?,python_targets_python3_10(-)?] )
-REQUIRED_USE=|| ( python_targets_python3_9 python_targets_python3_10 )
+RDEPEND=python_targets_python3_10? ( >=dev-lang/python-3.10.4:3.10 ) python_targets_python3_11? ( >=dev-lang/python-3.11.0_beta4:3.11 ) app-arch/unzip yara? ( dev-python/yara-python[python_targets_python3_10(-)?,python_targets_python3_11(-)?] )
+REQUIRED_USE=|| ( python_targets_python3_10 python_targets_python3_11 )
 SLOT=0
 SRC_URI=https://www.didierstevens.com/files/software/pdf-parser_V0_7_5.zip
 _eclasses_=multibuild	d26d81f242cb193d899a72bca423d0bd	eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	b9fc5e97e886514e5132f50465185401	python-r1	2d51fd03931e743811ce30d198e4dcfd	unpacker	bc57272a0491765c71d973c8cfd35063
-_md5_=79ad91694911612036f12d1b43255819
+_md5_=cb8c2490b555df7d14900d0faf470f80

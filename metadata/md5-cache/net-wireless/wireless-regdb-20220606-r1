@@ -1,4 +1,4 @@
-BDEPEND=|| ( ( >=dev-lang/python-3.10.4:3.10 dev-python/m2crypto[python_targets_python3_10(-)] ) ( >=dev-lang/python-3.9.12:3.9 dev-python/m2crypto[python_targets_python3_9(-)] ) )
+BDEPEND=|| ( ( >=dev-lang/python-3.11.0_beta4:3.11 dev-python/m2crypto[python_targets_python3_11(-)] ) ( >=dev-lang/python-3.10.4:3.10 dev-python/m2crypto[python_targets_python3_10(-)] ) )
 DEFINED_PHASES=compile install prepare setup
 DESCRIPTION=Binary regulatory database for CRDA
 EAPI=8
@@ -10,4 +10,4 @@ LICENSE=ISC
 SLOT=0
 SRC_URI=https://www.kernel.org/pub/software/network/wireless-regdb/wireless-regdb-2022.06.06.tar.xz
 _eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	b9fc5e97e886514e5132f50465185401	python-any-r1	f2f00fb79b5e888b5011d4c51240ae97
-_md5_=f9154c3431a9f94e6edda6657b1fd6c6
+_md5_=5d8be581490c405ce05dd80a5b14e8a1

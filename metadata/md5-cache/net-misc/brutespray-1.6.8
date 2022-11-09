@@ -1,15 +1,15 @@
 DEFINED_PHASES=install prepare setup
-DEPEND=python_single_target_python3_9? ( >=dev-lang/python-3.9.12:3.9 ) python_single_target_python3_10? ( >=dev-lang/python-3.10.4:3.10 )
+DEPEND=python_single_target_python3_10? ( >=dev-lang/python-3.10.4:3.10 ) python_single_target_python3_11? ( >=dev-lang/python-3.11.0_beta4:3.11 )
 DESCRIPTION=Brute-Forcing from Nmap output using default creds
 EAPI=7
 HOMEPAGE=https://github.com/x90skysn3k/brutespray
 INHERIT=eutils python-single-r1
-IUSE=python_single_target_python3_9 python_single_target_python3_10
+IUSE=python_single_target_python3_10 python_single_target_python3_11
 KEYWORDS=~amd64 ~arm64 ~mips ~x86
 LICENSE=MIT
-RDEPEND=python_single_target_python3_9? ( >=dev-lang/python-3.9.12:3.9 ) python_single_target_python3_10? ( >=dev-lang/python-3.10.4:3.10 ) python_single_target_python3_9? ( dev-python/argcomplete[python_targets_python3_9(-)] ) python_single_target_python3_10? ( dev-python/argcomplete[python_targets_python3_10(-)] )
-REQUIRED_USE=^^ ( python_single_target_python3_9 python_single_target_python3_10 )
+RDEPEND=python_single_target_python3_10? ( >=dev-lang/python-3.10.4:3.10 ) python_single_target_python3_11? ( >=dev-lang/python-3.11.0_beta4:3.11 ) python_single_target_python3_10? ( dev-python/argcomplete[python_targets_python3_10(-)] ) python_single_target_python3_11? ( dev-python/argcomplete[python_targets_python3_11(-)] )
+REQUIRED_USE=^^ ( python_single_target_python3_10 python_single_target_python3_11 )
 SLOT=0
 SRC_URI=https://github.com/x90skysn3k/brutespray/archive/brutespray-1.6.8.tar.gz
 _eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4a1902f969e5718126434fc35f3a0d9c	eutils	8f942ebdcf04334697649d4a0bf65a32	eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	b9fc5e97e886514e5132f50465185401	python-single-r1	a5747fe6dc0651d95cb78eddd5e160a8
-_md5_=1e956534e833f2594a2b26b6a68fd445
+_md5_=9683953b3f8fb683204be2e24698532e

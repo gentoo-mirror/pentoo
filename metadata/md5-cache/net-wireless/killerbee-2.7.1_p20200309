@@ -1,16 +1,16 @@
-BDEPEND=python_single_target_python3_9? ( >=dev-lang/python-3.9.12:3.9 ) python_single_target_python3_10? ( >=dev-lang/python-3.10.4:3.10 ) python_single_target_python3_9? ( >=dev-python/setuptools-65.3.0[python_targets_python3_9(-)] ) python_single_target_python3_10? ( >=dev-python/setuptools-65.3.0[python_targets_python3_10(-)] )
+BDEPEND=python_single_target_python3_10? ( >=dev-lang/python-3.10.4:3.10 ) python_single_target_python3_11? ( >=dev-lang/python-3.11.0_beta4:3.11 ) python_single_target_python3_10? ( >=dev-python/setuptools-65.3.0[python_targets_python3_10(-)] ) python_single_target_python3_11? ( >=dev-python/setuptools-65.3.0[python_targets_python3_11(-)] )
 DEFINED_PHASES=compile configure install prepare setup test
-DEPEND=python_single_target_python3_9? ( >=dev-lang/python-3.9.12:3.9 ) python_single_target_python3_10? ( >=dev-lang/python-3.10.4:3.10 )
+DEPEND=python_single_target_python3_10? ( >=dev-lang/python-3.10.4:3.10 ) python_single_target_python3_11? ( >=dev-lang/python-3.11.0_beta4:3.11 )
 DESCRIPTION=Framework and Tools for Attacking ZigBee and IEEE 802.15.4 networks
 EAPI=7
 HOMEPAGE=https://github.com/riverloopsec/killerbee
 INHERIT=distutils-r1
-IUSE=doc python_single_target_python3_9 python_single_target_python3_10
+IUSE=doc python_single_target_python3_10 python_single_target_python3_11
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
-RDEPEND=python_single_target_python3_9? ( >=dev-lang/python-3.9.12:3.9 ) python_single_target_python3_10? ( >=dev-lang/python-3.10.4:3.10 ) dev-libs/libgcrypt:= python_single_target_python3_9? ( >=net-analyzer/scapy-2.4.0_p20180626[python_targets_python3_9(-)] dev-python/pyserial[python_targets_python3_9(-)] dev-python/pyusb[python_targets_python3_9(-)] dev-python/pycryptodome[python_targets_python3_9(-)] dev-python/rangeparser[python_targets_python3_9(-)] ) python_single_target_python3_10? ( >=net-analyzer/scapy-2.4.0_p20180626[python_targets_python3_10(-)] dev-python/pyserial[python_targets_python3_10(-)] dev-python/pyusb[python_targets_python3_10(-)] dev-python/pycryptodome[python_targets_python3_10(-)] dev-python/rangeparser[python_targets_python3_10(-)] ) python_single_target_python3_9? ( >=dev-lang/python-3.9.12:3.9 ) python_single_target_python3_10? ( >=dev-lang/python-3.10.4:3.10 )
-REQUIRED_USE=^^ ( python_single_target_python3_9 python_single_target_python3_10 ) ^^ ( python_single_target_python3_9 python_single_target_python3_10 )
+RDEPEND=python_single_target_python3_10? ( >=dev-lang/python-3.10.4:3.10 ) python_single_target_python3_11? ( >=dev-lang/python-3.11.0_beta4:3.11 ) dev-libs/libgcrypt:= python_single_target_python3_10? ( >=net-analyzer/scapy-2.4.0_p20180626[python_targets_python3_10(-)] dev-python/pyserial[python_targets_python3_10(-)] dev-python/pyusb[python_targets_python3_10(-)] dev-python/pycryptodome[python_targets_python3_10(-)] dev-python/rangeparser[python_targets_python3_10(-)] ) python_single_target_python3_11? ( >=net-analyzer/scapy-2.4.0_p20180626[python_targets_python3_11(-)] dev-python/pyserial[python_targets_python3_11(-)] dev-python/pyusb[python_targets_python3_11(-)] dev-python/pycryptodome[python_targets_python3_11(-)] dev-python/rangeparser[python_targets_python3_11(-)] ) python_single_target_python3_10? ( >=dev-lang/python-3.10.4:3.10 ) python_single_target_python3_11? ( >=dev-lang/python-3.11.0_beta4:3.11 )
+REQUIRED_USE=^^ ( python_single_target_python3_10 python_single_target_python3_11 ) ^^ ( python_single_target_python3_10 python_single_target_python3_11 )
 SLOT=0
 SRC_URI=https://github.com/riverloopsec/killerbee/archive/560d97687e0aca7a1192351652d730a1e7148c25.tar.gz -> killerbee-2.7.1_p20200309.tar.gz
 _eclasses_=multibuild	d26d81f242cb193d899a72bca423d0bd	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157	eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	python-utils-r1	b9fc5e97e886514e5132f50465185401	python-single-r1	a5747fe6dc0651d95cb78eddd5e160a8	distutils-r1	8c1ceb6b71a65547b0ea7bc901d906cb
-_md5_=d21a680ff7c5a9f2e1334db8529570d3
+_md5_=c9a9f6a290a07ad5448c152d76843588

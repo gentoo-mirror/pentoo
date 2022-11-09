@@ -1,14 +1,14 @@
 DEFINED_PHASES=install unpack
-DEPEND=python_targets_python3_9? ( >=dev-lang/python-3.9.12:3.9 ) python_targets_python3_10? ( >=dev-lang/python-3.10.4:3.10 ) app-arch/unzip
+DEPEND=python_targets_python3_10? ( >=dev-lang/python-3.10.4:3.10 ) python_targets_python3_11? ( >=dev-lang/python-3.11.0_beta4:3.11 ) app-arch/unzip
 DESCRIPTION=This tool will scan a PDF document looking for certain keyword
 EAPI=7
 HOMEPAGE=https://blog.didierstevens.com/programs/pdf-tools/
 INHERIT=python-r1 unpacker
-IUSE=python_targets_python3_9 python_targets_python3_10
+IUSE=python_targets_python3_10 python_targets_python3_11
 KEYWORDS=amd64 ~arm x86
 LICENSE=public-domain
-RDEPEND=python_targets_python3_9? ( >=dev-lang/python-3.9.12:3.9 ) python_targets_python3_10? ( >=dev-lang/python-3.10.4:3.10 ) app-arch/unzip
+RDEPEND=python_targets_python3_10? ( >=dev-lang/python-3.10.4:3.10 ) python_targets_python3_11? ( >=dev-lang/python-3.11.0_beta4:3.11 ) app-arch/unzip
 SLOT=0
 SRC_URI=https://www.didierstevens.com/files/software/pdfid_v0_2_7.zip
 _eclasses_=multibuild	d26d81f242cb193d899a72bca423d0bd	eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	b9fc5e97e886514e5132f50465185401	python-r1	2d51fd03931e743811ce30d198e4dcfd	unpacker	bc57272a0491765c71d973c8cfd35063
-_md5_=8a9bb0f5340d292e263f5895dd3571a1
+_md5_=1801259a38eb1b73e07385d037ac19d3
