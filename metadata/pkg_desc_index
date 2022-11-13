@@ -187,6 +187,7 @@ dev-python/PTP 0.4.2-r1: Pentester's Tools Parser
 dev-python/Protego 0.2.1: robots.txt parser with support for modern conventions
 dev-python/PyVirtualDisplay 0.2.5: python wrapper for Xvfb, Xephyr and Xvnc
 dev-python/Scrapy 2.6.1 2.6.3: A high-level Web Crawling and Web Scraping framework
+dev-python/Telethon 1.25.4: Full-featured Telegram client library
 dev-python/aardwolf 0.0.8: Asynchronous RDP protocol implementation
 dev-python/acora 2.2: Fast multi-keyword search engine for text strings
 dev-python/adblockparser 0.7: Parser for Adblock Plus rules
@@ -561,7 +562,7 @@ dev-util/dwarf-debugger 1.0.9_p20200521 1.1.2_p20220408: Full featured multi arc
 dev-util/electron-bin 6.0.11: Cross platform application development framework based on web technologies
 dev-util/electron-packager 14.2.1: Six Degrees of Domain Admin
 dev-util/frida-tools 10.5.4 10.6.0 10.6.2 11.0.0: Frida CLI tools
-dev-util/ghidra 10.1.5-r1 10.2: A software reverse engineering framework
+dev-util/ghidra 10.1.5-r1 10.2.1: A software reverse engineering framework
 dev-util/jadx-bin 1.4.4 1.4.5: A standalone graphical utility that displays Java source codes of .class file
 dev-util/jd-cli 1.2.0 1.2.1: Command line Java Decompiler
 dev-util/jd-cli-bin 1.1.0 1.2.0 1.2.1: Command line Java Decompiler
@@ -891,7 +892,7 @@ www-apps/beef 0.5.0.0-r1: Browser exploitation framework
 www-apps/faraday 3.10.0-r1: Integrated Penetration-Test Environment is a multiuser Penetration test IDE
 www-apps/geckodriver 0.27.0 0.30.0: Proxy for using WebDriver clients to interact with Gecko-based browsers.
 www-apps/rda 2.9 3.0: Web-based application for effective reporting writing
-www-apps/seafile-pro-server 9.0.11 9.0.12: Meta package for Seafile Pro Edition, file sync share solution
+www-apps/seafile-pro-server 9.0.13: Meta package for Seafile Pro Edition, file sync share solution
 www-apps/vulsrepo 20190412-r3: VulsRepo is visualized based on the json report output in vuls
 www-misc/firefox-bookmarks 0.3-r1: Firefox bookmarks for the Pento ISO only
 www-plugins/hackplugins-meta 20200428: Collection of browser's plugins for application security testing
