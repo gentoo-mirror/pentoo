@@ -328,11 +328,12 @@ dev-python/macholib 1.14: A package is a collection of utilities for dealing wit
 dev-python/magic-filter 1.0.8 1.0.9: Magic filter based on dynamic attribute getter
 dev-python/manuel 1.9.0: Manuel lets you build tested documentation
 dev-python/marshmallow-sqlalchemy 0.15.0 0.21.0: SQLAlchemy integration with the marshmallow (de)serialization library
+dev-python/masky 0.1.1: CLI allowing to remotely dump domain user credentials via an ADCS
 dev-python/matlink-gpapi 0.4.4.5: Unofficial python api for google play
 dev-python/maxminddb 1.5.2: A Python module for reading MaxMind DB files
 dev-python/mechanize 0.4.5: Stateful programmatic web browsing in Python
 dev-python/minidump 0.0.18 0.0.20 0.0.21: parse Windows minidump file format
-dev-python/minikerberos 0.2.14 0.2.20 0.3.1 0.3.2: Kerberos manipulation library in pure Python
+dev-python/minikerberos 0.3.1 0.3.2 0.3.3: Kerberos manipulation library in pure Python
 dev-python/mitm6 0.2.2: pwning IPv4 via IPv6
 dev-python/mockito 1.2.0: Spying framework based on Mockito java library
 dev-python/msldap 0.3.38 0.4.1: Python library to play with MS LDAP
@@ -607,7 +608,7 @@ net-analyzer/cisco-auditing-tool 1: Perl script which scans cisco routers for co
 net-analyzer/cisco-torch 0.4b: Cisco mass scanning, fingerprinting, and exploitation tool
 net-analyzer/commix 3.3 3.4: Automated All-in-One OS command injection and exploitation tool
 net-analyzer/cottontail 20190426-r1: Capture all RabbitMQ messages being sent through a broker
-net-analyzer/crackmapexec 5.2.2 5.3.0-r1: A swiss army knife for pentesting Windows/Active Directory environments
+net-analyzer/crackmapexec 5.2.2 5.3.0-r1 5.4.0: A swiss army knife for pentesting Windows/Active Directory environments
 net-analyzer/davtest 1.0: tests WebDAV enabled servers
 net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden content
 net-analyzer/dirble-bin 1.3.1 1.4.2: Fast directory scanning and scraping tool
