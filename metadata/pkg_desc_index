@@ -82,6 +82,7 @@ app-forensics/pdf-parser 0.7.5 0.7.6: This tool will parse a PDF document to ide
 app-forensics/pdfid 0.2.7 0.2.8: This tool will scan a PDF document looking for certain keyword
 app-forensics/pdfwalker 1.0.0-r1: A GTK frontend to explore the internals of a PDF document with Origami
 app-forensics/prochunter 20171111: Linux process hunter
+app-forensics/reglookup 1.0.1-r1 9999: An utility for reading and querying Windows NT/2K/XP registries
 app-forensics/s3tk 0.3.0 9999: A security toolkit for Amazon S3
 app-forensics/samhain 4.3.3 4.4.0: Advanced file integrity and intrusion detection tool.
 app-forensics/scap-security-guide 0.1.50 0.1.51: Security compliance content in SCAP, Bash, Ansible, and other formats
