@@ -324,7 +324,7 @@ dev-python/leather 0.3.3: Python charting for 80% of humans
 dev-python/libsast 1.4.1 1.4.4 1.4.5-r1 1.5.2: A generic SAST core built on top of semgrep and regex
 dev-python/limits 1.5.1: Rate limiting utilities
 dev-python/litecli 1.4.1-r1 1.5.0: CLI for SQLite Databases with auto-completion and syntax highlighting
-dev-python/lsassy 3.1.3 3.1.4: Python library to parse remote lsass dumps
+dev-python/lsassy 3.1.4 3.1.6: Python library to parse remote lsass dumps
 dev-python/macholib 1.14: A package is a collection of utilities for dealing with IP addresses
 dev-python/magic-filter 1.0.8 1.0.9: Magic filter based on dynamic attribute getter
 dev-python/manuel 1.9.0: Manuel lets you build tested documentation
@@ -607,7 +607,7 @@ net-analyzer/cameradar 5.0.1 5.0.2: Cameradar hacks its way into RTSP videosurve
 net-analyzer/capanalysis 1.2.3: A web visual tool for information security specialists
 net-analyzer/cisco-auditing-tool 1: Perl script which scans cisco routers for common vulnerabilities.
 net-analyzer/cisco-torch 0.4b: Cisco mass scanning, fingerprinting, and exploitation tool
-net-analyzer/commix 3.3 3.4: Automated All-in-One OS command injection and exploitation tool
+net-analyzer/commix 3.4 3.6: Automated All-in-One OS command injection and exploitation tool
 net-analyzer/cottontail 20190426-r1: Capture all RabbitMQ messages being sent through a broker
 net-analyzer/crackmapexec 5.2.2 5.3.0-r1 5.4.0: A swiss army knife for pentesting Windows/Active Directory environments
 net-analyzer/davtest 1.0: tests WebDAV enabled servers
