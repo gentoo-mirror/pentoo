@@ -5,11 +5,12 @@ DESCRIPTION=NVIDIA-maintained utilities to streamline mixed precision and distri
 EAPI=8
 HOMEPAGE=https://github.com/NVIDIA/apex
 INHERIT=distutils-r1
-IUSE=cuda python_targets_python3_10 python_targets_python3_11
+IUSE=cuda_ext python_targets_python3_10 python_targets_python3_11
 KEYWORDS=amd64 ~arm64 x86
 RDEPEND=>=dev-python/tqdm-4.28.1[python_targets_python3_10(-)?,python_targets_python3_11(-)?] >=dev-python/numpy-1.15.3[python_targets_python3_10(-)?,python_targets_python3_11(-)?] >=dev-python/pyyaml-5.1[python_targets_python3_10(-)?,python_targets_python3_11(-)?] python_targets_python3_10? ( >=dev-lang/python-3.10.4:3.10 ) python_targets_python3_11? ( >=dev-lang/python-3.11.0_beta4:3.11 )
 REQUIRED_USE=|| ( python_targets_python3_10 python_targets_python3_11 ) || ( python_targets_python3_10 python_targets_python3_11 )
+RESTRICT=test
 SLOT=0
 SRC_URI=https://github.com/NVIDIA/apex/archive/22.08-dev.tar.gz -> nvidia-apex-22.08-gh.tar.gz
 _eclasses_=multibuild	d26d81f242cb193d899a72bca423d0bd	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	b9fc5e97e886514e5132f50465185401	python-r1	2d51fd03931e743811ce30d198e4dcfd	distutils-r1	8c1ceb6b71a65547b0ea7bc901d906cb
-_md5_=8ccb6cd1687ac489b49da778884a480c
+_md5_=2969c64e76595509de3e061e41815a58
