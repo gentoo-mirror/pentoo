@@ -9,5 +9,5 @@ LICENSE=BSD
 RDEPEND=sci-electronics/litex[python_single_target_python3_10(-)?,python_single_target_python3_11(-)?] sci-electronics/migen[python_single_target_python3_10(-)?,python_single_target_python3_11(-)?] sci-electronics/litedram[python_single_target_python3_10(-)?,python_single_target_python3_11(-)?] sci-electronics/litepcie[python_single_target_python3_10(-)?,python_single_target_python3_11(-)?] sci-electronics/liteusb[python_single_target_python3_10(-)?,python_single_target_python3_11(-)?]
 SLOT=0
 SRC_URI=https://github.com/enjoy-digital/pcie_injector/archive/950e56b091504d45ad17ee46ccb4d3950c182d42.zip -> pcie_injector-20180527.zip
-_eclasses_=eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	eqawarn	c9847c43b3253a276ae2eabddedab3d7	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	b9fc5e97e886514e5132f50465185401	python-single-r1	a5747fe6dc0651d95cb78eddd5e160a8
+_eclasses_=eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	eqawarn	c9847c43b3253a276ae2eabddedab3d7	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	25c880c1db58e21b80b684bacc964958	python-single-r1	a5747fe6dc0651d95cb78eddd5e160a8
 _md5_=8f1e01e9b7ec228e3fc508ea1dff2c4c

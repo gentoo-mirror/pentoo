@@ -1,6 +1,6 @@
 BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=install unpack
-DEPEND=python_targets_python3_10? ( >=dev-lang/python-3.10.4:3.10[sqlite] ) python_targets_python3_11? ( >=dev-lang/python-3.11.0_beta4:3.11[sqlite] ) dev-python/pyasn1[python_targets_python3_10(-)?,python_targets_python3_11(-)?] dev-python/psutil[python_targets_python3_10(-)?,python_targets_python3_11(-)?]
+DEPEND=python_targets_python3_10? ( >=dev-lang/python-3.10.8_p3:3.10[sqlite] ) python_targets_python3_11? ( >=dev-lang/python-3.11.0_p2:3.11[sqlite] ) dev-python/pyasn1[python_targets_python3_10(-)?,python_targets_python3_11(-)?] dev-python/psutil[python_targets_python3_10(-)?,python_targets_python3_11(-)?]
 DESCRIPTION=Credentials recovery project
 EAPI=7
 HOMEPAGE=https://github.com/AlessandroZ/LaZagne
@@ -8,7 +8,7 @@ INHERIT=python-r1 git-r3
 IUSE=python_targets_python3_10 python_targets_python3_11
 LICENSE=LGPL-3 GPL-3 MIT
 PROPERTIES=live
-RDEPEND=python_targets_python3_10? ( >=dev-lang/python-3.10.4:3.10[sqlite] ) python_targets_python3_11? ( >=dev-lang/python-3.11.0_beta4:3.11[sqlite] ) dev-python/pyasn1[python_targets_python3_10(-)?,python_targets_python3_11(-)?] dev-python/psutil[python_targets_python3_10(-)?,python_targets_python3_11(-)?]
+RDEPEND=python_targets_python3_10? ( >=dev-lang/python-3.10.8_p3:3.10[sqlite] ) python_targets_python3_11? ( >=dev-lang/python-3.11.0_p2:3.11[sqlite] ) dev-python/pyasn1[python_targets_python3_10(-)?,python_targets_python3_11(-)?] dev-python/psutil[python_targets_python3_10(-)?,python_targets_python3_11(-)?]
 SLOT=0
-_eclasses_=multibuild	d26d81f242cb193d899a72bca423d0bd	eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	b9fc5e97e886514e5132f50465185401	python-r1	2d51fd03931e743811ce30d198e4dcfd	git-r3	2347f8fe2d392b2a091191f94be37e6f
+_eclasses_=multibuild	d26d81f242cb193d899a72bca423d0bd	eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	25c880c1db58e21b80b684bacc964958	python-r1	2d51fd03931e743811ce30d198e4dcfd	git-r3	2347f8fe2d392b2a091191f94be37e6f
 _md5_=9652fac671878220f947dac866e69cf9
