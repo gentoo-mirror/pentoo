@@ -50,7 +50,7 @@ app-exploits/packetstormexploits-meta 2021: Meta ebuild of packetstorm exploits
 app-exploits/powercat 20170805: Netcat: The powershell version
 app-exploits/proton 20200311: Windows post-exploitation framework using Windows Script Host
 app-exploits/pwntools 4.7.1 4.8.0: CTF framework and exploit development library
-app-exploits/pypykatz 0.5.7 0.6.2: Python implementation of Mimikatz
+app-exploits/pypykatz 0.6.2 0.6.3: Python implementation of Mimikatz
 app-exploits/routersploit 3.4.0-r1 9999: An open-source exploitation framework dedicated to embedded devices
 app-exploits/traitor 0.0.3 0.0.14: Automatically exploit low-hanging fruit to pop a root shell
 app-exploits/unix-privesc-check 20170904 99999999: Shell script to check for simple privilege escalation vectors
@@ -819,7 +819,7 @@ net-wireless/rx_tools 1.0.3-r1 9999: rx_fm, rx_power, and rx_sdr tools for recei
 net-wireless/scopy 9999: A software oscilloscope and signal analysis toolset
 net-wireless/sdrangel 7.7.0 7.8.1: SDR Rx/Tx software
 net-wireless/sdrpp 1.0.4 9999: a cross-platform SDR software with the aim of being bloat free and simple to use
-net-wireless/sdrtrunk 0.4.0-r1 0.5.0_beta5: Decode, monitor, record and stream trunked mobile and related radio protocols
+net-wireless/sdrtrunk 0.4.0-r1 0.5.0_beta5 0.5.0_beta6: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/sdrtrunk-bin 0.4.0-r1: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/signalhound-spike 3.5.9: Spectrum analyzer software for Signal Hound test equipment
 net-wireless/ska 0.2: Fake Shared Key Authentication
