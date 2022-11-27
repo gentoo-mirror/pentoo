@@ -8,9 +8,9 @@ INHERIT=distutils-r1
 IUSE=python_targets_python3_10 python_targets_python3_11
 KEYWORDS=amd64 ~arm64 x86
 LICENSE=wxWinLL-3.1
-RDEPEND=python_targets_python3_10? ( >=dev-lang/python-3.10.8_p3:3.10 ) python_targets_python3_11? ( >=dev-lang/python-3.11.0_p2:3.11 ) >=dev-python/setuptools-65.5.1[python_targets_python3_10(-)?,python_targets_python3_11(-)?]
+RDEPEND=dev-libs/frida-core python_targets_python3_10? ( >=dev-lang/python-3.10.8_p3:3.10 ) python_targets_python3_11? ( >=dev-lang/python-3.11.0_p2:3.11 ) >=dev-python/setuptools-65.5.1[python_targets_python3_10(-)?,python_targets_python3_11(-)?]
 REQUIRED_USE=|| ( python_targets_python3_10 python_targets_python3_11 )
 SLOT=0
-SRC_URI=mirror://pypi/f/frida/frida-15.2.0.tar.gz amd64? ( https://files.pythonhosted.org/packages/3.8/f/frida/frida-15.2.0-py3.8-linux-x86_64.egg ) x86? ( https://files.pythonhosted.org/packages/3.8/f/frida/frida-15.2.0-py3.8-linux-i686.egg ) arm64? ( https://files.pythonhosted.org/packages/3.6/f/frida/frida-15.2.0-py3.6-linux-aarch64.egg )
+SRC_URI=https://files.pythonhosted.org/packages/24/d0/b2c9bf9726a91a951d3f8acc71584444eff0e3eb39f1bc03c7b332eb5702/frida-16.0.4.tar.gz
 _eclasses_=multibuild	d26d81f242cb193d899a72bca423d0bd	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	ninja-utils	8ed38f92fe095be374d6c4c8d4c0dda7	toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	25c880c1db58e21b80b684bacc964958	python-r1	2d51fd03931e743811ce30d198e4dcfd	distutils-r1	da32ffc285e9f13313f2387570e35b87
-_md5_=3a357796f083664b35cd7d1585455042
+_md5_=4c91fac71c1fae09020385e7f2bcdb26
