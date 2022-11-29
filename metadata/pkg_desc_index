@@ -740,7 +740,7 @@ net-proxy/insomnia-bin 2022.5.1 2022.6.0: REST API client, a postman alternative
 net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal network via reverse connection
 net-proxy/proxenet-plugins 9999: Repository for proxenet plugins
 net-proxy/sshttp 0.35_p2-r1 0.35_p20191108: An easy to use OSI-Layer5 switching daemon
-net-proxy/zaproxy 2.11.0 2.11.1: The OWASP Zed Attack Proxy for finding vulnerabilities in web applications
+net-proxy/zaproxy 2.11.1 2.12.0: The OWASP Zed Attack Proxy for finding vulnerabilities in web applications
 net-vpn/kcptun 20200409 20200701: A Stable & Secure Tunnel Based On KCP with N:M Multiplexing
 net-vpn/kcptun-plugins 20190313: SIP003-compatible KCPTUN and UDP2RAW plugins for Shadowsocks
 net-vpn/tuntox 0.0.9 0.0.10 9999: Tunnel TCP connections over the Tox protocol
