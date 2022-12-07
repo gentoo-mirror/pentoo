@@ -58,7 +58,6 @@ app-exploits/webshells 20190713 99999999: Various webshells
 app-exploits/weevely 4.0.1 9999: Weevely is a stealth PHP web shell that simulate telnet-like console
 app-exploits/wesng 20200616 99999999: Windows Exploit Suggester - Next Generation
 app-forensics/bulk_extractor 1.6.0 2.0.0_beta3 9999: Scans a disk image for regular expressions and other content
-app-forensics/cortex 2.1.3 3.0.0: A powerful observable analysis and active response engine
 app-forensics/eagleeye 9999 20211020: Find people's social media profile using reverse image search
 app-forensics/fuxploider 1.0-r1 9999: File upload vulnerability scanner and exploitation tool
 app-forensics/guymager 0.8.12: Guymager is a fast and user friendly forensic imager.
@@ -89,7 +88,6 @@ app-forensics/scap-security-guide 0.1.50 0.1.51: Security compliance content in 
 app-forensics/spiderfoot 3.0-r1 3.5-r1: The most complete OSINT collection and reconnaissance tool
 app-forensics/stegoveritas 1.8: Automatic image steganography analysis tool
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
-app-forensics/thehive 3.4.3: A scalable 4-in-1 open source and free Security Incident Response Platform
 app-forensics/xmount 0.7.6: Convert on-the-fly between multiple input and output harddisk image types
 app-forensics/yara-rust 0.4.3: Rust bindings for VirusTotal/yara
 app-forensics/yaramod 3.6.0 3.7.2: Parsing of YARA rules into AST and building new rulesets in C++
@@ -746,7 +744,6 @@ net-proxy/sshttp 0.35_p2-r1 0.35_p20191108: An easy to use OSI-Layer5 switching 
 net-proxy/zaproxy 2.11.1 2.12.0: The OWASP Zed Attack Proxy for finding vulnerabilities in web applications
 net-vpn/kcptun 20200409 20200701: A Stable & Secure Tunnel Based On KCP with N:M Multiplexing
 net-vpn/kcptun-plugins 20190313: SIP003-compatible KCPTUN and UDP2RAW plugins for Shadowsocks
-net-vpn/tuntox 0.0.9 0.0.10 9999: Tunnel TCP connections over the Tox protocol
 net-vpn/udp2raw-tunnel 20200727.0 20200818.0 99999999: A tunnel which turns UDP traffic into encrypted FakeTCP/UDP/ICMP traffic
 net-wireless/airgeddon 11.10: bash script for Linux systems to audit wireless networks
 net-wireless/airspyhf 1.6.8 9999: User mode driver for Airspy HF+
