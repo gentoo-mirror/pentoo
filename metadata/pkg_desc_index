@@ -60,7 +60,6 @@ app-exploits/wesng 20200616 99999999: Windows Exploit Suggester - Next Generatio
 app-forensics/bulk_extractor 1.6.0 2.0.0_beta3 9999: Scans a disk image for regular expressions and other content
 app-forensics/eagleeye 9999 20211020: Find people's social media profile using reverse image search
 app-forensics/fuxploider 1.0-r1 9999: File upload vulnerability scanner and exploitation tool
-app-forensics/guymager 0.8.12: Guymager is a fast and user friendly forensic imager.
 app-forensics/inception 0.4.2: Firewire physical memory manipulation tool exploiting IEEE 1394 SBP-2 DMA
 app-forensics/kjackal 99999999: Linux Rootkit Scanner
 app-forensics/lazagne 2.4.3-r1 9999: Credentials recovery project
@@ -744,6 +743,7 @@ net-proxy/sshttp 0.35_p2-r1 0.35_p20191108: An easy to use OSI-Layer5 switching 
 net-proxy/zaproxy 2.11.1 2.12.0: The OWASP Zed Attack Proxy for finding vulnerabilities in web applications
 net-vpn/kcptun 20200409 20200701: A Stable & Secure Tunnel Based On KCP with N:M Multiplexing
 net-vpn/kcptun-plugins 20190313: SIP003-compatible KCPTUN and UDP2RAW plugins for Shadowsocks
+net-vpn/tuntox 0.0.10 9999: Tunnel TCP connections over the Tox protocol
 net-vpn/udp2raw-tunnel 20200727.0 20200818.0 99999999: A tunnel which turns UDP traffic into encrypted FakeTCP/UDP/ICMP traffic
 net-wireless/airgeddon 11.10: bash script for Linux systems to audit wireless networks
 net-wireless/airspyhf 1.6.8 9999: User mode driver for Airspy HF+
@@ -753,8 +753,6 @@ net-wireless/berate_ap 20190918 99999999: Script for orchestrating mana rogue Wi
 net-wireless/bladerf_adsb 9999: bladeRF ADS-B hardware decoder
 net-wireless/blue_hydra 1.9.16 9999: bluetooth discovery service built on top of bluez
 net-wireless/blue_sonar 0.3 9999: A simple wrapper for l2ping which shows rssi
-net-wireless/broadcom-firmware-downloader 0.1-r2 0.2: Closed Broadcom Commercial Firmware Downloader
-net-wireless/broadcom-firmware-installer 0.1-r3 0.2: Closed Broadcom Commercial Firmware Installer
 net-wireless/btle-sniffer 0.2_p20200129: Bluetooth radio packet sniffer/scanner and sender
 net-wireless/btscanner 2.1-r5: A utility for bluetooth scanning and discovery
 net-wireless/bully 1.1_p20170926 1.4: A wifi-protected-setup (WPS) brute force attack tool, similar to reaver
