@@ -168,7 +168,7 @@ dev-libs/libuna 20190102 20200711 20201204 20220611: Library to support Unicode 
 dev-libs/libvhdi 20201204 20210425: Library and tools to access the Virtual Hard Disk (VHD) image format
 dev-libs/libvmdk 20200926 20210418: Library and tools to access the VMware Virtual Disk (VMDK) format
 dev-libs/memprocfs 4.7 5.0: The Memory Process File System
-dev-libs/nanopb 0.4.6-r1: plain-C Protocol Buffers for embedded/memory-constrained systems
+dev-libs/nanopb 0.4.6-r1 0.4.7: plain-C Protocol Buffers for embedded/memory-constrained systems
 dev-libs/openssl-bad 1.0.2_p20190119 1.0.2_p20220901: Snapshot for testssl.sh >2.8 from PM's fork, ready to compile
 dev-libs/qbdi 0.7.1: A Dynamic Binary Instrumentation framework based on LLVM
 dev-libs/redasm-database 20190317 20210109: Database files (signatures) for REDasm
@@ -463,7 +463,7 @@ dev-python/yaswfp 0.9.3: Yet Another SWF Parser.
 dev-python/youtokentome 1.0.6: Unsupervised text tokenizer focused on computational efficiency
 dev-python/zap-api-python 0.0.15: OWASP ZAP Python API
 dev-python/zlib_wrapper 0.1.3: Wrapper around zlib with custom header crc32.
-dev-qt/qtserialport 5.15.5: Serial port abstraction library for the Qt5 framework
+dev-qt/qtserialport 5.15.7-r1: Serial port abstraction library for the Qt5 framework
 dev-ruby/active_model_serializers 0.10.12 0.10.13: Generate JSON in an object-oriented and convention-driven manner
 dev-ruby/activerecord-session_store 2.0.0: An Action Dispatch session store backed by an Active Record class
 dev-ruby/bootstrap 5.2.1 5.2.2: Bootstrap rubygem for Rails / Sprockets / Hanami / etc
