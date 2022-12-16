@@ -1,7 +1,8 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=compile install unpack
-DEPEND=net-wireless/b43-fwcutter sys-devel/flex >=dev-vcs/git-1.8.2.1[curl]
+DEPEND=net-wireless/b43-fwcutter sys-devel/flex
 DESCRIPTION=Tools for developers working on broadcom drivers/firmware
-EAPI=6
+EAPI=7
 HOMEPAGE=http://bues.ch/cms/hacking/misc.html#linux_b43_driver_firmware_tools
 INHERIT=git-r3
 IUSE=+assembler debug disassembler +ssb_sprom
@@ -10,4 +11,4 @@ PROPERTIES=live
 RDEPEND=net-wireless/b43-fwcutter
 SLOT=0
 _eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f
-_md5_=e60366543bcfd92f35c02067687c5815
+_md5_=dd425d83372c254b78b2150bce31e1ef

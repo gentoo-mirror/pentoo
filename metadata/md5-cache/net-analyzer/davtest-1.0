@@ -1,7 +1,7 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=install unpack
-DEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=tests WebDAV enabled servers
-EAPI=6
+EAPI=7
 HOMEPAGE=https://github.com/cldrn/davtest
 INHERIT=git-r3 multilib
 KEYWORDS=~x86 ~amd64
@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=virtual/perl-Getopt-Long dev-perl/HTTP-DAV
 SLOT=0
 _eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f	multilib	5ca4e49abed8e3a2f7b56920eadee157	toolchain-funcs	37a4612ce5522df5a100359a8dbc8491
-_md5_=3097aa0bf782fb757ada43cfcd047d63
+_md5_=e80a95f094b298b4927e702937e6ed21

@@ -1,6 +1,6 @@
 DEFINED_PHASES=install
 DESCRIPTION=HTTP fingerprinter tool
-EAPI=6
+EAPI=7
 HOMEPAGE=http://net-square.com/httprint.html
 IUSE=allsigs
 KEYWORDS=~x86 ~amd64
@@ -8,4 +8,4 @@ LICENSE=no-source-code
 RDEPEND=amd64? ( sys-libs/glibc[multilib] )
 SLOT=0
 SRC_URI=http://net-square.com/_assets/httprint_linux_301.zip
-_md5_=61bb0d00615852e262d20787507895d6
+_md5_=c38f4b04b0be2af0affc82e2459f590f
