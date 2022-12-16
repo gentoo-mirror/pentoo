@@ -8,4 +8,4 @@ LICENSE=GPL-3
 RDEPEND=virtual/jdk:17
 SLOT=0
 SRC_URI=https://github.com/DSheirer/sdrtrunk/archive/refs/tags/v0.5.0-beta.6.tar.gz -> sdrtrunk-0.5.0_beta6.tar.gz https://dev.pentoo.ch/~blshkv/distfiles/sdrtrunk-dependencies-20221127.tar.gz
-_md5_=62a8443d6bd1ae094b37d77632f021d2
+_md5_=9121fc52dd2396eaf47ddd3e09b6c6f8
