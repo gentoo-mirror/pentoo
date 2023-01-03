@@ -10,5 +10,5 @@ LICENSE=GPL-2
 RDEPEND=>=app-pda/libimobiledevice-1.2.0:= >=app-pda/libplist-1.8:= >=dev-libs/libzip-0.10
 SLOT=0
 SRC_URI=https://github.com/libimobiledevice/ideviceinstaller/archive/b37ce232a44e4e212f71d3792cbd3d86e2f9ac33.zip -> ideviceinstaller-1.1.0_p20190928.zip
-_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	37a4612ce5522df5a100359a8dbc8491	multilib	5ca4e49abed8e3a2f7b56920eadee157	libtool	241a8f577b9781a42a7421e53448a44e	autotools	6dcd6b6a486e79928e1243ff9ba41fcc
+_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	ec8bbc28394c7305b43ea07164bd8f5f	multilib	5ca4e49abed8e3a2f7b56920eadee157	libtool	241a8f577b9781a42a7421e53448a44e	autotools	6dcd6b6a486e79928e1243ff9ba41fcc
 _md5_=58bfec25431326c31f255a48e0c90b3f
