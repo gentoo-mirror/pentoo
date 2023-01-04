@@ -812,7 +812,7 @@ net-wireless/qspectrumanalyzer 2.2.0 9999: vendor and platform neutral SDR suppo
 net-wireless/reaver-wps-fork-t6x 1.6.5-r1 1.6.6: Utilise Pixie Dust Attack to find the correct WPS PIN.
 net-wireless/rfcat 1.9.5-r1: The swiss army knife of subGHz
 net-wireless/rtl8812au 4.2.5 4.3.1.4 4.3.14_p20190827 5.2.9_p20180327 5.6.4.2_p20200318 5.6.4.2_p20200703: Linux kernel driver for rtl8812au USB WiFi chipsets
-net-wireless/rtl8812au_aircrack-ng 5.6.4.2_p20220826 9999: RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection
+net-wireless/rtl8812au_aircrack-ng 5.6.4.2_p20221222 9999: RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection
 net-wireless/rtl8822bu 5.3.1_p20190920 5.8.7.4_p20210626 9999: RTL88x2BU driver with monitor mode and frame injection
 net-wireless/rtl_power_fftw 0.0_p20200601 9999: power spectrum for RTLSDR dongles
 net-wireless/rx_tools 1.0.3-r1 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
@@ -838,7 +838,7 @@ pentoo/pentoo-cinnamon 2020.1: Pentoo cinnamon meta ebuild
 pentoo/pentoo-core 2022.2-r3: Pentoo minimum core requirements
 pentoo/pentoo-cracking 2022.2: Pentoo cracking meta ebuild
 pentoo/pentoo-database 2022.2: Pentoo database attack meta ebuild
-pentoo/pentoo-desktop 2022.3: Pentoo meta ebuild to install all X and WM/DE related things
+pentoo/pentoo-desktop 2023.0: Pentoo meta ebuild to install all X and WM/DE related things
 pentoo/pentoo-exploit 2022.2: Pentoo exploit meta ebuild
 pentoo/pentoo-footprint 2022.2: Pentoo footprint meta ebuild
 pentoo/pentoo-forensics 2022.2: Pentoo forensics meta ebuild
