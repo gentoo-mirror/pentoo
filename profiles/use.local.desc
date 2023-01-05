@@ -90,6 +90,10 @@ app-fuzz/protos-bin:isakmp - Include ISAKMP
 app-fuzz/protos-bin:ldap - Include LDAP
 app-fuzz/protos-bin:sip - Include SIP
 app-fuzz/protos-bin:snmp - Include SNMP
+app-misc/far2l:nfs - Enable nfs support
+app-misc/far2l:ssh - Enable ssh support
+app-misc/far2l:uchardet - Enable encoding detector library
+app-misc/far2l:webdav - Enable webdav support
 app-misc/freediag:gui - Enable scangui using x11-libs/fltk library
 app-misc/mat2:dolphin - Enable dolphin extension
 app-misc/mat2:nautilus - Enable nautilus extension
