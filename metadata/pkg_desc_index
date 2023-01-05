@@ -903,4 +903,3 @@ www-apps/vulsrepo 20190412-r3: VulsRepo is visualized based on the json report o
 www-misc/firefox-bookmarks 0.3-r1: Firefox bookmarks for the Pento ISO only
 www-plugins/hackplugins-meta 20200428: Collection of browser's plugins for application security testing
 x11-libs/qwt-multiaxes 9999: 2D plotting library for Qt5
-xfce-extra/xfce4-sensors-plugin 1.3.95: A panel plug-in for acpi, lm-sensors and hddtemp sensors
