@@ -149,6 +149,7 @@ net-wireless/fern-wifi-cracker:dict - Add support sys-apps/cracklib-words (large
 net-wireless/gr-air-modes:fgfs - Support FlightGear
 net-wireless/gr-air-modes:rtlsdr - Build with Realtek RTL2832U (rtlsdr) support
 net-wireless/gr-air-modes:uhd - Build with Ettus Research USRP Hardware Driver support
+net-wireless/hcxdumptool:gpio - Turns Raspberry Pi off via GPIO switch
 net-wireless/hostapd:crda - Add CRDA support
 net-wireless/hostapd:internal-tls - Use internal TLSv1 implementation instead of depending on OpenSSL, LibreSSL or GnuTLS
 net-wireless/hostapd:logwatch - Install support files for sys-apps/logwatch
