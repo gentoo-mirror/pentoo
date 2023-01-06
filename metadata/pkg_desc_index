@@ -883,6 +883,7 @@ sys-fs/sasquatch 20210325: The sasquatch project is a set of patches to the stan
 sys-fs/static-dev 0.1: A skeleton, statically managed /dev
 sys-fs/yaffshiv 20160105 99999999: YAFFS filesystem extraction tool
 sys-kernel/chromeos-sources 9999: Linux kernel source for the Samsung Chromebook
+sys-kernel/compat-drivers 5.10.34: Stable kernel pre-release wifi subsystem backport
 sys-kernel/fragattacks-drivers58 20210507: Wi-Fi fragmentation and aggregation vulnerability tests
 sys-kernel/ft60x_driver 20180209 20190318: USB FT60x driver
 sys-kernel/kconfig-hardened-check 0.5.10 0.5.14 0.5.17 9999: A script for checking the hardening options in the Linux kernel config
