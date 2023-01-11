@@ -870,7 +870,7 @@ sci-electronics/liteusb 20180301: Small footprint and configurable USB core
 sci-electronics/litex 2022.04 20180718: Information gathering tool designed for extracting metadata of public documents
 sci-electronics/migen 0.7: A Python toolbox for building complex digital hardware
 sci-electronics/pcie_injector 20180527: Information gathering tool designed for extracting metadata of public documents
-sys-apps/fchroot 0.1.2: Funtoo's franken-chroot tool
+sys-apps/fchroot 1.0.0: Funtoo's franken-chroot tool
 sys-apps/magic-pax 0.0.1: 
 sys-devel/autofdo 0.18 0.19 9999: System to simplify real-world deployment of feedback-directed optimization
 sys-devel/gcc-arm-none-eabi 10.3_p202110 12.2_p1: GNU Arm Embedded Toolchain
