@@ -1,13 +1,13 @@
 BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=install setup unpack
-DEPEND=net-analyzer/wireshark || ( >=dev-lang/python-3.10.9:3.10 >=dev-lang/python-3.9.16:3.9 >=dev-lang/python-3.8.16:3.8 )
+DEPEND=net-analyzer/wireshark || ( >=dev-lang/python-3.10.9:3.10 >=dev-lang/python-3.9.16:3.9 )
 DESCRIPTION=nRF-based 802.15.4 sniffer
 EAPI=8
 HOMEPAGE=https://github.com/NordicSemiconductor/nRF-Sniffer-for-802.15.4
 INHERIT=python-any-r1 git-r3
 LICENSE=Nordic-5
 PROPERTIES=live
-RDEPEND=net-analyzer/wireshark || ( >=dev-lang/python-3.10.9:3.10 >=dev-lang/python-3.9.16:3.9 >=dev-lang/python-3.8.16:3.8 ) || ( ( >=dev-lang/python-3.10.9:3.10 dev-python/pyserial[python_targets_python3_10(-)] ) ( >=dev-lang/python-3.9.16:3.9 dev-python/pyserial[python_targets_python3_9(-)] ) ( >=dev-lang/python-3.8.16:3.8 dev-python/pyserial[python_targets_python3_8(-)] ) )
+RDEPEND=net-analyzer/wireshark || ( >=dev-lang/python-3.10.9:3.10 >=dev-lang/python-3.9.16:3.9 ) || ( ( >=dev-lang/python-3.10.9:3.10 dev-python/pyserial[python_targets_python3_10(-)] ) ( >=dev-lang/python-3.9.16:3.9 dev-python/pyserial[python_targets_python3_9(-)] ) )
 SLOT=0
-_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	ec8bbc28394c7305b43ea07164bd8f5f	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	7870d60e8b98856ef02d33397fd5ec0f	python-any-r1	d2955aaac8daaaa69fcc6dc93ed19f29	git-r3	2347f8fe2d392b2a091191f94be37e6f
+_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	ec8bbc28394c7305b43ea07164bd8f5f	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	a1a985ddd8795a8634b4b7f820b93143	python-any-r1	d2955aaac8daaaa69fcc6dc93ed19f29	git-r3	2347f8fe2d392b2a091191f94be37e6f
 _md5_=13a40a1e22d615c99bf4e2c2b92045bd
