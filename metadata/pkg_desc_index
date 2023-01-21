@@ -775,7 +775,7 @@ net-wireless/gr-dsd 9999: GNU Radio block for Digital Speech Decoder
 net-wireless/gr-gsm 20210505-r1: Set of tools for receiving information transmitted by GSM equipment/devices
 net-wireless/gr-ham 20200511: 
 net-wireless/gr-m2k 9999: A C++ library for interfacing with the ADALM2000
-net-wireless/gr-mixalot 0.0_p2020902 9999: a set of GNU Radio blocks/utilities to encode pager messages
+net-wireless/gr-mixalot 0.0_p20230121 9999: a set of GNU Radio blocks/utilities to encode pager messages
 net-wireless/grimwepa 1.10_p5-r101 1.10_p6: A password cracker for both WEP and WPA-encrypted access points
 net-wireless/hackrf-firmware 9999: Hardware designs and software for HackRF
 net-wireless/hcxdumptool 6.2.0 6.2.7: Small tool to capture packets from wlan devices
@@ -859,7 +859,7 @@ pentoo/pentoo-scanner 2022.2: Pentoo scanner meta ebuild
 pentoo/pentoo-system 2022.0: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2022.2: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2022.2: Pentoo wireless meta ebuild
-pentoo/rfctf-client 2023.0: Packages needed to power the client and SDR devices for RFCTF events
+pentoo/rfctf-client 2023.0-r1: Packages needed to power the client and SDR devices for RFCTF events
 pentoo/tribe 2012.0: Tribe meta ebuild
 pentoo/zero-system 2023.0-r1: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
 sci-electronics/litedram 20180514: Small footprint and configurable DRAM core
