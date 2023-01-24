@@ -579,6 +579,7 @@ dev-util/kaleido-bin 0.2.1: Static image export for web-based visualization libr
 dev-util/lief 0.12.2 0.12.3: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
 dev-util/mobsf 3.4.6 3.5.0 3.6.0: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
+dev-util/nvidia-cuda-toolkit 11.7.0-r5: NVIDIA CUDA Toolkit (compiler and friends)
 dev-util/objection 1.10.2 1.11.0-r1: Runtime mobile exploration
 dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIPS
 dev-util/qark 0.9_pre20190405: A tool to look for Android application vulnerabilities
