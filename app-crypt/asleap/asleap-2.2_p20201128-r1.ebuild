@@ -1,4 +1,4 @@
-# Copyright 1999-2021 Gentoo Authors
+# Copyright 1999-2023 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=7
@@ -16,9 +16,7 @@ LICENSE="GPL-2"
 SLOT="0"
 IUSE=""
 
-RDEPEND="dev-libs/openssl
-	net-libs/libpcap"
-#	=sys-libs/libxcrypt-2.4*"
+RDEPEND="net-libs/libpcap"
 
 DEPEND="${RDEPEND}"
 
@@ -28,13 +26,11 @@ src_prepare() {
 
 	eapply "${FILESDIR}/7.patch"
 
-	sed -e "s/-pipe//;s/-Wall//;s/-g3 -ggdb -g/${CFLAGS}/" \
+	sed -e "s/-pipe//;s/-Wall//;s/-g3 -Og/${CFLAGS} ${LDFLAGS}/" \
 		-i Makefile || die
 
 	sed -e "s/#define VER \"\(.*\)\"/#define VER \"${PV}\"/" \
 		-i version.h || die
-
-	sed -e 's#CFLAGS    =#CFLAGS    +=#' -i Makefile || die
 
 	default
 }
