@@ -1,10 +1,10 @@
 DEFINED_PHASES=install
 DEPEND=app-arch/p7zip
 DESCRIPTION=Raft wordlists
-EAPI=7
+EAPI=8
 HOMEPAGE=http://code.google.com/p/raft/
-KEYWORDS=alpha amd64 hppa ppc ppc64 sparc x86
+KEYWORDS=alpha amd64 ~hppa ppc ppc64 sparc x86
 LICENSE=GPL-3
 SLOT=0
 SRC_URI=https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/raft/raft-wordlists-20110803.7z
-_md5_=61f287714c812c0af537f0c4caa4513b
+_md5_=0a9a3bd63e91de9e3d94e392fcdc79cd

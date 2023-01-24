@@ -3,8 +3,6 @@
 # * generated automatically using pmaint *
 
 app-antivirus/veil:tools - Install extra tools
-app-crypt/cryptohaze-combined:grt - Build GRT utilities
-app-crypt/cryptohaze-combined:multiforcer - Enable multiforcer build stuff
 app-exploits/empire:powershell - Enable a PowerShell Windows agent
 app-exploits/packetstormexploits:1999 - Use 1999 archivers
 app-exploits/packetstormexploits:2000 - Use 2000 archivers
