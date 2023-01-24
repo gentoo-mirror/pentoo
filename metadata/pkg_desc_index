@@ -346,7 +346,7 @@ dev-python/normality 2.1.1: A small set of text normalization functions
 dev-python/nplusone 1.0.0: Detecting the n+1 queries problem in Python
 dev-python/nvidia-apex 22.12-r1: NVIDIA-maintained utilities to streamline mixed precision and distributed training in Pytorch
 dev-python/nvidia-apex-bin 22.8: NVIDIA-maintained utilities to streamline mixed precision and distributed training in Pytorch
-dev-python/openai 0.25.0 0.26.1: Python client library for the OpenAI API
+dev-python/openai 0.25.0 0.26.2: Python client library for the OpenAI API
 dev-python/openstep_parser 1.5.3: OpenStep plist reader into python objects
 dev-python/orjson-bin 3.5.4: Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 dev-python/oscrypto 1.2.1 1.3.0: TLS sockets, key generation, encryption, decryption, signing, verification
