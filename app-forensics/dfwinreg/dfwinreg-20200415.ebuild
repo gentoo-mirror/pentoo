@@ -1,4 +1,4 @@
-# Copyright 1999-2020 Gentoo Authors
+# Copyright 1999-2022 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=8
@@ -8,9 +8,9 @@ PYTHON_COMPAT=( python3_{10..11} )
 
 inherit distutils-r1
 
-DESCRIPTION="Digital Forensics Artifact Repository"
-HOMEPAGE="https://github.com/ForensicArtifacts/artifacts"
-SRC_URI="https://github.com/ForensicArtifacts/artifacts/archive/${PV}.tar.gz -> ${P}.tar.gz"
+DESCRIPTION="Digital Forensics Windows Registry (dfWinReg)"
+HOMEPAGE="https://github.com/log2timeline/dfwinreg"
+SRC_URI="mirror://pypi/${P:0:1}/${PN}/${P}.tar.gz"
 
 LICENSE="Apache-2.0"
 SLOT="0"
@@ -22,6 +22,11 @@ RESTRICT="!test? ( test )"
 DEPEND="
 	>=dev-python/pip-7.0[${PYTHON_USEDEP}]
 	>=dev-python/pyyaml-3.10[${PYTHON_USEDEP}]
+	>=dev-python/dfdatetime-20160814
+	>=dev-python/dtfabric-20170524
+	>=dev-libs/libcreg-20210502[python]
+	>=app-forensics/libregf-20201002[python]
+	>=dev-python/pyxattr-0.7.2[${PYTHON_USEDEP}]
 	${PYTHON_DEPS}
 	test? (
 		>=dev-python/mock-2.0.0[${PYTHON_USEDEP}]
@@ -32,7 +37,7 @@ DEPEND="
 RDEPEND="${DEPEND}"
 
 src_prepare() {
-	# already fixed in upstream master
+	# provisionary fix for https://github.com/log2timeline/dfwinreg/issues/201
 	eapply "${FILESDIR}/${PN}"_setup_cfg_license_param.patch
 	default
 }
