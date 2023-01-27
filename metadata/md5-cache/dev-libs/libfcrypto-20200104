@@ -1,0 +1,15 @@
+BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.5:1.16 ) >=sys-devel/autoconf-2.71-r5 >=sys-devel/libtool-2.4.7
+DEFINED_PHASES=configure install prepare
+DEPEND=nls? ( virtual/libiconv virtual/libintl ) dev-libs/libcerror[nls=]
+DESCRIPTION=Library for encryption formats
+EAPI=8
+HOMEPAGE=https://github.com/libyal/libfcrypto
+INHERIT=autotools
+IUSE=nls
+KEYWORDS=amd64 ~arm64 x86
+LICENSE=LGPL-3
+RDEPEND=nls? ( virtual/libiconv virtual/libintl ) dev-libs/libcerror[nls=]
+SLOT=0
+SRC_URI=https://github.com/libyal/libfcrypto/releases/download/20200104/libfcrypto-alpha-20200104.tar.gz
+_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	ec8bbc28394c7305b43ea07164bd8f5f	multilib	5ca4e49abed8e3a2f7b56920eadee157	libtool	241a8f577b9781a42a7421e53448a44e	autotools	6dcd6b6a486e79928e1243ff9ba41fcc
+_md5_=60b437664c42320c0f16b40bc827ac2a

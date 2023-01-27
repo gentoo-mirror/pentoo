@@ -64,10 +64,41 @@ app-forensics/fuxploider 1.0-r1 9999: File upload vulnerability scanner and expl
 app-forensics/inception 0.4.2: Firewire physical memory manipulation tool exploiting IEEE 1394 SBP-2 DMA
 app-forensics/kjackal 99999999: Linux Rootkit Scanner
 app-forensics/lazagne 2.4.3-r1 9999: Credentials recovery project
-app-forensics/libbfio 20191230 20201229 20221025: Library for providing a basic file input/output abstraction layer
+app-forensics/libbde 20220807 20221031: Library and tools to access BitLocker Drive Encryption (BDE) encrypted volumes
+app-forensics/libbfio 20220120 20221025: Library for providing a basic file input/output abstraction layer
+app-forensics/libesedb 20210424 20220806: Library and tools to access the Extensible Storage Engine Database File format.
+app-forensics/libevt 20210424 20221022: Library and tools to access the Windows Event Log (EVT) format
+app-forensics/libevtx 20220724 20221101: Library and tools to access the Windows XML Event Log (EVTX) format
+app-forensics/libewf 20201210 20201230: Libewf is a library to access the Expert Witness Compression Format (EWF)
+app-forensics/libexe 20210424 20221023: Library and tools to access the executable (EXE) format
 app-forensics/libforensic1394 0.2-r1 9999: Library for carrying out memory forensics using firewire/ieee1394
-app-forensics/libscca 20221027: Library and tools to access the Windows Prefetch File (SCCA) format
-app-forensics/libvshadow 20191221 20201222 20210425 20221030: Library and tools to support the Volume Shadow Snapshot (VSS) format.
+app-forensics/libfsapfs 20220709 20221102: Library and tools to access the Apple File System (APFS)
+app-forensics/libfsclfs 20170206: Library and tools to access the Common Log File System (CLFS)
+app-forensics/libfsext 20220822 20220829: Library and tools to access the Extended File System
+app-forensics/libfsfat 20220816 20220925: Library and tools to access the File Allocation Table (FAT) file system
+app-forensics/libfshfs 20220709 20220831: Library and tools to access the Mac OS Hierarchical File System (HFS)
+app-forensics/libfsntfs 20220220 20221023: Library and tools to access the Windows New Technology File System (NTFS)
+app-forensics/libfsxfs 20220706 20220829: Library and tools to access the SGI X File System (XFS)
+app-forensics/libfvde 20220807 20220915: Library and tools to access FileVault Drive Encryption (FVDE) encrypted volumes
+app-forensics/liblnk 20210417 20221023: Library and tools to access the Windows Shortcut File (LNK) format
+app-forensics/libluksde 20220807 20221103: Library and tools to access LUKS Disk Encryption encrypted volumes
+app-forensics/libmodi 20210807 20221023: Library and tools to access the Mac OS disk image formats
+app-forensics/libmsiecf 20210420 20221024: Library and tools to access the Microsoft Internet Explorer (MSIE) Cache Files
+app-forensics/libnk2 20161118 20170127: Library and tools to access the Microsoft Outlook Nickfile (NK2) format
+app-forensics/libnsfdb 20160324 20170128: Library and tools to access the Notes Storage Facility (NSF) file format
+app-forensics/libodraw 20190118 20201003: Library and tools to access to optical disc (split) RAW image files
+app-forensics/libolecf 20210512 20221024: Library and tools to access the OLE 2 Compound File (OLECF) format
+app-forensics/libpff 20180714 20211114: Library and tools to access the Personal/Offline Folder File (PFF/OFF) format
+app-forensics/libphdi 20220301 20221025: Library and tools to access the Parallels Hard Disk image format
+app-forensics/libqcow 20210419 20221026: Library and tools to access the QEMU Copy-On-Write (QCOW) image format
+app-forensics/libregf 20220131 20221026: Library and tools to access the Windows NT Registry File (REGF) format
+app-forensics/libscca 20210419 20221027: Library and tools to access the Windows Prefetch File (SCCA) format.
+app-forensics/libsmraw 20210807 20221028: Library and tools to access the (split) RAW image format
+app-forensics/libvsgpt 20211115 20221029: Library and tools to access the GUID Partition Table (GPT) volume system format
+app-forensics/libvshadow 20211114 20221030: Library and tools to access the Volume Shadow Snapshot (VSS) format
+app-forensics/libvslvm 20210807 20221025: Library and tools to access the Linux Logical Volume Manager (LVM) format
+app-forensics/libvsmbr 20180317 20180325: Library and tools to access the Master Boot Record (MBR) volume system format
+app-forensics/libwtcdb 20170201: Library and tools to access the Windows thumbnail cache (thumbcache.db)
 app-forensics/make-pdf 0.1.7-r1: This tool will embed javascript inside a PDF document
 app-forensics/maltego 4.2.18.13878: Visualise, map and mine data
 app-forensics/mxtract 1.1: A memory extractor & analyzer
@@ -81,6 +112,7 @@ app-forensics/pdf-parser 0.7.5 0.7.6: This tool will parse a PDF document to ide
 app-forensics/pdfid 0.2.7 0.2.8: This tool will scan a PDF document looking for certain keyword
 app-forensics/pdfwalker 1.0.0-r1: A GTK frontend to explore the internals of a PDF document with Origami
 app-forensics/prochunter 20171111: Linux process hunter
+app-forensics/pytsk 20210801 20211111: Python bindings for The Sleuth Kit (libtsk)
 app-forensics/reglookup 1.0.1-r1 9999: An utility for reading and querying Windows NT/2K/XP registries
 app-forensics/s3tk 0.3.0 9999: A security toolkit for Amazon S3
 app-forensics/samhain 4.3.3 4.4.0: Advanced file integrity and intrusion detection tool.
@@ -152,24 +184,38 @@ dev-libs/libcfile 20200216 20201229: Library for cross-platform C file functions
 dev-libs/libclocale 20200428 20200913 20210526: Library for cross-platform C locale functions
 dev-libs/libcnotify 20200913 20220108: Library for cross-platform C notification functions
 dev-libs/libcpath 20171210 20180720 20181228 20200623: Library for cross-platform C path functions
+dev-libs/libcreg 20210625 20221022: Library and tools to access the Windows 9x/Me Registry File (CREG) format
 dev-libs/libcsplit 20190102 20200703: Library for cross-platform C split string functions
 dev-libs/libcstring 20150101: Library for cross-platform C string functions
 dev-libs/libcsystem 20150629: Library for cross-platform C locale functions
 dev-libs/libcthreads 20211115 20220102: Library for cross-platform C threads functions
 dev-libs/libdwarf 0.4.1: The DWARF Debugging Information Format
 dev-libs/libfcache 20181011 20200708: Library for cross-platform C cache functions
+dev-libs/libfcrypto 20191231 20200104: Library for encryption formats
 dev-libs/libfdata 20200728 20201129 20220111: Library for cross-platform C file data functions
 dev-libs/libfdatetime 20180910: Library for date and time formats
 dev-libs/libfguid 20180219 20180724: Library for GUID/UUID format
 dev-libs/libfmapi 20170112 20180714: Library for MAPI data types
+dev-libs/libfmos 20220811: Library for Mac OS data types
 dev-libs/libfole 20170502 20220115: Library for Object Linking and Embedding (OLE) data types
+dev-libs/libfplist 20210404 20220116: Library for plist format
+dev-libs/libftxf 20180815 20220116: Library for Transactional NTFS (TxF) data types
+dev-libs/libftxr 20180815 20220118: Library for Transactional Registry (TxR) data types
+dev-libs/libfusn 20180726 20220119: Library for Update Sequence Number (USN) Journal data types
 dev-libs/libfvalue 20200711 20200902 20220120: Library for generic file value functions
+dev-libs/libfwevt 20220723 20220925: Library for Windows XML Event Log (EVTX) data types
 dev-libs/libfwnt 20200723 20210421 20220922: Library for Windows NT data types
 dev-libs/libfwps 20191221 20220122: Library for Windows Property Store data types
+dev-libs/libfwsi 20220123 20220927: Library to access the Windows Shell Item format
 dev-libs/libguytools2 2.1.0: Library for guymager
+dev-libs/libhmac 20200104 20220425: Library to support various Hash-based Message Authentication Codes (HMAC)
+dev-libs/libmapidb 20170125 20170304: Library to access the Exchange MAPI database format
+dev-libs/libsigscan 20220124 20221027: Library for binary signature scanning.
+dev-libs/libsmdev 20210418 20221028: Library to access to storage media devices
 dev-libs/libuna 20190102 20200711 20201204 20220611: Library to support Unicode and ASCII (byte string) conversions
 dev-libs/libvhdi 20201204 20210425: Library and tools to access the Virtual Hard Disk (VHD) image format
-dev-libs/libvmdk 20200926 20210418: Library and tools to access the VMware Virtual Disk (VMDK) format
+dev-libs/libvmdk 20210807 20221022: Library and tools to access the VMware Virtual Disk (VMDK) format
+dev-libs/libwrc 20220720 20221009: Library to access the Windows Resource Compiler (WRC) format
 dev-libs/memprocfs 4.7 5.0: The Memory Process File System
 dev-libs/nanopb 0.4.6-r1 0.4.7: plain-C Protocol Buffers for embedded/memory-constrained systems
 dev-libs/openssl-bad 1.0.2_p20220901-r1: Snapshot for testssl.sh >2.8 from PM's fork, ready to compile
@@ -245,6 +291,7 @@ dev-python/databases 0.4.3: Async database support for Python.
 dev-python/dataset 1.3.2: Easy-to-use data handling for SQL data stores
 dev-python/dbfread 2.0.7-r1: Read DBF Files with Python
 dev-python/delegator 0.1.1-r1: Subprocesses for Humans 2.0
+dev-python/dfdatetime 20210509 20211228 20220131 20220728 20220810 20220925 20221112: Digital Forensics date and time
 dev-python/dhcplib 0.1.1: Pure-Python, spec-compliant DHCP-packet-processing library
 dev-python/django-constance-haiwen 20180515: Django live settings with pluggable backends, including Redis
 dev-python/django-formtools 2.1: A set of high-level abstractions for Django forms
@@ -262,6 +309,7 @@ dev-python/donut-shellcode 0.9.2: Donut Python C extension
 dev-python/dotty 1.5: EFILTER query language
 dev-python/dropbox-sdk 10.1.1: A Python SDK for integrating with the Dropbox API v2.
 dev-python/dsinternals 1.2.4: Directory Services Internals Library
+dev-python/dtfabric 20210731 20220124 20220219: YAML-based definition language to specify format and data types
 dev-python/easygui 0.98.1 0.98.3: A module for very simple, very easy GUI programming in Python
 dev-python/entropy 0.1.5: entropy is a command line friend that helps you reduce entropy in your life
 dev-python/eventlet 0.33.0: Highly concurrent networking library
@@ -899,6 +947,7 @@ sys-kernel/pentoo-sources 5.15.87 6.1.8: Pentoo kernel sources (kernel series 6.
 sys-kernel/pf_ring-kmod 7.0.0 7.8.0_p20210421: High-speed packet processing framework (kernel modules for)
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
 sys-power/acpid 2.0.33: Daemon for Advanced Configuration and Power Interface
+virtual/libyal-tools 0: Virtual for all command line forensics tools provided by libyal
 virtual/linux-sources 3-r108: Virtual for Linux kernel sources
 www-apps/BloodHound 4.1.1 4.2.0: Six Degrees of Domain Admin
 www-apps/Tiredful-API 9999: An intentionally designed broken web application based on REST API

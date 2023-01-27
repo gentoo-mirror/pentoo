@@ -1,0 +1,15 @@
+BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.5:1.16 ) >=sys-devel/autoconf-2.71-r5 >=sys-devel/libtool-2.4.7
+DEFINED_PHASES=configure install prepare
+DEPEND=nls? ( virtual/libiconv virtual/libintl ) dev-libs/libcerror[nls=] dev-libs/libcfile[nls=,unicode=] dev-libs/libclocale[nls=,unicode=] dev-libs/libcnotify[nls=] dev-libs/libcpath[nls=,unicode=] dev-libs/libcsplit[nls=,unicode=] dev-libs/libcthreads[nls=] dev-libs/libuna[nls=,unicode=]
+DESCRIPTION=Library to support various Hash-based Message Authentication Codes (HMAC)
+EAPI=8
+HOMEPAGE=https://github.com/libyal/libhmac
+INHERIT=autotools
+IUSE=nls unicode +threads
+KEYWORDS=amd64 ~arm64 x86
+LICENSE=LGPL-3
+RDEPEND=nls? ( virtual/libiconv virtual/libintl ) dev-libs/libcerror[nls=] dev-libs/libcfile[nls=,unicode=] dev-libs/libclocale[nls=,unicode=] dev-libs/libcnotify[nls=] dev-libs/libcpath[nls=,unicode=] dev-libs/libcsplit[nls=,unicode=] dev-libs/libcthreads[nls=] dev-libs/libuna[nls=,unicode=]
+SLOT=0
+SRC_URI=https://github.com/libyal/libhmac/releases/download/20220425/libhmac-alpha-20220425.tar.gz
+_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	ec8bbc28394c7305b43ea07164bd8f5f	multilib	5ca4e49abed8e3a2f7b56920eadee157	libtool	241a8f577b9781a42a7421e53448a44e	autotools	6dcd6b6a486e79928e1243ff9ba41fcc
+_md5_=1577264ff16e862a2d8b6db6c3db5693

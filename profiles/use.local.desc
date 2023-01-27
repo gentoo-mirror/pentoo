@@ -32,6 +32,24 @@ app-forensics/bulk_extractor:ewf - Add app-forensics/libewf support
 app-forensics/bulk_extractor:exiv2 - Add media-gfx/exiv2 support
 app-forensics/bulk_extractor:hashdb - Enable the hashdb scanner
 app-forensics/bulk_extractor:rar - Enable RAR decompression
+app-forensics/libbde:fuse - Enable FUSE support
+app-forensics/libewf:fuse - Enable FUSE support
+app-forensics/libfsapfs:fuse - Enable FUSE support
+app-forensics/libfsext:fuse - Enable FUSE support
+app-forensics/libfsfat:fuse - Enable FUSE support
+app-forensics/libfshfs:fuse - Enable FUSE support
+app-forensics/libfsntfs:fuse - Enable FUSE support
+app-forensics/libfsxfs:fuse - Enable FUSE support
+app-forensics/libfvde:fuse - Enable FUSE support
+app-forensics/libluksde:fuse - Enable FUSE support
+app-forensics/libmodi:fuse - Enable FUSE support
+app-forensics/libolecf:fuse - Enable FUSE support
+app-forensics/libphdi:fuse - Enable FUSE support
+app-forensics/libqcow:fuse - Enable FUSE support
+app-forensics/libregf:fuse - Enable FUSE support
+app-forensics/libsmraw:fuse - Enable FUSE support
+app-forensics/libvshadow:fuse - Enable FUSE support
+app-forensics/libvslvm:fuse - Enable FUSE support
 app-forensics/openscap:chroot - Scan entire chroots using offline scanning
 app-forensics/openscap:docker - Enables the oscap-docker utility
 app-forensics/openscap:gconf - Build the gconf independant probes
@@ -95,6 +113,7 @@ app-misc/far2l:webdav - Enable webdav support
 app-misc/freediag:gui - Enable scangui using x11-libs/fltk library
 app-misc/mat2:dolphin - Enable dolphin extension
 app-misc/mat2:nautilus - Enable nautilus extension
+dev-libs/libcreg:fuse - Enable FUSE support
 dev-libs/libvhdi:fuse - Enable fuse support
 dev-libs/libvmdk:fuse - Enable fuse support
 dev-libs/nanopb:pb-malloc - Enable dynamic allocation support in the decoder.
@@ -210,5 +229,6 @@ sys-kernel/compat-drivers:compat_drivers_wifi_zd1211rw - COMPAT_DRIVERS_WIFI set
 sys-kernel/compat-drivers:injection - Add patches for better wifi injection support
 sys-kernel/pentoo-sources:experimental - Apply experimental patches; for more information, see "https://wiki.gentoo.org/wiki/Project:Kernel/Experimental".
 sys-kernel/pentoo-sources:lts - for selecting between long-time-support and standard kernel.
+virtual/libyal-tools:fuse - Enable FUSE support
 x11-libs/qwt-multiaxes:designer - Installs dev-qt/designer plugin.
 x11-libs/qwt-multiaxes:mathml - Use the MathML renderer of the Qt solutions package.
