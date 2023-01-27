@@ -62,6 +62,7 @@ app-forensics/openscap:ssh - Scan remote machines over ssh
 app-forensics/openscap:vm - Scan VMs and VM storage images
 app-forensics/pcileech:ft60x_driver - Use sys-kernel/ft60x_driver for USB FT60x driver support
 app-forensics/pdf-parser:yara - Use dev-python/yara-python for YARA rules support
+app-forensics/plaso:redis - Enable Redis support (caution: requires ancient package versions!)
 app-forensics/samhain:login-watch - Watch for login/logout
 app-forensics/samhain:mounts-check - Check mount options on filesystems
 app-forensics/samhain:netclient - Build client side

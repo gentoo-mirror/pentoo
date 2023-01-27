@@ -111,6 +111,7 @@ app-forensics/pcileech 4.14 4.15: Direct Memory Access (DMA) Attack Software
 app-forensics/pdf-parser 0.7.5 0.7.6: This tool will parse a PDF document to identify the fundamental elements used
 app-forensics/pdfid 0.2.7 0.2.8: This tool will scan a PDF document looking for certain keyword
 app-forensics/pdfwalker 1.0.0-r1: A GTK frontend to explore the internals of a PDF document with Origami
+app-forensics/plaso 20220724 20220930: Plaso (log2timeline) is a framework to create super timelines.
 app-forensics/prochunter 20171111: Linux process hunter
 app-forensics/pytsk 20210801 20211111: Python bindings for The Sleuth Kit (libtsk)
 app-forensics/reglookup 1.0.1-r1 9999: An utility for reading and querying Windows NT/2K/XP registries
@@ -179,6 +180,7 @@ dev-libs/hashdb 3.1.0-r1: The hashdb block hash database tool and API
 dev-libs/libcaes 20220424 20220529: Library to support cross-platform AES encryption
 dev-libs/libcdata 20220103 20220115: Library for cross-platform C generic data functions
 dev-libs/libcdatetime 20200510 20220104: Library for cross-platform C date and time functions
+dev-libs/libcdirectory 20200702 20220105: Library for cross-platform C directory functions
 dev-libs/libcerror 20201121 20220101: Library for cross-platform C error functions
 dev-libs/libcfile 20201229 20220106: Library for cross-platform C file functions
 dev-libs/libclocale 20210526 20220107: Library for cross-platform C locale functions
@@ -192,17 +194,17 @@ dev-libs/libcthreads 20211115 20220102: Library for cross-platform C threads fun
 dev-libs/libdwarf 0.4.1: The DWARF Debugging Information Format
 dev-libs/libfcache 20200708 20220110: Library for cross-platform C cache functions
 dev-libs/libfcrypto 20191231 20200104: Library for encryption formats
-dev-libs/libfdata 20200728 20201129 20220111: Library for cross-platform C file data functions
+dev-libs/libfdata 20211023 20220111: Library for cross-platform C file data functions
 dev-libs/libfdatetime 20180910 20220112: Library for date and time formats
 dev-libs/libfguid 20180724 20220113: Library for GUID/UUID format
-dev-libs/libfmapi 20170112 20180714: Library for MAPI data types
+dev-libs/libfmapi 20180714 20220114: Library for MAPI data types
 dev-libs/libfmos 20220811: Library for Mac OS data types
 dev-libs/libfole 20170502 20220115: Library for Object Linking and Embedding (OLE) data types
 dev-libs/libfplist 20210404 20220116: Library for plist format
 dev-libs/libftxf 20180815 20220116: Library for Transactional NTFS (TxF) data types
 dev-libs/libftxr 20180815 20220118: Library for Transactional Registry (TxR) data types
 dev-libs/libfusn 20180726 20220119: Library for Update Sequence Number (USN) Journal data types
-dev-libs/libfvalue 20200711 20200902 20220120: Library for generic file value functions
+dev-libs/libfvalue 20201124 20220120: Library for generic file value functions
 dev-libs/libfwevt 20220723 20220925: Library for Windows XML Event Log (EVTX) data types
 dev-libs/libfwnt 20210906 20220922: Library for Windows NT data types
 dev-libs/libfwps 20191221 20220122: Library for Windows Property Store data types
