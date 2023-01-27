@@ -266,7 +266,7 @@ dev-python/asciitree 0.3.3: Draws ASCII trees
 dev-python/asn1tools 0.163.0: ASN.1 parsing, encoding and decoding
 dev-python/aspectlib 1.5.2: Aspect-oriented programming, monkey-patch and decorators library
 dev-python/asyauth 0.0.3: 
-dev-python/asyncpg 0.23.0: A fast PostgreSQL Database Client Library for Python/asyncio.
+dev-python/asyncpg 0.23.0 0.27.0: A fast PostgreSQL Database Client Library for Python/asyncio.
 dev-python/asysocks 0.1.2 0.1.7 0.2.2: Socks5 / Socks4 client and server library
 dev-python/banal 1.0.1: Commons of banal micro-functions for Python.
 dev-python/beautifultable 0.8.0: Print ASCII tables for terminals
