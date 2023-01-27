@@ -57,6 +57,8 @@ app-exploits/webshells 20190713 99999999: Various webshells
 app-exploits/weevely 4.0.1 9999: Weevely is a stealth PHP web shell that simulate telnet-like console
 app-exploits/wesng 20200616 99999999: Windows Exploit Suggester - Next Generation
 app-forensics/bulk_extractor 1.6.0 2.0.0_beta3 9999: Scans a disk image for regular expressions and other content
+app-forensics/dfvfs 20220419 20220430 20220917: Digital Forensics Virtual File System (dfVFS)
+app-forensics/dfwinreg 20200121 20200415 20201006 20211205 20211207: Digital Forensics Windows Registry (dfWinReg)
 app-forensics/eagleeye 9999 20211020: Find people's social media profile using reverse image search
 app-forensics/fuxploider 1.0-r1 9999: File upload vulnerability scanner and exploitation tool
 app-forensics/inception 0.4.2: Firewire physical memory manipulation tool exploiting IEEE 1394 SBP-2 DMA
@@ -142,25 +144,28 @@ dev-libs/LeechCore 2.12 2.14: Direct Memory Access (DMA) Attack Software
 dev-libs/cm256cc 1.1.0: Fast GF(256) Cauchy MDS Block Erasure Codec in C++
 dev-libs/frida-core 16.0.4-r1: Dynamic instrumentation toolkit for reverse-engineers and security researchers
 dev-libs/hashdb 3.1.0-r1: The hashdb block hash database tool and API
-dev-libs/libcdata 20190112 20200509 20220115: Library for cross-platform C generic data functions
+dev-libs/libcaes 20220424 20220529: Library to support cross-platform AES encryption
+dev-libs/libcdata 20220103 20220115: Library for cross-platform C generic data functions
 dev-libs/libcdatetime 20181004 20200510: Library for cross-platform C date and time functions
 dev-libs/libcerror 20201121 20220101: Library for cross-platform C error functions
 dev-libs/libcfile 20200216 20201229: Library for cross-platform C file functions
 dev-libs/libclocale 20200428 20200913 20210526: Library for cross-platform C locale functions
-dev-libs/libcnotify 20191109 20200627 20200913: Library for cross-platform C notification functions
+dev-libs/libcnotify 20200913 20220108: Library for cross-platform C notification functions
 dev-libs/libcpath 20171210 20180720 20181228 20200623: Library for cross-platform C path functions
 dev-libs/libcsplit 20190102 20200703: Library for cross-platform C split string functions
 dev-libs/libcstring 20150101: Library for cross-platform C string functions
 dev-libs/libcsystem 20150629: Library for cross-platform C locale functions
-dev-libs/libcthreads 20180724 20200508 20220102: Library for cross-platform C threads functions
+dev-libs/libcthreads 20211115 20220102: Library for cross-platform C threads functions
 dev-libs/libdwarf 0.4.1: The DWARF Debugging Information Format
 dev-libs/libfcache 20181011 20200708: Library for cross-platform C cache functions
 dev-libs/libfdata 20200728 20201129 20220111: Library for cross-platform C file data functions
 dev-libs/libfdatetime 20180910: Library for date and time formats
 dev-libs/libfguid 20180219 20180724: Library for GUID/UUID format
 dev-libs/libfmapi 20170112 20180714: Library for MAPI data types
+dev-libs/libfole 20170502 20220115: Library for Object Linking and Embedding (OLE) data types
 dev-libs/libfvalue 20200711 20200902 20220120: Library for generic file value functions
 dev-libs/libfwnt 20200723 20210421 20220922: Library for Windows NT data types
+dev-libs/libfwps 20191221 20220122: Library for Windows Property Store data types
 dev-libs/libguytools2 2.1.0: Library for guymager
 dev-libs/libuna 20190102 20200711 20201204 20220611: Library to support Unicode and ASCII (byte string) conversions
 dev-libs/libvhdi 20201204 20210425: Library and tools to access the Virtual Hard Disk (VHD) image format
@@ -208,7 +213,7 @@ dev-python/altgraph 0.17: A constructing graphs, BFS and DFS traversals, etc
 dev-python/apkid 2.1.2-r1 2.1.3 2.1.4: Android Package Protector Identifier
 dev-python/apng 0.3.3 0.3.4: A Python module to deal with APNG files
 dev-python/arc4 0.2.0: A small and insanely fast ARCFOUR (RC4) cipher
-dev-python/artifacts 20200515: Digital Forensics Artifact Repository
+dev-python/artifacts 20200515 20201106 20210404 20210620 20211003 20211012 20211107 20211205 20220219 20220429 20220608 20220615 20221012: Digital Forensics Artifact Repository
 dev-python/asciitree 0.3.3: Draws ASCII trees
 dev-python/asn1tools 0.163.0: ASN.1 parsing, encoding and decoding
 dev-python/aspectlib 1.5.2: Aspect-oriented programming, monkey-patch and decorators library
@@ -217,6 +222,7 @@ dev-python/asyncpg 0.23.0: A fast PostgreSQL Database Client Library for Python/
 dev-python/asysocks 0.1.2 0.1.7 0.2.2: Socks5 / Socks4 client and server library
 dev-python/banal 1.0.1: Commons of banal micro-functions for Python.
 dev-python/beautifultable 0.8.0: Print ASCII tables for terminals
+dev-python/bencode_py 3.0.0 3.0.1 4.0.0: Simple bencode parser (for Python2, Python 3 and PyPy)
 dev-python/bidict 0.21.2: The bidirectional mapping library for Python.
 dev-python/biplist 1.0.3: A binary plist parser/generator for Python
 dev-python/bitstruct 8.15.1: conversions between Python values and C bit field structs
@@ -346,6 +352,7 @@ dev-python/nplusone 1.0.0: Detecting the n+1 queries problem in Python
 dev-python/nvidia-apex 22.12-r1: NVIDIA-maintained utilities to streamline mixed precision and distributed training in Pytorch
 dev-python/nvidia-apex-bin 22.8: NVIDIA-maintained utilities to streamline mixed precision and distributed training in Pytorch
 dev-python/openai 0.25.0 0.26.2: Python client library for the OpenAI API
+dev-python/opensearch_py 1.0.0 1.1.0 2.0.0 2.0.1: Python low-level client for OpenSearch
 dev-python/openstep_parser 1.5.3: OpenStep plist reader into python objects
 dev-python/orjson-bin 3.5.4: Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 dev-python/oscrypto 1.2.1 1.3.0: TLS sockets, key generation, encryption, decryption, signing, verification
@@ -412,6 +419,7 @@ dev-python/quark-engine 22.1.1 22.9.1: An Obfuscation-Neglect Android Malware Sc
 dev-python/queuelib 1.5.0: Collection of persistent (disk-based) queues
 dev-python/rangeparser 0.1.3-r1: A python package to parse ranges easily
 dev-python/rcssmin 1.0.6: RCSSmin is a CSS minifier
+dev-python/redis-py 4.1.4 4.2.2: Python client for Redis key-value store
 dev-python/requests-html 0.10.0-r1: HTML Parsing for Humans
 dev-python/rjsmin 1.1.0: RCSSmin is a CSS minifier
 dev-python/ruamel-base 1.0.0: common routines for ruamel packages
