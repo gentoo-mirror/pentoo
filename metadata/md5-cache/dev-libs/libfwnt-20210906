@@ -11,6 +11,6 @@ LICENSE=LGPL-3
 RDEPEND=dev-libs/libcdata[nls=] dev-libs/libcerror[nls=] dev-libs/libcnotify[nls=] dev-libs/libcthreads[nls=] nls? ( virtual/libiconv virtual/libintl ) python? ( dev-lang/python:* ) python? ( python_single_target_python3_9? ( >=dev-lang/python-3.9.16:3.9 ) python_single_target_python3_10? ( >=dev-lang/python-3.10.9:3.10 ) python_single_target_python3_11? ( >=dev-lang/python-3.11.1:3.11 ) )
 REQUIRED_USE=python? ( ^^ ( python_single_target_python3_9 python_single_target_python3_10 python_single_target_python3_11 ) )
 SLOT=0
-SRC_URI=https://github.com/libyal/libfwnt/releases/download/20220922/libfwnt-alpha-20220922.tar.gz
+SRC_URI=https://github.com/libyal/libfwnt/releases/download/20210906/libfwnt-alpha-20210906.tar.gz
 _eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	ec8bbc28394c7305b43ea07164bd8f5f	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	a1a985ddd8795a8634b4b7f820b93143	python-single-r1	75118e916668a74c660a13b0ecb22562	gnuconfig	b6b3e92f8b8c996400074b5f61a59256	libtool	241a8f577b9781a42a7421e53448a44e	autotools	6dcd6b6a486e79928e1243ff9ba41fcc
 _md5_=12323b56b8ae9875e4290884ae14c088

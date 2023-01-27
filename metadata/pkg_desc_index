@@ -178,23 +178,23 @@ dev-libs/frida-core 16.0.4-r1: Dynamic instrumentation toolkit for reverse-engin
 dev-libs/hashdb 3.1.0-r1: The hashdb block hash database tool and API
 dev-libs/libcaes 20220424 20220529: Library to support cross-platform AES encryption
 dev-libs/libcdata 20220103 20220115: Library for cross-platform C generic data functions
-dev-libs/libcdatetime 20181004 20200510: Library for cross-platform C date and time functions
+dev-libs/libcdatetime 20200510 20220104: Library for cross-platform C date and time functions
 dev-libs/libcerror 20201121 20220101: Library for cross-platform C error functions
-dev-libs/libcfile 20200216 20201229: Library for cross-platform C file functions
-dev-libs/libclocale 20200428 20200913 20210526: Library for cross-platform C locale functions
+dev-libs/libcfile 20201229 20220106: Library for cross-platform C file functions
+dev-libs/libclocale 20210526 20220107: Library for cross-platform C locale functions
 dev-libs/libcnotify 20200913 20220108: Library for cross-platform C notification functions
-dev-libs/libcpath 20171210 20180720 20181228 20200623: Library for cross-platform C path functions
+dev-libs/libcpath 20200623 20220108: Library for cross-platform C path functions
 dev-libs/libcreg 20210625 20221022: Library and tools to access the Windows 9x/Me Registry File (CREG) format
-dev-libs/libcsplit 20190102 20200703: Library for cross-platform C split string functions
+dev-libs/libcsplit 20200703 20220109: Library for cross-platform C split string functions
 dev-libs/libcstring 20150101: Library for cross-platform C string functions
 dev-libs/libcsystem 20150629: Library for cross-platform C locale functions
 dev-libs/libcthreads 20211115 20220102: Library for cross-platform C threads functions
 dev-libs/libdwarf 0.4.1: The DWARF Debugging Information Format
-dev-libs/libfcache 20181011 20200708: Library for cross-platform C cache functions
+dev-libs/libfcache 20200708 20220110: Library for cross-platform C cache functions
 dev-libs/libfcrypto 20191231 20200104: Library for encryption formats
 dev-libs/libfdata 20200728 20201129 20220111: Library for cross-platform C file data functions
-dev-libs/libfdatetime 20180910: Library for date and time formats
-dev-libs/libfguid 20180219 20180724: Library for GUID/UUID format
+dev-libs/libfdatetime 20180910 20220112: Library for date and time formats
+dev-libs/libfguid 20180724 20220113: Library for GUID/UUID format
 dev-libs/libfmapi 20170112 20180714: Library for MAPI data types
 dev-libs/libfmos 20220811: Library for Mac OS data types
 dev-libs/libfole 20170502 20220115: Library for Object Linking and Embedding (OLE) data types
@@ -204,7 +204,7 @@ dev-libs/libftxr 20180815 20220118: Library for Transactional Registry (TxR) dat
 dev-libs/libfusn 20180726 20220119: Library for Update Sequence Number (USN) Journal data types
 dev-libs/libfvalue 20200711 20200902 20220120: Library for generic file value functions
 dev-libs/libfwevt 20220723 20220925: Library for Windows XML Event Log (EVTX) data types
-dev-libs/libfwnt 20200723 20210421 20220922: Library for Windows NT data types
+dev-libs/libfwnt 20210906 20220922: Library for Windows NT data types
 dev-libs/libfwps 20191221 20220122: Library for Windows Property Store data types
 dev-libs/libfwsi 20220123 20220927: Library to access the Windows Shell Item format
 dev-libs/libguytools2 2.1.0: Library for guymager
@@ -212,7 +212,7 @@ dev-libs/libhmac 20200104 20220425: Library to support various Hash-based Messag
 dev-libs/libmapidb 20170125 20170304: Library to access the Exchange MAPI database format
 dev-libs/libsigscan 20220124 20221027: Library for binary signature scanning.
 dev-libs/libsmdev 20210418 20221028: Library to access to storage media devices
-dev-libs/libuna 20190102 20200711 20201204 20220611: Library to support Unicode and ASCII (byte string) conversions
+dev-libs/libuna 20220102 20220611: Library to support Unicode and ASCII (byte string) conversions
 dev-libs/libvhdi 20201204 20210425: Library and tools to access the Virtual Hard Disk (VHD) image format
 dev-libs/libvmdk 20210807 20221022: Library and tools to access the VMware Virtual Disk (VMDK) format
 dev-libs/libwrc 20220720 20221009: Library to access the Windows Resource Compiler (WRC) format

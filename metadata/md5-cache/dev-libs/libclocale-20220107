@@ -8,5 +8,5 @@ KEYWORDS=amd64 ~arm64 x86
 LICENSE=LGPL-3
 RDEPEND=dev-libs/libcerror[nls=] nls? ( virtual/libiconv virtual/libintl )
 SLOT=0
-SRC_URI=https://github.com/libyal/libclocale/releases/download/20210526/libclocale-alpha-20210526.tar.gz
+SRC_URI=https://github.com/libyal/libclocale/releases/download/20220107/libclocale-alpha-20220107.tar.gz
 _md5_=26858261f05fd13472a3bac549b5e2d3

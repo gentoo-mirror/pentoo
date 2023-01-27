@@ -1,12 +1,12 @@
 DEFINED_PHASES=configure install
 DEPEND=dev-libs/libcerror[nls=] nls? ( virtual/libiconv virtual/libintl )
-DESCRIPTION=Library for cross-platform C locale functions
+DESCRIPTION=Library for cross-platform C split string functions
 EAPI=8
-HOMEPAGE=https://github.com/libyal/libclocale
+HOMEPAGE=https://github.com/libyal/libcsplit
 IUSE=nls unicode
 KEYWORDS=amd64 ~arm64 x86
 LICENSE=LGPL-3
 RDEPEND=dev-libs/libcerror[nls=] nls? ( virtual/libiconv virtual/libintl )
 SLOT=0
-SRC_URI=https://github.com/libyal/libclocale/releases/download/20210526/libclocale-alpha-20210526.tar.gz
-_md5_=26858261f05fd13472a3bac549b5e2d3
+SRC_URI=https://github.com/libyal/libcsplit/releases/download/20220109/libcsplit-beta-20220109.tar.gz
+_md5_=6823bdaf75006c7fe855ab185e74aaae

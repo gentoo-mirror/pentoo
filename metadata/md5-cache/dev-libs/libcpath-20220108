@@ -8,5 +8,5 @@ KEYWORDS=amd64 ~arm64 x86
 LICENSE=LGPL-3
 RDEPEND=dev-libs/libcerror[nls=] dev-libs/libclocale[nls=,unicode=] dev-libs/libcsplit[nls=,unicode=] dev-libs/libuna[nls=,unicode=] nls? ( virtual/libiconv virtual/libintl )
 SLOT=0
-SRC_URI=https://github.com/libyal/libcpath/releases/download/20200623/libcpath-alpha-20200623.tar.gz
+SRC_URI=https://github.com/libyal/libcpath/releases/download/20220108/libcpath-alpha-20220108.tar.gz
 _md5_=005a92dae3b025f735238edf41c1d033
