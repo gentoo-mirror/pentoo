@@ -215,7 +215,7 @@ dev-libs/libmapidb 20170125 20170304: Library to access the Exchange MAPI databa
 dev-libs/libsigscan 20220124 20221027: Library for binary signature scanning.
 dev-libs/libsmdev 20210418 20221028: Library to access to storage media devices
 dev-libs/libuna 20220102 20220611: Library to support Unicode and ASCII (byte string) conversions
-dev-libs/libvhdi 20201204 20210425: Library and tools to access the Virtual Hard Disk (VHD) image format
+dev-libs/libvhdi 20221124: Library and tools to access the Virtual Hard Disk (VHD) image format
 dev-libs/libvmdk 20210807 20221022: Library and tools to access the VMware Virtual Disk (VMDK) format
 dev-libs/libwrc 20220720 20221009: Library to access the Windows Resource Compiler (WRC) format
 dev-libs/memprocfs 4.7 5.0: The Memory Process File System
