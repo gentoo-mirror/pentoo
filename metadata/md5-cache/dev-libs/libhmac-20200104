@@ -11,5 +11,5 @@ LICENSE=LGPL-3
 RDEPEND=nls? ( virtual/libiconv virtual/libintl ) dev-libs/libcerror[nls=] dev-libs/libcfile[nls=,unicode=] dev-libs/libclocale[nls=,unicode=] dev-libs/libcnotify[nls=] dev-libs/libcpath[nls=,unicode=] dev-libs/libcsplit[nls=,unicode=] dev-libs/libcthreads[nls=] dev-libs/libuna[nls=,unicode=]
 SLOT=0
 SRC_URI=https://github.com/libyal/libhmac/releases/download/20200104/libhmac-alpha-20200104.tar.gz
-_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	ec8bbc28394c7305b43ea07164bd8f5f	multilib	5ca4e49abed8e3a2f7b56920eadee157	libtool	241a8f577b9781a42a7421e53448a44e	autotools	6dcd6b6a486e79928e1243ff9ba41fcc
+_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	9a610728b9bcca1919234cceb35a1027	multilib	5ca4e49abed8e3a2f7b56920eadee157	libtool	241a8f577b9781a42a7421e53448a44e	autotools	6dcd6b6a486e79928e1243ff9ba41fcc
 _md5_=1577264ff16e862a2d8b6db6c3db5693
