@@ -881,7 +881,7 @@ net-wireless/sdrtrunk-bin 0.4.0-r1 0.5.0: Decode, monitor, record and stream tru
 net-wireless/signalhound-spike 3.5.9: Spectrum analyzer software for Signal Hound test equipment
 net-wireless/ska 0.2: Fake Shared Key Authentication
 net-wireless/soapy_power 1.6.1-r1 9999: Obtain power spectrum from SoapySDR devices
-net-wireless/srsran 22.04 22.10 9999: Open source SDR 4G/5G software suite from Software Radio Systems
+net-wireless/srsran 22.10 9999: Open source SDR 4G/5G software suite from Software Radio Systems
 net-wireless/trunk-recorder 4.4.0 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
 net-wireless/wifipumpkin3 1.1.3_p2 1.1.4: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifite 2.6.6 2.6.8: An automated wireless attack tool
