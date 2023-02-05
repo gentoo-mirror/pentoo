@@ -1,0 +1,13 @@
+BDEPEND=dev-lang/go >=dev-lang/go-1.10
+DEFINED_PHASES=compile install postinst unpack
+DESCRIPTION=Fast web fuzzer / directory brute force
+EAPI=7
+HOMEPAGE=https://github.com/ffuf/ffuf
+INHERIT=golang-vcs-snapshot
+KEYWORDS=~amd64 ~arm ~arm64 ~x86
+LICENSE=MIT
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://github.com/ffuf/ffuf/archive/v2.0.0.tar.gz -> ffuf-2.0.0.tar.gz https://github.com/adrg/xdg/archive/v0.4.0.tar.gz -> github.com-adrg-xdg-v0.4.0.tar.gz https://github.com/andybalholm/cascadia/archive/v1.3.1.tar.gz -> github.com-andybalholm-cascadia-v1.3.1.tar.gz https://github.com/pelletier/go-toml/archive/v1.9.5.tar.gz -> github.com-pelletier-go-toml-v1.9.5.tar.gz https://github.com/PuerkitoBio/goquery/archive/v1.8.0.tar.gz -> github.com-PuerkitoBio-goquery-v1.8.0.tar.gz https://github.com/golang/net/archive/v0.5.0.tar.gz -> github.com-golang-net-v0.5.0.tar.gz https://github.com/golang/sys/archive/v0.4.0.tar.gz -> github.com-golang-sys-v0.4.0.tar.gz
+_eclasses_=golang-base	9f0e420ab37bc55a318d74bab3aae891	golang-vcs-snapshot	6864f899c6843043ba23620fcd4a908c
+_md5_=e7dafde915e0491d78ce61bd5bb50f06
