@@ -38,12 +38,13 @@ REQUIRED_USE="?? ( ${STANDALONE/+/} )
 			standalone-hf-mfcsim? ( pm3rdv4 )
 			standalone-hf-reblay? ( pm3rdv4 ) "
 
-RDEPEND="virtual/libusb:0
+RDEPEND="
 	app-arch/bzip2
-	dev-libs/jansson
+	dev-libs/jansson:=
 	sys-libs/ncurses:*[tinfo]
+	dev-libs/openssl:=
 	sys-libs/readline:=
-	bluez? ( net-wireless/bluez )
+	bluez? ( net-wireless/bluez:= )
 	qt? ( dev-qt/qtcore:5
 	dev-qt/qtwidgets:5
 	dev-qt/qtgui:5 )
