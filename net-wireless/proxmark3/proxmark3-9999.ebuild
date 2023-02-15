@@ -1,7 +1,7 @@
-# Copyright 1999-2022 Gentoo Authors
+# Copyright 1999-2023 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI=7
+EAPI=8
 
 inherit udev toolchain-funcs
 
@@ -49,8 +49,8 @@ RDEPEND="
 	dev-qt/qtwidgets:5
 	dev-qt/qtgui:5 )
 	"
-DEPEND="${RDEPEND}
-	firmware? ( sys-devel/gcc-arm-none-eabi:0 )"
+DEPEND="${RDEPEND}"
+BDEPEND="firmware? ( sys-devel/gcc-arm-none-eabi:0 )"
 
 QA_FLAGS_IGNORED="usr/share/proxmark3/firmware/bootrom.elf
 				usr/share/proxmark3/firmware/fullimage.elf"
@@ -129,11 +129,13 @@ src_compile(){
 	use qt || export SKIPQT=1
 	use bluez || export SKIPBT=1
 	if use firmware; then
+		emake -j1 ${EMAKE_COMMON} client
 		emake ${EMAKE_COMMON} all
 	elif use deprecated; then
-		emake ${EMAKE_COMMON} client mfkey nonce2key
+		emake -j1 ${EMAKE_COMMON} client
+		emake ${EMAKE_COMMON} mfkey nonce2key
 	else
-		emake ${EMAKE_COMMON} client
+		emake -j1 ${EMAKE_COMMON} client
 	fi
 }
 
