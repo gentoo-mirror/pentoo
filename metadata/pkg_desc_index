@@ -840,6 +840,7 @@ net-wireless/hcxkeys 6.2.0 6.2.1-r1: Generate plainmasterkeys (rainbowtables) an
 net-wireless/hcxtools 6.2.0 6.2.7: Portable solution for capturing wlan traffic and conversion to hashcat formats
 net-wireless/hostapd 2.9-r6 2.10: IEEE 802.11 wireless LAN Host AP daemon
 net-wireless/hostapd-mana 2.6.5_p20210920 9999: SensePost's modified hostapd for wifi attacks
+net-wireless/ice9-bluetooth-sniffer 9999: 
 net-wireless/jackit 0.0_p20170918-r1: Exploit Code for Mousejack
 net-wireless/kalibrate-hackrf 20160704: Calculate the local oscillator frequency offset using GSM stations
 net-wireless/karmetasploit 0.1-r3: KARMA + Metasploit 3 == Karmetasploit
