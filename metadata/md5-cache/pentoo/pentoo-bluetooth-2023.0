@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=Pentoo bluetooth meta ebuild
+EAPI=8
+HOMEPAGE=http://www.pentoo.org
+IUSE=pentoo-extra pentoo-full
+KEYWORDS=~amd64 ~arm ~x86
+LICENSE=GPL-3
+PDEPEND=pentoo-extra? ( app-fuzz/bss net-wireless/btscanner ) pentoo-full? ( net-wireless/crackle ) net-wireless/blue_hydra net-wireless/blue_sonar net-wireless/ice9-bluetooth-sniffer net-wireless/kismet net-wireless/ubertooth net-wireless/blueman
+SLOT=0
+_md5_=81d8d8b399c0c96603a2bd6738bf5379
