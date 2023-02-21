@@ -691,7 +691,7 @@ net-analyzer/geoipgen 0.4: Generate a list of hostnames based on country
 net-analyzer/gitgraber 20191002: Tool to scan for sensitive information within public GitHub repositories
 net-analyzer/gitrob 2.0.0_beta-r1: Reconnaissance tool for GitHub organizations
 net-analyzer/go-webanalyze 20190705: Port of Wappalyzer in Go to automate scanning
-net-analyzer/gobuster 3.0.1-r4: A tool to brute-force URIs and DNS subdomains
+net-analyzer/gobuster 3.0.1-r4 3.5.0: A tool to brute-force URIs and DNS subdomains
 net-analyzer/honeypots 0.14 9999: 16 different honeypots for monitoring network traffic
 net-analyzer/httprint 301: HTTP fingerprinter tool
 net-analyzer/hyenae 0.36.1: a highly flexible packet generator
