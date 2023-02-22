@@ -812,7 +812,7 @@ net-wireless/bladerf_adsb 9999: bladeRF ADS-B hardware decoder
 net-wireless/blue_hydra 1.9.17 9999: bluetooth discovery service built on top of bluez
 net-wireless/blue_sonar 0.3 9999: A simple wrapper for l2ping which shows rssi
 net-wireless/btle-sniffer 0.2_p20200129: Bluetooth radio packet sniffer/scanner and sender
-net-wireless/btscanner 2.1-r5: A utility for bluetooth scanning and discovery
+net-wireless/btscanner 2.1-r6: A utility for bluetooth scanning and discovery
 net-wireless/bully 1.4-r1: A wifi-protected-setup (WPS) brute force attack tool, similar to reaver
 net-wireless/chirp 20200213 20201221 20211216: Free open-source tool for programming your amateur radio
 net-wireless/cowpatty 4.8_p20181130-r1: WLAN tools for bruteforcing 802.11 WPA/WPA2 keys
