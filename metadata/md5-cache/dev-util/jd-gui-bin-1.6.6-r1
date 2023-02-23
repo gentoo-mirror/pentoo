@@ -9,5 +9,5 @@ LICENSE=GPL-3
 RDEPEND=virtual/jre
 SLOT=0
 SRC_URI=https://github.com/java-decompiler/jd-gui/releases/download/v1.6.6/jd-gui-1.6.6.jar
-_eclasses_=desktop	7eb20ad915a0a318176d51bc2508ff5c
+_eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d
 _md5_=db3e1ac9b0befedd01cef63a12f2ba4e
