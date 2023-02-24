@@ -4,11 +4,11 @@ DEPEND=dev-libs/libfmt:= dev-libs/log4cpp:= dev-libs/openssl:0= dev-libs/spdlog:
 DESCRIPTION=Records calls from a Trunked Radio System (P25 & SmartNet)
 EAPI=8
 HOMEPAGE=https://github.com/robotastic/trunk-recorder
-INHERIT=cmake
+INHERIT=cmake flag-o-matic
 KEYWORDS=~amd64 ~amd64 ~x86
 LICENSE=GPL-3
 RDEPEND=dev-libs/libfmt:= dev-libs/log4cpp:= dev-libs/openssl:0= dev-libs/spdlog:= dev-libs/boost:= net-misc/curl net-wireless/gnuradio:=[uhd] net-wireless/gr-osmosdr:= net-wireless/uhd:= !net-wireless/op25 sci-libs/volk:=
 SLOT=0
 SRC_URI=https://github.com/robotastic/trunk-recorder/archive/refs/tags/v4.4.0.tar.gz -> trunk-recorder-4.4.0.tar.gz
 _eclasses_=toolchain-funcs	6001248ef162a5fa2a21ce132a212f6b	multilib	5ca4e49abed8e3a2f7b56920eadee157	flag-o-matic	69394e25812406faa1f90edaf4969395	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	ninja-utils	38c85b725d0467e51954ea921b6c104b	xdg-utils	ac0e315a3688929e34ac75b139e7349a	cmake	449b4785acace35308fe747fc939bde1
-_md5_=6dcdc9b7ca9b27d07fccacc4ef5cebf7
+_md5_=d7b75a9809e7c2c28fda1dcefaf40938
