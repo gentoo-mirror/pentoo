@@ -175,6 +175,7 @@ dev-java/msgpack 0.5.1 0.6.12 0.8.16: MessagePack for Java is a binary-based eff
 dev-java/sleep 2.1-r1: Duct Tape for the Java platform
 dev-libs/LeechCore 2.12 2.14: Direct Memory Access (DMA) Attack Software
 dev-libs/cm256cc 1.1.0: Fast GF(256) Cauchy MDS Block Erasure Codec in C++
+dev-libs/cudnn 8.8.0.121: NVIDIA Accelerated Deep Learning on GPU library
 dev-libs/frida-core 16.0.4-r1: Dynamic instrumentation toolkit for reverse-engineers and security researchers
 dev-libs/hashdb 3.1.0-r1: The hashdb block hash database tool and API
 dev-libs/libcaes 20220424 20220529: Library to support cross-platform AES encryption
