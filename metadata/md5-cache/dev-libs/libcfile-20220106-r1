@@ -1,6 +1,6 @@
 BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.5:1.16 ) >=sys-devel/autoconf-2.71-r5 >=sys-devel/libtool-2.4.7
 DEFINED_PHASES=configure install prepare
-DEPEND=dev-libs/libcerror[nls=] dev-libs/libclocale[nls=,unicode=] dev-libs/libcnotify[nls=] dev-libs/libuna[nls=,unicode=] nls? ( virtual/libiconv virtual/libintl )
+DEPEND=!dev-util/diffball dev-libs/libcerror[nls=] dev-libs/libclocale[nls=,unicode=] dev-libs/libcnotify[nls=] dev-libs/libuna[nls=,unicode=] nls? ( virtual/libiconv virtual/libintl )
 DESCRIPTION=Library for cross-platform C file functions
 EAPI=8
 HOMEPAGE=https://github.com/libyal/libcfile
@@ -8,8 +8,8 @@ INHERIT=autotools
 IUSE=nls unicode debug
 KEYWORDS=amd64 ~arm64 x86
 LICENSE=LGPL-3
-RDEPEND=dev-libs/libcerror[nls=] dev-libs/libclocale[nls=,unicode=] dev-libs/libcnotify[nls=] dev-libs/libuna[nls=,unicode=] nls? ( virtual/libiconv virtual/libintl )
+RDEPEND=!dev-util/diffball dev-libs/libcerror[nls=] dev-libs/libclocale[nls=,unicode=] dev-libs/libcnotify[nls=] dev-libs/libuna[nls=,unicode=] nls? ( virtual/libiconv virtual/libintl )
 SLOT=0
 SRC_URI=https://github.com/libyal/libcfile/releases/download/20220106/libcfile-alpha-20220106.tar.gz
 _eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	6001248ef162a5fa2a21ce132a212f6b	multilib	5ca4e49abed8e3a2f7b56920eadee157	libtool	241a8f577b9781a42a7421e53448a44e	autotools	6dcd6b6a486e79928e1243ff9ba41fcc
-_md5_=a7bf6551cb25ed1f9de63f7f20aec121
+_md5_=795f8b3bd57914b871bd06f6b0d7fcc7

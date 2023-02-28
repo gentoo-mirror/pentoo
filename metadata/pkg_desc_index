@@ -183,7 +183,7 @@ dev-libs/libcdata 20220103 20220115: Library for cross-platform C generic data f
 dev-libs/libcdatetime 20200510 20220104: Library for cross-platform C date and time functions
 dev-libs/libcdirectory 20200702 20220105: Library for cross-platform C directory functions
 dev-libs/libcerror 20201121 20220101: Library for cross-platform C error functions
-dev-libs/libcfile 20201229 20220106: Library for cross-platform C file functions
+dev-libs/libcfile 20201229 20220106-r1: Library for cross-platform C file functions
 dev-libs/libclocale 20210526 20220107: Library for cross-platform C locale functions
 dev-libs/libcnotify 20200913 20220108: Library for cross-platform C notification functions
 dev-libs/libcpath 20200623 20220108: Library for cross-platform C path functions
