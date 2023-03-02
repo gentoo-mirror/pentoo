@@ -1,0 +1,13 @@
+BDEPEND=sys-devel/bc sys-devel/clang sys-devel/llvm net-misc/rsync
+DEFINED_PHASES=compile configure install prepare pretend setup
+DESCRIPTION=eBPF process monitor module for opensnitch
+EAPI=8
+HOMEPAGE=https://github.com/evilsocket/opensnitch
+INHERIT=linux-info
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RESTRICT=strip test
+SLOT=0
+SRC_URI=https://github.com/evilsocket/opensnitch/archive/refs/tags/v1.5.8.tar.gz -> opensnitch-ebpf-module-1.5.8.tar.gz https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.0.14.tar.gz
+_eclasses_=toolchain-funcs	6001248ef162a5fa2a21ce132a212f6b	multilib	5ca4e49abed8e3a2f7b56920eadee157	linux-info	4b552625ebd741dfd2ac08637fd2436e
+_md5_=e19dfe5ebdf56574b498a87ed8938e8b

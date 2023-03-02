@@ -8,7 +8,8 @@ acct-user/sonar 0: User for SonarQube
 acct-user/spiderfoot 0: User for SpiderFoot
 acct-user/vuls 0: User for Vuls
 app-admin/genmenu 0.0_p20200826 9999: a tool for generating freedesktop-compliant menus
-app-admin/opensnitch 1.5.2-r1 1.5.3: Desktop application firewall
+app-admin/opensnitch 1.5.2-r1 1.5.3 1.5.8: Desktop application firewall
+app-admin/opensnitch-ebpf-module 1.5.8: eBPF process monitor module for opensnitch
 app-admin/vuls 0.19.0-r1: Vulnerability scanner for Linux, agentless, written in Golang
 app-antivirus/malheur 0.5.4-r1: Malware analysis tool
 app-antivirus/tyton 1.2_p20200604 9999: Kernel-Mode Rootkit Hunter
