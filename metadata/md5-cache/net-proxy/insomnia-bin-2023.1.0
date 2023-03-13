@@ -5,5 +5,5 @@ HOMEPAGE=https://github.com/Kong/insomnia https://insomnia.rest/
 KEYWORDS=amd64
 LICENSE=MIT
 SLOT=0
-SRC_URI=https://github.com/Kong/insomnia/releases/download/core%402022.7.0/Insomnia.Core-2022.7.0.tar.gz -> insomnia-bin-2022.7.0.tar.gz
+SRC_URI=https://github.com/Kong/insomnia/releases/download/core%402023.1.0/Insomnia.Core-2023.1.0.tar.gz -> insomnia-bin-2023.1.0.tar.gz
 _md5_=4e1569e02b5e60fef21ebdf2177d890e
