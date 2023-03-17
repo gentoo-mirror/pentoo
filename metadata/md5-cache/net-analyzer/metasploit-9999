@@ -1,16 +1,16 @@
-BDEPEND=ruby_targets_ruby27? ( dev-ruby/bundler:2[ruby_targets_ruby27(-)] dev-ruby/bundler-audit[ruby_targets_ruby27(-)] ) ruby_targets_ruby27? ( dev-lang/ruby:2.7 ) >=dev-vcs/git-1.8.2.1[curl]
+BDEPEND=ruby_targets_ruby30? ( dev-ruby/bundler:2[ruby_targets_ruby30(-)] dev-ruby/bundler-audit[ruby_targets_ruby30(-)] ) ruby_targets_ruby30? ( dev-lang/ruby:3.0 ) >=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=compile config configure install postinst prepare setup test unpack
-DEPEND=app-arch/xz-utils dev-db/postgresql:*[server] dev-db/sqlite || ( app-crypt/johntheripper-jumbo >=app-crypt/johntheripper-1.7.9-r1[-minimal(-)] ) dev-libs/libxml2 dev-libs/libxslt dev-libs/openssl net-analyzer/nmap net-libs/libpcap sys-libs/zlib ruby_targets_ruby27? ( dev-lang/ruby:2.7 )
+DEPEND=app-arch/xz-utils dev-db/postgresql:*[server] dev-db/sqlite || ( app-crypt/johntheripper-jumbo >=app-crypt/johntheripper-1.7.9-r1[-minimal(-)] ) dev-libs/libffi dev-libs/libxml2 dev-libs/libxslt dev-libs/openssl net-analyzer/nmap net-libs/libpcap sys-libs/zlib ruby_targets_ruby30? ( dev-lang/ruby:3.0 )
 DESCRIPTION=Advanced framework for developing, testing, and using vulnerability exploit code
 EAPI=7
 HOMEPAGE=http://www.metasploit.org/
 INHERIT=eutils ruby-ng multiprocessing git-r3
-IUSE=development +java nexpose oracle +pcap test ruby_targets_ruby27
+IUSE=development +java nexpose oracle +pcap test ruby_targets_ruby30
 LICENSE=BSD
 PROPERTIES=live
-RDEPEND=app-arch/xz-utils dev-db/postgresql:*[server] dev-db/sqlite || ( app-crypt/johntheripper-jumbo >=app-crypt/johntheripper-1.7.9-r1[-minimal(-)] ) dev-libs/libxml2 dev-libs/libxslt dev-libs/openssl net-analyzer/nmap net-libs/libpcap sys-libs/zlib >=app-eselect/eselect-metasploit-0.16 ruby_targets_ruby27? ( dev-lang/ruby:2.7 )
-REQUIRED_USE=|| ( ruby_targets_ruby27 )
-RESTRICT=strip
+RDEPEND=app-arch/xz-utils dev-db/postgresql:*[server] dev-db/sqlite || ( app-crypt/johntheripper-jumbo >=app-crypt/johntheripper-1.7.9-r1[-minimal(-)] ) dev-libs/libffi dev-libs/libxml2 dev-libs/libxslt dev-libs/openssl net-analyzer/nmap net-libs/libpcap sys-libs/zlib >=app-eselect/eselect-metasploit-0.16 ruby_targets_ruby30? ( dev-lang/ruby:3.0 )
+REQUIRED_USE=|| ( ruby_targets_ruby30 )
+RESTRICT=strip test
 SLOT=9999
 _eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4a1902f969e5718126434fc35f3a0d9c	eutils	8f942ebdcf04334697649d4a0bf65a32	estack	055c42df72f76a4f45ec92b35e83cd56	multilib	5ca4e49abed8e3a2f7b56920eadee157	toolchain-funcs	6001248ef162a5fa2a21ce132a212f6b	ruby-utils	2412b1152083f1e866ae6df229d51d30	ruby-ng	1147c87e94def682fd485ce7a14a86c2	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	git-r3	2347f8fe2d392b2a091191f94be37e6f
-_md5_=48d84369271533b5c3af870ffba6bdc4
+_md5_=38372420ce93eb2fa7669cb10896cfb7
