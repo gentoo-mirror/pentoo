@@ -1,0 +1,11 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DESCRIPTION=GPS Spoofing tool for transmit capable SDR's like the HackRF, bladeRF and USRP
+EAPI=8
+HOMEPAGE=http://sdr.osmocom.org/trac/wiki/rtl-sdr
+INHERIT=git-r3
+LICENSE=MIT
+PROPERTIES=live
+SLOT=0
+_eclasses_=git-r3	c57c50c922e121043788de0b40ada60a
+_md5_=22e566351e26a08cc4ece64e393a7074
