@@ -9,4 +9,4 @@ PDEPEND=app-crypt/pinentry[gtk,ncurses] app-misc/jq dev-util/dialog sys-apps/gpt
 PROPERTIES=live
 SLOT=0
 _eclasses_=git-r3	c57c50c922e121043788de0b40ada60a
-_md5_=e1a5bd32240d70cb5552a18094be3a47
+_md5_=7948889445e12a6118f3675dde1697bb
