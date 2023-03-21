@@ -126,6 +126,7 @@ dev-libs/openssl-bad:tls-heartbeat - Compile with tls-heartbeat
 dev-libs/qbdi:tools - Enable advanced tools
 dev-python/django-constance-haiwen:database - Add django-picklefield support
 dev-python/django-constance-haiwen:redis - Add django-redis support
+dev-python/nvidia-apex:cuda - Add support for CUDA processing
 dev-python/openai:datalib - Make data libraries like `numpy` and `pandas` optional dependencies (130MB+)
 dev-python/pyinstaller:clang - Support for sys-devel/clang
 dev-python/pyinstaller:leak-detector - Support for link with Boehm garbage collector to detect memory leaks

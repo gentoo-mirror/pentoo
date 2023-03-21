@@ -401,7 +401,7 @@ dev-python/neotime 1.7.4: Nanosecond resolution temporal types
 dev-python/nessrest 20180806: A high-level Web Crawling and Web Scraping framework
 dev-python/normality 2.1.1: A small set of text normalization functions
 dev-python/nplusone 1.0.0: Detecting the n+1 queries problem in Python
-dev-python/nvidia-apex 22.12-r1: NVIDIA-maintained utilities to streamline mixed precision and distributed training in Pytorch
+dev-python/nvidia-apex 22.04 22.12-r1: Tools for easy mixed precision and distributed training in Pytorch
 dev-python/nvidia-apex-bin 22.8: NVIDIA-maintained utilities to streamline mixed precision and distributed training in Pytorch
 dev-python/openai 0.27.2: Python client library for the OpenAI API
 dev-python/opensearch_py 1.0.0 1.1.0 2.0.0 2.0.1: Python low-level client for OpenSearch
