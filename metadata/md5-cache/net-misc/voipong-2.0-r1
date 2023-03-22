@@ -1,0 +1,11 @@
+DEFINED_PHASES=compile install prepare
+DEPEND=net-libs/libpcap
+DESCRIPTION=detect all VoIP calls on a pipeline and dump actual conversation
+EAPI=8
+HOMEPAGE=http://www.enderunix.org/voipong/
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=media-sound/sox net-libs/libpcap
+SLOT=0
+SRC_URI=https://github.com/EnderUNIX/VoIPong/archive/d52e39304842fd3662a9f35f3b51c1725320bc4f.tar.gz -> voipong-2.0.tar.gz
+_md5_=f05b2a187d92e9735f95b019b0558eaa

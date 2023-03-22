@@ -790,7 +790,7 @@ net-misc/sipp 3.6.1_p20210826: A free Open Source test tool / traffic generator 
 net-misc/sippts 2.0.4: set of tools to audit VoIP servers and devices using SIP protocol
 net-misc/t50 5.8.5 5.8.7: Mixed Packet Injector & Network Stress Testing Tool
 net-misc/tko-subs 20190624: A tool that can help detect and takeover subdomains with dead DNS records
-net-misc/voipong 2.0: tool for detecting all VoIP calls on a pipeline and dumps actual conversation to seperate wav files
+net-misc/voipong 2.0-r1: detect all VoIP calls on a pipeline and dump actual conversation
 net-misc/waybackurls 0.0.2: Fetch all the URLs that the Wayback Machine knows about for a domain
 net-misc/wireshark-patoolkit 20191029: a collection of traffic analysis Wireshark plugins focused on security
 net-misc/wireshark-sap-plugin 0.9.1: Wireshark plugin for SAP's protocols
