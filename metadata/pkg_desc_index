@@ -790,7 +790,7 @@ net-misc/sipp 3.6.1_p20210826: A free Open Source test tool / traffic generator 
 net-misc/sippts 2.0.4: set of tools to audit VoIP servers and devices using SIP protocol
 net-misc/t50 5.8.5 5.8.7: Mixed Packet Injector & Network Stress Testing Tool
 net-misc/tko-subs 20190624: A tool that can help detect and takeover subdomains with dead DNS records
-net-misc/voipong 2.0-r1: detect all VoIP calls on a pipeline and dump actual conversation
+net-misc/voipong 2.0_p20111230: detect all VoIP calls on a pipeline and dump actual conversation
 net-misc/waybackurls 0.0.2: Fetch all the URLs that the Wayback Machine knows about for a domain
 net-misc/wireshark-patoolkit 20191029: a collection of traffic analysis Wireshark plugins focused on security
 net-misc/wireshark-sap-plugin 0.9.1: Wireshark plugin for SAP's protocols
@@ -948,7 +948,7 @@ sys-kernel/fragattacks-drivers58 20210507: Wi-Fi fragmentation and aggregation v
 sys-kernel/ft60x_driver 20180209 20190318: USB FT60x driver
 sys-kernel/kconfig-hardened-check 0.5.17 0.6.1 9999: A script for checking the hardening options in the Linux kernel config
 sys-kernel/pentoo-lts-sources 2: Pentoo kernel sources (kernel series .)
-sys-kernel/pentoo-sources 5.15.93 6.1.13: Pentoo kernel sources (kernel series 6.1)
+sys-kernel/pentoo-sources 6.1.21: Pentoo kernel sources (kernel series 6.1)
 sys-kernel/pf_ring-kmod 7.0.0 7.8.0_p20210421: High-speed packet processing framework (kernel modules for)
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
 sys-power/acpid 2.0.33: Daemon for Advanced Configuration and Power Interface
