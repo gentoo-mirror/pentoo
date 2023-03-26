@@ -9,5 +9,5 @@ LICENSE=RPL1.5
 PROPERTIES=live
 RDEPEND=dev-perl/LWP-UserAgent-Determined virtual/perl-MIME-Base64 virtual/perl-Getopt-Long virtual/perl-Time-HiRes virtual/perl-Compress-Raw-Zlib dev-perl/Crypt-SSLeay
 SLOT=0
-_eclasses_=git-r3	c57c50c922e121043788de0b40ada60a
+_eclasses_=git-r3	27e13c09a4c7e4c78ac812f74727e676
 _md5_=32796e0b0b3e303f02448963ea1bc2ba
