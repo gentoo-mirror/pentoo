@@ -141,11 +141,6 @@ dev-util/catalyst:ccache - Add ccache support
 dev-util/catalyst:iso - Add ISO support
 dev-util/catalyst:system-bootloader - Add bootloader support
 dev-util/mobsf:genymotion - Add app-emulation/genymotion-bin support
-dev-util/nvidia-cuda-toolkit:debugger - Install the CUDA debugger
-dev-util/nvidia-cuda-toolkit:nsight - Install profiling and optimizing tools (nsight-compute, nsight-systems)
-dev-util/nvidia-cuda-toolkit:profiler - Install the NVIDIA CUDA profiler (nvprof) and the related libraries
-dev-util/nvidia-cuda-toolkit:sanitizer - Install compute-sanitizer tool
-dev-util/nvidia-cuda-toolkit:vis-profiler - Install the NVIDIA CUDA visual profiler (nvvp)
 dev-util/objection:patchapk - Add support to patch APKs
 dev-util/qark:exploit - Add support for generating exploit APKs
 dev-util/recaf-bin:system-openjfx - Add OpenJFX support
