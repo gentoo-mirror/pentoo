@@ -256,7 +256,7 @@ dev-python/aiogpt 0.0.9:
 dev-python/aiogram 2.24 3.0.0_beta4-r1 3.0.0_beta6-r1: Asynchronous framework for Telegram Bot API
 dev-python/aiogram_dialog 1.9.0 2.0.0_beta9 2.0.0_beta11: GUI framework on top of aiogram
 dev-python/aiomultiprocess 0.8.0 0.9.0: asyncio version of the standard multiprocessing module
-dev-python/aiopg 1.2.1 1.4.0: aiopg is a library for accessing a PostgreSQL database from the asyncio
+dev-python/aiopg 1.4.0-r1: Postgres integration with asyncio
 dev-python/aiosmb 0.4.2 0.4.4: Asynchronous SMB protocol implementation
 dev-python/aiosqlite 0.17.0 0.18.0: asyncio bridge to the standard sqlite3 module
 dev-python/aiowinreg 0.0.4 0.0.7: Windows registry file reader
