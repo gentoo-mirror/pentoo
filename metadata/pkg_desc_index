@@ -878,7 +878,7 @@ net-wireless/rtl8812au_aircrack-ng 5.6.4.2_p20221222 9999: RTL8812AU/21AU and RT
 net-wireless/rtl8822bu 5.3.1_p20190920 5.8.7.4_p20210626 9999: RTL88x2BU driver with monitor mode and frame injection
 net-wireless/rtl_power_fftw 0.0_p20200601 9999: power spectrum for RTLSDR dongles
 net-wireless/rx_tools 1.0.3-r1 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
-net-wireless/sdrangel 7.7.0 7.8.1: SDR Rx/Tx software
+net-wireless/sdrangel 7.8.1 7.11.0: SDR Rx/Tx software
 net-wireless/sdrpp 1.0.4 9999: a cross-platform SDR software with the aim of being bloat free and simple to use
 net-wireless/sdrtrunk 0.5.0_beta6-r1 0.5.0: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/sdrtrunk-bin 0.4.0-r1 0.5.0: Decode, monitor, record and stream trunked mobile and related radio protocols
