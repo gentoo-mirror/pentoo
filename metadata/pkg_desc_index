@@ -634,7 +634,8 @@ dev-util/jd-cli 1.2.0 1.2.1: Command line Java Decompiler
 dev-util/jd-cli-bin 1.2.1: Command line Java Decompiler
 dev-util/jd-gui 1.6.6-r4: A standalone Java Decompiler GUI
 dev-util/jd-gui-bin 1.6.6-r1: A standalone Java Decompiler GUI
-dev-util/jnitrace 3.2.2 3.3.0: A Frida based tool that traces usage of the JNI API in Android apps.
+dev-util/jnitrace 3.3.0 3.3.1: A Frida based tool that traces usage of the JNI API in Android apps.
+dev-util/jnitrace-engine 20230402: Engine used by jnitrace to intercept JNI API calls.
 dev-util/kaleido-bin 0.2.1: Static image export for web-based visualization libraries
 dev-util/lief 0.12.2 0.12.3: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process

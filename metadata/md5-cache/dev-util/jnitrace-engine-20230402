@@ -1,0 +1,11 @@
+BDEPEND=net-libs/nodejs[npm]
+DEFINED_PHASES=compile
+DESCRIPTION=Engine used by jnitrace to intercept JNI API calls.
+EAPI=8
+HOMEPAGE=https://github.com/chame1eon/jnitrace-engine
+KEYWORDS=~amd64 ~x86
+LICENSE=MIT
+RDEPEND=net-libs/nodejs
+SLOT=0
+SRC_URI=https://github.com/chame1eon/jnitrace-engine/archive/1d1233c4c9f2bf197b94406dd4fa64a7adadb717.tar.gz -> jnitrace-engine-20230402.tar.gz https://dev.pentoo.ch/~blshkv/distfiles/jnitrace-engine-20230402-node_modules.tar.gz
+_md5_=7ea422218c43f3bde6118168d8c98788
