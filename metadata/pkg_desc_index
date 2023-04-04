@@ -260,7 +260,7 @@ dev-python/aiopg 1.4.0-r1: Postgres integration with asyncio
 dev-python/aiosmb 0.4.2 0.4.4: Asynchronous SMB protocol implementation
 dev-python/aiosqlite 0.17.0 0.18.0: asyncio bridge to the standard sqlite3 module
 dev-python/aiowinreg 0.0.7 0.0.9: Windows registry file reader
-dev-python/altgraph 0.17: A constructing graphs, BFS and DFS traversals, etc
+dev-python/altgraph 0.17 0.17.3: A constructing graphs, BFS and DFS traversals, etc
 dev-python/apkid 2.1.2-r1 2.1.3 2.1.4: Android Package Protector Identifier
 dev-python/apng 0.3.3 0.3.4: A Python module to deal with APNG files
 dev-python/arc4 0.2.0: A small and insanely fast ARCFOUR (RC4) cipher
@@ -486,7 +486,7 @@ dev-python/shodan 1.25.0 1.28.0: Python library and command-line utility for Sho
 dev-python/simplekv 0.14.0: A key-value storage for binary data, support many backends.
 dev-python/simplesoapy 1.5.1-r1 9999: Simple pythonic wrapper for SoapySDR library
 dev-python/simplespectral 1.0.0 9999: Heavily simplified scipy.signal.spectral module
-dev-python/slowapi 0.1.7: A rate limiting extension for Starlette and Fastapi
+dev-python/slowapi 0.1.7 0.1.7_p20230321: A rate limiting extension for Starlette and Fastapi
 dev-python/sniffio 1.1.0 1.2.0: Sniff out which async library your code is running under
 dev-python/social-auth-core 3.3.3: Python social authentication made simple
 dev-python/soupsieve 1.9.3-r1: A modern CSS selector implementation for BeautifulSoup
