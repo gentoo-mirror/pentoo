@@ -381,7 +381,7 @@ dev-python/libsast 1.4.1 1.4.4 1.4.5-r1 1.5.2: A generic SAST core built on top 
 dev-python/limits 1.5.1: Rate limiting utilities
 dev-python/litecli 1.4.1-r1 1.5.0: CLI for SQLite Databases with auto-completion and syntax highlighting
 dev-python/lsassy 3.1.4 3.1.6: Python library to parse remote lsass dumps
-dev-python/macholib 1.14: A package is a collection of utilities for dealing with IP addresses
+dev-python/macholib 1.14 1.16.2: A package is a collection of utilities for dealing with IP addresses
 dev-python/magic-filter 1.0.8 1.0.9: Magic filter based on dynamic attribute getter
 dev-python/manuel 1.9.0: Manuel lets you build tested documentation
 dev-python/marshmallow-sqlalchemy 0.15.0 0.21.0: SQLAlchemy integration with the marshmallow (de)serialization library
