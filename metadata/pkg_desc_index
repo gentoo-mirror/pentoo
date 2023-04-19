@@ -469,7 +469,7 @@ dev-python/pyvnc 20220514: Client library for interacting with a VNC session
 dev-python/pywerview 0.3.1-r1 0.3.2-r1: A Python port of PowerSploit's PowerView
 dev-python/pyzipper 0.3.5: AES encryption for zipfile
 dev-python/qt-py 1.3.3: Minimal Python 2 & 3 shim around all Qt bindings
-dev-python/quark-engine 22.1.1 22.9.1: An Obfuscation-Neglect Android Malware Scoring System
+dev-python/quark-engine 22.9.1 23.3.1: An Obfuscation-Neglect Android Malware Scoring System
 dev-python/queuelib 1.5.0: Collection of persistent (disk-based) queues
 dev-python/rangeparser 0.1.3-r1: A python package to parse ranges easily
 dev-python/rcssmin 1.0.6: RCSSmin is a CSS minifier
