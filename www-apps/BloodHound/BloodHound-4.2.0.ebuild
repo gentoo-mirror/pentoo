@@ -1,9 +1,7 @@
-# Copyright 1999-2022 Gentoo Authors
+# Copyright 1999-2023 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI=7
-
-inherit eutils
+EAPI=8
 
 #package.json: "electron": "^11.5.0"
 ELECTRON_PV="11.5.0"
@@ -32,7 +30,7 @@ BLOODHOUND_BINDIR="FAIL_TO_DETECT_ARCH"
 QA_FLAGS_IGNORED="usr/lib.*/BloodHound/.*\.so"
 
 src_prepare() {
-	epatch "${FILESDIR}/4.1.1-singlearch.patch"
+	eapply "${FILESDIR}/4.2.0-singlearch.patch"
 	#https://github.com/electron/electron-packager/issues/187
 #	epatch "${FILESDIR}/3.0.3-packager_14_2_1.patch"
 	mv "${WORKDIR}/node_modules" "${S}"
