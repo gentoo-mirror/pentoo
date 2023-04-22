@@ -630,7 +630,7 @@ dev-util/electron-bin 6.0.11: Cross platform application development framework b
 dev-util/electron-packager 14.2.1: Six Degrees of Domain Admin
 dev-util/frida-tools 12.0.2 12.1.1: Frida CLI tools
 dev-util/ghidra 10.2.2-r2 10.2.3: A software reverse engineering framework
-dev-util/jadx-bin 1.4.5 1.4.6: A standalone graphical utility that displays Java source codes of .class file
+dev-util/jadx-bin 1.4.6 1.4.7: A standalone graphical utility that displays Java source codes of .class file
 dev-util/jd-cli 1.2.0 1.2.1: Command line Java Decompiler
 dev-util/jd-cli-bin 1.2.1: Command line Java Decompiler
 dev-util/jd-gui 1.6.6-r4: A standalone Java Decompiler GUI
@@ -675,7 +675,6 @@ net-analyzer/bonesi 0.3.1 9999: BoNeSi - the DDoS botnet simulator
 net-analyzer/cameradar 5.0.1 5.0.2: Cameradar hacks its way into RTSP videosurveillance cameras
 net-analyzer/capanalysis 1.2.3: A web visual tool for information security specialists
 net-analyzer/cisco-auditing-tool 1: Perl script which scans cisco routers for common vulnerabilities.
-net-analyzer/cisco-torch 0.4b: Cisco mass scanning, fingerprinting, and exploitation tool
 net-analyzer/commix 3.4 3.6: Automated All-in-One OS command injection and exploitation tool
 net-analyzer/cottontail 20190426-r1: Capture all RabbitMQ messages being sent through a broker
 net-analyzer/crackmapexec 5.2.2 5.3.0-r1 5.4.0: A swiss army knife for pentesting Windows/Active Directory environments
