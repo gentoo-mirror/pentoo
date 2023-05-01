@@ -5,12 +5,12 @@ DESCRIPTION=Library for Windows NT data types
 EAPI=8
 HOMEPAGE=https://github.com/libyal/libfwnt
 INHERIT=python-single-r1 autotools
-IUSE=debug nls python +threads python_single_target_python3_9 python_single_target_python3_10 python_single_target_python3_11
+IUSE=debug nls python +threads python_single_target_python3_10 python_single_target_python3_11
 KEYWORDS=amd64 ~arm64 x86
 LICENSE=LGPL-3
-RDEPEND=dev-libs/libcdata[nls=] dev-libs/libcerror[nls=] dev-libs/libcnotify[nls=] dev-libs/libcthreads[nls=] nls? ( virtual/libiconv virtual/libintl ) python? ( dev-lang/python:* ) python? ( python_single_target_python3_9? ( >=dev-lang/python-3.9.16-r1:3.9 ) python_single_target_python3_10? ( >=dev-lang/python-3.10.9-r1:3.10 ) python_single_target_python3_11? ( >=dev-lang/python-3.11.1-r1:3.11 ) )
-REQUIRED_USE=python? ( ^^ ( python_single_target_python3_9 python_single_target_python3_10 python_single_target_python3_11 ) )
+RDEPEND=dev-libs/libcdata[nls=] dev-libs/libcerror[nls=] dev-libs/libcnotify[nls=] dev-libs/libcthreads[nls=] nls? ( virtual/libiconv virtual/libintl ) python? ( dev-lang/python:* ) python? ( python_single_target_python3_10? ( >=dev-lang/python-3.10.9-r1:3.10 ) python_single_target_python3_11? ( >=dev-lang/python-3.11.1-r1:3.11 ) )
+REQUIRED_USE=python? ( ^^ ( python_single_target_python3_10 python_single_target_python3_11 ) )
 SLOT=0
 SRC_URI=https://github.com/libyal/libfwnt/releases/download/20210906/libfwnt-alpha-20210906.tar.gz
-_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	14a8ae365191b518fad51caad7a08f3e	multilib	d1408425c7c4a7669b9b17735404b693	python-utils-r1	429bfd4e8d8e39db5385ba5744f30788	python-single-r1	75118e916668a74c660a13b0ecb22562	gnuconfig	b6b3e92f8b8c996400074b5f61a59256	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	f0d3196128225dee3220e65f3371bc7a
+_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	14a8ae365191b518fad51caad7a08f3e	multilib	d1408425c7c4a7669b9b17735404b693	python-utils-r1	4544ab96b58e177dc52d75e42f5ee307	python-single-r1	75118e916668a74c660a13b0ecb22562	gnuconfig	b6b3e92f8b8c996400074b5f61a59256	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	f0d3196128225dee3220e65f3371bc7a
 _md5_=12323b56b8ae9875e4290884ae14c088
