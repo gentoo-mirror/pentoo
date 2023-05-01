@@ -506,7 +506,7 @@ dev-python/tls_parser 1.2.2 2.0.0: Small library to parse TLS records.
 dev-python/torrequest 20181011-r2: Simple Python interface for HTTP(s) requests over Tor
 dev-python/truffleHogRegexes 20190518-r1: These are the regexes that power trufflehog
 dev-python/tweepy 3.9.0: A Python library for accessing the Twitter API
-dev-python/types-pytz 2022.6.0.1: Typing stubs for pytz
+dev-python/types-pytz 2022.6.0.1 2023.3.0.0: Typing stubs for pytz
 dev-python/unicrypto 0.0.9 0.0.10: Unified interface for cryptographic libraries
 dev-python/vaderSentiment 3.3.2: VADER Sentiment Analysis
 dev-python/validators 0.14.0: Python Data Validation for Humans
