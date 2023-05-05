@@ -585,7 +585,7 @@ dev-ruby/parseconfig 1.0.8: Provides simple parsing of standard *nix style confi
 dev-ruby/patch_finder 1.0.2: Generic Patch Finder
 dev-ruby/popper_js 2.11.5 2.11.6: Popper.js assets as a Ruby gem
 dev-ruby/rack-accept 0.4.5: HTTP Accept, Accept-Charset, Accept-Encoding, and Accept-Language for Ruby/Rack
-dev-ruby/rack-cors 1.1.1: Rack CORS Middleware
+dev-ruby/rack-cors 1.1.1 2.0.1: Rack CORS Middleware
 dev-ruby/reline 0.1.5 0.1.9 0.1.10 0.2.5: Alternative GNU Readline or Editline implementation by pure Ruby
 dev-ruby/rex 2.0.13: A variety of classes useful for security testing and exploit development
 dev-ruby/rex-arch 0.1.13 0.1.14: architecture specific information for Rex
