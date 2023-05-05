@@ -8,5 +8,5 @@ KEYWORDS=~amd64 ~arm ~x86
 LICENSE=GPL-2
 RDEPEND=>=net-wireless/hackrf-tools-2015.07.2-r1 >=app-mobilephone/dfu-util-0.7
 SLOT=0
-SRC_URI=https://github.com/eried/portapack-mayhem/releases/download/v1.6.0/mayhem_v1.6.0_FIRMWARE.zip sdcard-files? ( https://github.com/eried/portapack-mayhem/releases/download/v1.6.0/mayhem_v1.6.0_COPY_TO_SDCARD.zip )
+SRC_URI=https://github.com/eried/portapack-mayhem/releases/download/v1.7.0/mayhem_v1.7.0_FIRMWARE.zip sdcard-files? ( https://github.com/eried/portapack-mayhem/releases/download/v1.7.0/mayhem_v1.7.0_COPY_TO_SDCARD.zip )
 _md5_=0fcb04662775deda174db08268fd109e
