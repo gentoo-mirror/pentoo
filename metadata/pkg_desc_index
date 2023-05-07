@@ -801,6 +801,7 @@ net-proxy/burpsuite 2023.3.4 2023.3.5 9999: Interactive proxy for attacking and 
 net-proxy/burpsuite-pro 2023.1.1_rc 2023.3.4 2023.3.5: Interactive proxy for attacking and debugging web applications
 net-proxy/insomnia-bin 2022.7.4 2023.1.0: REST API client, a postman alternative
 net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal network via reverse connection
+net-proxy/shadowsocks-rust 1.15.3: Shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
 net-proxy/sshttp 0.35_p2-r1 0.35_p20191108: An easy to use OSI-Layer5 switching daemon
 net-proxy/zaproxy 2.11.1 2.12.0: The OWASP Zed Attack Proxy for finding vulnerabilities in web applications
 net-vpn/kcptun 20200409 20200701: A Stable & Secure Tunnel Based On KCP with N:M Multiplexing
