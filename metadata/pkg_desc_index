@@ -908,7 +908,7 @@ pentoo/pentoo-forensics 2022.2: Pentoo forensics meta ebuild
 pentoo/pentoo-forging 2022.2: Pentoo forging meta ebuild
 pentoo/pentoo-fuzzers 2022.2: Pentoo fuzzers meta ebuild
 pentoo/pentoo-gnome 2.32.1-r3: Meta package for the GNOME desktop, merge this package to install
-pentoo/pentoo-installer 20230322 99999999: Installer for pentoo, based on the ncurses Arch Linux installer
+pentoo/pentoo-installer 20230510 99999999: Installer for pentoo, based on the ncurses Arch Linux installer
 pentoo/pentoo-livecd 2023.0-r2: things needed by pentoo for livecd only
 pentoo/pentoo-misc 2023.0: Pentoo misc meta ebuild
 pentoo/pentoo-mitm 2022.2: Pentoo mitm meta ebuild
