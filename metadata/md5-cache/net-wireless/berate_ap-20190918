@@ -9,5 +9,5 @@ LICENSE=BSD-2
 RDEPEND=sys-apps/util-linux sys-process/procps net-wireless/hostapd-mana sys-apps/iproute2 net-wireless/iw net-misc/bridge-utils net-dns/dnsmasq net-firewall/iptables
 SLOT=0
 SRC_URI=https://github.com/sensepost/berate_ap/archive/8419908b79bae16ecb3567808e05639d4ab8dd6e.tar.gz -> berate_ap-20190918.tar.gz
-_eclasses_=toolchain-funcs	14a8ae365191b518fad51caad7a08f3e	multilib	104e1332efb829e2f7cbf89307a474f1	bash-completion-r1	59cf54afadd3b37d31d9d85c7d7d8067	systemd	5f4bb0758df2e483babf68cd517078ca
+_eclasses_=toolchain-funcs	14a8ae365191b518fad51caad7a08f3e	multilib	104e1332efb829e2f7cbf89307a474f1	bash-completion-r1	2d494116054ca45ab8d545a5da206bbb	systemd	5f4bb0758df2e483babf68cd517078ca
 _md5_=0cf59f8f7d687433bf8297028e868cbc
