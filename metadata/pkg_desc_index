@@ -718,10 +718,9 @@ net-analyzer/nbtool 20140416: Some tools for NetBIOS and DNS investigation, atta
 net-analyzer/ncrack 0.7: Ncrack is a high-speed network authentication cracking tool
 net-analyzer/nmap-vulners 1.2 1.4_beta 9999: NSE script based on Vulners.com API
 net-analyzer/nmap_vulscan 2.1 9999: A NSE vulnerability scanner which uses an offline version of scip VulDB
-net-analyzer/ntlmrecon 0.2_beta 0.4_beta: A tool to enumerate information from NTLM authentication enabled web endpoints
+net-analyzer/ntlmrecon 0.4_beta: A tool to enumerate information from NTLM authentication enabled web endpoints
 net-analyzer/onesixtyone 0.7: An efficient SNMP scanner
 net-analyzer/osmedeus 9999: A offensive security tool for reconnaissance and vulnerability scanning
-net-analyzer/owtf 2.6.0-r1 2.6.0_p20210714-r1 2.6.0_p20220317: The Offensive Web Testing Framework
 net-analyzer/padbuster 20110928: Automated script for performing Padding Oracle attacks
 net-analyzer/plecost 9999: Wordpress finger printing tool, retrieve information about the plugins and versions installed
 net-analyzer/polenum 1.6.1: Extract password policy from a windows machine
