@@ -57,7 +57,7 @@ app-exploits/unix-privesc-check 20210207 99999999: Shell script to check for sim
 app-exploits/webshells 20230128 99999999: Various webshells
 app-exploits/weevely 4.0.1 9999: Weevely is a stealth PHP web shell that simulate telnet-like console
 app-exploits/wesng 20200616 99999999: Windows Exploit Suggester - Next Generation
-app-forensics/bulk_extractor 1.6.0 2.0.0_beta3 9999: Scans a disk image for regular expressions and other content
+app-forensics/bulk_extractor 1.6.0 2.0.3 9999: Scans a disk image for regular expressions and other content
 app-forensics/dfvfs 20220419 20220430 20220917: Digital Forensics Virtual File System (dfVFS)
 app-forensics/dfwinreg 20200121 20200415 20201006 20211205 20211207: Digital Forensics Windows Registry (dfWinReg)
 app-forensics/eagleeye 9999 20211020: Find people's social media profile using reverse image search
@@ -70,7 +70,7 @@ app-forensics/libbfio 20220120 20221025: Library for providing a basic file inpu
 app-forensics/libesedb 20210424 20220806: Library and tools to access the Extensible Storage Engine Database File format.
 app-forensics/libevt 20210424 20221022: Library and tools to access the Windows Event Log (EVT) format
 app-forensics/libevtx 20220724 20221101: Library and tools to access the Windows XML Event Log (EVTX) format
-app-forensics/libewf 20201210 20201230: Libewf is a library to access the Expert Witness Compression Format (EWF)
+app-forensics/libewf 20201230 20230212: Libewf is a library to access the Expert Witness Compression Format (EWF)
 app-forensics/libexe 20210424 20221023: Library and tools to access the executable (EXE) format
 app-forensics/libforensic1394 0.2-r1 9999: Library for carrying out memory forensics using firewire/ieee1394
 app-forensics/libfsapfs 20220709 20221102: Library and tools to access the Apple File System (APFS)
@@ -180,7 +180,7 @@ dev-libs/cm256cc 1.1.0: Fast GF(256) Cauchy MDS Block Erasure Codec in C++
 dev-libs/cudnn 8.8.0.121: NVIDIA Accelerated Deep Learning on GPU library
 dev-libs/frida-core 16.0.4-r1 16.0.11: Dynamic instrumentation toolkit for reverse-engineers and security researchers
 dev-libs/hashdb 3.1.0-r1: The hashdb block hash database tool and API
-dev-libs/libcaes 20220424 20220529: Library to support cross-platform AES encryption
+dev-libs/libcaes 20221127 20230406: Library to support cross-platform AES encryption
 dev-libs/libcdata 20220103 20220115: Library for cross-platform C generic data functions
 dev-libs/libcdatetime 20200510 20220104: Library for cross-platform C date and time functions
 dev-libs/libcdirectory 20200702 20220105: Library for cross-platform C directory functions
@@ -213,7 +213,7 @@ dev-libs/libfwnt 20210906 20220922: Library for Windows NT data types
 dev-libs/libfwps 20191221 20220122: Library for Windows Property Store data types
 dev-libs/libfwsi 20220123 20220927: Library to access the Windows Shell Item format
 dev-libs/libguytools2 2.1.0: Library for guymager
-dev-libs/libhmac 20200104 20220425: Library to support various Hash-based Message Authentication Codes (HMAC)
+dev-libs/libhmac 20230407: Library to support various Hash-based Message Authentication Codes (HMAC)
 dev-libs/libmapidb 20170125 20170304: Library to access the Exchange MAPI database format
 dev-libs/libsigscan 20220124 20221027: Library for binary signature scanning.
 dev-libs/libsmdev 20210418 20221028: Library to access to storage media devices
@@ -879,7 +879,7 @@ net-wireless/rtl8812au_aircrack-ng 5.6.4.2_p20221222 9999: RTL8812AU/21AU and RT
 net-wireless/rtl8822bu 5.3.1_p20190920 5.8.7.4_p20210626 9999: RTL88x2BU driver with monitor mode and frame injection
 net-wireless/rtl_power_fftw 0.0_p20200601 9999: power spectrum for RTLSDR dongles
 net-wireless/rx_tools 1.0.3_p20190331 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
-net-wireless/sdrangel 7.8.1 7.11.0: SDR Rx/Tx software
+net-wireless/sdrangel 7.11.0 7.13.0: SDR Rx/Tx software
 net-wireless/sdrpp 1.0.4 9999: a cross-platform SDR software with the aim of being bloat free and simple to use
 net-wireless/sdrtrunk 0.5.0_beta6-r1 0.5.0: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/sdrtrunk-bin 0.4.0-r1 0.5.0: Decode, monitor, record and stream trunked mobile and related radio protocols
