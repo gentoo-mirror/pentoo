@@ -278,7 +278,7 @@ dev-python/biplist 1.0.3: A binary plist parser/generator for Python
 dev-python/bitstruct 8.15.1: conversions between Python values and C bit field structs
 dev-python/blinkstick 1.1.8_p20200211 9999: BlinkStick Python interface to control devices connected to the computer
 dev-python/bluepy 1.3.0-r1: Python interface to Bluetooth LE on Linux
-dev-python/captcha 0.3: Library that generates audio and image CAPTCHAs
+dev-python/captcha 0.4: Library that generates audio and image CAPTCHAs
 dev-python/cement 2.10: Application Framework for Python
 dev-python/censys 2.1.8: Python library for interacting with Censys Search Engine (censys.io)
 dev-python/cfscrape 2.1.1: A module to bypass Cloudflare's anti-bot page
@@ -304,7 +304,7 @@ dev-python/django-oauth-toolkit 1.1.3 1.2.0 1.5.0: OAuth2 goodies for the Django
 dev-python/django-post_office-haiwen 20180914: A Django app to monitor and send mail asynchronously
 dev-python/django-pylibmc 0.6.1: Django cache backend using pylibmc
 dev-python/django-ranged-response 0.2.0: Django FileResponse that adds Content-Range headers
-dev-python/django-simple-captcha 0.5.12: A very simple, yet powerful, Django captcha application
+dev-python/django-simple-captcha 0.5.17: A very simple, yet powerful, Django captcha application
 dev-python/django-statici18n 1.8.3: Django helper for generating Javascript catalog to static files
 dev-python/django-webpack-loader 0.6.0: Transparently use webpack with django
 dev-python/django_compressor 2.4: Compresses linked and inline JavaScript or CSS into single cached files
@@ -963,7 +963,7 @@ www-apps/beef 0.5.0.0-r1: Browser exploitation framework
 www-apps/faraday 3.10.0-r1: Integrated Penetration-Test Environment is a multiuser Penetration test IDE
 www-apps/geckodriver 0.27.0 0.30.0: Proxy for using WebDriver clients to interact with Gecko-based browsers.
 www-apps/rda 3.0 3.2: Web-based application for effective reporting writing
-www-apps/seafile-pro-server 9.0.15 9.0.16: Meta package for Seafile Pro Edition, file sync share solution
+www-apps/seafile-pro-server 9.0.16 10.0.4: Meta package for Seafile Pro Edition, file sync share solution
 www-apps/vulsrepo 20190412-r3: VulsRepo is visualized based on the json report output in vuls
 www-plugins/hackplugins-meta 20200428: Collection of browser's plugins for application security testing
 x11-libs/qwt-multiaxes 9999: 2D plotting library for Qt5
