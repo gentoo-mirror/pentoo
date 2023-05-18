@@ -875,7 +875,7 @@ net-wireless/qspectrumanalyzer 2.2.0 9999: vendor and platform neutral SDR suppo
 net-wireless/reaver-wps-fork-t6x 1.6.5-r1 1.6.6: Utilise Pixie Dust Attack to find the correct WPS PIN.
 net-wireless/rfcat 1.9.5-r1: The swiss army knife of subGHz
 net-wireless/rtl8812au 4.2.5 4.3.1.4 4.3.14_p20190827 5.2.9_p20180327 5.6.4.2_p20200318 5.6.4.2_p20200703: Linux kernel driver for rtl8812au USB WiFi chipsets
-net-wireless/rtl8812au_aircrack-ng 5.6.4.2_p20221222 9999: RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection
+net-wireless/rtl8812au_aircrack-ng 5.6.4.2_p20221222 5.6.4.2_p20230501 9999: RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection
 net-wireless/rtl8822bu 5.3.1_p20190920 5.8.7.4_p20210626 9999: RTL88x2BU driver with monitor mode and frame injection
 net-wireless/rtl_power_fftw 0.0_p20200601 9999: power spectrum for RTLSDR dongles
 net-wireless/rx_tools 1.0.3_p20190331 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
@@ -950,7 +950,7 @@ sys-kernel/ft60x_driver 20180209 20190318: USB FT60x driver
 sys-kernel/kconfig-hardened-check 0.5.17 0.6.1 9999: A script for checking the hardening options in the Linux kernel config
 sys-kernel/nvidia-bl 0.17.3: Driver to adjust display backlight on legacy mobile NVidia graphics adapters
 sys-kernel/pentoo-lts-sources 2: Pentoo kernel sources (kernel series .)
-sys-kernel/pentoo-sources 6.1.29 6.2.8: Pentoo kernel sources (kernel series 6.2)
+sys-kernel/pentoo-sources 6.1.29 6.3.3: Pentoo kernel sources (kernel series 6.3)
 sys-kernel/pf_ring-kmod 7.8.0_p20210421: High-speed packet processing framework (kernel modules for)
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
 sys-power/acpid 2.0.33: Daemon for Advanced Configuration and Power Interface
