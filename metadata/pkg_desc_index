@@ -556,7 +556,7 @@ dev-ruby/espeak-ruby 1.0.4: A small API for utilizing 'espeak' and 'lame' to cre
 dev-ruby/fastercsv 1.5.5: A complete replacement to the CSV standard library
 dev-ruby/faye-websocket 0.11.0: Standards-compliant WebSocket server and client
 dev-ruby/get_process_mem 0.2.5 0.2.7: Get memory usage of a process
-dev-ruby/grape 1.5.1 1.6.2: A Ruby framework for rapid API development with great conventions
+dev-ruby/grape 1.6.2 1.7.1: A Ruby framework for rapid API development with great conventions
 dev-ruby/grape-active_model_serializers 1.5.2: Provides a Formatter for the Grape API DSL
 dev-ruby/hashie-forbidden_attributes 0.1.1: Automatic strong parameter detection with Hashie and Forbidden Attributes
 dev-ruby/hrr_rb_ssh 0.4.2: Pure Ruby SSH 2.0 server and client implementation
@@ -575,7 +575,7 @@ dev-ruby/metasploit_data_models 5.0.4: The database layer for Metasploit
 dev-ruby/metasploit_payloads-mettle 1.0.17: Compiled binaries for Metasploit's next-gen Meterpreter
 dev-ruby/mini_exiftool 2.10.0: wrapper for exiftool
 dev-ruby/msfrpc-client 1.1.2: Ruby client API to access the Rapid7 Metasploit Pro RPC service
-dev-ruby/mustermann-grape 1.0.1: Adds Grape style patterns to Mustermman
+dev-ruby/mustermann-grape 1.0.2: Adds Grape style patterns to Mustermman
 dev-ruby/opt_parse_validator 1.9.5-r1: OptionParser lib in ruby
 dev-ruby/orm_adapter 0.5.0: Provides a single point of entry for using basic features of ruby ORMs
 dev-ruby/otr-activerecord 1.4.1: Off The Rails ActiveRecord: Use ActiveRecord with Grape, Sinatra, Rack
