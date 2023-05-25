@@ -766,7 +766,7 @@ net-dialup/minimodem 0.24: General-purpose software audio FSK modem.
 net-im/jitsi 2.11.5633: Secure IM communicator that supports SIP, XMPP, AIM/ICQ, Windows Live, Yahoo
 net-im/jitsi-videobridge 1132: https://github.com/jitsi/jitsi-videobridge
 net-libs/libosmocore 1.6.0-r1 1.6.0_p20220508: Utility functions for OsmocomBB, OpenBSC and related projects
-net-libs/libpfring 7.8.0 8.0.0: A new type of network socket that improves packet capture speed.
+net-libs/libpfring 8.0.0 8.4.0: A new type of network socket that improves packet capture speed.
 net-libs/libtins 4.3: High-level, multiplatform C++ network packet sniffing and crafting library.
 net-mail/davmail-bin 6.0.0.3375 6.0.1.3390: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
 net-mail/email2phonenumber 20190916-r1 99999999: A OSINT tool to obtain a target's phone number just by having his email address
@@ -888,7 +888,7 @@ net-wireless/soapy_power 1.6.1-r1 9999: Obtain power spectrum from SoapySDR devi
 net-wireless/srsran 22.10 9999: Open source SDR 4G software suite from Software Radio Systems
 net-wireless/trunk-recorder 4.4.0 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
 net-wireless/wifipumpkin3 1.1.4 1.1.5: Framework for Rogue Wi-Fi Access Point Attack
-net-wireless/wifite 2.6.6 2.6.8: An automated wireless attack tool
+net-wireless/wifite 2.6.8 2.6.9: An automated wireless attack tool
 net-wireless/wireless-regdb 20220606-r1: Binary regulatory database for CRDA
 net-wireless/wpa_sycophant 1.0 9999: Evil client portion of EAP relay attack
 pentoo/pentoo 2015.1: Pentoo meta ebuild to install all apps
