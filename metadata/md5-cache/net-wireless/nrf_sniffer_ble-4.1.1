@@ -1,13 +1,13 @@
 DEFINED_PHASES=install setup
-DEPEND=net-analyzer/wireshark || ( >=dev-lang/python-3.11.1-r1:3.11 >=dev-lang/python-3.10.9-r1:3.10 )
+DEPEND=net-analyzer/wireshark || ( >=dev-lang/python-3.11.3:3.11 >=dev-lang/python-3.10.11:3.10 )
 DESCRIPTION=nRF Sniffer for Bluetooth LE
 EAPI=8
 HOMEPAGE=https://www.nordicsemi.com/Products/Development-tools/nRF-Sniffer-for-Bluetooth-LE
 INHERIT=python-any-r1
 KEYWORDS=amd64 arm arm64 x86
 LICENSE=MIT
-RDEPEND=net-analyzer/wireshark || ( >=dev-lang/python-3.11.1-r1:3.11 >=dev-lang/python-3.10.9-r1:3.10 ) || ( ( >=dev-lang/python-3.11.1-r1:3.11 dev-python/pyserial[python_targets_python3_11(-)] ) ( >=dev-lang/python-3.10.9-r1:3.10 dev-python/pyserial[python_targets_python3_10(-)] ) )
+RDEPEND=net-analyzer/wireshark || ( >=dev-lang/python-3.11.3:3.11 >=dev-lang/python-3.10.11:3.10 ) || ( ( >=dev-lang/python-3.11.3:3.11 dev-python/pyserial[python_targets_python3_11(-)] ) ( >=dev-lang/python-3.10.11:3.10 dev-python/pyserial[python_targets_python3_10(-)] ) )
 SLOT=0
 SRC_URI=https://nsscprodmedia.blob.core.windows.net/prod/software-and-other-downloads/desktop-software/nrf-sniffer/sw/nrf_sniffer_for_bluetooth_le_4.1.1.zip -> nrf_sniffer_ble-4.1.1.zip
-_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	14a8ae365191b518fad51caad7a08f3e	multilib	104e1332efb829e2f7cbf89307a474f1	python-utils-r1	d676fb844e9408f4290d20bc7312f8bb	python-any-r1	d2955aaac8daaaa69fcc6dc93ed19f29
+_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	14a8ae365191b518fad51caad7a08f3e	multilib	104e1332efb829e2f7cbf89307a474f1	python-utils-r1	ba15b8b81f30ca448294d759a9f7902c	python-any-r1	d2955aaac8daaaa69fcc6dc93ed19f29
 _md5_=e2a7651ba00ae39e1e00ecedfe69eb31
