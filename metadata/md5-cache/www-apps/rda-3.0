@@ -8,5 +8,5 @@ KEYWORDS=~amd64
 LICENSE=none
 RDEPEND=mysql? ( virtual/mysql ) dev-ruby/rails:6.0 dev-ruby/activerecord:6.0[mysql?] dev-ruby/activerecord-session_store dev-ruby/bootstrap dev-ruby/ckeditor_rails dev-ruby/jquery-rails:4 dev-ruby/jquery-ui-rails:6 dev-ruby/mini_magick media-gfx/imagemagick[png,jpeg] dev-ruby/rake dev-ruby/sablon dev-ruby/similar_text dev-ruby/will_paginate dev-ruby/grape dev-ruby/rack-cors dev-ruby/grape-active_model_serializers dev-ruby/sass-rails:5.1 dev-ruby/uglifier dev-ruby/coffee-rails
 SLOT=3
-_eclasses_=ruby-utils	ded1d92dc7636277a04b01f3b3cb7e26	ruby-single	291cec9036393ebb5b11a4199edce193
+_eclasses_=ruby-utils	e06533c14f2bbca05b01fb6b0506e83a	ruby-single	291cec9036393ebb5b11a4199edce193
 _md5_=935fad1f1a840c9380c8c8e43fee6275
