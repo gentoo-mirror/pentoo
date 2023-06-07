@@ -56,7 +56,7 @@ app-exploits/unix-privesc-check 20210207 99999999: Shell script to check for sim
 app-exploits/webshells 20230128 99999999: Various webshells
 app-exploits/weevely 4.0.1 9999: Weevely is a stealth PHP web shell that simulate telnet-like console
 app-exploits/wesng 20200616 99999999: Windows Exploit Suggester - Next Generation
-app-forensics/bulk_extractor 1.6.0 2.0.3 9999: Scans a disk image for regular expressions and other content
+app-forensics/bulk_extractor 1.6.0 2.0.3 2.0.3-r1: Scans a disk image for regular expressions and other content
 app-forensics/dfvfs 20220419 20220430 20220917: Digital Forensics Virtual File System (dfVFS)
 app-forensics/dfwinreg 20200121 20200415 20201006 20211205 20211207: Digital Forensics Windows Registry (dfWinReg)
 app-forensics/eagleeye 9999 20211020: Find people's social media profile using reverse image search
