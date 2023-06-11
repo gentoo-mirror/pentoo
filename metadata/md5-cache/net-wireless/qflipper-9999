@@ -11,5 +11,5 @@ PROPERTIES=live
 RDEPEND=>=dev-libs/nanopb-0.4.5[pb-malloc] qt5? ( dev-qt/qtconcurrent:5= dev-qt/qtcore:5= dev-qt/qtdeclarative:5= dev-qt/qtgui:5= dev-qt/qtnetwork:5= dev-qt/qtquickcontrols:5= dev-qt/qtquickcontrols2:5= dev-qt/qtserialport:5= dev-qt/qtsvg:5= dev-qt/qtwidgets:5= ) sys-libs/zlib:= virtual/libusb:1
 REQUIRED_USE=^^ ( qt5 )
 SLOT=0
-_eclasses_=toolchain-funcs	513c31b3346458ed1f3878b57da6d61c	multilib	c19072c3cd7ac5cb21de013f7e9832e0	qmake-utils	59420c906278d16deaaa629f9d115707	git-r3	27e13c09a4c7e4c78ac812f74727e676
+_eclasses_=toolchain-funcs	513c31b3346458ed1f3878b57da6d61c	multilib	c19072c3cd7ac5cb21de013f7e9832e0	qmake-utils	dc3c4c93818f11a547a93d71d3f180f1	git-r3	27e13c09a4c7e4c78ac812f74727e676
 _md5_=763bfee1420019a994006ff8a8f7e61b
