@@ -7,5 +7,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=BSD-2
 RDEPEND=sci-libs/fftw net-libs/libhackrf
 SLOT=0
-SRC_URI=https://github.com/scateu/kalibrate-hackrf/archive/2492c20822ca6a49dce97967caf394b1d4b2c43e.tar.gz -> kalibrate-hackrf-20160704.tar.gz
-_md5_=6d9e284a139e7de31f32e0c80e2574d4
+SRC_URI=https://github.com/scateu/kalibrate-hackrf/archive/5d907327a490cc6b8ede7862d73c5e7394a5a253.tar.gz -> kalibrate-hackrf-20220321.tar.gz
+_md5_=df9cab50a657185dfd9796d839704f3f
