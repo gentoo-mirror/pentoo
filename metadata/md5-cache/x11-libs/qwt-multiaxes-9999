@@ -10,5 +10,5 @@ LICENSE=qwt
 PROPERTIES=live
 RDEPEND=dev-qt/qtconcurrent:5 dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtprintsupport:5 dev-qt/qtwidgets:5 designer? ( dev-qt/designer:5 ) opengl? ( dev-qt/qtopengl:5 virtual/opengl ) svg? ( dev-qt/qtsvg:5 )
 SLOT=6/1.9999
-_eclasses_=toolchain-funcs	513c31b3346458ed1f3878b57da6d61c	multilib	c19072c3cd7ac5cb21de013f7e9832e0	qmake-utils	a9633c59de46f2f1e040e40d06658a60	estack	055c42df72f76a4f45ec92b35e83cd56	subversion	44c6a1cae0381c100a526e3b348622cd
+_eclasses_=toolchain-funcs	513c31b3346458ed1f3878b57da6d61c	multilib	c19072c3cd7ac5cb21de013f7e9832e0	qmake-utils	a8dd17b1d94586164f5e3fc12b1c6b81	estack	055c42df72f76a4f45ec92b35e83cd56	subversion	44c6a1cae0381c100a526e3b348622cd
 _md5_=b2d2e0d377d0d0f544947b0b159224aa
