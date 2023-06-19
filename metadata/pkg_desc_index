@@ -795,8 +795,8 @@ net-misc/waybackurls 0.0.2: Fetch all the URLs that the Wayback Machine knows ab
 net-misc/wireshark-patoolkit 20191029: a collection of traffic analysis Wireshark plugins focused on security
 net-misc/wireshark-sap-plugin 0.9.1: Wireshark plugin for SAP's protocols
 net-misc/wlan2eth 1.3: Wlan2eth is a tool that converts wlan pcap to ethernet-like frames.
-net-proxy/burpsuite 2023.4.5 2023.5.3 9999: Interactive proxy for attacking and debugging web applications
-net-proxy/burpsuite-pro 2023.1.1_rc 2023.4.5 2023.5.3: Interactive proxy for attacking and debugging web applications
+net-proxy/burpsuite 2023.5.3 2023.5.4 9999: Interactive proxy for attacking and debugging web applications
+net-proxy/burpsuite-pro 2023.1.1_rc 2023.5.3 2023.5.4: Interactive proxy for attacking and debugging web applications
 net-proxy/insomnia-bin 2022.7.4 2023.1.0: REST API client, a postman alternative
 net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal network via reverse connection
 net-proxy/shadowsocks-rust 1.15.3: Shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
@@ -965,7 +965,7 @@ www-apps/beef 0.5.0.0-r1: Browser exploitation framework
 www-apps/faraday 3.10.0-r1: Integrated Penetration-Test Environment is a multiuser Penetration test IDE
 www-apps/geckodriver 0.27.0 0.30.0: Proxy for using WebDriver clients to interact with Gecko-based browsers.
 www-apps/rda 3.2 3.3: Web-based application for effective reporting writing
-www-apps/seafile-pro-server 9.0.16 10.0.4: Meta package for Seafile Pro Edition, file sync share solution
+www-apps/seafile-pro-server 9.0.16 10.0.4 10.0.5: Meta package for Seafile Pro Edition, file sync share solution
 www-apps/vulsrepo 20190412-r3: VulsRepo is visualized based on the json report output in vuls
 www-plugins/hackplugins-meta 20200428: Collection of browser's plugins for application security testing
 x11-libs/qwt-multiaxes 9999: 2D plotting library for Qt5
