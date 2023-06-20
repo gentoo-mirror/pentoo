@@ -9,4 +9,4 @@ PDEPEND=livecd? ( pentoo/pentoo-livecd ) app-editors/nano app-editors/vim app-cr
 RDEPEND=!<pentoo/pentoo-system-2020.2-r6
 SLOT=0
 SRC_URI=amd64? ( http://dev.pentoo.ch/~zero/distfiles/pentoo-grubtheme.tar.xz ) x86? ( http://dev.pentoo.ch/~zero/distfiles/pentoo-grubtheme.tar.xz )
-_md5_=618c34658d4c9abe696f22e370e18634
+_md5_=91e70da027305a6775e4268958d9ec8b
