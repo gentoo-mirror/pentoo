@@ -1,0 +1,16 @@
+BDEPEND=firmware? ( sys-devel/gcc-arm-none-eabi:0 ) virtual/pkgconfig
+DEFINED_PHASES=compile install postinst postrm prepare test
+DEPEND=app-arch/bzip2 dev-libs/jansson:= sys-libs/ncurses:*[tinfo] dev-libs/openssl:= sys-libs/readline:= bluez? ( net-wireless/bluez:= ) qt? ( dev-qt/qtcore:5 dev-qt/qtwidgets:5 dev-qt/qtgui:5 )
+DESCRIPTION=A general purpose RFID tool for Proxmark3 hardware
+EAPI=8
+HOMEPAGE=https://github.com/RfidResearchGroup/proxmark3
+INHERIT=udev toolchain-funcs
+IUSE=+bluez deprecated +firmware +pm3rdv4 +qt standalone-lf-em4100emul standalone-lf-em4100rswb standalone-lf-em4100rwc standalone-lf-hidbrute standalone-lf-hidfcbrute standalone-lf-icehid standalone-lf-nexid standalone-lf-proxbrute standalone-lf-samyrun standalone-lf-tharexde standalone-hf-14asniff standalone-hf-15sniff standalone-hf-aveful standalone-hf-bog standalone-hf-colin standalone-hf-craftbyte standalone-hf-iceclass standalone-hf-legic standalone-hf-mattyrun standalone-hf-mfcsim standalone-hf-msdsal standalone-hf-reblay standalone-hf-tcprst standalone-hf-tmudford standalone-hf-young standalone-dankarmulti
+KEYWORDS=amd64
+LICENSE=GPL-3+
+RDEPEND=app-arch/bzip2 dev-libs/jansson:= sys-libs/ncurses:*[tinfo] dev-libs/openssl:= sys-libs/readline:= bluez? ( net-wireless/bluez:= ) qt? ( dev-qt/qtcore:5 dev-qt/qtwidgets:5 dev-qt/qtgui:5 )
+REQUIRED_USE=?? ( standalone-lf-em4100emul standalone-lf-em4100rswb standalone-lf-em4100rwc standalone-lf-hidbrute standalone-lf-hidfcbrute standalone-lf-icehid standalone-lf-nexid standalone-lf-proxbrute standalone-lf-samyrun standalone-lf-tharexde standalone-hf-14asniff standalone-hf-15sniff standalone-hf-aveful standalone-hf-bog standalone-hf-colin standalone-hf-craftbyte standalone-hf-iceclass standalone-hf-legic standalone-hf-mattyrun standalone-hf-mfcsim standalone-hf-msdsal standalone-hf-reblay standalone-hf-tcprst standalone-hf-tmudford standalone-hf-young standalone-dankarmulti ) standalone-lf-hidfcbrute? ( pm3rdv4 ) standalone-lf-icehid? ( pm3rdv4 ) standalone-lf-nexid? ( pm3rdv4 ) standalone-lf-tharexde? ( pm3rdv4 ) standalone-hf-14asniff? ( pm3rdv4 ) standalone-hf-15sniff? ( pm3rdv4 ) standalone-hf-bog? ( pm3rdv4 ) standalone-hf-colin? ( pm3rdv4 ) standalone-hf-iceclass? ( pm3rdv4 ) standalone-hf-mfcsim? ( pm3rdv4 ) standalone-hf-reblay? ( pm3rdv4 )
+SLOT=0
+SRC_URI=https://github.com/RfidResearchGroup/proxmark3/archive/v4.16717.tar.gz -> proxmark3-4.16717.tar.gz
+_eclasses_=toolchain-funcs	513c31b3346458ed1f3878b57da6d61c	multilib	c19072c3cd7ac5cb21de013f7e9832e0	udev	eec0bbab06977f1cfc5597269c1fa152
+_md5_=fa890968ca63c6de96464d2fc6496ea7
