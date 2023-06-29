@@ -144,7 +144,6 @@ dev-util/mobsf:genymotion - Add app-emulation/genymotion-bin support
 dev-util/objection:patchapk - Add support to patch APKs
 dev-util/qark:exploit - Add support for generating exploit APKs
 dev-util/recaf-bin:system-openjfx - Add OpenJFX support
-dev-util/redasm:database - Add REDasm database support
 dev-util/retdec:system-libs - Use system libraries
 dev-util/sonarscanner-bin:embedded_jre - Install embedded JRE
 media-sound/deinvert:liquid - improve sound quality using net-libs/liquid-dsp

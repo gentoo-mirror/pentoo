@@ -1,14 +1,14 @@
 BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=install setup unpack
 DESCRIPTION=An intentionally designed broken web application based on REST API
-EAPI=7
+EAPI=8
 HOMEPAGE=https://github.com/payatu/Tiredful-API
 INHERIT=python-single-r1 git-r3
 IUSE=python_single_target_python3_10 python_single_target_python3_11
-KEYWORDS=~amd64
 LICENSE=GPL-3
 PROPERTIES=live
-RDEPEND=python_single_target_python3_10? ( dev-python/django[python_targets_python3_10(-)] dev-python/django-oauth-toolkit[python_targets_python3_10(-)] dev-python/djangorestframework[python_targets_python3_10(-)] dev-python/oauthlib[python_targets_python3_10(-)] dev-python/python-oauth2[python_targets_python3_10(-)] dev-python/pyjwt[python_targets_python3_10(-)] ) python_single_target_python3_11? ( dev-python/django[python_targets_python3_11(-)] dev-python/django-oauth-toolkit[python_targets_python3_11(-)] dev-python/djangorestframework[python_targets_python3_11(-)] dev-python/oauthlib[python_targets_python3_11(-)] dev-python/python-oauth2[python_targets_python3_11(-)] dev-python/pyjwt[python_targets_python3_11(-)] )
+RDEPEND=python_single_target_python3_10? ( >=dev-lang/python-3.10.11:3.10 ) python_single_target_python3_11? ( >=dev-lang/python-3.11.3:3.11 ) python_single_target_python3_10? ( dev-python/django[python_targets_python3_10(-)] dev-python/django-oauth-toolkit[python_targets_python3_10(-)] dev-python/djangorestframework[python_targets_python3_10(-)] dev-python/oauthlib[python_targets_python3_10(-)] dev-python/python-oauth2[python_targets_python3_10(-)] dev-python/pyjwt[python_targets_python3_10(-)] ) python_single_target_python3_11? ( dev-python/django[python_targets_python3_11(-)] dev-python/django-oauth-toolkit[python_targets_python3_11(-)] dev-python/djangorestframework[python_targets_python3_11(-)] dev-python/oauthlib[python_targets_python3_11(-)] dev-python/python-oauth2[python_targets_python3_11(-)] dev-python/pyjwt[python_targets_python3_11(-)] )
+REQUIRED_USE=^^ ( python_single_target_python3_10 python_single_target_python3_11 )
 SLOT=0
-_eclasses_=eapi8-dosym	5ac4857ad078256d939c44f7c64197a9	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	513c31b3346458ed1f3878b57da6d61c	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	a34d5f83235297b76d71eaf8deb53768	python-single-r1	75118e916668a74c660a13b0ecb22562	git-r3	27e13c09a4c7e4c78ac812f74727e676
-_md5_=49ba328e36fd8d621eba3cb13d8a77a2
+_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	513c31b3346458ed1f3878b57da6d61c	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	a34d5f83235297b76d71eaf8deb53768	python-single-r1	75118e916668a74c660a13b0ecb22562	git-r3	27e13c09a4c7e4c78ac812f74727e676
+_md5_=3a29009dac5c58215134e96cb9e503d8
