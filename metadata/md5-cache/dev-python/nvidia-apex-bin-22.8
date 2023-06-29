@@ -1,12 +1,14 @@
+BDEPEND=app-arch/unzip
 DEFINED_PHASES=install setup
-DEPEND=>=dev-python/tqdm-4.28.1 >=dev-python/numpy-1.15.3 >=dev-python/pyyaml-5.1
+DEPEND=|| ( >=dev-lang/python-3.12.0_beta1:3.12 >=dev-lang/python-3.11.3:3.11 >=dev-lang/python-3.10.11:3.10 ) >=dev-python/tqdm-4.28.1 >=dev-python/numpy-1.15.3 >=dev-python/pyyaml-5.1
 DESCRIPTION=NVIDIA-maintained utilities to streamline mixed precision and distributed training in Pytorch
 EAPI=8
 HOMEPAGE=https://github.com/NVIDIA/apex
 INHERIT=python-any-r1
-RDEPEND=>=dev-python/tqdm-4.28.1 >=dev-python/numpy-1.15.3 >=dev-python/pyyaml-5.1
+LICENSE=BSD
+RDEPEND=|| ( >=dev-lang/python-3.12.0_beta1:3.12 >=dev-lang/python-3.11.3:3.11 >=dev-lang/python-3.10.11:3.10 ) >=dev-python/tqdm-4.28.1 >=dev-python/numpy-1.15.3 >=dev-python/pyyaml-5.1
 RESTRICT=test
 SLOT=0
 SRC_URI=https://dev.pentoo.ch/~blshkv/distfiles/nvidia-apex-22.8-py3.10-linux-x86_64.egg -> nvidia-apex-bin-22.8.zip
 _eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	513c31b3346458ed1f3878b57da6d61c	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	a34d5f83235297b76d71eaf8deb53768	python-any-r1	d2955aaac8daaaa69fcc6dc93ed19f29
-_md5_=6691f58dabf734f6b7831468377d2ddf
+_md5_=be01db46faeb80115b949523014cfa4d
