@@ -620,7 +620,7 @@ dev-ruby/zpng 0.3.1: Pure ruby PNG file manipulation & validation
 dev-util/AndroidProjectCreator-bin 1.5 1.5.2: Decompile an APK to an Android Studio Project
 dev-util/androguard 3.3.5 3.4.0_alpha1: Read Android's binary format for XML files (AXML) and a decompiler for DEX
 dev-util/android-sdk-build-tools 30.0.3 31 33: Android SDK Build Tools
-dev-util/apktool 2.7.0 2.8.0: A tool for reengineering 3rd party, closed, binary Android apps
+dev-util/apktool 2.8.0 2.8.1: A tool for reengineering 3rd party, closed, binary Android apps
 dev-util/appmon 0.5_p20201013: Monitoring and tampering API calls of MacOS and iOS/Android apps
 dev-util/catalyst 3.0.9 9999: Release metatool used for creating releases based on Gentoo Linux
 dev-util/chipsec 1.10.4: Platform Security Assessment Framework
@@ -683,7 +683,7 @@ net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden conten
 net-analyzer/dirble-bin 1.3.1 1.4.2: Fast directory scanning and scraping tool
 net-analyzer/dirhunt 0.6.0-r2 0.7.0-r1: Dirhunt is a web crawler optimized for searching and analyzing web directories.
 net-analyzer/dirsearch 0.3.9 0.4.0_p20201202 0.4.0_p20210427: A simple command line tool designed to brute force dirs and files in websites
-net-analyzer/dnsrecon 1.1.3 1.1.4: DNS Enumeration Script
+net-analyzer/dnsrecon 1.1.4 1.1.5: DNS Enumeration Script
 net-analyzer/droopescan 1.41.3-r2: A scanner that helps identifying issues in Drupal, SilverStripe, and Wordpress
 net-analyzer/enteletaor 1.1.1: Message Queue & Broker Injection tool
 net-analyzer/enum4linux 0.8.9-r1 0.9.1: A tool for enumerating information from Windows and Samba systems
@@ -750,7 +750,7 @@ net-analyzer/takeover 20200312: Sub-Domain TakeOver Vulnerability Scanner
 net-analyzer/testssl 3.0.7 3.0.8: Tool to check TLS/SSL cipher support
 net-analyzer/thc-pptp-bruter 0.1.4: A brute force program that works against pptp vpn endpoints
 net-analyzer/thc-ssl-dos 1.4: THC-SSL-DOS is a tool to verify the performance of SSL servers
-net-analyzer/theHarvester 4.3.0-r1: The Harvester is a tool designed to collect email accounts of the target domain
+net-analyzer/theHarvester 4.3.0-r1 4.4.0: The Harvester is a tool designed to collect email accounts of the target domain
 net-analyzer/tplmap 20211014: Server-Side Template Injection and code injection tool
 net-analyzer/twa 1.9.3 1.10.0 9999: A tiny web auditor with strong opinions
 net-analyzer/videojak 1.00 2.0: VideoJak is an IP Video security assessment tool
