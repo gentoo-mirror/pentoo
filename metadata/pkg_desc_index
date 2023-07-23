@@ -35,7 +35,7 @@ app-dicts/seclists 2023.1 2023.2: A collection of multiple types of lists used d
 app-editors/rehex 0.5.3 0.5.4: Reverse Engineers' Hex Editor
 app-eselect/eselect-metasploit 0.20: eselect module for metasploit
 app-exploits/deathstar 20201217-r1 20210519: A tool to gain Domain Admin rights with a push of a button
-app-exploits/empire 5.2.2 5.4.2: A post-exploitation framework
+app-exploits/empire 5.4.2 5.5.4: A post-exploitation framework
 app-exploits/enumdb 2.1.0: Database brute force and post exploitation tool
 app-exploits/exploit-pattern 20200109: Generate and search pattern string for exploit development
 app-exploits/exploitdb 20221122 99999999: All exploits from exploit-db.com
@@ -462,6 +462,7 @@ dev-python/python-iptools 0.7.0: A package is a collection of utilities for deal
 dev-python/python-libnmap 0.7.2: A python library enabling python developers to manipulate nmap process and data
 dev-python/python-nmap 0.6.1 0.6.4: a python library which helps in using nmap port scanner
 dev-python/python-oauth2 1.1.1: OAuth 2.0 provider for python
+dev-python/python-obfuscator 0.0.2: made good code to make bad code
 dev-python/python-pptx 0.6.18: Create Open XML PowerPoint documents in Python
 dev-python/python-socketio 5.1.0: Python implementation of the Socket.IO realtime server.
 dev-python/python-whois 0.7.2 0.7.3: Whois querying and parsing of domain registration information
