@@ -1,0 +1,16 @@
+BDEPEND=virtual/pkgconfig >=dev-util/ninja-1.8.2 >=dev-util/cmake-3.20.5
+DEFINED_PHASES=compile configure install prepare test unpack
+DEPEND=dev-libs/boost:= dev-libs/elfutils dev-libs/libconfig:=[cxx] net-misc/lksctp-tools net-libs/mbedtls:= sci-libs/fftw:3.0=[cpu_flags_x86_avx=,cpu_flags_x86_fma3=,cpu_flags_x86_sse=] bladerf? ( net-wireless/bladerf:= ) simcard? ( sys-apps/pcsc-lite ) soapysdr? ( net-wireless/soapysdr:= ) uhd? ( net-wireless/uhd:= ) zeromq? ( net-libs/zeromq:= )
+DESCRIPTION=Open source SDR 4G software suite from Software Radio Systems
+EAPI=8
+HOMEPAGE=https://www.srsran.com/
+INHERIT=cmake flag-o-matic vcs-snapshot
+IUSE=bladerf cpu_flags_x86_avx cpu_flags_x86_avx2 cpu_flags_x86_avx512f cpu_flags_x86_fma3 cpu_flags_x86_sse simcard soapysdr test uhd zeromq
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=dev-libs/boost:= dev-libs/elfutils dev-libs/libconfig:=[cxx] net-misc/lksctp-tools net-libs/mbedtls:= sci-libs/fftw:3.0=[cpu_flags_x86_avx=,cpu_flags_x86_fma3=,cpu_flags_x86_sse=] bladerf? ( net-wireless/bladerf:= ) simcard? ( sys-apps/pcsc-lite ) soapysdr? ( net-wireless/soapysdr:= ) uhd? ( net-wireless/uhd:= ) zeromq? ( net-libs/zeromq:= )
+RESTRICT=!test? ( test )
+SLOT=0
+SRC_URI=https://github.com/srsran/srsRAN_4G/archive/refs/tags/release_23_04_1.tar.gz -> srsran-23.04.1.tar.gz
+_eclasses_=toolchain-funcs	8e3fb781f3258ae2757d1dfc2c7c170e	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	ad475baa777c9978fa035216c8264a10	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	ninja-utils	f3010c780f65d1bb5aea15a9af1adc9c	xdg-utils	baea6080dd821f5562d715887954c9d3	cmake	aa1d1fa7be37663d48162ac963b22692	vcs-snapshot	eab6d8533446763c2e9777d8bbd1594e
+_md5_=c4e8c6781c564c801aa4c65d5226759f
