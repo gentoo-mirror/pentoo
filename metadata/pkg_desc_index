@@ -644,7 +644,7 @@ dev-util/jnitrace-engine 20230402: Engine used by jnitrace to intercept JNI API 
 dev-util/kaleido-bin 0.2.1: Static image export for web-based visualization libraries
 dev-util/lief 0.13.1 0.13.2: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
-dev-util/mobsf 3.4.6 3.5.0 3.6.0: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
+dev-util/mobsf 3.6.0 3.6.9: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
 dev-util/objection 1.10.2 1.11.0-r1: Runtime mobile exploration
 dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIPS
 dev-util/qark 0.9_pre20190405: A tool to look for Android application vulnerabilities
