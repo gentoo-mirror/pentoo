@@ -12,5 +12,5 @@ RDEPEND=dist-kernel? ( virtual/dist-kernel:= ) ~app-admin/opensnitch-1.6.0
 RESTRICT=strip test
 SLOT=0
 SRC_URI=https://github.com/evilsocket/opensnitch/archive/refs/tags/v1.6.0.tar.gz -> opensnitch-1.6.0.tar.gz
-_eclasses_=toolchain-funcs	8e3fb781f3258ae2757d1dfc2c7c170e	multilib	c19072c3cd7ac5cb21de013f7e9832e0	linux-info	c4f1201b96a8a2c1f3b86cc8b2c71c91
+_eclasses_=toolchain-funcs	e356bb9aa600fd4b0dc539d33513bba7	multilib	c19072c3cd7ac5cb21de013f7e9832e0	linux-info	c4f1201b96a8a2c1f3b86cc8b2c71c91
 _md5_=c02dd8626b70431ee93272530a1978df
