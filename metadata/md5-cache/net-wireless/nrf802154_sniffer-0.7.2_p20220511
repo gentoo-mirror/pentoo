@@ -9,5 +9,5 @@ LICENSE=Nordic-5
 RDEPEND=net-analyzer/wireshark || ( dev-lang/python:3.11 dev-lang/python:3.10 ) || ( ( dev-lang/python:3.11 dev-python/pyserial[python_targets_python3_11(-)] ) ( dev-lang/python:3.10 dev-python/pyserial[python_targets_python3_10(-)] ) )
 SLOT=0
 SRC_URI=https://github.com/NordicSemiconductor/nRF-Sniffer-for-802.15.4/archive/2b76efe20d4bc1938803a90c60ea29db59bc1069.tar.gz -> nrf802154_sniffer-0.7.2_p20220511.tar.gz
-_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	e356bb9aa600fd4b0dc539d33513bba7	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	7661dc585f75dd1f81eccefe37bef093	python-any-r1	845fed6b6dfc35679a4fea289272ddc0
+_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	0c8a0b0d318eb5d5180d114bd3f6592b	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	7661dc585f75dd1f81eccefe37bef093	python-any-r1	845fed6b6dfc35679a4fea289272ddc0
 _md5_=156a13734c2035f52749e0164ca7a9e7
