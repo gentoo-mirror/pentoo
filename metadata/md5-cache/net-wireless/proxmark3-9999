@@ -1,6 +1,6 @@
 BDEPEND=firmware? ( sys-devel/gcc-arm-none-eabi:0 ) virtual/pkgconfig >=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=compile install postinst postrm prepare test unpack
-DEPEND=app-arch/bzip2 dev-libs/jansson:= sys-libs/ncurses:*[tinfo] dev-libs/openssl:= sys-libs/readline:= bluez? ( net-wireless/bluez:= ) qt? ( dev-qt/qtcore:5 dev-qt/qtwidgets:5 dev-qt/qtgui:5 )
+DEPEND=app-arch/bzip2 app-arch/lz4:= dev-libs/jansson:= dev-libs/openssl:= sys-libs/readline:= bluez? ( net-wireless/bluez:= ) qt? ( dev-qt/qtcore:5 dev-qt/qtwidgets:5 dev-qt/qtgui:5 )
 DESCRIPTION=A general purpose RFID tool for Proxmark3 hardware
 EAPI=8
 HOMEPAGE=https://github.com/RfidResearchGroup/proxmark3
@@ -8,9 +8,9 @@ INHERIT=udev toolchain-funcs git-r3
 IUSE=+bluez deprecated +firmware +pm3rdv4 +qt standalone-lf-em4100emul standalone-lf-em4100rswb standalone-lf-em4100rwc standalone-lf-hidbrute standalone-lf-hidfcbrute standalone-lf-icehid standalone-lf-nexid standalone-lf-proxbrute standalone-lf-samyrun standalone-lf-tharexde standalone-hf-14asniff standalone-hf-15sniff standalone-hf-aveful standalone-hf-bog standalone-hf-colin standalone-hf-craftbyte standalone-hf-iceclass standalone-hf-legic standalone-hf-mattyrun standalone-hf-mfcsim standalone-hf-msdsal standalone-hf-reblay standalone-hf-tcprst standalone-hf-tmudford standalone-hf-young standalone-dankarmulti
 LICENSE=GPL-3+
 PROPERTIES=live
-RDEPEND=app-arch/bzip2 dev-libs/jansson:= sys-libs/ncurses:*[tinfo] dev-libs/openssl:= sys-libs/readline:= bluez? ( net-wireless/bluez:= ) qt? ( dev-qt/qtcore:5 dev-qt/qtwidgets:5 dev-qt/qtgui:5 )
+RDEPEND=app-arch/bzip2 app-arch/lz4:= dev-libs/jansson:= dev-libs/openssl:= sys-libs/readline:= bluez? ( net-wireless/bluez:= ) qt? ( dev-qt/qtcore:5 dev-qt/qtwidgets:5 dev-qt/qtgui:5 ) sys-libs/ncurses:*[tinfo]
 REQUIRED_USE=?? ( standalone-lf-em4100emul standalone-lf-em4100rswb standalone-lf-em4100rwc standalone-lf-hidbrute standalone-lf-hidfcbrute standalone-lf-icehid standalone-lf-nexid standalone-lf-proxbrute standalone-lf-samyrun standalone-lf-tharexde standalone-hf-14asniff standalone-hf-15sniff standalone-hf-aveful standalone-hf-bog standalone-hf-colin standalone-hf-craftbyte standalone-hf-iceclass standalone-hf-legic standalone-hf-mattyrun standalone-hf-mfcsim standalone-hf-msdsal standalone-hf-reblay standalone-hf-tcprst standalone-hf-tmudford standalone-hf-young standalone-dankarmulti ) standalone-lf-hidfcbrute? ( pm3rdv4 ) standalone-lf-icehid? ( pm3rdv4 ) standalone-lf-nexid? ( pm3rdv4 ) standalone-lf-tharexde? ( pm3rdv4 ) standalone-hf-14asniff? ( pm3rdv4 ) standalone-hf-15sniff? ( pm3rdv4 ) standalone-hf-bog? ( pm3rdv4 ) standalone-hf-colin? ( pm3rdv4 ) standalone-hf-iceclass? ( pm3rdv4 ) standalone-hf-mfcsim? ( pm3rdv4 ) standalone-hf-reblay? ( pm3rdv4 )
 RESTRICT=strip
 SLOT=0
 _eclasses_=toolchain-funcs	0c8a0b0d318eb5d5180d114bd3f6592b	multilib	c19072c3cd7ac5cb21de013f7e9832e0	udev	eec0bbab06977f1cfc5597269c1fa152	git-r3	2358a7b20091609e24bd3a83b3ac5991
-_md5_=f2001b295721b762ba86e17350f03b29
+_md5_=69ecb36811b9218fbd53209c6da5a989
