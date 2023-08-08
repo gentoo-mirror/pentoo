@@ -1,0 +1,11 @@
+DEFINED_PHASES=compile install
+DEPEND=net-wireless/gnuradio:= net-wireless/gr-paint
+DESCRIPTION=A visualization we use for the RF Village
+EAPI=8
+HOMEPAGE=http://rfhackers.com
+KEYWORDS=amd64
+LICENSE=BSD Apache-2.0
+RDEPEND=net-wireless/gnuradio:= net-wireless/gr-paint net-wireless/uhd:= net-analyzer/gr-fosphor x11-misc/wmctrl
+SLOT=0
+SRC_URI=https://pentoo.org/~zero/distfiles/fosphor_knob-0.12.tar.xz
+_md5_=8aafd996a8d34ce0a9540d8978485ca4
