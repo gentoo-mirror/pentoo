@@ -864,7 +864,6 @@ net-wireless/mjackit 20190606-r1: Demo tool for Logitech Unifying vulnerabilitie
 net-wireless/mmdvmhost 9999: The host program for MMDVM
 net-wireless/mt7610u_ulli-kroll 9999: Modified usb wifi driver for TP_link TL-WDN5200
 net-wireless/nanovna-qt 9999 20210227: Software for NanoVNA V2
-net-wireless/nanovna-saver 0.3.10 9999: tool for reading, displaying and saving data from the NanoVNA
 net-wireless/nrc7292 1.4 9999: NRC7292 Software Package for Host mode
 net-wireless/nrf802154_sniffer 0.7.2_p20220511 9999: nRF-based 802.15.4 sniffer
 net-wireless/nrf_sniffer_ble 4.1.1: nRF Sniffer for Bluetooth LE
