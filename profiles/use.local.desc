@@ -164,7 +164,6 @@ net-mail/libpst:shared - Enable libpst shared object
 net-misc/sipp:pcap - Enable functionality to replay RTP data from a pcap file
 net-vpn/kcptun:server - Enable server side daemon
 net-vpn/udp2raw-tunnel:iptables - include support for iptables filtering
-net-wireless/chirp:radioreference - support downloading data from radioreference.com (premium users only)
 net-wireless/fern-wifi-cracker:dict - Add support sys-apps/cracklib-words (large set of crack/cracklib dictionaries)
 net-wireless/gr-air-modes:fgfs - Support FlightGear
 net-wireless/gr-air-modes:rtlsdr - Build with Realtek RTL2832U (rtlsdr) support
