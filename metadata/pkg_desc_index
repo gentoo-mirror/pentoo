@@ -136,7 +136,7 @@ app-fuzz/smtp-fuzz 0.1: A smtp fuzzer
 app-fuzz/snmp-fuzzer 0.1.1-r1: A very complete snmp fuzzer
 app-misc/cyberchef 9.18.0 9.20.3 9.21.0: A web app for encryption, encoding, compression and data analysis (offline)
 app-misc/dangerzone 0.1.2 0.1.2-r1: Take potentially dangerous PDFs or images and convert them to a safe PDF
-app-misc/far2l 2.5.0 2.5.1: Linux port of FAR v2
+app-misc/far2l 2.5.1 2.5.2: Linux port of FAR v2
 app-misc/fit2gpx 0.0.7: convert .FIT files to .GPX files, including tools for .FIT files downloaded from Strava
 app-misc/freediag 1.08: Free diagnostic software for OBD-II compliant motor vehicles
 app-misc/gplaycli 3.29: Google Play Downloader via Command line
@@ -753,7 +753,7 @@ net-analyzer/takeover 20200312: Sub-Domain TakeOver Vulnerability Scanner
 net-analyzer/testssl 3.0.7 3.0.8: Tool to check TLS/SSL cipher support
 net-analyzer/thc-pptp-bruter 0.1.4: A brute force program that works against pptp vpn endpoints
 net-analyzer/thc-ssl-dos 1.4: THC-SSL-DOS is a tool to verify the performance of SSL servers
-net-analyzer/theHarvester 4.3.0-r1 4.4.1: The Harvester is a tool designed to collect email accounts of the target domain
+net-analyzer/theHarvester 4.4.1 4.4.3: The Harvester is a tool designed to collect email accounts of the target domain
 net-analyzer/tplmap 20211014: Server-Side Template Injection and code injection tool
 net-analyzer/twa 1.9.3 1.10.0 9999: A tiny web auditor with strong opinions
 net-analyzer/videojak 1.00 2.0: VideoJak is an IP Video security assessment tool
