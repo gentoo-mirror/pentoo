@@ -246,5 +246,8 @@ sys-kernel/compat-drivers:injection - Add patches for better wifi injection supp
 sys-kernel/pentoo-sources:experimental - Apply experimental patches; for more information, see "https://wiki.gentoo.org/wiki/Project:Kernel/Experimental".
 sys-kernel/pentoo-sources:lts - for selecting between long-time-support and standard kernel.
 virtual/libyal-tools:fuse - Enable FUSE support
+virtual/linux-sources:firmware - Install linux kernel firmware
+virtual/linux-sources:pentoo - Pentoo control use flag
+virtual/linux-sources:pentoo-lts - Prefer lts kernel
 x11-libs/qwt-multiaxes:designer - Installs dev-qt/designer plugin.
 x11-libs/qwt-multiaxes:mathml - Use the MathML renderer of the Qt solutions package.
