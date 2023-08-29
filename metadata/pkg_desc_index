@@ -10,20 +10,16 @@ acct-user/vuls 0: User for Vuls
 app-admin/genmenu 0.0_p20230623 9999: a tool for generating freedesktop-compliant menus
 app-admin/opensnitch 1.5.3 1.6.0-r1 1.6.2: Desktop application firewall
 app-admin/opensnitch-ebpf-module 1.6.0-r1 1.6.2: eBPF process monitor module for opensnitch
-app-admin/vuls 0.19.0-r1: Vulnerability scanner for Linux, agentless, written in Golang
 app-antivirus/malheur 0.5.4-r1: Malware analysis tool
 app-antivirus/tyton 1.2_p20200604 9999: Kernel-Mode Rootkit Hunter
 app-antivirus/veil 3.1.14-r2: A tool for payloads generation that bypass common anti-virus solutions
-app-crypt/SIPcrack 0.4-r1: SIPcrack is a SIP protocol login cracker
 app-crypt/acsccid 1.1.8 1.1.9: Generic driver for ACS (CCID and non-CCID) Smart Card Reader
 app-crypt/asleap 2.2_p20201128-r1: Cisco LEAP and Generic MS-CHAPv2 Dictionary Attack
-app-crypt/bruteforce-luks 1.3.1 1.3.2 1.4.0 9999: A bruteforce cracker for LUKS encrypted volumes
 app-crypt/bruteforce-salted-openssl 1.4.2: A bruteforce cracker for openssl encrypted files
 app-crypt/bruteforce-wallet 1.5.2 1.5.3: Crypto-currency wallet password recovery tool
 app-crypt/elfcrypt 20200224 99999999: A Simple ELF crypter
 app-crypt/haiti-hash 1.2.3 1.3.0: A CLI tool to identify the hash type of a given hash
 app-crypt/hashid 3.1.4 9999: Software to identify the different types of hashes
-app-crypt/rcracki_mt 0.7.0-r1: Perform a rainbow table attack on password hashes
 app-crypt/routerkeygen 20190721 99999999: Generates WPA/WEP keys based on MAC and/or BSSID
 app-crypt/samdump2 3.0.0-r1: Windows NT/2k/XP/Vista sam hash dumper
 app-crypt/stegcracker 2.0.7 20190219-r1: Steganography brute-force utility to uncover hidden data inside files
@@ -37,7 +33,6 @@ app-eselect/eselect-metasploit 0.20: eselect module for metasploit
 app-exploits/deathstar 20201217-r1 20210519: A tool to gain Domain Admin rights with a push of a button
 app-exploits/empire 5.4.2 5.5.4: A post-exploitation framework
 app-exploits/enumdb 2.1.0: Database brute force and post exploitation tool
-app-exploits/exploit-pattern 20200109: Generate and search pattern string for exploit development
 app-exploits/exploitdb 20221122 99999999: All exploits from exploit-db.com
 app-exploits/exploitdb-papers 20221122 99999999: Exploit database's papers
 app-exploits/getsploit 0.3.3_p20190530 9999: Command line utility for searching and downloading exploits
@@ -48,19 +43,13 @@ app-exploits/linuxprivchecker 20200609 99999999: A Linux Privilege Escalation Ch
 app-exploits/packetstormexploits 2012.12 2013.12 2014.12 2015.12 2016.12 2017.12 2018.12 2019.12 2020.12 2021.12 2022.12: Archive of packetstorm exploits
 app-exploits/packetstormexploits-meta 2022: Meta ebuild of packetstorm exploits
 app-exploits/powercat 20170805: Netcat: The powershell version
-app-exploits/proton 20200311: Windows post-exploitation framework using Windows Script Host
 app-exploits/pypykatz 0.6.6 0.6.8: Python implementation of Mimikatz
 app-exploits/routersploit 3.4.0-r1 9999: An open-source exploitation framework dedicated to embedded devices
 app-exploits/traitor 0.0.3 0.0.14: Automatically exploit low-hanging fruit to pop a root shell
 app-exploits/unix-privesc-check 20210207 99999999: Shell script to check for simple privilege escalation vectors
 app-exploits/webshells 20230128 99999999: Various webshells
-app-exploits/weevely 4.0.1 9999: Weevely is a stealth PHP web shell that simulate telnet-like console
-app-exploits/wesng 20200616 99999999: Windows Exploit Suggester - Next Generation
-app-forensics/bulk_extractor 2.0.3-r1: Scans a disk image for regular expressions and other content
 app-forensics/dfvfs 20220419 20220430 20220917: Digital Forensics Virtual File System (dfVFS)
 app-forensics/dfwinreg 20200121 20200415 20201006 20211205 20211207: Digital Forensics Windows Registry (dfWinReg)
-app-forensics/eagleeye 9999 20211020: Find people's social media profile using reverse image search
-app-forensics/fuxploider 1.0-r1 9999: File upload vulnerability scanner and exploitation tool
 app-forensics/inception 0.4.2: Firewire physical memory manipulation tool exploiting IEEE 1394 SBP-2 DMA
 app-forensics/kjackal 99999999: Linux Rootkit Scanner
 app-forensics/lazagne 2.4.3-r1 9999: Credentials recovery project
@@ -100,7 +89,6 @@ app-forensics/libvslvm 20210807 20221025: Library and tools to access the Linux 
 app-forensics/libvsmbr 20180317 20180325: Library and tools to access the Master Boot Record (MBR) volume system format
 app-forensics/libwtcdb 20170201: Library and tools to access the Windows thumbnail cache (thumbcache.db)
 app-forensics/make-pdf 0.1.7-r1: This tool will embed javascript inside a PDF document
-app-forensics/maltego 4.2.18.13878: Visualise, map and mine data
 app-forensics/mxtract 1.1: A memory extractor & analyzer
 app-forensics/mysql-magic 9999: dump mysql client password from memory
 app-forensics/oletools 0.56.2 0.60 0.60.1: A python tools to analyze MS OLE2 files and MS Office documents
@@ -117,25 +105,19 @@ app-forensics/reglookup 1.0.1-r1 9999: An utility for reading and querying Windo
 app-forensics/s3tk 0.3.0 9999: A security toolkit for Amazon S3
 app-forensics/samhain 4.3.3 4.4.0: Advanced file integrity and intrusion detection tool.
 app-forensics/scap-security-guide 0.1.50 0.1.51: Security compliance content in SCAP, Bash, Ansible, and other formats
-app-forensics/spiderfoot 3.0-r1 3.5-r1: The most complete OSINT collection and reconnaissance tool
 app-forensics/stegoveritas 1.8: Automatic image steganography analysis tool
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
-app-forensics/xmount 0.7.6: Convert on-the-fly between multiple input and output harddisk image types
 app-forensics/yara-rust 0.4.3: Rust bindings for VirusTotal/yara
 app-forensics/yaramod 3.6.0 3.7.2: Parsing of YARA rules into AST and building new rulesets in C++
 app-forensics/zsteg 0.2.2: Detect stegano-hidden data in PNG & BMP
 app-fuzz/0d1n 2.6 9999: Web security tool to make fuzzing at HTTP/S
 app-fuzz/bed 0.5: BED is a multi-protocol fuzzer written in perl
 app-fuzz/bss 0.8-r1: Bluetooth stack smasher / fuzzer
-app-fuzz/dotdotpwn 3.0.2: The Directory Traversal Fuzzer
 app-fuzz/fuzzdb 1.09_p20200226: Attack and Discovery Pattern Database for Application Fuzz Testing
 app-fuzz/http-fuzz 0.1: A http fuzzer
 app-fuzz/protos-bin 1.1-r1: The PROTOS fuzzing collection
-app-fuzz/slowhttptest 1.7_p20170811 1.8.1 1.8.2: Application Layer DoS attack simulator
 app-fuzz/smtp-fuzz 0.1: A smtp fuzzer
 app-fuzz/snmp-fuzzer 0.1.1-r1: A very complete snmp fuzzer
-app-misc/cyberchef 9.18.0 9.20.3 9.21.0: A web app for encryption, encoding, compression and data analysis (offline)
-app-misc/dangerzone 0.1.2 0.1.2-r1: Take potentially dangerous PDFs or images and convert them to a safe PDF
 app-misc/far2l 2.5.1 2.5.2: Linux port of FAR v2
 app-misc/fit2gpx 0.0.7: convert .FIT files to .GPX files, including tools for .FIT files downloaded from Strava
 app-misc/freediag 1.08: Free diagnostic software for OBD-II compliant motor vehicles
@@ -148,11 +130,7 @@ app-pda/ifuse 1.1.4-r1: Mount Apple iPhone/iPod Touch file systems for backup pu
 app-text/cewl 5.5.2 6.0 9999: A custom word list generator
 app-text/endesive 2.0.2: Sign and verify digital signatures in mail, PDF and XML documents
 app-text/unfurl 0.2.0: Pull out bits of URLs provided on stdin
-dev-db/neo4j-community 4.2.2: High-performance, mature and robust NOSQL graph database
-dev-db/oat 1.3.1: a toolkit that could be used to audit security within Oracle database servers
 dev-db/sqlsus 0.7.2: MySQL injection and takeover tool
-dev-embedded/libmpsse 1.3.2-r1: Open source library for SPI/I2C control via FTDI chips
-dev-embedded/mphidflash 1.8: Tool for communicating with the USB-Bootloader in PIC microcontrollers
 dev-go/fetchbot 1.3: Simple, flexible web crawler that follows robots.txt policies and crawl delays
 dev-go/go-cve-dictionary 0.4.0: Build a local copy of CVE (NVD and Japanese JVN). Server mode for easy querying
 dev-go/go-exploitdb 20190911-r1: A tool for searching Exploits from some Exploit Databases
@@ -173,7 +151,6 @@ dev-java/jetty-server 11.0.9: The core jetty server artifact
 dev-java/jetty-util 11.0.9: Jetty IO Utility
 dev-java/jgraphx 2.1.1.2 4.2.2: Open-source graph component for Java
 dev-java/msgpack 0.5.1 0.6.12 0.8.16: MessagePack for Java is a binary-based efficient object serialization library
-dev-java/sleep 2.1-r1: Duct Tape for the Java platform
 dev-libs/LeechCore 2.12 2.14: Direct Memory Access (DMA) Attack Software
 dev-libs/cm256cc 1.1.0: Fast GF(256) Cauchy MDS Block Erasure Codec in C++
 dev-libs/cudnn 8.8.0.121 8.9.2.26 8.9.3.28: NVIDIA Accelerated Deep Learning on GPU library
@@ -211,7 +188,6 @@ dev-libs/libfwevt 20220723 20220925: Library for Windows XML Event Log (EVTX) da
 dev-libs/libfwnt 20210906 20220922: Library for Windows NT data types
 dev-libs/libfwps 20191221 20220122: Library for Windows Property Store data types
 dev-libs/libfwsi 20220123 20220927: Library to access the Windows Shell Item format
-dev-libs/libguytools2 2.1.0: Library for guymager
 dev-libs/libhmac 20230407: Library to support various Hash-based Message Authentication Codes (HMAC)
 dev-libs/libmapidb 20170125 20170304: Library to access the Exchange MAPI database format
 dev-libs/libsigscan 20220124 20221027: Library for binary signature scanning.
@@ -223,7 +199,6 @@ dev-libs/libwrc 20220720 20221009: Library to access the Windows Resource Compil
 dev-libs/memprocfs 4.7 5.0: The Memory Process File System
 dev-libs/nanopb 0.4.6-r1 0.4.7: plain-C Protocol Buffers for embedded/memory-constrained systems
 dev-libs/openssl-bad 1.0.2_p20220901-r1: Snapshot for testssl.sh >2.8 from PM's fork, ready to compile
-dev-libs/qbdi 0.7.1: A Dynamic Binary Instrumentation framework based on LLVM
 dev-libs/serialDV 1.1.4: C++ library to encode/decode audio with AMBE3000
 dev-perl/Encoding-BER 1.02: Perl module for encoding/decoding data using ASN.1 Basic Encoding Rules (BER)
 dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
@@ -655,9 +630,7 @@ dev-util/retdec 4.0 9999: RetDec is a retargetable machine-code decompiler based
 dev-util/semgrep-core-bin 0.77.0 0.103.0 0.115.0: Lightweight static analysis for many languages
 dev-util/soapui 5.6.0 5.6.1 5.7.0: The Swiss-Army Knife for SOAP Testing
 dev-util/sonarqube-bin 7.9.3 8.3.1.34397 8.4.1.35646 8.7.0.41497: SonarQube Community Edition is an open platform to manage code quality
-dev-util/sonarscanner-bin 4.3.0.2102 4.4.0.2170: SonarQube Command-Line Scanner
 dev-util/valabind 1.7.1 1.7.2: Valabind is a tool to parse vala or vapi files to transform them into swig files
-dev-vcs/gitleaks 4.3.1 6.1.2: Audit git repos for secrets
 dev-vcs/trufflehog 2.1.11_p20200220: Searches through git repositories for high entropy strings and secrets
 media-fonts/zed-mono 1.2.0: The Zed Mono typeface, custom built from Iosevka
 media-gfx/wkhtmltopdf 0.12.6: Convert html to pdf (and various image formats) using webkit
@@ -668,23 +641,16 @@ media-radio/rdio-scanner-bin 6.6.3: Software police-like scanner with its own to
 media-sound/deinvert 9999: A voice inversion descrambler
 net-analyzer/GyoiThon 9999: GyoiThon is a growing penetration test tool using Machine Learning
 net-analyzer/amass 3.12.2 3.13.4: Subdomain OSINT Enumeration
-net-analyzer/aquatone 1.7.0-r2: A Tool for Domain Flyovers
-net-analyzer/armitage 9999 20160709-r1: Cyber Attack Management for Metasploit
-net-analyzer/armitage-bin 20140818 20141120 20150813: Cyber Attack Management for Metasploit
 net-analyzer/badtouch 0.7.1: Scriptable network authentication cracker
-net-analyzer/bbrecon 20200228: Automated reconnaissance and information gathering (fork)
 net-analyzer/bettercap 2.31.1 2.32.0: A complete, modular, portable and easily extensible MITM framework
-net-analyzer/bolt 0.2.1 9999: CSRF Scanner
 net-analyzer/bonesi 0.3.1 9999: BoNeSi - the DDoS botnet simulator
 net-analyzer/cameradar 5.0.1 5.0.2: Cameradar hacks its way into RTSP videosurveillance cameras
-net-analyzer/capanalysis 1.2.3: A web visual tool for information security specialists
 net-analyzer/cisco-auditing-tool 1: Perl script which scans cisco routers for common vulnerabilities.
 net-analyzer/commix 3.4 3.6: Automated All-in-One OS command injection and exploitation tool
 net-analyzer/cottontail 20190426-r1: Capture all RabbitMQ messages being sent through a broker
 net-analyzer/crackmapexec 5.2.2 5.3.0-r1 5.4.0: A swiss army knife for pentesting Windows/Active Directory environments
 net-analyzer/davtest 1.2_p20230307: tests WebDAV enabled servers
 net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden content
-net-analyzer/dirble-bin 1.3.1 1.4.2: Fast directory scanning and scraping tool
 net-analyzer/dirhunt 0.6.0-r2 0.7.0-r1: Dirhunt is a web crawler optimized for searching and analyzing web directories.
 net-analyzer/dirsearch 0.3.9 0.4.0_p20201202 0.4.0_p20210427: A simple command line tool designed to brute force dirs and files in websites
 net-analyzer/dnsrecon 1.1.4 1.1.5: DNS Enumeration Script
@@ -697,16 +663,12 @@ net-analyzer/fierce 1.4.0-r1 1.5.0 9999: A DNS reconnaissance tool for locating 
 net-analyzer/findomain 2.1.5 5.0.0: The fastest and cross-platform subdomain enumerator, don't waste your time
 net-analyzer/ftw 1.3.0: Framework for Testing WAFs
 net-analyzer/geoipgen 0.4: Generate a list of hostnames based on country
-net-analyzer/gitgraber 20191002: Tool to scan for sensitive information within public GitHub repositories
-net-analyzer/gitrob 2.0.0_beta-r1: Reconnaissance tool for GitHub organizations
-net-analyzer/go-webanalyze 20190705: Port of Wappalyzer in Go to automate scanning
 net-analyzer/gobuster 3.0.1-r4 3.5.0: A tool to brute-force URIs and DNS subdomains
 net-analyzer/honeypots 0.14 9999: 16 different honeypots for monitoring network traffic
 net-analyzer/httprint 301: HTTP fingerprinter tool
 net-analyzer/hyenae 0.36.1: a highly flexible packet generator
 net-analyzer/ifchk 1.1.1 1.1.2: A network interface promiscuous mode detection tool
 net-analyzer/ike-scan 1.9.4_p20201223 1.9.5: A utility for finding, fingerprinting and testing IKE VPN servers
-net-analyzer/iposint 20190615-r1: Discovery IP Address of the target
 net-analyzer/jmsdigger-bin 20130815: JMSDigger is an Enterprise Messaging Application assessment tool focuses on ActiveMQ
 net-analyzer/kismet-analyzer 0.3.0: Library for parsing kismet results from the .kismet database file
 net-analyzer/maketh 0.2.0: Ethernet packet injector and creator
@@ -716,14 +678,11 @@ net-analyzer/massdns 1.0.0 9999: A high-performance DNS stub resolver for bulk l
 net-analyzer/medusa 2.3_pre: A modular, parallel, multiprotocol, network login auditor
 net-analyzer/metagoofil 2.2_p20221009: Information gathering tool designed for extracting metadata of public documents
 net-analyzer/metasploit 9999: Advanced framework for developing, testing, and using vulnerability exploit code
-net-analyzer/mosref 2.0_beta3: A secure remote execution framework using a compact Scheme-influenced VM
-net-analyzer/nbtool 20140416: Some tools for NetBIOS and DNS investigation, attacks, and communication
 net-analyzer/ncrack 0.7-r1: Ncrack is a high-speed network authentication cracking tool
 net-analyzer/nmap-vulners 1.2 1.4_beta 9999: NSE script based on Vulners.com API
 net-analyzer/nmap_vulscan 2.1 9999: A NSE vulnerability scanner which uses an offline version of scip VulDB
 net-analyzer/ntlmrecon 0.4_beta: A tool to enumerate information from NTLM authentication enabled web endpoints
 net-analyzer/onesixtyone 0.7: An efficient SNMP scanner
-net-analyzer/osmedeus 9999: A offensive security tool for reconnaissance and vulnerability scanning
 net-analyzer/padbuster 20110928: Automated script for performing Padding Oracle attacks
 net-analyzer/plecost 9999: Wordpress finger printing tool, retrieve information about the plugins and versions installed
 net-analyzer/polenum 1.6.1: Extract password policy from a windows machine
@@ -735,10 +694,8 @@ net-analyzer/responder 3.1.1.0 3.1.2.0 3.1.3.0: LLMNR, NBT-NS and MDNS poisoner,
 net-analyzer/rshijack 0.4.0: A tcp connection hijacker, rust rewrite of shijack
 net-analyzer/ruler 2.4.1: A tool to abuse Exchange services
 net-analyzer/rustscan 1.2.2 9999: Faster Nmap Scanning with Rust
-net-analyzer/s3scanner 1.0.0_p20190928 2.0.1: Scan for open AWS S3 buckets and dump the contents
 net-analyzer/scamper 20191102b: Actively probes the Internet in order to analyze topology and performance
 net-analyzer/serialusb 0.7: A cheap USB proxy for input devices
-net-analyzer/set 8.0.3-r1: A social engineering framework
 net-analyzer/sitadel 1.0.0_p20190828: Web application security scanner
 net-analyzer/smbmap 1.8.2-r1: SMBMap is a handy SMB enumeration tool
 net-analyzer/sn0int 0.18.2 0.19.1 0.24.2: Semi-automatic OSINT framework and package manager
@@ -747,8 +704,6 @@ net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
 net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
 net-analyzer/sslyze 5.0.6 5.1.3: Fast and full-featured SSL scanner
 net-analyzer/subfinder 2.4.5 2.5.0: A subdomain discovery tool that discovers valid subdomains for websites
-net-analyzer/subjack 2.1: Subdomain Takeover tool written in Go
-net-analyzer/sublert 1.4.7_p20200103: Monitor new subdomains deployed by specific organizations and issued TLS/SSL certificate
 net-analyzer/sublist3r 1.0_p20200105 1.1_p20200629: Enumerate subdomains of websites using OSINT
 net-analyzer/takeover 20200312: Sub-Domain TakeOver Vulnerability Scanner
 net-analyzer/testssl 3.0.7 3.0.8: Tool to check TLS/SSL cipher support
@@ -758,13 +713,11 @@ net-analyzer/theHarvester 4.4.1 4.4.3: The Harvester is a tool designed to colle
 net-analyzer/tplmap 20211014: Server-Side Template Injection and code injection tool
 net-analyzer/twa 1.9.3 1.10.0 9999: A tiny web auditor with strong opinions
 net-analyzer/videojak 1.00 2.0: VideoJak is an IP Video security assessment tool
-net-analyzer/voiphopper 2.04-r3: VoIP Hopper is a tool that rapidly runs a VLAN Hop into the Voice VLAN
 net-analyzer/wafw00f 2.2.0: Identifies and fingerprints Web Application Firewall (WAF) products
 net-analyzer/webtech 1.3.2 1.3.3: Identify technologies used on websites
 net-analyzer/wfuzz 3.0.3 3.1.0: Wfuzz is a tool designed for bruteforcing Web Applications
 net-analyzer/whatweb 0.5.5: Next generation web scanner, identifies what software websites are running
 net-analyzer/wpscan 3.8.22 3.8.24: Wordpress security scanner
-net-analyzer/xsstrike 3.1.5 9999: Advanced XSS detection suite
 net-dialup/freeradius 3.0.20-r3 3.0.21-r5 3.2.0: Highly configurable free RADIUS server
 net-dialup/minimodem 0.24: General-purpose software audio FSK modem.
 net-im/jitsi 2.11.5633: Secure IM communicator that supports SIP, XMPP, AIM/ICQ, Windows Live, Yahoo
@@ -772,31 +725,17 @@ net-im/jitsi-videobridge 1132: https://github.com/jitsi/jitsi-videobridge
 net-libs/libosmocore 1.6.0-r1 1.6.0_p20220508: Utility functions for OsmocomBB, OpenBSC and related projects
 net-libs/libpfring 8.0.0 8.4.0: A new type of network socket that improves packet capture speed.
 net-libs/libtins 4.3: High-level, multiplatform C++ network packet sniffing and crafting library.
-net-mail/davmail-bin 6.0.0.3375 6.0.1.3390: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
 net-mail/email2phonenumber 20190916-r1 99999999: A OSINT tool to obtain a target's phone number just by having his email address
 net-mail/fakepop 11: fake pop3 server which returns the same messages to all users
 net-mail/libpst 0.6.76: Utilities to read and convert MS Outlook personal folders (.pst) files.
-net-misc/brutespray 1.6.6 1.6.8: Brute-Forcing from Nmap output using default creds
-net-misc/corscanner 20190721 99999999: Fast CORS misconfiguration vulnerabilities scannerbeers
-net-misc/dirscraper 20190224-r1 99999999: Scanning tool which discovers dirs found in javascript files hosted on a website
-net-misc/goaltdns 20190330: A permutation generation tool written in golang
-net-misc/gowitness 2.3.6: A web screenshot utility using Chrome Headless
 net-misc/hackertarget 1.2.3 9999: A security toolkit for organizations with attack surface discovery
-net-misc/httprobe 0.1.1 0.1.2: Take a list of domains and probe for working HTTP and HTTPS servers
 net-misc/linkfinder 20191124: A python script that finds endpoints in JavaScript files
-net-misc/meg 0.2.4: Fetch many paths for many hosts - without killing the hosts
-net-misc/munin 0.14.1-r2 0.20.0: Online hash checker for Virustotal and other services
-net-misc/photon 1.3.0 9999: Incredibly fast crawler designed for OSINT
 net-misc/pwnedornot 1.2.8_p20200602: OSINT Tool for Finding Passwords of Compromised Email Addresses Topics
-net-misc/sherlock 0.10.4-r1 0.10.5-r1 0.10.9-r1 0.11.1-r1 0.12.9-r1 9999: Find usernames across social networks
 net-misc/sipp 3.6.1_p20210826 3.7.1: A free Open Source test tool / traffic generator for the SIP protocol
 net-misc/sippts 2.0.4: set of tools to audit VoIP servers and devices using SIP protocol
 net-misc/t50 5.8.5 5.8.7: Mixed Packet Injector & Network Stress Testing Tool
-net-misc/tko-subs 20190624: A tool that can help detect and takeover subdomains with dead DNS records
 net-misc/voipong 2.0_p20111230: detect all VoIP calls on a pipeline and dump actual conversation
-net-misc/waybackurls 0.0.2: Fetch all the URLs that the Wayback Machine knows about for a domain
 net-misc/wireshark-patoolkit 20191029: a collection of traffic analysis Wireshark plugins focused on security
-net-misc/wireshark-sap-plugin 0.9.1: Wireshark plugin for SAP's protocols
 net-misc/wlan2eth 1.3: Wlan2eth is a tool that converts wlan pcap to ethernet-like frames.
 net-proxy/burpsuite 2023.9.2 2023.9.3 9999: Interactive proxy for attacking and debugging web applications
 net-proxy/burpsuite-pro 2023.1.1_rc 2023.9.2 2023.9.3: Interactive proxy for attacking and debugging web applications
@@ -830,7 +769,6 @@ net-wireless/dsdcc 1.9.0 1.9.3 9999: Digital Speech Decoder rewritten as a C++ l
 net-wireless/dump1090_sdrplus 20190812 20200921: Mode S decoder for (SDR) devices including RTL SDR, HackRF, Airspy and SDRplay
 net-wireless/eaphammer 1.12.0 1.13.5: Targeted evil twin attacks against WPA2-Enterprise networks
 net-wireless/editcp-bin 1.0.31: Codeplug editor for the MD-380/MD-390/MD40/MD-UV380/MD-UV390 DMR radios
-net-wireless/fern-wifi-cracker 3.1 3.3: Wireless tool for WEP/WPA cracking and WPS keys recovery
 net-wireless/fosphor_knob 0.11-r1 0.12: A visualization we use for the RF Village
 net-wireless/gps-sdr-sim 9999: GPS Spoofing tool for transmit capable SDR's like the HackRF, bladeRF and USRP
 net-wireless/gr-air-modes 20200507: This module implements a complete Mode S and ADS-B receiver for Gnuradio
@@ -841,7 +779,6 @@ net-wireless/gr-m2k 9999: A C++ library for interfacing with the ADALM2000
 net-wireless/gr-mixalot 0.0_p20230121 9999: a set of GNU Radio blocks/utilities to encode pager messages
 net-wireless/gr-osmosdr 0.2.4_p20230214: GNU Radio source block for OsmoSDR and rtlsdr and hackrf
 net-wireless/gr-sdrplay3 9999 20230421: GNU Radio OOT module for SDRplay RSP devices - SRDPlay API v3
-net-wireless/grimwepa 1.10_p5-r101 1.10_p6: A password cracker for both WEP and WPA-encrypted access points
 net-wireless/hackrf-firmware 9999: Hardware designs and software for HackRF
 net-wireless/hcxdumptool 6.2.0 6.2.7: Small tool to capture packets from wlan devices
 net-wireless/hcxkeys 6.2.1-r2: Generate plainmasterkeys (rainbowtables) and hashes for hashcat/JTR
@@ -861,7 +798,6 @@ net-wireless/libm2k 9999: A C++ library for interfacing with the ADALM2000
 net-wireless/md380tools 9999: Python tools and patched firmware for the TYT-MD380
 net-wireless/mdk4 4.2_p20220118: Wireless injection tool tool to exploit common IEEE 802.11 protocol weaknesses
 net-wireless/mjackit 20190606-r1: Demo tool for Logitech Unifying vulnerabilities
-net-wireless/mmdvmhost 9999: The host program for MMDVM
 net-wireless/mt7610u_ulli-kroll 9999: Modified usb wifi driver for TP_link TL-WDN5200
 net-wireless/nanovna-qt 9999 20210227: Software for NanoVNA V2
 net-wireless/nrc7292 1.4 9999: NRC7292 Software Package for Host mode
@@ -938,14 +874,11 @@ sys-apps/fchroot 1.0.0: Funtoo's franken-chroot tool
 sys-apps/magic-pax 0.0.1: 
 sys-devel/autofdo 0.18 0.19 9999: System to simplify real-world deployment of feedback-directed optimization
 sys-devel/gcc-arm-none-eabi 10.3_p202110 12.2_p1: GNU Arm Embedded Toolchain
-sys-devel/gdb-dashboard 0.11.1 0.11.4 9999: Modular visual interface for GDB in Python
-sys-devel/peda 1.2 9999: Python Exploit Development Assistance for GDB
 sys-fs/cramfsswap 1.4.2: swap endianness of a cram filesystem (cramfs)
 sys-fs/ext4-crypt 20170216 99999999: A userspace tool to create ext4 encrypted directories
 sys-fs/jefferson 0.3: JFFS2 filesystem extraction tool
 sys-fs/static-dev 0.1: A skeleton, statically managed /dev
 sys-kernel/chromeos-sources 9999: Linux kernel source for the Samsung Chromebook
-sys-kernel/compat-drivers 5.10.34: Stable kernel pre-release wifi subsystem backport
 sys-kernel/fragattacks-drivers58 20210507: Wi-Fi fragmentation and aggregation vulnerability tests
 sys-kernel/ft60x_driver 20180209 20190318: USB FT60x driver
 sys-kernel/kconfig-hardened-check 0.5.17 0.6.1 9999: A script for checking the hardening options in the Linux kernel config
@@ -960,7 +893,6 @@ virtual/linux-sources 3-r108: Virtual for Linux kernel sources
 virtual/secret-service 0-r1: Virtual for a freedesktop.org Secret Service API provider
 www-apps/BloodHound 4.3.0 4.3.1: Six Degrees of Domain Admin
 www-apps/Tiredful-API 9999: An intentionally designed broken web application based on REST API
-www-apps/beef 0.5.0.0-r1: Browser exploitation framework
 www-apps/geckodriver 0.27.0 0.30.0: Proxy for using WebDriver clients to interact with Gecko-based browsers.
 www-apps/rda 3.2 3.3: Web-based application for effective reporting writing
 www-apps/seafile-pro-server 9.0.16 10.0.8: Meta package for Seafile Pro Edition, file sync share solution
