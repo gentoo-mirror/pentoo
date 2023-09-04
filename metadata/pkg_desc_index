@@ -127,7 +127,7 @@ app-misc/radexreader 1.2.2: Reader for the RADEX RD1212 and the RADEX ONE Geiger
 app-misc/siglo 0.9.9: GTK app to sync InfiniTime watch with PinePhone
 app-pda/ideviceinstaller 1.1.0_p20181001 1.1.0_p20190928 1.1.1: A tool to interact with the installation_proxy of an Apple's iDevice
 app-pda/ifuse 1.1.4-r1: Mount Apple iPhone/iPod Touch file systems for backup purposes
-app-text/cewl 5.5.2 6.0 9999: A custom word list generator
+app-text/cewl 6.0 6.1 9999: A custom word list generator
 app-text/endesive 2.0.2: Sign and verify digital signatures in mail, PDF and XML documents
 app-text/unfurl 0.2.0: Pull out bits of URLs provided on stdin
 dev-db/sqlsus 0.7.2: MySQL injection and takeover tool
