@@ -566,7 +566,7 @@ dev-ruby/msfrpc-client 1.1.2: Ruby client API to access the Rapid7 Metasploit Pr
 dev-ruby/mustermann-grape 1.0.2: Adds Grape style patterns to Mustermman
 dev-ruby/opt_parse_validator 1.9.5-r1: OptionParser lib in ruby
 dev-ruby/orm_adapter 0.5.0: Provides a single point of entry for using basic features of ruby ORMs
-dev-ruby/otr-activerecord 1.4.1: Off The Rails ActiveRecord: Use ActiveRecord with Grape, Sinatra, Rack
+dev-ruby/otr-activerecord 2.1.2: Off The Rails ActiveRecord: Use ActiveRecord with Grape, Sinatra, Rack
 dev-ruby/packetfu 1.1.13: A mid-level packet manipulation library
 dev-ruby/parseconfig 1.1.2: Provides simple parsing of standard *nix style config files.
 dev-ruby/patch_finder 1.0.2: Generic Patch Finder
@@ -737,6 +737,7 @@ net-mail/libpst 0.6.76: Utilities to read and convert MS Outlook personal folder
 net-misc/hackertarget 1.2.3 9999: A security toolkit for organizations with attack surface discovery
 net-misc/linkfinder 20191124: A python script that finds endpoints in JavaScript files
 net-misc/pwnedornot 1.2.8_p20200602: OSINT Tool for Finding Passwords of Compromised Email Addresses Topics
+net-misc/sherlock 0.12.9-r1 9999: Find usernames across social networks
 net-misc/sipp 3.6.1_p20210826 3.7.1: A free Open Source test tool / traffic generator for the SIP protocol
 net-misc/sippts 2.0.4: set of tools to audit VoIP servers and devices using SIP protocol
 net-misc/t50 5.8.5 5.8.7: Mixed Packet Injector & Network Stress Testing Tool
@@ -775,6 +776,7 @@ net-wireless/dsdcc 1.9.0 1.9.3 9999: Digital Speech Decoder rewritten as a C++ l
 net-wireless/dump1090_sdrplus 20190812 20200921: Mode S decoder for (SDR) devices including RTL SDR, HackRF, Airspy and SDRplay
 net-wireless/eaphammer 1.12.0 1.13.5: Targeted evil twin attacks against WPA2-Enterprise networks
 net-wireless/editcp-bin 1.0.31: Codeplug editor for the MD-380/MD-390/MD40/MD-UV380/MD-UV390 DMR radios
+net-wireless/fern-wifi-cracker 3.4: Wireless tool for WEP/WPA cracking and WPS keys recovery
 net-wireless/fosphor_knob 0.11-r1 0.12: A visualization we use for the RF Village
 net-wireless/gps-sdr-sim 9999: GPS Spoofing tool for transmit capable SDR's like the HackRF, bladeRF and USRP
 net-wireless/gr-air-modes 20200507: This module implements a complete Mode S and ADS-B receiver for Gnuradio
@@ -804,6 +806,7 @@ net-wireless/libm2k 9999: A C++ library for interfacing with the ADALM2000
 net-wireless/md380tools 9999: Python tools and patched firmware for the TYT-MD380
 net-wireless/mdk4 4.2_p20220118: Wireless injection tool tool to exploit common IEEE 802.11 protocol weaknesses
 net-wireless/mjackit 20190606-r1: Demo tool for Logitech Unifying vulnerabilities
+net-wireless/mmdvmhost 9999: The host program for MMDVM
 net-wireless/mt7610u_ulli-kroll 9999: Modified usb wifi driver for TP_link TL-WDN5200
 net-wireless/nanovna-qt 9999 20210227: Software for NanoVNA V2
 net-wireless/nrc7292 1.4 9999: NRC7292 Software Package for Host mode
@@ -880,6 +883,7 @@ sys-apps/fchroot 1.0.0: Funtoo's franken-chroot tool
 sys-apps/magic-pax 0.0.1: 
 sys-devel/autofdo 0.18 0.19 9999: System to simplify real-world deployment of feedback-directed optimization
 sys-devel/gcc-arm-none-eabi 10.3_p202110 12.2_p1: GNU Arm Embedded Toolchain
+sys-devel/gdb-dashboard 0.11.4 9999: Modular visual interface for GDB in Python
 sys-fs/cramfsswap 1.4.2: swap endianness of a cram filesystem (cramfs)
 sys-fs/ext4-crypt 20170216 99999999: A userspace tool to create ext4 encrypted directories
 sys-fs/jefferson 0.3: JFFS2 filesystem extraction tool
@@ -899,6 +903,7 @@ virtual/linux-sources 3-r108: Virtual for Linux kernel sources
 virtual/secret-service 0-r1: Virtual for a freedesktop.org Secret Service API provider
 www-apps/BloodHound 4.3.0 4.3.1: Six Degrees of Domain Admin
 www-apps/Tiredful-API 9999: An intentionally designed broken web application based on REST API
+www-apps/beef 0.5.4.0: Browser exploitation framework
 www-apps/geckodriver 0.27.0 0.30.0: Proxy for using WebDriver clients to interact with Gecko-based browsers.
 www-apps/rda 3.2 3.3: Web-based application for effective reporting writing
 www-apps/seafile-pro-server 9.0.16 10.0.8: Meta package for Seafile Pro Edition, file sync share solution
