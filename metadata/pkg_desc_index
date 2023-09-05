@@ -51,6 +51,7 @@ app-exploits/routersploit 3.4.0-r1 9999: An open-source exploitation framework d
 app-exploits/traitor 0.0.3 0.0.14: Automatically exploit low-hanging fruit to pop a root shell
 app-exploits/unix-privesc-check 20210207 99999999: Shell script to check for simple privilege escalation vectors
 app-exploits/webshells 20230128 99999999: Various webshells
+app-forensics/bulk_extractor 2.0.3-r2: Scans a disk image for regular expressions and other content
 app-forensics/dfvfs 20220419 20220430 20220917: Digital Forensics Virtual File System (dfVFS)
 app-forensics/dfwinreg 20200121 20200415 20201006 20211205 20211207: Digital Forensics Windows Registry (dfWinReg)
 app-forensics/inception 0.4.2: Firewire physical memory manipulation tool exploiting IEEE 1394 SBP-2 DMA
