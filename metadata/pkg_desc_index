@@ -738,7 +738,9 @@ net-mail/email2phonenumber 20190916-r1 99999999: A OSINT tool to obtain a target
 net-mail/fakepop 11: fake pop3 server which returns the same messages to all users
 net-mail/libpst 0.6.76: Utilities to read and convert MS Outlook personal folders (.pst) files.
 net-misc/hackertarget 1.2.3 9999: A security toolkit for organizations with attack surface discovery
+net-misc/httprobe 0.2: Take a list of domains and probe for working HTTP and HTTPS servers
 net-misc/linkfinder 20191124: A python script that finds endpoints in JavaScript files
+net-misc/munin 0.20.0: Online hash checker for Virustotal and other services
 net-misc/pwnedornot 1.2.8_p20200602: OSINT Tool for Finding Passwords of Compromised Email Addresses Topics
 net-misc/sherlock 0.12.9-r1 9999: Find usernames across social networks
 net-misc/sipp 3.6.1_p20210826 3.7.1: A free Open Source test tool / traffic generator for the SIP protocol
