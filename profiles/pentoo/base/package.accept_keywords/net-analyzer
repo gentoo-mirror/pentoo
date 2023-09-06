@@ -5,7 +5,6 @@ net-analyzer/cipherscan
 net-analyzer/commix
 net-analyzer/crackmapexec
 net-analyzer/dirb
-net-analyzer/dirble-bin
 net-analyzer/dirhunt
 =net-analyzer/dnsrecon-0.9*
 net-analyzer/droopescan
@@ -119,7 +118,6 @@ net-analyzer/zmap
 ~net-analyzer/enteletaor-1.1.1
 ~net-analyzer/takeover-20200312
 ~net-analyzer/s3scanner-1.0.0_p20190928
-~net-analyzer/gitgraber-20191002
 ~net-analyzer/bbrecon-20200228
 ~net-analyzer/massdns-0.2_p20190201
 
