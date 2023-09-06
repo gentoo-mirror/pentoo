@@ -1,11 +1,9 @@
 acct-group/davmail 0: Group for Davmail
 acct-group/neo4j 0: Group for neo4j-community
 acct-group/sonar 0: Group for SonarQube
-acct-group/spiderfoot 0: Group for SpiderFoot
 acct-group/vuls 0: Group for Vuls
 acct-user/davmail 0: User for Davmail
 acct-user/sonar 0: User for SonarQube
-acct-user/spiderfoot 0: User for SpiderFoot
 acct-user/vuls 0: User for Vuls
 app-admin/genmenu 0.0_p20230623 9999: a tool for generating freedesktop-compliant menus
 app-admin/opensnitch 1.5.3 1.6.0-r1 1.6.2: Desktop application firewall
@@ -122,6 +120,7 @@ app-fuzz/bss 0.8-r1: Bluetooth stack smasher / fuzzer
 app-fuzz/fuzzdb 1.09_p20200226: Attack and Discovery Pattern Database for Application Fuzz Testing
 app-fuzz/http-fuzz 0.1: A http fuzzer
 app-fuzz/protos-bin 1.1-r1: The PROTOS fuzzing collection
+app-fuzz/slowhttptest 1.9.0: Application Layer DoS attack simulator
 app-fuzz/smtp-fuzz 0.1: A smtp fuzzer
 app-fuzz/snmp-fuzzer 0.1.1-r1: A very complete snmp fuzzer
 app-misc/far2l 2.5.1 2.5.2: Linux port of FAR v2
@@ -136,6 +135,7 @@ app-pda/ifuse 1.1.4-r1: Mount Apple iPhone/iPod Touch file systems for backup pu
 app-text/cewl 6.0 6.1 9999: A custom word list generator
 app-text/endesive 2.0.2: Sign and verify digital signatures in mail, PDF and XML documents
 app-text/unfurl 0.2.0: Pull out bits of URLs provided on stdin
+dev-db/neo4j-community 4.2.2: High-performance, mature and robust NOSQL graph database
 dev-db/sqlsus 0.7.2: MySQL injection and takeover tool
 dev-go/fetchbot 1.3: Simple, flexible web crawler that follows robots.txt policies and crawl delays
 dev-go/go-cve-dictionary 0.4.0: Build a local copy of CVE (NVD and Japanese JVN). Server mode for easy querying
@@ -159,7 +159,6 @@ dev-java/jetty-util 11.0.9: Jetty IO Utility
 dev-java/jgraphx 2.1.1.2 4.2.2: Open-source graph component for Java
 dev-java/logback-classic 1.4.1: logback-classic module
 dev-java/logback-core 1.4.1: logback-core module
-dev-java/msgpack 0.5.1 0.6.12 0.8.16: MessagePack for Java is a binary-based efficient object serialization library
 dev-libs/LeechCore 2.12 2.14: Direct Memory Access (DMA) Attack Software
 dev-libs/cm256cc 1.1.0: Fast GF(256) Cauchy MDS Block Erasure Codec in C++
 dev-libs/cudnn 8.8.0.121 8.9.2.26 8.9.3.28: NVIDIA Accelerated Deep Learning on GPU library

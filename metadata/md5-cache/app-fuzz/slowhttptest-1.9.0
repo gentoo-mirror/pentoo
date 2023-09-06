@@ -1,0 +1,11 @@
+DEFINED_PHASES=install prepare
+DEPEND=dev-libs/openssl:=
+DESCRIPTION=Application Layer DoS attack simulator
+EAPI=8
+HOMEPAGE=https://github.com/shekyan/slowhttptest
+KEYWORDS=amd64 ~arm x86
+LICENSE=Apache-2.0
+RDEPEND=dev-libs/openssl:=
+SLOT=0
+SRC_URI=https://github.com/shekyan/slowhttptest/archive/v1.9.0.tar.gz -> slowhttptest-1.9.0.tar.gz
+_md5_=41a92e5046c20914505fa71246419fd0
