@@ -662,7 +662,6 @@ net-analyzer/crackmapexec 5.2.2 5.3.0-r1 5.4.0: A swiss army knife for pentestin
 net-analyzer/davtest 1.2_p20230307: tests WebDAV enabled servers
 net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden content
 net-analyzer/dirhunt 0.6.0-r2 0.7.0-r1: Dirhunt is a web crawler optimized for searching and analyzing web directories.
-net-analyzer/dirsearch 0.3.9 0.4.0_p20201202 0.4.0_p20210427: A simple command line tool designed to brute force dirs and files in websites
 net-analyzer/dnsrecon 1.1.4 1.1.5: DNS Enumeration Script
 net-analyzer/droopescan 1.41.3-r2: A scanner that helps identifying issues in Drupal, SilverStripe, and Wordpress
 net-analyzer/enteletaor 1.1.1: Message Queue & Broker Injection tool
@@ -703,8 +702,10 @@ net-analyzer/responder 3.1.1.0 3.1.2.0 3.1.3.0: LLMNR, NBT-NS and MDNS poisoner,
 net-analyzer/rshijack 0.4.0: A tcp connection hijacker, rust rewrite of shijack
 net-analyzer/ruler 2.4.1: A tool to abuse Exchange services
 net-analyzer/rustscan 1.2.2 9999: Faster Nmap Scanning with Rust
+net-analyzer/s3scanner 3.0.1: Scan for open AWS S3 buckets and dump the contents
 net-analyzer/scamper 20191102b: Actively probes the Internet in order to analyze topology and performance
 net-analyzer/serialusb 0.7: A cheap USB proxy for input devices
+net-analyzer/set 8.0.3-r1: A social engineering framework
 net-analyzer/sitadel 1.0.0_p20190828: Web application security scanner
 net-analyzer/smbmap 1.8.2-r1: SMBMap is a handy SMB enumeration tool
 net-analyzer/sn0int 0.18.2 0.19.1 0.24.2: Semi-automatic OSINT framework and package manager
@@ -713,6 +714,7 @@ net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
 net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
 net-analyzer/sslyze 5.0.6 5.1.3: Fast and full-featured SSL scanner
 net-analyzer/subfinder 2.4.5 2.5.0: A subdomain discovery tool that discovers valid subdomains for websites
+net-analyzer/sublert 1.4.7_p20200103: Monitor new subdomains deployed and issued TLS/SSL certificate
 net-analyzer/sublist3r 1.0_p20200105 1.1_p20200629: Enumerate subdomains of websites using OSINT
 net-analyzer/takeover 20200312: Sub-Domain TakeOver Vulnerability Scanner
 net-analyzer/testssl 3.0.7 3.0.8: Tool to check TLS/SSL cipher support
@@ -722,6 +724,7 @@ net-analyzer/theHarvester 4.4.1 4.4.3: The Harvester is a tool designed to colle
 net-analyzer/tplmap 20211014: Server-Side Template Injection and code injection tool
 net-analyzer/twa 1.9.3 1.10.0 9999: A tiny web auditor with strong opinions
 net-analyzer/videojak 1.00 2.0: VideoJak is an IP Video security assessment tool
+net-analyzer/voiphopper 2.04-r3: VoIP Hopper is a tool that rapidly runs a VLAN Hop into the Voice VLAN
 net-analyzer/wafw00f 2.2.0: Identifies and fingerprints Web Application Firewall (WAF) products
 net-analyzer/webtech 1.3.2 1.3.3: Identify technologies used on websites
 net-analyzer/wfuzz 3.0.3 3.1.0: Wfuzz is a tool designed for bruteforcing Web Applications
