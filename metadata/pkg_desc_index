@@ -169,11 +169,11 @@ dev-libs/libcaes 20221127 20230406: Library to support cross-platform AES encryp
 dev-libs/libcdata 20220103 20220115: Library for cross-platform C generic data functions
 dev-libs/libcdatetime 20200510 20220104: Library for cross-platform C date and time functions
 dev-libs/libcdirectory 20200702 20220105: Library for cross-platform C directory functions
-dev-libs/libcerror 20201121 20220101: Library for cross-platform C error functions
+dev-libs/libcerror 20220101: Library for cross-platform C error functions
 dev-libs/libcfile 20201229 20220106-r1: Library for cross-platform C file functions
 dev-libs/libclocale 20210526 20220107: Library for cross-platform C locale functions
 dev-libs/libcnotify 20200913 20220108: Library for cross-platform C notification functions
-dev-libs/libcpath 20200623 20220108: Library for cross-platform C path functions
+dev-libs/libcpath 20220108: Library for cross-platform C path functions
 dev-libs/libcreg 20210625 20221022: Library and tools to access the Windows 9x/Me Registry File (CREG) format
 dev-libs/libcsplit 20200703 20220109: Library for cross-platform C split string functions
 dev-libs/libcstring 20150101: Library for cross-platform C string functions
@@ -184,7 +184,7 @@ dev-libs/libfcache 20200708 20220110: Library for cross-platform C cache functio
 dev-libs/libfcrypto 20191231 20200104: Library for encryption formats
 dev-libs/libfdata 20211023 20220111: Library for cross-platform C file data functions
 dev-libs/libfdatetime 20180910 20220112: Library for date and time formats
-dev-libs/libfguid 20180724 20220113: Library for GUID/UUID format
+dev-libs/libfguid 20220113: Library for GUID/UUID format
 dev-libs/libfmapi 20180714 20220114: Library for MAPI data types
 dev-libs/libfmos 20220811: Library for Mac OS data types
 dev-libs/libfole 20170502 20220115: Library for Object Linking and Embedding (OLE) data types
@@ -656,7 +656,6 @@ net-analyzer/badtouch 0.7.1: Scriptable network authentication cracker
 net-analyzer/bettercap 2.31.1 2.32.0: A complete, modular, portable and easily extensible MITM framework
 net-analyzer/bonesi 0.3.1 9999: BoNeSi - the DDoS botnet simulator
 net-analyzer/cameradar 5.0.1 5.0.2: Cameradar hacks its way into RTSP videosurveillance cameras
-net-analyzer/cisco-auditing-tool 1: Perl script which scans cisco routers for common vulnerabilities.
 net-analyzer/commix 3.4 3.6: Automated All-in-One OS command injection and exploitation tool
 net-analyzer/cottontail 20190426-r1: Capture all RabbitMQ messages being sent through a broker
 net-analyzer/crackmapexec 5.2.2 5.3.0-r1 5.4.0: A swiss army knife for pentesting Windows/Active Directory environments
@@ -680,7 +679,6 @@ net-analyzer/httprint 301: HTTP fingerprinter tool
 net-analyzer/hyenae 0.36.1: a highly flexible packet generator
 net-analyzer/ifchk 1.1.1 1.1.2: A network interface promiscuous mode detection tool
 net-analyzer/ike-scan 1.9.4_p20201223 1.9.5: A utility for finding, fingerprinting and testing IKE VPN servers
-net-analyzer/jmsdigger-bin 20130815: JMSDigger is an Enterprise Messaging Application assessment tool focuses on ActiveMQ
 net-analyzer/kismet-analyzer 0.3.0: Library for parsing kismet results from the .kismet database file
 net-analyzer/maketh 0.2.0: Ethernet packet injector and creator
 net-analyzer/maryam 2.2.6-r1 2.5.0-r1: OWASP Maryam is a modular open source OSINT and data gathering framework
@@ -733,7 +731,7 @@ net-dialup/freeradius 3.0.20-r3 3.0.21-r5 3.2.0: Highly configurable free RADIUS
 net-dialup/minimodem 0.24: General-purpose software audio FSK modem.
 net-im/jitsi 2.11.5633: Secure IM communicator that supports SIP, XMPP, AIM/ICQ, Windows Live, Yahoo
 net-im/jitsi-videobridge 1132: https://github.com/jitsi/jitsi-videobridge
-net-libs/libosmocore 1.6.0-r1 1.6.0_p20220508: Utility functions for OsmocomBB, OpenBSC and related projects
+net-libs/libosmocore 1.6.0_p20220508: Utility functions for OsmocomBB, OpenBSC and related projects
 net-libs/libpfring 8.0.0 8.4.0: A new type of network socket that improves packet capture speed.
 net-libs/libtins 4.3: High-level, multiplatform C++ network packet sniffing and crafting library.
 net-mail/email2phonenumber 20190916-r1 99999999: A OSINT tool to obtain a target's phone number just by having his email address
@@ -846,7 +844,7 @@ net-wireless/wifipumpkin3 1.1.4 1.1.5: Framework for Rogue Wi-Fi Access Point At
 net-wireless/wifite 2.6.9 2.7.0: An automated wireless attack tool
 net-wireless/wireless-regdb 20220606-r1: Binary regulatory database for CRDA
 net-wireless/wpa_sycophant 1.0 9999: Evil client portion of EAP relay attack
-pentoo/pentoo 2015.1: Pentoo meta ebuild to install all apps
+pentoo/pentoo 2023.2: Pentoo meta ebuild to install all apps
 pentoo/pentoo-analyzer 2023.0: Pentoo analyzers meta ebuild
 pentoo/pentoo-bluetooth 2023.0: Pentoo bluetooth meta ebuild
 pentoo/pentoo-cinnamon 2020.1: Pentoo cinnamon meta ebuild
@@ -859,7 +857,6 @@ pentoo/pentoo-footprint 2022.2: Pentoo footprint meta ebuild
 pentoo/pentoo-forensics 2022.2: Pentoo forensics meta ebuild
 pentoo/pentoo-forging 2022.2: Pentoo forging meta ebuild
 pentoo/pentoo-fuzzers 2022.2: Pentoo fuzzers meta ebuild
-pentoo/pentoo-gnome 2.32.1-r3: Meta package for the GNOME desktop, merge this package to install
 pentoo/pentoo-installer 20230824 99999999: Installer for pentoo, based on the ncurses Arch Linux installer
 pentoo/pentoo-livecd 2023.2: things needed by pentoo for livecd only
 pentoo/pentoo-misc 2023.0: Pentoo misc meta ebuild
@@ -893,7 +890,6 @@ sys-devel/gdb-dashboard 0.11.4 9999: Modular visual interface for GDB in Python
 sys-fs/cramfsswap 1.4.2: swap endianness of a cram filesystem (cramfs)
 sys-fs/ext4-crypt 20170216 99999999: A userspace tool to create ext4 encrypted directories
 sys-fs/jefferson 0.3: JFFS2 filesystem extraction tool
-sys-fs/static-dev 0.1: A skeleton, statically managed /dev
 sys-kernel/chromeos-sources 9999: Linux kernel source for the Samsung Chromebook
 sys-kernel/fragattacks-drivers58 20210507: Wi-Fi fragmentation and aggregation vulnerability tests
 sys-kernel/ft60x_driver 20180209 20190318: USB FT60x driver

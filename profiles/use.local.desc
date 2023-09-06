@@ -213,6 +213,25 @@ net-wireless/srsran:simcard - support hardware sim cards
 net-wireless/srsran:soapysdr - use soapysdr to support various hardware
 net-wireless/srsran:uhd - support Ettus Research hardware
 net-wireless/srsran:zeromq - enable zeromq message passing
+pentoo/pentoo:analyzer - Pull in pentoo metapackage pentoo-analyzer
+pentoo/pentoo:cracking - Pull in pentoo metapackage pentoo-cracking
+pentoo/pentoo:database - Pull in pentoo metapackage pentoo-database
+pentoo/pentoo:desktop - Pull in pentoo metapackage pentoo-desktop
+pentoo/pentoo:exploit - Pull in pentoo metapackage pentoo-exploit
+pentoo/pentoo:footprint - Pull in pentoo metapackage pentoo-footprint
+pentoo/pentoo:forensics - Pull in pentoo metapackage pentoo-forensics
+pentoo/pentoo:forging - Pull in pentoo metapackage pentoo-forging
+pentoo/pentoo:fuzzers - Pull in pentoo metapackage pentoo-fuzzers
+pentoo/pentoo:misc - Pull in pentoo metapackage pentoo-misc
+pentoo/pentoo:mitm - Pull in pentoo metapackage pentoo-mitm
+pentoo/pentoo:mobile - Pull in pentoo metapackage pentoo-mobile
+pentoo/pentoo:nfc - Pull in pentoo metapackage pentoo-nfc
+pentoo/pentoo:pentoo - Master pentoo use flag indicating we are on a Pentoo system
+pentoo/pentoo:proxies - Pull in pentoo metapackage pentoo-proxies
+pentoo/pentoo:radio - Pull in pentoo metapackage pentoo-radio
+pentoo/pentoo:rce - Pull in pentoo metapackage pentoo-rce
+pentoo/pentoo:voip - Pull in pentoo metapackage pentoo-voip
+pentoo/pentoo:wireless - Pull in pentoo metapackage pentoo-wireless
 pentoo/pentoo-cinnamon:gdm - GNOME Display Manager
 sys-kernel/pentoo-sources:experimental - Apply experimental patches; for more information, see "https://wiki.gentoo.org/wiki/Project:Kernel/Experimental".
 sys-kernel/pentoo-sources:lts - for selecting between long-time-support and standard kernel.
