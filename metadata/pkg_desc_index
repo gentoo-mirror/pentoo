@@ -523,7 +523,7 @@ dev-ruby/bundler 2.2.33-r1 2.3.26-r1: An easy way to vendor gem dependencies
 dev-ruby/case_transform 0.2: Extraction of the key_transform abilities of ActiveModelSerializers
 dev-ruby/ckeditor 5.1.0 5.1.1: Ckeditor 4.x integration gem for rails
 dev-ruby/ckeditor_rails 4.16.3 4.17.0: CKEditor is a javascript library of the WYSIWYG rich-text editor
-dev-ruby/cms_scanner 0.13.8-r2: Framework to provide an easy way to implement CMS Scanners
+dev-ruby/cms_scanner 0.13.8-r3: Framework to provide an easy way to implement CMS Scanners
 dev-ruby/cookiejar 0.3.3: Allows for parsing and returning cookies in Ruby HTTP client code
 dev-ruby/data_objects 0.10.17: The Core DataObjects class
 dev-ruby/dm-core 1.2.1: An Object/Relational Mapper for Ruby
