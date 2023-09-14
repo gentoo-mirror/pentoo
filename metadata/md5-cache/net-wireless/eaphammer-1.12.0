@@ -9,5 +9,5 @@ LICENSE=GPL-3
 RDEPEND=|| ( ( dev-lang/python:3.11 dev-python/tqdm[python_targets_python3_11(-)] dev-python/pyopenssl[python_targets_python3_11(-)] net-analyzer/scapy[python_targets_python3_11(-)] ) ( dev-lang/python:3.10 dev-python/tqdm[python_targets_python3_10(-)] dev-python/pyopenssl[python_targets_python3_10(-)] net-analyzer/scapy[python_targets_python3_10(-)] ) ) net-dns/dnsmasq net-libs/libnfnetlink dev-libs/libnl:3 net-wireless/hostapd[wpe] net-analyzer/dsniff virtual/httpd-basic
 SLOT=0
 SRC_URI=https://github.com/s0lst1c3/eaphammer/archive/v1.12.0.tar.gz -> eaphammer-1.12.0.tar.gz
-_eclasses_=eapi8-dosym	5ac4857ad078256d939c44f7c64197a9	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	862d337d98edb576796827be2c6b11ca	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	d976cc1483cbdceaf0ae0e78796c7d62	python-any-r1	f5169813d1619761b459800587005fd2
+_eclasses_=eapi8-dosym	5ac4857ad078256d939c44f7c64197a9	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	862d337d98edb576796827be2c6b11ca	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	12aa0037eb004139215ff04894d52b28	python-any-r1	f5169813d1619761b459800587005fd2
 _md5_=ed25849ffaa1610ab9b621c59a7f6054
