@@ -155,6 +155,7 @@ net-libs/libtins:ack-tracker - TCP ACK tracking support
 net-libs/libtins:cxx11 - C++11 support
 net-libs/libtins:dot11 - IEEE 802.11 support
 net-libs/libtins:wpa2 - WPA2 decryption support
+net-mail/davmail-bin:server - Enable server
 net-mail/libpst:profiling - Enable gprof profiling
 net-mail/libpst:shared - Enable libpst shared object
 net-misc/sipp:pcap - Enable functionality to replay RTP data from a pcap file
