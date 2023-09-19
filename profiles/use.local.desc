@@ -144,8 +144,6 @@ dev-util/retdec:system-libs - Use system libraries
 dev-util/sonarscanner-bin:embedded_jre - Install embedded JRE
 media-sound/deinvert:liquid - improve sound quality using net-libs/liquid-dsp
 media-sound/deinvert:wav - wav file support using media-libs/libsndfile
-net-analyzer/medusa:afp - Use net-fs/afpfs-ng and enable AFP module
-net-analyzer/medusa:ncp - Use net-fs/ncpfs and enable NCP module
 net-analyzer/medusa:ssh - Enable SSH2 module
 net-analyzer/testssl:bundled-openssl - Install precompiled versions of OpenSSL for greater testing coverage
 net-analyzer/twa:testssl - Install net-analyzer/testssl to check TLS/SSL cipher
