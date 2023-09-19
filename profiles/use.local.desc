@@ -185,6 +185,7 @@ net-wireless/proxmark3:deprecated - build and install the mfkey and nonce2key to
 net-wireless/proxmark3:firmware - build firmware to update the proxmark3 hardware
 net-wireless/proxmark3:pm3rdv4 - build proxmark3 rdv4 specific firmware instead of generic
 net-wireless/proxmark3:standalone-hf-bog - standalone 14a sniff with ULC/ULEV1/NTAG auth
+net-wireless/proxmark3:standalone-hf-cardhopper - standalone 14a based protocol
 net-wireless/proxmark3:standalone-hf-colin - standalone Mifare ultra fast sniff/sim/clone
 net-wireless/proxmark3:standalone-hf-mattyrun - standalone Mifare sniff/clone
 net-wireless/proxmark3:standalone-hf-young - standalone Mifare sniff/simulation
