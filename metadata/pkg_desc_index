@@ -445,7 +445,6 @@ dev-python/pytest-benchmark 3.4.1: py.test fixture for benchmarking code
 dev-python/python-cas-haiwen 20180411: Python CAS client library
 dev-python/python-crontab 20191023: Crontab module for accessing system crontabs
 dev-python/python-docx 0.8.10: Create and modify Word documents with Python
-dev-python/python-engineio 4.3.0: Python implementation of the Engine.IO realtime server
 dev-python/python-iptools 0.7.0: A package is a collection of utilities for dealing with IP addresses
 dev-python/python-libnmap 0.7.2: A python library enabling python developers to manipulate nmap process and data
 dev-python/python-nmap 0.6.1 0.6.4: a python library which helps in using nmap port scanner
@@ -868,7 +867,7 @@ pentoo/pentoo-forging 2022.2: Pentoo forging meta ebuild
 pentoo/pentoo-fuzzers 2022.2: Pentoo fuzzers meta ebuild
 pentoo/pentoo-installer 20230824 99999999: Installer for pentoo, based on the ncurses Arch Linux installer
 pentoo/pentoo-livecd 2023.2: things needed by pentoo for livecd only
-pentoo/pentoo-misc 2023.0: Pentoo misc meta ebuild
+pentoo/pentoo-misc 2023.2: Pentoo misc meta ebuild
 pentoo/pentoo-mitm 2022.2: Pentoo mitm meta ebuild
 pentoo/pentoo-mobile 2022.1: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2022.2: Collection of NFC tools
@@ -905,7 +904,7 @@ sys-kernel/ft60x_driver 20180209 20190318: USB FT60x driver
 sys-kernel/kconfig-hardened-check 0.5.17 0.6.1 9999: A script for checking the hardening options in the Linux kernel config
 sys-kernel/nvidia-bl 0.17.3: Driver to adjust display backlight on legacy mobile NVidia graphics adapters
 sys-kernel/pentoo-lts-sources 2: Pentoo kernel sources (kernel series .)
-sys-kernel/pentoo-sources 6.1.52 6.4.15: Pentoo kernel sources (kernel series 6.4)
+sys-kernel/pentoo-sources 6.1.52 6.5.4: Pentoo kernel sources (kernel series 6.5)
 sys-kernel/pf_ring-kmod 7.8.0_p20210421: High-speed packet processing framework (kernel modules for)
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
 sys-power/acpid 2.0.33: Daemon for Advanced Configuration and Power Interface
