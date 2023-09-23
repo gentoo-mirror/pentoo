@@ -1,4 +1,4 @@
-BDEPEND=|| ( ( dev-lang/ruby:3.1 virtual/rubygems[ruby_targets_ruby31(-)] ) ( dev-lang/ruby:3.0 virtual/rubygems[ruby_targets_ruby30(-)] ) ( dev-lang/ruby:3.2 virtual/rubygems[ruby_targets_ruby32(-)] ) ) dev-ruby/eventmachine www-servers/thin dev-ruby/sinatra dev-ruby/erubis dev-ruby/em-websocket dev-ruby/uglifier:* dev-ruby/mime-types:* dev-ruby/execjs dev-ruby/ansi dev-ruby/term-ansicolor dev-ruby/json:* dev-ruby/rubyzip dev-ruby/espeak-ruby dev-ruby/nokogiri dev-ruby/rake dev-ruby/otr-activerecord sqlite? ( dev-ruby/sqlite3 ) dev-ruby/parseconfig msf? ( dev-ruby/msfrpc-client dev-ruby/xmlrpc ) dev-ruby/bundler:2
+BDEPEND=|| ( ( dev-lang/ruby:3.1 virtual/rubygems[ruby_targets_ruby31(-)] ) ( dev-lang/ruby:3.2 virtual/rubygems[ruby_targets_ruby32(-)] ) ) dev-ruby/eventmachine www-servers/thin dev-ruby/sinatra dev-ruby/erubis dev-ruby/em-websocket dev-ruby/uglifier:* dev-ruby/mime-types:* dev-ruby/execjs dev-ruby/ansi dev-ruby/term-ansicolor dev-ruby/json:* dev-ruby/rubyzip dev-ruby/espeak-ruby dev-ruby/nokogiri dev-ruby/rake dev-ruby/otr-activerecord sqlite? ( dev-ruby/sqlite3 ) dev-ruby/parseconfig msf? ( dev-ruby/msfrpc-client dev-ruby/xmlrpc ) dev-ruby/bundler:2
 DEFINED_PHASES=install prepare
 DESCRIPTION=Browser exploitation framework
 EAPI=8
@@ -6,9 +6,9 @@ HOMEPAGE=http://beefproject.com/
 INHERIT=ruby-single
 IUSE=qrcode dns geoip notifications +msf +sqlite test
 LICENSE=AGPL-3
-RDEPEND=|| ( ( dev-lang/ruby:3.1 virtual/rubygems[ruby_targets_ruby31(-)] ) ( dev-lang/ruby:3.0 virtual/rubygems[ruby_targets_ruby30(-)] ) ( dev-lang/ruby:3.2 virtual/rubygems[ruby_targets_ruby32(-)] ) ) dev-ruby/eventmachine www-servers/thin dev-ruby/sinatra dev-ruby/erubis dev-ruby/em-websocket dev-ruby/uglifier:* dev-ruby/mime-types:* dev-ruby/execjs dev-ruby/ansi dev-ruby/term-ansicolor dev-ruby/json:* dev-ruby/rubyzip dev-ruby/espeak-ruby dev-ruby/nokogiri dev-ruby/rake dev-ruby/otr-activerecord sqlite? ( dev-ruby/sqlite3 ) dev-ruby/parseconfig msf? ( dev-ruby/msfrpc-client dev-ruby/xmlrpc )
+RDEPEND=|| ( ( dev-lang/ruby:3.1 virtual/rubygems[ruby_targets_ruby31(-)] ) ( dev-lang/ruby:3.2 virtual/rubygems[ruby_targets_ruby32(-)] ) ) dev-ruby/eventmachine www-servers/thin dev-ruby/sinatra dev-ruby/erubis dev-ruby/em-websocket dev-ruby/uglifier:* dev-ruby/mime-types:* dev-ruby/execjs dev-ruby/ansi dev-ruby/term-ansicolor dev-ruby/json:* dev-ruby/rubyzip dev-ruby/espeak-ruby dev-ruby/nokogiri dev-ruby/rake dev-ruby/otr-activerecord sqlite? ( dev-ruby/sqlite3 ) dev-ruby/parseconfig msf? ( dev-ruby/msfrpc-client dev-ruby/xmlrpc )
 RESTRICT=test
 SLOT=0
 SRC_URI=https://github.com/beefproject/beef/archive/v0.5.4.0.tar.gz -> beef-0.5.4.0.tar.gz
-_eclasses_=ruby-utils	69e7140043885477733c347fee4a981a	ruby-single	e045ee439d34b230e588900a87a11904
+_eclasses_=ruby-utils	6c200c98361f47219e106ddc67c43a1e	ruby-single	e045ee439d34b230e588900a87a11904
 _md5_=eb692aef8429202c4844a24815fd8218
