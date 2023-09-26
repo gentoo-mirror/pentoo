@@ -383,7 +383,7 @@ dev-python/mitm6 0.2.2: pwning IPv4 via IPv6
 dev-python/mockito 1.2.0: Spying framework based on Mockito java library
 dev-python/msldap 0.4.7 0.5.5: Python library to play with MS LDAP
 dev-python/msoffcrypto-tool 4.12.0 5.0.0: Decrypting MS Office files with passwords or other keys
-dev-python/nassl 5.0.0 5.0.1: Experimental OpenSSL wrapper for Python 3.7+ and SSLyze
+dev-python/nassl 5.0.1 5.1.0: Experimental OpenSSL wrapper for Python 3.7+ and SSLyze
 dev-python/neo4j 4.2.0 4.2.1: Neo4j Bolt driver for Python
 dev-python/neobolt 1.7.17: Neo4j Bolt Connector for Python
 dev-python/neotime 1.7.4: Nanosecond resolution temporal types
@@ -492,7 +492,7 @@ dev-python/stone 3.3.1: The Official Api Spec Language for Dropbox
 dev-python/svgutils 0.3.4: utility package that helps to edit and concatenate SVG files
 dev-python/syslog-rfc5424-formatter 1.2.2: Logging formatter which produces well-formatted RFC5424 Syslog Protocol messages
 dev-python/tk 0.1.0: TensorKit is a deep learning helper between Python and C++
-dev-python/tls_parser 1.2.2 2.0.0: Small library to parse TLS records.
+dev-python/tls_parser 2.0.0 2.0.1: Small library to parse TLS records.
 dev-python/torrequest 20181011-r2: Simple Python interface for HTTP(s) requests over Tor
 dev-python/truffleHogRegexes 20190518-r1: These are the regexes that power trufflehog
 dev-python/tweepy 3.9.0: A Python library for accessing the Twitter API
@@ -712,7 +712,7 @@ net-analyzer/sn0int 0.18.2 0.19.1 0.24.2: Semi-automatic OSINT framework and pac
 net-analyzer/sniffglue 0.12.1: Secure multithreaded packet sniffer
 net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
 net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
-net-analyzer/sslyze 5.0.6 5.1.3: Fast and full-featured SSL scanner
+net-analyzer/sslyze 5.1.3 5.2.0: Fast and full-featured SSL scanner
 net-analyzer/subfinder 2.4.5 2.5.0: A subdomain discovery tool that discovers valid subdomains for websites
 net-analyzer/sublert 1.4.7_p20200103: Monitor new subdomains deployed and issued TLS/SSL certificate
 net-analyzer/sublist3r 1.0_p20200105 1.1_p20200629: Enumerate subdomains of websites using OSINT
