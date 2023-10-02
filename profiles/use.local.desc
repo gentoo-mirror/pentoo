@@ -192,17 +192,6 @@ net-wireless/proxmark3:standalone-hf-young - standalone Mifare sniff/simulation
 net-wireless/proxmark3:standalone-lf-hidbrute - standalone HID corporate 1000 bruteforce
 net-wireless/proxmark3:standalone-lf-proxbrute - standalone HID ProxII bruteforce
 net-wireless/proxmark3:standalone-lf-samyrun - standalone HID26 read/clone/sim
-net-wireless/sdrpp:airspy - support airspy
-net-wireless/sdrpp:airspyhf - support airspyhf
-net-wireless/sdrpp:audiosink - I have no idea
-net-wireless/sdrpp:bladerf - support bladerf
-net-wireless/sdrpp:discord - I have no ideag
-net-wireless/sdrpp:hackrf - support hackrf
-net-wireless/sdrpp:limesdr - support limesdr
-net-wireless/sdrpp:plutosdr - support plutosdr
-net-wireless/sdrpp:rtlsdr - support rtlsdr
-net-wireless/sdrpp:soapysdr - support soapysdr
-net-wireless/sdrpp:spyserver - I have no idea
 net-wireless/soapy_power:faster - Use dev-python/scipy to speed up drawing
 net-wireless/soapy_power:fastest - Use dev-python/pyFFTW to speed up drawing to the max
 net-wireless/srsran:bladerf - support Nuand BladeRF hardware
