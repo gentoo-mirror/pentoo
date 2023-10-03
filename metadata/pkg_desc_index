@@ -858,7 +858,7 @@ pentoo/pentoo-cinnamon 2020.1: Pentoo cinnamon meta ebuild
 pentoo/pentoo-core 2023.1-r2: Pentoo minimum core requirements
 pentoo/pentoo-cracking 2022.2: Pentoo cracking meta ebuild
 pentoo/pentoo-database 2022.2: Pentoo database attack meta ebuild
-pentoo/pentoo-desktop 2023.0: Pentoo meta ebuild to install all X and WM/DE related things
+pentoo/pentoo-desktop 2023.3: Pentoo meta ebuild to install all X and WM/DE related things
 pentoo/pentoo-exploit 2023.1: Pentoo exploit meta ebuild
 pentoo/pentoo-footprint 2022.2: Pentoo footprint meta ebuild
 pentoo/pentoo-forensics 2022.2: Pentoo forensics meta ebuild
@@ -917,5 +917,4 @@ www-apps/geckodriver 0.27.0 0.30.0: Proxy for using WebDriver clients to interac
 www-apps/rda 3.2 3.3: Web-based application for effective reporting writing
 www-apps/seafile-pro-server 9.0.16 10.0.9: Meta package for Seafile Pro Edition, file sync share solution
 www-apps/vulsrepo 20190412-r3: VulsRepo is visualized based on the json report output in vuls
-www-plugins/hackplugins-meta 20200428: Collection of browser's plugins for application security testing
 x11-libs/qwt-multiaxes 9999: 2D plotting library for Qt5

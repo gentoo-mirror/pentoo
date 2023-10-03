@@ -1,11 +1,11 @@
 DEFINED_PHASES=setup
 DESCRIPTION=Virtual for pulling in appropriate opencl stuffs
 EAPI=8
-HOMEPAGE=https://pentoo.ch
+HOMEPAGE=https://pentoo.org
 IUSE=opencl-cpu video_cards_amdgpu video_cards_nvidia
 KEYWORDS=~amd64 ~x86
 LICENSE=BSD
 RDEPEND=virtual/opencl opencl-cpu? ( amd64? ( || ( dev-libs/pocl dev-util/intel-ocl-sdk ) ) ) video_cards_amdgpu? ( dev-libs/rocm-opencl-runtime ) video_cards_nvidia? ( x11-drivers/nvidia-drivers )
 REQUIRED_USE=|| ( opencl-cpu video_cards_amdgpu video_cards_nvidia )
 SLOT=0
-_md5_=7df6ca330c0d7a6a221df9ecaaa3136b
+_md5_=d5ccab2e7d8b6e8082e77193e655f9c4
