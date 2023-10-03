@@ -1,16 +1,16 @@
 BDEPEND=virtual/pkgconfig
-DEFINED_PHASES=install postinst unpack
-DEPEND=acct-group/sonar acct-user/sonar app-arch/unzip
+DEFINED_PHASES=compile install postinst preinst prepare setup unpack
+DEPEND=acct-group/sonar acct-user/sonar app-arch/unzip >=dev-java/java-config-2.2.0-r3
 DESCRIPTION=SonarQube Community Edition is an open platform to manage code quality
 EAPI=7
 HOMEPAGE=https://www.sonarqube.org/
-INHERIT=systemd
+INHERIT=systemd java-pkg-2
 IUSE=systemd
 KEYWORDS=~amd64
 LICENSE=LGPL-3
-RDEPEND=>=virtual/jdk-1.8
+RDEPEND=virtual/jdk:11 >=dev-java/java-config-2.2.0-r3
 RESTRICT=mirror
 SLOT=0
 SRC_URI=https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-8.7.0.41497.zip
-_eclasses_=toolchain-funcs	fbbbc99d10168de2926e06da7169b8dc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	systemd	c8b03e8df84486aa991d4396686e8942
-_md5_=5f63b5e5aec6e11e698c9cec6b84c625
+_eclasses_=toolchain-funcs	fbbbc99d10168de2926e06da7169b8dc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	systemd	c8b03e8df84486aa991d4396686e8942	java-utils-2	d051ecd608488854eb9252d64d396140	java-pkg-2	1794573de2f5124d88b64ee5dc9aabb4
+_md5_=991a3659f507acf89dff76c492bdb802
