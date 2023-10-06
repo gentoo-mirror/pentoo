@@ -1,0 +1,8 @@
+DEFINED_PHASES=install
+DESCRIPTION=Collection of browser's plugins for application security testing
+EAPI=7
+HOMEPAGE=http://pentoo.ch
+KEYWORDS=amd64 arm x86
+LICENSE=GPL-3
+SLOT=0
+_md5_=cd51aa654c85cfb6001b597b7b043bd0
