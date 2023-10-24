@@ -372,6 +372,7 @@ dev-python/jsbeautifier 1.14.6 1.14.7: Beautify, unpack or deobfuscate JavaScrip
 dev-python/json2html 1.3.0-r1: A python module for converting complex JSON oject to HTML Table representation
 dev-python/jsonfield 2.0.2: A reusable Django field that allows you to store validated JSON
 dev-python/kaleido 0.2.1: Static image export for web-based visualization libraries
+dev-python/la_panic 0.4.9: iPhone kernel panic parser
 dev-python/ldapdomaindump 0.9.3 0.9.4: Active Directory information dumper via LDAP
 dev-python/leather 0.3.3: Python charting for 80% of humans
 dev-python/libsast 1.5.2: A generic SAST core built on top of semgrep and regex
@@ -401,6 +402,7 @@ dev-python/normality 2.1.1: A small set of text normalization functions
 dev-python/nplusone 1.0.0: Detecting the n+1 queries problem in Python
 dev-python/nvidia-apex 22.04 22.12-r1 23.05: Tools for easy mixed precision and distributed training in Pytorch
 dev-python/nvidia-apex-bin 22.8: NVIDIA-maintained utilities to streamline mixed precision and distributed training in Pytorch
+dev-python/opack 0.1.0: Python library for parsing the opack format
 dev-python/openai 0.27.6 0.27.8: Python client library for the OpenAI API
 dev-python/opensearch_py 1.0.0 1.1.0 2.0.0 2.0.1: Python low-level client for OpenSearch
 dev-python/openstep_parser 1.5.4: OpenStep plist reader into python objects
@@ -429,17 +431,20 @@ dev-python/pyFFTW 0.13.1 9999: A pythonic python wrapper around FFTW
 dev-python/pyaff4 0.27: Python Advanced Forensic Format Version 4 library
 dev-python/pyasn 1.6.1-r1: Python IP address to Autonomous System Number lookup module
 dev-python/pyaxmlparser 0.3.24 0.3.26: Parser for Android XML file and get Application Name without using Androguard
+dev-python/pycrashreport 1.2.0: Pure python3 for parsing Apple's crash reports
 dev-python/pydecomp 9999: A python library of common (de)compression and contents handling
 dev-python/pydispatcher 2.0.5: Multi-producer-multi-consumer signal dispatching mechanism
 dev-python/pyee 8.1.0 8.2.2: A port of node.js's EventEmitter to python.
 dev-python/pygeoif 0.7: A basic implementation of the __geo_interface__
 dev-python/pygexf 0.2.2: A python library to generate gexf file format
+dev-python/pygnuutils 0.1.1: A python implementation for GNU utils
 dev-python/pygtail 0.11.0: Reads log file lines that have not been read
 dev-python/pyhunter 1.7 9999: An (unofficial) Python wrapper for the Hunter.io API
 dev-python/pyimg4 0.8: A Python library/CLI tool for parsing Apple's Image4 format
 dev-python/pyinstaller 3.6-r1: Program converting Python programs into stand-alone executables
 dev-python/pyjsparser 2.7.1: Fast javascript parser (based on esprima.js)
 dev-python/pykcs11 1.5.10: A complete PKCS#11 wrapper for Python
+dev-python/pykdebugparser 1.2.4: Python parser for kdebug events
 dev-python/pyliblzfse 0.4.1: Python bindings for the LZFSE reference implementation
 dev-python/pylnk3 0.4.0 0.4.2: Python library for reading and writing Windows shortcut files
 dev-python/pylzma 0.5.0: Platform independent python bindings for the LZMA compression library.
