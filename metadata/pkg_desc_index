@@ -271,6 +271,7 @@ dev-python/cement 2.10: Application Framework for Python
 dev-python/censys 2.1.8: Python library for interacting with Censys Search Engine (censys.io)
 dev-python/cfscrape 2.1.1: A module to bypass Cloudflare's anti-bot page
 dev-python/cherrypy-cors 1.6: CORS handling as a cherrypy tool.
+dev-python/cli-helpers 2.3.0: Python helpers for common CLI tasks
 dev-python/click-option-group 0.5.3: Option groups missing in Click
 dev-python/cmake-converter 2.0.1: CMake converter for Visual Studio projects
 dev-python/codegen 1.0: Extension to ast that allow ast -> python code generation
@@ -377,7 +378,7 @@ dev-python/ldapdomaindump 0.9.3 0.9.4: Active Directory information dumper via L
 dev-python/leather 0.3.3: Python charting for 80% of humans
 dev-python/libsast 1.5.2: A generic SAST core built on top of semgrep and regex
 dev-python/limits 1.5.1: Rate limiting utilities
-dev-python/litecli 1.4.1-r1 1.5.0: CLI for SQLite Databases with auto-completion and syntax highlighting
+dev-python/litecli 1.5.0 1.9.0: CLI for SQLite Databases with auto-completion and syntax highlighting
 dev-python/lsassy 3.1.4 3.1.6: Python library to parse remote lsass dumps
 dev-python/macholib 1.14 1.16.2: A package is a collection of utilities for dealing with IP addresses
 dev-python/magic-filter 1.0.9 1.0.12: Magic filter based on dynamic attribute getter
