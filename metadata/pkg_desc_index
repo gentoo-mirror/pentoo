@@ -362,7 +362,7 @@ dev-python/inotify 0.2.10-r2: an efficient and elegant inotify
 dev-python/inquirer3 0.4.0: Collection of common interactive command line user interfaces
 dev-python/invoke 1.5.0 1.6.0: Pythonic task execution
 dev-python/ipparser 0.3.5: Parse IP address information
-dev-python/ipsw_parser 1.2.0: Utility for parsing and extracting data from IPSW
+dev-python/ipsw-parser 1.2.0 1.2.1: Utility for parsing and extracting data from IPSW
 dev-python/ipwhois 1.0.0 1.2.0: Retrieve and parse whois data for IPv4 and IPv6 addresses
 dev-python/isc_dhcp_leases 0.9.1: Small python module for reading /var/lib/dhcp/dhcpd.leases from isc-dhcp-server
 dev-python/itemadapter 0.4.0: Common interface for scrapy data container classes
@@ -432,7 +432,7 @@ dev-python/pyFFTW 0.13.1 9999: A pythonic python wrapper around FFTW
 dev-python/pyaff4 0.27: Python Advanced Forensic Format Version 4 library
 dev-python/pyasn 1.6.1-r1: Python IP address to Autonomous System Number lookup module
 dev-python/pyaxmlparser 0.3.24 0.3.26: Parser for Android XML file and get Application Name without using Androguard
-dev-python/pycrashreport 1.2.0: Pure python3 for parsing Apple's crash reports
+dev-python/pycrashreport 1.2.0 1.2.1: Pure python3 for parsing Apple's crash reports
 dev-python/pydecomp 9999: A python library of common (de)compression and contents handling
 dev-python/pydispatcher 2.0.5: Multi-producer-multi-consumer signal dispatching mechanism
 dev-python/pyee 8.1.0 8.2.2: A port of node.js's EventEmitter to python.
