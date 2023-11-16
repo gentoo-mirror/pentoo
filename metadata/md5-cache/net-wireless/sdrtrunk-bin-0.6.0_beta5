@@ -1,0 +1,12 @@
+BDEPEND=app-arch/unzip
+DEFINED_PHASES=install
+DEPEND=virtual/jre:* media-libs/alsa-lib app-accessibility/at-spi2-core:2 dev-libs/glib:2 media-libs/fontconfig media-libs/freetype media-libs/libglvnd media-video/ffmpeg sys-libs/zlib x11-libs/cairo x11-libs/gdk-pixbuf:2 x11-libs/gtk+:2 x11-libs/gtk+:3 x11-libs/libX11 x11-libs/libXext x11-libs/libXi x11-libs/libXrender x11-libs/libXtst x11-libs/libXxf86vm x11-libs/pango !net-wireless/sdrtrunk
+DESCRIPTION=Decode, monitor, record and stream trunked mobile and related radio protocols
+EAPI=8
+HOMEPAGE=https://github.com/DSheirer/sdrtrunk
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=virtual/jre:* media-libs/alsa-lib app-accessibility/at-spi2-core:2 dev-libs/glib:2 media-libs/fontconfig media-libs/freetype media-libs/libglvnd media-video/ffmpeg sys-libs/zlib x11-libs/cairo x11-libs/gdk-pixbuf:2 x11-libs/gtk+:2 x11-libs/gtk+:3 x11-libs/libX11 x11-libs/libXext x11-libs/libXi x11-libs/libXrender x11-libs/libXtst x11-libs/libXxf86vm x11-libs/pango !net-wireless/sdrtrunk
+SLOT=0
+SRC_URI=https://github.com/DSheirer/sdrtrunk/releases/download/v0.6.0-beta-5/sdr-trunk-linux-x86_64-v0.6.0-beta-5.zip
+_md5_=c97a4fcab40843503a264828704adabd

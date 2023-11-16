@@ -865,7 +865,7 @@ net-wireless/rtl_power_fftw 0.0_p20200601 9999: power spectrum for RTLSDR dongle
 net-wireless/rx_tools 1.0.3_p20190331 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
 net-wireless/sdrangel 7.13.0 7.14.2: SDR Rx/Tx software
 net-wireless/sdrtrunk 0.5.0 0.5.2: Decode, monitor, record and stream trunked mobile and related radio protocols
-net-wireless/sdrtrunk-bin 0.5.0 0.5.2: Decode, monitor, record and stream trunked mobile and related radio protocols
+net-wireless/sdrtrunk-bin 0.5.3 0.6.0_beta5: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/signalhound-spike 3.5.9: Spectrum analyzer software for Signal Hound test equipment
 net-wireless/ska 0.2: Fake Shared Key Authentication
 net-wireless/soapy-sdrplay3 9999 20230421: Soapy SDR module for SRDPlay API v3
@@ -928,7 +928,7 @@ sys-kernel/ft60x_driver 20180209 20190318: USB FT60x driver
 sys-kernel/kconfig-hardened-check 0.5.17 0.6.1 9999: A script for checking the hardening options in the Linux kernel config
 sys-kernel/nvidia-bl 0.17.3: Driver to adjust display backlight on legacy mobile NVidia graphics adapters
 sys-kernel/pentoo-lts-sources 2: Pentoo kernel sources (kernel series .)
-sys-kernel/pentoo-sources 6.1.52 6.5.4: Pentoo kernel sources (kernel series 6.5)
+sys-kernel/pentoo-sources 6.1.62 6.5.11: Pentoo kernel sources (kernel series 6.5)
 sys-kernel/pf_ring-kmod 7.8.0_p20210421: High-speed packet processing framework (kernel modules for)
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
 sys-power/acpid 2.0.33: Daemon for Advanced Configuration and Power Interface
