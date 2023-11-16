@@ -344,7 +344,7 @@ dev-python/google-play-scraper 0.0.2.3 0.1.2 0.2.1: APIs to easily crawl the Goo
 dev-python/googlesearch 3.0.0-r1: Google search from Python
 dev-python/gpapi 0.4.4-r1: Unofficial python api for google play
 dev-python/gpsoauth 1.0.2: A client library for Google Play Services OAuth.
-dev-python/gpxpy 1.5.0: GPX file parser and GPS track manipulation library
+dev-python/gpxpy 1.6.1: GPX file parser and GPS track manipulation library
 dev-python/graphene 3.0.0_beta7: GraphQL Framework for Python
 dev-python/graphql-core 3.1.5: GraphQL for Python
 dev-python/graphql-relay 3.1.0: Relay library for graphql-core-next
@@ -940,7 +940,7 @@ www-apps/Tiredful-API 9999: An intentionally designed broken web application bas
 www-apps/beef 0.5.4.0: Browser exploitation framework
 www-apps/geckodriver 0.27.0 0.30.0: Proxy for using WebDriver clients to interact with Gecko-based browsers.
 www-apps/rda 3.2 3.3: Web-based application for effective reporting writing
-www-apps/seafile-pro-server 9.0.16 10.0.10: Meta package for Seafile Pro Edition, file sync share solution
+www-apps/seafile-pro-server 10.0.11: Meta package for Seafile Pro Edition, file sync share solution
 www-apps/vulsrepo 20190412-r3: VulsRepo is visualized based on the json report output in vuls
 www-plugins/hackplugins-meta 20231006: Collection of browser's plugins for application security testing
 x11-libs/qwt-multiaxes 9999: 2D plotting library for Qt5
