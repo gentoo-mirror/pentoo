@@ -132,7 +132,7 @@ app-misc/radexreader 1.2.3: Reader for the RADEX RD1212 and the RADEX ONE Geiger
 app-misc/siglo 0.9.9: GTK app to sync InfiniTime watch with PinePhone
 app-pda/ideviceinstaller 1.1.0_p20181001 1.1.0_p20190928 1.1.1: A tool to interact with the installation_proxy of an Apple's iDevice
 app-pda/ifuse 1.1.4-r1: Mount Apple iPhone/iPod Touch file systems for backup purposes
-app-pda/pymobiledevice3 2.17.2: python3 implementation for working with iDevices
+app-pda/pymobiledevice3 2.17.2 2.27.1: python3 implementation for working with iDevices
 app-text/cewl 6.0 6.1 9999: A custom word list generator
 app-text/endesive 2.0.2: Sign and verify digital signatures in mail, PDF and XML documents
 app-text/unfurl 0.2.0: Pull out bits of URLs provided on stdin
@@ -432,7 +432,7 @@ dev-python/pyFFTW 0.13.1 9999: A pythonic python wrapper around FFTW
 dev-python/pyaff4 0.27: Python Advanced Forensic Format Version 4 library
 dev-python/pyasn 1.6.1-r1: Python IP address to Autonomous System Number lookup module
 dev-python/pyaxmlparser 0.3.24 0.3.26: Parser for Android XML file and get Application Name without using Androguard
-dev-python/pycrashreport 1.2.0 1.2.1: Pure python3 for parsing Apple's crash reports
+dev-python/pycrashreport 1.2.1 1.2.2: Pure python3 for parsing Apple's crash reports
 dev-python/pydecomp 9999: A python library of common (de)compression and contents handling
 dev-python/pydispatcher 2.0.5: Multi-producer-multi-consumer signal dispatching mechanism
 dev-python/pyee 8.1.0 8.2.2: A port of node.js's EventEmitter to python.
@@ -872,7 +872,7 @@ net-wireless/soapy-sdrplay3 9999 20230421: Soapy SDR module for SRDPlay API v3
 net-wireless/soapy_power 1.6.1-r1 9999: Obtain power spectrum from SoapySDR devices
 net-wireless/srsran 22.10 23.04.1 9999: Open source SDR 4G software suite from Software Radio Systems
 net-wireless/trunk-recorder 4.6.0 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
-net-wireless/wifipumpkin3 1.1.4 1.1.5: Framework for Rogue Wi-Fi Access Point Attack
+net-wireless/wifipumpkin3 1.1.5 1.1.7: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifite 2.6.9 2.7.0: An automated wireless attack tool
 net-wireless/wireless-regdb 20220606-r1: Binary regulatory database for CRDA
 net-wireless/wpa_sycophant 1.0 9999: Evil client portion of EAP relay attack
