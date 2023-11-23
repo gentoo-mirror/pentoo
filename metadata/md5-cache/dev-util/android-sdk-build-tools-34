@@ -1,0 +1,13 @@
+DEFINED_PHASES=install
+DEPEND=ncurses? ( sys-libs/ncurses-compat ) sys-libs/zlib
+DESCRIPTION=Android SDK Build Tools
+EAPI=7
+HOMEPAGE=https://developer.android.com/studio/releases/build-tools
+IUSE=ncurses
+KEYWORDS=amd64 x86
+LICENSE=android
+RDEPEND=ncurses? ( sys-libs/ncurses-compat ) sys-libs/zlib
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://dl.google.com/android/repository/build-tools_r34-linux.zip
+_md5_=a7fb4217553eeda9da2d3ad07aae4f02
