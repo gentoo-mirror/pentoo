@@ -766,6 +766,7 @@ net-mail/davmail-bin 6.0.1.3390: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gate
 net-mail/email2phonenumber 20190916-r1 99999999: A OSINT tool to obtain a target's phone number just by having his email address
 net-mail/fakepop 11: fake pop3 server which returns the same messages to all users
 net-mail/libpst 0.6.76: Utilities to read and convert MS Outlook personal folders (.pst) files.
+net-misc/can-utils 2023.03: SocketCAN userspace utilities and tools
 net-misc/gowitness 2.5.0: A web screenshot utility using Chrome Headless
 net-misc/hackertarget 1.2.3 9999: A security toolkit for organizations with attack surface discovery
 net-misc/httprobe 0.2: Take a list of domains and probe for working HTTP and HTTPS servers
