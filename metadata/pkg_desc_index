@@ -163,7 +163,7 @@ dev-java/logback-core 1.4.1: logback-core module
 dev-libs/LeechCore 2.14 2.16: Direct Memory Access (DMA) Attack Software
 dev-libs/cm256cc 1.1.0: Fast GF(256) Cauchy MDS Block Erasure Codec in C++
 dev-libs/cudnn 8.8.0.121 8.9.2.26 8.9.3.28: NVIDIA Accelerated Deep Learning on GPU library
-dev-libs/frida-core 16.0.11 16.0.19: Dynamic instrumentation toolkit for reverse-engineers and security researchers
+dev-libs/frida-core 16.0.19 16.1.8: Dynamic instrumentation toolkit for reverse-engineers and security researchers
 dev-libs/hashdb 3.1.0-r1: The hashdb block hash database tool and API
 dev-libs/libcaes 20221127 20230406: Library to support cross-platform AES encryption
 dev-libs/libcdata 20220103 20220115: Library for cross-platform C generic data functions
@@ -331,7 +331,7 @@ dev-python/flask-session 0.3.1: Adds server-side session support to your Flask a
 dev-python/flask-socketio 4.3.1-r1: Socket.IO integration for Flask applications
 dev-python/flask-sockets 0.2.1: Elegant WebSockets for your Flask apps
 dev-python/fpdf 1.7.2: Simple PDF generation for Python
-dev-python/frida-python 16.0.11 16.0.19: Dynamic instrumentation toolkit for reverse-engineers and security researchers
+dev-python/frida-python 16.0.19 16.1.8: Dynamic instrumentation toolkit for reverse-engineers and security researchers
 dev-python/gatt-python 0.2.6-r1: Bluetooth GATT SDK for Python
 dev-python/geoip2-python 3.0.0: Python bindings for GeoIP2
 dev-python/glom 22.1.0: A declarative object transformer for conglomerating nested data
@@ -643,7 +643,7 @@ dev-util/dex2jar 2.2_pre20211031 2.3 2.4: Tools to work with android .dex and ja
 dev-util/dwarf-debugger 1.0.9_p20200521 1.1.2_p20220408: Full featured multi arch/os debugger built on top of PyQt5 and frida
 dev-util/electron-bin 6.0.11: Cross platform application development framework based on web technologies
 dev-util/electron-packager 14.2.1: Six Degrees of Domain Admin
-dev-util/frida-tools 12.1.1 12.1.2: Frida CLI tools
+dev-util/frida-tools 12.1.2 12.3.0: Frida CLI tools
 dev-util/ghidra 10.3.3 10.4: A software reverse engineering framework
 dev-util/jadx-bin 1.4.6 1.4.7: A standalone graphical Java Decompiler
 dev-util/jd-cli 1.2.0 1.2.1: Command line Java Decompiler
