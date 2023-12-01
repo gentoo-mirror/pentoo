@@ -13,7 +13,7 @@ app-antivirus/malheur 0.5.4-r1: Malware analysis tool
 app-antivirus/tyton 1.2_p20200604 9999: Kernel-Mode Rootkit Hunter
 app-antivirus/veil 3.1.14-r2: A tool for payloads generation that bypass common anti-virus solutions
 app-crypt/SIPcrack 0.4-r2: SIPcrack is a SIP protocol login cracker
-app-crypt/acsccid 1.1.8 1.1.9: Generic driver for ACS (CCID and non-CCID) Smart Card Reader
+app-crypt/acsccid 1.1.9 1.1.10: Generic driver for ACS (CCID and non-CCID) Smart Card Reader
 app-crypt/asleap 2.2_p20201128-r1: Cisco LEAP and Generic MS-CHAPv2 Dictionary Attack
 app-crypt/bruteforce-salted-openssl 1.4.2: A bruteforce cracker for openssl encrypted files
 app-crypt/bruteforce-wallet 1.5.2 1.5.3: Crypto-currency wallet password recovery tool
