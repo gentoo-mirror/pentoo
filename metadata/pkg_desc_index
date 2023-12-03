@@ -332,6 +332,7 @@ dev-python/flask-socketio 4.3.1-r1: Socket.IO integration for Flask applications
 dev-python/flask-sockets 0.2.1: Elegant WebSockets for your Flask apps
 dev-python/fpdf 1.7.2: Simple PDF generation for Python
 dev-python/frida-python 16.0.19 16.1.8: Dynamic instrumentation toolkit for reverse-engineers and security researchers
+dev-python/future 0.18.3: Easy, clean, reliable Python 2/3 compatibility
 dev-python/gatt-python 0.2.6-r1: Bluetooth GATT SDK for Python
 dev-python/geoip2-python 3.0.0: Python bindings for GeoIP2
 dev-python/glom 22.1.0: A declarative object transformer for conglomerating nested data
@@ -374,6 +375,7 @@ dev-python/json2html 1.3.0-r1: A python module for converting complex JSON oject
 dev-python/jsonfield 2.0.2: A reusable Django field that allows you to store validated JSON
 dev-python/kaleido 0.2.1: Static image export for web-based visualization libraries
 dev-python/la_panic 0.4.9: iPhone kernel panic parser
+dev-python/ldap3 2.9.1: A strictly RFC 4511 conforming LDAP V3 pure Python client
 dev-python/ldapdomaindump 0.9.3 0.9.4: Active Directory information dumper via LDAP
 dev-python/leather 0.3.3: Python charting for 80% of humans
 dev-python/libsast 1.5.2: A generic SAST core built on top of semgrep and regex
@@ -506,6 +508,7 @@ dev-python/soupsieve 1.9.3-r1: A modern CSS selector implementation for Beautifu
 dev-python/splinter 0.13.0: tool for testing web applications
 dev-python/spry 0.5.5-r1: social media scanner
 dev-python/spyse-python 2.2.3: Python wrapper for spyse.com
+dev-python/sqlalchemy 1.4.50: Python SQL toolkit and Object Relational Mapper
 dev-python/sqlalchemy_mixins 1.2.1: Active Record, Django-like queries
 dev-python/sqlalchemy_schemadisplay 1.3: Turn SQLAlchemy DB Model into a graph
 dev-python/sqlalchemy_utc 0.12.0: SQLAlchemy type to store aware datetime values
