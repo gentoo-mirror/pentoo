@@ -238,7 +238,7 @@ dev-python/aiogpt 4.0.11: Reverse Engineered ChatGPT API by OpenAI
 dev-python/aiogram 2.24 3.0.0_beta4-r1 3.0.0_beta7 3.0.0 3.1.1 3.2.0: Asynchronous framework for Telegram Bot API
 dev-python/aiogram_dialog 1.9.0 2.0.0_beta9 2.0.0_beta11: GUI framework on top of aiogram
 dev-python/aiomultiprocess 0.8.0 0.9.0: asyncio version of the standard multiprocessing module
-dev-python/aiopg 1.4.0-r1: Postgres integration with asyncio
+dev-python/aiopg 1.4.0-r2: Postgres integration with asyncio
 dev-python/aiosmb 0.4.6 0.4.8: Asynchronous SMB protocol implementation
 dev-python/aiowinreg 0.0.9 0.0.10: Windows registry file reader
 dev-python/altgraph 0.17 0.17.3: A constructing graphs, BFS and DFS traversals, etc
@@ -417,7 +417,7 @@ dev-python/parsel 1.5.1: Extract data from HTML and XML using XPath and CSS sele
 dev-python/parver 0.3.1: Parse and manipulate version numbers
 dev-python/pcodedmp 1.2.6: A VBA p-code disassembler
 dev-python/pdfkit 0.6.1 1.0.0: Wkhtmltopdf python wrapper
-dev-python/peewee-async 0.8.0 0.8.1: Asynchronous interface for peewee ORM powered by asyncio.
+dev-python/peewee-async 0.8.1 0.9.1: Asynchronous interface for peewee ORM powered by asyncio.
 dev-python/pillow 10.0.1 10.1.0: Python Imaging Library (fork)
 dev-python/playsound 1.2.2: Single function module with no dependencies for playing sounds
 dev-python/promise 2.3.0: Promises/A+ implementation for Python
