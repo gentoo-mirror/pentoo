@@ -1,0 +1,16 @@
+BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.5:1.16 ) >=sys-devel/autoconf-2.71-r5 >=sys-devel/libtool-2.4.7 sys-devel/m4 sys-devel/libtool php_targets_php5-6? ( dev-lang/php:5.6 )
+DEFINED_PHASES=compile configure install postinst prepare test
+DEPEND=php_targets_php5-6? ( dev-lang/php:5.6 )
+DESCRIPTION=Decode/Deobfuscate PHP Scripts
+EAPI=8
+HOMEPAGE=https://github.com/extremecoders-re/php-eval-hook
+INHERIT=php-ext-source-r3
+IUSE=php_targets_php5-6
+KEYWORDS=~amd64
+LICENSE=MIT
+RDEPEND=php_targets_php5-6? ( dev-lang/php:5.6 )
+REQUIRED_USE=|| ( php_targets_php5-6 )
+SLOT=0
+SRC_URI=https://github.com/extremecoders-re/php-eval-hook/archive/refs/tags/v0.1.tar.gz -> evalhook-0.1.gh.tar.gz
+_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	eed10cf5e5a06916e654d31f5a1925cc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	6ae9a4347149b19a112caa1182d03bde	php-ext-source-r3	3a4893beb5327f4519ae3278ef151fa7
+_md5_=e2794bc57c02e4fd6b00f1d69262fc56
