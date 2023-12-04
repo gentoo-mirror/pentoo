@@ -214,7 +214,7 @@ dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
 dev-perl/Net-Address-IP-Local 0.1.2: A class for discovering the local system's IP address
 dev-perl/String-HexConvert 0.02: Converts ascii strings to hex and reverse
 dev-perl/Tie-CharArray 1.00: Manipulate perl strings through tied array
-dev-php/evalhook 0.1: Decode/Deobfuscate PHP Scripts
+dev-php/evalhook 0.1_p20231013: Decode/Deobfuscate PHP Scripts
 dev-python/EasyProcess 0.2.7: Easy to use python subprocess interface
 dev-python/Flask-KVSession 0.6.2: Transparent server-side session support for flask
 dev-python/IP2Location 8.8.1 8.10.0: Python API for IP2Location database
