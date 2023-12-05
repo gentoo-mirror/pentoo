@@ -1,7 +1,7 @@
-# Copyright 1999-2020 Gentoo Authors
+# Copyright 1999-2023 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI=7
+EAPI=8
 
 DESCRIPTION="Pentoo mobile meta ebuild"
 HOMEPAGE="https://www.pentoo.org"
@@ -17,6 +17,7 @@ KEYWORDS="~amd64 ~x86"
 #https://github.com/JesusFreke/smali
 
 #dev-util/qark
+
 PDEPEND="dev-util/frida-tools
 	pentoo-full? (
 		dev-util/dwarf-debugger
