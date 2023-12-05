@@ -899,7 +899,7 @@ pentoo/pentoo-installer 20230824 99999999: Installer for pentoo, based on the nc
 pentoo/pentoo-livecd 2023.2: things needed by pentoo for livecd only
 pentoo/pentoo-misc 2023.2: Pentoo misc meta ebuild
 pentoo/pentoo-mitm 2022.2: Pentoo mitm meta ebuild
-pentoo/pentoo-mobile 2022.1: Pentoo mobile meta ebuild
+pentoo/pentoo-mobile 2023.3-r1: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2022.2: Collection of NFC tools
 pentoo/pentoo-opencl 0-r4: Virtual for pulling in appropriate opencl stuffs
 pentoo/pentoo-proxies 2022.2-r1: Pentoo proxy meta ebuild
@@ -934,7 +934,7 @@ sys-kernel/ft60x_driver 20180209 20190318: USB FT60x driver
 sys-kernel/kconfig-hardened-check 0.5.17 0.6.1 9999: A script for checking the hardening options in the Linux kernel config
 sys-kernel/nvidia-bl 0.17.3: Driver to adjust display backlight on legacy mobile NVidia graphics adapters
 sys-kernel/pentoo-lts-sources 2: Pentoo kernel sources (kernel series .)
-sys-kernel/pentoo-sources 6.1.62 6.5.11: Pentoo kernel sources (kernel series 6.5)
+sys-kernel/pentoo-sources 6.1.65 6.6.4: Pentoo kernel sources (kernel series 6.6)
 sys-kernel/pf_ring-kmod 7.8.0_p20210421: High-speed packet processing framework (kernel modules for)
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
 sys-power/acpid 2.0.33: Daemon for Advanced Configuration and Power Interface
