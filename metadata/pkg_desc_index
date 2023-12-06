@@ -891,7 +891,7 @@ pentoo/pentoo-cracking 2022.2: Pentoo cracking meta ebuild
 pentoo/pentoo-database 2022.2: Pentoo database attack meta ebuild
 pentoo/pentoo-desktop 2023.3: Pentoo meta ebuild to install all X and WM/DE related things
 pentoo/pentoo-exploit 2023.1: Pentoo exploit meta ebuild
-pentoo/pentoo-footprint 2022.2: Pentoo footprint meta ebuild
+pentoo/pentoo-footprint 2023.3: Pentoo footprint meta ebuild
 pentoo/pentoo-forensics 2022.2: Pentoo forensics meta ebuild
 pentoo/pentoo-forging 2022.2: Pentoo forging meta ebuild
 pentoo/pentoo-fuzzers 2022.2: Pentoo fuzzers meta ebuild
