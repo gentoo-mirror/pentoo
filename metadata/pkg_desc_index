@@ -254,9 +254,9 @@ dev-python/asciitree 0.3.3: Draws ASCII trees
 dev-python/asn1 2.7.0: a simple ASN.1 encoder and decoder
 dev-python/asn1tools 0.163.0: ASN.1 parsing, encoding and decoding
 dev-python/aspectlib 1.5.2: Aspect-oriented programming, monkey-patch and decorators library
-dev-python/asyauth 0.0.14 0.0.16: asyauth by skilsec
+dev-python/asyauth 0.0.16 0.0.18: asyauth by skilsec
 dev-python/asyncpg 0.23.0 0.27.0: A fast PostgreSQL Database Client Library for Python/asyncio.
-dev-python/asysocks 0.2.7 0.2.9: Socks5 / Socks4 client and server library
+dev-python/asysocks 0.2.9 0.2.11: Socks5 / Socks4 client and server library
 dev-python/banal 1.0.1: Commons of banal micro-functions for Python.
 dev-python/bardapi 0.1.29 0.1.38: The unofficial Google Bard API port
 dev-python/beautifultable 0.8.0: Print ASCII tables for terminals
@@ -393,10 +393,10 @@ dev-python/matlink-gpapi 0.4.4.5: Unofficial python api for google play
 dev-python/maxminddb 1.5.2: A Python module for reading MaxMind DB files
 dev-python/mechanize 0.4.5: Stateful programmatic web browsing in Python
 dev-python/minidump 0.0.18 0.0.20 0.0.21: parse Windows minidump file format
-dev-python/minikerberos 0.4.1 0.4.2: Kerberos manipulation library in pure Python
+dev-python/minikerberos 0.4.2 0.4.4: Kerberos manipulation library in pure Python
 dev-python/mitm6 0.2.2: pwning IPv4 via IPv6
 dev-python/mockito 1.2.0: Spying framework based on Mockito java library
-dev-python/msldap 0.5.5 0.5.7: Python library to play with MS LDAP
+dev-python/msldap 0.5.7 0.5.9: Python library to play with MS LDAP
 dev-python/msoffcrypto-tool 4.12.0 5.0.0: Decrypting MS Office files with passwords or other keys
 dev-python/nassl 5.0.1 5.1.0: Experimental OpenSSL wrapper for Python 3.7+ and SSLyze
 dev-python/neo4j 4.2.0 4.2.1: Neo4j Bolt driver for Python
@@ -535,7 +535,7 @@ dev-python/w3lib 1.22.0: Library of web-related functions
 dev-python/webargs 5.5.2: Declarative parsing and validation of HTTP request objects
 dev-python/websocket-client 0.57.0: WebSocket client for python with hybi13 support
 dev-python/whitenoise 5.0.1 5.2.0: Radically simplified static file serving for WSGI applications
-dev-python/winacl 0.1.5 0.1.7: ACL/ACE/Security Descriptor manipulation library
+dev-python/winacl 0.1.7 0.1.8: ACL/ACE/Security Descriptor manipulation library
 dev-python/winsspi 0.0.5 0.0.7 0.0.9: Windows SSPI library in pure Python
 dev-python/xlutils 2.0.0-r1: provides a collection of utilities for working with Excel files
 dev-python/xonsh 0.14.2: Python-powered, cross-platform, Unix-gazing shell
