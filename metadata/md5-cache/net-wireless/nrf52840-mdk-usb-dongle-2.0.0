@@ -1,0 +1,9 @@
+DEFINED_PHASES=install
+DESCRIPTION=Firmwares for Makerdiary nrf52840 and compatible usb dongles
+EAPI=8
+HOMEPAGE=https://github.com/makerdiary/nrf52840-mdk-usb-dongle
+KEYWORDS=amd64 x86
+LICENSE=Apache-2.0
+SLOT=0
+SRC_URI=https://github.com/makerdiary/nrf52840-mdk-usb-dongle/archive/refs/tags/v2.0.0.tar.gz -> nrf52840-mdk-usb-dongle-2.0.0.tar.gz
+_md5_=eeb441568e52d9d11276ee0e0c4e472b
