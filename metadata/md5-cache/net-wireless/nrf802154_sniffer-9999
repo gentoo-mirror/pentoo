@@ -9,5 +9,5 @@ LICENSE=Nordic-5
 PROPERTIES=live
 RDEPEND=net-analyzer/wireshark || ( dev-lang/python:3.12 dev-lang/python:3.11 dev-lang/python:3.10 ) || ( ( dev-lang/python:3.12 dev-python/pyserial[python_targets_python3_12(-)] ) ( dev-lang/python:3.11 dev-python/pyserial[python_targets_python3_11(-)] ) ( dev-lang/python:3.10 dev-python/pyserial[python_targets_python3_10(-)] ) )
 SLOT=0
-_eclasses_=multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	toolchain-funcs	eed10cf5e5a06916e654d31f5a1925cc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	e989dbdcbb647bd8655857c1f95be244	python-any-r1	f5169813d1619761b459800587005fd2	git-r3	5133e393e8717a3a093660f990801dc1
+_eclasses_=multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	toolchain-funcs	eed10cf5e5a06916e654d31f5a1925cc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	474cb53a7d1b62721a91809a1d702661	python-any-r1	f5169813d1619761b459800587005fd2	git-r3	5133e393e8717a3a093660f990801dc1
 _md5_=3d9708fb6d5af525519015b091fc6549
