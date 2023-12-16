@@ -875,7 +875,7 @@ net-wireless/rtl_power_fftw 0.0_p20200601 9999: power spectrum for RTLSDR dongle
 net-wireless/rx_tools 1.0.3_p20190331 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
 net-wireless/sdrangel 7.13.0 7.14.2: SDR Rx/Tx software
 net-wireless/sdrtrunk 0.5.0 0.5.2: Decode, monitor, record and stream trunked mobile and related radio protocols
-net-wireless/sdrtrunk-bin 0.5.3 0.6.0_beta5: Decode, monitor, record and stream trunked mobile and related radio protocols
+net-wireless/sdrtrunk-bin 0.5.3 0.6.0: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/signalhound-spike 3.5.9: Spectrum analyzer software for Signal Hound test equipment
 net-wireless/ska 0.2: Fake Shared Key Authentication
 net-wireless/soapy-sdrplay3 9999 20230421: Soapy SDR module for SRDPlay API v3
