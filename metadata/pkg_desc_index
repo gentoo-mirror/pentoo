@@ -880,7 +880,7 @@ net-wireless/signalhound-spike 3.5.9: Spectrum analyzer software for Signal Houn
 net-wireless/ska 0.2: Fake Shared Key Authentication
 net-wireless/soapy-sdrplay3 9999 20230421: Soapy SDR module for SRDPlay API v3
 net-wireless/soapy_power 1.6.1-r1 9999: Obtain power spectrum from SoapySDR devices
-net-wireless/srsran 22.10 23.04.1 9999: Open source SDR 4G software suite from Software Radio Systems
+net-wireless/srsran 23.11 9999: Open source SDR 4G software suite from Software Radio Systems
 net-wireless/trunk-recorder 4.6.0 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
 net-wireless/wifipumpkin3 1.1.5 1.1.7: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifite 2.6.9 2.7.0: An automated wireless attack tool
@@ -890,7 +890,7 @@ pentoo/pentoo 2023.2: Pentoo meta ebuild to install all apps
 pentoo/pentoo-analyzer 2023.0: Pentoo analyzers meta ebuild
 pentoo/pentoo-bluetooth 2023.0: Pentoo bluetooth meta ebuild
 pentoo/pentoo-cinnamon 2020.1: Pentoo cinnamon meta ebuild
-pentoo/pentoo-core 2023.1-r2: Pentoo minimum core requirements
+pentoo/pentoo-core 2023.3: Pentoo minimum core requirements
 pentoo/pentoo-cracking 2022.2: Pentoo cracking meta ebuild
 pentoo/pentoo-database 2022.2: Pentoo database attack meta ebuild
 pentoo/pentoo-desktop 2023.3: Pentoo meta ebuild to install all X and WM/DE related things
@@ -941,7 +941,6 @@ sys-kernel/pentoo-lts-sources 2: Pentoo kernel sources (kernel series .)
 sys-kernel/pentoo-sources 6.1.65 6.6.4: Pentoo kernel sources (kernel series 6.6)
 sys-kernel/pf_ring-kmod 7.8.0_p20210421: High-speed packet processing framework (kernel modules for)
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
-sys-power/acpid 2.0.33: Daemon for Advanced Configuration and Power Interface
 virtual/libyal-tools 0: Virtual for all command line forensics tools provided by libyal
 virtual/linux-sources 3-r108: Virtual for Linux kernel sources
 virtual/secret-service 0-r1: Virtual for a freedesktop.org Secret Service API provider
