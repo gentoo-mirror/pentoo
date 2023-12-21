@@ -162,7 +162,6 @@ dev-java/logback-classic 1.4.1: logback-classic module
 dev-java/logback-core 1.4.1: logback-core module
 dev-libs/LeechCore 2.14 2.16: Direct Memory Access (DMA) Attack Software
 dev-libs/cm256cc 1.1.0: Fast GF(256) Cauchy MDS Block Erasure Codec in C++
-dev-libs/cudnn 8.8.0.121 8.9.2.26 8.9.3.28: NVIDIA Accelerated Deep Learning on GPU library
 dev-libs/frida-core 16.0.19 16.1.8: Dynamic instrumentation toolkit for reverse-engineers and security researchers
 dev-libs/hashdb 3.1.0-r1: The hashdb block hash database tool and API
 dev-libs/libcaes 20221127 20230406: Library to support cross-platform AES encryption
