@@ -11,4 +11,4 @@ RESTRICT=test
 SLOT=0
 SRC_URI=https://github.com/beefproject/beef/archive/v0.5.4.0.tar.gz -> beef-0.5.4.0.tar.gz
 _eclasses_=ruby-utils	6c200c98361f47219e106ddc67c43a1e	ruby-single	e045ee439d34b230e588900a87a11904
-_md5_=eb692aef8429202c4844a24815fd8218
+_md5_=f555201a77a8b5c8fb73128dc41ec0bb
