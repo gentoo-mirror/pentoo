@@ -8,6 +8,7 @@ acct-user/vuls 0: User for Vuls
 app-admin/genmenu 0.0_p20230623 9999: a tool for generating freedesktop-compliant menus
 app-admin/opensnitch 1.6.4: Desktop application firewall
 app-admin/opensnitch-ebpf-module 1.6.4: eBPF process monitor module for opensnitch
+app-admin/system-config-printer 1.5.18-r1: Graphical user interface for CUPS administration
 app-admin/vuls 0.19.0-r1: Vulnerability scanner for Linux, agentless, written in Golang
 app-antivirus/malheur 0.5.4-r1: Malware analysis tool
 app-antivirus/tyton 1.2_p20200604 9999: Kernel-Mode Rootkit Hunter
@@ -129,6 +130,7 @@ app-misc/freediag 1.08: Free diagnostic software for OBD-II compliant motor vehi
 app-misc/gplaycli 3.29: Google Play Downloader via Command line
 app-misc/mat2 0.13.0 0.13.3: A handy tool to trash your metadata
 app-misc/radexreader 1.2.3: Reader for the RADEX RD1212 and the RADEX ONE Geiger counters
+app-misc/recoll 1.36.2: Personal full text search package
 app-misc/siglo 0.9.9: GTK app to sync InfiniTime watch with PinePhone
 app-pda/ideviceinstaller 1.1.0_p20181001 1.1.0_p20190928 1.1.1: A tool to interact with the installation_proxy of an Apple's iDevice
 app-pda/ifuse 1.1.4-r1: Mount Apple iPhone/iPod Touch file systems for backup purposes
@@ -163,6 +165,7 @@ dev-java/logback-core 1.4.1: logback-core module
 dev-libs/LeechCore 2.14 2.16: Direct Memory Access (DMA) Attack Software
 dev-libs/cm256cc 1.1.0: Fast GF(256) Cauchy MDS Block Erasure Codec in C++
 dev-libs/frida-core 16.0.19 16.1.8: Dynamic instrumentation toolkit for reverse-engineers and security researchers
+dev-libs/gobject-introspection 1.76.1 1.78.1: Introspection system for GObject-based libraries
 dev-libs/hashdb 3.1.0-r1: The hashdb block hash database tool and API
 dev-libs/libcaes 20221127 20230406: Library to support cross-platform AES encryption
 dev-libs/libcdata 20220103 20220115: Library for cross-platform C generic data functions
@@ -437,6 +440,7 @@ dev-python/pyaff4 0.27: Python Advanced Forensic Format Version 4 library
 dev-python/pyasn 1.6.1-r1: Python IP address to Autonomous System Number lookup module
 dev-python/pyaxmlparser 0.3.24 0.3.26: Parser for Android XML file and get Application Name without using Androguard
 dev-python/pycrashreport 1.2.1 1.2.2: Pure python3 for parsing Apple's crash reports
+dev-python/pycups 2.0.1-r1: Python bindings for the CUPS API
 dev-python/pydecomp 9999: A python library of common (de)compression and contents handling
 dev-python/pydispatcher 2.0.5: Multi-producer-multi-consumer signal dispatching mechanism
 dev-python/pyee 8.1.0 8.2.2: A port of node.js's EventEmitter to python.
@@ -652,6 +656,7 @@ dev-util/electron-bin 6.0.11: Cross platform application development framework b
 dev-util/electron-packager 14.2.1: Six Degrees of Domain Admin
 dev-util/frida-tools 12.1.2 12.3.0: Frida CLI tools
 dev-util/ghidra 10.3.3 10.4: A software reverse engineering framework
+dev-util/itstool 2.0.7: Translation tool for XML documents that uses gettext files and ITS rules
 dev-util/jadx-bin 1.4.6 1.4.7: A standalone graphical Java Decompiler
 dev-util/jd-cli 1.2.0 1.2.1: Command line Java Decompiler
 dev-util/jd-cli-bin 1.2.1: Command line Java Decompiler
@@ -677,8 +682,10 @@ dev-util/valabind 1.7.1 1.7.2: Valabind is a tool to parse vala or vapi files to
 dev-vcs/gitleaks 8.18.0: Audit git repos for secrets
 dev-vcs/trufflehog 2.1.11_p20200220: Searches through git repositories for high entropy strings and secrets
 media-fonts/zed-mono 1.2.0: The Zed Mono typeface, custom built from Iosevka
+media-gfx/fontforge 20230101: postscript font editor and converter
 media-gfx/wkhtmltopdf 0.12.6: Convert html to pdf (and various image formats) using webkit
 media-libs/libraqm 0.10.0 0.10.1: A library for complex text layout
+media-libs/lv2 1.18.10: A simple but extensible successor of LADSPA
 media-libs/mbelib 1.3.0-r1 9999: P25 Phase 1 and ProVoice vocoder
 media-radio/rdio-scanner 9999: A complete, modular, portable and easily extensible MITM framework
 media-radio/rdio-scanner-bin 6.6.3: Software police-like scanner with its own touch
@@ -720,6 +727,7 @@ net-analyzer/medusa 2.3_pre: A modular, parallel, multiprotocol, network login a
 net-analyzer/metagoofil 2.2_p20221009: Information gathering tool designed for extracting metadata of public documents
 net-analyzer/metasploit 9999: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/ncrack 0.7-r1: Ncrack is a high-speed network authentication cracking tool
+net-analyzer/nmap 7.94: Network exploration tool and security / port scanner
 net-analyzer/nmap-vulners 1.2 1.4_beta 9999: NSE script based on Vulners.com API
 net-analyzer/nmap_vulscan 2.1 9999: A NSE vulnerability scanner which uses an offline version of scip VulDB
 net-analyzer/ntlmrecon 0.4_beta: A tool to enumerate information from NTLM authentication enabled web endpoints
@@ -766,10 +774,14 @@ net-analyzer/wpscan 3.8.24 3.8.25: Wordpress security scanner
 net-analyzer/xsstrike 3.1.5 9999: Advanced XSS detection suite
 net-dialup/freeradius 3.0.20-r3 3.0.21-r5 3.2.0: Highly configurable free RADIUS server
 net-dialup/minimodem 0.24: General-purpose software audio FSK modem.
+net-dns/avahi 0.8-r7: System which facilitates service discovery on a local network
+net-fs/cifs-utils 7.0-r1: Tools for Managing Linux CIFS Client Filesystems
+net-fs/samba 4.19.3: Samba Suite Version 4
 net-im/jitsi 2.11.5633: Secure IM communicator that supports SIP, XMPP, AIM/ICQ, Windows Live, Yahoo
 net-im/jitsi-videobridge 1132: https://github.com/jitsi/jitsi-videobridge
 net-libs/libosmocore 1.6.0_p20220508: Utility functions for OsmocomBB, OpenBSC and related projects
 net-libs/libpfring 8.0.0 8.4.0: A new type of network socket that improves packet capture speed.
+net-libs/libsearpc 3.3.0-r1: A simple C language RPC framework
 net-libs/libtins 4.3: High-level, multiplatform C++ network packet sniffing and crafting library.
 net-mail/davmail-bin 6.0.1.3390: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
 net-mail/email2phonenumber 20190916-r1 99999999: A OSINT tool to obtain a target's phone number just by having his email address
@@ -782,6 +794,8 @@ net-misc/httprobe 0.2: Take a list of domains and probe for working HTTP and HTT
 net-misc/linkfinder 20191124: A python script that finds endpoints in JavaScript files
 net-misc/munin 0.20.0: Online hash checker for Virustotal and other services
 net-misc/pwnedornot 1.2.8_p20200602: OSINT Tool for Finding Passwords of Compromised Email Addresses Topics
+net-misc/seafile 9.0.4: File syncing and sharing software with file encryption and group sharing
+net-misc/seafile-client 9.0.4: Seafile desktop client
 net-misc/sherlock 0.12.9-r1 9999: Find usernames across social networks
 net-misc/sipp 3.6.1_p20210826 3.7.1: A free Open Source test tool / traffic generator for the SIP protocol
 net-misc/sippts 2.0.4: set of tools to audit VoIP servers and devices using SIP protocol
@@ -789,6 +803,7 @@ net-misc/t50 5.8.5 5.8.7: Mixed Packet Injector & Network Stress Testing Tool
 net-misc/voipong 2.0_p20111230: detect all VoIP calls on a pipeline and dump actual conversation
 net-misc/wireshark-patoolkit 20191029: a collection of traffic analysis Wireshark plugins focused on security
 net-misc/wlan2eth 1.3: Wlan2eth is a tool that converts wlan pcap to ethernet-like frames.
+net-print/hplip 3.23.8 3.23.12: HP Linux Imaging and Printing - Print, scan, fax drivers and service tools
 net-proxy/burpsuite 2023.10.3.7 2023.11.1.3 9999: Interactive proxy for attacking and debugging web applications
 net-proxy/burpsuite-pro 2023.1.1_rc 2023.10.3.7 2023.11.1.3: Interactive proxy for attacking and debugging web applications
 net-proxy/insomnia-bin 8.2.0 2023.5.8: REST API client, a postman alternative
@@ -926,6 +941,7 @@ sci-electronics/migen 0.7: A Python toolbox for building complex digital hardwar
 sci-electronics/pcie_injector 20180527: Information gathering tool designed for extracting metadata of public documents
 sys-apps/fchroot 1.0.0: Funtoo's franken-chroot tool
 sys-apps/magic-pax 0.0.1: 
+sys-apps/pcsc-lite 2.0.1: PC/SC Architecture smartcard middleware library
 sys-devel/autofdo 0.18 0.19 9999: System to simplify real-world deployment of feedback-directed optimization
 sys-devel/gcc-arm-none-eabi 10.3_p202110 12.2_p1 13.2_p1: GNU Arm Embedded Toolchain
 sys-devel/gdb-dashboard 0.11.4 9999: Modular visual interface for GDB in Python
@@ -941,6 +957,10 @@ sys-kernel/pentoo-lts-sources 2: Pentoo kernel sources (kernel series .)
 sys-kernel/pentoo-sources 6.1.65 6.6.4: Pentoo kernel sources (kernel series 6.6)
 sys-kernel/pf_ring-kmod 7.8.0_p20210421: High-speed packet processing framework (kernel modules for)
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
+sys-libs/ldb 2.8.0: LDAP-like embedded database
+sys-libs/talloc 2.4.1: Samba talloc library
+sys-libs/tdb 1.4.9: Simple database API
+sys-libs/tevent 0.15.0: Samba tevent library
 virtual/libyal-tools 0: Virtual for all command line forensics tools provided by libyal
 virtual/linux-sources 3-r108: Virtual for Linux kernel sources
 virtual/secret-service 0-r1: Virtual for a freedesktop.org Secret Service API provider

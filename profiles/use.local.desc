@@ -111,6 +111,12 @@ app-misc/far2l:webdav - Enable webdav support
 app-misc/freediag:gui - Enable scangui using x11-libs/fltk library
 app-misc/mat2:dolphin - Enable dolphin extension
 app-misc/mat2:nautilus - Enable nautilus extension
+app-misc/recoll:camelcase - Enable indexing for camelCase sentences and words
+app-misc/recoll:chm - Enable CHM file support via dev-python/pychm
+app-misc/recoll:inotify - Use the Linux Kernel notification subsystem for monitoring file alterations in realtime
+app-misc/recoll:session - Stop monitoring file alterations when X11 session terminates
+app-misc/recoll:webengine - Use dev-qt/qtwebengine for fancy result list display
+dev-libs/gobject-introspection:doctool - Install g-ir-doc-tool for generating documentation from introspected data
 dev-libs/libcreg:fuse - Enable FUSE support
 dev-libs/libvhdi:fuse - Enable fuse support
 dev-libs/libvmdk:fuse - Enable fuse support
@@ -142,11 +148,30 @@ dev-util/qark:exploit - Add support for generating exploit APKs
 dev-util/recaf-bin:system-openjfx - Add OpenJFX support
 dev-util/retdec:system-libs - Use system libraries
 dev-util/sonarscanner-bin:embedded_jre - Install embedded JRE
+media-gfx/fontforge:truetype-debugger - Enable truetype debugger in fontforge
+media-gfx/fontforge:woff2 - Enable support for WOFF2 format
+media-libs/lv2:plugins - Enables examples plugins.
 media-sound/deinvert:liquid - improve sound quality using net-libs/liquid-dsp
 media-sound/deinvert:wav - wav file support using media-libs/libsndfile
 net-analyzer/medusa:ssh - Enable SSH2 module
+net-analyzer/nmap:libssh2 - Enable SSH support through net-libs/libssh2
+net-analyzer/nmap:ncat - Install the ncat utility
+net-analyzer/nmap:ndiff - Install the ndiff utility
+net-analyzer/nmap:nping - Install the nping utility
+net-analyzer/nmap:nse - Include support for the Nmap Scripting Engine (NSE)
+net-analyzer/nmap:symlink - Install symlink to nc
+net-analyzer/nmap:zenmap - Install the GTK+ based nmap GUI, zenmap
 net-analyzer/testssl:bundled-openssl - Install precompiled versions of OpenSSL for greater testing coverage
 net-analyzer/twa:testssl - Install net-analyzer/testssl to check TLS/SSL cipher
+net-dns/avahi:autoipd - Build and install the IPv4LL (RFC3927) network address configuration daemon
+net-dns/avahi:bookmarks - Install the avahi-bookmarks application (requires dev-python/twisted)
+net-dns/avahi:gtk - Use gtk3 for the avahi utilities to build the avahi-ui-gtk3 library
+net-dns/avahi:howl-compat - Enable compat libraries for howl
+net-dns/avahi:mdnsresponder-compat - Enable compat libraries for mDNSResponder
+net-fs/cifs-utils:ads - Enable Active Directory support and create cifs.idmap binary - idmap support
+net-fs/cifs-utils:caps - Enable sys-libs/libcap-ng support
+net-fs/cifs-utils:creds - cifs credentials support
+net-fs/cifs-utils:python - Enable support for python and install python tools
 net-im/jitsi:autorecording - Add option to automatically record calls
 net-libs/libosmocore:pcsc-lite - Enable smartcard support with sys-apps/pcsc-lite
 net-libs/libtins:ack-tracker - TCP ACK tracking support
@@ -156,7 +181,19 @@ net-libs/libtins:wpa2 - WPA2 decryption support
 net-mail/davmail-bin:server - Enable server
 net-mail/libpst:profiling - Enable gprof profiling
 net-mail/libpst:shared - Enable libpst shared object
+net-misc/seafile-client:shibboleth - Build support for Shibboleth single sign-on
 net-misc/sipp:pcap - Enable functionality to replay RTP data from a pcap file
+net-print/hplip:X - Enables scanner GUI dependencies with USE="scanner" where media-gfx/xsane is preferred over media-gfx/sane-frontends
+net-print/hplip:fax - Enable fax on multifunction devices which support it
+net-print/hplip:hpcups - Build the hpcups driver for cups (by HP)
+net-print/hplip:hpijs - Build the IJS driver for cups (Foomatic)
+net-print/hplip:kde - Enables kde-misc/skanlite as scanner GUI with USE="scanner X"
+net-print/hplip:libusb0 - Depend on virtual/libusb SLOT 0. Some old printers do not work with virtual/libusb SLOT 1.
+net-print/hplip:minimal - Only build internal hpijs/hpcups driver (not recommended at all, make sure you know what you are doing)
+net-print/hplip:parport - Enable parallel port for devices which require it
+net-print/hplip:scanner - Enable scanner on multifunction devices which support it
+net-print/hplip:snmp - Add support for net-analyzer/net-snmp which enables this driver to work over networks (both for server and client)
+net-print/hplip:static-ppds - Use statically-generated PPDs instead of Dynamic PPDs. Although this is deprecated some printers may still need it to work properly. Use this flag if hp-setup fails to find/create a valid PPD file
 net-vpn/kcptun:server - Enable server side daemon
 net-vpn/udp2raw-tunnel:iptables - include support for iptables filtering
 net-wireless/airgeddon:opencl - enable opencl based cracking using app-crypt/hashcat
@@ -219,8 +256,13 @@ pentoo/pentoo:rce - Pull in pentoo metapackage pentoo-rce
 pentoo/pentoo:voip - Pull in pentoo metapackage pentoo-voip
 pentoo/pentoo:wireless - Pull in pentoo metapackage pentoo-wireless
 pentoo/pentoo-cinnamon:gdm - GNOME Display Manager
+sys-apps/pcsc-lite:embedded - limit RAM and CPU ressources by disabling features
+sys-apps/pcsc-lite:libusb - Use dev-libs/libusb detection to hotplug new smartcard readers. This flag should only be enabled if you're running a non-Linux kernel or you don't want to use udev.
+sys-apps/pcsc-lite:policykit - Uses sys-auth/polkit to restrict access to smartcard readers or smartcards to given users.
+sys-apps/pcsc-lite:udev - Use virtual/libudev rules to handle devices' permissions and hotplug support. Unless you know what you're doing do not disable this flag on Linux kernels. This is provided as an option for completeness.
 sys-kernel/pentoo-sources:experimental - Apply experimental patches; for more information, see "https://wiki.gentoo.org/wiki/Project:Kernel/Experimental".
 sys-kernel/pentoo-sources:lts - for selecting between long-time-support and standard kernel.
+sys-libs/talloc:compat - Enable extra compatibility stuff
 virtual/libyal-tools:fuse - Enable FUSE support
 virtual/linux-sources:firmware - Install linux kernel firmware
 virtual/linux-sources:pentoo - Pentoo control use flag
