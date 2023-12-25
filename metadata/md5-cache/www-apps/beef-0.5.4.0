@@ -10,5 +10,5 @@ RDEPEND=|| ( ( dev-lang/ruby:3.1 virtual/rubygems[ruby_targets_ruby31(-)] ) ( de
 RESTRICT=test
 SLOT=0
 SRC_URI=https://github.com/beefproject/beef/archive/v0.5.4.0.tar.gz -> beef-0.5.4.0.tar.gz
-_eclasses_=ruby-utils	6c200c98361f47219e106ddc67c43a1e	ruby-single	e045ee439d34b230e588900a87a11904
+_eclasses_=ruby-utils	820207a5d3f0e2e31c28080f131f2037	ruby-single	e045ee439d34b230e588900a87a11904
 _md5_=f555201a77a8b5c8fb73128dc41ec0bb
