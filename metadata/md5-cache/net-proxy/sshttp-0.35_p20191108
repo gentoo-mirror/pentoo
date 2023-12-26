@@ -9,5 +9,5 @@ LICENSE=BSD
 RDEPEND=net-libs/libpcap
 SLOT=0
 SRC_URI=https://github.com/stealth/sshttp/archive/28acbad7dcac95d6352d06ddf81765a84f2044f9.tar.gz -> sshttp-0.35_p20191108.tar.gz
-_eclasses_=toolchain-funcs	eed10cf5e5a06916e654d31f5a1925cc	multilib	c19072c3cd7ac5cb21de013f7e9832e0
+_eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0
 _md5_=a1c9740ab3b20dadf74bf970ee574a4b

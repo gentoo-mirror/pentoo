@@ -13,5 +13,5 @@ RDEPEND=ruby_targets_ruby31? ( dev-ruby/dm-migrations[ruby_targets_ruby31(-)] de
 REQUIRED_USE=|| ( ruby_targets_ruby31 ruby_targets_ruby32 )
 RESTRICT=!test? ( test )
 SLOT=0
-_eclasses_=multilib	c19072c3cd7ac5cb21de013f7e9832e0	toolchain-funcs	eed10cf5e5a06916e654d31f5a1925cc	ruby-utils	820207a5d3f0e2e31c28080f131f2037	ruby-ng	4ef520a992dc54fdd8f49d875c1ab2c0	systemd	c8b03e8df84486aa991d4396686e8942	git-r3	86fa1f157b70b9d2ff340c4633b1cf4b
+_eclasses_=multilib	c19072c3cd7ac5cb21de013f7e9832e0	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	ruby-utils	820207a5d3f0e2e31c28080f131f2037	ruby-ng	4ef520a992dc54fdd8f49d875c1ab2c0	systemd	c8b03e8df84486aa991d4396686e8942	git-r3	86fa1f157b70b9d2ff340c4633b1cf4b
 _md5_=21dfb5904da4e6278de59b553fb1e6d4
