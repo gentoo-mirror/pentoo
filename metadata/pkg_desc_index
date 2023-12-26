@@ -238,7 +238,7 @@ dev-python/aggdraw 1.3.11: High quality drawing interface for PIL
 dev-python/aiocmd 0.1.5: Coroutine-based CLI generator using prompt_toolkit
 dev-python/aioconsole 0.3.1: Asynchronous console and interfaces for asyncio
 dev-python/aiogpt 4.0.11: Reverse Engineered ChatGPT API by OpenAI
-dev-python/aiogram 2.24 3.2.0: Asynchronous framework for Telegram Bot API
+dev-python/aiogram 3.2.0: Asynchronous framework for Telegram Bot API
 dev-python/aiogram_dialog 1.9.0 2.0.0_beta9 2.0.0_beta11: GUI framework on top of aiogram
 dev-python/aiomultiprocess 0.8.0 0.9.0: asyncio version of the standard multiprocessing module
 dev-python/aiopg 1.4.0-r2: Postgres integration with asyncio
