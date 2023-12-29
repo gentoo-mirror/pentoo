@@ -274,7 +274,6 @@ dev-python/cement 2.10: Application Framework for Python
 dev-python/censys 2.1.8: Python library for interacting with Censys Search Engine (censys.io)
 dev-python/cfscrape 2.1.1: A module to bypass Cloudflare's anti-bot page
 dev-python/cherrypy-cors 1.6: CORS handling as a cherrypy tool.
-dev-python/cli-helpers 2.3.0: Python helpers for common CLI tasks
 dev-python/click-option-group 0.5.3: Option groups missing in Click
 dev-python/cmake-converter 2.0.1: CMake converter for Visual Studio projects
 dev-python/codegen 1.0: Extension to ast that allow ast -> python code generation
