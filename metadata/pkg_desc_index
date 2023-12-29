@@ -257,7 +257,7 @@ dev-python/asn1 2.7.0: a simple ASN.1 encoder and decoder
 dev-python/asn1tools 0.163.0: ASN.1 parsing, encoding and decoding
 dev-python/aspectlib 1.5.2: Aspect-oriented programming, monkey-patch and decorators library
 dev-python/asyauth 0.0.16 0.0.18: asyauth by skilsec
-dev-python/asyncpg 0.23.0 0.27.0: A fast PostgreSQL Database Client Library for Python/asyncio.
+dev-python/asyncpg 0.27.0 0.29.0: A fast PostgreSQL Database Client Library for Python/asyncio.
 dev-python/asysocks 0.2.9 0.2.11: Socks5 / Socks4 client and server library
 dev-python/banal 1.0.1: Commons of banal micro-functions for Python.
 dev-python/bardapi 0.1.29 0.1.38: The unofficial Google Bard API port
