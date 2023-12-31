@@ -300,7 +300,7 @@ dev-python/django-ranged-response 0.2.0: Django FileResponse that adds Content-R
 dev-python/django-simple-captcha 0.5.17: A very simple, yet powerful, Django captcha application
 dev-python/django-statici18n 1.8.3: Django helper for generating Javascript catalog to static files
 dev-python/django-webpack-loader 0.6.0: Transparently use webpack with django
-dev-python/djangosaml2 1.5.7 1.6.0: Django SAML2 Service Provider based on pySAML2
+dev-python/djangosaml2 1.6.0 1.9.0: Django SAML2 Service Provider based on pySAML2
 dev-python/dnslib 0.9.19 0.9.22: Simple library to encode/decode DNS wire-format packets
 dev-python/docopt-ng 0.9.0: Jazzband-maintained fork of docopt
 dev-python/donut-shellcode 1.0.2-r1: Donut Python C extension
