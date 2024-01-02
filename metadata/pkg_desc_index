@@ -485,7 +485,7 @@ dev-python/python3-openid 3.1.0: Python 3 port of the python-openid library
 dev-python/pytimeparse 1.1.8: A small Python module to parse various kinds of time expressions
 dev-python/pytun-pmd3 1.0.0: python-pytun fork with Darwin support (IPv6-ONLY)
 dev-python/pyvnc 20220514-r1: Client library for interacting with a VNC session
-dev-python/pyvoronoi 1.0.7_p20171002: Cython wrapper for the Boost Voronoi library
+dev-python/pyvoronoi 1.0.7_p20231113: Cython wrapper for the Boost Voronoi library
 dev-python/pywerview 0.3.1-r1 0.3.2-r1: A Python port of PowerSploit's PowerView
 dev-python/pyzipper 0.3.5: AES encryption for zipfile
 dev-python/qh3 0.12.0: An implementation of QUIC and HTTP/3
@@ -523,7 +523,7 @@ dev-python/stegoveritas-binwalk 2.1.2: Binwalk release specifically for stegover
 dev-python/stegoveritas-pfp 0.2.3: An 010 template interpreter for Python
 dev-python/stegoveritas-py010parser 0.1.10: A modified pycparser to parse 010 templates
 dev-python/stix2 3.0.1: Produce and consume STIX 2 JSON content
-dev-python/stix2-patterns 2.0.0: 
+dev-python/stix2-patterns 2.0.0: Validate STIX 2 Patterns
 dev-python/stone 3.3.1: The Official Api Spec Language for Dropbox
 dev-python/svgutils 0.3.4: utility package that helps to edit and concatenate SVG files
 dev-python/syslog-rfc5424-formatter 1.2.2: Logging formatter which produces well-formatted RFC5424 Syslog Protocol messages
