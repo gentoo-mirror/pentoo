@@ -128,6 +128,7 @@ dev-libs/openssl-bad:sslv3 - Compile with sslv3
 dev-libs/openssl-bad:tls-heartbeat - Compile with tls-heartbeat
 dev-python/django-constance-haiwen:database - Add django-picklefield support
 dev-python/django-constance-haiwen:redis - Add django-redis support
+dev-python/fastapi:all - Enable optional dependencies
 dev-python/nvidia-apex:cuda - Add support for CUDA processing
 dev-python/openai:datalib - Make data libraries like `numpy` and `pandas` optional dependencies (130MB+)
 dev-python/pyinstaller:clang - Support for sys-devel/clang
