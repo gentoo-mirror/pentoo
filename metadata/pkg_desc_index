@@ -647,7 +647,7 @@ dev-util/AndroidProjectCreator-bin 1.5 1.5.2: Decompile an APK to an Android Stu
 dev-util/androguard 3.4.0_alpha1 4.0.2: Read Android's binary format for XML files (AXML) and a decompiler for DEX
 dev-util/android-sdk-build-tools 30.0.3 31 33 34: Android SDK Build Tools
 dev-util/apkInspector 1.2.0: A tool designed to provide detailed insights into the zip structure of APK files
-dev-util/apktool 2.8.1 2.9.1: A tool for reengineering 3rd party, closed, binary Android apps
+dev-util/apktool 2.9.1 2.9.2: A tool for reengineering 3rd party, closed, binary Android apps
 dev-util/appmon 0.5_p20201013: Monitoring and tampering API calls of MacOS and iOS/Android apps
 dev-util/catalyst 3.0.9 9999: Release metatool used for creating releases based on Gentoo Linux
 dev-util/chipsec 1.10.4: Platform Security Assessment Framework
