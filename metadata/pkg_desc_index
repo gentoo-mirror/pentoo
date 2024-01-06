@@ -383,7 +383,7 @@ dev-python/ldap3 2.9.1: A strictly RFC 4511 conforming LDAP V3 pure Python clien
 dev-python/ldapdomaindump 0.9.3 0.9.4: Active Directory information dumper via LDAP
 dev-python/leather 0.3.3: Python charting for 80% of humans
 dev-python/libsast 1.5.2: A generic SAST core built on top of semgrep and regex
-dev-python/limits 1.5.1: Rate limiting utilities
+dev-python/limits 3.7.0: Rate limiting utilities
 dev-python/litecli 1.5.0 1.9.0: CLI for SQLite Databases with auto-completion and syntax highlighting
 dev-python/loguru 0.7.2: Python logging made (stupidly) simple
 dev-python/lsassy 3.1.6 3.1.9: Python library to parse remote lsass dumps
