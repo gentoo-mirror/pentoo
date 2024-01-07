@@ -217,7 +217,7 @@ dev-perl/Net-Address-IP-Local 0.1.2: A class for discovering the local system's 
 dev-perl/String-HexConvert 0.02: Converts ascii strings to hex and reverse
 dev-perl/Tie-CharArray 1.00: Manipulate perl strings through tied array
 dev-php/evalhook 0.1_p20231013: Decode/Deobfuscate PHP Scripts
-dev-python/EasyProcess 0.2.7: Easy to use python subprocess interface
+dev-python/EasyProcess 0.2.7 1.1: Easy to use python subprocess interface
 dev-python/Flask-KVSession 0.6.2: Transparent server-side session support for flask
 dev-python/IP2Location 8.8.1 8.10.0: Python API for IP2Location database
 dev-python/Js2Py 0.67_p20200212: JavaScript to Python Translator & JavaScript interpreter
@@ -249,7 +249,7 @@ dev-python/apkid 2.1.3 2.1.4 2.1.5: Android Package Protector Identifier
 dev-python/apksigcopier 1.1.1: copy/extract/patch android apk signatures & compare
 dev-python/apksigtool 0.1.0: parse & verify android apk signing blocks
 dev-python/apng 0.3.3 0.3.4: A Python module to deal with APNG files
-dev-python/arc4 0.2.0: A small and insanely fast ARCFOUR (RC4) cipher
+dev-python/arc4 0.3.0: A small and insanely fast ARCFOUR (RC4) cipher
 dev-python/arpy 2.3.0: Library for accessing ar files
 dev-python/artifacts 20221012 20221219: Digital Forensics Artifact Repository
 dev-python/asciitree 0.3.3: Draws ASCII trees
