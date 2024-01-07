@@ -134,6 +134,10 @@ dev-python/openai:datalib - Make data libraries like `numpy` and `pandas` option
 dev-python/pyinstaller:clang - Support for sys-devel/clang
 dev-python/pyinstaller:leak-detector - Support for link with Boehm garbage collector to detect memory leaks
 dev-python/pypsrp:credssp - Add CredSSP support
+dev-python/python-libnmap:boto - Amazon Web Services support
+dev-python/python-libnmap:defusedxml - import untrusted XML scans data
+dev-python/python-libnmap:mongodb - mongodb support
+dev-python/python-libnmap:sqlalchemy - sqlalchemy support
 dev-python/simplespectral:faster - Use dev-python/scipy to speed up drawing
 dev-python/simplespectral:fastest - Use dev-python/pyFFTW to speed up drawing to the max
 dev-python/social-auth-core:saml - Use SAML

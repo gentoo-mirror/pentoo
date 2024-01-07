@@ -306,6 +306,7 @@ dev-python/dnslib 0.9.19 0.9.22: Simple library to encode/decode DNS wire-format
 dev-python/docopt-ng 0.9.0: Jazzband-maintained fork of docopt
 dev-python/donut-shellcode 1.0.2-r1: Donut Python C extension
 dev-python/dotty 1.5: EFILTER query language
+dev-python/dploot 2.2.4: DPAPI looting remotely in Python
 dev-python/dropbox-sdk 10.1.1 11.36.1: A Python SDK for integrating with the Dropbox API v2.
 dev-python/dsinternals 1.2.4: Directory Services Internals Library
 dev-python/dtfabric 20210731 20220124 20220219: YAML-based definition language to specify format and data types
@@ -475,7 +476,7 @@ dev-python/python-cas-haiwen 20180411: Python CAS client library
 dev-python/python-crontab 20191023: Crontab module for accessing system crontabs
 dev-python/python-docx 0.8.10: Create and modify Word documents with Python
 dev-python/python-iptools 0.7.0: A package is a collection of utilities for dealing with IP addresses
-dev-python/python-libnmap 0.7.2: A python library enabling python developers to manipulate nmap process and data
+dev-python/python-libnmap 0.7.3: A python library enabling python developers to manipulate nmap process and data
 dev-python/python-nmap 0.6.1 0.6.4: a python library which helps in using nmap port scanner
 dev-python/python-oauth2 1.1.1: OAuth 2.0 provider for python
 dev-python/python-obfuscator 0.0.2: made good code to make bad code
