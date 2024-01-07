@@ -257,6 +257,10 @@ pentoo/pentoo:rce - Pull in pentoo metapackage pentoo-rce
 pentoo/pentoo:voip - Pull in pentoo metapackage pentoo-voip
 pentoo/pentoo:wireless - Pull in pentoo metapackage pentoo-wireless
 pentoo/pentoo-cinnamon:gdm - GNOME Display Manager
+pentoo/zero-system:dev - Packages for doing gentoo dev work
+pentoo/zero-system:naga - Packages for my main laptop
+pentoo/zero-system:nu - Packages for the build machine
+pentoo/zero-system:printer - Packages for printing
 sys-apps/pcsc-lite:embedded - limit RAM and CPU ressources by disabling features
 sys-apps/pcsc-lite:libusb - Use dev-libs/libusb detection to hotplug new smartcard readers. This flag should only be enabled if you're running a non-Linux kernel or you don't want to use udev.
 sys-apps/pcsc-lite:policykit - Uses sys-auth/polkit to restrict access to smartcard readers or smartcards to given users.
