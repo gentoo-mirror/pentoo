@@ -487,7 +487,7 @@ dev-python/pytimeparse 1.1.8: A small Python module to parse various kinds of ti
 dev-python/pytun-pmd3 1.0.0: python-pytun fork with Darwin support (IPv6-ONLY)
 dev-python/pyvnc 20220514-r1: Client library for interacting with a VNC session
 dev-python/pyvoronoi 1.0.7_p20231113: Cython wrapper for the Boost Voronoi library
-dev-python/pywerview 0.3.1-r1 0.3.2-r1: A Python port of PowerSploit's PowerView
+dev-python/pywerview 0.6: A Python port of PowerSploit's PowerView
 dev-python/pyzipper 0.3.5: AES encryption for zipfile
 dev-python/qh3 0.12.0: An implementation of QUIC and HTTP/3
 dev-python/qt-py 1.3.3: Minimal Python 2 & 3 shim around all Qt bindings
