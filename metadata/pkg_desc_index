@@ -903,7 +903,7 @@ net-wireless/srsran 23.11 9999: Open source SDR 4G software suite from Software 
 net-wireless/trunk-recorder 4.7.1 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
 net-wireless/wifipumpkin3 1.1.5 1.1.7: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifite 2.6.9 2.7.0: An automated wireless attack tool
-net-wireless/wireless-regdb 20220606-r1: Binary regulatory database for CRDA
+net-wireless/wireless-regdb 20220606-r1 20230503-r2: Wireless Regulatory database for Linux
 net-wireless/wpa_sycophant 1.0 9999: Evil client portion of EAP relay attack
 pentoo/pentoo 2023.2: Pentoo meta ebuild to install all apps
 pentoo/pentoo-analyzer 2023.0: Pentoo analyzers meta ebuild
