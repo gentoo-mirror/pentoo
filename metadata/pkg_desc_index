@@ -906,7 +906,7 @@ net-wireless/wifite 2.6.9 2.7.0: An automated wireless attack tool
 net-wireless/wireless-regdb 20220606-r1 20230503-r2: Wireless Regulatory database for Linux
 net-wireless/wpa_sycophant 1.0 9999: Evil client portion of EAP relay attack
 pentoo/pentoo 2023.2: Pentoo meta ebuild to install all apps
-pentoo/pentoo-analyzer 2023.0: Pentoo analyzers meta ebuild
+pentoo/pentoo-analyzer 2024.0: Pentoo analyzers meta ebuild
 pentoo/pentoo-bluetooth 2023.0: Pentoo bluetooth meta ebuild
 pentoo/pentoo-cinnamon 2020.1: Pentoo cinnamon meta ebuild
 pentoo/pentoo-core 2024.0-r1: Pentoo minimum core requirements
@@ -958,7 +958,7 @@ sys-kernel/ft60x_driver 20180209 20190318: USB FT60x driver
 sys-kernel/kconfig-hardened-check 0.5.17 0.6.1 9999: A script for checking the hardening options in the Linux kernel config
 sys-kernel/nvidia-bl 0.17.3: Driver to adjust display backlight on legacy mobile NVidia graphics adapters
 sys-kernel/pentoo-lts-sources 2: Pentoo kernel sources (kernel series .)
-sys-kernel/pentoo-sources 6.6.9: Pentoo kernel sources (kernel series 6.6)
+sys-kernel/pentoo-sources 6.6.11: Pentoo kernel sources (kernel series 6.6)
 sys-kernel/pf_ring-kmod 7.8.0_p20210421: High-speed packet processing framework (kernel modules for)
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
 sys-libs/ldb 2.8.0: LDAP-like embedded database
