@@ -11,5 +11,5 @@ LICENSE=|| ( GPL-2 BSD )
 RDEPEND=dev-libs/libnl:3 net-misc/dhcp[client] net-wireless/crda net-wireless/hostapd-mana ssl? ( dev-libs/openssl:0=[bindist=] ) !ssl? ( dev-libs/libtommath )
 SLOT=0
 SRC_URI=https://github.com/sensepost/wpa_sycophant/archive/v1.0.tar.gz -> wpa_sycophant-1.0.tar.gz
-_eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	portability	a74d533f258f1f435be71312558c12f9	savedconfig	8b5f9d995a970e49cd427c55d5840285
+_eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	portability	225656ad6c6594fe3b0187bdd50707fb	savedconfig	8b5f9d995a970e49cd427c55d5840285
 _md5_=14f61c35b086247179e9e46613cda76d
