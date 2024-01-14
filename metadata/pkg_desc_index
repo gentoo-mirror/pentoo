@@ -445,6 +445,7 @@ dev-python/pycrashreport 1.2.1 1.2.2: Pure python3 for parsing Apple's crash rep
 dev-python/pycups 2.0.1-r1: Python bindings for the CUPS API
 dev-python/pydecomp 9999: A python library of common (de)compression and contents handling
 dev-python/pydispatcher 2.0.5: Multi-producer-multi-consumer signal dispatching mechanism
+dev-python/pydub 0.25.1: Manipulate audio with an simple and easy high level interface
 dev-python/pyee 8.1.0 8.2.2: A port of node.js's EventEmitter to python.
 dev-python/pygeoif 0.7: A basic implementation of the __geo_interface__
 dev-python/pygexf 0.2.2: A python library to generate gexf file format
@@ -536,7 +537,6 @@ dev-python/truffleHogRegexes 20190518-r1: These are the regexes that power truff
 dev-python/tweepy 3.9.0: A Python library for accessing the Twitter API
 dev-python/types-pytz 2022.6.0.1 2023.3.0.0: Typing stubs for pytz
 dev-python/unicrypto 0.0.9 0.0.10: Unified interface for cryptographic libraries
-dev-python/uvloop 0.19.0-r2: Ultra-fast implementation of asyncio event loop on top of libuv
 dev-python/vaderSentiment 3.3.2: VADER Sentiment Analysis
 dev-python/validators 0.14.0: Python Data Validation for Humans
 dev-python/vulners 1.5.5: Python API wrapper for the Vulners Database
