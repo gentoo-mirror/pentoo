@@ -168,7 +168,7 @@ dev-libs/LeechCore 2.14 2.16: Direct Memory Access (DMA) Attack Software
 dev-libs/cm256cc 1.1.0: Fast GF(256) Cauchy MDS Block Erasure Codec in C++
 dev-libs/frida-core 16.0.19 16.1.8: Dynamic instrumentation toolkit for reverse-engineers and security researchers
 dev-libs/gobject-introspection 1.76.1 1.78.1: Introspection system for GObject-based libraries
-dev-libs/hashdb 3.1.0-r1: The hashdb block hash database tool and API
+dev-libs/hashdb 3.1.0-r2: The hashdb block hash database tool and API
 dev-libs/libcaes 20221127 20230406: Library to support cross-platform AES encryption
 dev-libs/libcdata 20220103 20220115: Library for cross-platform C generic data functions
 dev-libs/libcdatetime 20200510 20220104: Library for cross-platform C date and time functions
