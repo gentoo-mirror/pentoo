@@ -811,8 +811,8 @@ net-misc/voipong 2.0_p20111230: detect all VoIP calls on a pipeline and dump act
 net-misc/wireshark-patoolkit 20191029: a collection of traffic analysis Wireshark plugins focused on security
 net-misc/wlan2eth 1.3: Wlan2eth is a tool that converts wlan pcap to ethernet-like frames.
 net-print/hplip 3.23.8 3.23.12: HP Linux Imaging and Printing - Print, scan, fax drivers and service tools
-net-proxy/burpsuite 2023.10.3.7 2023.11.1.3 9999: Interactive proxy for attacking and debugging web applications
-net-proxy/burpsuite-pro 2023.1.1_rc 2023.10.3.7 2023.11.1.3: Interactive proxy for attacking and debugging web applications
+net-proxy/burpsuite 2023.11.1.3 2023.11.1.4 9999: Interactive proxy for attacking and debugging web applications
+net-proxy/burpsuite-pro 2023.1.1_rc 2023.11.1.3 2023.11.1.4: Interactive proxy for attacking and debugging web applications
 net-proxy/insomnia-bin 8.2.0 2023.5.8: REST API client, a postman alternative
 net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal network via reverse connection
 net-proxy/shadowsocks-rust 1.15.3: Shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
