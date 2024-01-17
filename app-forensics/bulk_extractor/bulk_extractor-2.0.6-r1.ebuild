@@ -3,11 +3,11 @@
 
 EAPI=8
 
-inherit autotools desktop xdg-utils
+inherit autotools
 
 DESCRIPTION="Scans a disk image for regular expressions and other content"
 HOMEPAGE="https://github.com/simsong/bulk_extractor"
-SRC_URI="https://digitalcorpora.s3.amazonaws.com/downloads/bulk_extractor/${P}.tar.gz"
+SRC_URI="https://github.com/simsong/bulk_extractor/releases/download/v${PV}/${P}.tar.gz"
 
 LICENSE="GPL-2"
 SLOT="0"
@@ -43,7 +43,7 @@ BDEPEND="
 	virtual/pkgconfig"
 
 src_prepare() {
-	eapply "${FILESDIR}/bulk_extractor-2.0.3_uint32_t.patch"
+#	eapply "${FILESDIR}/bulk_extractor-2.0.3_uint32_t.patch"
 
 	eautoreconf
 	default
