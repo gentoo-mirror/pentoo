@@ -52,7 +52,7 @@ app-exploits/unix-privesc-check 20210207 99999999: Shell script to check for sim
 app-exploits/webshells 20230128 99999999: Various webshells
 app-exploits/weevely 4.0.1 9999: Weevely is a stealth PHP web shell that simulate telnet-like console
 app-exploits/wesng 20200616 99999999: Windows Exploit Suggester - Next Generation
-app-forensics/bulk_extractor 2.0.3-r2: Scans a disk image for regular expressions and other content
+app-forensics/bulk_extractor 2.0.3-r2 2.0.6: Scans a disk image for regular expressions and other content
 app-forensics/dfvfs 20220419 20220430 20220917: Digital Forensics Virtual File System (dfVFS)
 app-forensics/dfwinreg 20200121 20200415 20201006 20211205 20211207: Digital Forensics Windows Registry (dfWinReg)
 app-forensics/inception 0.4.2: Firewire physical memory manipulation tool exploiting IEEE 1394 SBP-2 DMA
@@ -416,7 +416,7 @@ dev-python/nplusone 1.0.0: Detecting the n+1 queries problem in Python
 dev-python/nvidia-apex 22.04 22.12-r1 23.05: Tools for easy mixed precision and distributed training in Pytorch
 dev-python/nvidia-apex-bin 22.8: NVIDIA-maintained utilities to streamline mixed precision and distributed training in Pytorch
 dev-python/opack 0.1.0: Python library for parsing the opack format
-dev-python/openai 1.3.9 1.6.1: Python client library for the OpenAI API
+dev-python/openai 1.6.1 1.8.0: Python client library for the OpenAI API
 dev-python/opensearch_py 1.0.0 1.1.0 2.0.0 2.0.1: Python low-level client for OpenSearch
 dev-python/openstep_parser 1.5.4: OpenStep plist reader into python objects
 dev-python/orjson-bin 3.5.4: Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
