@@ -4,7 +4,7 @@ DEPEND=app-accessibility/at-spi2-core:2 >=dev-libs/openssl-1.1.0:0= media-libs/f
 DESCRIPTION=Perform a rainbow table attack on password hashes
 EAPI=8
 HOMEPAGE=https://freerainbowtables.com/
-INHERIT=autotools desktop multilib toolchain-funcs unpacker xdg-utils
+INHERIT=autotools desktop toolchain-funcs unpacker xdg-utils
 IUSE=gtk
 KEYWORDS=amd64 ~x86
 LICENSE=GPL-2
@@ -12,4 +12,4 @@ RDEPEND=app-accessibility/at-spi2-core:2 >=dev-libs/openssl-1.1.0:0= media-libs/
 SLOT=0
 SRC_URI=mirror://sourceforge/rcracki/rcracki_mt_0.7.0_src.7z -> rcracki_mt-0.7.0.7z
 _eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	e4cf390b19033d5ca443765bc8537b81	desktop	021728fdc1b03b36357dbc89489e0f0d	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	unpacker	7b40f3faa3e2e12f5cf6d36d0fbfcd09	xdg-utils	baea6080dd821f5562d715887954c9d3
-_md5_=d899d72542211108cd0ae295c012778a
+_md5_=04778ff03ad66f8ce39a4a3df237f0c5

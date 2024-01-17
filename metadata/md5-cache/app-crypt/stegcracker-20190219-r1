@@ -6,5 +6,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=MIT
 RDEPEND=app-crypt/steghide
 SLOT=0
-SRC_URI=https://github.com/Paradoxis/StegCracker/archive/5f656b310033a1cc599676bcef742f25e70f6141.tar.gz -> stegcracker-20190219.tar.gz
-_md5_=c90879bd7ab798bc0572c19ba58b1e00
+SRC_URI=https://github.com/Paradoxis/StegCracker/archive/5f656b310033a1cc599676bcef742f25e70f6141.tar.gz -> stegcracker-20190219.gh.tar.gz
+_md5_=b9f0973e4624712403afa4f3902097ce

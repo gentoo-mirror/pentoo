@@ -7,4 +7,4 @@ KEYWORDS=alpha amd64 ~hppa ppc ppc64 sparc x86
 LICENSE=GPL-3
 SLOT=0
 SRC_URI=https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/raft/raft-wordlists-20110803.7z
-_md5_=0a9a3bd63e91de9e3d94e392fcdc79cd
+_md5_=d042abe6fb3bddd0126198deb2eb48b3
