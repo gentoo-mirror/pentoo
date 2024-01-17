@@ -4,12 +4,12 @@ DEPEND=aff? ( app-forensics/afflib ) dev-libs/expat dev-libs/libgcrypt:= exiv2? 
 DESCRIPTION=Scans a disk image for regular expressions and other content
 EAPI=8
 HOMEPAGE=https://github.com/simsong/bulk_extractor
-INHERIT=autotools desktop xdg-utils
+INHERIT=autotools
 IUSE=aff doc beviewer exiv2 hashdb +rar
 KEYWORDS=amd64 ~x86
 LICENSE=GPL-2
 RDEPEND=aff? ( app-forensics/afflib ) dev-libs/expat dev-libs/libgcrypt:= exiv2? ( media-gfx/exiv2 ) sys-libs/zlib hashdb? ( dev-libs/hashdb ) beviewer? ( || ( virtual/jre:* virtual/jdk:* ) )
 SLOT=0
-SRC_URI=https://digitalcorpora.s3.amazonaws.com/downloads/bulk_extractor/bulk_extractor-2.0.3.tar.gz
-_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	e4cf390b19033d5ca443765bc8537b81	desktop	021728fdc1b03b36357dbc89489e0f0d	xdg-utils	baea6080dd821f5562d715887954c9d3
-_md5_=071151f447e4a3d1a1a6b6d04b21a2b3
+SRC_URI=https://github.com/simsong/bulk_extractor/releases/download/v2.0.6/bulk_extractor-2.0.6.tar.gz
+_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	9d3a9a889a6fa62ae794f817c156491b	autotools	e4cf390b19033d5ca443765bc8537b81
+_md5_=372c8a664362d048e20b213eb7f95c7b

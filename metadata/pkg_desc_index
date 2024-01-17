@@ -52,7 +52,7 @@ app-exploits/unix-privesc-check 20210207 99999999: Shell script to check for sim
 app-exploits/webshells 20230128 99999999: Various webshells
 app-exploits/weevely 4.0.1 9999: Weevely is a stealth PHP web shell that simulate telnet-like console
 app-exploits/wesng 20200616 99999999: Windows Exploit Suggester - Next Generation
-app-forensics/bulk_extractor 2.0.3-r3 2.0.6: Scans a disk image for regular expressions and other content
+app-forensics/bulk_extractor 2.0.6-r1: Scans a disk image for regular expressions and other content
 app-forensics/dfvfs 20220419 20220430 20220917: Digital Forensics Virtual File System (dfVFS)
 app-forensics/dfwinreg 20200121 20200415 20201006 20211205 20211207: Digital Forensics Windows Registry (dfWinReg)
 app-forensics/inception 0.4.2: Firewire physical memory manipulation tool exploiting IEEE 1394 SBP-2 DMA
@@ -783,7 +783,7 @@ net-fs/cifs-utils 7.0-r1: Tools for Managing Linux CIFS Client Filesystems
 net-fs/samba 4.19.3: Samba Suite Version 4
 net-im/jitsi 2.11.5633: Secure IM communicator that supports SIP, XMPP, AIM/ICQ, Windows Live, Yahoo
 net-im/jitsi-videobridge 1132: https://github.com/jitsi/jitsi-videobridge
-net-libs/libosmocore 1.6.0_p20220508: Utility functions for OsmocomBB, OpenBSC and related projects
+net-libs/libosmocore 1.6.0_p20220508-r1: Utility functions for OsmocomBB, OpenBSC and related projects
 net-libs/libpfring 8.0.0 8.4.0: A new type of network socket that improves packet capture speed.
 net-libs/libsearpc 3.3.0-r1: A simple C language RPC framework
 net-libs/libtins 4.3: High-level, multiplatform C++ network packet sniffing and crafting library.
@@ -850,8 +850,7 @@ net-wireless/gr-gsm 20210505-r1: Set of tools for receiving information transmit
 net-wireless/gr-ham 20200511: 
 net-wireless/gr-m2k 9999: A C++ library for interfacing with the ADALM2000
 net-wireless/gr-mixalot 0.0_p20230121 9999: a set of GNU Radio blocks/utilities to encode pager messages
-net-wireless/gr-osmosdr 0.2.4_p20230214: GNU Radio source block for OsmoSDR and rtlsdr and hackrf
-net-wireless/gr-sdrplay3 9999 20230421: GNU Radio OOT module for SDRplay RSP devices - SRDPlay API v3
+net-wireless/gr-sdrplay3 9999 20230421-r1: GNU Radio OOT module for SDRplay RSP devices - SRDPlay API v3
 net-wireless/hackrf-firmware 9999: Hardware designs and software for HackRF
 net-wireless/hcxdumptool 6.2.0 6.2.7: Small tool to capture packets from wlan devices
 net-wireless/hcxkeys 6.2.1-r2: Generate plainmasterkeys (rainbowtables) and hashes for hashcat/JTR
@@ -892,7 +891,7 @@ net-wireless/rtl8852bu_morrownr 9999: RTL88{3,5}2BU driver with monitor mode and
 net-wireless/rtl88x2bu_morrownr 9999: RTL88{1,2}2BU driver with monitor mode and frame injection
 net-wireless/rtl_power_fftw 0.0_p20200601 9999: power spectrum for RTLSDR dongles
 net-wireless/rx_tools 1.0.3_p20190331 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
-net-wireless/sdrangel 7.13.0 7.14.2: SDR Rx/Tx software
+net-wireless/sdrangel 7.14.2-r1: SDR Rx/Tx software
 net-wireless/sdrtrunk 0.5.0 0.5.2: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/sdrtrunk-bin 0.5.3 0.6.0: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/signalhound-spike 3.5.9: Spectrum analyzer software for Signal Hound test equipment
@@ -934,7 +933,7 @@ pentoo/pentoo-voip 2023.0: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2023.2: Pentoo wireless meta ebuild
 pentoo/rfctf-client 2024.0: Packages needed to power the client and SDR devices for RFCTF events
 pentoo/tribe 2012.0: Tribe meta ebuild
-pentoo/zero-system 2024.0-r4: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
+pentoo/zero-system 2024.0-r5: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
 sci-electronics/litedram 20180514: Small footprint and configurable DRAM core
 sci-electronics/liteeth 20180301 20180719: Small footprint and configurable Ethernet core
 sci-electronics/litepcie 20180530: Small footprint and configurable PCIe core
@@ -961,7 +960,6 @@ sys-kernel/pentoo-lts-sources 2: Pentoo kernel sources (kernel series .)
 sys-kernel/pentoo-sources 6.6.11: Pentoo kernel sources (kernel series 6.6)
 sys-kernel/pf_ring-kmod 7.8.0_p20210421: High-speed packet processing framework (kernel modules for)
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
-sys-libs/ldb 2.8.0: LDAP-like embedded database
 sys-libs/talloc 2.4.1: Samba talloc library
 sys-libs/tdb 1.4.9: Simple database API
 sys-libs/tevent 0.15.0: Samba tevent library
