@@ -52,7 +52,6 @@ app-forensics/libvshadow:fuse - Enable FUSE support
 app-forensics/libvslvm:fuse - Enable FUSE support
 app-forensics/openscap:chroot - Scan entire chroots using offline scanning
 app-forensics/openscap:docker - Enables the oscap-docker utility
-app-forensics/openscap:gconf - Build the gconf independant probes
 app-forensics/openscap:nss - Prefer NSS over libgcrypt as the crypto engine
 app-forensics/openscap:podman - Scan Podman containers and container images
 app-forensics/openscap:rpm - Compiles the RPM probes
@@ -151,11 +150,9 @@ dev-util/mobsf:genymotion - Add app-emulation/genymotion-bin support
 dev-util/objection:patchapk - Add support to patch APKs
 dev-util/qark:exploit - Add support for generating exploit APKs
 dev-util/recaf-bin:system-openjfx - Add OpenJFX support
-dev-util/retdec:system-libs - Use system libraries
 dev-util/sonarscanner-bin:embedded_jre - Install embedded JRE
 media-gfx/fontforge:truetype-debugger - Enable truetype debugger in fontforge
 media-gfx/fontforge:woff2 - Enable support for WOFF2 format
-media-libs/lv2:plugins - Enables examples plugins.
 media-sound/deinvert:liquid - improve sound quality using net-libs/liquid-dsp
 media-sound/deinvert:wav - wav file support using media-libs/libsndfile
 net-analyzer/medusa:ssh - Enable SSH2 module
@@ -168,11 +165,6 @@ net-analyzer/nmap:symlink - Install symlink to nc
 net-analyzer/nmap:zenmap - Install the GTK+ based nmap GUI, zenmap
 net-analyzer/testssl:bundled-openssl - Install precompiled versions of OpenSSL for greater testing coverage
 net-analyzer/twa:testssl - Install net-analyzer/testssl to check TLS/SSL cipher
-net-dns/avahi:autoipd - Build and install the IPv4LL (RFC3927) network address configuration daemon
-net-dns/avahi:bookmarks - Install the avahi-bookmarks application (requires dev-python/twisted)
-net-dns/avahi:gtk - Use gtk3 for the avahi utilities to build the avahi-ui-gtk3 library
-net-dns/avahi:howl-compat - Enable compat libraries for howl
-net-dns/avahi:mdnsresponder-compat - Enable compat libraries for mDNSResponder
 net-fs/cifs-utils:ads - Enable Active Directory support and create cifs.idmap binary - idmap support
 net-fs/cifs-utils:caps - Enable sys-libs/libcap-ng support
 net-fs/cifs-utils:creds - cifs credentials support
