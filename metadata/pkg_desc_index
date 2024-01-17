@@ -11,7 +11,6 @@ app-admin/opensnitch-ebpf-module 1.6.4: eBPF process monitor module for opensnit
 app-admin/system-config-printer 1.5.18-r1: Graphical user interface for CUPS administration
 app-admin/vuls 0.19.0-r1: Vulnerability scanner for Linux, agentless, written in Golang
 app-antivirus/malheur 0.5.4-r1: Malware analysis tool
-app-antivirus/tyton 1.2_p20200604 9999: Kernel-Mode Rootkit Hunter
 app-antivirus/veil 3.1.14-r2: A tool for payloads generation that bypass common anti-virus solutions
 app-crypt/SIPcrack 0.4-r2: SIPcrack is a SIP protocol login cracker
 app-crypt/acsccid 1.1.9 1.1.10: Generic driver for ACS (CCID and non-CCID) Smart Card Reader
