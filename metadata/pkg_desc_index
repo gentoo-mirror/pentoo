@@ -780,7 +780,6 @@ net-analyzer/xsstrike 3.1.5 9999: Advanced XSS detection suite
 net-dialup/freeradius 3.0.20-r3 3.0.21-r5 3.2.0: Highly configurable free RADIUS server
 net-dialup/minimodem 0.24: General-purpose software audio FSK modem.
 net-fs/cifs-utils 7.0-r1: Tools for Managing Linux CIFS Client Filesystems
-net-fs/samba 4.19.3: Samba Suite Version 4
 net-im/jitsi 2.11.5633: Secure IM communicator that supports SIP, XMPP, AIM/ICQ, Windows Live, Yahoo
 net-im/jitsi-videobridge 1132: https://github.com/jitsi/jitsi-videobridge
 net-libs/libosmocore 1.6.0_p20220508-r1: Utility functions for OsmocomBB, OpenBSC and related projects
