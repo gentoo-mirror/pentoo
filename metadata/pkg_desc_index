@@ -429,7 +429,7 @@ dev-python/parver 0.3.1: Parse and manipulate version numbers
 dev-python/pcodedmp 1.2.6: A VBA p-code disassembler
 dev-python/pdfkit 0.6.1 1.0.0: Wkhtmltopdf python wrapper
 dev-python/peewee-async 0.8.1 0.9.1: Asynchronous interface for peewee ORM powered by asyncio.
-dev-python/pillow 10.0.1 10.1.0-r1: Python Imaging Library (fork)
+dev-python/pillow 10.1.0-r1 10.2.0: Python Imaging Library (fork)
 dev-python/playsound 1.2.2: Single function module with no dependencies for playing sounds
 dev-python/promise 2.3.0: Promises/A+ implementation for Python
 dev-python/proxy-db 0.2.5-r1: Manage free and private proxies on local db for Python Projects

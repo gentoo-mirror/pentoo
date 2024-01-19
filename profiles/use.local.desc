@@ -129,6 +129,8 @@ dev-python/django-constance-haiwen:redis - Add django-redis support
 dev-python/fastapi:all - Enable optional dependencies
 dev-python/nvidia-apex:cuda - Add support for CUDA processing
 dev-python/openai:datalib - Make data libraries like `numpy` and `pandas` optional dependencies (130MB+)
+dev-python/pillow:imagequant - Build with Image Quantization Library support
+dev-python/pillow:raqm - Build with complex text layout library support
 dev-python/pyinstaller:clang - Support for sys-devel/clang
 dev-python/pyinstaller:leak-detector - Support for link with Boehm garbage collector to detect memory leaks
 dev-python/pypsrp:credssp - Add CredSSP support
