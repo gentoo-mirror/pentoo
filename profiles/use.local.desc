@@ -166,6 +166,10 @@ net-analyzer/nmap:symlink - Install symlink to nc
 net-analyzer/nmap:zenmap - Install the GTK+ based nmap GUI, zenmap
 net-analyzer/testssl:bundled-openssl - Install precompiled versions of OpenSSL for greater testing coverage
 net-analyzer/twa:testssl - Install net-analyzer/testssl to check TLS/SSL cipher
+net-dialup/freeradius:memcached - Include dev-libs/libmemcached in caching drivers
+net-dialup/freeradius:mongodb - Include support for MongoDB database
+net-dialup/freeradius:redis - Include support for Redis database
+net-dialup/freeradius:wpe - Include support for WPE hacking
 net-fs/cifs-utils:ads - Enable Active Directory support and create cifs.idmap binary - idmap support
 net-fs/cifs-utils:caps - Enable sys-libs/libcap-ng support
 net-fs/cifs-utils:creds - cifs credentials support

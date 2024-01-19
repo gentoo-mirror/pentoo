@@ -775,7 +775,7 @@ net-analyzer/wfuzz 3.0.3 3.1.0: Wfuzz is a tool designed for bruteforcing Web Ap
 net-analyzer/whatweb 0.5.5: Next generation web scanner, identifies what software websites are running
 net-analyzer/wpscan 3.8.24 3.8.25: Wordpress security scanner
 net-analyzer/xsstrike 3.1.5 9999: Advanced XSS detection suite
-net-dialup/freeradius 3.0.20-r3 3.0.21-r5 3.2.0: Highly configurable free RADIUS server
+net-dialup/freeradius 3.0.21-r5 3.2.0 3.2.3: Highly configurable free RADIUS server
 net-dialup/minimodem 0.24: General-purpose software audio FSK modem.
 net-fs/cifs-utils 7.0-r1: Tools for Managing Linux CIFS Client Filesystems
 net-im/jitsi 2.11.5633: Secure IM communicator that supports SIP, XMPP, AIM/ICQ, Windows Live, Yahoo
