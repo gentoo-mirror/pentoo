@@ -750,7 +750,7 @@ net-analyzer/scamper 20191102b: Actively probes the Internet in order to analyze
 net-analyzer/serialusb 0.7: A cheap USB proxy for input devices
 net-analyzer/set 8.0.3-r1: A social engineering framework
 net-analyzer/sitadel 1.0.0_p20190828: Web application security scanner
-net-analyzer/smbmap 1.8.2-r1: SMBMap is a handy SMB enumeration tool
+net-analyzer/smbmap 1.10.2: SMBMap is a handy SMB enumeration tool
 net-analyzer/sn0int 0.18.2 0.19.1 0.24.2: Semi-automatic OSINT framework and package manager
 net-analyzer/sniffglue 0.12.1: Secure multithreaded packet sniffer
 net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
