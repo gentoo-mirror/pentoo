@@ -518,7 +518,7 @@ dev-python/soupsieve 1.9.3-r1: A modern CSS selector implementation for Beautifu
 dev-python/splinter 0.13.0: tool for testing web applications
 dev-python/spry 0.5.5-r1: social media scanner
 dev-python/spyse-python 2.2.3: Python wrapper for spyse.com
-dev-python/sqlalchemy 1.4.50: Python SQL toolkit and Object Relational Mapper
+dev-python/sqlalchemy 1.4.50 1.4.51: Python SQL toolkit and Object Relational Mapper
 dev-python/sqlalchemy_mixins 1.2.1: Active Record, Django-like queries
 dev-python/sqlalchemy_schemadisplay 1.3: Turn SQLAlchemy DB Model into a graph
 dev-python/sqlalchemy_utc 0.12.0: SQLAlchemy type to store aware datetime values
