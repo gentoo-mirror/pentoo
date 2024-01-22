@@ -15,7 +15,6 @@ HOMEPAGE="https://github.com/skelsec/aiosmb"
 LICENSE="GPL-3"
 SLOT="0"
 KEYWORDS="amd64 ~arm64 x86"
-IUSE=""
 
 RDEPEND="
 	>=dev-python/unicrypto-0.0.10[${PYTHON_USEDEP}]
