@@ -26,6 +26,10 @@ app-exploits/packetstormexploits-meta:2016 - Use 2016 archivers
 app-exploits/packetstormexploits-meta:2017 - Use 2017 archivers
 app-exploits/packetstormexploits-meta:2018 - Use 2018 archivers
 app-exploits/packetstormexploits-meta:2019 - Use 2019 archivers
+app-exploits/packetstormexploits-meta:2020 - Use 2020 archivers
+app-exploits/packetstormexploits-meta:2021 - Use 2021 archivers
+app-exploits/packetstormexploits-meta:2022 - Use 2022 archivers
+app-exploits/packetstormexploits-meta:2023 - Use 2023 archivers
 app-forensics/bulk_extractor:aff - Add app-forensics/afflib support
 app-forensics/bulk_extractor:beviewer - Enable the BEViewer — is a User Interface for browsing features
 app-forensics/bulk_extractor:exiv2 - Add media-gfx/exiv2 support
