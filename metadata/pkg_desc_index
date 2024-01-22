@@ -659,7 +659,7 @@ dev-util/electron-bin 6.0.11: Cross platform application development framework b
 dev-util/electron-packager 14.2.1: Six Degrees of Domain Admin
 dev-util/frida-tools 12.1.2 12.3.0: Frida CLI tools
 dev-util/ghidra 10.4 11.0: A software reverse engineering framework
-dev-util/itstool 2.0.7: Translation tool for XML documents that uses gettext files and ITS rules
+dev-util/itstool 2.0.7 2.0.7-r1: Translation tool for XML documents that uses gettext files and ITS rules
 dev-util/jadx-bin 1.4.6 1.4.7: A standalone graphical Java Decompiler
 dev-util/jd-cli 1.2.0 1.2.1: Command line Java Decompiler
 dev-util/jd-cli-bin 1.2.1: Command line Java Decompiler
