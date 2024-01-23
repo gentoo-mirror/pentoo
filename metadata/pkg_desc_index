@@ -694,7 +694,7 @@ media-radio/rdio-scanner-bin 6.6.3: Software police-like scanner with its own to
 media-sound/deinvert 9999: A voice inversion descrambler
 net-analyzer/GyoiThon 9999: GyoiThon is a growing penetration test tool using Machine Learning
 net-analyzer/NetExec 1.1.0: A swiss army knife for pentesting Windows/Active Directory environments
-net-analyzer/amass 3.12.2 3.13.4: Subdomain OSINT Enumeration
+net-analyzer/amass 4.2.0: Subdomain OSINT Enumeration
 net-analyzer/badtouch 0.7.1: Scriptable network authentication cracker
 net-analyzer/bettercap 2.31.1 2.32.0: A complete, modular, portable and easily extensible MITM framework
 net-analyzer/bonesi 0.3.1 9999: BoNeSi - the DDoS botnet simulator
