@@ -42,6 +42,9 @@ fi
 if [[ ${CATEGORY}/${PN} == media-gfx/gimp ]]; then
   export CFLAGS="${CFLAGS/-Werror=strict-aliasing/}"
 fi
+if [[ ${CATEGORY}/${PN} == media-libs/fdk-aac ]]; then
+  export CFLAGS="${CFLAGS/-Werror=odr/}"
+fi
 if [[ ${CATEGORY}/${PN} == media-video/obs-studio ]]; then
   export CFLAGS="${CFLAGS/-Werror=lto-type-mismatch/}"
 fi
@@ -69,6 +72,12 @@ fi
 if [[ ${CATEGORY}/${PN} == app-crypt/ophcrack ]]; then
   export CXXFLAGS="${CXXFLAGS/-Werror=stringop-overread/}"
 fi
+if [[ ${CATEGORY}/${PN} == app-emulation/virtualbox ]]; then
+  export CFLAGS="${CFLAGS/-Werror=stringop-overread/}"
+  export CXXFLAGS="${CXXFLAGS/-Werror=stringop-overread/}"
+  #export CFLAGS="${CFLAGS/-Werror=strict-aliasing/}"
+  export CXXFLAGS="${CXXFLAGS/-Werror=strict-aliasing/}"
+fi
 if [[ ${CATEGORY}/${PN} == dev-db/sqlitebrowser ]]; then
   export CXXFLAGS="${CXXFLAGS/-Werror=odr/}"
 fi
@@ -81,6 +90,9 @@ fi
 if [[ ${CATEGORY}/${PN} == dev-util/android-tools ]]; then
   export CXXFLAGS="${CXXFLAGS/-Werror=strict-aliasing/}"
   export CXXFLAGS="${CXXFLAGS/-Werror=stringop-overread/}"
+  export CXXFLAGS="${CXXFLAGS/-Werror=odr/}"
+fi
+if [[ ${CATEGORY}/${PN} == dev-util/lief ]]; then
   export CXXFLAGS="${CXXFLAGS/-Werror=odr/}"
 fi
 if [[ ${CATEGORY}/${PN} == kde-apps/gwenview ]]; then
