@@ -381,6 +381,3 @@ dev-python/inquirer3
 
 #python 3.12
 =dev-python/google-auth-2.27*
-~dev-python/protobuf-python-4.23.3
-~dev-libs/protobuf-23.3
-~dev-cpp/abseil-cpp-20230802.0
