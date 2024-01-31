@@ -32,7 +32,7 @@ app-dicts/seclists 2023.4: A collection of multiple types of lists used during s
 app-editors/rehex 0.60.1: Reverse Engineers' Hex Editor
 app-eselect/eselect-metasploit 0.20: eselect module for metasploit
 app-exploits/deathstar 20201217-r1 20210519: A tool to gain Domain Admin rights with a push of a button
-app-exploits/empire 5.7.3 5.8.2 5.8.4: A post-exploitation framework
+app-exploits/empire 5.8.4 5.9.1: A post-exploitation framework
 app-exploits/enumdb 2.1.0: Database brute force and post exploitation tool
 app-exploits/exploitdb 20231222 99999999: All exploits from exploit-db.com
 app-exploits/exploitdb-papers 20221122 99999999: Exploit database's papers
@@ -247,6 +247,7 @@ dev-python/aiopg 1.4.0-r2: Postgres integration with asyncio
 dev-python/aiosmb 0.4.8 0.4.10: Asynchronous SMB protocol implementation
 dev-python/aiowinreg 0.0.9 0.0.10: Windows registry file reader
 dev-python/altgraph 0.17 0.17.3: A constructing graphs, BFS and DFS traversals, etc
+dev-python/antlr4-python3-runtime 4.13.1: Python 3 runtime for ANTLR
 dev-python/apkid 2.1.3 2.1.4 2.1.5: Android Package Protector Identifier
 dev-python/apksigcopier 1.1.1: copy/extract/patch android apk signatures & compare
 dev-python/apksigtool 0.1.0: parse & verify android apk signing blocks
@@ -343,7 +344,7 @@ dev-python/future 0.18.3: Easy, clean, reliable Python 2/3 compatibility
 dev-python/gatt-python 0.2.6-r1: Bluetooth GATT SDK for Python
 dev-python/geoip2-python 3.0.0: Python bindings for GeoIP2
 dev-python/glom 22.1.0: A declarative object transformer for conglomerating nested data
-dev-python/google-ai-generativelanguage 0.3.5 0.5.0: Google Ai Generativelanguage API client library
+dev-python/google-ai-generativelanguage 0.5.0: Google Ai Generativelanguage API client library
 dev-python/google-cloud-core 2.3.0: Google Cloud API client core library
 dev-python/google-cloud-dialogflow 2.27.0: Client library for the Dialogflow API
 dev-python/google-cloud-translate 3.11.1 3.11.2: Google Cloud Translation API
