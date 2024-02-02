@@ -6,4 +6,4 @@ KEYWORDS=amd64
 LICENSE=MIT
 SLOT=0
 SRC_URI=https://github.com/Kong/insomnia/releases/download/core%408.2.0/Insomnia.Core-8.2.0.tar.gz -> insomnia-bin-8.2.0.tar.gz
-_md5_=4e1569e02b5e60fef21ebdf2177d890e
+_md5_=6b8d3c343fc7f0da4ea52be8814813bd
