@@ -1,0 +1,9 @@
+DEFINED_PHASES=install
+DESCRIPTION=REST API client, a postman alternative
+EAPI=8
+HOMEPAGE=https://github.com/Kong/insomnia https://insomnia.rest/
+KEYWORDS=amd64
+LICENSE=MIT
+SLOT=0
+SRC_URI=https://github.com/Kong/insomnia/releases/download/core%408.6.0/Insomnia.Core-8.6.0.tar.gz -> insomnia-bin-8.6.0.tar.gz
+_md5_=4e1569e02b5e60fef21ebdf2177d890e
