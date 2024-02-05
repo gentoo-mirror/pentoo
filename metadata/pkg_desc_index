@@ -471,7 +471,7 @@ dev-python/pymodbus 2.1.0: A fully featured modbus protocol stack in python
 dev-python/pypcapfile 0.12.0: Pure Python package for reading and parsing libpcap savefiles
 dev-python/pyppeteer 1.0.2-r1: Headless chrome/chromium automation library
 dev-python/pypsrp 0.8.1: PowerShell Remoting Protocol and WinRM for Python
-dev-python/pysaml2 7.2.1 7.4.1: Python implementation of SAML Version 2 to be used in a WSGI environment
+dev-python/pysaml2 7.2.1 7.5.0: Python implementation of SAML Version 2 to be used in a WSGI environment
 dev-python/pysecretsocks 20221201 20231104: A python SOCKS server for tunneling connections over another channel.
 dev-python/pysnmp-apps 0.5.3: PySNMP applications
 dev-python/pystache 0.5.4: Mustache in Python
@@ -970,7 +970,7 @@ www-apps/Tiredful-API 9999: An intentionally designed broken web application bas
 www-apps/beef 0.5.4.0: Browser exploitation framework
 www-apps/geckodriver 0.27.0 0.30.0: Proxy for using WebDriver clients to interact with Gecko-based browsers.
 www-apps/rda 3.3: Web-based application for effective reporting writing
-www-apps/seafile-pro-server 10.0.11 10.0.12: Meta package for Seafile Pro Edition, file sync share solution
+www-apps/seafile-pro-server 10.0.12 11.0.4: Meta package for Seafile Pro Edition, file sync share solution
 www-apps/vulsrepo 20190412-r3: VulsRepo is visualized based on the json report output in vuls
 www-plugins/hackplugins-meta 20231006: Collection of browser's plugins for application security testing
 x11-libs/qwt-multiaxes 9999: 2D plotting library for Qt5
