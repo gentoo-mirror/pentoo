@@ -145,6 +145,7 @@ dev-python/python-libnmap:mongodb - mongodb support
 dev-python/python-libnmap:sqlalchemy - sqlalchemy support
 dev-python/simplespectral:faster - Use dev-python/scipy to speed up drawing
 dev-python/simplespectral:fastest - Use dev-python/pyFFTW to speed up drawing to the max
+dev-python/slowapi:redis - redis, memcached and memory backends to track your limits
 dev-python/social-auth-core:saml - Use SAML
 dev-python/stegoveritas-binwalk:graph - Enable support for generating entropy graphs
 dev-python/whitenoise:brotli - Add Brotli support
