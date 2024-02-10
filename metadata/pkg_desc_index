@@ -213,7 +213,7 @@ dev-libs/libvhdi 20221124: Library and tools to access the Virtual Hard Disk (VH
 dev-libs/libvmdk 20210807 20221022: Library and tools to access the VMware Virtual Disk (VMDK) format
 dev-libs/libwrc 20220720 20221009: Library to access the Windows Resource Compiler (WRC) format
 dev-libs/memprocfs 5.0 5.8: The Memory Process File System
-dev-libs/nanopb 0.4.6-r1 0.4.7: plain-C Protocol Buffers for embedded/memory-constrained systems
+dev-libs/nanopb 0.4.7 0.4.8: plain-C Protocol Buffers for embedded/memory-constrained systems
 dev-libs/openssl-bad 1.0.2_p20220901-r1: Snapshot for testssl.sh >2.8 from PM's fork, ready to compile
 dev-libs/serialDV 1.1.4: C++ library to encode/decode audio with AMBE3000
 dev-perl/Encoding-BER 1.02: Perl module for encoding/decoding data using ASN.1 Basic Encoding Rules (BER)

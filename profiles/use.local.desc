@@ -122,7 +122,7 @@ dev-libs/gobject-introspection:doctool - Install g-ir-doc-tool for generating do
 dev-libs/libcreg:fuse - Enable FUSE support
 dev-libs/libvhdi:fuse - Enable fuse support
 dev-libs/libvmdk:fuse - Enable fuse support
-dev-libs/nanopb:pb-malloc - Enable dynamic allocation support in the decoder.
+dev-libs/nanopb:pb-malloc - Enable dynamic allocation support in the decoder
 dev-libs/openssl-bad:asm - Compile with asm
 dev-libs/openssl-bad:rfc3779 - Compile with rfc3779
 dev-libs/openssl-bad:sslv2 - Compile with sslv2
