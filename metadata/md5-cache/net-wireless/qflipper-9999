@@ -12,4 +12,4 @@ RDEPEND=>=dev-libs/nanopb-0.4.5[pb-malloc] qt5? ( dev-qt/qtconcurrent:5= dev-qt/
 REQUIRED_USE=^^ ( qt5 )
 SLOT=0
 _eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	qmake-utils	a8dd17b1d94586164f5e3fc12b1c6b81	git-r3	86fa1f157b70b9d2ff340c4633b1cf4b
-_md5_=763bfee1420019a994006ff8a8f7e61b
+_md5_=616a1f3b09fe06f42a89366c4d5223b2
