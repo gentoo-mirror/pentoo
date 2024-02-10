@@ -345,7 +345,7 @@ dev-python/future 0.18.3: Easy, clean, reliable Python 2/3 compatibility
 dev-python/gatt-python 0.2.6-r1: Bluetooth GATT SDK for Python
 dev-python/geoip2-python 3.0.0: Python bindings for GeoIP2
 dev-python/glom 22.1.0: A declarative object transformer for conglomerating nested data
-dev-python/google-ai-generativelanguage 0.5.0: Google Ai Generativelanguage API client library
+dev-python/google-ai-generativelanguage 0.5.0 0.5.2: Google Ai Generativelanguage API client library
 dev-python/google-cloud-core 2.3.0: Google Cloud API client core library
 dev-python/google-cloud-dialogflow 2.27.0: Client library for the Dialogflow API
 dev-python/google-cloud-translate 3.11.1 3.11.2: Google Cloud Translation API
