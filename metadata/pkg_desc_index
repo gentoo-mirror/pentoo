@@ -314,7 +314,7 @@ dev-python/dropbox-sdk 10.1.1 11.36.1: A Python SDK for integrating with the Dro
 dev-python/dsinternals 1.2.4: Directory Services Internals Library
 dev-python/dtfabric 20210731 20220124 20220219: YAML-based definition language to specify format and data types
 dev-python/easygui 0.98.1 0.98.3: A module for very simple, very easy GUI programming in Python
-dev-python/editorconfig-core-py 0.12.3-r1: Clone of EditorConfig core written in Python
+dev-python/editorconfig-core-py 0.12.4: Clone of EditorConfig core written in Python
 dev-python/entropy 0.1.5: entropy is a command line friend that helps you reduce entropy in your life
 dev-python/eventlet 0.33.0: Highly concurrent networking library
 dev-python/exifread 2.3.1 2.3.2: Read Exif metadata from tiff and jpeg files
