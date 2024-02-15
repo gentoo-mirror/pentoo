@@ -6,8 +6,8 @@ acct-user/davmail 0: User for Davmail
 acct-user/sonar 0: User for SonarQube
 acct-user/vuls 0: User for Vuls
 app-admin/genmenu 0.0_p20230623 9999: a tool for generating freedesktop-compliant menus
-app-admin/opensnitch 1.6.5_p1: Desktop application firewall
-app-admin/opensnitch-ebpf-module 1.6.5_p1: eBPF process monitor module for opensnitch
+app-admin/opensnitch 1.6.5.1: Desktop application firewall
+app-admin/opensnitch-ebpf-module 1.6.5.1: eBPF process monitor module for opensnitch
 app-admin/system-config-printer 1.5.18-r1: Graphical user interface for CUPS administration
 app-admin/vuls 0.19.0-r1: Vulnerability scanner for Linux, agentless, written in Golang
 app-antivirus/malheur 0.5.4-r1: Malware analysis tool
@@ -388,7 +388,6 @@ dev-python/leather 0.3.3: Python charting for 80% of humans
 dev-python/libsast 1.5.2: A generic SAST core built on top of semgrep and regex
 dev-python/limits 3.7.0: Rate limiting utilities
 dev-python/litecli 1.5.0 1.9.0: CLI for SQLite Databases with auto-completion and syntax highlighting
-dev-python/loguru 0.7.2: Python logging made (stupidly) simple
 dev-python/lsassy 3.1.6 3.1.9: Python library to parse remote lsass dumps
 dev-python/macholib 1.14 1.16.2: A package is a collection of utilities for dealing with IP addresses
 dev-python/magic-filter 1.0.9 1.0.12: Magic filter based on dynamic attribute getter

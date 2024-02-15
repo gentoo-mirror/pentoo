@@ -2,6 +2,9 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+app-admin/opensnitch:bpf - Enable bpf support
+app-admin/opensnitch:iptables - Enable iptables support
+app-admin/opensnitch:nftables - Enable nftables support
 app-antivirus/veil:tools - Install extra tools
 app-exploits/empire:powershell - Enable a PowerShell Windows agent
 app-exploits/packetstormexploits:1999 - Use 1999 archivers
