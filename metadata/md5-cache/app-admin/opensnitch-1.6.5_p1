@@ -1,0 +1,17 @@
+BDEPEND=python_targets_python3_10? ( dev-lang/python:3.10 ) python_targets_python3_11? ( dev-lang/python:3.11 ) >=dev-python/gpep517-15[python_targets_python3_10(-)?,python_targets_python3_11(-)?] >=dev-python/setuptools-67.8.0-r1[python_targets_python3_10(-)?,python_targets_python3_11(-)?] >=dev-lang/go-1.20:= app-arch/unzip virtual/pkgconfig
+DEFINED_PHASES=compile configure install postinst prepare setup test unpack
+DEPEND=>=dev-lang/go-1.19 net-libs/libnetfilter_queue dev-go/go-protobuf dev-go/protoc-gen-go-grpc
+DESCRIPTION=Desktop application firewall
+EAPI=8
+HOMEPAGE=https://github.com/evilsocket/opensnitch
+INHERIT=distutils-r1 go-module linux-info systemd xdg-utils
+IUSE=+audit bpf +iptables +nftables systemd python_targets_python3_10 python_targets_python3_11
+KEYWORDS=~amd64
+LICENSE=GPL-3
+RDEPEND=dev-python/grpcio-tools[python_targets_python3_10(-)?,python_targets_python3_11(-)?] dev-python/notify2[python_targets_python3_10(-)?,python_targets_python3_11(-)?] dev-python/python-slugify[python_targets_python3_10(-)?,python_targets_python3_11(-)?] dev-python/pyinotify[python_targets_python3_10(-)?,python_targets_python3_11(-)?] dev-python/PyQt5[network,sql,python_targets_python3_10(-)?,python_targets_python3_11(-)?] bpf? ( ~app-admin/opensnitch-ebpf-module-1.6.5_p1 ) python_targets_python3_10? ( dev-lang/python:3.10 ) python_targets_python3_11? ( dev-lang/python:3.11 )
+REQUIRED_USE=|| ( iptables nftables ) || ( python_targets_python3_10 python_targets_python3_11 )
+RESTRICT=test strip
+SLOT=0
+SRC_URI=https://github.com/evilsocket/opensnitch/archive/refs/tags/v1.6.5.1.tar.gz -> opensnitch-1.6.5_p1.tar.gz https://github.com/kcning/opensnitch/archive/refs/tags/1.6.5.1.tar.gz -> opensnitch-1.6.5_p1-deps.tar.gz
+_eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	24c947ff5f858625cf0b33c15eed4425	out-of-source-utils	1a9007554652a6e627edbccb3c25a439	multibuild	d67e78a235f541871c7dfe4cf7931489	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	python-utils-r1	042f4cc53680245bf99a84669b94155a	python-r1	8a28fa6d3e3bc96ff8a7eff2badbe71f	distutils-r1	b9318b5e40104e608d7e4582121fb561	go-env	96e1747610bbb2f5c5d3fb16f0f3a83a	go-module	09ccb1fdea4f1f3f718e27b756636097	linux-info	c4f1201b96a8a2c1f3b86cc8b2c71c91	systemd	c8b03e8df84486aa991d4396686e8942	xdg-utils	baea6080dd821f5562d715887954c9d3
+_md5_=a164067c8284003f08912c61987ed6d9
