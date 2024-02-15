@@ -1,7 +1,7 @@
-# Copyright 1999-2022 Gentoo Authors
+# Copyright 1999-2024 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI=7
+EAPI=8
 
 USE_RUBY="ruby31 ruby32"
 RUBY_FAKEGEM_RECIPE_DOC="rdoc"
@@ -19,12 +19,10 @@ LICENSE="MIT"
 #wait for ~dev-ruby/sassc-rails
 KEYWORDS="~amd64"
 SLOT="5"
-IUSE=""
 
 ruby_add_rdepend "
-	>=dev-ruby/popper_js-2.11.6:2
-	>=dev-ruby/sassc-rails-2.0.0
 	>=dev-ruby/autoprefixer-rails-9.1.0
+	>=dev-ruby/popper_js-2.11.8:2
 "
 
 all_ruby_prepare() {
