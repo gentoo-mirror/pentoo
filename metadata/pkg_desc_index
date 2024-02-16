@@ -301,7 +301,7 @@ dev-python/django-oauth-toolkit 1.1.3 1.2.0 1.5.0: OAuth2 goodies for the Django
 dev-python/django-post_office-haiwen 20180914: A Django app to monitor and send mail asynchronously
 dev-python/django-pylibmc 0.6.1: Django cache backend using pylibmc
 dev-python/django-ranged-response 0.2.0: Django FileResponse that adds Content-Range headers
-dev-python/django-simple-captcha 0.5.17: A very simple, yet powerful, Django captcha application
+dev-python/django-simple-captcha 0.5.20 0.6.0: A very simple, yet powerful, Django captcha application
 dev-python/django-statici18n 1.8.3: Django helper for generating Javascript catalog to static files
 dev-python/django-webpack-loader 0.6.0: Transparently use webpack with django
 dev-python/djangosaml2 1.6.0 1.9.0: Django SAML2 Service Provider based on pySAML2
