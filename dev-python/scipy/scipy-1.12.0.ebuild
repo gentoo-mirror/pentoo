@@ -9,7 +9,7 @@ DISTUTILS_USE_PEP517=meson-python
 PYTHON_COMPAT=( pypy3 python3_{10..12} )
 PYTHON_REQ_USE="threads(+)"
 
-inherit flag-o-matic fortran-2 distutils-r1 multiprocessing
+inherit flag-o-matic fortran-2 distutils-r1
 
 DESCRIPTION="Scientific algorithms library for Python"
 HOMEPAGE="
@@ -38,7 +38,7 @@ else
 		)"
 
 	if [[ ${PV} != *rc* ]] ; then
-		KEYWORDS="amd64 arm arm64 ~loong ~ppc ppc64 ~riscv ~s390 ~sparc x86"
+		KEYWORDS="amd64 arm arm64 ~loong ~ppc ~ppc64 ~riscv ~s390 ~sparc x86"
 	fi
 fi
 
@@ -71,13 +71,14 @@ BDEPEND="
 	doc? ( app-arch/unzip )
 	fortran? ( dev-python/pythran[${PYTHON_USEDEP}] )
 	test? (
-		dev-python/pytest-xdist[${PYTHON_USEDEP}]
+		dev-python/hypothesis[${PYTHON_USEDEP}]
 	)
 	test-rust? (
 		dev-python/pooch[${PYTHON_USEDEP}]
 	)
 "
 
+EPYTEST_XDIST=1
 distutils_enable_tests pytest
 
 src_unpack() {
@@ -142,7 +143,7 @@ python_test() {
 			;;
 	esac
 
-	epytest -n "$(makeopts_jobs)" --dist=worksteal scipy
+	epytest scipy
 }
 
 python_install_all() {
