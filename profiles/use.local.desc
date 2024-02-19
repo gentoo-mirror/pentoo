@@ -219,17 +219,40 @@ net-wireless/hostapd:netlink - Adding support for using netlink to create VLANs
 net-wireless/hostapd:sqlite - Adding sqlite support
 net-wireless/hostapd:wps - Add support for Wi-Fi Protected Setup
 net-wireless/portapack-mayhem:sdcard-files - Install files meant for the sdcard of the portapack
+net-wireless/proxmark3:bluez - Use bluez to support connection to blueshark accessory
 net-wireless/proxmark3:deprecated - build and install the mfkey and nonce2key tools
 net-wireless/proxmark3:firmware - build firmware to update the proxmark3 hardware
 net-wireless/proxmark3:pm3rdv4 - build proxmark3 rdv4 specific firmware instead of generic
+net-wireless/proxmark3:qt - build support for qt graphical scope interface
+net-wireless/proxmark3:standalone-dankarmulti - Load multiple standalone modes
+net-wireless/proxmark3:standalone-hf-14asniff - HF 14a sniff to flashmem
+net-wireless/proxmark3:standalone-hf-15sniff - HF 15693 sniff to flashmem
+net-wireless/proxmark3:standalone-hf-aveful - MIFARE Ultralight read/simulation
 net-wireless/proxmark3:standalone-hf-bog - standalone 14a sniff with ULC/ULEV1/NTAG auth
 net-wireless/proxmark3:standalone-hf-cardhopper - standalone 14a based protocol
 net-wireless/proxmark3:standalone-hf-colin - standalone Mifare ultra fast sniff/sim/clone
+net-wireless/proxmark3:standalone-hf-craftbyte - UID stealer - Emulates scanned 14a UID
+net-wireless/proxmark3:standalone-hf-iceclass - iCLASS 4-1 mode sim/read and dump/loclass/glitch and config to flashmem
+net-wireless/proxmark3:standalone-hf-legic - Read/simulate Legic Prime tags (RDV4: + save to flashmem)
+net-wireless/proxmark3:standalone-hf-legicsim - Simulate Legic Prime tags
 net-wireless/proxmark3:standalone-hf-mattyrun - standalone Mifare sniff/clone
+net-wireless/proxmark3:standalone-hf-mfcsim - MIFARE Classic simulate
+net-wireless/proxmark3:standalone-hf-msdsal - (default) Read and emulate MSD Visa cards
+net-wireless/proxmark3:standalone-hf-reblay - 14A relay over BT
+net-wireless/proxmark3:standalone-hf-tcprst - IKEA Rothult ST25TA, Standalone Master Key Dump/Emulation
+net-wireless/proxmark3:standalone-hf-tmudford - Read and emulate ISO15693 card UID
+net-wireless/proxmark3:standalone-hf-unisniff - Multimode HF sniffer with optional flashmem and runtime select
 net-wireless/proxmark3:standalone-hf-young - standalone Mifare sniff/simulation
+net-wireless/proxmark3:standalone-lf-em4100emul - Simulate predefined EM4100 tags
+net-wireless/proxmark3:standalone-lf-em4100rswb - Read/simulate/brute/clone EM4100 tags
+net-wireless/proxmark3:standalone-lf-em4100rwc - Read/simulate/clone EM4100 tags
 net-wireless/proxmark3:standalone-lf-hidbrute - standalone HID corporate 1000 bruteforce
+net-wireless/proxmark3:standalone-lf-hidfcbrute - HID Facility Code bruteforce
+net-wireless/proxmark3:standalone-lf-icehid - LF HID / IOprox / AWID / EM4100 collector to flashmem
+net-wireless/proxmark3:standalone-lf-nexid - Nexwatch credentials detection mode
 net-wireless/proxmark3:standalone-lf-proxbrute - standalone HID ProxII bruteforce
 net-wireless/proxmark3:standalone-lf-samyrun - standalone HID26 read/clone/sim
+net-wireless/proxmark3:standalone-lf-tharexde - LF EM4x50 simulator/read standalone mode
 net-wireless/soapy_power:faster - Use dev-python/scipy to speed up drawing
 net-wireless/soapy_power:fastest - Use dev-python/pyFFTW to speed up drawing to the max
 net-wireless/srsran:bladerf - support Nuand BladeRF hardware
