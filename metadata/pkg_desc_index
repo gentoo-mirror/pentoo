@@ -123,7 +123,7 @@ app-fuzz/protos-bin 1.1-r1: The PROTOS fuzzing collection
 app-fuzz/slowhttptest 1.9.0: Application Layer DoS attack simulator
 app-fuzz/smtp-fuzz 0.1: A smtp fuzzer
 app-fuzz/snmp-fuzzer 0.1.1-r1: A very complete snmp fuzzer
-app-misc/far2l 2.5.2 2.5.3: Linux port of FAR v2
+app-misc/far2l 2.5.3 2.6.0: Linux port of FAR v2
 app-misc/fit2gpx 0.0.7: convert .FIT files to .GPX files, including tools for .FIT files downloaded from Strava
 app-misc/freediag 1.08: Free diagnostic software for OBD-II compliant motor vehicles
 app-misc/gplaycli 3.29: Google Play Downloader via Command line
