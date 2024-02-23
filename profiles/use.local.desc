@@ -131,6 +131,11 @@ dev-libs/openssl-bad:rfc3779 - Compile with rfc3779
 dev-libs/openssl-bad:sslv2 - Compile with sslv2
 dev-libs/openssl-bad:sslv3 - Compile with sslv3
 dev-libs/openssl-bad:tls-heartbeat - Compile with tls-heartbeat
+dev-python/aiogram:docs - install docs
+dev-python/aiogram:fast - install fast API
+dev-python/aiogram:i18n - i18n support
+dev-python/aiogram:proxy - proxy support
+dev-python/aiogram:redis - install local server
 dev-python/django-constance-haiwen:database - Add django-picklefield support
 dev-python/django-constance-haiwen:redis - Add django-redis support
 dev-python/fastapi:all - Enable optional dependencies
