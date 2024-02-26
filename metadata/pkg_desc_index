@@ -227,7 +227,7 @@ dev-python/IP2Location 8.8.1 8.10.0: Python API for IP2Location database
 dev-python/Js2Py 0.67_p20200212: JavaScript to Python Translator & JavaScript interpreter
 dev-python/PTP 0.4.2-r1: Pentester's Tools Parser
 dev-python/Protego 0.2.1: robots.txt parser with support for modern conventions
-dev-python/Scrapy 2.6.1 2.6.3: A high-level Web Crawling and Web Scraping framework
+dev-python/Scrapy 2.6.3 2.11.1: A high-level Web Crawling and Web Scraping framework
 dev-python/Telethon 1.26.1 1.33.1: Full-featured Telegram client library
 dev-python/aardwolf 0.2.8: Asynchronous RDP protocol implementation
 dev-python/acora 2.2: Fast multi-keyword search engine for text strings
@@ -752,7 +752,7 @@ net-analyzer/s3scanner 3.0.1: Scan for open AWS S3 buckets and dump the contents
 net-analyzer/scamper 20191102b: Actively probes the Internet in order to analyze topology and performance
 net-analyzer/serialusb 0.7: A cheap USB proxy for input devices
 net-analyzer/set 8.0.3-r1: A social engineering framework
-net-analyzer/sitadel 1.0.0_p20190828: Web application security scanner
+net-analyzer/sitadel 1.0.0_p20190828 1.0.1_p20231129: Web application security scanner
 net-analyzer/smbmap 1.10.2: SMBMap is a handy SMB enumeration tool
 net-analyzer/sn0int 0.18.2 0.19.1 0.24.2: Semi-automatic OSINT framework and package manager
 net-analyzer/sniffglue 0.12.1: Secure multithreaded packet sniffer
