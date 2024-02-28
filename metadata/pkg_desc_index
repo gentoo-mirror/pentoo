@@ -797,8 +797,8 @@ net-misc/httprobe 0.2: Take a list of domains and probe for working HTTP and HTT
 net-misc/linkfinder 20191124: A python script that finds endpoints in JavaScript files
 net-misc/munin 0.20.0: Online hash checker for Virustotal and other services
 net-misc/pwnedornot 1.2.8_p20200602: OSINT Tool for Finding Passwords of Compromised Email Addresses Topics
-net-misc/seafile 9.0.4: File syncing and sharing software with file encryption and group sharing
-net-misc/seafile-client 9.0.4: Seafile desktop client
+net-misc/seafile 9.0.4 9.0.5: File syncing and sharing software with file encryption and group sharing
+net-misc/seafile-client 9.0.4 9.0.5: Seafile desktop client
 net-misc/sherlock 0.12.9-r1 9999: Find usernames across social networks
 net-misc/sipp 3.6.1_p20210826 3.7.1: A free Open Source test tool / traffic generator for the SIP protocol
 net-misc/sippts 2.0.4: set of tools to audit VoIP servers and devices using SIP protocol
