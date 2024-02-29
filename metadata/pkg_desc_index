@@ -510,7 +510,6 @@ dev-python/scipy 1.12.0: Scientific algorithms library for Python
 dev-python/secure 0.3.0: Secure headers and cookies for Python web frameworks
 dev-python/selenium-requests 1.3.1: Extends Selenium webdrv with the request function from the Requests library
 dev-python/semgrep 0.55.1 0.77.0 0.103.0 0.115.0: Lightweight static analysis for many languages
-dev-python/semver 2.13.0-r1: A Python module for semantic versioning
 dev-python/shelljob 0.6.3: Run multiple subprocesses asynchronous/in parallel with streamed output
 dev-python/shodan 1.25.0 1.28.0: Python library and command-line utility for Shodan
 dev-python/simplekv 0.14.0: A key-value storage for binary data, support many backends.
@@ -674,7 +673,7 @@ dev-util/kaleido-bin 0.2.1: Static image export for web-based visualization libr
 dev-util/lief 0.14.0-r1 0.14.1: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
 dev-util/mobsf 3.6.0 3.6.9 3.7.6: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
-dev-util/objection 1.10.2 1.11.0-r1: Runtime mobile exploration
+dev-util/objection 1.10.2 1.11.0-r2: Runtime mobile exploration
 dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIPS
 dev-util/qark 0.9_pre20190405: A tool to look for Android application vulnerabilities
 dev-util/recaf-bin 2.19.6 2.21.13: A modern Java bytecode editor
