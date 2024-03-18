@@ -434,6 +434,7 @@ dev-python/pdfkit 0.6.1 1.0.0: Wkhtmltopdf python wrapper
 dev-python/peewee-async 0.9.1 0.10.0: Asynchronous interface for peewee ORM powered by asyncio.
 dev-python/pillow 10.1.0-r1 10.2.0-r1: Python Imaging Library (fork)
 dev-python/playsound 1.2.2: Single function module with no dependencies for playing sounds
+dev-python/playwright-bin 1.42.0: Automate Chromium, Firefox and WebKit browsers with a single API
 dev-python/promise 2.3.0: Promises/A+ implementation for Python
 dev-python/protobuf-python 4.21.12: Google's Protocol Buffers - Python bindings
 dev-python/proxy-db 0.2.5-r1: Manage free and private proxies on local db for Python Projects
@@ -768,7 +769,7 @@ net-analyzer/takeover 20200312: Sub-Domain TakeOver Vulnerability Scanner
 net-analyzer/testssl 3.0.8 3.2_rc3: Tool to check TLS/SSL cipher support
 net-analyzer/thc-pptp-bruter 0.1.4: A brute force program that works against pptp vpn endpoints
 net-analyzer/thc-ssl-dos 1.4: THC-SSL-DOS is a tool to verify the performance of SSL servers
-net-analyzer/theHarvester 4.5.0 4.5.1: The Harvester is a tool designed to collect email accounts of the target domain
+net-analyzer/theHarvester 4.5.1 4.6.0: The Harvester is a tool designed to collect email accounts of the target domain
 net-analyzer/tplmap 20211014: Server-Side Template Injection and code injection tool
 net-analyzer/twa 1.9.3 1.10.0 9999: A tiny web auditor with strong opinions
 net-analyzer/videojak 1.00 2.0: VideoJak is an IP Video security assessment tool
