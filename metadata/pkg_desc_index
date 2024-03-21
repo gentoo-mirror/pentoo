@@ -45,7 +45,7 @@ app-exploits/packetstormexploits 2012.12 2013.12 2014.12 2015.12 2016.12 2017.12
 app-exploits/packetstormexploits-meta 2022 2023: Meta ebuild of packetstorm exploits
 app-exploits/powercat 20170805: Netcat: The powershell version
 app-exploits/pypykatz 0.6.8 0.6.9: Python implementation of Mimikatz
-app-exploits/routersploit 3.4.0-r1 9999: An open-source exploitation framework dedicated to embedded devices
+app-exploits/routersploit 3.4.0-r2 9999: An open-source exploitation framework dedicated to embedded devices
 app-exploits/traitor 0.0.3 0.0.14: Automatically exploit low-hanging fruit to pop a root shell
 app-exploits/unix-privesc-check 20210207 99999999: Shell script to check for simple privilege escalation vectors
 app-exploits/webshells 20230128 99999999: Various webshells
@@ -367,7 +367,7 @@ dev-python/htmlentities 0.3.0: Easy-to-use data handling for SQL data stores
 dev-python/http-tools 2.1.0 3.0.0: Capture, repeat and live intercept HTTP requests
 dev-python/httpagentparser 1.9.1: Extracts OS Browser etc information from http user agent string
 dev-python/hupper 1.9.1: Integrated process monitor for developing and reloading daemons
-dev-python/impacket 0.9.22_p20210529 0.10.0-r1 0.11.0 9999: A collection of Python classes focused on providing access to network packets
+dev-python/impacket 0.11.0 9999: A collection of Python classes focused on providing access to network packets
 dev-python/inotify 0.2.10-r2: an efficient and elegant inotify
 dev-python/inquirer3 0.4.0: Collection of common interactive command line user interfaces
 dev-python/invoke 2.2.0: Pythonic task execution
@@ -386,7 +386,7 @@ dev-python/kaleido 0.2.1: Static image export for web-based visualization librar
 dev-python/la_panic 0.4.9: iPhone kernel panic parser
 dev-python/langdetect 1.0.8: Port of Nakatani Shuyo's language-detection library
 dev-python/ldap3 2.9.1: A strictly RFC 4511 conforming LDAP V3 pure Python client
-dev-python/ldapdomaindump 0.9.3 0.9.4: Active Directory information dumper via LDAP
+dev-python/ldapdomaindump 0.9.4_p20240213: Active Directory information dumper via LDAP
 dev-python/leather 0.3.3: Python charting for 80% of humans
 dev-python/libsast 1.5.2: A generic SAST core built on top of semgrep and regex
 dev-python/limits 3.7.0: Rate limiting utilities
@@ -917,7 +917,7 @@ pentoo/pentoo-core 2024.0-r2: Pentoo minimum core requirements
 pentoo/pentoo-cracking 2022.2: Pentoo cracking meta ebuild
 pentoo/pentoo-database 2022.2: Pentoo database attack meta ebuild
 pentoo/pentoo-desktop 2023.3: Pentoo meta ebuild to install all X and WM/DE related things
-pentoo/pentoo-exploit 2023.1: Pentoo exploit meta ebuild
+pentoo/pentoo-exploit 2024.0: Pentoo exploit meta ebuild
 pentoo/pentoo-footprint 2023.3: Pentoo footprint meta ebuild
 pentoo/pentoo-forensics 2022.2: Pentoo forensics meta ebuild
 pentoo/pentoo-forging 2022.2: Pentoo forging meta ebuild
