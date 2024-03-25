@@ -1,9 +1,12 @@
+BDEPEND=app-arch/unzip
 DEFINED_PHASES=install
 DESCRIPTION=Lightweight static analysis for many languages
-EAPI=7
+EAPI=8
 HOMEPAGE=https://github.com/returntocorp/semgrep
+INHERIT=pypi
 KEYWORDS=amd64
 LICENSE=LGPL-2
 SLOT=0
 SRC_URI=https://files.pythonhosted.org/packages/cp37.cp38.cp39.py37.py38.py39/s/semgrep/semgrep-0.115.0-cp37.cp38.cp39.py37.py38.py39-none-any.whl -> semgrep-core-bin-0.115.0.zip
-_md5_=b9ffe8c838acbad3cea27366f5a553af
+_eclasses_=pypi	2eecb475512bc76e5ea9192a681b9e6b
+_md5_=54dad09a7fa3ff6fc6e90b97db98759c
