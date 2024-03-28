@@ -961,7 +961,7 @@ sys-kernel/fragattacks-drivers58 20210507: Wi-Fi fragmentation and aggregation v
 sys-kernel/ft60x_driver 20180209 20190318: USB FT60x driver
 sys-kernel/nvidia-bl 0.17.3: Driver to adjust display backlight on legacy mobile NVidia graphics adapters
 sys-kernel/pentoo-lts-sources 2: Pentoo kernel sources (kernel series .)
-sys-kernel/pentoo-sources 6.6.19: Pentoo kernel sources (kernel series 6.6)
+sys-kernel/pentoo-sources 6.6.23: Pentoo kernel sources (kernel series 6.6)
 sys-kernel/pf_ring-kmod 7.8.0_p20210421: High-speed packet processing framework (kernel modules for)
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
 sys-libs/talloc 2.4.1: Samba talloc library
