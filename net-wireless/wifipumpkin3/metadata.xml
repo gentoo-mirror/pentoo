@@ -6,6 +6,9 @@
 		<name>Zero_Chaos</name>
 	</maintainer>
 	<use>
-		<flag name="crda">Support crda (deprecated, will be removed soon)</flag>
+		<flag name="tools">Install extra tools for additional functionality</flag>
 	</use>
+	<upstream>
+		<remote-id type="github">P0cL4bs/wifipumpkin3</remote-id>
+	</upstream>
 </pkgmetadata>

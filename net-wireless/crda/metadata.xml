@@ -6,6 +6,6 @@
 		<name>Zero_Chaos</name>
 	</maintainer>
 	<use>
-		<flag name="crda">Support crda (deprecated, will be removed soon)</flag>
+		<flag name="gcrypt">Build using gcrypt instead of openssl</flag>
 	</use>
 </pkgmetadata>

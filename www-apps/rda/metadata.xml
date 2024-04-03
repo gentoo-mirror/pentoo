@@ -2,10 +2,10 @@
 <!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
 	<maintainer type="person">
-		<email>sidhayn@gmail.com</email>
-		<name>Zero_Chaos</name>
+		<email>noone@pentoo.org</email>
+		<name>No one</name>
 	</maintainer>
 	<use>
-		<flag name="crda">Support crda (deprecated, will be removed soon)</flag>
+		<flag name="mariadb">Include mariadb support</flag>
 	</use>
 </pkgmetadata>
