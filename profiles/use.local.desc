@@ -219,6 +219,7 @@ net-vpn/udp2raw-tunnel:iptables - include support for iptables filtering
 net-wireless/airgeddon:opencl - enable opencl based cracking using app-crypt/hashcat
 net-wireless/blue_hydra:development - add in deps used during development
 net-wireless/blue_hydra:ubertooth - include deps required to support ubertooth hardware
+net-wireless/crda:gcrypt - Build using gcrypt instead of openssl
 net-wireless/fern-wifi-cracker:dict - Add support sys-apps/cracklib-words (large set of crack/cracklib dictionaries)
 net-wireless/hcxdumptool:gpio - Turns Raspberry Pi off via GPIO switch
 net-wireless/hostapd:crda - Add CRDA support
@@ -262,6 +263,16 @@ net-wireless/proxmark3:standalone-lf-nexid - Nexwatch credentials detection mode
 net-wireless/proxmark3:standalone-lf-proxbrute - standalone HID ProxII bruteforce
 net-wireless/proxmark3:standalone-lf-samyrun - standalone HID26 read/clone/sim
 net-wireless/proxmark3:standalone-lf-tharexde - LF EM4x50 simulator/read standalone mode
+net-wireless/sdrangel:airspy - Support the airspy
+net-wireless/sdrangel:bladerf - Support the Nuand bladerf
+net-wireless/sdrangel:fcd - Support the FunCube Dongle
+net-wireless/sdrangel:hackrf - Support the GSG hackrf
+net-wireless/sdrangel:limesuite - Support the Lime sdr using limesuite
+net-wireless/sdrangel:plutosdr - Support the plutosdr
+net-wireless/sdrangel:rtlsdr - Support the rtlsdr
+net-wireless/sdrangel:server - Support the sdrangel server
+net-wireless/sdrangel:soapy - Support the soapysdr interface
+net-wireless/sdrangel:uhd - Support NI Ettus uhd/usrp devices
 net-wireless/soapy_power:faster - Use dev-python/scipy to speed up drawing
 net-wireless/soapy_power:fastest - Use dev-python/pyFFTW to speed up drawing to the max
 net-wireless/srsran:bladerf - support Nuand BladeRF hardware
@@ -269,6 +280,8 @@ net-wireless/srsran:simcard - support hardware sim cards
 net-wireless/srsran:soapysdr - use soapysdr to support various hardware
 net-wireless/srsran:uhd - support Ettus Research hardware
 net-wireless/srsran:zeromq - enable zeromq message passing
+net-wireless/wifipumpkin3:tools - Install extra tools for additional functionality
+net-wireless/wireless-regdb:crda - Support crda (deprecated, will be removed soon)
 pentoo/pentoo:analyzer - Pull in pentoo metapackage pentoo-analyzer
 pentoo/pentoo:cracking - Pull in pentoo metapackage pentoo-cracking
 pentoo/pentoo:database - Pull in pentoo metapackage pentoo-database
@@ -299,6 +312,11 @@ pentoo/pentoo-radio:limesdr - Support the Lime sdr
 pentoo/pentoo-radio:plutosdr - Support the plutosdr
 pentoo/pentoo-radio:rtlsdr - Support the rtlsdr
 pentoo/pentoo-radio:uhd - Support NI Ettus uhd/usrp devices
+pentoo/pentoo-system:2fa - Include support for yubikey
+pentoo/pentoo-system:qemu - install virt-manager and usermode-utilities
+pentoo/pentoo-system:windows-compat - Install wine
+pentoo/pentoo-wireless:drivers - Support for out of kernel drivers which are semi-usable
+pentoo/pentoo-wireless:wpe - Support for Wireless Pwnage Edition attacks for freeradius and/or hostapd
 pentoo/rfctf-client:rfctf-minimal - Do not require packages which are only used for debugging
 pentoo/rfctf-client:rfctf-sdr - Packages needed to run the SDR for the rfctf
 pentoo/rfctf-client:rfctf-virtual - Packages needed for playing the virtual rfctf
@@ -323,6 +341,7 @@ www-apps/beef:dns - add support for dns attacks
 www-apps/beef:msf - add integration for net-analyzer/metasploit
 www-apps/beef:notifications - enable notification plugin
 www-apps/beef:qrcode - enable qrcode generation support
+www-apps/rda:mariadb - Include mariadb support
 www-apps/seafile-pro-server:fuse - Enable seaf-fuse support
 www-apps/seafile-pro-server:psd - Enable Adobe Photoshop PSD files indexing
 www-apps/seafile-pro-server:saml - Add SAML 2.0 authentication support

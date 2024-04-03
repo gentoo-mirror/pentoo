@@ -760,7 +760,7 @@ net-analyzer/wfuzz 3.1.0-r1: Wfuzz is a tool designed for bruteforcing Web Appli
 net-analyzer/whatweb 0.5.5: Next generation web scanner, identifies what software websites are running
 net-analyzer/wpscan 3.8.24 3.8.25: Wordpress security scanner
 net-analyzer/xsstrike 3.1.5 9999: Advanced XSS detection suite
-net-dialup/freeradius 3.0.21-r5 3.2.0 3.2.3: Highly configurable free RADIUS server
+net-dialup/freeradius 3.2.3: Highly configurable free RADIUS server
 net-dialup/minimodem 0.24: General-purpose software audio FSK modem.
 net-fs/cifs-utils 7.0-r1: Tools for Managing Linux CIFS Client Filesystems
 net-im/jitsi 2.11.5633: Secure IM communicator that supports SIP, XMPP, AIM/ICQ, Windows Live, Yahoo
@@ -877,9 +877,9 @@ net-wireless/soapy-sdrplay3 9999 20230421: Soapy SDR module for SRDPlay API v3
 net-wireless/soapy_power 1.6.1-r1 9999: Obtain power spectrum from SoapySDR devices
 net-wireless/srsran 23.11 9999: Open source SDR 4G software suite from Software Radio Systems
 net-wireless/trunk-recorder 4.7.1 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
-net-wireless/wifipumpkin3 1.1.5 1.1.7: Framework for Rogue Wi-Fi Access Point Attack
+net-wireless/wifipumpkin3 1.1.7: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifite 2.6.9 2.7.0: An automated wireless attack tool
-net-wireless/wireless-regdb 20220606-r1 20230503-r2: Wireless Regulatory database for Linux
+net-wireless/wireless-regdb 20230503-r2: Wireless Regulatory database for Linux
 net-wireless/wpa_sycophant 1.0 9999: Evil client portion of EAP relay attack
 pentoo/pentoo 2023.2: Pentoo meta ebuild to install all apps
 pentoo/pentoo-analyzer 2024.0: Pentoo analyzers meta ebuild
