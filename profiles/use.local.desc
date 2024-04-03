@@ -222,11 +222,11 @@ net-wireless/blue_hydra:ubertooth - include deps required to support ubertooth h
 net-wireless/crda:gcrypt - Build using gcrypt instead of openssl
 net-wireless/fern-wifi-cracker:dict - Add support sys-apps/cracklib-words (large set of crack/cracklib dictionaries)
 net-wireless/hcxdumptool:gpio - Turns Raspberry Pi off via GPIO switch
-net-wireless/hostapd:crda - Add CRDA support
 net-wireless/hostapd:internal-tls - Use internal TLSv1 implementation instead of depending on OpenSSL, LibreSSL or GnuTLS
-net-wireless/hostapd:logwatch - Install support files for sys-apps/logwatch
 net-wireless/hostapd:netlink - Adding support for using netlink to create VLANs
 net-wireless/hostapd:sqlite - Adding sqlite support
+net-wireless/hostapd:suiteb - Enable CNSA/Suiteb cipher support
+net-wireless/hostapd:wpe - Add support for Wireless Pwnage Edition patches
 net-wireless/hostapd:wps - Add support for Wi-Fi Protected Setup
 net-wireless/portapack-mayhem:sdcard-files - Install files meant for the sdcard of the portapack
 net-wireless/proxmark3:bluez - Use bluez to support connection to blueshark accessory
@@ -281,6 +281,8 @@ net-wireless/srsran:soapysdr - use soapysdr to support various hardware
 net-wireless/srsran:uhd - support Ettus Research hardware
 net-wireless/srsran:zeromq - enable zeromq message passing
 net-wireless/wifipumpkin3:tools - Install extra tools for additional functionality
+net-wireless/wifite:dict - Use cracklib words
+net-wireless/wifite:extra - Include additional tools for extra features
 net-wireless/wireless-regdb:crda - Support crda (deprecated, will be removed soon)
 pentoo/pentoo:analyzer - Pull in pentoo metapackage pentoo-analyzer
 pentoo/pentoo:cracking - Pull in pentoo metapackage pentoo-cracking
@@ -302,10 +304,15 @@ pentoo/pentoo:rce - Pull in pentoo metapackage pentoo-rce
 pentoo/pentoo:voip - Pull in pentoo metapackage pentoo-voip
 pentoo/pentoo:wireless - Pull in pentoo metapackage pentoo-wireless
 pentoo/pentoo-cinnamon:gdm - GNOME Display Manager
+pentoo/pentoo-cracking:dict - Install some larger dictionaries
 pentoo/pentoo-desktop:enlightenment - Support the enlightenment desktop environment
 pentoo/pentoo-desktop:firefox - Install firefox
 pentoo/pentoo-desktop:mate - Support the mate desktop environment
 pentoo/pentoo-desktop:xfce - Support the xfce desktop environment
+pentoo/pentoo-misc:office - Install libreoffice
+pentoo/pentoo-misc:upstream-bins - Prefer upstream bins for thunderbird
+pentoo/pentoo-mobile:android - Install packages for android reversing
+pentoo/pentoo-opencl:opencl-cpu - Support opencl on 64-bit cpus
 pentoo/pentoo-radio:bladerf - Support the Nuand bladerf
 pentoo/pentoo-radio:hackrf - Support the GSG hackrf
 pentoo/pentoo-radio:limesdr - Support the Lime sdr
@@ -330,6 +337,8 @@ sys-apps/pcsc-lite:embedded - limit RAM and CPU ressources by disabling features
 sys-apps/pcsc-lite:libusb - Use dev-libs/libusb detection to hotplug new smartcard readers. This flag should only be enabled if you're running a non-Linux kernel or you don't want to use udev.
 sys-apps/pcsc-lite:policykit - Uses sys-auth/polkit to restrict access to smartcard readers or smartcards to given users.
 sys-apps/pcsc-lite:udev - Use virtual/libudev rules to handle devices' permissions and hotplug support. Unless you know what you're doing do not disable this flag on Linux kernels. This is provided as an option for completeness.
+sys-devel/gcc-arm-none-eabi:python2 - Include python 2 support
+sys-devel/gcc-arm-none-eabi:python3 - Include python 3 support
 sys-kernel/pentoo-sources:experimental - Apply experimental patches; for more information, see "https://wiki.gentoo.org/wiki/Project:Kernel/Experimental".
 sys-kernel/pentoo-sources:lts - for selecting between long-time-support and standard kernel.
 sys-libs/talloc:compat - Enable extra compatibility stuff

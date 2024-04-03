@@ -833,7 +833,7 @@ net-wireless/hackrf-firmware 9999: Hardware designs and software for HackRF
 net-wireless/hcxdumptool 6.2.0 6.2.7: Small tool to capture packets from wlan devices
 net-wireless/hcxkeys 6.2.1-r2: Generate plainmasterkeys (rainbowtables) and hashes for hashcat/JTR
 net-wireless/hcxtools 6.2.7 6.2.9: Portable solution for capturing wlan traffic and conversion to hashcat formats
-net-wireless/hostapd 2.10-r2 2.10-r3: IEEE 802.11 wireless LAN Host AP daemon
+net-wireless/hostapd 2.10-r3: IEEE 802.11 wireless LAN Host AP daemon
 net-wireless/hostapd-mana 2.6.5_p20230803 9999: SensePost's modified hostapd for wifi attacks
 net-wireless/ice9-bluetooth-sniffer 23.06.0 9999: Wireshark Bluetooth sniffer for HackRF, BladeRF, and USRP
 net-wireless/jackit 0.0_p20170918-r1: Exploit Code for Mousejack
@@ -878,7 +878,7 @@ net-wireless/soapy_power 1.6.1-r1 9999: Obtain power spectrum from SoapySDR devi
 net-wireless/srsran 23.11 9999: Open source SDR 4G software suite from Software Radio Systems
 net-wireless/trunk-recorder 4.7.1 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
 net-wireless/wifipumpkin3 1.1.7: Framework for Rogue Wi-Fi Access Point Attack
-net-wireless/wifite 2.6.9 2.7.0: An automated wireless attack tool
+net-wireless/wifite 2.7.0: An automated wireless attack tool
 net-wireless/wireless-regdb 20230503-r2: Wireless Regulatory database for Linux
 net-wireless/wpa_sycophant 1.0 9999: Evil client portion of EAP relay attack
 pentoo/pentoo 2023.2: Pentoo meta ebuild to install all apps
@@ -926,7 +926,6 @@ sys-devel/gcc-arm-none-eabi 10.3_p202110 12.2_p1 13.2_p1: GNU Arm Embedded Toolc
 sys-devel/gdb-dashboard 0.11.4 9999: Modular visual interface for GDB in Python
 sys-fs/cramfsswap 1.4.2: swap endianness of a cram filesystem (cramfs)
 sys-fs/ext4-crypt 20170216 99999999: A userspace tool to create ext4 encrypted directories
-sys-kernel/chromeos-sources 9999: Linux kernel source for the Samsung Chromebook
 sys-kernel/fragattacks-drivers58 20210507: Wi-Fi fragmentation and aggregation vulnerability tests
 sys-kernel/ft60x_driver 20180209 20190318: USB FT60x driver
 sys-kernel/nvidia-bl 0.17.3: Driver to adjust display backlight on legacy mobile NVidia graphics adapters
