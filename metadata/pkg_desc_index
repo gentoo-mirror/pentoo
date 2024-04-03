@@ -802,7 +802,6 @@ net-misc/munin 0.20.0: Online hash checker for Virustotal and other services
 net-misc/pwnedornot 1.2.8_p20200602: OSINT Tool for Finding Passwords of Compromised Email Addresses Topics
 net-misc/seafile 9.0.4 9.0.5: File syncing and sharing software with file encryption and group sharing
 net-misc/seafile-client 9.0.4 9.0.5: Seafile desktop client
-net-misc/sherlock 0.12.9-r1 9999: Find usernames across social networks
 net-misc/sipp 3.6.1_p20210826 3.7.1: A free Open Source test tool / traffic generator for the SIP protocol
 net-misc/sippts 2.0.4: set of tools to audit VoIP servers and devices using SIP protocol
 net-misc/t50 5.8.5 5.8.7: Mixed Packet Injector & Network Stress Testing Tool
@@ -846,10 +845,9 @@ net-wireless/editcp-bin 1.0.31: Codeplug editor for the MD-380/MD-390/MD40/MD-UV
 net-wireless/fern-wifi-cracker 3.4: Wireless tool for WEP/WPA cracking and WPS keys recovery
 net-wireless/fosphor_knob 0.11-r1 0.12: A visualization we use for the RF Village
 net-wireless/gps-sdr-sim 9999: GPS Spoofing tool for transmit capable SDR's like the HackRF, bladeRF and USRP
-net-wireless/gr-air-modes 20200507: This module implements a complete Mode S and ADS-B receiver for Gnuradio
 net-wireless/gr-dsd 9999: GNU Radio block for Digital Speech Decoder
 net-wireless/gr-gsm 20210505-r1: Set of tools for receiving information transmitted by GSM equipment/devices
-net-wireless/gr-ham 20200511: 
+net-wireless/gr-ham 20240130: collection of GNU Radio blocks useful for amateur radio
 net-wireless/gr-m2k 9999: A C++ library for interfacing with the ADALM2000
 net-wireless/gr-mixalot 0.0_p20230121 9999: a set of GNU Radio blocks/utilities to encode pager messages
 net-wireless/gr-sdrplay3 9999 20230421-r1: GNU Radio OOT module for SDRplay RSP devices - SRDPlay API v3
@@ -879,7 +877,7 @@ net-wireless/nrc7292 1.4 9999: NRC7292 Software Package for Host mode
 net-wireless/nrf52840-mdk-usb-dongle 2.0.0: Firmwares for Makerdiary nrf52840 and compatible usb dongles
 net-wireless/nrf802154_sniffer 0.7.2_p20220511 9999: nRF-based 802.15.4 sniffer
 net-wireless/nrf_sniffer_ble 4.1.1: nRF Sniffer for Bluetooth LE
-net-wireless/op25 20200418 20210818: software-defined analyzer for APCO P25 signals
+net-wireless/op25 20240327: software-defined analyzer for APCO P25 signals
 net-wireless/pixiewps 1.4.2: Bruteforce offline the WPS pin exploiting the low or non-existing entropy
 net-wireless/portapack-firmware 99999999: Portability Add-On for the HackRF Software-Defined Radio
 net-wireless/portapack-mayhem 1.7.4 9999: Custom firmware for the HackRF SDR + PortaPack H1 addon
@@ -897,7 +895,6 @@ net-wireless/sdrangel 7.14.2-r1: SDR Rx/Tx software
 net-wireless/sdrtrunk 0.5.0 0.5.2: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/sdrtrunk-bin 0.5.3 0.6.0: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/signalhound-spike 3.5.9: Spectrum analyzer software for Signal Hound test equipment
-net-wireless/ska 0.2: Fake Shared Key Authentication
 net-wireless/soapy-sdrplay3 9999 20230421: Soapy SDR module for SRDPlay API v3
 net-wireless/soapy_power 1.6.1-r1 9999: Obtain power spectrum from SoapySDR devices
 net-wireless/srsran 23.11 9999: Open source SDR 4G software suite from Software Radio Systems
@@ -951,7 +948,6 @@ sys-devel/gcc-arm-none-eabi 10.3_p202110 12.2_p1 13.2_p1: GNU Arm Embedded Toolc
 sys-devel/gdb-dashboard 0.11.4 9999: Modular visual interface for GDB in Python
 sys-fs/cramfsswap 1.4.2: swap endianness of a cram filesystem (cramfs)
 sys-fs/ext4-crypt 20170216 99999999: A userspace tool to create ext4 encrypted directories
-sys-fs/jefferson 0.3: JFFS2 filesystem extraction tool
 sys-kernel/chromeos-sources 9999: Linux kernel source for the Samsung Chromebook
 sys-kernel/fragattacks-drivers58 20210507: Wi-Fi fragmentation and aggregation vulnerability tests
 sys-kernel/ft60x_driver 20180209 20190318: USB FT60x driver
