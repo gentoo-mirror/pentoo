@@ -289,6 +289,21 @@ pentoo/pentoo:rce - Pull in pentoo metapackage pentoo-rce
 pentoo/pentoo:voip - Pull in pentoo metapackage pentoo-voip
 pentoo/pentoo:wireless - Pull in pentoo metapackage pentoo-wireless
 pentoo/pentoo-cinnamon:gdm - GNOME Display Manager
+pentoo/pentoo-desktop:enlightenment - Support the enlightenment desktop environment
+pentoo/pentoo-desktop:firefox - Install firefox
+pentoo/pentoo-desktop:mate - Support the mate desktop environment
+pentoo/pentoo-desktop:xfce - Support the xfce desktop environment
+pentoo/pentoo-radio:bladerf - Support the Nuand bladerf
+pentoo/pentoo-radio:hackrf - Support the GSG hackrf
+pentoo/pentoo-radio:limesdr - Support the Lime sdr
+pentoo/pentoo-radio:plutosdr - Support the plutosdr
+pentoo/pentoo-radio:rtlsdr - Support the rtlsdr
+pentoo/pentoo-radio:uhd - Support NI Ettus uhd/usrp devices
+pentoo/rfctf-client:rfctf-minimal - Do not require packages which are only used for debugging
+pentoo/rfctf-client:rfctf-sdr - Packages needed to run the SDR for the rfctf
+pentoo/rfctf-client:rfctf-virtual - Packages needed for playing the virtual rfctf
+pentoo/rfctf-client:rfctf-visuals - Packages needed to show gr-fosphor visuals during rfctf
+pentoo/rfctf-client:rfctf-wifi - Packages needed to run the WiFi for the RFCTF
 pentoo/zero-system:dev - Packages for doing gentoo dev work
 pentoo/zero-system:naga - Packages for my main laptop
 pentoo/zero-system:nu - Packages for the build machine
