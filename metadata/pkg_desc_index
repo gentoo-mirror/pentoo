@@ -934,7 +934,6 @@ pentoo/pentoo-system 2023.3: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2023.0: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2023.2: Pentoo wireless meta ebuild
 pentoo/rfctf-client 2024.0: Packages needed to power the client and SDR devices for RFCTF events
-pentoo/tribe 2012.0: Tribe meta ebuild
 pentoo/zero-system 2024.0-r8: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
 sci-electronics/litedram 20180514: Small footprint and configurable DRAM core
 sci-electronics/liteeth 20180301 20180719: Small footprint and configurable Ethernet core
@@ -945,7 +944,7 @@ sci-electronics/litex 2022.04 20180718: Information gathering tool designed for 
 sci-electronics/migen 0.7: A Python toolbox for building complex digital hardware
 sci-electronics/pcie_injector 20180527: Information gathering tool designed for extracting metadata of public documents
 sys-apps/fchroot 1.0.0: Funtoo's franken-chroot tool
-sys-apps/magic-pax 0.0.1: 
+sys-apps/magic-pax 0.0.1: Attempt at applying pax marks effectively
 sys-apps/pcsc-lite 2.0.1: PC/SC Architecture smartcard middleware library
 sys-devel/autofdo 0.18 0.19 9999: System to simplify real-world deployment of feedback-directed optimization
 sys-devel/gcc-arm-none-eabi 10.3_p202110 12.2_p1 13.2_p1: GNU Arm Embedded Toolchain

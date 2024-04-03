@@ -11,4 +11,4 @@ RDEPEND=dev-qt/qtwidgets:5 dev-qt/qtgui:5 dev-qt/qtcore:5 dev-qt/qtcharts:5 dev-
 SLOT=0
 SRC_URI=https://github.com/nanovna/NanoVNA-QT/archive/90b5ad247198acf4f5caf76b794a54ad347cd09a.zip -> nanovna-qt-20210227.zip
 _eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	qmake-utils	a8dd17b1d94586164f5e3fc12b1c6b81	gnuconfig	b6b3e92f8b8c996400074b5f61a59256	libtool	5f49a16f67f81bdf873e3d1f10b10001	autotools	3af8f60c4bdb23e738db506a630898ee
-_md5_=11681923c8a57868e997b1458d9a07d3
+_md5_=c225d370f748d79b7032bad951f1076a
