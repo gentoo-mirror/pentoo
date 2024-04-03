@@ -214,12 +214,25 @@ net-print/hplip:parport - Enable parallel port for devices which require it
 net-print/hplip:scanner - Enable scanner on multifunction devices which support it
 net-print/hplip:snmp - Add support for net-analyzer/net-snmp which enables this driver to work over networks (both for server and client)
 net-print/hplip:static-ppds - Use statically-generated PPDs instead of Dynamic PPDs. Although this is deprecated some printers may still need it to work properly. Use this flag if hp-setup fails to find/create a valid PPD file
+net-proxy/zaproxy:plugins - Install plugins
 net-vpn/kcptun:server - Enable server side daemon
 net-vpn/udp2raw-tunnel:iptables - include support for iptables filtering
 net-wireless/airgeddon:opencl - enable opencl based cracking using app-crypt/hashcat
+net-wireless/b43-tools:assembler - Build and install assembler
+net-wireless/b43-tools:disassembler - Build and install disassembler
+net-wireless/b43-tools:ssb-sprom - Build and install ssb-sprom
+net-wireless/bladerf_adsb:x115 - Support for Bladerf x115 FPGA
+net-wireless/bladerf_adsb:x40 - Support for Bladerf x40 FPGA
 net-wireless/blue_hydra:development - add in deps used during development
 net-wireless/blue_hydra:ubertooth - include deps required to support ubertooth hardware
+net-wireless/btle-sniffer:bladerf - Support Nuand bladerf sdr
+net-wireless/btle-sniffer:hackrf - Support GSG hackrf sdr
 net-wireless/crda:gcrypt - Build using gcrypt instead of openssl
+net-wireless/dsdcc:mbelib - Use mbelib to decode audio
+net-wireless/dump1090_sdrplus:airspy - Support the airspy
+net-wireless/dump1090_sdrplus:hackrf - Support the GSG hackrf
+net-wireless/dump1090_sdrplus:rtlsdr - Support the rtlsdr
+net-wireless/dump1090_sdrplus:sdrplay - Support the sdrplay
 net-wireless/fern-wifi-cracker:dict - Add support sys-apps/cracklib-words (large set of crack/cracklib dictionaries)
 net-wireless/hcxdumptool:gpio - Turns Raspberry Pi off via GPIO switch
 net-wireless/hostapd:internal-tls - Use internal TLSv1 implementation instead of depending on OpenSSL, LibreSSL or GnuTLS
@@ -228,6 +241,10 @@ net-wireless/hostapd:sqlite - Adding sqlite support
 net-wireless/hostapd:suiteb - Enable CNSA/Suiteb cipher support
 net-wireless/hostapd:wpe - Add support for Wireless Pwnage Edition patches
 net-wireless/hostapd:wps - Add support for Wi-Fi Protected Setup
+net-wireless/hostapd-mana:crackapd - Install crackap daemon
+net-wireless/hostapd-mana:internal-tls - Use internal tls implementation instead of openssl
+net-wireless/hostapd-mana:netlink - Use netlink to talk to wireless devices
+net-wireless/mmdvmhost:dmr-access-control - MMDVMhost only allows amateur ids by default, disable use flag to allow all
 net-wireless/portapack-mayhem:sdcard-files - Install files meant for the sdcard of the portapack
 net-wireless/proxmark3:bluez - Use bluez to support connection to blueshark accessory
 net-wireless/proxmark3:deprecated - build and install the mfkey and nonce2key tools

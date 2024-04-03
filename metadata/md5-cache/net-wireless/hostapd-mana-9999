@@ -1,14 +1,15 @@
 BDEPEND=virtual/pkgconfig >=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=compile configure install postinst prepare unpack
-DEPEND=internal-tls? ( dev-libs/libtommath ) !internal-tls? ( dev-libs/openssl:0=[-bindist(-)] ) kernel_linux? ( dev-libs/libnl:3 crda? ( net-wireless/crda ) ) netlink? ( net-libs/libnfnetlink ) sqlite? ( >=dev-db/sqlite-3 )
+DEPEND=internal-tls? ( dev-libs/libtommath ) !internal-tls? ( dev-libs/openssl:0=[-bindist(-)] ) kernel_linux? ( dev-libs/libnl:3 ) netlink? ( net-libs/libnfnetlink ) sqlite? ( >=dev-db/sqlite-3 )
 DESCRIPTION=SensePost's modified hostapd for wifi attacks
-EAPI=7
+EAPI=8
 HOMEPAGE=https://w1f1.net https://github.com/sensepost/hostapd-mana
-INHERIT=python-r1 toolchain-funcs savedconfig git-r3
-IUSE=crda internal-tls netlink sqlite crackapd python_targets_python3_10 python_targets_python3_11 python_targets_python3_12 savedconfig
+INHERIT=python-r1 savedconfig git-r3
+IUSE=internal-tls netlink sqlite crackapd python_targets_python3_10 python_targets_python3_11 python_targets_python3_12 savedconfig
 LICENSE=BSD
 PROPERTIES=live
-RDEPEND=internal-tls? ( dev-libs/libtommath ) !internal-tls? ( dev-libs/openssl:0=[-bindist(-)] ) kernel_linux? ( dev-libs/libnl:3 crda? ( net-wireless/crda ) ) netlink? ( net-libs/libnfnetlink ) sqlite? ( >=dev-db/sqlite-3 )
+RDEPEND=internal-tls? ( dev-libs/libtommath ) !internal-tls? ( dev-libs/openssl:0=[-bindist(-)] ) kernel_linux? ( dev-libs/libnl:3 ) netlink? ( net-libs/libnfnetlink ) sqlite? ( >=dev-db/sqlite-3 ) python_targets_python3_10? ( dev-lang/python:3.10 ) python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 )
+REQUIRED_USE=|| ( python_targets_python3_10 python_targets_python3_11 python_targets_python3_12 )
 SLOT=0
-_eclasses_=out-of-source-utils	1a9007554652a6e627edbccb3c25a439	multibuild	d67e78a235f541871c7dfe4cf7931489	eapi8-dosym	5ac4857ad078256d939c44f7c64197a9	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	a1229a86bd0db058e474a2d7d9191cca	python-r1	8a28fa6d3e3bc96ff8a7eff2badbe71f	portability	225656ad6c6594fe3b0187bdd50707fb	savedconfig	8b5f9d995a970e49cd427c55d5840285	git-r3	fbb2889c81f3a05910c1524db69425c1
-_md5_=f15900f863b66597e3b51058404925de
+_eclasses_=out-of-source-utils	1a9007554652a6e627edbccb3c25a439	multibuild	d67e78a235f541871c7dfe4cf7931489	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	a1229a86bd0db058e474a2d7d9191cca	python-r1	8a28fa6d3e3bc96ff8a7eff2badbe71f	portability	225656ad6c6594fe3b0187bdd50707fb	savedconfig	8b5f9d995a970e49cd427c55d5840285	git-r3	fbb2889c81f3a05910c1524db69425c1
+_md5_=afce5719fb0ecf102e90e547e2d82bb4

@@ -794,7 +794,7 @@ net-proxy/insomnia-bin 8.6.0 8.6.1: REST API client, a postman alternative
 net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal network via reverse connection
 net-proxy/shadowsocks-rust 1.15.3 1.17.1: Shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
 net-proxy/sshttp 0.35_p2-r1 0.35_p20191108: An easy to use OSI-Layer5 switching daemon
-net-proxy/zaproxy 2.12.0 2.13.0: The OWASP Zed Attack Proxy for finding vulnerabilities in web applications
+net-proxy/zaproxy 2.13.0: The OWASP Zed Attack Proxy for finding vulnerabilities in web applications
 net-vpn/kcptun 20200409 20200701: A Stable & Secure Tunnel Based On KCP with N:M Multiplexing
 net-vpn/kcptun-plugins 20190313: SIP003-compatible KCPTUN and UDP2RAW plugins for Shadowsocks
 net-vpn/tuntox 0.0.10 9999: Tunnel TCP connections over the Tox protocol
@@ -803,7 +803,6 @@ net-wireless/airgeddon 11.22: bash script for Linux systems to audit wireless ne
 net-wireless/airspyhf 1.6.8 9999: User mode driver for Airspy HF+
 net-wireless/b43-openfwwf 5.2: OpenBroadcom Firmware
 net-wireless/b43-tools 9999: Tools for developers working on broadcom drivers/firmware
-net-wireless/berate_ap 20190918 99999999: Script for orchestrating mana rogue WiFi Access Points (fork create_ap)
 net-wireless/bladerf_adsb 9999: bladeRF ADS-B hardware decoder
 net-wireless/blue_hydra 1.9.18 9999: bluetooth discovery service built on top of bluez
 net-wireless/blue_sonar 0.3 9999: A simple wrapper for l2ping which shows rssi
@@ -812,12 +811,11 @@ net-wireless/btscanner 2.1-r7: A utility for bluetooth scanning and discovery
 net-wireless/bully 1.4-r1: A wifi-protected-setup (WPS) brute force attack tool, similar to reaver
 net-wireless/cowpatty 4.8_p20181130-r1: WLAN tools for bruteforcing 802.11 WPA/WPA2 keys
 net-wireless/crda 4.14: Central Regulatory Domain Agent for wireless networks
-net-wireless/create_ap 0.4.6: A script to create a NATed or bridged WiFi access point
 net-wireless/csdr 9999: a simple DSP library and cli for SDR
 net-wireless/dsd 1.7.0_pre20211213 9999: Digital Speech Decoder
 net-wireless/dsd-fme 9999: Digital Speech Decoder
-net-wireless/dsdcc 1.9.0 1.9.3 9999: Digital Speech Decoder rewritten as a C++ library
-net-wireless/dump1090_sdrplus 20190812 20200921: Mode S decoder for (SDR) devices including RTL SDR, HackRF, Airspy and SDRplay
+net-wireless/dsdcc 1.9.3 9999: Digital Speech Decoder rewritten as a C++ library
+net-wireless/dump1090_sdrplus 20200921: Mode S decoder for (SDR) devices including RTL SDR, HackRF, Airspy and SDRplay
 net-wireless/eaphammer 1.13.5 1.14.0: Targeted evil twin attacks against WPA2-Enterprise networks
 net-wireless/editcp-bin 1.0.31: Codeplug editor for the MD-380/MD-390/MD40/MD-UV380/MD-UV390 DMR radios
 net-wireless/fern-wifi-cracker 3.4: Wireless tool for WEP/WPA cracking and WPS keys recovery
@@ -880,7 +878,6 @@ net-wireless/trunk-recorder 4.7.1 9999: Records calls from a Trunked Radio Syste
 net-wireless/wifipumpkin3 1.1.7: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifite 2.7.0: An automated wireless attack tool
 net-wireless/wireless-regdb 20230503-r2: Wireless Regulatory database for Linux
-net-wireless/wpa_sycophant 1.0 9999: Evil client portion of EAP relay attack
 pentoo/pentoo 2023.2: Pentoo meta ebuild to install all apps
 pentoo/pentoo-analyzer 2024.0: Pentoo analyzers meta ebuild
 pentoo/pentoo-bluetooth 2024.1: Pentoo bluetooth meta ebuild

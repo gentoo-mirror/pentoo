@@ -9,4 +9,4 @@ LICENSE=BSD
 RDEPEND=airspy? ( net-wireless/airspy ) hackrf? ( net-libs/libhackrf ) rtlsdr? ( net-wireless/rtl-sdr:= ) sdrplay? ( net-wireless/sdrplay ) media-libs/soxr
 SLOT=0
 SRC_URI=https://github.com/itemir/dump1090_sdrplus/archive/a21346b5570b7dee49ca590ddde112705ddd3c45.tar.gz -> dump1090_sdrplus-20200921.tar.gz
-_md5_=df26defb7e02299c5e16c18b3f237c8a
+_md5_=19ac263480d8258ec0723f07ea58e61e

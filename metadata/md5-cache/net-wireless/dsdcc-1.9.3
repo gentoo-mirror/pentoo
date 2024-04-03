@@ -2,7 +2,8 @@ BDEPEND=app-alternatives/ninja >=dev-build/cmake-3.20.5
 DEFINED_PHASES=compile configure install prepare test
 DEPEND=mbelib? ( media-libs/mbelib )
 DESCRIPTION=Digital Speech Decoder rewritten as a C++ library
-EAPI=7
+EAPI=8
+HOMEPAGE=https://github.com/f4exb/dsdcc
 INHERIT=cmake
 IUSE=mbelib
 KEYWORDS=amd64 ~x86
@@ -11,4 +12,4 @@ RDEPEND=mbelib? ( media-libs/mbelib )
 SLOT=0
 SRC_URI=https://github.com/f4exb/dsdcc/archive/v1.9.3.tar.gz -> dsdcc-1.9.3.tar.gz
 _eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	288c54efeb5e2aa70775e39032695ad4	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	baea6080dd821f5562d715887954c9d3	cmake	c7c9a62d6232cac66d4ea32d575c3e7c
-_md5_=c062e265b00a98b09a0ea2fea16a1b04
+_md5_=ef657d4916ce50e33308b9c52ae8e281
