@@ -706,7 +706,7 @@ net-analyzer/bonesi 0.3.1 9999: BoNeSi - the DDoS botnet simulator
 net-analyzer/cameradar 5.0.1 5.0.2: Cameradar hacks its way into RTSP videosurveillance cameras
 net-analyzer/commix 3.4 3.6: Automated All-in-One OS command injection and exploitation tool
 net-analyzer/cottontail 20190426-r1: Capture all RabbitMQ messages being sent through a broker
-net-analyzer/crackmapexec 5.2.2 5.3.0-r1 5.4.0: A swiss army knife for pentesting Windows/Active Directory environments
+net-analyzer/crackmapexec 5.4.0: A swiss army knife for pentesting Windows/Active Directory environments
 net-analyzer/davtest 1.2_p20230307: tests WebDAV enabled servers
 net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden content
 net-analyzer/dirhunt 0.6.0-r2 0.7.0-r1: Dirhunt is a web crawler optimized for searching and analyzing web directories.
@@ -763,7 +763,6 @@ net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
 net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
 net-analyzer/sslyze 5.2.0 6.0.0: Fast and full-featured SSL scanner
 net-analyzer/subfinder 2.4.5 2.5.0: A subdomain discovery tool that discovers valid subdomains for websites
-net-analyzer/sublert 1.4.7_p20200103: Monitor new subdomains deployed and issued TLS/SSL certificate
 net-analyzer/sublist3r 1.0_p20200105 1.1_p20200629: Enumerate subdomains of websites using OSINT
 net-analyzer/takeover 20200312: Sub-Domain TakeOver Vulnerability Scanner
 net-analyzer/testssl 3.0.8 3.2_rc3: Tool to check TLS/SSL cipher support
@@ -807,7 +806,6 @@ net-misc/sippts 2.0.4: set of tools to audit VoIP servers and devices using SIP 
 net-misc/t50 5.8.5 5.8.7: Mixed Packet Injector & Network Stress Testing Tool
 net-misc/voipong 2.0_p20111230: detect all VoIP calls on a pipeline and dump actual conversation
 net-misc/wireshark-patoolkit 20191029: a collection of traffic analysis Wireshark plugins focused on security
-net-misc/wlan2eth 1.3: Wlan2eth is a tool that converts wlan pcap to ethernet-like frames.
 net-print/hplip 3.23.8 3.23.12: HP Linux Imaging and Printing - Print, scan, fax drivers and service tools
 net-proxy/burpsuite 2024.1.1.5 2024.1.1.6 9999: Interactive proxy for attacking and debugging web applications
 net-proxy/burpsuite-pro 2023.1.1_rc 2024.1.1.5 2024.1.1.6: Interactive proxy for attacking and debugging web applications
@@ -816,7 +814,6 @@ net-proxy/pbounce 0.1: Multiplexes multiple TCP connections into internal networ
 net-proxy/shadowsocks-rust 1.15.3 1.17.1: Shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
 net-proxy/sshttp 0.35_p2-r1 0.35_p20191108: An easy to use OSI-Layer5 switching daemon
 net-proxy/zaproxy 2.12.0 2.13.0: The OWASP Zed Attack Proxy for finding vulnerabilities in web applications
-net-vpn/amnezia-client 3.0.8: Amnezia VPN Client (Desktop+Mobile)
 net-vpn/kcptun 20200409 20200701: A Stable & Secure Tunnel Based On KCP with N:M Multiplexing
 net-vpn/kcptun-plugins 20190313: SIP003-compatible KCPTUN and UDP2RAW plugins for Shadowsocks
 net-vpn/tuntox 0.0.10 9999: Tunnel TCP connections over the Tox protocol
@@ -918,7 +915,7 @@ pentoo/pentoo-forging 2022.2: Pentoo forging meta ebuild
 pentoo/pentoo-fuzzers 2022.2: Pentoo fuzzers meta ebuild
 pentoo/pentoo-installer 20240304 99999999: Installer for pentoo, based on the ncurses Arch Linux installer
 pentoo/pentoo-livecd 2023.2: things needed by pentoo for livecd only
-pentoo/pentoo-misc 2024.0-r1: Pentoo misc meta ebuild
+pentoo/pentoo-misc 2024.1: Pentoo misc meta ebuild
 pentoo/pentoo-mitm 2022.2: Pentoo mitm meta ebuild
 pentoo/pentoo-mobile 2024.0: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2022.2: Collection of NFC tools
