@@ -107,7 +107,6 @@ app-forensics/samhain 4.3.3 4.4.0: Advanced file integrity and intrusion detecti
 app-forensics/scap-security-guide 0.1.50 0.1.51: Security compliance content in SCAP, Bash, Ansible, and other formats
 app-forensics/stegoveritas 1.8: Automatic image steganography analysis tool
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
-app-forensics/yara-rust 0.4.3: Rust bindings for VirusTotal/yara
 app-forensics/zsteg 0.2.13: Detect stegano-hidden data in PNG & BMP
 app-fuzz/0d1n 2.6 9999: Web security tool to make fuzzing at HTTP/S
 app-fuzz/bed 0.5: BED is a multi-protocol fuzzer written in perl
@@ -257,7 +256,6 @@ dev-python/asysocks 0.2.9 0.2.11: Socks5 / Socks4 client and server library
 dev-python/banal 1.0.1: Commons of banal micro-functions for Python.
 dev-python/bardapi 0.1.39: The unofficial Google Bard API port
 dev-python/beautifultable 0.8.0: Print ASCII tables for terminals
-dev-python/bencode_py 3.0.0 3.0.1 4.0.0: Simple bencode parser (for Python2, Python 3 and PyPy)
 dev-python/bidict 0.21.2 0.22.1: The bidirectional mapping library for Python.
 dev-python/biplist 1.0.3: A binary plist parser/generator for Python
 dev-python/bitstruct 8.15.1 8.17.0: conversions between Python values and C bit field structs
@@ -356,6 +354,7 @@ dev-python/http-tools 3.0.0 4.0.0: Capture, repeat and live intercept HTTP reque
 dev-python/httpagentparser 1.9.1: Extracts OS Browser etc information from http user agent string
 dev-python/hupper 1.9.1: Integrated process monitor for developing and reloading daemons
 dev-python/impacket 0.11.0 9999: A collection of Python classes focused on providing access to network packets
+dev-python/inotify 0.2.10-r2: an efficient and elegant inotify
 dev-python/inquirer3 0.4.0: Collection of common interactive command line user interfaces
 dev-python/invoke 2.2.0: Pythonic task execution
 dev-python/ipparser 0.3.5: Parse IP address information
@@ -742,7 +741,6 @@ net-analyzer/set 8.0.3-r1: A social engineering framework
 net-analyzer/sitadel 1.0.0_p20190828 1.0.1_p20231129: Web application security scanner
 net-analyzer/smbmap 1.10.2: SMBMap is a handy SMB enumeration tool
 net-analyzer/sn0int 0.18.2 0.19.1 0.24.2: Semi-automatic OSINT framework and package manager
-net-analyzer/sniffglue 0.12.1: Secure multithreaded packet sniffer
 net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
 net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
 net-analyzer/sslyze 5.2.0 6.0.0: Fast and full-featured SSL scanner
