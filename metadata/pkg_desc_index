@@ -9,7 +9,6 @@ app-admin/genmenu 0.0_p20230623 9999: a tool for generating freedesktop-complian
 app-admin/opensnitch 1.6.5.1: Desktop application firewall
 app-admin/opensnitch-ebpf-module 1.6.5.1: eBPF process monitor module for opensnitch
 app-admin/system-config-printer 1.5.18-r1: Graphical user interface for CUPS administration
-app-admin/vuls 0.19.0-r1: Vulnerability scanner for Linux, agentless, written in Golang
 app-antivirus/malheur 0.5.4-r1: Malware analysis tool
 app-antivirus/veil 3.1.14-r2: A tool for payloads generation that bypass common anti-virus solutions
 app-crypt/SIPcrack 0.4-r2: SIPcrack is a SIP protocol login cracker
@@ -86,7 +85,7 @@ app-forensics/libphdi 20220301 20221025: Library and tools to access the Paralle
 app-forensics/libqcow 20210419 20221026: Library and tools to access the QEMU Copy-On-Write (QCOW) image format
 app-forensics/libregf 20220131 20221026: Library and tools to access the Windows NT Registry File (REGF) format
 app-forensics/libscca 20210419 20221027: Library and tools to access the Windows Prefetch File (SCCA) format.
-app-forensics/libsmraw 20210807 20221028: Library and tools to access the (split) RAW image format
+app-forensics/libsmraw 20240310: Library and tools to access the (split) RAW image format
 app-forensics/libvsgpt 20211115 20221029: Library and tools to access the GUID Partition Table (GPT) volume system format
 app-forensics/libvshadow 20211114 20221030: Library and tools to access the Volume Shadow Snapshot (VSS) format
 app-forensics/libvslvm 20210807 20221025: Library and tools to access the Linux Logical Volume Manager (LVM) format
@@ -174,13 +173,13 @@ dev-libs/cm256cc 1.1.0: Fast GF(256) Cauchy MDS Block Erasure Codec in C++
 dev-libs/frida-core 16.0.19 16.1.8: Dynamic instrumentation toolkit for reverse-engineers and security researchers
 dev-libs/gobject-introspection 1.76.1 1.78.1: Introspection system for GObject-based libraries
 dev-libs/hashdb 3.1.0-r2: The hashdb block hash database tool and API
-dev-libs/libcaes 20221127 20230406: Library to support cross-platform AES encryption
-dev-libs/libcdata 20220103 20220115: Library for cross-platform C generic data functions
-dev-libs/libcdatetime 20200510 20220104: Library for cross-platform C date and time functions
+dev-libs/libcaes 20240114: Library to support cross-platform AES encryption
+dev-libs/libcdata 20240103: Library for cross-platform C generic data functions
+dev-libs/libcdatetime 20240104: Library for cross-platform C date and time functions
 dev-libs/libcdirectory 20200702 20220105: Library for cross-platform C directory functions
 dev-libs/libcerror 20220101: Library for cross-platform C error functions
 dev-libs/libcfile 20201229 20220106-r1: Library for cross-platform C file functions
-dev-libs/libclocale 20210526 20220107: Library for cross-platform C locale functions
+dev-libs/libclocale 20240107: Library for cross-platform C locale functions
 dev-libs/libcnotify 20200913 20220108: Library for cross-platform C notification functions
 dev-libs/libcpath 20220108: Library for cross-platform C path functions
 dev-libs/libcreg 20210625 20221022: Library and tools to access the Windows 9x/Me Registry File (CREG) format
@@ -189,9 +188,9 @@ dev-libs/libcstring 20150101: Library for cross-platform C string functions
 dev-libs/libcsystem 20150629: Library for cross-platform C locale functions
 dev-libs/libcthreads 20211115 20220102: Library for cross-platform C threads functions
 dev-libs/libdwarf 0.4.1: The DWARF Debugging Information Format
-dev-libs/libfcache 20200708 20220110: Library for cross-platform C cache functions
+dev-libs/libfcache 20240112: Library for cross-platform C cache functions
 dev-libs/libfcrypto 20191231 20200104: Library for encryption formats
-dev-libs/libfdata 20211023 20220111: Library for cross-platform C file data functions
+dev-libs/libfdata 20240114: Library for cross-platform C file data functions
 dev-libs/libfdatetime 20180910 20220112: Library for date and time formats
 dev-libs/libfguid 20220113: Library for GUID/UUID format
 dev-libs/libfmapi 20180714 20220114: Library for MAPI data types
@@ -203,14 +202,14 @@ dev-libs/libftxr 20180815 20220118: Library for Transactional Registry (TxR) dat
 dev-libs/libfusn 20180726 20220119: Library for Update Sequence Number (USN) Journal data types
 dev-libs/libfvalue 20201124 20220120: Library for generic file value functions
 dev-libs/libfwevt 20220723 20220925: Library for Windows XML Event Log (EVTX) data types
-dev-libs/libfwnt 20210906 20220922: Library for Windows NT data types
+dev-libs/libfwnt 20240126: Library for Windows NT data types
 dev-libs/libfwps 20191221 20220122: Library for Windows Property Store data types
 dev-libs/libfwsi 20220123 20220927: Library to access the Windows Shell Item format
-dev-libs/libhmac 20230407: Library to support various Hash-based Message Authentication Codes (HMAC)
+dev-libs/libhmac 20240129: Library to support various Hash-based Message Authentication Codes (HMAC)
 dev-libs/libmapidb 20170125 20170304: Library to access the Exchange MAPI database format
 dev-libs/libsigscan 20220124 20221027: Library for binary signature scanning.
-dev-libs/libsmdev 20210418 20221028: Library to access to storage media devices
-dev-libs/libuna 20220102 20220611: Library to support Unicode and ASCII (byte string) conversions
+dev-libs/libsmdev 20240309: Library to access to storage media devices
+dev-libs/libuna 20240130: Library to support Unicode and ASCII (byte string) conversions
 dev-libs/libvhdi 20221124: Library and tools to access the Virtual Hard Disk (VHD) image format
 dev-libs/libvmdk 20210807 20221022: Library and tools to access the VMware Virtual Disk (VMDK) format
 dev-libs/libwrc 20220720 20221009: Library to access the Windows Resource Compiler (WRC) format
@@ -911,7 +910,7 @@ pentoo/pentoo 2023.2: Pentoo meta ebuild to install all apps
 pentoo/pentoo-analyzer 2024.0: Pentoo analyzers meta ebuild
 pentoo/pentoo-bluetooth 2023.0: Pentoo bluetooth meta ebuild
 pentoo/pentoo-cinnamon 2020.1: Pentoo cinnamon meta ebuild
-pentoo/pentoo-core 2024.1: Pentoo minimum core requirements
+pentoo/pentoo-core 2024.1-r1: Pentoo minimum core requirements
 pentoo/pentoo-cracking 2022.2: Pentoo cracking meta ebuild
 pentoo/pentoo-database 2022.2: Pentoo database attack meta ebuild
 pentoo/pentoo-desktop 2023.3: Pentoo meta ebuild to install all X and WM/DE related things
