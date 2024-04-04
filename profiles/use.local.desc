@@ -175,6 +175,9 @@ media-gfx/fontforge:woff2 - Enable support for WOFF2 format
 media-sound/deinvert:liquid - improve sound quality using net-libs/liquid-dsp
 media-sound/deinvert:wav - wav file support using media-libs/libsndfile
 net-analyzer/medusa:ssh - Enable SSH2 module
+net-analyzer/metasploit:development - Enable ruby gems needed for development
+net-analyzer/metasploit:nexpose - Enable nexpose integration
+net-analyzer/metasploit:pcap - Enable processing of pcap files
 net-analyzer/nmap:libssh2 - Enable SSH support through net-libs/libssh2
 net-analyzer/nmap:ncat - Install the ncat utility
 net-analyzer/nmap:ndiff - Install the ndiff utility
@@ -182,8 +185,12 @@ net-analyzer/nmap:nping - Install the nping utility
 net-analyzer/nmap:nse - Include support for the Nmap Scripting Engine (NSE)
 net-analyzer/nmap:symlink - Install symlink to nc
 net-analyzer/nmap:zenmap - Install the GTK+ based nmap GUI, zenmap
+net-analyzer/scamper:privsep - Separate the higher privileged scanner from a lower privileged parser
+net-analyzer/set:ettercap - Add support for using ettercap
+net-analyzer/set:wireless - Add support for wifi attacks
 net-analyzer/testssl:bundled-openssl - Install precompiled versions of OpenSSL for greater testing coverage
 net-analyzer/twa:testssl - Install net-analyzer/testssl to check TLS/SSL cipher
+net-analyzer/whatweb:json - Enable json support
 net-dialup/freeradius:memcached - Include dev-libs/libmemcached in caching drivers
 net-dialup/freeradius:mongodb - Include support for MongoDB database
 net-dialup/freeradius:redis - Include support for Redis database
