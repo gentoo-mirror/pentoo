@@ -135,6 +135,9 @@ dev-python/aiogram:fast - Ultra-fast asyncio
 dev-python/aiogram:i18n - i18n support
 dev-python/aiogram:proxy - proxy support
 dev-python/aiogram:redis - install local server
+dev-python/deep-translator:docx - Add support for parsing docx files
+dev-python/deep-translator:openai - Add openai support
+dev-python/deep-translator:pypdf - Add support for parsing pdf files
 dev-python/django-constance-haiwen:database - Add django-picklefield support
 dev-python/django-constance-haiwen:redis - Add django-redis support
 dev-python/fastapi:all - Enable optional dependencies
@@ -142,6 +145,7 @@ dev-python/nvidia-apex:cuda - Add support for CUDA processing
 dev-python/openai:datalib - Make data libraries like `numpy` and `pandas` optional dependencies (130MB+)
 dev-python/pillow:imagequant - Build with Image Quantization Library support
 dev-python/pillow:raqm - Build with complex text layout library support
+dev-python/py-pdf-parser:developer - Bring in deps needed for development
 dev-python/pyinstaller:clang - Support for sys-devel/clang
 dev-python/pyinstaller:leak-detector - Support for link with Boehm garbage collector to detect memory leaks
 dev-python/pypsrp:credssp - Add CredSSP support
@@ -149,6 +153,8 @@ dev-python/python-libnmap:boto - Amazon Web Services support
 dev-python/python-libnmap:defusedxml - import untrusted XML scans data
 dev-python/python-libnmap:mongodb - mongodb support
 dev-python/python-libnmap:sqlalchemy - sqlalchemy support
+dev-python/python-socketio:asyncio_client - Allow client to work async
+dev-python/python-socketio:client - Support client
 dev-python/simplespectral:faster - Use dev-python/scipy to speed up drawing
 dev-python/simplespectral:fastest - Use dev-python/pyFFTW to speed up drawing to the max
 dev-python/slowapi:redis - redis, memcached and memory backends to track your limits
@@ -174,6 +180,9 @@ media-gfx/fontforge:truetype-debugger - Enable truetype debugger in fontforge
 media-gfx/fontforge:woff2 - Enable support for WOFF2 format
 media-sound/deinvert:liquid - improve sound quality using net-libs/liquid-dsp
 media-sound/deinvert:wav - wav file support using media-libs/libsndfile
+net-analyzer/enum4linux:polenum - Attempt to enumerate policies using polenum
+net-analyzer/httprint:allsigs - Enable all signatures for detection
+net-analyzer/masscan:pf_ring - Enable pf_ring support for faster scanning
 net-analyzer/medusa:ssh - Enable SSH2 module
 net-analyzer/metasploit:development - Enable ruby gems needed for development
 net-analyzer/metasploit:nexpose - Enable nexpose integration

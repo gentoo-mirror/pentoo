@@ -1,11 +1,12 @@
+BDEPEND=app-arch/unzip
 DEFINED_PHASES=install
 DESCRIPTION=HTTP fingerprinter tool
-EAPI=7
+EAPI=8
 HOMEPAGE=http://net-square.com/httprint.html
 IUSE=allsigs
-KEYWORDS=~x86 ~amd64
+KEYWORDS=~amd64 ~x86
 LICENSE=no-source-code
 RDEPEND=amd64? ( sys-libs/glibc[multilib] )
 SLOT=0
 SRC_URI=http://net-square.com/_assets/httprint_linux_301.zip
-_md5_=c38f4b04b0be2af0affc82e2459f590f
+_md5_=c471297e03fd3af2a4776b923e4d9c6d
