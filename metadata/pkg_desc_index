@@ -250,7 +250,6 @@ dev-python/asyauth 0.0.16 0.0.18: asyauth by skilsec
 dev-python/asyncpg 0.29.0: A fast PostgreSQL Database Client Library for Python/asyncio.
 dev-python/asysocks 0.2.9 0.2.11: Socks5 / Socks4 client and server library
 dev-python/banal 1.0.1: Commons of banal micro-functions for Python.
-dev-python/bardapi 0.1.39: The unofficial Google Bard API port
 dev-python/beautifultable 0.8.0: Print ASCII tables for terminals
 dev-python/bidict 0.21.2 0.22.1: The bidirectional mapping library for Python.
 dev-python/biplist 1.0.3: A binary plist parser/generator for Python
