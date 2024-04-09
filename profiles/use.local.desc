@@ -385,6 +385,8 @@ www-apps/beef:notifications - enable notification plugin
 www-apps/beef:qrcode - enable qrcode generation support
 www-apps/rda:mariadb - Include mariadb support
 www-apps/seafile-pro-server:fuse - Enable seaf-fuse support
+www-apps/seafile-pro-server:mariadb - mariadb support
+www-apps/seafile-pro-server:mysql - mysql support
 www-apps/seafile-pro-server:psd - Enable Adobe Photoshop PSD files indexing
 www-apps/seafile-pro-server:saml - Add SAML 2.0 authentication support
 x11-libs/qwt-multiaxes:designer - Installs dev-qt/designer plugin.
