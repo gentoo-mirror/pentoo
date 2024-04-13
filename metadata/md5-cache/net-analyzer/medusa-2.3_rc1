@@ -2,7 +2,7 @@ BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20240116 || ( >=dev-build/
 DEFINED_PHASES=configure prepare
 DEPEND=dev-libs/openssl:= ssh? ( net-libs/libssh2 ) postgres? ( dev-db/postgresql:= ) rdp? ( net-misc/freerdp ) subversion? ( dev-vcs/subversion )
 DESCRIPTION=A modular, parallel, multiprotocol, network login auditor
-EAPI=7
+EAPI=8
 HOMEPAGE=http://foofus.net/goons/jmk/medusa/medusa.html
 INHERIT=autotools
 IUSE=postgres +rdp +ssh subversion debug
@@ -10,6 +10,6 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 RDEPEND=dev-libs/openssl:= ssh? ( net-libs/libssh2 ) postgres? ( dev-db/postgresql:= ) rdp? ( net-misc/freerdp ) subversion? ( dev-vcs/subversion )
 SLOT=0
-SRC_URI=https://github.com/jmk-foofus/medusa/archive/bdaa2dda92ad3681387a60cc41d3bd9f077360a1.tar.gz -> medusa-2.3_pre.tar.gz
+SRC_URI=https://github.com/jmk-foofus/medusa/archive/dd620697dbc3a4e06fa83a5666018a1128c8ac4d.tar.gz -> medusa-2.3_rc1.tar.gz
 _eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	5f49a16f67f81bdf873e3d1f10b10001	autotools	3af8f60c4bdb23e738db506a630898ee
-_md5_=9a6c48ede921dc6f0ab8fd02823f5f00
+_md5_=db2c49080cb6695f5b7c18f96dd23c76

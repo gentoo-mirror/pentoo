@@ -690,7 +690,7 @@ net-analyzer/crackmapexec 5.4.0: A swiss army knife for pentesting Windows/Activ
 net-analyzer/davtest 1.2_p20230307: tests WebDAV enabled servers
 net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden content
 net-analyzer/dirhunt 0.6.0-r2 0.7.0-r1: Dirhunt is a web crawler optimized for searching and analyzing web directories.
-net-analyzer/dnsrecon 1.1.4 1.1.5: DNS Enumeration Script
+net-analyzer/dnsrecon 1.1.5 1.2.0: DNS Enumeration Script
 net-analyzer/droopescan 1.41.3-r2: A scanner that helps identifying issues in Drupal, SilverStripe, and Wordpress
 net-analyzer/enum4linux 0.9.1: A tool for enumerating information from Windows and Samba systems
 net-analyzer/evilgrade 2.0.9: A modular framework that takes advantage of poor upgrade implementations by injecting fake updates.
@@ -710,7 +710,7 @@ net-analyzer/maketh 0.2.0: Ethernet packet injector and creator
 net-analyzer/maryam 2.2.6-r1 2.5.0-r1: OWASP Maryam is a modular open source OSINT and data gathering framework
 net-analyzer/masscan 1.3.2: Mass IP port scanner
 net-analyzer/massdns 1.0.0 9999: A high-performance DNS stub resolver for bulk lookups and reconnaissance
-net-analyzer/medusa 2.3_pre: A modular, parallel, multiprotocol, network login auditor
+net-analyzer/medusa 2.3_rc1: A modular, parallel, multiprotocol, network login auditor
 net-analyzer/metagoofil 2.2_p20221009: Information gathering tool designed for extracting metadata of public documents
 net-analyzer/metasploit 9999: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/ncrack 0.7-r1: Ncrack is a high-speed network authentication cracking tool
