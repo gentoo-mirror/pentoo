@@ -211,7 +211,7 @@ dev-perl/Net-Address-IP-Local 0.1.2: A class for discovering the local system's 
 dev-perl/String-HexConvert 0.02: Converts ascii strings to hex and reverse
 dev-perl/Tie-CharArray 1.00: Manipulate perl strings through tied array
 dev-php/evalhook 0.1_p20231013: Decode/Deobfuscate PHP Scripts
-dev-python/IP2Location 8.8.1 8.10.0: Python API for IP2Location database
+dev-python/IP2Location 8.10.0 8.10.2: Python API for IP2Location database
 dev-python/Js2Py 0.67_p20200212: JavaScript to Python Translator & JavaScript interpreter
 dev-python/PTP 0.4.2-r1: Pentester's Tools Parser
 dev-python/Protego 0.2.1: robots.txt parser with support for modern conventions
@@ -370,7 +370,7 @@ dev-python/langdetect 1.0.8: Port of Nakatani Shuyo's language-detection library
 dev-python/ldap3 2.9.1: A strictly RFC 4511 conforming LDAP V3 pure Python client
 dev-python/ldapdomaindump 0.9.4_p20240213: Active Directory information dumper via LDAP
 dev-python/leather 0.3.3: Python charting for 80% of humans
-dev-python/libsast 1.5.2: A generic SAST core built on top of semgrep and regex
+dev-python/libsast 1.5.2 2.0.3: A generic SAST core built on top of semgrep and regex
 dev-python/limits 3.7.0: Rate limiting utilities
 dev-python/lsassy 3.1.6 3.1.9: Python library to parse remote lsass dumps
 dev-python/macholib 1.14 1.16.2: A package is a collection of utilities for dealing with IP addresses
@@ -654,7 +654,7 @@ dev-util/jnitrace-engine 20230402: Engine used by jnitrace to intercept JNI API 
 dev-util/kaleido-bin 0.2.1: Static image export for web-based visualization libraries
 dev-util/lief 0.14.0-r1 0.14.1: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
-dev-util/mobsf 3.6.9 3.7.6: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
+dev-util/mobsf 3.7.6 3.9.7: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
 dev-util/nvidia-cuda-toolkit 12.4.0: NVIDIA CUDA Toolkit (compiler and friends)
 dev-util/objection 1.10.2 1.11.0-r2: Runtime mobile exploration
 dev-util/pentoo-udev-rules 0.0.1: udev rules to assist in some way with hardware commonly used in pentoo
