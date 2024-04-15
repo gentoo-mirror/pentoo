@@ -655,7 +655,6 @@ dev-util/kaleido-bin 0.2.1: Static image export for web-based visualization libr
 dev-util/lief 0.14.0-r1 0.14.1: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
 dev-util/mobsf 3.7.6 3.9.7: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
-dev-util/nvidia-cuda-toolkit 12.4.0: NVIDIA CUDA Toolkit (compiler and friends)
 dev-util/objection 1.10.2 1.11.0-r2: Runtime mobile exploration
 dev-util/pentoo-udev-rules 0.0.1: udev rules to assist in some way with hardware commonly used in pentoo
 dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIPS
