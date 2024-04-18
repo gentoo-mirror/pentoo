@@ -157,6 +157,7 @@ dev-java/jgraphx 2.1.1.2 4.2.2: Open-source graph component for Java
 dev-java/logback-classic 1.4.1: logback-classic module
 dev-java/logback-core 1.4.1: logback-core module
 dev-libs/LeechCore 2.14 2.16: Direct Memory Access (DMA) Attack Software
+dev-libs/c-mnalib 1.0.0: C library for easy access and configuration of mobile network modems
 dev-libs/cm256cc 1.1.0: Fast GF(256) Cauchy MDS Block Erasure Codec in C++
 dev-libs/frida-core 16.0.19 16.1.8: Dynamic instrumentation toolkit for reverse-engineers and security researchers
 dev-libs/gobject-introspection 1.76.1 1.78.1: Introspection system for GObject-based libraries
@@ -794,6 +795,7 @@ net-vpn/kcptun 20200409 20200701: A Stable & Secure Tunnel Based On KCP with N:M
 net-vpn/kcptun-plugins 20190313: SIP003-compatible KCPTUN and UDP2RAW plugins for Shadowsocks
 net-vpn/tuntox 0.0.10 9999: Tunnel TCP connections over the Tox protocol
 net-vpn/udp2raw-tunnel 20200727.0 20200818.0 99999999: A tunnel which turns UDP traffic into encrypted FakeTCP/UDP/ICMP traffic
+net-wireless/LTESniffer 2.1.0: software-defined analyzer for APCO P25 signals
 net-wireless/airgeddon 11.22: bash script for Linux systems to audit wireless networks
 net-wireless/airspyhf 1.6.8 9999: User mode driver for Airspy HF+
 net-wireless/b43-openfwwf 5.2: OpenBroadcom Firmware
@@ -869,6 +871,7 @@ net-wireless/signalhound-spike 3.5.9: Spectrum analyzer software for Signal Houn
 net-wireless/soapy-sdrplay3 9999 20230421: Soapy SDR module for SRDPlay API v3
 net-wireless/soapy_power 1.6.1-r1 9999: Obtain power spectrum from SoapySDR devices
 net-wireless/srsran 23.11 9999: Open source SDR 4G software suite from Software Radio Systems
+net-wireless/srsran2 20231020: Open source SDR 4G software suite from Software Radio Systems
 net-wireless/trunk-recorder 4.7.1 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
 net-wireless/wifipumpkin3 1.1.7: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifite 2.7.0: An automated wireless attack tool

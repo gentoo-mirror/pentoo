@@ -307,6 +307,11 @@ net-wireless/srsran:simcard - support hardware sim cards
 net-wireless/srsran:soapysdr - use soapysdr to support various hardware
 net-wireless/srsran:uhd - support Ettus Research hardware
 net-wireless/srsran:zeromq - enable zeromq message passing
+net-wireless/srsran2:bladerf - support Nuand BladeRF hardware
+net-wireless/srsran2:simcard - support hardware sim cards
+net-wireless/srsran2:soapysdr - use soapysdr to support various hardware
+net-wireless/srsran2:uhd - support Ettus Research hardware
+net-wireless/srsran2:zeromq - enable zeromq message passing
 net-wireless/wifipumpkin3:tools - Install extra tools for additional functionality
 net-wireless/wifite:dict - Use cracklib words
 net-wireless/wifite:extra - Include additional tools for extra features
