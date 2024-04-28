@@ -707,7 +707,7 @@ net-analyzer/medusa 2.3_rc1: A modular, parallel, multiprotocol, network login a
 net-analyzer/metagoofil 2.2_p20221009: Information gathering tool designed for extracting metadata of public documents
 net-analyzer/metasploit 9999: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/ncrack 0.7-r1: Ncrack is a high-speed network authentication cracking tool
-net-analyzer/nmap 7.94: Network exploration tool and security / port scanner
+net-analyzer/nmap 7.94 7.94-r1: Network exploration tool and security / port scanner
 net-analyzer/nmap-vulners 1.2 1.4_beta 9999: NSE script based on Vulners.com API
 net-analyzer/ntlmrecon 0.4_beta: A tool to enumerate information from NTLM authentication enabled web endpoints
 net-analyzer/onesixtyone 0.7: An efficient SNMP scanner
@@ -755,7 +755,7 @@ net-im/jitsi 2.11.5633: Secure IM communicator that supports SIP, XMPP, AIM/ICQ,
 net-im/jitsi-videobridge 1132: https://github.com/jitsi/jitsi-videobridge
 net-libs/libosmocore 1.6.0_p20220508-r1: Utility functions for OsmocomBB, OpenBSC and related projects
 net-libs/libpfring 8.0.0 8.4.0: A new type of network socket that improves packet capture speed.
-net-libs/libsearpc 3.3.0-r2: A simple C language RPC framework
+net-libs/libsearpc 3.3.0-r2: Simple C language RPC framework
 net-libs/libtins 4.3: High-level, multiplatform C++ network packet sniffing and crafting library.
 net-mail/davmail-bin 6.0.1.3390: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
 net-mail/email2phonenumber 20190916-r1 99999999: A OSINT tool to obtain a target's phone number just by having his email address
