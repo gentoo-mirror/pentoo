@@ -428,8 +428,6 @@ dev-python/pyasn 1.6.1-r1: Python IP address to Autonomous System Number lookup 
 dev-python/pyaxmlparser 0.3.24 0.3.26: Parser for Android XML file and get Application Name without using Androguard
 dev-python/pycrashreport 1.2.1 1.2.2: Pure python3 for parsing Apple's crash reports
 dev-python/pycups 2.0.1-r1: Python bindings for the CUPS API
-dev-python/pydantic 2.5.3: Data parsing and validation using Python type hints
-dev-python/pydantic-core 2.14.6: Core validation logic for pydantic written in Rust
 dev-python/pydecomp 9999: A python library of common (de)compression and contents handling
 dev-python/pydispatcher 2.0.5: Multi-producer-multi-consumer signal dispatching mechanism
 dev-python/pydub 0.25.1: Manipulate audio with an simple and easy high level interface
