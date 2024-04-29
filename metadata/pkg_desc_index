@@ -228,7 +228,7 @@ dev-python/agate-sql 0.5.4-r1: Adds SQL read/write support to agate
 dev-python/aggdraw 1.3.11: High quality drawing interface for PIL
 dev-python/aiocmd 0.1.5: Coroutine-based CLI generator using prompt_toolkit
 dev-python/aioconsole 0.7.0: Asynchronous console and interfaces for asyncio
-dev-python/aiogram 3.3.0 3.4.1: Asynchronous framework for Telegram Bot API
+dev-python/aiogram 3.4.1 3.5.0: Asynchronous framework for Telegram Bot API
 dev-python/aiomultiprocess 0.8.0 0.9.0: asyncio version of the standard multiprocessing module
 dev-python/aiopg 1.4.0-r2: Postgres integration with asyncio
 dev-python/aiosmb 0.4.8 0.4.10: Asynchronous SMB protocol implementation
