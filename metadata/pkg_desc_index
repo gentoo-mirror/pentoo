@@ -908,7 +908,6 @@ sys-apps/pcsc-lite 2.0.1: PC/SC Architecture smartcard middleware library
 sys-devel/autofdo 0.18 0.19 9999: System to simplify real-world deployment of feedback-directed optimization
 sys-devel/gcc-arm-none-eabi 10.3_p202110 12.2_p1 13.2_p1: GNU Arm Embedded Toolchain
 sys-devel/gdb-dashboard 0.11.4 9999: Modular visual interface for GDB in Python
-sys-fs/cramfsswap 1.4.2: swap endianness of a cram filesystem (cramfs)
 sys-fs/ext4-crypt 20170216 99999999: A userspace tool to create ext4 encrypted directories
 sys-kernel/fragattacks-drivers58 20210507: Wi-Fi fragmentation and aggregation vulnerability tests
 sys-kernel/ft60x_driver 20180209 20190318: USB FT60x driver
