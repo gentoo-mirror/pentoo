@@ -65,7 +65,6 @@ app-forensics/openscap:sce - Enables Script Check Engine (SCE) support
 app-forensics/openscap:sql - Build the sql independant probes
 app-forensics/openscap:ssh - Scan remote machines over ssh
 app-forensics/openscap:vm - Scan VMs and VM storage images
-app-forensics/pcileech:ft60x_driver - Use sys-kernel/ft60x_driver for USB FT60x driver support
 app-forensics/pdf-parser:yara - Use dev-python/yara-python for YARA rules support
 app-forensics/samhain:login-watch - Watch for login/logout
 app-forensics/samhain:mounts-check - Check mount options on filesystems
@@ -365,7 +364,6 @@ sys-apps/pcsc-lite:libusb - Use dev-libs/libusb detection to hotplug new smartca
 sys-apps/pcsc-lite:policykit - Uses sys-auth/polkit to restrict access to smartcard readers or smartcards to given users.
 sys-apps/pcsc-lite:udev - Use virtual/libudev rules to handle devices' permissions and hotplug support. Unless you know what you're doing do not disable this flag on Linux kernels. This is provided as an option for completeness.
 sys-devel/gcc-arm-none-eabi:python2 - Include python 2 support
-sys-devel/gcc-arm-none-eabi:python3 - Include python 3 support
 sys-kernel/pentoo-sources:experimental - Apply experimental patches; for more information, see "https://wiki.gentoo.org/wiki/Project:Kernel/Experimental".
 sys-kernel/pentoo-sources:lts - for selecting between long-time-support and standard kernel.
 sys-libs/talloc:compat - Enable extra compatibility stuff
