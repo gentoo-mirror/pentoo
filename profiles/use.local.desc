@@ -359,10 +359,6 @@ pentoo/zero-system:dev - Packages for doing gentoo dev work
 pentoo/zero-system:naga - Packages for my main laptop
 pentoo/zero-system:nu - Packages for the build machine
 pentoo/zero-system:printer - Packages for printing
-sys-apps/pcsc-lite:embedded - limit RAM and CPU ressources by disabling features
-sys-apps/pcsc-lite:libusb - Use dev-libs/libusb detection to hotplug new smartcard readers. This flag should only be enabled if you're running a non-Linux kernel or you don't want to use udev.
-sys-apps/pcsc-lite:policykit - Uses sys-auth/polkit to restrict access to smartcard readers or smartcards to given users.
-sys-apps/pcsc-lite:udev - Use virtual/libudev rules to handle devices' permissions and hotplug support. Unless you know what you're doing do not disable this flag on Linux kernels. This is provided as an option for completeness.
 sys-devel/gcc-arm-none-eabi:python2 - Include python 2 support
 sys-kernel/pentoo-sources:experimental - Apply experimental patches; for more information, see "https://wiki.gentoo.org/wiki/Project:Kernel/Experimental".
 sys-kernel/pentoo-sources:lts - for selecting between long-time-support and standard kernel.
