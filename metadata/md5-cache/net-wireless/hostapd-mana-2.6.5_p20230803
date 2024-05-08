@@ -12,5 +12,5 @@ RDEPEND=internal-tls? ( dev-libs/libtommath ) !internal-tls? ( dev-libs/openssl:
 REQUIRED_USE=|| ( python_targets_python3_10 python_targets_python3_11 python_targets_python3_12 )
 SLOT=0
 SRC_URI=https://github.com/sensepost/hostapd-mana/archive/bd6114db0e0214003699f446dd7c4cb399efef71.tar.gz -> hostapd-mana-2.6.5_p20230803.tar.gz
-_eclasses_=out-of-source-utils	1a9007554652a6e627edbccb3c25a439	multibuild	d67e78a235f541871c7dfe4cf7931489	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	a1229a86bd0db058e474a2d7d9191cca	python-r1	8a28fa6d3e3bc96ff8a7eff2badbe71f	portability	225656ad6c6594fe3b0187bdd50707fb	savedconfig	8b5f9d995a970e49cd427c55d5840285
+_eclasses_=out-of-source-utils	1a9007554652a6e627edbccb3c25a439	multibuild	d67e78a235f541871c7dfe4cf7931489	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	e527bb25fc6ab8bb127b889b8f62500a	python-r1	8a28fa6d3e3bc96ff8a7eff2badbe71f	portability	225656ad6c6594fe3b0187bdd50707fb	savedconfig	8b5f9d995a970e49cd427c55d5840285
 _md5_=afce5719fb0ecf102e90e547e2d82bb4
