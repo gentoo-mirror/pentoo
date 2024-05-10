@@ -828,6 +828,7 @@ net-wireless/md380tools 9999: Python tools and patched firmware for the TYT-MD38
 net-wireless/mdk4 4.2_p20220118: Wireless injection tool tool to exploit common IEEE 802.11 protocol weaknesses
 net-wireless/mjackit 20190606-r1: Demo tool for Logitech Unifying vulnerabilities
 net-wireless/mmdvmhost 9999: The host program for MMDVM
+net-wireless/mousejack 9999: Firmware and research tools for nRF24LU1+ based USB dongles and breakout boards
 net-wireless/mt7610u_ulli-kroll 9999: Modified usb wifi driver for TP_link TL-WDN5200
 net-wireless/nrc7292 1.4 9999: NRC7292 Software Package for Host mode
 net-wireless/nrf52840-mdk-usb-dongle 2.0.0: Firmwares for Makerdiary nrf52840 and compatible usb dongles
@@ -841,7 +842,7 @@ net-wireless/proxmark3 4.18218 4.18341 9999: A general purpose RFID tool for Pro
 net-wireless/qflipper 1.3.3-r1 9999: Desktop application for updating Flipper Zero firmware via PC
 net-wireless/qspectrumanalyzer 2.2.0 9999: vendor and platform neutral SDR support library
 net-wireless/reaver-wps-fork-t6x 1.6.6: Utilise Pixie Dust Attack to find the correct WPS PIN.
-net-wireless/rfcat 2.0.1: The swiss army knife of subGHz
+net-wireless/rfcat 2.0.1-r1: The swiss army knife of subGHz
 net-wireless/rtl8812au_aircrack-ng 5.6.4.2_p20230708 9999: RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection
 net-wireless/rtl8852bu_morrownr 9999: RTL88{3,5}2BU driver with monitor mode and frame injection
 net-wireless/rtl88x2bu_morrownr 9999: RTL88{1,2}2BU driver with monitor mode and frame injection
