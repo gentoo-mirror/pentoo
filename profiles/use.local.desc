@@ -206,7 +206,6 @@ net-mail/davmail-bin:server - Enable server
 net-mail/libpst:profiling - Enable gprof profiling
 net-mail/libpst:shared - Enable libpst shared object
 net-misc/seafile-client:shibboleth - Build support for Shibboleth single sign-on
-net-misc/sipp:pcap - Enable functionality to replay RTP data from a pcap file
 net-print/hplip:X - Enables scanner GUI dependencies with USE="scanner" where media-gfx/xsane is preferred over media-gfx/sane-frontends
 net-print/hplip:fax - Enable fax on multifunction devices which support it
 net-print/hplip:hpcups - Build the hpcups driver for cups (by HP)
