@@ -1,0 +1,13 @@
+DEFINED_PHASES=install postinst setup
+DESCRIPTION=A sniffer for Bluetooth 5 and 4.x LE
+EAPI=8
+HOMEPAGE=https://github.com/nccgroup/Sniffle
+INHERIT=python-single-r1
+IUSE=python_single_target_python3_11 python_single_target_python3_12
+LICENSE=GPL-3
+RDEPEND=python_single_target_python3_11? ( dev-python/cc2538-bsl[python_targets_python3_11(-)] ) python_single_target_python3_12? ( dev-python/cc2538-bsl[python_targets_python3_12(-)] ) python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 )
+REQUIRED_USE=^^ ( python_single_target_python3_11 python_single_target_python3_12 )
+SLOT=0
+SRC_URI=https://github.com/nccgroup/Sniffle/archive/v1.9.3.tar.gz -> Sniffle-1.9.3.tar.gz https://github.com/nccgroup/Sniffle/releases/download/v1.9.3/sniffle_cc1352p1_cc2652p1.hex https://github.com/nccgroup/Sniffle/releases/download/v1.9.3/sniffle_cc1352p1_cc2652p1_1M.hex https://github.com/nccgroup/Sniffle/releases/download/v1.9.3/sniffle_cc1352p7.hex https://github.com/nccgroup/Sniffle/releases/download/v1.9.3/sniffle_cc1352r1.hex https://github.com/nccgroup/Sniffle/releases/download/v1.9.3/sniffle_cc1354p10.hex https://github.com/nccgroup/Sniffle/releases/download/v1.9.3/sniffle_cc2651p3.hex https://github.com/nccgroup/Sniffle/releases/download/v1.9.3/sniffle_cc2652r1.hex https://github.com/nccgroup/Sniffle/releases/download/v1.9.3/sniffle_cc2652r7.hex https://github.com/nccgroup/Sniffle/releases/download/v1.9.3/sniffle_cc2652rb.hex https://github.com/nccgroup/Sniffle/releases/download/v1.9.3/sniffle_cc2652rb_1M.hex
+_eclasses_=multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	e527bb25fc6ab8bb127b889b8f62500a	python-single-r1	75118e916668a74c660a13b0ecb22562
+_md5_=75a88f8f34269ff6f739ac4ade7996d3
