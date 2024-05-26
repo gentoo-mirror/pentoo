@@ -702,7 +702,6 @@ net-analyzer/medusa 2.3_rc1: A modular, parallel, multiprotocol, network login a
 net-analyzer/metagoofil 2.2_p20221009: Information gathering tool designed for extracting metadata of public documents
 net-analyzer/metasploit 9999: Advanced framework for developing, testing, and using vulnerability exploit code
 net-analyzer/ncrack 0.7-r1: Ncrack is a high-speed network authentication cracking tool
-net-analyzer/nmap 7.94-r1 7.95: Network exploration tool and security / port scanner
 net-analyzer/nmap-vulners 1.2 1.4_beta 9999: NSE script based on Vulners.com API
 net-analyzer/ntlmrecon 0.4_beta: A tool to enumerate information from NTLM authentication enabled web endpoints
 net-analyzer/onesixtyone 0.7: An efficient SNMP scanner
