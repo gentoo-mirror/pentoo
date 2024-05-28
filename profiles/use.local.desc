@@ -142,6 +142,8 @@ dev-python/pillow:raqm - Build with complex text layout library support
 dev-python/py-pdf-parser:developer - Bring in deps needed for development
 dev-python/pyinstaller:clang - Support for sys-devel/clang
 dev-python/pyinstaller:leak-detector - Support for link with Boehm garbage collector to detect memory leaks
+dev-python/pypax:ptpax - Enable PT_PAX_FLAGS support.
+dev-python/pypax:xtpax - Enable XATTR_PAX_FLAGS support.
 dev-python/pypsrp:credssp - Add CredSSP support
 dev-python/python-libnmap:boto - Amazon Web Services support
 dev-python/python-libnmap:defusedxml - import untrusted XML scans data
