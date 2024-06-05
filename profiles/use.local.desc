@@ -149,7 +149,7 @@ dev-python/python-libnmap:boto - Amazon Web Services support
 dev-python/python-libnmap:defusedxml - import untrusted XML scans data
 dev-python/python-libnmap:mongodb - mongodb support
 dev-python/python-libnmap:sqlalchemy - sqlalchemy support
-dev-python/python-socketio:asyncio_client - Allow client to work async
+dev-python/python-socketio:asyncio-client - Allow client to work async
 dev-python/python-socketio:client - Support client
 dev-python/simplespectral:faster - Use dev-python/scipy to speed up drawing
 dev-python/simplespectral:fastest - Use dev-python/pyFFTW to speed up drawing to the max
