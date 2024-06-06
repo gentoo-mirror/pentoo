@@ -250,12 +250,14 @@ dev-python/asn1tools 0.163.0: ASN.1 parsing, encoding and decoding
 dev-python/aspectlib 1.5.2-r1: Aspect-oriented programming, monkey-patch and decorators library
 dev-python/asyauth 0.0.16 0.0.18: asyauth by skilsec
 dev-python/asyncpg 0.29.0: A fast PostgreSQL Database Client Library for Python/asyncio.
+dev-python/asynctest 0.13.0: Enhance the standard unittest package for testing asyncio libraries
 dev-python/asysocks 0.2.9 0.2.11: Socks5 / Socks4 client and server library
 dev-python/banal 1.0.1: Commons of banal micro-functions for Python.
 dev-python/beautifultable 0.8.0: Print ASCII tables for terminals
 dev-python/bidict 0.21.2 0.22.1: The bidirectional mapping library for Python.
 dev-python/biplist 1.0.3: A binary plist parser/generator for Python
 dev-python/bitstruct 8.15.1 8.17.0: conversions between Python values and C bit field structs
+dev-python/bleak 0.21.1: Bluetooth Low Energy platform Agnostic Klient
 dev-python/blinkstick 1.1.8_p20200211 9999: BlinkStick Python interface to control devices connected to the computer
 dev-python/bloodhound 1.7.2: Python based ingestor for BloodHound
 dev-python/bluepy 1.3.0-r1: Python interface to Bluetooth LE on Linux
@@ -276,6 +278,7 @@ dev-python/coreschema 0.0.4: Core Schema
 dev-python/cxxfilt 0.3.0: Python interface to c++filt / abi::__cxa_demangle
 dev-python/dataset 1.3.2 1.6.2: Easy-to-use data handling for SQL data stores
 dev-python/dbfread 2.0.7-r1: Read DBF Files with Python
+dev-python/dbus-fast 2.21.1: A faster version of dbus-next
 dev-python/deep-translator 1.11.4: A tool to translate between different languages
 dev-python/delegator 0.1.1-r1: Subprocesses for Humans 2.0
 dev-python/developer_disk_image 0.0.2: Download DeveloperDiskImage ans Personalized images from GitHub
@@ -411,12 +414,14 @@ dev-python/parsel 1.5.1: Extract data from HTML and XML using XPath and CSS sele
 dev-python/pcodedmp 1.2.6: A VBA p-code disassembler
 dev-python/pdfkit 0.6.1 1.0.0: Wkhtmltopdf python wrapper
 dev-python/peewee-async 0.9.1 0.10.0: Asynchronous interface for peewee ORM powered by asyncio.
+dev-python/pendulum 2.1.2: Python datetimes made easy.
 dev-python/pillow 10.1.0-r1 10.2.0-r1 10.3.0: Python Imaging Library (fork)
 dev-python/playsound 1.2.2: Single function module with no dependencies for playing sounds
 dev-python/playwright-bin 1.42.0: Automate Chromium, Firefox and WebKit browsers with a single API
 dev-python/promise 2.3.0: Promises/A+ implementation for Python
 dev-python/protobuf-python 4.21.12: Google's Protocol Buffers - Python bindings
 dev-python/proxy-db 0.2.5-r1: Manage free and private proxies on local db for Python Projects
+dev-python/proxy_tools 0.1.0_p1: Simple proxy (as in the GoF design pattern)
 dev-python/psd-tools 1.9.13-r1: Package for working with Adobe Photoshop PSD files
 dev-python/psycopg2cffi 2.8.1-r2: Implementation of the psycopg2 module using cffi. Compatible with Psycopg 2.5.
 dev-python/publicsuffixlist 0.7.8: publicsuffixlist implement
@@ -474,6 +479,7 @@ dev-python/pytimeparse 1.1.8: A small Python module to parse various kinds of ti
 dev-python/pytun-pmd3 1.0.0: python-pytun fork with Darwin support (IPv6-ONLY)
 dev-python/pyvnc 20220514-r1: Client library for interacting with a VNC session
 dev-python/pyvoronoi 1.0.7_p20231113 1.1.0: Cython wrapper for the Boost Voronoi library
+dev-python/pywebview 4.4.1 5.1: A lightweight cross-platform wrapper around a webview component
 dev-python/pywerview 0.6: A Python port of PowerSploit's PowerView
 dev-python/pyzipper 0.3.5: AES encryption for zipfile
 dev-python/qh3 0.12.0: An implementation of QUIC and HTTP/3
@@ -489,6 +495,7 @@ dev-python/resource 0.2.1: Resource layer of RESTful APIs.
 dev-python/ruamel-base 1.0.0: common routines for ruamel packages
 dev-python/rzpipe 0.1.2: Pipe interface for rizin
 dev-python/scipy 1.12.0: Scientific algorithms library for Python
+dev-python/screeninfo 0.8.1: Fetch location and size of physical screens.
 dev-python/secure 0.3.0: Secure headers and cookies for Python web frameworks
 dev-python/selenium-requests 1.3.1: Extends Selenium webdrv with the request function from the Requests library
 dev-python/semgrep 0.115.0 1.66.0: Lightweight static analysis for many languages
