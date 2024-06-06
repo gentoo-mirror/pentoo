@@ -432,7 +432,7 @@ dev-python/pyFFTW 0.13.1 9999: A pythonic python wrapper around FFTW
 dev-python/pyaff4 0.27: Python Advanced Forensic Format Version 4 library
 dev-python/pyasn 1.6.1-r1: Python IP address to Autonomous System Number lookup module
 dev-python/pyaxmlparser 0.3.24 0.3.26: Parser for Android XML file and get Application Name without using Androguard
-dev-python/pybluez 0.22-r1: Bluetooth Python extension module
+dev-python/pybluez 0.22-r1 0.23 0.23_p20231222: Bluetooth Python extension module
 dev-python/pycrashreport 1.2.1 1.2.2: Pure python3 for parsing Apple's crash reports
 dev-python/pycups 2.0.1-r1: Python bindings for the CUPS API
 dev-python/pydecomp 9999: A python library of common (de)compression and contents handling
