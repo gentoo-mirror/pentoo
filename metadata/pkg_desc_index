@@ -414,7 +414,7 @@ dev-python/parsel 1.5.1: Extract data from HTML and XML using XPath and CSS sele
 dev-python/pcodedmp 1.2.6: A VBA p-code disassembler
 dev-python/pdfkit 0.6.1 1.0.0: Wkhtmltopdf python wrapper
 dev-python/peewee-async 0.9.1 0.10.0: Asynchronous interface for peewee ORM powered by asyncio.
-dev-python/pendulum 2.1.2: Python datetimes made easy.
+dev-python/pendulum 2.1.2 3.0.0: Python datetimes made easy.
 dev-python/pillow 10.1.0-r1 10.2.0-r1 10.3.0: Python Imaging Library (fork)
 dev-python/playsound 1.2.2: Single function module with no dependencies for playing sounds
 dev-python/playwright-bin 1.42.0: Automate Chromium, Firefox and WebKit browsers with a single API
@@ -432,6 +432,7 @@ dev-python/pyFFTW 0.13.1 9999: A pythonic python wrapper around FFTW
 dev-python/pyaff4 0.27: Python Advanced Forensic Format Version 4 library
 dev-python/pyasn 1.6.1-r1: Python IP address to Autonomous System Number lookup module
 dev-python/pyaxmlparser 0.3.24 0.3.26: Parser for Android XML file and get Application Name without using Androguard
+dev-python/pybluez 0.22-r1: Bluetooth Python extension module
 dev-python/pycrashreport 1.2.1 1.2.2: Pure python3 for parsing Apple's crash reports
 dev-python/pycups 2.0.1-r1: Python bindings for the CUPS API
 dev-python/pydecomp 9999: A python library of common (de)compression and contents handling
@@ -903,6 +904,7 @@ sci-electronics/litepcie 20180530-r1: Small footprint and configurable PCIe core
 sci-electronics/litescope 20180531-r1: Small footprint and configurable embedded FPGA logic analyzer
 sci-electronics/litex 2022.04 20180718-r1: Information gathering tool designed for extracting metadata of public documents
 sci-electronics/migen 0.7-r1: A Python toolbox for building complex digital hardware
+sci-electronics/rd-usb 1.22.1: Web GUI for RuiDeng/Riden USB testers (UM34C, UM24C, UM25C, TC66C)
 sys-apps/fchroot 1.0.0: Funtoo's franken-chroot tool
 sys-apps/magic-pax 0.0.1: Attempt at applying pax marks effectively
 sys-devel/autofdo 0.18 0.19 9999: System to simplify real-world deployment of feedback-directed optimization

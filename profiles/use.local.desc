@@ -151,6 +151,7 @@ dev-python/python-libnmap:mongodb - mongodb support
 dev-python/python-libnmap:sqlalchemy - sqlalchemy support
 dev-python/python-socketio:asyncio-client - Allow client to work async
 dev-python/python-socketio:client - Support client
+dev-python/pywebview:pyqt5 - Use dev-python/PyQt5 as Qt for Python implementation
 dev-python/simplespectral:faster - Use dev-python/scipy to speed up drawing
 dev-python/simplespectral:fastest - Use dev-python/pyFFTW to speed up drawing to the max
 dev-python/slowapi:redis - redis, memcached and memory backends to track your limits
@@ -353,6 +354,7 @@ pentoo/zero-system:dev - Packages for doing gentoo dev work
 pentoo/zero-system:naga - Packages for my main laptop
 pentoo/zero-system:nu - Packages for the build machine
 pentoo/zero-system:printer - Packages for printing
+sci-electronics/rd-usb:webui - Enable the Web UI
 sys-devel/gcc-arm-none-eabi:python2 - Include python 2 support
 sys-kernel/pentoo-sources:experimental - Apply experimental patches; for more information, see "https://wiki.gentoo.org/wiki/Project:Kernel/Experimental".
 sys-kernel/pentoo-sources:lts - for selecting between long-time-support and standard kernel.
