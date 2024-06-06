@@ -499,7 +499,7 @@ dev-python/scipy 1.12.0: Scientific algorithms library for Python
 dev-python/screeninfo 0.8.1: Fetch location and size of physical screens.
 dev-python/secure 0.3.0: Secure headers and cookies for Python web frameworks
 dev-python/selenium-requests 1.3.1: Extends Selenium webdrv with the request function from the Requests library
-dev-python/semgrep 0.115.0 1.66.0: Lightweight static analysis for many languages
+dev-python/semgrep 1.66.0 1.75.0: Lightweight static analysis for many languages
 dev-python/shelljob 0.6.3: Run multiple subprocesses asynchronous/in parallel with streamed output
 dev-python/shodan 1.25.0 1.28.0: Python library and command-line utility for Shodan
 dev-python/simplekv 0.14.0: A key-value storage for binary data, support many backends.
@@ -659,7 +659,7 @@ dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIP
 dev-util/qark 0.9_pre20190405: A tool to look for Android application vulnerabilities
 dev-util/recaf-bin 2.19.6 2.21.13: A modern Java bytecode editor
 dev-util/reflutter 0.7.2 0.7.8: Flutter apps reverse engineering
-dev-util/semgrep-core-bin 0.77.0 0.115.0 1.66.0: Lightweight static analysis for many languages
+dev-util/semgrep-core-bin 1.66.0 1.75.0: Lightweight static analysis for many languages
 dev-util/soapui 5.7.0 5.7.2: The Swiss-Army Knife for SOAP Testing
 dev-util/sonarqube-bin 7.9.3 8.3.1.34397 8.4.1.35646 8.7.0.41497: SonarQube Community Edition is an open platform to manage code quality
 dev-util/sonarscanner-bin 4.4.0.2170: SonarQube Command-Line Scanner

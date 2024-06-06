@@ -9,4 +9,4 @@ LICENSE=LGPL-2
 SLOT=0
 SRC_URI=https://files.pythonhosted.org/packages/cp38.cp39.cp310.cp311.py37.py38.py39.py310.py311/s/semgrep/semgrep-1.66.0-cp38.cp39.cp310.cp311.py37.py38.py39.py310.py311-none-any.whl
 _eclasses_=pypi	2eecb475512bc76e5ea9192a681b9e6b
-_md5_=37ac45b5d62f724f2c8a5c2e75007272
+_md5_=ddc6ea39d8c34732dff6df61c8b6a420
