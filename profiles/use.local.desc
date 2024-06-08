@@ -355,7 +355,7 @@ pentoo/zero-system:dev - Packages for doing gentoo dev work
 pentoo/zero-system:naga - Packages for my main laptop
 pentoo/zero-system:nu - Packages for the build machine
 pentoo/zero-system:printer - Packages for printing
-sci-electronics/rd-usb:webui - Enable the Web UI
+sci-electronics/rd-usb:gui - Enable the GUI
 sys-devel/gcc-arm-none-eabi:python2 - Include python 2 support
 sys-kernel/pentoo-sources:experimental - Apply experimental patches; for more information, see "https://wiki.gentoo.org/wiki/Project:Kernel/Experimental".
 sys-kernel/pentoo-sources:lts - for selecting between long-time-support and standard kernel.

@@ -906,7 +906,7 @@ sci-electronics/litepcie 20180530-r1: Small footprint and configurable PCIe core
 sci-electronics/litescope 20180531-r1: Small footprint and configurable embedded FPGA logic analyzer
 sci-electronics/litex 2022.04 20180718-r1: Information gathering tool designed for extracting metadata of public documents
 sci-electronics/migen 0.7-r1: A Python toolbox for building complex digital hardware
-sci-electronics/rd-usb 1.22.1: Web GUI for RuiDeng/Riden USB testers (UM34C, UM24C, UM25C, TC66C)
+sci-electronics/rd-usb 1.22.4: Web GUI for RuiDeng/Riden USB testers (UM34C, UM24C, UM25C, TC66C)
 sys-apps/fchroot 1.0.0: Funtoo's franken-chroot tool
 sys-apps/magic-pax 0.0.1: Attempt at applying pax marks effectively
 sys-devel/autofdo 0.18 0.19 9999: System to simplify real-world deployment of feedback-directed optimization
