@@ -755,7 +755,6 @@ net-analyzer/wpscan 3.8.24 3.8.25: Wordpress security scanner
 net-analyzer/xsstrike 3.1.5 9999: Advanced XSS detection suite
 net-dialup/freeradius 3.2.3: Highly configurable free RADIUS server
 net-dialup/minimodem 0.24: General-purpose software audio FSK modem.
-net-fs/cifs-utils 7.0-r1: Tools for Managing Linux CIFS Client Filesystems
 net-im/jitsi 2.11.5633: Secure IM communicator that supports SIP, XMPP, AIM/ICQ, Windows Live, Yahoo
 net-im/jitsi-videobridge 1132: https://github.com/jitsi/jitsi-videobridge
 net-libs/libosmocore 1.6.0_p20220508-r1: Utility functions for OsmocomBB, OpenBSC and related projects
@@ -918,9 +917,6 @@ sys-kernel/pentoo-lts-sources 2: Pentoo kernel sources (kernel series .)
 sys-kernel/pentoo-sources 6.6.23: Pentoo kernel sources (kernel series 6.6)
 sys-kernel/pf_ring-kmod 7.8.0_p20210421: High-speed packet processing framework (kernel modules for)
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
-sys-libs/talloc 2.4.1: Samba talloc library
-sys-libs/tdb 1.4.9: Simple database API
-sys-libs/tevent 0.15.0: Samba tevent library
 virtual/libyal-tools 0: Virtual for all command line forensics tools provided by libyal
 virtual/linux-sources 3-r108: Virtual for Linux kernel sources
 virtual/secret-service 0-r1: Virtual for a freedesktop.org Secret Service API provider
