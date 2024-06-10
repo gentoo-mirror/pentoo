@@ -423,7 +423,6 @@ dev-python/protobuf-python 4.21.12: Google's Protocol Buffers - Python bindings
 dev-python/proxy-db 0.2.5-r1: Manage free and private proxies on local db for Python Projects
 dev-python/proxy_tools 0.1.0_p1: Simple proxy (as in the GoF design pattern)
 dev-python/psd-tools 1.9.13-r1: Package for working with Adobe Photoshop PSD files
-dev-python/psycopg2cffi 2.9.0: Implementation of the psycopg2 module using cffi. Compatible with Psycopg 2.5.
 dev-python/publicsuffixlist 0.7.8: publicsuffixlist implement
 dev-python/py-pdf-parser 0.12.0: A tool to help extracting information from structured PDFs.
 dev-python/py2neo 3.1.2 4.3.0-r1: A simple and pragmatic library which accesses the Neo4j graph database
