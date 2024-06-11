@@ -169,7 +169,6 @@ dev-util/recaf-bin:system-openjfx - Add OpenJFX support
 dev-util/sonarscanner-bin:embedded_jre - Install embedded JRE
 media-gfx/fontforge:truetype-debugger - Enable truetype debugger in fontforge
 media-gfx/fontforge:woff2 - Enable support for WOFF2 format
-media-radio/chirp:radioreference - pull in optional deps for query of radioreference
 media-sound/deinvert:liquid - improve sound quality using net-libs/liquid-dsp
 media-sound/deinvert:wav - wav file support using media-libs/libsndfile
 net-analyzer/enum4linux:polenum - Attempt to enumerate policies using polenum
