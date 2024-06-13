@@ -690,7 +690,6 @@ net-analyzer/enum4linux 0.9.1: A tool for enumerating information from Windows a
 net-analyzer/evilgrade 2.0.9: A modular framework that takes advantage of poor upgrade implementations by injecting fake updates.
 net-analyzer/ffuf 1.5.0 2.0.0: Fast web fuzzer / directory brute force
 net-analyzer/fierce 1.4.0-r1 1.5.0 9999: A DNS reconnaissance tool for locating non-contiguous IP space
-net-analyzer/findomain 2.1.5 5.0.0: The fastest and cross-platform subdomain enumerator, don't waste your time
 net-analyzer/ftw 1.3.0: Framework for Testing WAFs
 net-analyzer/geoipgen 0.4: Generate a list of hostnames based on country
 net-analyzer/gobuster 3.0.1-r4 3.5.0: A tool to brute-force URIs and DNS subdomains
@@ -726,7 +725,6 @@ net-analyzer/serialusb 0.7: A cheap USB proxy for input devices
 net-analyzer/set 8.0.3-r1: A social engineering framework
 net-analyzer/sitadel 1.0.0_p20190828 1.0.1_p20231129: Web application security scanner
 net-analyzer/smbmap 1.10.2: SMBMap is a handy SMB enumeration tool
-net-analyzer/sn0int 0.18.2 0.19.1 0.24.2: Semi-automatic OSINT framework and package manager
 net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
 net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
 net-analyzer/sslyze 5.2.0 6.0.0: Fast and full-featured SSL scanner
@@ -765,8 +763,8 @@ net-misc/httprobe 0.2: Take a list of domains and probe for working HTTP and HTT
 net-misc/linkfinder 20191124: A python script that finds endpoints in JavaScript files
 net-misc/munin 0.20.0: Online hash checker for Virustotal and other services
 net-misc/pwnedornot 1.2.8_p20200602: OSINT Tool for Finding Passwords of Compromised Email Addresses Topics
-net-misc/seafile 9.0.4 9.0.5: File syncing and sharing software with file encryption and group sharing
-net-misc/seafile-client 9.0.4 9.0.5: Seafile desktop client
+net-misc/seafile 9.0.4 9.0.5 9.0.6: File syncing and sharing software with file encryption and group sharing
+net-misc/seafile-client 9.0.4 9.0.5 9.0.6: Seafile desktop client
 net-misc/sippts 3.4: set of tools to audit VoIP servers and devices using SIP protocol
 net-misc/t50 5.8.5 5.8.7: Mixed Packet Injector & Network Stress Testing Tool
 net-misc/voipong 2.0_p20111230: detect all VoIP calls on a pipeline and dump actual conversation
