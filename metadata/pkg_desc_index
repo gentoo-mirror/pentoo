@@ -769,7 +769,7 @@ net-print/hplip 3.23.12-r1: HP Linux Imaging and Printing - Print, scan, fax dri
 net-proxy/burpsuite 2024.4.5 9999: Interactive proxy for attacking and debugging web applications
 net-proxy/burpsuite-pro 2023.1.1_rc 2024.3.1.4 2024.4.5: Interactive proxy for attacking and debugging web applications
 net-proxy/insomnia-bin 9.0.0 9.1.1: REST API client, a postman alternative
-net-proxy/shadowsocks-rust 1.15.3 1.17.1: Shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
+net-proxy/shadowsocks-rust 1.17.1 1.20.0: Shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
 net-proxy/sshttp 0.35_p2-r1 0.35_p20191108: An easy to use OSI-Layer5 switching daemon
 net-proxy/zaproxy 2.14.0 2.15.0: The OWASP Zed Attack Proxy for finding vulnerabilities in web applications
 net-vpn/kcptun 20200409 20200701: A Stable & Secure Tunnel Based On KCP with N:M Multiplexing
