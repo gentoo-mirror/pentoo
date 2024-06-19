@@ -59,7 +59,7 @@ app-forensics/libbfio 20240414: Library for providing a basic file input/output 
 app-forensics/libesedb 20210424 20220806: Library and tools to access the Extensible Storage Engine Database File format.
 app-forensics/libevt 20210424 20221022: Library and tools to access the Windows Event Log (EVT) format
 app-forensics/libevtx 20220724 20221101: Library and tools to access the Windows XML Event Log (EVTX) format
-app-forensics/libewf 20201230 20230212: Libewf is a library to access the Expert Witness Compression Format (EWF)
+app-forensics/libewf 20240506: Libewf is a library to access the Expert Witness Compression Format (EWF)
 app-forensics/libexe 20210424 20221023: Library and tools to access the executable (EXE) format
 app-forensics/libforensic1394 0.2-r1 9999: Library for carrying out memory forensics using firewire/ieee1394
 app-forensics/libfsapfs 20220709 20221102: Library and tools to access the Apple File System (APFS)
@@ -76,7 +76,7 @@ app-forensics/libmodi 20210807 20221023: Library and tools to access the Mac OS 
 app-forensics/libmsiecf 20210420 20221024: Library and tools to access the Microsoft Internet Explorer (MSIE) Cache Files
 app-forensics/libnk2 20161118 20170127: Library and tools to access the Microsoft Outlook Nickfile (NK2) format
 app-forensics/libnsfdb 20160324 20170128: Library and tools to access the Notes Storage Facility (NSF) file format
-app-forensics/libodraw 20190118 20201003: Library and tools to access to optical disc (split) RAW image files
+app-forensics/libodraw 20240505: Library and tools to access to optical disc (split) RAW image files
 app-forensics/libolecf 20210512 20221024: Library and tools to access the OLE 2 Compound File (OLECF) format
 app-forensics/libpff 20180714 20211114: Library and tools to access the Personal/Offline Folder File (PFF/OFF) format
 app-forensics/libphdi 20220301 20221025: Library and tools to access the Parallels Hard Disk image format
@@ -188,7 +188,7 @@ dev-libs/libfplist 20210404 20220116: Library for plist format
 dev-libs/libftxf 20180815 20220116: Library for Transactional NTFS (TxF) data types
 dev-libs/libftxr 20180815 20220118: Library for Transactional Registry (TxR) data types
 dev-libs/libfusn 20240416: Library for Update Sequence Number (USN) Journal data types
-dev-libs/libfvalue 20201124 20220120: Library for generic file value functions
+dev-libs/libfvalue 20240415: Library for generic file value functions
 dev-libs/libfwevt 20220723 20220925: Library for Windows XML Event Log (EVTX) data types
 dev-libs/libfwnt 20240126: Library for Windows NT data types
 dev-libs/libfwps 20191221 20220122: Library for Windows Property Store data types
@@ -200,7 +200,7 @@ dev-libs/libsmdev 20240309: Library to access to storage media devices
 dev-libs/libuna 20240130: Library to support Unicode and ASCII (byte string) conversions
 dev-libs/libvhdi 20221124: Library and tools to access the Virtual Hard Disk (VHD) image format
 dev-libs/libvmdk 20210807 20221022: Library and tools to access the VMware Virtual Disk (VMDK) format
-dev-libs/libwrc 20220720 20221009: Library to access the Windows Resource Compiler (WRC) format
+dev-libs/libwrc 20240421: Library to access the Windows Resource Compiler (WRC) format
 dev-libs/memprocfs 5.0 5.8: The Memory Process File System
 dev-libs/nanopb 0.4.7 0.4.8: plain-C Protocol Buffers for embedded/memory-constrained systems
 dev-libs/openssl-bad 1.0.2_p20220901-r1: Snapshot for testssl.sh >2.8 from PM's fork, ready to compile
