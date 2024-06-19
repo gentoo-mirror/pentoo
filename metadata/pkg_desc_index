@@ -55,7 +55,7 @@ app-forensics/inception 0.4.2: Firewire physical memory manipulation tool exploi
 app-forensics/kjackal 99999999: Linux Rootkit Scanner
 app-forensics/lazagne 2.4.3-r1 9999: Credentials recovery project
 app-forensics/libbde 20220807 20221031: Library and tools to access BitLocker Drive Encryption (BDE) encrypted volumes
-app-forensics/libbfio 20220120 20221025: Library for providing a basic file input/output abstraction layer
+app-forensics/libbfio 20240414: Library for providing a basic file input/output abstraction layer
 app-forensics/libesedb 20210424 20220806: Library and tools to access the Extensible Storage Engine Database File format.
 app-forensics/libevt 20210424 20221022: Library and tools to access the Windows Event Log (EVT) format
 app-forensics/libevtx 20220724 20221101: Library and tools to access the Windows XML Event Log (EVTX) format
@@ -67,7 +67,7 @@ app-forensics/libfsclfs 20170206: Library and tools to access the Common Log Fil
 app-forensics/libfsext 20220822 20220829: Library and tools to access the Extended File System
 app-forensics/libfsfat 20220816 20220925: Library and tools to access the File Allocation Table (FAT) file system
 app-forensics/libfshfs 20220709 20220831: Library and tools to access the Mac OS Hierarchical File System (HFS)
-app-forensics/libfsntfs 20220220 20221023: Library and tools to access the Windows New Technology File System (NTFS)
+app-forensics/libfsntfs 20240501: Library and tools to access the Windows New Technology File System (NTFS)
 app-forensics/libfsxfs 20220706 20220829: Library and tools to access the SGI X File System (XFS)
 app-forensics/libfvde 20220807 20220915: Library and tools to access FileVault Drive Encryption (FVDE) encrypted volumes
 app-forensics/liblnk 20210417 20221023: Library and tools to access the Windows Shortcut File (LNK) format
@@ -165,29 +165,29 @@ dev-libs/libcaes 20240114: Library to support cross-platform AES encryption
 dev-libs/libcdata 20240103: Library for cross-platform C generic data functions
 dev-libs/libcdatetime 20240104: Library for cross-platform C date and time functions
 dev-libs/libcdirectory 20200702 20220105: Library for cross-platform C directory functions
-dev-libs/libcerror 20220101: Library for cross-platform C error functions
-dev-libs/libcfile 20201229 20220106-r1: Library for cross-platform C file functions
+dev-libs/libcerror 20220101 20240413: Library for cross-platform C error functions
+dev-libs/libcfile 20240414: Library for cross-platform C file functions
 dev-libs/libclocale 20240107: Library for cross-platform C locale functions
-dev-libs/libcnotify 20200913 20220108: Library for cross-platform C notification functions
-dev-libs/libcpath 20220108: Library for cross-platform C path functions
+dev-libs/libcnotify 20240414: Library for cross-platform C notification functions
+dev-libs/libcpath 20220108 20240414: Library for cross-platform C path functions
 dev-libs/libcreg 20210625 20221022: Library and tools to access the Windows 9x/Me Registry File (CREG) format
-dev-libs/libcsplit 20200703 20220109: Library for cross-platform C split string functions
+dev-libs/libcsplit 20240414: Library for cross-platform C split string functions
 dev-libs/libcstring 20150101: Library for cross-platform C string functions
 dev-libs/libcsystem 20150629: Library for cross-platform C locale functions
-dev-libs/libcthreads 20211115 20220102: Library for cross-platform C threads functions
+dev-libs/libcthreads 20240413: Library for cross-platform C threads functions
 dev-libs/libdwarf 0.4.1: The DWARF Debugging Information Format
 dev-libs/libfcache 20240112: Library for cross-platform C cache functions
 dev-libs/libfcrypto 20191231 20200104: Library for encryption formats
 dev-libs/libfdata 20240114: Library for cross-platform C file data functions
-dev-libs/libfdatetime 20180910 20220112: Library for date and time formats
-dev-libs/libfguid 20220113: Library for GUID/UUID format
+dev-libs/libfdatetime 20240415: Library for date and time formats
+dev-libs/libfguid 20240415: Library for GUID/UUID format
 dev-libs/libfmapi 20180714 20220114: Library for MAPI data types
 dev-libs/libfmos 20220811: Library for Mac OS data types
 dev-libs/libfole 20170502 20220115: Library for Object Linking and Embedding (OLE) data types
 dev-libs/libfplist 20210404 20220116: Library for plist format
 dev-libs/libftxf 20180815 20220116: Library for Transactional NTFS (TxF) data types
 dev-libs/libftxr 20180815 20220118: Library for Transactional Registry (TxR) data types
-dev-libs/libfusn 20180726 20220119: Library for Update Sequence Number (USN) Journal data types
+dev-libs/libfusn 20240416: Library for Update Sequence Number (USN) Journal data types
 dev-libs/libfvalue 20201124 20220120: Library for generic file value functions
 dev-libs/libfwevt 20220723 20220925: Library for Windows XML Event Log (EVTX) data types
 dev-libs/libfwnt 20240126: Library for Windows NT data types
