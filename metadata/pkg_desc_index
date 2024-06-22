@@ -749,6 +749,7 @@ net-libs/libosmocore 1.6.0_p20220508-r1: Utility functions for OsmocomBB, OpenBS
 net-libs/libpfring 8.0.0 8.4.0: A new type of network socket that improves packet capture speed.
 net-libs/libsearpc 3.3.0-r2: Simple C language RPC framework
 net-libs/libtins 4.3: High-level, multiplatform C++ network packet sniffing and crafting library.
+net-libs/nodejs 20.12.2: A JavaScript runtime built on Chrome's V8 JavaScript engine
 net-mail/davmail-bin 6.0.1.3390: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
 net-mail/email2phonenumber 20190916-r1 99999999: A OSINT tool to obtain a target's phone number just by having his email address
 net-mail/fakepop 11: fake pop3 server which returns the same messages to all users
