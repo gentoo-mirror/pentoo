@@ -913,6 +913,6 @@ www-apps/BloodHound 4.3.0 4.3.1: Six Degrees of Domain Admin
 www-apps/Tiredful-API 9999: An intentionally designed broken web application based on REST API
 www-apps/beef 0.5.4.0: Browser exploitation framework
 www-apps/rda 3.3: Web-based application for effective reporting writing
-www-apps/seafile-pro-server 10.0.15 11.0.7: Meta package for Seafile Pro Edition, file sync share solution
+www-apps/seafile-pro-server 10.0.15 11.0.8: Meta package for Seafile Pro Edition, file sync share solution
 www-plugins/hackplugins-meta 20231006: Collection of browser's plugins for application security testing
 x11-libs/qwt-multiaxes 9999: 2D plotting library for Qt5
