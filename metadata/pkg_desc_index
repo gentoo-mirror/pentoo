@@ -473,6 +473,7 @@ dev-python/python-whois 0.7.2 0.7.3: Whois querying and parsing of domain regist
 dev-python/python3-openid 3.1.0: Python 3 port of the python-openid library
 dev-python/pytimeparse 1.1.8: A small Python module to parse various kinds of time expressions
 dev-python/pytun-pmd3 1.0.0: python-pytun fork with Darwin support (IPv6-ONLY)
+dev-python/pytzdata 2020.1-r2: The Olson timezone database for Python
 dev-python/pyvnc 20220514-r1: Client library for interacting with a VNC session
 dev-python/pyvoronoi 1.0.7_p20231113 1.1.0: Cython wrapper for the Boost Voronoi library
 dev-python/pywebview 4.4.1 5.1: A lightweight cross-platform wrapper around a webview component
