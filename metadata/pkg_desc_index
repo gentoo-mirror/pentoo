@@ -521,7 +521,7 @@ dev-python/stone 3.3.1: The Official Api Spec Language for Dropbox
 dev-python/svgutils 0.3.4: utility package that helps to edit and concatenate SVG files
 dev-python/syslog-rfc5424-formatter 1.2.2: Logging formatter which produces well-formatted RFC5424 Syslog Protocol messages
 dev-python/tk 0.1.0: TensorKit is a deep learning helper between Python and C++
-dev-python/tls_parser 2.0.0 2.0.1: Small library to parse TLS records.
+dev-python/tls_parser 2.0.1: Small library to parse TLS records.
 dev-python/torrequest 20181011-r2: Simple Python interface for HTTP(s) requests over Tor
 dev-python/truffleHogRegexes 20190518-r1: These are the regexes that power trufflehog
 dev-python/tweepy 3.9.0: A Python library for accessing the Twitter API
