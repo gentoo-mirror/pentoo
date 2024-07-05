@@ -629,7 +629,6 @@ dev-util/android-sdk-build-tools 30.0.3 31 33 34: Android SDK Build Tools
 dev-util/apkInspector 1.2.0 1.2.1: A tool designed to provide detailed insights into the zip structure of APK files
 dev-util/apktool 2.9.2 2.9.3: A tool for reengineering 3rd party, closed, binary Android apps
 dev-util/appmon 0.5_p20201013: Monitoring and tampering API calls of MacOS and iOS/Android apps
-dev-util/catalyst 9999: Release metatool used for creating releases based on Gentoo Linux
 dev-util/chipsec 1.10.4: Platform Security Assessment Framework
 dev-util/dependency-check-bin 5.3.2 6.2.2: A utility that detects vulnerabilities in application dependencies
 dev-util/dex2jar 2.3 2.4: Tools to work with android .dex and java .class files
@@ -886,7 +885,7 @@ pentoo/pentoo-system 2024.1: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2023.0: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2023.2: Pentoo wireless meta ebuild
 pentoo/rfctf-client 2024.0: Packages needed to power the client and SDR devices for RFCTF events
-pentoo/zero-system 2024.1-r1: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
+pentoo/zero-system 2024.2: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
 sci-electronics/litedram 20180514: Small footprint and configurable DRAM core
 sci-electronics/liteeth 20180719: Small footprint and configurable Ethernet core
 sci-electronics/litepcie 20180530-r1: Small footprint and configurable PCIe core
