@@ -1,0 +1,17 @@
+BDEPEND=python_targets_python3_10? ( dev-lang/python:3.10 ) python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 ) >=dev-python/gpep517-15[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] >=dev-python/setuptools-69.0.3[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] >=dev-lang/go-1.20:= app-arch/unzip virtual/pkgconfig
+DEFINED_PHASES=compile configure install postinst prepare setup test unpack
+DEPEND=>=dev-lang/go-1.19 net-libs/libnetfilter_queue dev-go/go-protobuf dev-go/protoc-gen-go-grpc
+DESCRIPTION=Desktop application firewall
+EAPI=8
+HOMEPAGE=https://github.com/evilsocket/opensnitch
+INHERIT=distutils-r1 go-module linux-info systemd xdg-utils
+IUSE=+audit bpf +iptables +nftables systemd python_targets_python3_10 python_targets_python3_11 python_targets_python3_12
+KEYWORDS=~amd64
+LICENSE=GPL-3
+RDEPEND=dev-python/grpcio-tools[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] dev-python/notify2[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] dev-python/python-slugify[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] dev-python/pyinotify[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] dev-python/PyQt5[network,sql,python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] bpf? ( ~app-admin/opensnitch-ebpf-module-1.6.6 ) python_targets_python3_10? ( dev-lang/python:3.10 ) python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 )
+REQUIRED_USE=|| ( iptables nftables ) || ( python_targets_python3_10 python_targets_python3_11 python_targets_python3_12 )
+RESTRICT=test strip
+SLOT=0
+SRC_URI=https://github.com/evilsocket/opensnitch/archive/refs/tags/v1.6.6.tar.gz -> opensnitch-1.6.6.gh.tar.gz https://github.com/kcning/opensnitch/archive/refs/tags/1.6.6.tar.gz -> opensnitch-1.6.6-deps.tar.gz
+_eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	e503ea5acc20410237ba33ec3f7c857d	out-of-source-utils	1a9007554652a6e627edbccb3c25a439	multibuild	d67e78a235f541871c7dfe4cf7931489	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	python-utils-r1	8b220bbce5c119fb1d4d5c2f5588f3ea	python-r1	428f5c53276c2adc06a89108fc2f9f46	distutils-r1	f11e1bc907da246e941fbae648327823	go-env	dbefaac6fd7019213514bccd65949d9a	go-module	83fd3ed1657cfc316c93d6a37018290d	linux-info	ea4122ba1d8791a12b78e53f9510a2e3	systemd	c8b03e8df84486aa991d4396686e8942	xdg-utils	baea6080dd821f5562d715887954c9d3
+_md5_=b5b1ab50d5e212ed73069a80394c431a

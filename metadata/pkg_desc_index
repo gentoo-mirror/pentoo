@@ -4,8 +4,8 @@ acct-group/sonar 0: Group for SonarQube
 acct-user/davmail 0: User for Davmail
 acct-user/sonar 0: User for SonarQube
 app-admin/genmenu 0.0_p20230623 9999: a tool for generating freedesktop-compliant menus
-app-admin/opensnitch 1.6.5.1: Desktop application firewall
-app-admin/opensnitch-ebpf-module 1.6.5.1: eBPF process monitor module for opensnitch
+app-admin/opensnitch 1.6.5.1 1.6.6: Desktop application firewall
+app-admin/opensnitch-ebpf-module 1.6.5.1 1.6.6: eBPF process monitor module for opensnitch
 app-admin/system-config-printer 1.5.18-r1: Graphical user interface for CUPS administration
 app-antivirus/malheur 0.5.4-r1: Malware analysis tool
 app-antivirus/veil 3.1.14-r2: A tool for payloads generation that bypass common anti-virus solutions
