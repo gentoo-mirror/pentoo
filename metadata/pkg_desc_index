@@ -270,7 +270,6 @@ dev-python/cherrypy-cors 1.6: CORS handling as a cherrypy tool.
 dev-python/click-option-group 0.5.3: Option groups missing in Click
 dev-python/cmake-converter 2.0.1: CMake converter for Visual Studio projects
 dev-python/codegen 1.0: Extension to ast that allow ast -> python code generation
-dev-python/colored-traceback 0.3.0: Automatically color Python's uncaught exception tracebacks
 dev-python/config 0.4.2: A hierarchical, easy-to-use, powerful configuration module for Python
 dev-python/coreapi 2.3.3: Python client library for Core API
 dev-python/coreschema 0.0.4: Core Schema
