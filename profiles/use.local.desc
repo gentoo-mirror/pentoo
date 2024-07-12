@@ -145,10 +145,6 @@ dev-python/pyinstaller:leak-detector - Support for link with Boehm garbage colle
 dev-python/pypax:ptpax - Enable PT_PAX_FLAGS support.
 dev-python/pypax:xtpax - Enable XATTR_PAX_FLAGS support.
 dev-python/pypsrp:credssp - Add CredSSP support
-dev-python/python-libnmap:boto - Amazon Web Services support
-dev-python/python-libnmap:defusedxml - import untrusted XML scans data
-dev-python/python-libnmap:mongodb - mongodb support
-dev-python/python-libnmap:sqlalchemy - sqlalchemy support
 dev-python/python-socketio:asyncio-client - Allow client to work async
 dev-python/python-socketio:client - Support client
 dev-python/pywebview:pyqt5 - Use dev-python/PyQt5 as Qt for Python implementation

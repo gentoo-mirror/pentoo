@@ -30,7 +30,6 @@ app-editors/rehex 0.61.0 0.61.1: Reverse Engineers' Hex Editor
 app-eselect/eselect-metasploit 0.20: eselect module for metasploit
 app-exploits/deathstar 20201217-r1 20210519: A tool to gain Domain Admin rights with a push of a button
 app-exploits/empire 5.9.4 5.9.5: A post-exploitation framework
-app-exploits/enumdb 2.1.0: Database brute force and post exploitation tool
 app-exploits/exploitdb 20231222 99999999: All exploits from exploit-db.com
 app-exploits/exploitdb-papers 20221122 99999999: Exploit database's papers
 app-exploits/getsploit 0.3.3_p20190530 9999: Command line utility for searching and downloading exploits
@@ -409,7 +408,6 @@ dev-python/parameter-decorators 0.0.2: Handy decorators for converting parameter
 dev-python/parse 1.14.0 1.19.0: parse() is the opposite of format()
 dev-python/parsel 1.5.1: Extract data from HTML and XML using XPath and CSS selectors
 dev-python/pcodedmp 1.2.6: A VBA p-code disassembler
-dev-python/pdfkit 0.6.1 1.0.0: Wkhtmltopdf python wrapper
 dev-python/peewee-async 0.9.1 0.10.0: Asynchronous interface for peewee ORM powered by asyncio.
 dev-python/pendulum 2.1.2 3.0.0: Python datetimes made easy.
 dev-python/pillow 10.1.0-r1 10.2.0-r1 10.3.0: Python Imaging Library (fork)
@@ -462,7 +460,6 @@ dev-python/python-cas-haiwen 20180411: Python CAS client library
 dev-python/python-crontab 20191023: Crontab module for accessing system crontabs
 dev-python/python-docx 0.8.10: Create and modify Word documents with Python
 dev-python/python-iptools 0.7.0: A package is a collection of utilities for dealing with IP addresses
-dev-python/python-libnmap 0.7.3: A python library enabling python developers to manipulate nmap process and data
 dev-python/python-nmap 0.6.1 0.6.4: a python library which helps in using nmap port scanner
 dev-python/python-oauth2 1.1.1-r1: OAuth 2.0 provider for python
 dev-python/python-obfuscator 0.0.2: made good code to make bad code
@@ -505,7 +502,6 @@ dev-python/social-auth-core 3.3.3: Python social authentication made simple
 dev-python/soupsieve 1.9.3-r1: A modern CSS selector implementation for BeautifulSoup
 dev-python/splinter 0.13.0: tool for testing web applications
 dev-python/spry 0.5.5-r1: social media scanner
-dev-python/spyse-python 2.2.3: Python wrapper for spyse.com
 dev-python/sqlalchemy 1.4.50 1.4.51: Python SQL toolkit and Object Relational Mapper
 dev-python/sqlalchemy_mixins 1.2.1: Active Record, Django-like queries
 dev-python/sqlalchemy_schemadisplay 1.3: Turn SQLAlchemy DB Model into a graph
@@ -576,11 +572,7 @@ dev-ruby/irb 1.2.7 1.2.9: Interactive Ruby command-line tool for REPL
 dev-ruby/jsonapi-renderer 0.2.2: Efficiently render JSON API documents.
 dev-ruby/louis 2.3.1 2.3.2: Lookup mac address assignments in the iana database
 dev-ruby/memory_profiler 0.9.14 1.0.0: Memory profiling routines for Ruby 2.1+
-dev-ruby/metasploit-concern 4.0.3: Metasploit concern allows you to define concerns in app/concerns.
-dev-ruby/metasploit-credential 5.0.5: Code for modeling and managing credentials in Metasploit
-dev-ruby/metasploit-model 4.0.3: Common code, such as validators and mixins
 dev-ruby/metasploit-payloads 2.0.45 2.0.47: Compiled binaries for Metasploit's Meterpreter
-dev-ruby/metasploit_data_models 5.0.4: The database layer for Metasploit
 dev-ruby/metasploit_payloads-mettle 1.0.17: Compiled binaries for Metasploit's next-gen Meterpreter
 dev-ruby/mini_exiftool 2.10.0: wrapper for exiftool
 dev-ruby/msfrpc-client 1.1.2: Ruby client API to access the Rapid7 Metasploit Pro RPC service
@@ -613,7 +605,6 @@ dev-ruby/rex-sslscan 0.1.5 0.1.6: ruby implmenetation of the SSLScan tool
 dev-ruby/rex-struct2 0.1.1 0.1.2 0.1.3: Ruby Exploitation(Rex) library for generating/manipulating C-Style structs
 dev-ruby/rex-text 0.2.28 0.2.29 0.2.34: Rex library for text generation and manipulation
 dev-ruby/rex-zip 0.1.3 0.1.4: Ruby Exploitation(Rex) library for working with zip and related files
-dev-ruby/ruby-gtkhex 0.2.0: A hexadecimal widget using gtk2, inspired by GHex
 dev-ruby/sablon 0.3.2 0.4.0: Document template processor of Microsoft XML format (docx)
 dev-ruby/sass-rails 6.0.0: Official Ruby-on-Rails Integration with Sass
 dev-ruby/similar_text 0.0.4: Calculate the similarity between two strings
@@ -646,7 +637,7 @@ dev-util/jnitrace-engine 20230402: Engine used by jnitrace to intercept JNI API 
 dev-util/kaleido-bin 0.2.1: Static image export for web-based visualization libraries
 dev-util/lief 0.14.0-r1 0.14.1: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
-dev-util/mobsf 3.7.6 3.9.7: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
+dev-util/mobsf 3.9.7: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
 dev-util/objection 1.10.2 1.11.0-r2: Runtime mobile exploration
 dev-util/pentoo-udev-rules 0.0.1: udev rules to assist in some way with hardware commonly used in pentoo
 dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIPS
@@ -662,14 +653,12 @@ dev-vcs/gitleaks 8.18.0: Audit git repos for secrets
 dev-vcs/trufflehog 2.1.11_p20200220: Searches through git repositories for high entropy strings and secrets
 media-fonts/zed-mono 1.2.0: The Zed Mono typeface, custom built from Iosevka
 media-gfx/fontforge 20230101: postscript font editor and converter
-media-gfx/wkhtmltopdf 0.12.6: Convert html to pdf (and various image formats) using webkit
 media-libs/libraqm 0.10.0 0.10.1: A library for complex text layout
 media-libs/mbelib 1.3.0-r1 9999: P25 Phase 1 and ProVoice vocoder
 media-radio/icad-tone-detection 1.3: library for extracting scanner radio tones from scanner audio
 media-radio/rdio-scanner-bin 6.6.3: Software police-like scanner with its own touch
 media-sound/deinvert 9999: A voice inversion descrambler
 net-analyzer/GyoiThon 9999: GyoiThon is a growing penetration test tool using Machine Learning
-net-analyzer/NetExec 1.1.0: A swiss army knife for pentesting Windows/Active Directory environments
 net-analyzer/amass 4.2.0: Subdomain OSINT Enumeration
 net-analyzer/bettercap 2.31.1 2.32.0: A complete, modular, portable and easily extensible MITM framework
 net-analyzer/bonesi 0.3.1 9999: BoNeSi - the DDoS botnet simulator
@@ -681,7 +670,6 @@ net-analyzer/davtest 1.2_p20230307: tests WebDAV enabled servers
 net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden content
 net-analyzer/dirhunt 0.6.0-r2 0.7.0-r1: Dirhunt is a web crawler optimized for searching and analyzing web directories.
 net-analyzer/dnsrecon 1.1.5 1.2.0: DNS Enumeration Script
-net-analyzer/droopescan 1.41.3-r2: A scanner that helps identifying issues in Drupal, SilverStripe, and Wordpress
 net-analyzer/enum4linux 0.9.1: A tool for enumerating information from Windows and Samba systems
 net-analyzer/evilgrade 2.0.9: A modular framework that takes advantage of poor upgrade implementations by injecting fake updates.
 net-analyzer/ffuf 1.5.0 2.0.0: Fast web fuzzer / directory brute force
@@ -696,7 +684,6 @@ net-analyzer/ifchk 1.1.1 1.1.2: A network interface promiscuous mode detection t
 net-analyzer/ike-scan 1.9.4_p20201223 1.9.5: A utility for finding, fingerprinting and testing IKE VPN servers
 net-analyzer/kismet-analyzer 0.3.0: Library for parsing kismet results from the .kismet database file
 net-analyzer/maketh 0.2.0: Ethernet packet injector and creator
-net-analyzer/maryam 2.2.6-r1 2.5.0-r1: OWASP Maryam is a modular open source OSINT and data gathering framework
 net-analyzer/masscan 1.3.2: Mass IP port scanner
 net-analyzer/massdns 1.1.0 9999: A high-performance DNS stub resolver for bulk lookups and reconnaissance
 net-analyzer/medusa 2.3_rc1: A modular, parallel, multiprotocol, network login auditor
@@ -712,7 +699,6 @@ net-analyzer/polenum 1.6.1: Extract password policy from a windows machine
 net-analyzer/ppscan 0.3-r1: Port scanner with HTTP and FTP tunneling support
 net-analyzer/pwncat 0.1.2-r1: Netcat with IDS/IPS evasion, bind reverse shell and port forwarding magic
 net-analyzer/rdp-sec-check 20181109: Remote Desktop Protocol security settings checker
-net-analyzer/recon-ng 5.1.1 5.1.2 9999: Web Reconnaissance Framework
 net-analyzer/responder 3.1.2.0 3.1.3.0 3.1.4.0: LLMNR, NBT-NS and MDNS poisoner, HTTP/SMB/MSSQL/FTP/LDAP rogue authentication
 net-analyzer/ruler 2.4.1: A tool to abuse Exchange services
 net-analyzer/s3scanner 3.0.1: Scan for open AWS S3 buckets and dump the contents
@@ -801,7 +787,6 @@ net-wireless/gps-sdr-sim 9999: GPS Spoofing tool for transmit capable SDR's like
 net-wireless/gr-dsd 9999: GNU Radio block for Digital Speech Decoder
 net-wireless/gr-gsm 20210505-r1: Set of tools for receiving information transmitted by GSM equipment/devices
 net-wireless/gr-ham 20240130: collection of GNU Radio blocks useful for amateur radio
-net-wireless/gr-m2k 9999: A C++ library for interfacing with the ADALM2000
 net-wireless/gr-mixalot 0.0_p20230121 9999: a set of GNU Radio blocks/utilities to encode pager messages
 net-wireless/gr-sdrplay3 9999 20230421-r1: GNU Radio OOT module for SDRplay RSP devices - SRDPlay API v3
 net-wireless/hackrf-firmware 9999: Hardware designs and software for HackRF
