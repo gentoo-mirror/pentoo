@@ -132,8 +132,6 @@ dev-python/aiogram:redis - install local server
 dev-python/deep-translator:docx - Add support for parsing docx files
 dev-python/deep-translator:openai - Add openai support
 dev-python/deep-translator:pypdf - Add support for parsing pdf files
-dev-python/django-constance-haiwen:database - Add django-picklefield support
-dev-python/django-constance-haiwen:redis - Add django-redis support
 dev-python/fastapi:all - Enable optional dependencies
 dev-python/nvidia-apex:cuda - Add support for CUDA processing
 dev-python/openai:datalib - Make data libraries like `numpy` and `pandas` optional dependencies (130MB+)

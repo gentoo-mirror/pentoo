@@ -98,7 +98,6 @@ app-forensics/origami-pdf 2.1.0: A Ruby framework designed to parse, analyze, an
 app-forensics/pcileech 4.17 4.18: Direct Memory Access (DMA) Attack Software
 app-forensics/pdf-parser 0.7.6 0.7.8: This tool will parse a PDF document to identify the fundamental elements used
 app-forensics/pdfid 0.2.7 0.2.8: This tool will scan a PDF document looking for certain keyword
-app-forensics/pdfwalker 1.0.0-r1: A GTK frontend to explore the internals of a PDF document with Origami
 app-forensics/pytsk 20210801 20211111: Python bindings for The Sleuth Kit (libtsk)
 app-forensics/reglookup 1.0.1-r1 9999: An utility for reading and querying Windows NT/2K/XP registries
 app-forensics/s3tk 0.3.0 9999: A security toolkit for Amazon S3
@@ -116,7 +115,6 @@ app-fuzz/slowhttptest 1.9.0: Application Layer DoS attack simulator
 app-fuzz/smtp-fuzz 0.1: A smtp fuzzer
 app-fuzz/snmp-fuzzer 0.1.1-r1: A very complete snmp fuzzer
 app-misc/far2l 2.6.0 2.6.1: Linux port of FAR v2
-app-misc/fit2gpx 0.0.7: convert .FIT files to .GPX files, including tools for .FIT files downloaded from Strava
 app-misc/freediag 1.08: Free diagnostic software for OBD-II compliant motor vehicles
 app-misc/gplaycli 3.29: Google Play Downloader via Command line
 app-misc/mat2 0.13.0 0.13.3: A handy tool to trash your metadata
@@ -126,7 +124,6 @@ app-misc/siglo 0.9.9: GTK app to sync InfiniTime watch with PinePhone
 app-pda/ideviceinstaller 1.1.1-r1: A tool to interact with the installation_proxy of an Apple's iDevice
 app-pda/ifuse 1.1.4-r1: Mount Apple iPhone/iPod Touch file systems for backup purposes
 app-pda/libplist 2.5.0 2.6.0: Support library to deal with Apple Property Lists (Binary & XML)
-app-pda/pymobiledevice3 2.27.1 2.28.0 2.29.4 2.30.0: python3 implementation for working with iDevices
 app-pda/usbmuxd 1.1.1_p20231011: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
 app-text/cewl 6.1 6.2 9999: A custom word list generator
 app-text/endesive 2.0.2: Sign and verify digital signatures in mail, PDF and XML documents
@@ -229,7 +226,6 @@ dev-python/aiocmd 0.1.5: Coroutine-based CLI generator using prompt_toolkit
 dev-python/aioconsole 0.7.0: Asynchronous console and interfaces for asyncio
 dev-python/aiogram 3.7.0 3.8.0: Asynchronous framework for Telegram Bot API
 dev-python/aiomultiprocess 0.8.0 0.9.0: asyncio version of the standard multiprocessing module
-dev-python/aiopg 1.4.0-r2: Postgres integration with asyncio
 dev-python/aiosmb 0.4.8 0.4.10: Asynchronous SMB protocol implementation
 dev-python/aiowinreg 0.0.9 0.0.10: Windows registry file reader
 dev-python/altgraph 0.17 0.17.3: A constructing graphs, BFS and DFS traversals, etc
@@ -247,7 +243,6 @@ dev-python/asn1 2.7.0: a simple ASN.1 encoder and decoder
 dev-python/asn1tools 0.163.0: ASN.1 parsing, encoding and decoding
 dev-python/aspectlib 1.5.2-r1: Aspect-oriented programming, monkey-patch and decorators library
 dev-python/asyauth 0.0.16 0.0.18: asyauth by skilsec
-dev-python/asyncpg 0.29.0: A fast PostgreSQL Database Client Library for Python/asyncio.
 dev-python/asynctest 0.13.0: Enhance the standard unittest package for testing asyncio libraries
 dev-python/asysocks 0.2.9 0.2.11: Socks5 / Socks4 client and server library
 dev-python/banal 1.0.1: Commons of banal micro-functions for Python.
@@ -270,7 +265,6 @@ dev-python/click-option-group 0.5.3: Option groups missing in Click
 dev-python/cmake-converter 2.0.1: CMake converter for Visual Studio projects
 dev-python/codegen 1.0: Extension to ast that allow ast -> python code generation
 dev-python/config 0.4.2: A hierarchical, easy-to-use, powerful configuration module for Python
-dev-python/coreapi 2.3.3: Python client library for Core API
 dev-python/coreschema 0.0.4: Core Schema
 dev-python/cxxfilt 0.3.0: Python interface to c++filt / abi::__cxa_demangle
 dev-python/dataset 1.3.2 1.6.2: Easy-to-use data handling for SQL data stores
@@ -281,7 +275,6 @@ dev-python/delegator 0.1.1-r1: Subprocesses for Humans 2.0
 dev-python/developer_disk_image 0.0.2: Download DeveloperDiskImage ans Personalized images from GitHub
 dev-python/dfdatetime 20210509 20211228 20220131 20220728 20220810 20220925 20221112: Digital Forensics date and time
 dev-python/dhcplib 0.1.1: Pure-Python, spec-compliant DHCP-packet-processing library
-dev-python/django-constance-haiwen 20180515: Django live settings with pluggable backends, including Redis
 dev-python/django-formtools 2.1: A set of high-level abstractions for Django forms
 dev-python/django-guardian 2.3.0: Implementation of per object permissions for Django 1.2+
 dev-python/django-oauth-toolkit 1.1.3 1.2.0 1.5.0: OAuth2 goodies for the Djangonauts
@@ -289,7 +282,6 @@ dev-python/django-post_office-haiwen 20180914: A Django app to monitor and send 
 dev-python/django-pylibmc 0.6.1: Django cache backend using pylibmc
 dev-python/django-ranged-response 0.2.0: Django FileResponse that adds Content-Range headers
 dev-python/django-simple-captcha 0.5.20 0.6.0: A very simple, yet powerful, Django captcha application
-dev-python/django-statici18n 1.8.3: Django helper for generating Javascript catalog to static files
 dev-python/django-webpack-loader 0.6.0: Transparently use webpack with django
 dev-python/djangosaml2 1.6.0 1.9.0: Django SAML2 Service Provider based on pySAML2
 dev-python/dnslib 0.9.19 0.9.22: Simple library to encode/decode DNS wire-format packets
@@ -323,7 +315,6 @@ dev-python/flask-restless 0.17.0: A Flask extension for easy ReSTful API generat
 dev-python/flask-restx 0.5.1: Fully featured framework for fast, easy and documented API development
 dev-python/flask-session 0.3.1: Adds server-side session support to your Flask application
 dev-python/flask-socketio 4.3.1-r1: Socket.IO integration for Flask applications
-dev-python/flask-sockets 0.2.1: Elegant WebSockets for your Flask apps
 dev-python/fpdf 1.7.2: Simple PDF generation for Python
 dev-python/frida-python 16.0.19 16.1.8: Dynamic instrumentation toolkit for reverse-engineers and security researchers
 dev-python/future 0.18.3: Easy, clean, reliable Python 2/3 compatibility
@@ -408,7 +399,6 @@ dev-python/parameter-decorators 0.0.2: Handy decorators for converting parameter
 dev-python/parse 1.14.0 1.19.0: parse() is the opposite of format()
 dev-python/parsel 1.5.1: Extract data from HTML and XML using XPath and CSS selectors
 dev-python/pcodedmp 1.2.6: A VBA p-code disassembler
-dev-python/peewee-async 0.9.1 0.10.0: Asynchronous interface for peewee ORM powered by asyncio.
 dev-python/pendulum 2.1.2 3.0.0: Python datetimes made easy.
 dev-python/pillow 10.1.0-r1 10.2.0-r1 10.3.0: Python Imaging Library (fork)
 dev-python/playsound 1.2.2: Single function module with no dependencies for playing sounds
@@ -426,7 +416,6 @@ dev-python/pyaff4 0.27: Python Advanced Forensic Format Version 4 library
 dev-python/pyasn 1.6.1-r1: Python IP address to Autonomous System Number lookup module
 dev-python/pyaxmlparser 0.3.24 0.3.26: Parser for Android XML file and get Application Name without using Androguard
 dev-python/pybluez 0.22-r1 0.23 0.23_p20231222: Bluetooth Python extension module
-dev-python/pycrashreport 1.2.1 1.2.2: Pure python3 for parsing Apple's crash reports
 dev-python/pycups 2.0.1-r1: Python bindings for the CUPS API
 dev-python/pydispatcher 2.0.5: Multi-producer-multi-consumer signal dispatching mechanism
 dev-python/pydub 0.25.1: Manipulate audio with an simple and easy high level interface
