@@ -135,6 +135,10 @@ dev-python/pyinstaller:leak-detector - Support for link with Boehm garbage colle
 dev-python/pypax:ptpax - Enable PT_PAX_FLAGS support.
 dev-python/pypax:xtpax - Enable XATTR_PAX_FLAGS support.
 dev-python/pypsrp:credssp - Add CredSSP support
+dev-python/python-libnmap:boto - Amazon Web Services support
+dev-python/python-libnmap:defusedxml - import untrusted XML scans data
+dev-python/python-libnmap:mongodb - mongodb support
+dev-python/python-libnmap:sqlalchemy - sqlalchemy support
 dev-python/python-socketio:asyncio-client - Allow client to work async
 dev-python/python-socketio:client - Support client
 dev-python/pywebview:pyqt5 - Use dev-python/PyQt5 as Qt for Python implementation
@@ -180,7 +184,6 @@ net-libs/libtins:wpa2 - WPA2 decryption support
 net-mail/davmail-bin:server - Enable server
 net-mail/libpst:profiling - Enable gprof profiling
 net-mail/libpst:shared - Enable libpst shared object
-net-misc/seafile-client:shibboleth - Build support for Shibboleth single sign-on
 net-proxy/zaproxy:plugins - Install plugins
 net-vpn/kcptun:server - Enable server side daemon
 net-vpn/udp2raw-tunnel:iptables - include support for iptables filtering
@@ -322,7 +325,6 @@ pentoo/zero-system:dev - Packages for doing gentoo dev work
 pentoo/zero-system:naga - Packages for my main laptop
 pentoo/zero-system:nu - Packages for the build machine
 pentoo/zero-system:printer - Packages for printing
-sci-electronics/rd-usb:gui - Enable the GUI
 sys-kernel/pentoo-sources:experimental - Apply experimental patches; for more information, see "https://wiki.gentoo.org/wiki/Project:Kernel/Experimental".
 sys-kernel/pentoo-sources:lts - for selecting between long-time-support and standard kernel.
 virtual/libyal-tools:fuse - Enable FUSE support

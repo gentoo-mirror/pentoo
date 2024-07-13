@@ -444,6 +444,7 @@ dev-python/python-cas-haiwen 20180411: Python CAS client library
 dev-python/python-crontab 20191023: Crontab module for accessing system crontabs
 dev-python/python-docx 0.8.10: Create and modify Word documents with Python
 dev-python/python-iptools 0.7.0: A package is a collection of utilities for dealing with IP addresses
+dev-python/python-libnmap 0.7.3: A python library enabling python developers to manipulate nmap process and data
 dev-python/python-nmap 0.6.1 0.6.4: a python library which helps in using nmap port scanner
 dev-python/python-oauth2 1.1.1-r1: OAuth 2.0 provider for python
 dev-python/python-obfuscator 0.0.2: made good code to make bad code
@@ -643,6 +644,7 @@ media-radio/icad-tone-detection 1.3: library for extracting scanner radio tones 
 media-radio/rdio-scanner-bin 6.6.3: Software police-like scanner with its own touch
 media-sound/deinvert 9999: A voice inversion descrambler
 net-analyzer/GyoiThon 9999: GyoiThon is a growing penetration test tool using Machine Learning
+net-analyzer/NetExec 1.1.0: A swiss army knife for pentesting Windows/Active Directory environments
 net-analyzer/amass 4.2.0: Subdomain OSINT Enumeration
 net-analyzer/bettercap 2.31.1 2.32.0: A complete, modular, portable and easily extensible MITM framework
 net-analyzer/bonesi 0.3.1 9999: BoNeSi - the DDoS botnet simulator
@@ -716,7 +718,6 @@ net-im/jitsi 2.11.5633: Secure IM communicator that supports SIP, XMPP, AIM/ICQ,
 net-im/jitsi-videobridge 1132: https://github.com/jitsi/jitsi-videobridge
 net-libs/libosmocore 1.9.3: Utility functions for OsmocomBB, OpenBSC and related projects
 net-libs/libpfring 8.0.0 8.4.0: A new type of network socket that improves packet capture speed.
-net-libs/libsearpc 3.3.0-r2: Simple C language RPC framework
 net-libs/libtins 4.3: High-level, multiplatform C++ network packet sniffing and crafting library.
 net-mail/davmail-bin 6.0.1.3390: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
 net-mail/email2phonenumber 20190916-r1 99999999: A OSINT tool to obtain a target's phone number just by having his email address
@@ -729,8 +730,6 @@ net-misc/httprobe 0.2: Take a list of domains and probe for working HTTP and HTT
 net-misc/linkfinder 20191124: A python script that finds endpoints in JavaScript files
 net-misc/munin 0.20.0: Online hash checker for Virustotal and other services
 net-misc/pwnedornot 1.2.8_p20200602: OSINT Tool for Finding Passwords of Compromised Email Addresses Topics
-net-misc/seafile 9.0.4 9.0.5 9.0.6: File syncing and sharing software with file encryption and group sharing
-net-misc/seafile-client 9.0.4 9.0.5 9.0.6: Seafile desktop client
 net-misc/sippts 3.4: set of tools to audit VoIP servers and devices using SIP protocol
 net-misc/t50 5.8.5 5.8.7: Mixed Packet Injector & Network Stress Testing Tool
 net-misc/voipong 2.0_p20111230: detect all VoIP calls on a pipeline and dump actual conversation
@@ -860,7 +859,6 @@ sci-electronics/litepcie 20180530-r1: Small footprint and configurable PCIe core
 sci-electronics/litescope 20180531-r1: Small footprint and configurable embedded FPGA logic analyzer
 sci-electronics/litex 2022.04 20180718-r1: Information gathering tool designed for extracting metadata of public documents
 sci-electronics/migen 0.7-r1: A Python toolbox for building complex digital hardware
-sci-electronics/rd-usb 1.22.4: Web GUI for RuiDeng/Riden USB testers (UM34C, UM24C, UM25C, TC66C)
 sys-apps/fchroot 1.0.0: Funtoo's franken-chroot tool
 sys-apps/magic-pax 0.0.1: Attempt at applying pax marks effectively
 sys-devel/autofdo 0.18 0.19 9999: System to simplify real-world deployment of feedback-directed optimization
