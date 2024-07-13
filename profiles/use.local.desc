@@ -124,19 +124,11 @@ dev-libs/openssl-bad:rfc3779 - Compile with rfc3779
 dev-libs/openssl-bad:sslv2 - Compile with sslv2
 dev-libs/openssl-bad:sslv3 - Compile with sslv3
 dev-libs/openssl-bad:tls-heartbeat - Compile with tls-heartbeat
-dev-python/aiogram:docs - install docs
-dev-python/aiogram:fast - Ultra-fast asyncio
-dev-python/aiogram:i18n - i18n support
-dev-python/aiogram:proxy - proxy support
-dev-python/aiogram:redis - install local server
 dev-python/deep-translator:docx - Add support for parsing docx files
 dev-python/deep-translator:openai - Add openai support
 dev-python/deep-translator:pypdf - Add support for parsing pdf files
 dev-python/fastapi:all - Enable optional dependencies
 dev-python/nvidia-apex:cuda - Add support for CUDA processing
-dev-python/openai:datalib - Make data libraries like `numpy` and `pandas` optional dependencies (130MB+)
-dev-python/pillow:imagequant - Build with Image Quantization Library support
-dev-python/pillow:raqm - Build with complex text layout library support
 dev-python/py-pdf-parser:developer - Bring in deps needed for development
 dev-python/pyinstaller:clang - Support for sys-devel/clang
 dev-python/pyinstaller:leak-detector - Support for link with Boehm garbage collector to detect memory leaks
@@ -341,10 +333,4 @@ www-apps/beef:dns - add support for dns attacks
 www-apps/beef:msf - add integration for net-analyzer/metasploit
 www-apps/beef:notifications - enable notification plugin
 www-apps/beef:qrcode - enable qrcode generation support
-www-apps/rda:mariadb - Include mariadb support
-www-apps/seafile-pro-server:fuse - Enable seaf-fuse support
-www-apps/seafile-pro-server:mariadb - mariadb support
-www-apps/seafile-pro-server:mysql - mysql support
-www-apps/seafile-pro-server:psd - Enable Adobe Photoshop PSD files indexing
-www-apps/seafile-pro-server:saml - Add SAML 2.0 authentication support
 x11-libs/qwt-multiaxes:designer - Installs dev-qt/designer plugin.

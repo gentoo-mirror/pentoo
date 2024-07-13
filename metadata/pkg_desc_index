@@ -224,9 +224,7 @@ dev-python/agate-sql 0.5.4-r1: Adds SQL read/write support to agate
 dev-python/aggdraw 1.3.11: High quality drawing interface for PIL
 dev-python/aiocmd 0.1.5: Coroutine-based CLI generator using prompt_toolkit
 dev-python/aioconsole 0.7.0: Asynchronous console and interfaces for asyncio
-dev-python/aiogram 3.7.0 3.8.0: Asynchronous framework for Telegram Bot API
 dev-python/aiomultiprocess 0.8.0 0.9.0: asyncio version of the standard multiprocessing module
-dev-python/aiopg 1.4.0-r2: Postgres integration with asyncio
 dev-python/aiosmb 0.4.8 0.4.10: Asynchronous SMB protocol implementation
 dev-python/aiowinreg 0.0.9 0.0.10: Windows registry file reader
 dev-python/altgraph 0.17 0.17.3: A constructing graphs, BFS and DFS traversals, etc
@@ -388,7 +386,6 @@ dev-python/normality 2.1.1: A small set of text normalization functions
 dev-python/nplusone 1.0.0: Detecting the n+1 queries problem in Python
 dev-python/nvidia-apex 22.12-r1 23.05 23.08: Tools for easy mixed precision and distributed training in Pytorch
 dev-python/opack 0.1.0: Python library for parsing the opack format
-dev-python/openai 1.16.2 1.32.0: Python client library for the OpenAI API
 dev-python/opensearch_py 1.0.0 1.1.0 2.0.0 2.0.1: Python low-level client for OpenSearch
 dev-python/openstep_parser 1.5.4: OpenStep plist reader into python objects
 dev-python/oscrypto 1.3.0 1.3.0_p20230823: TLS sockets, key generation, encryption, decryption, signing, verification
@@ -398,9 +395,7 @@ dev-python/parameter-decorators 0.0.2: Handy decorators for converting parameter
 dev-python/parse 1.14.0 1.19.0: parse() is the opposite of format()
 dev-python/parsel 1.5.1: Extract data from HTML and XML using XPath and CSS selectors
 dev-python/pcodedmp 1.2.6: A VBA p-code disassembler
-dev-python/peewee-async 0.10.0: Asynchronous interface for peewee ORM powered by asyncio.
 dev-python/pendulum 2.1.2 3.0.0: Python datetimes made easy.
-dev-python/pillow 10.1.0-r1 10.2.0-r1 10.3.0: Python Imaging Library (fork)
 dev-python/playsound 1.2.2: Single function module with no dependencies for playing sounds
 dev-python/playwright-bin 1.42.0: Automate Chromium, Firefox and WebKit browsers with a single API
 dev-python/promise 2.3.0: Promises/A+ implementation for Python
@@ -883,7 +878,5 @@ virtual/secret-service 0-r1: Virtual for a freedesktop.org Secret Service API pr
 www-apps/BloodHound 4.3.0 4.3.1: Six Degrees of Domain Admin
 www-apps/Tiredful-API 9999: An intentionally designed broken web application based on REST API
 www-apps/beef 0.5.4.0: Browser exploitation framework
-www-apps/rda 3.3: Web-based application for effective reporting writing
-www-apps/seafile-pro-server 10.0.15 11.0.10: Meta package for Seafile Pro Edition, file sync share solution
 www-plugins/hackplugins-meta 20231006: Collection of browser's plugins for application security testing
 x11-libs/qwt-multiaxes 9999: 2D plotting library for Qt5
