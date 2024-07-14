@@ -140,7 +140,6 @@ dev-python/python-libnmap:mongodb - mongodb support
 dev-python/python-libnmap:sqlalchemy - sqlalchemy support
 dev-python/python-socketio:asyncio-client - Allow client to work async
 dev-python/python-socketio:client - Support client
-dev-python/pywebview:pyqt5 - Use dev-python/PyQt5 as Qt for Python implementation
 dev-python/simplespectral:faster - Use dev-python/scipy to speed up drawing
 dev-python/simplespectral:fastest - Use dev-python/pyFFTW to speed up drawing to the max
 dev-python/slowapi:redis - redis, memcached and memory backends to track your limits

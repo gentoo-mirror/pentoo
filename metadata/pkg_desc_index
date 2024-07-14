@@ -248,7 +248,6 @@ dev-python/beautifultable 0.8.0: Print ASCII tables for terminals
 dev-python/bidict 0.21.2 0.22.1: The bidirectional mapping library for Python.
 dev-python/biplist 1.0.3: A binary plist parser/generator for Python
 dev-python/bitstruct 8.15.1 8.17.0: conversions between Python values and C bit field structs
-dev-python/bleak 0.21.1: Bluetooth Low Energy platform Agnostic Klient
 dev-python/blinkstick 1.1.8_p20200211 9999: BlinkStick Python interface to control devices connected to the computer
 dev-python/bloodhound 1.7.2: Python based ingestor for BloodHound
 dev-python/bluepy 1.3.0-r2: Python interface to Bluetooth LE on Linux
@@ -385,7 +384,6 @@ dev-python/parameter-decorators 0.0.2: Handy decorators for converting parameter
 dev-python/parse 1.14.0 1.19.0: parse() is the opposite of format()
 dev-python/parsel 1.5.1: Extract data from HTML and XML using XPath and CSS selectors
 dev-python/pcodedmp 1.2.6: A VBA p-code disassembler
-dev-python/pendulum 2.1.2 3.0.0: Python datetimes made easy.
 dev-python/playsound 1.2.2: Single function module with no dependencies for playing sounds
 dev-python/playwright-bin 1.42.0: Automate Chromium, Firefox and WebKit browsers with a single API
 dev-python/promise 2.3.0: Promises/A+ implementation for Python
@@ -400,7 +398,6 @@ dev-python/pyFFTW 0.13.1_p20240117 9999: A pythonic python wrapper around FFTW
 dev-python/pyaff4 0.27: Python Advanced Forensic Format Version 4 library
 dev-python/pyasn 1.6.1-r1: Python IP address to Autonomous System Number lookup module
 dev-python/pyaxmlparser 0.3.24 0.3.26: Parser for Android XML file and get Application Name without using Androguard
-dev-python/pybluez 0.22-r1 0.23 0.23_p20231222: Bluetooth Python extension module
 dev-python/pycups 2.0.1-r1: Python bindings for the CUPS API
 dev-python/pydispatcher 2.0.5: Multi-producer-multi-consumer signal dispatching mechanism
 dev-python/pydub 0.25.1: Manipulate audio with an simple and easy high level interface
@@ -443,10 +440,8 @@ dev-python/python-whois 0.7.2 0.7.3: Whois querying and parsing of domain regist
 dev-python/python3-openid 3.1.0: Python 3 port of the python-openid library
 dev-python/pytimeparse 1.1.8: A small Python module to parse various kinds of time expressions
 dev-python/pytun-pmd3 1.0.0: python-pytun fork with Darwin support (IPv6-ONLY)
-dev-python/pytzdata 2020.1-r2: The Olson timezone database for Python
 dev-python/pyvnc 20220514-r1: Client library for interacting with a VNC session
 dev-python/pyvoronoi 1.0.7_p20231113 1.1.0: Cython wrapper for the Boost Voronoi library
-dev-python/pywebview 4.4.1 5.1: A lightweight cross-platform wrapper around a webview component
 dev-python/pywerview 0.6: A Python port of PowerSploit's PowerView
 dev-python/pyzipper 0.3.5: AES encryption for zipfile
 dev-python/qh3 0.12.0: An implementation of QUIC and HTTP/3
@@ -462,7 +457,6 @@ dev-python/resource 0.2.1: Resource layer of RESTful APIs.
 dev-python/ruamel-base 1.0.0: common routines for ruamel packages
 dev-python/rzpipe 0.1.2: Pipe interface for rizin
 dev-python/scipy 1.12.0: Scientific algorithms library for Python
-dev-python/screeninfo 0.8.1: Fetch location and size of physical screens.
 dev-python/secure 0.3.0: Secure headers and cookies for Python web frameworks
 dev-python/selenium-requests 1.3.1: Extends Selenium webdrv with the request function from the Requests library
 dev-python/semgrep 1.66.0 1.75.0: Lightweight static analysis for many languages
