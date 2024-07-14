@@ -123,9 +123,6 @@ dev-libs/openssl-bad:rfc3779 - Compile with rfc3779
 dev-libs/openssl-bad:sslv2 - Compile with sslv2
 dev-libs/openssl-bad:sslv3 - Compile with sslv3
 dev-libs/openssl-bad:tls-heartbeat - Compile with tls-heartbeat
-dev-python/deep-translator:docx - Add support for parsing docx files
-dev-python/deep-translator:openai - Add openai support
-dev-python/deep-translator:pypdf - Add support for parsing pdf files
 dev-python/fastapi:all - Enable optional dependencies
 dev-python/nvidia-apex:cuda - Add support for CUDA processing
 dev-python/py-pdf-parser:developer - Bring in deps needed for development
