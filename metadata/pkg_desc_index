@@ -240,7 +240,7 @@ dev-python/asciitree 0.3.3: Draws ASCII trees
 dev-python/asn1 2.7.0: a simple ASN.1 encoder and decoder
 dev-python/asn1tools 0.163.0: ASN.1 parsing, encoding and decoding
 dev-python/aspectlib 1.5.2-r1: Aspect-oriented programming, monkey-patch and decorators library
-dev-python/asyauth 0.0.16 0.0.18: asyauth by skilsec
+dev-python/asyauth 0.0.18 0.0.20: asyauth by skilsec
 dev-python/asynctest 0.13.0: Enhance the standard unittest package for testing asyncio libraries
 dev-python/asysocks 0.2.9 0.2.11: Socks5 / Socks4 client and server library
 dev-python/banal 1.0.1: Commons of banal micro-functions for Python.
@@ -280,10 +280,11 @@ dev-python/dnslib 0.9.19 0.9.22: Simple library to encode/decode DNS wire-format
 dev-python/docopt-ng 0.9.0: Jazzband-maintained fork of docopt
 dev-python/donut-shellcode 1.0.2-r1: Donut Python C extension
 dev-python/dotty 1.5: EFILTER query language
-dev-python/dploot 2.2.4: DPAPI looting remotely in Python
+dev-python/dploot 2.2.4 2.7.3: DPAPI looting remotely in Python
 dev-python/dropbox-sdk 10.1.1 11.36.1: A Python SDK for integrating with the Dropbox API v2.
 dev-python/dsinternals 1.2.4: Directory Services Internals Library
 dev-python/dtfabric 20210731 20220124 20220219: YAML-based definition language to specify format and data types
+dev-python/dunamai 1.19.0: Dynamic versioning library and CLI
 dev-python/easygui 0.98.1 0.98.3: A module for very simple, very easy GUI programming in Python
 dev-python/entropy 0.1.5: entropy is a command line friend that helps you reduce entropy in your life
 dev-python/exifread 2.3.1 2.3.2: Read Exif metadata from tiff and jpeg files
@@ -362,12 +363,12 @@ dev-python/minidump 0.0.18 0.0.20 0.0.21: parse Windows minidump file format
 dev-python/minikerberos 0.4.2 0.4.4: Kerberos manipulation library in pure Python
 dev-python/mitm6 0.2.2: pwning IPv4 via IPv6
 dev-python/mockito 1.2.0: Spying framework based on Mockito java library
-dev-python/msldap 0.5.7 0.5.9: Python library to play with MS LDAP
+dev-python/msldap 0.5.9 0.5.10: Python library to play with MS LDAP
 dev-python/msoffcrypto-tool 5.0.0 5.3.1: Decrypting MS Office files with passwords or other keys
 dev-python/mutf8 1.0.6: Fast MUTF-8 encoder & decoder
 dev-python/nanobind 1.7.0_p20231019 1.8.0: tiny and efficient C++/Python bindings
 dev-python/nassl 5.0.1 5.1.0 5.2.0: Experimental OpenSSL wrapper for Python 3.7+ and SSLyze
-dev-python/neo4j 4.2.0 4.2.1: Neo4j Bolt driver for Python
+dev-python/neo4j 4.2.1 5.22.0: Neo4j Bolt driver for Python
 dev-python/neobolt 1.7.17: Neo4j Bolt Connector for Python
 dev-python/neotime 1.7.4: Nanosecond resolution temporal types
 dev-python/nessrest 20180806: A high-level Web Crawling and Web Scraping framework
@@ -385,6 +386,7 @@ dev-python/parsel 1.5.1: Extract data from HTML and XML using XPath and CSS sele
 dev-python/pcodedmp 1.2.6: A VBA p-code disassembler
 dev-python/playsound 1.2.2: Single function module with no dependencies for playing sounds
 dev-python/playwright-bin 1.42.0: Automate Chromium, Firefox and WebKit browsers with a single API
+dev-python/poetry-dynamic-versioning 1.2.0: Plugin for Poetry to enable dynamic versioning based on VCS tags
 dev-python/promise 2.3.0: Promises/A+ implementation for Python
 dev-python/proxy-db 0.2.5-r1: Manage free and private proxies on local db for Python Projects
 dev-python/proxy_tools 0.1.0_p1: Simple proxy (as in the GoF design pattern)
@@ -607,7 +609,7 @@ media-radio/icad-tone-detection 1.3: library for extracting scanner radio tones 
 media-radio/rdio-scanner-bin 6.6.3: Software police-like scanner with its own touch
 media-sound/deinvert 9999: A voice inversion descrambler
 net-analyzer/GyoiThon 9999: GyoiThon is a growing penetration test tool using Machine Learning
-net-analyzer/NetExec 1.1.0: A swiss army knife for pentesting Windows/Active Directory environments
+net-analyzer/NetExec 1.1.0 1.2.0: A swiss army knife for pentesting Windows/Active Directory environments
 net-analyzer/amass 4.2.0: Subdomain OSINT Enumeration
 net-analyzer/bettercap 2.31.1 2.32.0: A complete, modular, portable and easily extensible MITM framework
 net-analyzer/bonesi 0.3.1 9999: BoNeSi - the DDoS botnet simulator
