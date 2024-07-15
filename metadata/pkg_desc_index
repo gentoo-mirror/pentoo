@@ -591,7 +591,7 @@ dev-util/memfetch 0.05b: A simple utility to dump all memory of a running proces
 dev-util/mobsf 3.9.7: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
 dev-util/objection 1.10.2 1.11.0-r2: Runtime mobile exploration
 dev-util/pentoo-udev-rules 0.0.1: udev rules to assist in some way with hardware commonly used in pentoo
-dev-util/plasma 0_p21080708-r2 9999: An interactive disassembler for x86/ARM/MIPS
+dev-util/plasma 20190304: An interactive disassembler for x86/ARM/MIPS
 dev-util/qark 0.9_pre20190405: A tool to look for Android application vulnerabilities
 dev-util/recaf-bin 2.19.6 2.21.13: A modern Java bytecode editor
 dev-util/reflutter 0.7.2 0.7.8: Flutter apps reverse engineering
