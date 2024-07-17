@@ -140,6 +140,7 @@ dev-python/social-auth-core:saml - Use SAML
 dev-python/stegoveritas-binwalk:graph - Enable support for generating entropy graphs
 dev-python/whitenoise:brotli - Add Brotli support
 dev-util/apktool:tools - Add Android SDK build tools support
+dev-util/chipsec:chipsec-driver - Install kernel driver
 dev-util/mobsf:genymotion - Add app-emulation/genymotion-bin support
 dev-util/objection:patchapk - Add support to patch APKs
 dev-util/qark:exploit - Add support for generating exploit APKs
