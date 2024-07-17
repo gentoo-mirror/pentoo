@@ -164,7 +164,6 @@ net-dialup/freeradius:memcached - Include dev-libs/libmemcached in caching drive
 net-dialup/freeradius:mongodb - Include support for MongoDB database
 net-dialup/freeradius:redis - Include support for Redis database
 net-dialup/freeradius:wpe - Include support for WPE hacking
-net-im/jitsi:autorecording - Add option to automatically record calls
 net-libs/libosmocore:pcsc-lite - Enable smartcard support with sys-apps/pcsc-lite
 net-libs/libtins:ack-tracker - TCP ACK tracking support
 net-libs/libtins:cxx11 - C++11 support

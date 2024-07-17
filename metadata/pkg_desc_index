@@ -675,8 +675,6 @@ net-analyzer/wpscan 3.8.24 3.8.25: Wordpress security scanner
 net-analyzer/xsstrike 3.1.5 9999: Advanced XSS detection suite
 net-dialup/freeradius 3.2.3: Highly configurable free RADIUS server
 net-dialup/minimodem 0.24: General-purpose software audio FSK modem.
-net-im/jitsi 2.11.5633: Secure IM communicator that supports SIP, XMPP, AIM/ICQ, Windows Live, Yahoo
-net-im/jitsi-videobridge 1132: https://github.com/jitsi/jitsi-videobridge
 net-libs/libosmocore 1.9.3: Utility functions for OsmocomBB, OpenBSC and related projects
 net-libs/libpfring 8.0.0 8.4.0: A new type of network socket that improves packet capture speed.
 net-libs/libtins 4.3: High-level, multiplatform C++ network packet sniffing and crafting library.
