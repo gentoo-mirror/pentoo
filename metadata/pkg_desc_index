@@ -433,7 +433,7 @@ dev-python/python-oauth2 1.1.1-r1: OAuth 2.0 provider for python
 dev-python/python-obfuscator 0.0.2: made good code to make bad code
 dev-python/python-pptx 0.6.18: Create Open XML PowerPoint documents in Python
 dev-python/python-socketio 5.11.2: Python implementation of the Socket.IO realtime server.
-dev-python/python-whois 0.7.2 0.7.3: Whois querying and parsing of domain registration information
+dev-python/python-whois 0.9.4: Whois querying and parsing of domain registration information
 dev-python/python3-openid 3.1.0: Python 3 port of the python-openid library
 dev-python/pytimeparse 1.1.8: A small Python module to parse various kinds of time expressions
 dev-python/pytun-pmd3 1.0.0: python-pytun fork with Darwin support (IPv6-ONLY)
