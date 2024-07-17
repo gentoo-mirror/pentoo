@@ -427,7 +427,7 @@ dev-python/python-cas-haiwen 20180411: Python CAS client library
 dev-python/python-crontab 20191023: Crontab module for accessing system crontabs
 dev-python/python-docx 0.8.10: Create and modify Word documents with Python
 dev-python/python-iptools 0.7.0: A package is a collection of utilities for dealing with IP addresses
-dev-python/python-libnmap 0.7.3: A python library enabling python developers to manipulate nmap process and data
+dev-python/python-libnmap 0.7.3-r1: A python library enabling python developers to manipulate nmap process and data
 dev-python/python-nmap 0.6.1 0.6.4: a python library which helps in using nmap port scanner
 dev-python/python-oauth2 1.1.1-r1: OAuth 2.0 provider for python
 dev-python/python-obfuscator 0.0.2: made good code to make bad code
@@ -601,6 +601,7 @@ dev-vcs/trufflehog 2.1.11_p20200220: Searches through git repositories for high 
 media-fonts/zed-mono 1.2.0: The Zed Mono typeface, custom built from Iosevka
 media-libs/libraqm 0.10.0 0.10.1: A library for complex text layout
 media-libs/mbelib 1.3.0-r1 9999: P25 Phase 1 and ProVoice vocoder
+media-radio/fldigi 4.2.05: Sound card based multimode software modem for Amateur Radio use
 media-radio/icad-tone-detection 1.3: library for extracting scanner radio tones from scanner audio
 media-radio/rdio-scanner-bin 6.6.3: Software police-like scanner with its own touch
 media-sound/deinvert 9999: A voice inversion descrambler
