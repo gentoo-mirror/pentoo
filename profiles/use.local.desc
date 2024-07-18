@@ -120,7 +120,6 @@ dev-libs/openssl-bad:sslv2 - Compile with sslv2
 dev-libs/openssl-bad:sslv3 - Compile with sslv3
 dev-libs/openssl-bad:tls-heartbeat - Compile with tls-heartbeat
 dev-python/fastapi:all - Enable optional dependencies
-dev-python/nvidia-apex:cuda - Add support for CUDA processing
 dev-python/py-pdf-parser:developer - Bring in deps needed for development
 dev-python/pyinstaller:clang - Support for sys-devel/clang
 dev-python/pyinstaller:leak-detector - Support for link with Boehm garbage collector to detect memory leaks
