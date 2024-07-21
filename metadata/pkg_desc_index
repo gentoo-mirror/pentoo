@@ -726,7 +726,7 @@ net-wireless/gps-sdr-sim 9999: GPS Spoofing tool for transmit capable SDR's like
 net-wireless/gr-dsd 9999: GNU Radio block for Digital Speech Decoder
 net-wireless/gr-gsm 20210505-r1: Set of tools for receiving information transmitted by GSM equipment/devices
 net-wireless/gr-ham 20240130: collection of GNU Radio blocks useful for amateur radio
-net-wireless/gr-mixalot 0.0_p20230121 9999: a set of GNU Radio blocks/utilities to encode pager messages
+net-wireless/gr-mixalot 0.0_p20230121-r1 9999: a set of GNU Radio blocks/utilities to encode pager messages
 net-wireless/gr-sdrplay3 9999 20230421-r1: GNU Radio OOT module for SDRplay RSP devices - SRDPlay API v3
 net-wireless/hackrf-firmware 9999: Hardware designs and software for HackRF
 net-wireless/hcxdumptool 6.3.4: Small tool to capture packets from wlan devices
