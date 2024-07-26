@@ -725,7 +725,7 @@ net-wireless/gps-sdr-sim 9999: GPS Spoofing tool for transmit capable SDR's like
 net-wireless/gr-dsd 9999: GNU Radio block for Digital Speech Decoder
 net-wireless/gr-gsm 20210505-r1: Set of tools for receiving information transmitted by GSM equipment/devices
 net-wireless/gr-ham 20240130: collection of GNU Radio blocks useful for amateur radio
-net-wireless/gr-mixalot 0.0_p20230121-r1 9999: a set of GNU Radio blocks/utilities to encode pager messages
+net-wireless/gr-mixalot 0.0_p20230121-r2 9999: a set of GNU Radio blocks/utilities to encode pager messages
 net-wireless/gr-sdrplay3 9999 20230421-r1: GNU Radio OOT module for SDRplay RSP devices - SRDPlay API v3
 net-wireless/hackrf-firmware 9999: Hardware designs and software for HackRF
 net-wireless/hcxdumptool 6.3.4: Small tool to capture packets from wlan devices
@@ -806,7 +806,7 @@ pentoo/pentoo-scanner 2024.1: Pentoo scanner meta ebuild
 pentoo/pentoo-system 2024.1: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2023.0: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2023.2: Pentoo wireless meta ebuild
-pentoo/rfctf-client 2024.0: Packages needed to power the client and SDR devices for RFCTF events
+pentoo/rfctf-client 2024.2: Packages needed to power the client and SDR devices for RFCTF events
 pentoo/zero-system 2024.2-r1: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
 sci-electronics/litedram 20180514: Small footprint and configurable DRAM core
 sci-electronics/liteeth 20180719: Small footprint and configurable Ethernet core
