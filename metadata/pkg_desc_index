@@ -379,9 +379,7 @@ dev-python/playwright-bin 1.42.0: Automate Chromium, Firefox and WebKit browsers
 dev-python/poetry-dynamic-versioning 1.2.0: Plugin for Poetry to enable dynamic versioning based on VCS tags
 dev-python/promise 2.3.0: Promises/A+ implementation for Python
 dev-python/proxy-db 0.2.5-r1: Manage free and private proxies on local db for Python Projects
-dev-python/psd-tools 1.9.13-r1: Package for working with Adobe Photoshop PSD files
 dev-python/publicsuffixlist 0.7.8: publicsuffixlist implement
-dev-python/py-pdf-parser 0.12.0: A tool to help extracting information from structured PDFs.
 dev-python/py2neo 3.1.2 4.3.0-r1: A simple and pragmatic library which accesses the Neo4j graph database
 dev-python/pyDes 2.0.1: Pure python implementation of DES and TRIPLE DES encryption algorithm
 dev-python/pyFFTW 0.13.1_p20240117 9999: A pythonic python wrapper around FFTW
@@ -432,7 +430,6 @@ dev-python/python3-openid 3.1.0: Python 3 port of the python-openid library
 dev-python/pytimeparse 1.1.8: A small Python module to parse various kinds of time expressions
 dev-python/pytun-pmd3 1.0.0: python-pytun fork with Darwin support (IPv6-ONLY)
 dev-python/pyvnc 20220514-r1: Client library for interacting with a VNC session
-dev-python/pyvoronoi 1.0.7_p20231113 1.1.0: Cython wrapper for the Boost Voronoi library
 dev-python/pywerview 0.6: A Python port of PowerSploit's PowerView
 dev-python/pyzipper 0.3.5: AES encryption for zipfile
 dev-python/qh3 0.12.0: An implementation of QUIC and HTTP/3
