@@ -596,7 +596,7 @@ media-sound/deinvert 9999: A voice inversion descrambler
 net-analyzer/GyoiThon 9999: GyoiThon is a growing penetration test tool using Machine Learning
 net-analyzer/NetExec 1.1.0 1.2.0: A swiss army knife for pentesting Windows/Active Directory environments
 net-analyzer/amass 4.2.0: Subdomain OSINT Enumeration
-net-analyzer/bettercap 2.31.1 2.32.0: A complete, modular, portable and easily extensible MITM framework
+net-analyzer/bettercap 2.32.0 2.33.0: A complete, modular, portable and easily extensible MITM framework
 net-analyzer/bonesi 0.3.1 9999: BoNeSi - the DDoS botnet simulator
 net-analyzer/cameradar 5.0.1 5.0.2: Cameradar hacks its way into RTSP videosurveillance cameras
 net-analyzer/commix 3.4 3.6: Automated All-in-One OS command injection and exploitation tool
