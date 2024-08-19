@@ -9,5 +9,5 @@ LICENSE=MIT
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://github.com/tomnomnom/unfurl/archive/v0.2.0.tar.gz -> unfurl-0.2.0.tar.gz https://github.com/jakewarren/tldomains/archive/dd0852eb6e50.tar.gz -> github.com-jakewarren-tldomains-dd0852eb6e50.tar.gz
-_eclasses_=golang-base	33e0f9ff6c6f053a3df2d38992afeb58	toolchain-funcs	5f8f1dc0c94e007fa08af4e98a19d0e5	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	e503ea5acc20410237ba33ec3f7c857d	go-env	90efbc8636d2f02d9654183330e84cf7	golang-vcs-snapshot	dacb23628c2ff18d349878f599c078a5
+_eclasses_=golang-base	33e0f9ff6c6f053a3df2d38992afeb58	toolchain-funcs	333970c740aa7b1a92e4fcdc52f612bd	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	e503ea5acc20410237ba33ec3f7c857d	go-env	90efbc8636d2f02d9654183330e84cf7	golang-vcs-snapshot	dacb23628c2ff18d349878f599c078a5
 _md5_=8c3a8a709b5712d36f24ef9ab4626940

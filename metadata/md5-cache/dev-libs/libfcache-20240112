@@ -11,5 +11,5 @@ LICENSE=LGPL-3
 RDEPEND=dev-libs/libcdata[nls=] dev-libs/libcerror[nls=] dev-libs/libcthreads[nls=] nls? ( virtual/libiconv virtual/libintl )
 SLOT=0
 SRC_URI=https://github.com/libyal/libfcache/releases/download/20240112/libfcache-alpha-20240112.tar.gz
-_eclasses_=gnuconfig	a397adda6984a4c423e28ac274c1ba98	toolchain-funcs	5f8f1dc0c94e007fa08af4e98a19d0e5	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	5f49a16f67f81bdf873e3d1f10b10001	autotools	d12ccbad07b44642a75ac97a3334d8e0
+_eclasses_=gnuconfig	a397adda6984a4c423e28ac274c1ba98	toolchain-funcs	333970c740aa7b1a92e4fcdc52f612bd	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	5f49a16f67f81bdf873e3d1f10b10001	autotools	d12ccbad07b44642a75ac97a3334d8e0
 _md5_=8c992ad60c8b918acd3f5e72594c06d3
