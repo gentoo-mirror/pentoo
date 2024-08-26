@@ -358,7 +358,7 @@ dev-python/mockito 1.2.0: Spying framework based on Mockito java library
 dev-python/msldap 0.5.9 0.5.10: Python library to play with MS LDAP
 dev-python/msoffcrypto-tool 5.0.0 5.3.1: Decrypting MS Office files with passwords or other keys
 dev-python/mutf8 1.0.6: Fast MUTF-8 encoder & decoder
-dev-python/nanobind 1.7.0_p20231019 1.8.0: tiny and efficient C++/Python bindings
+dev-python/nanobind 1.7.0_p20231019: tiny and efficient C++/Python bindings
 dev-python/nassl 5.0.1 5.1.0 5.2.0: Experimental OpenSSL wrapper for Python 3.7+ and SSLyze
 dev-python/neo4j 4.2.1 5.22.0: Neo4j Bolt driver for Python
 dev-python/neobolt 1.7.17: Neo4j Bolt Connector for Python
