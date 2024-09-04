@@ -762,7 +762,7 @@ net-wireless/rtl_power_fftw 0.0_p20200601 9999: power spectrum for RTLSDR dongle
 net-wireless/rx_tools 1.0.3_p20190331 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
 net-wireless/sdrangel 7.14.2-r1: SDR Rx/Tx software
 net-wireless/sdrtrunk 0.5.2-r1: Decode, monitor, record and stream trunked mobile and related radio protocols
-net-wireless/sdrtrunk-bin 0.5.3 0.6.0: Decode, monitor, record and stream trunked mobile and related radio protocols
+net-wireless/sdrtrunk-bin 0.5.3 0.6.0 0.6.1_beta1: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/signalhound-spike 3.5.9: Spectrum analyzer software for Signal Hound test equipment
 net-wireless/soapy-sdrplay3 9999 20230421: Soapy SDR module for SRDPlay API v3
 net-wireless/soapy_power 1.6.1-r1: Obtain power spectrum from SoapySDR devices
@@ -800,7 +800,7 @@ pentoo/pentoo-system 2024.1: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2023.0: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2023.2: Pentoo wireless meta ebuild
 pentoo/rfctf-client 2024.2: Packages needed to power the client and SDR devices for RFCTF events
-pentoo/zero-system 2024.2-r2: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
+pentoo/zero-system 2024.2-r3: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
 sci-electronics/litedram 20180514: Small footprint and configurable DRAM core
 sci-electronics/liteeth 20180719: Small footprint and configurable Ethernet core
 sci-electronics/litepcie 20180530-r1: Small footprint and configurable PCIe core
