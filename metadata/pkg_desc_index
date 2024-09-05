@@ -209,7 +209,7 @@ dev-python/Js2Py 0.67_p20200212: JavaScript to Python Translator & JavaScript in
 dev-python/PTP 0.4.2-r1: Pentester's Tools Parser
 dev-python/Protego 0.2.1: robots.txt parser with support for modern conventions
 dev-python/Scrapy 2.6.3 2.11.1: A high-level Web Crawling and Web Scraping framework
-dev-python/aardwolf 0.2.8: Asynchronous RDP protocol implementation
+dev-python/aardwolf 0.2.8 0.2.9: Asynchronous RDP protocol implementation
 dev-python/acora 2.2: Fast multi-keyword search engine for text strings
 dev-python/adblockparser 0.7: Parser for Adblock Plus rules
 dev-python/aesedb 0.1.4 0.1.6: async parser for JET
