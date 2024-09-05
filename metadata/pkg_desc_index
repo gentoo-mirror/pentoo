@@ -814,7 +814,7 @@ sys-devel/gdb-dashboard 0.11.4-r1 9999: Modular visual interface for GDB in Pyth
 sys-fs/ext4-crypt 20170216 99999999: A userspace tool to create ext4 encrypted directories
 sys-kernel/nvidia-bl 0.17.3: Driver to adjust display backlight on legacy mobile NVidia graphics adapters
 sys-kernel/pentoo-lts-sources 2: Pentoo kernel sources (kernel series .)
-sys-kernel/pentoo-sources 6.6.37 6.9.8: Pentoo kernel sources (kernel series 6.9)
+sys-kernel/pentoo-sources 6.6.49 6.10.8: Pentoo kernel sources (kernel series 6.10)
 sys-kernel/pf_ring-kmod 7.8.0_p20210421: High-speed packet processing framework (kernel modules for)
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
 virtual/libyal-tools 0: Virtual for all command line forensics tools provided by libyal
