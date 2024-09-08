@@ -10,5 +10,5 @@ LICENSE=MIT
 RDEPEND=iptables? ( net-firewall/iptables ) filecaps? ( sys-libs/libcap )
 SLOT=0
 SRC_URI=https://github.com/wangyu-/udp2raw-tunnel/archive/20200818.0.tar.gz -> udp2raw-tunnel-20200818.0.tar.gz
-_eclasses_=fcaps	c0a086b957a1b183a8d136eabf02f191	toolchain-funcs	333970c740aa7b1a92e4fcdc52f612bd	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	e503ea5acc20410237ba33ec3f7c857d
+_eclasses_=fcaps	c0a086b957a1b183a8d136eabf02f191	toolchain-funcs	948855ec7ad9f11351edf9066708dfa9	multilib	7e1347c006a76bb812f3a9f663b79991	flag-o-matic	fa33e3696fe4689dda7e9affe92e2c94
 _md5_=8fcd0076584e53d1e70bf8f3de05c027
