@@ -220,6 +220,7 @@ dev-python/aiomultiprocess 0.8.0 0.9.0: asyncio version of the standard multipro
 dev-python/aiosmb 0.4.8 0.4.10: Asynchronous SMB protocol implementation
 dev-python/aiowinreg 0.0.9 0.0.10: Windows registry file reader
 dev-python/altgraph 0.17 0.17.3: A constructing graphs, BFS and DFS traversals, etc
+dev-python/ansicolors 1.1.8: Add ANSI colors and decorations to your strings
 dev-python/antlr4-python3-runtime 4.13.1: Python 3 runtime for ANTLR
 dev-python/apkid 2.1.3 2.1.4 2.1.5: Android Package Protector Identifier
 dev-python/apksigcopier 1.1.1: copy/extract/patch android apk signatures & compare
@@ -236,6 +237,7 @@ dev-python/aspectlib 1.5.2-r1: Aspect-oriented programming, monkey-patch and dec
 dev-python/asyauth 0.0.18 0.0.20: asyauth by skilsec
 dev-python/asysocks 0.2.9 0.2.11: Socks5 / Socks4 client and server library
 dev-python/banal 1.0.1: Commons of banal micro-functions for Python.
+dev-python/base58 2.1.1: Base58 and Base58Check implementation compatible with the bitcoin network
 dev-python/beautifultable 0.8.0: Print ASCII tables for terminals
 dev-python/bidict 0.21.2 0.22.1: The bidirectional mapping library for Python.
 dev-python/biplist 1.0.3: A binary plist parser/generator for Python
@@ -461,6 +463,7 @@ dev-python/sqlalchemy_mixins 1.2.1: Active Record, Django-like queries
 dev-python/sqlalchemy_schemadisplay 1.3: Turn SQLAlchemy DB Model into a graph
 dev-python/sqlalchemy_utc 0.12.0: SQLAlchemy type to store aware datetime values
 dev-python/srptools 1.0.1: Tools to implement Secure Remote Password (SRP) authentication
+dev-python/sslcrypto 5.3: ECIES, AES and RSA OpenSSL-based implementation with fallback
 dev-python/stegoveritas-binwalk 2.1.2: Binwalk release specifically for stegoveritas
 dev-python/stegoveritas-pfp 0.2.3: An 010 template interpreter for Python
 dev-python/stegoveritas-py010parser 0.1.10: A modified pycparser to parse 010 templates
@@ -749,7 +752,7 @@ net-wireless/op25 20240327: software-defined analyzer for APCO P25 signals
 net-wireless/pixiewps 1.4.2: Bruteforce offline the WPS pin exploiting the low or non-existing entropy
 net-wireless/portapack-firmware 99999999: Portability Add-On for the HackRF Software-Defined Radio
 net-wireless/portapack-mayhem 1.7.4 2.0.1 9999: Custom firmware for the HackRF SDR + PortaPack H1 addon
-net-wireless/proxmark3 4.18218 4.18341 9999: A general purpose RFID tool for Proxmark3 hardware
+net-wireless/proxmark3 4.18218 4.18341 4.18994 9999: A general purpose RFID tool for Proxmark3 hardware
 net-wireless/qflipper 1.3.3-r1 9999: Desktop application for updating Flipper Zero firmware via PC
 net-wireless/qspectrumanalyzer 2.2.0: vendor and platform neutral SDR support library
 net-wireless/reaver-wps-fork-t6x 1.6.6: Utilise Pixie Dust Attack to find the correct WPS PIN.
