@@ -151,7 +151,7 @@ dev-java/logback-classic 1.4.1: logback-classic module
 dev-java/logback-core 1.4.1: logback-core module
 dev-libs/LeechCore 2.16 2.18: Direct Memory Access (DMA) Attack Software
 dev-libs/c-mnalib 1.0.0: C library for easy access and configuration of mobile network modems
-dev-libs/cm256cc 1.1.0: Fast GF(256) Cauchy MDS Block Erasure Codec in C++
+dev-libs/cm256cc 1.1.1: Fast GF(256) Cauchy MDS Block Erasure Codec in C++
 dev-libs/frida-core 16.0.19 16.1.8: Dynamic instrumentation toolkit for reverse-engineers and security researchers
 dev-libs/hashdb 3.1.0-r2: The hashdb block hash database tool and API
 dev-libs/libcaes 20240114: Library to support cross-platform AES encryption
@@ -762,7 +762,7 @@ net-wireless/rtl8852bu_morrownr 9999: RTL88{3,5}2BU driver with monitor mode and
 net-wireless/rtl88x2bu_morrownr 9999: RTL88{1,2}2BU driver with monitor mode and frame injection
 net-wireless/rtl_power_fftw 0.0_p20200601 9999: power spectrum for RTLSDR dongles
 net-wireless/rx_tools 1.0.3_p20190331 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
-net-wireless/sdrangel 7.14.2-r1: SDR Rx/Tx software
+net-wireless/sdrangel 7.22.0: SDR Rx/Tx software
 net-wireless/sdrtrunk 0.5.2-r1: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/sdrtrunk-bin 0.5.3 0.6.0 0.6.1_beta1: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/signalhound-spike 3.5.9: Spectrum analyzer software for Signal Hound test equipment
