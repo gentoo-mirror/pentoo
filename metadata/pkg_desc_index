@@ -323,7 +323,7 @@ dev-python/htmlentities 0.3.0: Easy-to-use data handling for SQL data stores
 dev-python/http-tools 3.0.0 4.0.0: Capture, repeat and live intercept HTTP requests
 dev-python/httpagentparser 1.9.1: Extracts OS Browser etc information from http user agent string
 dev-python/hupper 1.9.1: Integrated process monitor for developing and reloading daemons
-dev-python/impacket 0.11.0 9999: A collection of Python classes focused on providing access to network packets
+dev-python/impacket 0.11.0 0.12.0: A collection of Python classes focused on providing access to network packets
 dev-python/inotify 0.2.10-r2: an efficient and elegant inotify
 dev-python/inquirer3 0.4.0: Collection of common interactive command line user interfaces
 dev-python/invoke 2.2.0: Pythonic task execution
