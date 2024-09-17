@@ -604,7 +604,7 @@ net-analyzer/cameradar 5.0.1 5.0.2: Cameradar hacks its way into RTSP videosurve
 net-analyzer/commix 3.4 3.6: Automated All-in-One OS command injection and exploitation tool
 net-analyzer/cottontail 20190426-r1: Capture all RabbitMQ messages being sent through a broker
 net-analyzer/crackmapexec 5.4.0: A swiss army knife for pentesting Windows/Active Directory environments
-net-analyzer/davtest 1.2_p20230307: tests WebDAV enabled servers
+net-analyzer/davtest 1.2_p20230307-r1: tests WebDAV enabled servers
 net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden content
 net-analyzer/dirhunt 0.6.0-r2 0.7.0-r1: Dirhunt is a web crawler optimized for searching and analyzing web directories.
 net-analyzer/dnsrecon 1.1.5 1.2.0: DNS Enumeration Script
