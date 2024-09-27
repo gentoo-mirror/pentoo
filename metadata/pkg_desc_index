@@ -345,7 +345,7 @@ dev-python/ldapdomaindump 0.9.4_p20240213: Active Directory information dumper v
 dev-python/leather 0.3.3: Python charting for 80% of humans
 dev-python/libsast 1.5.2 2.0.3: A generic SAST core built on top of semgrep and regex
 dev-python/limits 3.7.0: Rate limiting utilities
-dev-python/lsassy 3.1.10 3.1.11: Python library to parse remote lsass dumps
+dev-python/lsassy 3.1.10 3.1.11 3.1.12: Python library to parse remote lsass dumps
 dev-python/lzfse 0.4.2: Python bindings for the LZFSE reference implementation
 dev-python/macholib 1.14 1.16.2: A package is a collection of utilities for dealing with IP addresses
 dev-python/manuel 1.9.0: Manuel lets you build tested documentation
