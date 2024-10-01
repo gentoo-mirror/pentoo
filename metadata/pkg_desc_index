@@ -564,6 +564,7 @@ dev-util/electron-bin 6.0.11: Cross platform application development framework b
 dev-util/electron-packager 14.2.1: Six Degrees of Domain Admin
 dev-util/frida-tools 12.1.2 12.3.0: Frida CLI tools
 dev-util/ghidra 11.1.2 11.2: A software reverse engineering framework
+dev-util/hbctool 0.1.5: Disassembling and assembling the Hermes Bytecode
 dev-util/itstool 2.0.7 2.0.7-r1: Translation tool for XML documents that uses gettext files and ITS rules
 dev-util/jadx-bin 1.4.7 1.5.0: A standalone graphical Java Decompiler
 dev-util/jd-cli 1.2.1: Command line Java Decompiler
@@ -683,8 +684,8 @@ net-misc/pwnedornot 1.2.8_p20200602: OSINT Tool for Finding Passwords of Comprom
 net-misc/sippts 3.4: set of tools to audit VoIP servers and devices using SIP protocol
 net-misc/t50 5.8.5 5.8.7: Mixed Packet Injector & Network Stress Testing Tool
 net-misc/voipong 2.0_p20111230: detect all VoIP calls on a pipeline and dump actual conversation
-net-proxy/burpsuite 2024.6.5 2024.6.6 2024.7.5 9999: Interactive proxy for attacking and debugging web applications
-net-proxy/burpsuite-pro 2024.6_rc 2024.6.5 2024.6.6 2024.7.5: Interactive proxy for attacking and debugging web applications
+net-proxy/burpsuite 2024.6.6 2024.7.5 2024.7.6 9999: Interactive proxy for attacking and debugging web applications
+net-proxy/burpsuite-pro 2024.6_rc 2024.7.5 2024.7.6: Interactive proxy for attacking and debugging web applications
 net-proxy/insomnia-bin 9.3.0 10.0.0: REST API client, a postman alternative
 net-proxy/shadowsocks-rust 1.17.1 1.20.0: Shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
 net-proxy/sshttp 0.35_p2-r1 0.35_p20191108: An easy to use OSI-Layer5 switching daemon
