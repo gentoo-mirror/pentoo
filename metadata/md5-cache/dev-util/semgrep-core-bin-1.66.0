@@ -8,5 +8,5 @@ KEYWORDS=amd64
 LICENSE=LGPL-2
 SLOT=0
 SRC_URI=https://files.pythonhosted.org/packages/cp38.cp39.cp310.cp311.py37.py38.py39.py310.py311/s/semgrep/semgrep-1.66.0-cp38.cp39.cp310.cp311.py37.py38.py39.py310.py311-none-any.whl -> semgrep-1.66.0-cp38.cp39.cp310.cp311.py37.py38.py39.py310.py311-none-any.whl.zip
-_eclasses_=pypi	2eecb475512bc76e5ea9192a681b9e6b
+_eclasses_=pypi	ad1b21f87d117ae9bb089bdb65b8f013
 _md5_=406b44fa7f60bb18d9685144a0a122ac

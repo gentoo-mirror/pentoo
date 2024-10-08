@@ -9,5 +9,5 @@ LICENSE=GPL-2
 RDEPEND=media-sound/sox net-libs/libpcap
 SLOT=0
 SRC_URI=https://github.com/EnderUNIX/VoIPong/archive/d52e39304842fd3662a9f35f3b51c1725320bc4f.tar.gz -> voipong-2.0_p20111230.tar.gz
-_eclasses_=vcs-snapshot	3d327d546f76e4c2054573ff0d78fad2
+_eclasses_=vcs-snapshot	bd69bf57fd2c34e99964a03b1d968177
 _md5_=bf37bf7aecab9d8381020fbc4e3e9e1a
