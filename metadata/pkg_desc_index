@@ -682,6 +682,7 @@ net-misc/voipong 2.0_p20111230: detect all VoIP calls on a pipeline and dump act
 net-proxy/burpsuite 2024.7.6 2024.8.2 9999: Interactive proxy for attacking and debugging web applications
 net-proxy/burpsuite-pro 2024.6_rc 2024.7.6 2024.8.2: Interactive proxy for attacking and debugging web applications
 net-proxy/insomnia-bin 9.3.0 10.0.0: REST API client, a postman alternative
+net-proxy/mitmproxy 9.0.1 11.0.0: An interactive, SSL-capable, man-in-the-middle HTTP proxy
 net-proxy/shadowsocks-rust 1.17.1 1.20.0: Shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
 net-proxy/sshttp 0.35_p2-r1 0.35_p20191108: An easy to use OSI-Layer5 switching daemon
 net-proxy/zaproxy 2.14.0 2.15.0: The OWASP Zed Attack Proxy for finding vulnerabilities in web applications
