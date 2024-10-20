@@ -7,5 +7,5 @@ KEYWORDS=amd64 x86
 LICENSE=GPL-2
 RDEPEND=dev-perl/Net-SNMP
 SLOT=0
-SRC_URI=https://dl.packetstormsecurity.net/UNIX/scanners/snmpenum.zip -> snmpenum-1.0.zip
-_md5_=743edaf6f983084454410b68592476c6
+SRC_URI=https://pentoo.org/~zero/distfiles/snmpenum-1.0.zip
+_md5_=5c2d332ec4324cea9e638e7a2e450153
