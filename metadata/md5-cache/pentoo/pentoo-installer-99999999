@@ -9,4 +9,4 @@ PROPERTIES=live
 RDEPEND=app-crypt/pinentry[gtk,ncurses] app-misc/jq dev-util/dialog sys-apps/gptfdisk sys-apps/util-linux sys-block/parted sys-boot/efibootmgr sys-boot/grub:2[-multislot(-),grub_platforms_efi-32,grub_platforms_efi-64] sys-boot/os-prober sys-boot/shim sys-boot/mokutil sys-fs/btrfs-progs sys-fs/cryptsetup sys-fs/dosfstools sys-fs/f2fs-tools sys-fs/growpart sys-fs/jfsutils sys-fs/reiserfsprogs sys-fs/squashfs-tools sys-fs/xfsprogs sys-libs/timezone-data x11-misc/wmctrl net-misc/rsync
 SLOT=0
 _eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81
-_md5_=29136bb3985265acfc5c41fc63beadf7
+_md5_=41faaae3101305bf0356ceac3b7e8e7b

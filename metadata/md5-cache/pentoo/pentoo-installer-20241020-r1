@@ -6,5 +6,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 RDEPEND=app-crypt/pinentry[gtk,ncurses] app-misc/jq dev-util/dialog sys-apps/gptfdisk sys-apps/util-linux sys-block/parted sys-boot/efibootmgr sys-boot/grub:2[-multislot(-),grub_platforms_efi-32,grub_platforms_efi-64] sys-boot/os-prober sys-boot/shim sys-boot/mokutil sys-fs/btrfs-progs sys-fs/cryptsetup sys-fs/dosfstools sys-fs/f2fs-tools sys-fs/growpart sys-fs/jfsutils sys-fs/reiserfsprogs sys-fs/squashfs-tools sys-fs/xfsprogs sys-libs/timezone-data x11-misc/wmctrl net-misc/rsync
 SLOT=0
-SRC_URI=https://github.com/pentoo/pentoo-installer/archive/f7ec0538a4a79d550ffacf512fa50cb5e041f3ab.tar.gz -> pentoo-installer-20241020.tar.gz
-_md5_=29136bb3985265acfc5c41fc63beadf7
+SRC_URI=https://github.com/pentoo/pentoo-installer/archive/6067dabb0d313a84b84d615d1dbdb50cc15106ef.tar.gz -> pentoo-installer-20241020-r1.tar.gz
+_md5_=41faaae3101305bf0356ceac3b7e8e7b
