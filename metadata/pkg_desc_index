@@ -189,7 +189,7 @@ dev-libs/libvmdk 20210807 20221022: Library and tools to access the VMware Virtu
 dev-libs/libwrc 20240421: Library to access the Windows Resource Compiler (WRC) format
 dev-libs/memprocfs 5.0 5.8: The Memory Process File System
 dev-libs/nanopb 0.4.7 0.4.8: plain-C Protocol Buffers for embedded/memory-constrained systems
-dev-libs/openssl-bad 1.0.2_p20220901-r1: Snapshot for testssl.sh >2.8 from PM's fork, ready to compile
+dev-libs/openssl-bad 1.0.2_p20220901-r1 1.0.2_p20220901-r2: full-strength general purpose cryptography library (including SSL and TLS)
 dev-libs/serialDV 1.1.4: C++ library to encode/decode audio with AMBE3000
 dev-perl/Encoding-BER 1.02: Perl module for encoding/decoding data using ASN.1 Basic Encoding Rules (BER)
 dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
@@ -679,8 +679,8 @@ net-misc/pwnedornot 1.2.8_p20200602: OSINT Tool for Finding Passwords of Comprom
 net-misc/sippts 3.4: set of tools to audit VoIP servers and devices using SIP protocol
 net-misc/t50 5.8.5 5.8.7: Mixed Packet Injector & Network Stress Testing Tool
 net-misc/voipong 2.0_p20111230: detect all VoIP calls on a pipeline and dump actual conversation
-net-proxy/burpsuite 2024.8.2 2024.8.4 2024.8.5 9999: Interactive proxy for attacking and debugging web applications
-net-proxy/burpsuite-pro 2024.6_rc 2024.8.2 2024.8.4: Interactive proxy for attacking and debugging web applications
+net-proxy/burpsuite 2024.8.4 2024.8.5 9999: Interactive proxy for attacking and debugging web applications
+net-proxy/burpsuite-pro 2024.6_rc 2024.8.4 2024.8.5: Interactive proxy for attacking and debugging web applications
 net-proxy/insomnia-bin 9.3.0 10.0.0: REST API client, a postman alternative
 net-proxy/mitmproxy 9.0.1 11.0.0: An interactive, SSL-capable, man-in-the-middle HTTP proxy
 net-proxy/shadowsocks-rust 1.17.1 1.20.0: Shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
