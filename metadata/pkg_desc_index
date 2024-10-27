@@ -69,7 +69,7 @@ app-forensics/libfshfs 20220709 20220831: Library and tools to access the Mac OS
 app-forensics/libfsntfs 20240501: Library and tools to access the Windows New Technology File System (NTFS)
 app-forensics/libfsxfs 20220706 20220829: Library and tools to access the SGI X File System (XFS)
 app-forensics/libfvde 20220807 20220915: Library and tools to access FileVault Drive Encryption (FVDE) encrypted volumes
-app-forensics/liblnk 20210417 20221023: Library and tools to access the Windows Shortcut File (LNK) format
+app-forensics/liblnk 20240120 20240423: Library and tools to access the Windows Shortcut File (LNK) format
 app-forensics/libluksde 20220807 20221103: Library and tools to access LUKS Disk Encryption encrypted volumes
 app-forensics/libmodi 20210807 20221023: Library and tools to access the Mac OS disk image formats
 app-forensics/libmsiecf 20210420 20221024: Library and tools to access the Microsoft Internet Explorer (MSIE) Cache Files
@@ -169,7 +169,7 @@ dev-libs/libfdatetime 20240415: Library for date and time formats
 dev-libs/libfguid 20240415: Library for GUID/UUID format
 dev-libs/libfmapi 20180714 20220114: Library for MAPI data types
 dev-libs/libfmos 20220811: Library for Mac OS data types
-dev-libs/libfole 20170502 20220115: Library for Object Linking and Embedding (OLE) data types
+dev-libs/libfole 20240119 20240416: Library for Object Linking and Embedding (OLE) data types
 dev-libs/libfplist 20210404 20220116: Library for plist format
 dev-libs/libftxf 20180815 20220116: Library for Transactional NTFS (TxF) data types
 dev-libs/libftxr 20180815 20220118: Library for Transactional Registry (TxR) data types
@@ -177,8 +177,8 @@ dev-libs/libfusn 20240416: Library for Update Sequence Number (USN) Journal data
 dev-libs/libfvalue 20240415: Library for generic file value functions
 dev-libs/libfwevt 20220723 20220925: Library for Windows XML Event Log (EVTX) data types
 dev-libs/libfwnt 20240126: Library for Windows NT data types
-dev-libs/libfwps 20191221 20220122: Library for Windows Property Store data types
-dev-libs/libfwsi 20220123 20220927: Library to access the Windows Shell Item format
+dev-libs/libfwps 20240310 20240417: Library for Windows Property Store data types
+dev-libs/libfwsi 20240315 20240423: Library to access the Windows Shell Item format
 dev-libs/libhmac 20240129: Library to support various Hash-based Message Authentication Codes (HMAC)
 dev-libs/libmapidb 20170125 20170304: Library to access the Exchange MAPI database format
 dev-libs/libsigscan 20220124 20221027: Library for binary signature scanning.
