@@ -4,7 +4,7 @@ acct-group/sonar 0: Group for SonarQube
 acct-user/davmail 0: User for Davmail
 acct-user/sonar 0: User for SonarQube
 app-admin/genmenu 0.0_p20230623 9999: a tool for generating freedesktop-compliant menus
-app-admin/opensnitch 1.6.5.1 1.6.6: Desktop application firewall
+app-admin/opensnitch 1.6.5.1 1.6.6-r1: Desktop application firewall
 app-admin/opensnitch-ebpf-module 1.6.5.1 1.6.6: eBPF process monitor module for opensnitch
 app-admin/system-config-printer 1.5.18-r1: Graphical user interface for CUPS administration
 app-antivirus/malheur 0.5.4-r1: Malware analysis tool
@@ -381,7 +381,7 @@ dev-python/py2neo 3.1.2 4.3.0-r1: A simple and pragmatic library which accesses 
 dev-python/pyDes 2.0.1: Pure python implementation of DES and TRIPLE DES encryption algorithm
 dev-python/pyFFTW 0.13.1_p20240117 9999: A pythonic python wrapper around FFTW
 dev-python/pyaff4 0.27: Python Advanced Forensic Format Version 4 library
-dev-python/pyasn 1.6.1-r1: Python IP address to Autonomous System Number lookup module
+dev-python/pyasn 1.6.2: Python IP address to Autonomous System Number lookup module
 dev-python/pyaxmlparser 0.3.24 0.3.26: Parser for Android XML file and get Application Name without using Androguard
 dev-python/pycups 2.0.1-r1: Python bindings for the CUPS API
 dev-python/pydispatcher 2.0.5: Multi-producer-multi-consumer signal dispatching mechanism
