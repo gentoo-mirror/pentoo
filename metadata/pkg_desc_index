@@ -501,7 +501,7 @@ dev-ruby/docopt 0.6.1: Command line option parser
 dev-ruby/em-http-request 1.1.7: EventMachine based, async HTTP Request client
 dev-ruby/em-socksify 0.3.2: Transparent proxy support for any EventMachine protocol
 dev-ruby/espeak-ruby 1.0.4: A small API for utilizing 'espeak' and 'lame' to create Text-To-Speech mp3 files
-dev-ruby/ethon 0.16.0: Very lightweight libcurl wrapper
+dev-ruby/ethon 0.15.0: Very lightweight libcurl wrapper
 dev-ruby/fastercsv 1.5.5: A complete replacement to the CSV standard library
 dev-ruby/faye-websocket 0.11.0: Standards-compliant WebSocket server and client
 dev-ruby/get_process_mem 0.2.5 0.2.7: Get memory usage of a process
