@@ -102,7 +102,7 @@ app-forensics/pytsk 20210801 20211111: Python bindings for The Sleuth Kit (libts
 app-forensics/reglookup 1.0.1-r1 9999: An utility for reading and querying Windows NT/2K/XP registries
 app-forensics/s3tk 0.3.0 9999: A security toolkit for Amazon S3
 app-forensics/samhain 4.3.3 4.4.0: Advanced file integrity and intrusion detection tool.
-app-forensics/scap-security-guide 0.1.50 0.1.51: Security compliance content in SCAP, Bash, Ansible, and other formats
+app-forensics/scap-security-guide 0.1.51: Security compliance content in SCAP, Bash, Ansible, and other formats
 app-forensics/stegoveritas 1.8: Automatic image steganography analysis tool
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
 app-forensics/zsteg 0.2.13: Detect stegano-hidden data in PNG & BMP
@@ -250,7 +250,6 @@ dev-python/click-option-group 0.5.3: Option groups missing in Click
 dev-python/cmake-converter 2.0.1: CMake converter for Visual Studio projects
 dev-python/codegen 1.0: Extension to ast that allow ast -> python code generation
 dev-python/config 0.4.2: A hierarchical, easy-to-use, powerful configuration module for Python
-dev-python/coreschema 0.0.4: Core Schema
 dev-python/dask 2024.5.2 2024.7.0: Task scheduling and blocked algorithms for parallel processing
 dev-python/dataset 1.3.2 1.6.2: Easy-to-use data handling for SQL data stores
 dev-python/dbfread 2.0.7-r1: Read DBF Files with Python
@@ -279,7 +278,7 @@ dev-python/exifread 2.3.1 2.3.2: Read Exif metadata from tiff and jpeg files
 dev-python/face 20.1.1: Straightforward CLI parsing and dispatching microframework
 dev-python/fake-useragent 0.1.11: Up to date simple useragent faker with real world database
 dev-python/faraday-plugins 1.0.1-r1: No project description provided
-dev-python/fastapi 0.108.0 0.109.2: High performance framework, easy to learn, fast to code, ready for production
+dev-python/fastapi 0.109.2: High performance framework, easy to learn, fast to code, ready for production
 dev-python/fastkml 0.11: Fast KML processing in python
 dev-python/filedepot 0.7.1: Toolkit for storing files and attachments in web applications
 dev-python/filteralchemy-fork 0.1.0: Declarative query builder for SQLAlchemy
@@ -373,7 +372,7 @@ dev-python/parsel 1.5.1: Extract data from HTML and XML using XPath and CSS sele
 dev-python/pcodedmp 1.2.6: A VBA p-code disassembler
 dev-python/playsound 1.2.2: Single function module with no dependencies for playing sounds
 dev-python/playwright-bin 1.42.0: Automate Chromium, Firefox and WebKit browsers with a single API
-dev-python/poetry-dynamic-versioning 1.2.0 1.4.0: Plugin for Poetry to enable dynamic versioning based on VCS tags
+dev-python/poetry-dynamic-versioning 1.4.0: Plugin for Poetry to enable dynamic versioning based on VCS tags
 dev-python/promise 2.3.0: Promises/A+ implementation for Python
 dev-python/proxy-db 0.2.5-r1: Manage free and private proxies on local db for Python Projects
 dev-python/publicsuffixlist 0.7.8: publicsuffixlist implement
@@ -551,7 +550,7 @@ dev-util/androguard 4.1.1 4.1.2: Read Android's binary format for XML files (AXM
 dev-util/android-sdk-build-tools 30.0.3 31 33 34: Android SDK Build Tools
 dev-util/apkInspector 1.2.0 1.2.1: A tool designed to provide detailed insights into the zip structure of APK files
 dev-util/apktool 2.9.3 2.10.0: A tool for reengineering 3rd party, closed, binary Android apps
-dev-util/appmon 0.5_p20201013: Monitoring and tampering API calls of MacOS and iOS/Android apps
+dev-util/appmon 0.5_p20221108: Monitoring and tampering API calls of MacOS and iOS/Android apps
 dev-util/chipsec 1.13.3: Platform Security Assessment Framework
 dev-util/dependency-check-bin 5.3.2 6.2.2: A utility that detects vulnerabilities in application dependencies
 dev-util/dex2jar 2.3 2.4: Tools to work with android .dex and java .class files
@@ -562,7 +561,7 @@ dev-util/ghidra 11.1.2 11.2 11.2.1: A software reverse engineering framework
 dev-util/hbctool 0.1.5: Disassembling and assembling the Hermes Bytecode
 dev-util/hermes-dec 20240407: decompiling and disassembling the React Native Hermes bytecode
 dev-util/itstool 2.0.7 2.0.7-r1: Translation tool for XML documents that uses gettext files and ITS rules
-dev-util/jadx-bin 1.4.7 1.5.0: A standalone graphical Java Decompiler
+dev-util/jadx-bin 1.5.0 1.5.1: A standalone graphical Java Decompiler
 dev-util/jd-cli 1.2.1: Command line Java Decompiler
 dev-util/jd-cli-bin 1.2.1: Command line Java Decompiler
 dev-util/jd-gui 1.6.6-r5: A standalone Java Decompiler GUI
@@ -604,7 +603,7 @@ net-analyzer/crackmapexec 5.4.0: A swiss army knife for pentesting Windows/Activ
 net-analyzer/davtest 1.2_p20230307-r1: tests WebDAV enabled servers
 net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden content
 net-analyzer/dirhunt 0.6.0-r2 0.7.0-r1: Dirhunt is a web crawler optimized for searching and analyzing web directories.
-net-analyzer/dnsrecon 1.2.0 1.3.0: DNS Enumeration Script
+net-analyzer/dnsrecon 1.3.0 1.3.1: DNS Enumeration Script
 net-analyzer/enum4linux 0.9.1: A tool for enumerating information from Windows and Samba systems
 net-analyzer/evilgrade 2.0.9: A modular framework that takes advantage of poor upgrade implementations by injecting fake updates.
 net-analyzer/ffuf 1.5.0 2.0.0: Fast web fuzzer / directory brute force
