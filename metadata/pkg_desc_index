@@ -29,7 +29,7 @@ app-dicts/seclists 2023.4 2024.3: A collection of multiple types of lists used d
 app-editors/rehex 0.62.0 0.62.1: Reverse Engineers' Hex Editor
 app-eselect/eselect-metasploit 0.20: eselect module for metasploit
 app-exploits/deathstar 20201217-r1 20210519: A tool to gain Domain Admin rights with a push of a button
-app-exploits/empire 5.11.4 5.11.5: A post-exploitation framework
+app-exploits/empire 5.11.5: A post-exploitation framework
 app-exploits/exploitdb 20231222 99999999: All exploits from exploit-db.com
 app-exploits/exploitdb-papers 20221122 99999999: Exploit database's papers
 app-exploits/getsploit 0.3.3_p20190530 9999: Command line utility for searching and downloading exploits
@@ -102,7 +102,6 @@ app-forensics/pytsk 20210801 20211111: Python bindings for The Sleuth Kit (libts
 app-forensics/reglookup 1.0.1-r1 9999: An utility for reading and querying Windows NT/2K/XP registries
 app-forensics/s3tk 0.3.0 9999: A security toolkit for Amazon S3
 app-forensics/samhain 4.3.3 4.4.0: Advanced file integrity and intrusion detection tool.
-app-forensics/scap-security-guide 0.1.51: Security compliance content in SCAP, Bash, Ansible, and other formats
 app-forensics/stegoveritas 1.8: Automatic image steganography analysis tool
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
 app-forensics/zsteg 0.2.13: Detect stegano-hidden data in PNG & BMP
@@ -202,7 +201,7 @@ dev-python/Js2Py 0.67_p20200212: JavaScript to Python Translator & JavaScript in
 dev-python/PTP 0.4.2-r1: Pentester's Tools Parser
 dev-python/Protego 0.2.1: robots.txt parser with support for modern conventions
 dev-python/Scrapy 2.6.3 2.11.1: A high-level Web Crawling and Web Scraping framework
-dev-python/aardwolf 0.2.9 0.2.11: Asynchronous RDP protocol implementation
+dev-python/aardwolf 0.2.11: Asynchronous RDP protocol implementation
 dev-python/acora 2.2: Fast multi-keyword search engine for text strings
 dev-python/adblockparser 0.7: Parser for Adblock Plus rules
 dev-python/aesedb 0.1.4 0.1.6: async parser for JET
@@ -480,7 +479,6 @@ dev-python/winsspi 0.0.5 0.0.7 0.0.9: Windows SSPI library in pure Python
 dev-python/xlutils 2.0.0-r1: provides a collection of utilities for working with Excel files
 dev-python/xonsh 0.14.2: Python-powered, cross-platform, Unix-gazing shell
 dev-python/xtract 0.1_alpha3: Library to (un)pack archives and (de)compress files
-dev-python/yamllint 1.21.0 1.26.1: A linter for YAML files
 dev-python/yaswfp 0.9.3: Yet Another SWF Parser.
 dev-python/youtokentome 1.0.6: Unsupervised text tokenizer focused on computational efficiency
 dev-python/zap-api-python 0.0.15: OWASP ZAP Python API
@@ -575,7 +573,6 @@ dev-util/mobsf 3.9.7 4.0.7: Automated, all-in-one mobile application (Android/iO
 dev-util/objection 1.10.2 1.11.0-r2: Runtime mobile exploration
 dev-util/pentoo-udev-rules 0.0.1: udev rules to assist in some way with hardware commonly used in pentoo
 dev-util/plasma 20190304: An interactive disassembler for x86/ARM/MIPS
-dev-util/qark 0.9_pre20190405: A tool to look for Android application vulnerabilities
 dev-util/recaf-bin 2.19.6 2.21.13: A modern Java bytecode editor
 dev-util/reflutter 0.7.2 0.7.8: Flutter apps reverse engineering
 dev-util/semgrep-core-bin 1.66.0 1.75.0: Lightweight static analysis for many languages
@@ -788,7 +785,7 @@ pentoo/pentoo-installer 20241020-r1 99999999: Installer for pentoo, based on the
 pentoo/pentoo-livecd 2023.2: things needed by pentoo for livecd only
 pentoo/pentoo-misc 2024.2: Pentoo misc meta ebuild
 pentoo/pentoo-mitm 2022.2: Pentoo mitm meta ebuild
-pentoo/pentoo-mobile 2024.0: Pentoo mobile meta ebuild
+pentoo/pentoo-mobile 2024.3: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2022.2: Collection of NFC tools
 pentoo/pentoo-opencl 0-r4: Virtual for pulling in appropriate opencl stuffs
 pentoo/pentoo-proxies 2024.1: Pentoo proxy meta ebuild
@@ -814,7 +811,7 @@ sys-devel/gdb-dashboard 0.11.4-r1 9999: Modular visual interface for GDB in Pyth
 sys-fs/ext4-crypt 20170216 99999999: A userspace tool to create ext4 encrypted directories
 sys-kernel/nvidia-bl 0.17.3: Driver to adjust display backlight on legacy mobile NVidia graphics adapters
 sys-kernel/pentoo-lts-sources 2: Pentoo kernel sources (kernel series .)
-sys-kernel/pentoo-sources 6.6.49 6.10.8: Pentoo kernel sources (kernel series 6.10)
+sys-kernel/pentoo-sources 6.6.60 6.11.7: Pentoo kernel sources (kernel series 6.11)
 sys-kernel/pf_ring-kmod 7.8.0_p20210421: High-speed packet processing framework (kernel modules for)
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
 virtual/libyal-tools 0: Virtual for all command line forensics tools provided by libyal

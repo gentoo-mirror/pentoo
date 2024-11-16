@@ -72,34 +72,6 @@ app-forensics/samhain:netclient - Build client side
 app-forensics/samhain:netserver - Build server side
 app-forensics/samhain:suidcheck - Check for suid/sgid files
 app-forensics/samhain:userfiles - Check for users' config files
-app-forensics/scap-security-guide:centos - If enabled, CentOS derivative content will be built from the RHEL content
-app-forensics/scap-security-guide:chromium - If enabled, the Chromium SCAP content will be built
-app-forensics/scap-security-guide:debian8 - If enabled, the Debian 8 SCAP content will be built
-app-forensics/scap-security-guide:eap6 - If enabled, the JBoss EAP6 SCAP content will be built
-app-forensics/scap-security-guide:example - If enabled, the Example SCAP content will be built
-app-forensics/scap-security-guide:fedora - If enabled, the Fedora SCAP content will be built
-app-forensics/scap-security-guide:firefox - If enabled, the Firefox SCAP content will be built
-app-forensics/scap-security-guide:fuse6 - If enabled, the JBoss Fuse6 SCAP content will be built
-app-forensics/scap-security-guide:jinja2 - If enabled, the jinja2 templating files will be cached into bytecode
-app-forensics/scap-security-guide:jre - If enabled, the JRE SCAP content will be built
-app-forensics/scap-security-guide:ocp3 - If enabled, the OCP3 SCAP content will be built
-app-forensics/scap-security-guide:ol7 - If enabled, the Oracle Linux 7 SCAP content will be built
-app-forensics/scap-security-guide:ol8 - If enabled, the Oracle Linux 8 SCAP content will be built
-app-forensics/scap-security-guide:opensuse - If enabled, the openSUSE SCAP content will be built
-app-forensics/scap-security-guide:rhel6 - If enabled, the RHEL6 SCAP content will be built
-app-forensics/scap-security-guide:rhel7 - If enabled, the RHEL7 SCAP content will be built
-app-forensics/scap-security-guide:rhel8 - If enabled, the RHEL8 SCAP content will be built
-app-forensics/scap-security-guide:rhosp13 - If enabled, the RHOSP13 SCAP content will be built
-app-forensics/scap-security-guide:rhv4 - If enabled, the RHV4 SCAP content will be built
-app-forensics/scap-security-guide:scientific-linux - If enabled, Scientific Linux derivative content will be built from the RHEL content
-app-forensics/scap-security-guide:shellcheck - If enabled, shellcheck validation of bash fixes will be performed as part of the ctest tests
-app-forensics/scap-security-guide:sle11 - If enabled, the SLE11 SCAP content will be built
-app-forensics/scap-security-guide:sle12 - If enabled, the SLE12 SCAP content will be built
-app-forensics/scap-security-guide:ubuntu1404 - If enabled, the Ubuntu 14.04 SCAP content will be built
-app-forensics/scap-security-guide:ubuntu1604 - If enabled, the Ubuntu 16.04 SCAP content will be built
-app-forensics/scap-security-guide:ubuntu1804 - If enabled, the Ubuntu 18.04 SCAP content will be built
-app-forensics/scap-security-guide:wrlinux1019 - If enabled, the WRLinux1019 SCAP content will be built
-app-forensics/scap-security-guide:wrlinux8 - If enabled, the WRLinux8 SCAP content will be built
 app-fuzz/protos-bin:dns - Include DNS
 app-fuzz/protos-bin:h2250 - Include H.225.0
 app-fuzz/protos-bin:http - Include HTTP-reply
@@ -142,7 +114,6 @@ dev-util/apktool:tools - Add Android SDK build tools support
 dev-util/chipsec:chipsec-driver - Install kernel driver
 dev-util/mobsf:genymotion - Add app-emulation/genymotion-bin support
 dev-util/objection:patchapk - Add support to patch APKs
-dev-util/qark:exploit - Add support for generating exploit APKs
 dev-util/recaf-bin:system-openjfx - Add OpenJFX support
 dev-util/sonarscanner-bin:embedded_jre - Install embedded JRE
 media-radio/fldigi:hamlib - Enables support by the Hamlib amateur radio rig control library to get/set frequency and mode of the ham radio in use
