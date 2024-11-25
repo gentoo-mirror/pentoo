@@ -4,7 +4,7 @@ acct-group/sonar 0: Group for SonarQube
 acct-user/davmail 0: User for Davmail
 acct-user/sonar 0: User for SonarQube
 app-admin/genmenu 0.0_p20230623 9999: a tool for generating freedesktop-compliant menus
-app-admin/opensnitch 1.6.5.1 1.6.6-r1: Desktop application firewall
+app-admin/opensnitch 1.6.6-r2: Desktop application firewall
 app-admin/opensnitch-ebpf-module 1.6.5.1 1.6.6: eBPF process monitor module for opensnitch
 app-admin/system-config-printer 1.5.18-r1: Graphical user interface for CUPS administration
 app-antivirus/malheur 0.5.4-r1: Malware analysis tool
@@ -45,8 +45,8 @@ app-exploits/routersploit 3.4.0-r2 9999: An open-source exploitation framework d
 app-exploits/traitor 0.0.3 0.0.14: Automatically exploit low-hanging fruit to pop a root shell
 app-exploits/unix-privesc-check 20210207 99999999: Shell script to check for simple privilege escalation vectors
 app-exploits/webshells 20230128 99999999: Various webshells
-app-exploits/weevely 4.0.1 9999: Weevely is a stealth PHP web shell that simulate telnet-like console
-app-exploits/wesng 20200616 99999999: Windows Exploit Suggester - Next Generation
+app-exploits/weevely 4.0.1-r1 9999: Weevely is a stealth PHP web shell that simulate telnet-like console
+app-exploits/wesng 20200616-r1 99999999: Windows Exploit Suggester - Next Generation
 app-forensics/bulk_extractor 2.0.6-r1 2.1.0: Scans a disk image for regular expressions and other content
 app-forensics/dfvfs 20220419 20220430 20220917: Digital Forensics Virtual File System (dfVFS)
 app-forensics/dfwinreg 20200121 20200415 20201006 20211205 20211207: Digital Forensics Windows Registry (dfWinReg)
@@ -128,7 +128,7 @@ app-text/endesive 2.0.2: Sign and verify digital signatures in mail, PDF and XML
 app-text/unfurl 0.2.0: Pull out bits of URLs provided on stdin
 dev-db/neo4j-community 4.2.2: High-performance, mature and robust NOSQL graph database
 dev-db/sqlsus 0.7.2: MySQL injection and takeover tool
-dev-debug/dwarf-debugger 1.1.2_p20220408 1.1.3: Full featured multi arch/os debugger built on top of PyQt5 and frida
+dev-debug/dwarf-debugger 1.1.3-r1: Full featured multi arch/os debugger built on top of PyQt5 and frida
 dev-go/fetchbot 1.3: Simple, flexible web crawler that follows robots.txt policies and crawl delays
 dev-go/go-protobuf 1.2.0 1.5.2: Go support for Google's protocol buffers
 dev-go/go-text 0.3.0: Go text processing support
@@ -376,7 +376,6 @@ dev-python/promise 2.3.0: Promises/A+ implementation for Python
 dev-python/proxy-db 0.2.5-r1: Manage free and private proxies on local db for Python Projects
 dev-python/publicsuffixlist 0.7.8: publicsuffixlist implement
 dev-python/py2neo 3.1.2 4.3.0-r1: A simple and pragmatic library which accesses the Neo4j graph database
-dev-python/pyDes 2.0.1: Pure python implementation of DES and TRIPLE DES encryption algorithm
 dev-python/pyFFTW 0.13.1_p20240117 9999: A pythonic python wrapper around FFTW
 dev-python/pyaff4 0.27: Python Advanced Forensic Format Version 4 library
 dev-python/pyasn 1.6.2: Python IP address to Autonomous System Number lookup module
@@ -426,7 +425,7 @@ dev-python/pyvnc 20220514-r1: Client library for interacting with a VNC session
 dev-python/pywerview 0.6: A Python port of PowerSploit's PowerView
 dev-python/pyzipper 0.3.5: AES encryption for zipfile
 dev-python/qh3 0.12.0: An implementation of QUIC and HTTP/3
-dev-python/qt-py 1.4.1: Minimal Python 2 & 3 shim around all Qt bindings
+dev-python/qt-py 1.4.1-r1: Minimal Python 2 & 3 shim around all Qt bindings
 dev-python/quark-engine 22.9.1 23.3.1 23.7.1: An Obfuscation-Neglect Android Malware Scoring System
 dev-python/queuelib 1.5.0: Collection of persistent (disk-based) queues
 dev-python/rangeparser 0.1.3-r1: A python package to parse ranges easily
@@ -449,7 +448,6 @@ dev-python/slowapi 0.1.7 0.1.7_p20230321 0.1.9: A rate limiting extension for St
 dev-python/social-auth-core 3.3.3: Python social authentication made simple
 dev-python/soupsieve 1.9.3-r1: A modern CSS selector implementation for BeautifulSoup
 dev-python/splinter 0.13.0: tool for testing web applications
-dev-python/spry 0.5.5-r1: social media scanner
 dev-python/sqlalchemy_mixins 1.2.1: Active Record, Django-like queries
 dev-python/sqlalchemy_schemadisplay 1.3: Turn SQLAlchemy DB Model into a graph
 dev-python/sqlalchemy_utc 0.12.0: SQLAlchemy type to store aware datetime values
@@ -465,8 +463,6 @@ dev-python/svgutils 0.3.4: utility package that helps to edit and concatenate SV
 dev-python/syslog-rfc5424-formatter 1.2.2: Logging formatter which produces well-formatted RFC5424 Syslog Protocol messages
 dev-python/tk 0.1.0: TensorKit is a deep learning helper between Python and C++
 dev-python/tls_parser 2.0.1: Small library to parse TLS records.
-dev-python/torrequest 20181011-r2: Simple Python interface for HTTP(s) requests over Tor
-dev-python/truffleHogRegexes 20190518-r1: These are the regexes that power trufflehog
 dev-python/unicrypto 0.0.9 0.0.10: Unified interface for cryptographic libraries
 dev-python/vaderSentiment 3.3.2: VADER Sentiment Analysis
 dev-python/validators 0.14.0: Python Data Validation for Humans
@@ -544,7 +540,7 @@ dev-ruby/typhoeus 1.4.1: Runs HTTP requests in parallel while cleanly encapsulat
 dev-ruby/unix-crypt 1.3.0: Performs the UNIX crypt(3) algorithm
 dev-ruby/zpng 0.4.5: Pure ruby PNG file manipulation & validation
 dev-util/AndroidProjectCreator-bin 1.5 1.5.2: Decompile an APK to an Android Studio Project
-dev-util/androguard 4.1.1 4.1.2: Read Android's binary format for XML files (AXML) and a decompiler for DEX
+dev-util/androguard 4.1.2-r1: Read Android's binary format for XML files (AXML) and a decompiler for DEX
 dev-util/android-sdk-build-tools 30.0.3 31 33 34: Android SDK Build Tools
 dev-util/apkInspector 1.2.0 1.2.1: A tool designed to provide detailed insights into the zip structure of APK files
 dev-util/apktool 2.9.3 2.10.0: A tool for reengineering 3rd party, closed, binary Android apps
@@ -581,7 +577,6 @@ dev-util/sonarqube-bin 7.9.3 8.3.1.34397 8.4.1.35646 8.7.0.41497: SonarQube Comm
 dev-util/sonarscanner-bin 4.4.0.2170: SonarQube Command-Line Scanner
 dev-util/valabind 1.7.1 1.7.2: Valabind is a tool to parse vala or vapi files to transform them into swig files
 dev-vcs/gitleaks 8.18.0: Audit git repos for secrets
-dev-vcs/trufflehog 2.1.11_p20200220: Searches through git repositories for high entropy strings and secrets
 media-fonts/zed-mono 1.2.0: The Zed Mono typeface, custom built from Iosevka
 media-libs/mbelib 1.3.0-r1 9999: P25 Phase 1 and ProVoice vocoder
 media-radio/fldigi 4.2.05: Sound card based multimode software modem for Amateur Radio use
@@ -605,7 +600,7 @@ net-analyzer/enum4linux 0.9.1: A tool for enumerating information from Windows a
 net-analyzer/evilgrade 2.0.9: A modular framework that takes advantage of poor upgrade implementations by injecting fake updates.
 net-analyzer/ffuf 1.5.0 2.0.0: Fast web fuzzer / directory brute force
 net-analyzer/fierce 1.5.0 1.6.0 9999: A DNS reconnaissance tool for locating non-contiguous IP space
-net-analyzer/ftw 1.3.0: Framework for Testing WAFs
+net-analyzer/ftw 1.3.0-r1: Framework for Testing WAFs
 net-analyzer/geoipgen 0.4: Generate a list of hostnames based on country
 net-analyzer/gobuster 3.5.0 3.6.0: A tool to brute-force URIs and DNS subdomains
 net-analyzer/honeypots 0.66: 16 different honeypots for monitoring network traffic
@@ -640,7 +635,7 @@ net-analyzer/sitadel 1.0.0_p20190828 1.0.1_p20231129: Web application security s
 net-analyzer/smbmap 1.10.4: SMBMap is a handy SMB enumeration tool
 net-analyzer/snmpenum 1.0-r1: A perl script to enumerate SNMP table dumper
 net-analyzer/sqlninja 0.2.999_alpha1: A SQL Server injection & takeover tool
-net-analyzer/sslyze 5.2.0 6.0.0: Fast and full-featured SSL scanner
+net-analyzer/sslyze 6.0.0-r1: Fast and full-featured SSL scanner
 net-analyzer/subfinder 2.6.6: A subdomain discovery tool that discovers valid subdomains for websites
 net-analyzer/sublist3r 1.0_p20200105 1.1_p20200629: Enumerate subdomains of websites using OSINT
 net-analyzer/takeover 20200312: Sub-Domain TakeOver Vulnerability Scanner
@@ -679,7 +674,7 @@ net-misc/voipong 2.0_p20111230: detect all VoIP calls on a pipeline and dump act
 net-proxy/burpsuite 2024.8.5 2024.9.4 2024.9.5 9999: Interactive proxy for attacking and debugging web applications
 net-proxy/burpsuite-pro 2024.6_rc 2024.8.5 2024.9.4 2024.9.5: Interactive proxy for attacking and debugging web applications
 net-proxy/insomnia-bin 9.3.0 10.0.0: REST API client, a postman alternative
-net-proxy/mitmproxy 9.0.1 11.0.0: An interactive, SSL-capable, man-in-the-middle HTTP proxy
+net-proxy/mitmproxy 11.0.0-r1: An interactive, SSL-capable, man-in-the-middle HTTP proxy
 net-proxy/shadowsocks-rust 1.17.1 1.20.0: Shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
 net-proxy/sshttp 0.35_p2-r1 0.35_p20191108: An easy to use OSI-Layer5 switching daemon
 net-proxy/zaproxy 2.14.0 2.15.0: The OWASP Zed Attack Proxy for finding vulnerabilities in web applications
@@ -708,7 +703,7 @@ net-wireless/dsdcc 1.9.3 9999: Digital Speech Decoder rewritten as a C++ library
 net-wireless/dump1090_sdrplus 20200921: Mode S decoder for (SDR) devices including RTL SDR, HackRF, Airspy and SDRplay
 net-wireless/eaphammer 1.14.0: Targeted evil twin attacks against WPA2-Enterprise networks
 net-wireless/editcp-bin 1.0.31: Codeplug editor for the MD-380/MD-390/MD40/MD-UV380/MD-UV390 DMR radios
-net-wireless/fern-wifi-cracker 3.4: Wireless tool for WEP/WPA cracking and WPS keys recovery
+net-wireless/fern-wifi-cracker 3.4-r1: Wireless tool for WEP/WPA cracking and WPS keys recovery
 net-wireless/fosphor_knob 0.11-r1 0.12: A visualization we use for the RF Village
 net-wireless/gps-sdr-sim 9999: GPS Spoofing tool for transmit capable SDR's like the HackRF, bladeRF and USRP
 net-wireless/gr-dsd 9999: GNU Radio block for Digital Speech Decoder
@@ -765,7 +760,7 @@ net-wireless/soapy_power 1.6.1-r1: Obtain power spectrum from SoapySDR devices
 net-wireless/srsran 23.11 9999: Open source SDR 4G software suite from Software Radio Systems
 net-wireless/srsran2 20231020: Open source SDR 4G software suite from Software Radio Systems
 net-wireless/trunk-recorder 4.7.1 5.0.0 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
-net-wireless/wifipumpkin3 1.1.7: Framework for Rogue Wi-Fi Access Point Attack
+net-wireless/wifipumpkin3 1.1.7-r1: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifite 2.7.0: An automated wireless attack tool
 net-wireless/wireless-regdb 20230503-r2: Wireless Regulatory database for Linux
 pentoo/pentoo 2023.2: Pentoo meta ebuild to install all apps
