@@ -436,7 +436,6 @@ dev-python/requests-html 0.10.0-r1: HTML Parsing for Humans
 dev-python/resource 0.2.1: Resource layer of RESTful APIs.
 dev-python/ruamel-base 1.0.0: common routines for ruamel packages
 dev-python/rzpipe 0.1.2: Pipe interface for rizin
-dev-python/scipy 1.12.0: Scientific algorithms library for Python
 dev-python/secure 0.3.0: Secure headers and cookies for Python web frameworks
 dev-python/selenium-requests 1.3.1: Extends Selenium webdrv with the request function from the Requests library
 dev-python/semgrep 1.66.0 1.75.0: Lightweight static analysis for many languages
@@ -569,7 +568,7 @@ dev-util/mobsf 3.9.7 4.0.7: Automated, all-in-one mobile application (Android/iO
 dev-util/objection 1.10.2 1.11.0-r2: Runtime mobile exploration
 dev-util/pentoo-udev-rules 0.0.1: udev rules to assist in some way with hardware commonly used in pentoo
 dev-util/plasma 20190304: An interactive disassembler for x86/ARM/MIPS
-dev-util/recaf-bin 2.19.6 2.21.13: A modern Java bytecode editor
+dev-util/recaf-bin 2.21.14: A modern Java bytecode editor
 dev-util/reflutter 0.7.2 0.7.8: Flutter apps reverse engineering
 dev-util/semgrep-core-bin 1.66.0 1.75.0: Lightweight static analysis for many languages
 dev-util/soapui 5.7.0 5.7.2: The Swiss-Army Knife for SOAP Testing
