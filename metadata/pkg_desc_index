@@ -480,7 +480,7 @@ dev-python/zap-api-python 0.0.15: OWASP ZAP Python API
 dev-python/zlib_wrapper 0.1.3: Wrapper around zlib with custom header crc32.
 dev-ruby/cms_scanner 0.13.9 0.14.3: Framework to provide an easy way to implement CMS Scanners
 dev-ruby/cookiejar 0.3.3: Allows for parsing and returning cookies in Ruby HTTP client code
-dev-ruby/data_objects 0.10.17: The Core DataObjects class
+dev-ruby/data_objects 0.10.17-r1: The Core DataObjects class
 dev-ruby/dm-core 1.2.1: An Object/Relational Mapper for Ruby
 dev-ruby/dm-do-adapter 1.2.0: A DataObjects Adapter for DataMapper
 dev-ruby/dm-migrations 1.2.0: DataMapper plugin for writing and specing migrations
@@ -688,7 +688,7 @@ net-wireless/airspyhf 1.6.8 9999: User mode driver for Airspy HF+
 net-wireless/b43-openfwwf 5.2: OpenBroadcom Firmware
 net-wireless/b43-tools 9999: Tools for developers working on broadcom drivers/firmware
 net-wireless/bladerf_adsb 9999: bladeRF ADS-B hardware decoder
-net-wireless/blue_hydra 1.9.19 9999: bluetooth discovery service built on top of bluez
+net-wireless/blue_hydra 1.9.20 9999: bluetooth discovery service built on top of bluez
 net-wireless/blue_sonar 0.3 9999: A simple wrapper for l2ping which shows rssi
 net-wireless/btle-sniffer 0.2_p20200129: Bluetooth radio packet sniffer/scanner and sender
 net-wireless/btscanner 2.1-r7: A utility for bluetooth scanning and discovery
