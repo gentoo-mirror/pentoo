@@ -9,5 +9,5 @@ LICENSE=MIT
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://github.com/ffuf/ffuf/archive/v2.0.0.tar.gz -> ffuf-2.0.0.tar.gz https://github.com/adrg/xdg/archive/v0.4.0.tar.gz -> github.com-adrg-xdg-v0.4.0.tar.gz https://github.com/andybalholm/cascadia/archive/v1.3.1.tar.gz -> github.com-andybalholm-cascadia-v1.3.1.tar.gz https://github.com/pelletier/go-toml/archive/v1.9.5.tar.gz -> github.com-pelletier-go-toml-v1.9.5.tar.gz https://github.com/PuerkitoBio/goquery/archive/v1.8.0.tar.gz -> github.com-PuerkitoBio-goquery-v1.8.0.tar.gz https://github.com/golang/net/archive/v0.5.0.tar.gz -> github.com-golang-net-v0.5.0.tar.gz https://github.com/golang/sys/archive/v0.4.0.tar.gz -> github.com-golang-sys-v0.4.0.tar.gz
-_eclasses_=golang-base	33e0f9ff6c6f053a3df2d38992afeb58	toolchain-funcs	d3d42b22a610ce81c267b644bcec9b87	multilib	b2a329026f2e404e9e371097dda47f96	flag-o-matic	f14aba975c94ccaa9f357a27e3b17ffe	go-env	90efbc8636d2f02d9654183330e84cf7	golang-vcs-snapshot	dacb23628c2ff18d349878f599c078a5
+_eclasses_=golang-base	33e0f9ff6c6f053a3df2d38992afeb58	toolchain-funcs	fa554cc3cff825d21dfe3f24841e29cf	multilib	b2a329026f2e404e9e371097dda47f96	flag-o-matic	f14aba975c94ccaa9f357a27e3b17ffe	go-env	90efbc8636d2f02d9654183330e84cf7	golang-vcs-snapshot	dacb23628c2ff18d349878f599c078a5
 _md5_=e7dafde915e0491d78ce61bd5bb50f06
