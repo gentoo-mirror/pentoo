@@ -5,7 +5,7 @@ acct-user/davmail 0: User for Davmail
 acct-user/sonar 0: User for SonarQube
 app-admin/genmenu 0.0_p20230623 9999: a tool for generating freedesktop-compliant menus
 app-admin/opensnitch 1.6.6-r2: Desktop application firewall
-app-admin/opensnitch-ebpf-module 1.6.5.1 1.6.6: eBPF process monitor module for opensnitch
+app-admin/opensnitch-ebpf-module 1.6.6-r1: eBPF process monitor module for opensnitch
 app-admin/system-config-printer 1.5.18-r1: Graphical user interface for CUPS administration
 app-antivirus/malheur 0.5.4-r1: Malware analysis tool
 app-antivirus/veil 3.1.14-r2: A tool for payloads generation that bypass common anti-virus solutions
@@ -389,7 +389,7 @@ dev-python/pygnuutils 0.1.1: A python implementation for GNU utils
 dev-python/pygtail 0.11.0: Reads log file lines that have not been read
 dev-python/pyhunter 1.7 9999: An (unofficial) Python wrapper for the Hunter.io API
 dev-python/pyimg4 0.8.6: A Python library/CLI tool for parsing Apple's Image4 format
-dev-python/pyinstaller 6.2.0: Program converting Python programs into stand-alone executables
+dev-python/pyinstaller 6.2.0-r1: Program converting Python programs into stand-alone executables
 dev-python/pyinstaller-hooks-contrib 2023.10: Community maintained hooks for PyInstaller
 dev-python/pyjsparser 2.7.1: Fast javascript parser (based on esprima.js)
 dev-python/pykcs11 1.5.10: A complete PKCS#11 wrapper for Python
@@ -779,7 +779,7 @@ pentoo/pentoo-installer 20241020-r1 99999999: Installer for pentoo, based on the
 pentoo/pentoo-livecd 2023.2: things needed by pentoo for livecd only
 pentoo/pentoo-misc 2024.2: Pentoo misc meta ebuild
 pentoo/pentoo-mitm 2022.2: Pentoo mitm meta ebuild
-pentoo/pentoo-mobile 2024.3: Pentoo mobile meta ebuild
+pentoo/pentoo-mobile 2024.3-r1: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2022.2: Collection of NFC tools
 pentoo/pentoo-opencl 0-r4: Virtual for pulling in appropriate opencl stuffs
 pentoo/pentoo-proxies 2024.1: Pentoo proxy meta ebuild
@@ -790,7 +790,7 @@ pentoo/pentoo-system 2024.1: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2023.0: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2023.2: Pentoo wireless meta ebuild
 pentoo/rfctf-client 2024.2: Packages needed to power the client and SDR devices for RFCTF events
-pentoo/zero-system 2024.3-r1: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
+pentoo/zero-system 2024.3-r2: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
 sci-electronics/litedram 20180514: Small footprint and configurable DRAM core
 sci-electronics/liteeth 20180719: Small footprint and configurable Ethernet core
 sci-electronics/litepcie 20180530-r1: Small footprint and configurable PCIe core
@@ -804,7 +804,7 @@ sys-devel/gdb-dashboard 0.11.4-r1 9999: Modular visual interface for GDB in Pyth
 sys-fs/ext4-crypt 20170216 99999999: A userspace tool to create ext4 encrypted directories
 sys-kernel/nvidia-bl 0.17.3: Driver to adjust display backlight on legacy mobile NVidia graphics adapters
 sys-kernel/pentoo-lts-sources 2: Pentoo kernel sources (kernel series .)
-sys-kernel/pentoo-sources 6.6.60 6.11.7: Pentoo kernel sources (kernel series 6.11)
+sys-kernel/pentoo-sources 6.6.65 6.12.4: Pentoo kernel sources (kernel series 6.12)
 sys-kernel/pf_ring-kmod 7.8.0_p20210421: High-speed packet processing framework (kernel modules for)
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
 virtual/libyal-tools 0: Virtual for all command line forensics tools provided by libyal
