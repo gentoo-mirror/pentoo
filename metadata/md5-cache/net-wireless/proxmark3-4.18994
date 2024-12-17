@@ -12,5 +12,5 @@ PDEPEND=sys-libs/ncurses:*[tinfo]
 RDEPEND=app-arch/bzip2 app-arch/lz4:= dev-libs/jansson:= dev-libs/openssl:= sys-libs/readline:= media-libs/gd:2= bluez? ( net-wireless/bluez:= ) opencl? ( dev-libs/opencl-icd-loader ) qt? ( dev-qt/qtcore:5 dev-qt/qtwidgets:5 dev-qt/qtgui:5 ) dev-python/ansicolors dev-python/sslcrypto
 SLOT=0
 SRC_URI=https://github.com/RfidResearchGroup/proxmark3/archive/v4.18994.tar.gz -> proxmark3-4.18994.tar.gz
-_eclasses_=toolchain-funcs	fa554cc3cff825d21dfe3f24841e29cf	multilib	b2a329026f2e404e9e371097dda47f96	udev	f3d9a4376ebd22131726a68e1a0a058f
+_eclasses_=toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	udev	f3d9a4376ebd22131726a68e1a0a058f
 _md5_=b6095752b8f2ed1a7e80ab62ac3caa56
