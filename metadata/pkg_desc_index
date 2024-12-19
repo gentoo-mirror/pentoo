@@ -8,7 +8,7 @@ app-admin/opensnitch 1.6.6-r2: Desktop application firewall
 app-admin/opensnitch-ebpf-module 1.6.6-r1: eBPF process monitor module for opensnitch
 app-admin/system-config-printer 1.5.18-r1: Graphical user interface for CUPS administration
 app-antivirus/malheur 0.5.4-r1: Malware analysis tool
-app-antivirus/veil 3.1.14-r2: A tool for payloads generation that bypass common anti-virus solutions
+app-antivirus/veil 3.1.14-r2 3.1.14_p20221014: A tool for payloads generation that bypass common anti-virus solutions
 app-crypt/SIPcrack 0.4-r2: SIPcrack is a SIP protocol login cracker
 app-crypt/acsccid 1.1.10: Generic driver for ACS (CCID and non-CCID) Smart Card Reader
 app-crypt/asleap 2.2_p20201128-r1: Cisco LEAP and Generic MS-CHAPv2 Dictionary Attack
