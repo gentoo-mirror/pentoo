@@ -321,7 +321,7 @@ dev-python/inotify 0.2.10-r2: an efficient and elegant inotify
 dev-python/inquirer3 0.4.0: Collection of common interactive command line user interfaces
 dev-python/invoke 2.2.0: Pythonic task execution
 dev-python/ipparser 0.3.5: Parse IP address information
-dev-python/ipsw-parser 1.3.1 1.3.7: Utility for parsing and extracting data from IPSW
+dev-python/ipsw-parser 1.3.7 1.3.9: Utility for parsing and extracting data from IPSW
 dev-python/ipwhois 1.0.0 1.2.0: Retrieve and parse whois data for IPv4 and IPv6 addresses
 dev-python/isc_dhcp_leases 0.9.1: Small python module for reading /var/lib/dhcp/dhcpd.leases from isc-dhcp-server
 dev-python/itemadapter 0.4.0: Common interface for scrapy data container classes
@@ -436,6 +436,7 @@ dev-python/rangeparser 0.1.3-r1: A python package to parse ranges easily
 dev-python/rcssmin 1.0.6: RCSSmin is a CSS minifier
 dev-python/readchar 4.0.5: Library to easily read single chars and key strokes
 dev-python/remotezip 0.12.1: Access zip file content hosted remotely without downloading the full file.
+dev-python/remotezip2 0.0.2: Access zip file content hosted remotely without downloading the full file.
 dev-python/requests-html 0.10.0-r1: HTML Parsing for Humans
 dev-python/resource 0.2.1: Resource layer of RESTful APIs.
 dev-python/ruamel-base 1.0.0: common routines for ruamel packages
