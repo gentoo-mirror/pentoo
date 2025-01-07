@@ -1,7 +1,7 @@
 DEFINED_PHASES=compile install postinst postrm preinst prepare setup
 DEPEND=kernel_linux? ( sys-apps/kmod[tools] dist-kernel? ( virtual/dist-kernel:= ) ) kernel_linux? ( virtual/linux-sources virtual/libelf )
 DESCRIPTION=Driver to adjust display backlight on legacy mobile NVidia graphics adapters
-EAPI=7
+EAPI=8
 HOMEPAGE=https://aur.archlinux.org/packages/nvidia-bl-dkms
 INHERIT=linux-mod
 IUSE=dist-kernel
@@ -10,4 +10,4 @@ RDEPEND=kernel_linux? ( sys-apps/kmod[tools] dist-kernel? ( virtual/dist-kernel:
 SLOT=0
 SRC_URI=https://dev.pentoo.ch/~blshkv/distfiles/nvidia-bl-dkms-0.17.3.tar.gz
 _eclasses_=toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	linux-info	ea4122ba1d8791a12b78e53f9510a2e3	multiprocessing	1e32df7deee68372153dca65f4a7c21f	linux-mod	000f3723e8e062061ee523106e69f84a
-_md5_=4f940e16cb4c8d5c93e3a5257ea85a25
+_md5_=f8eee9c1d891a71d8d1a4e6a61eb42fb

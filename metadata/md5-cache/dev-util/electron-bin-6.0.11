@@ -1,7 +1,7 @@
 DEFINED_PHASES=install prepare setup
 DEPEND=app-arch/unzip
 DESCRIPTION=Cross platform application development framework based on web technologies
-EAPI=7
+EAPI=8
 HOMEPAGE=https://electronjs.org/
 INHERIT=chromium-2
 IUSE=+l10n_am +l10n_ar +l10n_bg +l10n_bn +l10n_ca +l10n_cs +l10n_da +l10n_de +l10n_el +l10n_en-GB +l10n_en-US +l10n_es +l10n_es-419 +l10n_et +l10n_fa +l10n_fi +l10n_fil +l10n_fr +l10n_gu +l10n_he +l10n_hi +l10n_hr +l10n_hu +l10n_id +l10n_it +l10n_ja +l10n_kn +l10n_ko +l10n_lt +l10n_lv +l10n_ml +l10n_mr +l10n_ms +l10n_nb +l10n_nl +l10n_pl +l10n_pt-BR +l10n_pt-PT +l10n_ro +l10n_ru +l10n_sk +l10n_sl +l10n_sr +l10n_sv +l10n_sw +l10n_ta +l10n_te +l10n_th +l10n_tr +l10n_uk +l10n_vi +l10n_zh-CN +l10n_zh-TW
@@ -12,4 +12,4 @@ RESTRICT=mirror
 SLOT=6.0
 SRC_URI=amd64? ( https://github.com/electron/electron/releases/download/v6.0.11/electron-v6.0.11-linux-x64.zip -> electron-bin-6.0.11-x64.zip ) arm? ( https://github.com/electron/electron/releases/download/v6.0.11/electron-v6.0.11-linux-armv7l.zip -> electron-bin-6.0.11-armv7l.zip ) arm64? ( https://github.com/electron/electron/releases/download/v6.0.11/electron-v6.0.11-linux-arm64.zip -> electron-bin-6.0.11-arm64.zip ) x86? ( https://github.com/electron/electron/releases/download/v6.0.11/electron-v6.0.11-linux-ia32.zip -> electron-bin-6.0.11-ia32.zip )
 _eclasses_=toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	linux-info	ea4122ba1d8791a12b78e53f9510a2e3	chromium-2	93690d770dc2e27deaa89794e2f9fe3f
-_md5_=66ac3f30666ee6ecac2e3a3d75f5a988
+_md5_=caf72ab52f2646667ce61438b133486f

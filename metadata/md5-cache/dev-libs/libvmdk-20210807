@@ -5,12 +5,12 @@ DESCRIPTION=Library and tools to access the VMware Virtual Disk (VMDK) format
 EAPI=8
 HOMEPAGE=https://github.com/libyal/libvmdk
 INHERIT=autotools python-single-r1
-IUSE=debug +fuse unicode python nls static static-libs +threads python_single_target_python3_10 python_single_target_python3_11 python_single_target_python3_12
+IUSE=debug +fuse unicode python nls static static-libs +threads python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13
 KEYWORDS=amd64 ~arm64 x86
 LICENSE=LGPL-3
-RDEPEND=app-forensics/libbfio[nls=,unicode=] dev-libs/libcdata[nls=] dev-libs/libcerror[nls=] dev-libs/libcfile[nls=,unicode=] dev-libs/libclocale[nls=,unicode=] dev-libs/libcnotify[nls=] dev-libs/libcpath[nls=,unicode=] dev-libs/libcsplit[nls=,unicode=] dev-libs/libcthreads[nls=] dev-libs/libfcache[nls=] dev-libs/libfdata[nls=] dev-libs/libfguid[nls=] dev-libs/libfvalue[nls=] dev-libs/libuna[nls=,unicode=] nls? ( virtual/libiconv virtual/libintl ) python? ( dev-lang/python:* ) sys-libs/zlib python? ( python_single_target_python3_10? ( dev-lang/python:3.10 ) python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) ) fuse? ( sys-fs/fuse:0=[static-libs?] )
-REQUIRED_USE=static? ( static-libs ) python? ( ^^ ( python_single_target_python3_10 python_single_target_python3_11 python_single_target_python3_12 ) )
+RDEPEND=app-forensics/libbfio[nls=,unicode=] dev-libs/libcdata[nls=] dev-libs/libcerror[nls=] dev-libs/libcfile[nls=,unicode=] dev-libs/libclocale[nls=,unicode=] dev-libs/libcnotify[nls=] dev-libs/libcpath[nls=,unicode=] dev-libs/libcsplit[nls=,unicode=] dev-libs/libcthreads[nls=] dev-libs/libfcache[nls=] dev-libs/libfdata[nls=] dev-libs/libfguid[nls=] dev-libs/libfvalue[nls=] dev-libs/libuna[nls=,unicode=] nls? ( virtual/libiconv virtual/libintl ) python? ( dev-lang/python:* ) sys-libs/zlib python? ( python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) ) fuse? ( sys-fs/fuse:0=[static-libs?] )
+REQUIRED_USE=static? ( static-libs ) python? ( ^^ ( python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13 ) )
 SLOT=0
 SRC_URI=https://github.com/libyal/libvmdk/releases/download/20210807/libvmdk-alpha-20210807.tar.gz -> libvmdk-20210807.tar.gz
 _eclasses_=gnuconfig	ddeb9f8caff1b5f71a09c75b7534df79	toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	libtool	6b28392a775f807c8be5fc7ec9a605b9	autotools	7d91cc798a8afd8f4e0c6e9587296ebe	multiprocessing	1e32df7deee68372153dca65f4a7c21f	python-utils-r1	42c5abe4a656a4993a06a4fc61dbdd12	python-single-r1	47d8ac9be330c9366112b78fd4f8ce57
-_md5_=89f5ff40f15ce337e8739be1eb989f56
+_md5_=6fb1d215d71d0afa69d4cbfba6d0a14f

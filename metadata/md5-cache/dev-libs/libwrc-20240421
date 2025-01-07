@@ -4,12 +4,12 @@ DESCRIPTION=Library to access the Windows Resource Compiler (WRC) format
 EAPI=8
 HOMEPAGE=https://github.com/libyal/libwrc
 INHERIT=python-single-r1
-IUSE=nls unicode python +threads debug python_single_target_python3_10 python_single_target_python3_11 python_single_target_python3_12
+IUSE=nls unicode python +threads debug python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13
 KEYWORDS=amd64 ~arm64 x86
 LICENSE=LGPL-3
-RDEPEND=nls? ( virtual/libiconv virtual/libintl ) python? ( dev-lang/python:* ) app-forensics/libbfio[nls=,unicode=,threads=] dev-libs/libcdata[nls=] dev-libs/libcerror[nls=] dev-libs/libcfile[nls=,unicode=] dev-libs/libclocale[nls=,unicode=] dev-libs/libcnotify[nls=] dev-libs/libcpath[nls=,unicode=] dev-libs/libcsplit[nls=,unicode=] dev-libs/libcthreads[nls=] app-forensics/libexe[nls=,unicode=,threads=,python=] dev-libs/libfcache[nls=] dev-libs/libfdata[nls=,threads=] dev-libs/libfdatetime[nls=] dev-libs/libfguid[nls=] dev-libs/libfvalue[nls=] dev-libs/libfwnt[nls=,threads=,python=] dev-libs/libuna[nls=,unicode=] python? ( python_single_target_python3_10? ( dev-lang/python:3.10 ) python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) )
-REQUIRED_USE=python? ( ^^ ( python_single_target_python3_10 python_single_target_python3_11 python_single_target_python3_12 ) )
+RDEPEND=nls? ( virtual/libiconv virtual/libintl ) python? ( dev-lang/python:* ) app-forensics/libbfio[nls=,unicode=,threads=] dev-libs/libcdata[nls=] dev-libs/libcerror[nls=] dev-libs/libcfile[nls=,unicode=] dev-libs/libclocale[nls=,unicode=] dev-libs/libcnotify[nls=] dev-libs/libcpath[nls=,unicode=] dev-libs/libcsplit[nls=,unicode=] dev-libs/libcthreads[nls=] app-forensics/libexe[nls=,unicode=,threads=,python=] dev-libs/libfcache[nls=] dev-libs/libfdata[nls=,threads=] dev-libs/libfdatetime[nls=] dev-libs/libfguid[nls=] dev-libs/libfvalue[nls=] dev-libs/libfwnt[nls=,threads=,python=] dev-libs/libuna[nls=,unicode=] python? ( python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) )
+REQUIRED_USE=python? ( ^^ ( python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13 ) )
 SLOT=0
 SRC_URI=https://github.com/libyal/libwrc/releases/download/20240421/libwrc-experimental-20240421.tar.gz
 _eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	python-utils-r1	42c5abe4a656a4993a06a4fc61dbdd12	python-single-r1	47d8ac9be330c9366112b78fd4f8ce57
-_md5_=3496840c6d625c75c79f85cf90ea9502
+_md5_=693c9d241d7b73c66e732b259fec1aad

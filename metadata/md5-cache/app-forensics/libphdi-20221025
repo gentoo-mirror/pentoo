@@ -5,12 +5,12 @@ DESCRIPTION=Library and tools to access the Parallels Hard Disk image format
 EAPI=8
 HOMEPAGE=https://github.com/libyal/libphdi
 INHERIT=autotools python-single-r1
-IUSE=nls unicode python +fuse +threads debug python_single_target_python3_10 python_single_target_python3_11 python_single_target_python3_12
+IUSE=nls unicode python +fuse +threads debug python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13
 KEYWORDS=amd64 ~arm64 x86
 LICENSE=LGPL-3
-RDEPEND=nls? ( virtual/libiconv virtual/libintl ) python? ( dev-lang/python:* ) app-forensics/libbfio[nls=,unicode=,threads=] dev-libs/libcdata[nls=] dev-libs/libcdirectory[nls=,unicode=] dev-libs/libcerror[nls=] dev-libs/libcfile[nls=,unicode=] dev-libs/libclocale[nls=,unicode=] dev-libs/libcnotify[nls=] dev-libs/libcpath[nls=,unicode=] dev-libs/libcsplit[nls=,unicode=] dev-libs/libcthreads[nls=] dev-libs/libfcache[nls=] dev-libs/libfdata[nls=,threads=] dev-libs/libfguid[nls=] dev-libs/libfvalue[nls=] dev-libs/libuna[nls=,unicode=] python? ( python_single_target_python3_10? ( dev-lang/python:3.10 ) python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) ) fuse? ( sys-fs/fuse )
-REQUIRED_USE=python? ( ^^ ( python_single_target_python3_10 python_single_target_python3_11 python_single_target_python3_12 ) )
+RDEPEND=nls? ( virtual/libiconv virtual/libintl ) python? ( dev-lang/python:* ) app-forensics/libbfio[nls=,unicode=,threads=] dev-libs/libcdata[nls=] dev-libs/libcdirectory[nls=,unicode=] dev-libs/libcerror[nls=] dev-libs/libcfile[nls=,unicode=] dev-libs/libclocale[nls=,unicode=] dev-libs/libcnotify[nls=] dev-libs/libcpath[nls=,unicode=] dev-libs/libcsplit[nls=,unicode=] dev-libs/libcthreads[nls=] dev-libs/libfcache[nls=] dev-libs/libfdata[nls=,threads=] dev-libs/libfguid[nls=] dev-libs/libfvalue[nls=] dev-libs/libuna[nls=,unicode=] python? ( python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) ) fuse? ( sys-fs/fuse )
+REQUIRED_USE=python? ( ^^ ( python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13 ) )
 SLOT=0
 SRC_URI=https://github.com/libyal/libphdi/releases/download/20221025/libphdi-experimental-20221025.tar.gz
 _eclasses_=gnuconfig	ddeb9f8caff1b5f71a09c75b7534df79	toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	libtool	6b28392a775f807c8be5fc7ec9a605b9	autotools	7d91cc798a8afd8f4e0c6e9587296ebe	multiprocessing	1e32df7deee68372153dca65f4a7c21f	python-utils-r1	42c5abe4a656a4993a06a4fc61dbdd12	python-single-r1	47d8ac9be330c9366112b78fd4f8ce57
-_md5_=20ac8951aa01b525a91afe549f2343b7
+_md5_=d39e3c178a94c7fd0edfee808cbe8aef

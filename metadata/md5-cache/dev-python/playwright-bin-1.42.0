@@ -1,16 +1,16 @@
-BDEPEND=app-arch/unzip python_targets_python3_10? ( dev-lang/python:3.10 ) python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 ) >=dev-python/gpep517-15[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?] >=dev-python/setuptools-69.0.3[python_targets_python3_10(-)?,python_targets_python3_11(-)?,python_targets_python3_12(-)?]
+BDEPEND=app-arch/unzip python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 ) python_targets_python3_13? ( dev-lang/python:3.13 ) >=dev-python/gpep517-15[python_targets_python3_11(-)?,python_targets_python3_12(-)?,python_targets_python3_13(-)?] >=dev-python/setuptools-69.0.3[python_targets_python3_11(-)?,python_targets_python3_12(-)?,python_targets_python3_13(-)?]
 DEFINED_PHASES=compile configure install prepare setup test
 DESCRIPTION=Automate Chromium, Firefox and WebKit browsers with a single API
 EAPI=8
 HOMEPAGE=https://github.com/Microsoft/playwright-python
 INHERIT=distutils-r1 pypi
-IUSE=python_targets_python3_10 python_targets_python3_11 python_targets_python3_12
+IUSE=python_targets_python3_11 python_targets_python3_12 python_targets_python3_13
 KEYWORDS=~amd64
 LICENSE=Apache-2.0
-RDEPEND=python_targets_python3_10? ( dev-lang/python:3.10 ) python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 )
-REQUIRED_USE=|| ( python_targets_python3_10 python_targets_python3_11 python_targets_python3_12 ) || ( python_targets_python3_10 python_targets_python3_11 python_targets_python3_12 )
+RDEPEND=python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 ) python_targets_python3_13? ( dev-lang/python:3.13 )
+REQUIRED_USE=|| ( python_targets_python3_11 python_targets_python3_12 python_targets_python3_13 ) || ( python_targets_python3_11 python_targets_python3_12 python_targets_python3_13 )
 RESTRICT=test
 SLOT=0
 SRC_URI=amd64? ( https://files.pythonhosted.org/packages/py3/p/playwright/playwright-1.42.0-py3-none-manylinux1_x86_64.whl -> playwright-1.42.0_x86_64.zip ) arm64? ( https://files.pythonhosted.org/packages/py3/p/playwright/playwright-1.42.0-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl -> playwright-1.42.0_aarch64.zip )
 _eclasses_=toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	flag-o-matic	f14aba975c94ccaa9f357a27e3b17ffe	out-of-source-utils	dbf9e34ee8964084651e25907fa8f52c	multibuild	4650a65187015567b4e041bb9bfdb364	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	python-utils-r1	42c5abe4a656a4993a06a4fc61dbdd12	python-r1	2def7a4ce233dfa344f613025c619a23	distutils-r1	85ccd3b54a6533fb120ee52b7c76a3df	pypi	ad1b21f87d117ae9bb089bdb65b8f013
-_md5_=16d6ddd9329a5d99de98a9d3095c8993
+_md5_=a61b96bd424cf5c429933542103b8762

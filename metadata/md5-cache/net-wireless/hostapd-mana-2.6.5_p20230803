@@ -5,12 +5,12 @@ DESCRIPTION=SensePost's modified hostapd for wifi attacks
 EAPI=8
 HOMEPAGE=https://w1f1.net https://github.com/sensepost/hostapd-mana
 INHERIT=python-r1 savedconfig
-IUSE=internal-tls netlink sqlite crackapd python_targets_python3_10 python_targets_python3_11 python_targets_python3_12 savedconfig
+IUSE=internal-tls netlink sqlite crackapd python_targets_python3_11 python_targets_python3_12 python_targets_python3_13 savedconfig
 KEYWORDS=amd64 x86
 LICENSE=BSD
-RDEPEND=internal-tls? ( dev-libs/libtommath ) !internal-tls? ( dev-libs/openssl:0=[-bindist(-)] ) kernel_linux? ( dev-libs/libnl:3 ) netlink? ( net-libs/libnfnetlink ) sqlite? ( >=dev-db/sqlite-3 ) python_targets_python3_10? ( dev-lang/python:3.10 ) python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 )
-REQUIRED_USE=|| ( python_targets_python3_10 python_targets_python3_11 python_targets_python3_12 )
+RDEPEND=internal-tls? ( dev-libs/libtommath ) !internal-tls? ( dev-libs/openssl:0=[-bindist(-)] ) kernel_linux? ( dev-libs/libnl:3 ) netlink? ( net-libs/libnfnetlink ) sqlite? ( >=dev-db/sqlite-3 ) python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 ) python_targets_python3_13? ( dev-lang/python:3.13 )
+REQUIRED_USE=|| ( python_targets_python3_11 python_targets_python3_12 python_targets_python3_13 )
 SLOT=0
 SRC_URI=https://github.com/sensepost/hostapd-mana/archive/bd6114db0e0214003699f446dd7c4cb399efef71.tar.gz -> hostapd-mana-2.6.5_p20230803.tar.gz
 _eclasses_=out-of-source-utils	dbf9e34ee8964084651e25907fa8f52c	multibuild	4650a65187015567b4e041bb9bfdb364	multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	python-utils-r1	42c5abe4a656a4993a06a4fc61dbdd12	python-r1	2def7a4ce233dfa344f613025c619a23	portability	a39e3d646f76cb45d06b44cc1144b8d4	savedconfig	b9131abe556ad2ea96c01b06d658d363
-_md5_=afce5719fb0ecf102e90e547e2d82bb4
+_md5_=0033db440cef1323c4d8a74060273f57

@@ -1,9 +1,9 @@
 DEFINED_PHASES=install postinst
 DESCRIPTION=eselect module for metasploit
-EAPI=7
+EAPI=8
 HOMEPAGE=http://www.pentoo.ch/
 KEYWORDS=amd64 arm x86
 LICENSE=GPL-2
 RDEPEND=app-admin/eselect
 SLOT=0
-_md5_=c387cb7d53a432c3d228332b94a1f25b
+_md5_=98bb7d1e4583e76b4981f064a072d5af

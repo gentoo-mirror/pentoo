@@ -2,7 +2,7 @@ BDEPEND=virtual/pkgconfig virtual/pkgconfig
 DEFINED_PHASES=install postinst prepare
 DEPEND=dev-libs/libevent:=[threads] net-libs/tox
 DESCRIPTION=Tunnel TCP connections over the Tox protocol
-EAPI=7
+EAPI=8
 HOMEPAGE=https://gdr.name/tuntox https://github.com/gjedeer/tuntox
 INHERIT=systemd
 IUSE=systemd
@@ -12,4 +12,4 @@ RDEPEND=dev-libs/libevent:=[threads] net-libs/tox
 SLOT=0
 SRC_URI=https://github.com/gjedeer/tuntox/archive/refs/tags/0.0.10.tar.gz -> tuntox-0.0.10.tar.gz
 _eclasses_=toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	systemd	54bd206bb5c4efac6ae28b6b006713b0
-_md5_=cb0b73bc6b075495f72b8e9402c949f7
+_md5_=160b58750a6459bc1cc024783b7b3eda

@@ -4,7 +4,7 @@ acct-group/sonar 0: Group for SonarQube
 acct-user/davmail 0: User for Davmail
 acct-user/sonar 0: User for SonarQube
 app-admin/genmenu 0.0_p20230623 9999: a tool for generating freedesktop-compliant menus
-app-admin/opensnitch 1.6.6-r2: Desktop application firewall
+app-admin/opensnitch 1.6.6-r3: Desktop application firewall
 app-admin/opensnitch-ebpf-module 1.6.6-r1: eBPF process monitor module for opensnitch
 app-admin/system-config-printer 1.5.18-r1: Graphical user interface for CUPS administration
 app-antivirus/malheur 0.5.4-r1: Malware analysis tool
@@ -20,7 +20,6 @@ app-crypt/hashid 3.1.4 9999: Software to identify the different types of hashes
 app-crypt/rcracki_mt 0.7.0-r2: Perform a rainbow table attack on password hashes
 app-crypt/routerkeygen 20190721 99999999: Generates WPA/WEP keys based on MAC and/or BSSID
 app-crypt/samdump2 3.0.0-r1: Windows NT/2k/XP/Vista sam hash dumper
-app-crypt/stegcracker 2.0.7 20190219-r1: Steganography brute-force utility to uncover hidden data inside files
 app-crypt/steghide 0.5.1-r1: A steganography program which hides data in various media files
 app-crypt/wisecracker 1.0-r1: An open source framework for tools that can distribute brute force cryptanalysis
 app-crypt/xortool 1.0.0: A tool to analyze multi-byte xor cipher
@@ -42,7 +41,7 @@ app-exploits/packetstormexploits-meta 2022 2023: Meta ebuild of packetstorm expl
 app-exploits/powercat 20170805: Netcat: The powershell version
 app-exploits/pypykatz 0.6.9 0.6.10: Python implementation of Mimikatz
 app-exploits/routersploit 3.4.0-r2 9999: An open-source exploitation framework dedicated to embedded devices
-app-exploits/traitor 0.0.3 0.0.14: Automatically exploit low-hanging fruit to pop a root shell
+app-exploits/traitor 0.0.14: Automatically exploit low-hanging fruit to pop a root shell
 app-exploits/unix-privesc-check 20210207 99999999: Shell script to check for simple privilege escalation vectors
 app-exploits/webshells 20230128 99999999: Various webshells
 app-exploits/weevely 4.0.1-r1 9999: Weevely is a stealth PHP web shell that simulate telnet-like console
@@ -91,7 +90,7 @@ app-forensics/libwtcdb 20170201: Library and tools to access the Windows thumbna
 app-forensics/make-pdf 0.1.7-r1: This tool will embed javascript inside a PDF document
 app-forensics/mxtract 1.1: A memory extractor & analyzer
 app-forensics/mysql-magic 9999: dump mysql client password from memory
-app-forensics/oletools 0.56.2 0.60 0.60.1: A python tools to analyze MS OLE2 files and MS Office documents
+app-forensics/oletools 0.60.1: A python tools to analyze MS OLE2 files and MS Office documents
 app-forensics/openscap 1.3.6-r1: Framework which enables integration with Security Content Automation Protocol
 app-forensics/openscap-daemon 0.1.10-r1: Manages continuous scans of your infrastructure
 app-forensics/origami-pdf 2.1.0: A Ruby framework designed to parse, analyze, and forge PDF documents
@@ -115,7 +114,7 @@ app-fuzz/smtp-fuzz 0.1: A smtp fuzzer
 app-fuzz/snmp-fuzzer 0.1.1-r1: A very complete snmp fuzzer
 app-misc/freediag 1.08: Free diagnostic software for OBD-II compliant motor vehicles
 app-misc/gplaycli 3.29: Google Play Downloader via Command line
-app-misc/mat2 0.13.0 0.13.3: A handy tool to trash your metadata
+app-misc/mat2 0.13.3: A handy tool to trash your metadata
 app-misc/mrz 0.6.2: Machine readable zone generator and checker for passports, visas, id cards
 app-misc/radexreader 1.2.4: Reader for the RADEX RD1212 and the RADEX ONE Geiger counters
 app-misc/siglo 0.9.9: GTK app to sync InfiniTime watch with PinePhone
@@ -126,14 +125,10 @@ app-pda/pymobiledevice3 2.30.0 4.16.7: python3 implementation for working with i
 app-pda/usbmuxd 1.1.1_p20231011: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
 app-text/cewl 6.2 6.2.1 9999: A custom word list generator
 app-text/endesive 2.0.2: Sign and verify digital signatures in mail, PDF and XML documents
-app-text/unfurl 0.2.0: Pull out bits of URLs provided on stdin
 dev-db/neo4j-community 4.2.2: High-performance, mature and robust NOSQL graph database
 dev-db/sqlsus 0.7.2: MySQL injection and takeover tool
 dev-debug/dwarf-debugger 1.1.3-r1: Full featured multi arch/os debugger built on top of PyQt5 and frida
 dev-go/fetchbot 1.3: Simple, flexible web crawler that follows robots.txt policies and crawl delays
-dev-go/go-protobuf 1.2.0 1.5.2: Go support for Google's protocol buffers
-dev-go/go-text 0.3.0: Go text processing support
-dev-go/gopkg-sourcemap 1.0.5 2.1.3: Source maps consumer for Golang
 dev-go/protoc-gen-go-grpc 1.2.0 1.3.0: This tool generates Go language bindings of services in protobuf definition files for gRPC
 dev-java/gradle-bin 6.8.3: A project automation and build tool with a Groovy based DSL
 dev-java/janino 3.1.7-r1 3.1.10: An embedded compiler for run-time compilation purposes
@@ -327,7 +322,6 @@ dev-python/isc_dhcp_leases 0.9.1: Small python module for reading /var/lib/dhcp/
 dev-python/itemadapter 0.4.0: Common interface for scrapy data container classes
 dev-python/itemloaders 1.0.4: Library to populate items using XPath and CSS with a convenient API
 dev-python/javalang 0.12.0: A pure Python library for working with Java source code
-dev-python/javaobj-py3 0.4.3: Module for serializing and de-serializing Java objects
 dev-python/jsbeautifier 1.14.11 1.15.1: Beautify, unpack or deobfuscate JavaScript
 dev-python/json2html 1.3.0-r1: A python module for converting complex JSON oject to HTML Table representation
 dev-python/jsonfield 2.0.2: A reusable Django field that allows you to store validated JSON
@@ -342,12 +336,12 @@ dev-python/lsassy 3.1.12 3.1.13: Python library to parse remote lsass dumps
 dev-python/lzfse 0.4.2: Python bindings for the LZFSE reference implementation
 dev-python/macholib 1.14 1.16.2: A package is a collection of utilities for dealing with IP addresses
 dev-python/manuel 1.9.0: Manuel lets you build tested documentation
-dev-python/marshmallow-sqlalchemy 0.15.0 0.21.0: SQLAlchemy integration with the marshmallow (de)serialization library
+dev-python/marshmallow-sqlalchemy 0.21.0: SQLAlchemy integration with the marshmallow (de)serialization library
 dev-python/masky 0.2.0: CLI allowing to remotely dump domain user credentials via an ADCS
 dev-python/matlink-gpapi 0.4.4.5: Unofficial python api for google play
 dev-python/maxminddb 1.5.2: A Python module for reading MaxMind DB files
 dev-python/mechanize 0.4.5: Stateful programmatic web browsing in Python
-dev-python/minidump 0.0.18 0.0.20 0.0.21: parse Windows minidump file format
+dev-python/minidump 0.0.24: parse Windows minidump file format
 dev-python/minikerberos 0.4.2 0.4.4: Kerberos manipulation library in pure Python
 dev-python/mitm6 0.2.2: pwning IPv4 via IPv6
 dev-python/mockito 1.2.0: Spying framework based on Mockito java library
@@ -381,7 +375,7 @@ dev-python/py2neo 3.1.2 4.3.0-r1: A simple and pragmatic library which accesses 
 dev-python/pyFFTW 0.13.1_p20240117 9999: A pythonic python wrapper around FFTW
 dev-python/pyaff4 0.27: Python Advanced Forensic Format Version 4 library
 dev-python/pyasn 1.6.2: Python IP address to Autonomous System Number lookup module
-dev-python/pyaxmlparser 0.3.24 0.3.26: Parser for Android XML file and get Application Name without using Androguard
+dev-python/pyaxmlparser 0.3.26: Parser for Android XML file and get Application Name without using Androguard
 dev-python/pycrashreport 1.2.5: Pure python3 for parsing Apple's crash reports
 dev-python/pycups 2.0.1-r1: Python bindings for the CUPS API
 dev-python/pydispatcher 2.0.5: Multi-producer-multi-consumer signal dispatching mechanism
@@ -397,7 +391,7 @@ dev-python/pyinstaller-hooks-contrib 2023.10: Community maintained hooks for PyI
 dev-python/pyjsparser 2.7.1: Fast javascript parser (based on esprima.js)
 dev-python/pykcs11 1.5.10: A complete PKCS#11 wrapper for Python
 dev-python/pykdebugparser 1.2.4: Python parser for kdebug events
-dev-python/pylnk3 0.4.0 0.4.2: Python library for reading and writing Windows shortcut files
+dev-python/pylnk3 0.4.2: Python library for reading and writing Windows shortcut files
 dev-python/pylzma 0.5.0: Platform independent python bindings for the LZMA compression library.
 dev-python/pylzss 0.3.1: LZSS compression algorithm
 dev-python/pymisp 2.4.124-r1 2.4.152: A python library for using the MISP Rest API
@@ -415,7 +409,6 @@ dev-python/python-crontab 20191023: Crontab module for accessing system crontabs
 dev-python/python-docx 0.8.10: Create and modify Word documents with Python
 dev-python/python-iptools 0.7.0: A package is a collection of utilities for dealing with IP addresses
 dev-python/python-libnmap 0.7.3-r1: A python library enabling python developers to manipulate nmap process and data
-dev-python/python-nmap 0.6.1 0.6.4: a python library which helps in using nmap port scanner
 dev-python/python-oauth2 1.1.1-r1: OAuth 2.0 provider for python
 dev-python/python-obfuscator 0.0.2: made good code to make bad code
 dev-python/python-pcapng 2.1.1: Python library to parse the pcap-ng format
@@ -474,9 +467,9 @@ dev-python/validators 0.14.0: Python Data Validation for Humans
 dev-python/vulners 1.5.5: Python API wrapper for the Vulners Database
 dev-python/w3lib 1.22.0: Library of web-related functions
 dev-python/webargs 5.5.2: Declarative parsing and validation of HTTP request objects
-dev-python/whitenoise 5.0.1 5.2.0: Radically simplified static file serving for WSGI applications
+dev-python/whitenoise 5.2.0: Radically simplified static file serving for WSGI applications
 dev-python/winacl 0.1.7 0.1.8: ACL/ACE/Security Descriptor manipulation library
-dev-python/winsspi 0.0.5 0.0.7 0.0.9: Windows SSPI library in pure Python
+dev-python/winsspi 0.0.9: Windows SSPI library in pure Python
 dev-python/xlutils 2.0.0-r1: provides a collection of utilities for working with Excel files
 dev-python/xonsh 0.14.2: Python-powered, cross-platform, Unix-gazing shell
 dev-python/xtract 0.1_alpha3: Library to (un)pack archives and (de)compress files
@@ -591,19 +584,18 @@ media-sound/deinvert 9999: A voice inversion descrambler
 net-analyzer/GyoiThon 9999: GyoiThon is a growing penetration test tool using Machine Learning
 net-analyzer/NetExec 1.3.0-r1: A swiss army knife for pentesting Windows/Active Directory environments
 net-analyzer/amass 4.2.0: Subdomain OSINT Enumeration
-net-analyzer/bettercap 2.32.0 2.33.0: A complete, modular, portable and easily extensible MITM framework
+net-analyzer/bettercap 2.33.0-r1: A complete, modular, portable and easily extensible MITM framework
 net-analyzer/bonesi 0.3.1 9999: BoNeSi - the DDoS botnet simulator
 net-analyzer/cameradar 5.0.1 5.0.2: Cameradar hacks its way into RTSP videosurveillance cameras
-net-analyzer/commix 3.4 3.6: Automated All-in-One OS command injection and exploitation tool
+net-analyzer/commix 3.6: Automated All-in-One OS command injection and exploitation tool
 net-analyzer/cottontail 20190426-r1: Capture all RabbitMQ messages being sent through a broker
 net-analyzer/crackmapexec 5.4.0: A swiss army knife for pentesting Windows/Active Directory environments
 net-analyzer/davtest 1.2_p20230307-r1: tests WebDAV enabled servers
 net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden content
-net-analyzer/dirhunt 0.6.0-r2 0.7.0-r1: Dirhunt is a web crawler optimized for searching and analyzing web directories.
+net-analyzer/dirhunt 0.7.0-r1: Dirhunt is a web crawler optimized for searching and analyzing web directories.
 net-analyzer/dnsrecon 1.3.0 1.3.1: DNS Enumeration Script
 net-analyzer/enum4linux 0.9.1: A tool for enumerating information from Windows and Samba systems
 net-analyzer/evilgrade 2.0.9: A modular framework that takes advantage of poor upgrade implementations by injecting fake updates.
-net-analyzer/ffuf 1.5.0 2.0.0: Fast web fuzzer / directory brute force
 net-analyzer/fierce 1.5.0 1.6.0 9999: A DNS reconnaissance tool for locating non-contiguous IP space
 net-analyzer/ftw 1.3.0-r1: Framework for Testing WAFs
 net-analyzer/geoipgen 0.4: Generate a list of hostnames based on country
@@ -669,7 +661,6 @@ net-mail/libpst 0.6.76: Utilities to read and convert MS Outlook personal folder
 net-misc/can-utils 2023.03: SocketCAN userspace utilities and tools
 net-misc/gowitness 2.5.0: A web screenshot utility using Chrome Headless
 net-misc/hackertarget 1.2.3 9999: A security toolkit for organizations with attack surface discovery
-net-misc/httprobe 0.2: Take a list of domains and probe for working HTTP and HTTPS servers
 net-misc/linkfinder 20191124: A python script that finds endpoints in JavaScript files
 net-misc/munin 0.20.0: Online hash checker for Virustotal and other services
 net-misc/pwnedornot 1.2.8_p20200602: OSINT Tool for Finding Passwords of Compromised Email Addresses Topics
@@ -683,7 +674,7 @@ net-proxy/mitmproxy 11.0.0-r1: An interactive, SSL-capable, man-in-the-middle HT
 net-proxy/shadowsocks-rust 1.17.1 1.20.0: Shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
 net-proxy/sshttp 0.35_p2-r1 0.35_p20191108: An easy to use OSI-Layer5 switching daemon
 net-proxy/zaproxy 2.14.0 2.15.0: The OWASP Zed Attack Proxy for finding vulnerabilities in web applications
-net-vpn/kcptun 20200409 20200701: A Stable & Secure Tunnel Based On KCP with N:M Multiplexing
+net-vpn/kcptun 20241227: A Stable & Secure Tunnel Based On KCP with N:M Multiplexing
 net-vpn/kcptun-plugins 20190313: SIP003-compatible KCPTUN and UDP2RAW plugins for Shadowsocks
 net-vpn/tuntox 0.0.10 9999: Tunnel TCP connections over the Tox protocol
 net-vpn/udp2raw-tunnel 20200727.0 20200818.0 99999999: A tunnel which turns UDP traffic into encrypted FakeTCP/UDP/ICMP traffic
@@ -726,7 +717,7 @@ net-wireless/ice9-bluetooth-sniffer 23.06.0 9999: Wireshark Bluetooth sniffer fo
 net-wireless/jackit 0.0_p20170918-r1: Exploit Code for Mousejack
 net-wireless/kalibrate-hackrf 20160704 20220321: Calculate the local oscillator frequency offset using GSM stations
 net-wireless/karmetasploit 0.1-r3: KARMA + Metasploit 3 == Karmetasploit
-net-wireless/killerbee 2.7.1_p20200309 3.0.0_beta1: Framework and Tools for Attacking ZigBee and IEEE 802.15.4 networks
+net-wireless/killerbee 3.0.0_beta1: Framework and Tools for Attacking ZigBee and IEEE 802.15.4 networks
 net-wireless/kismet-rest 2019.05.02 9999: Kismet REST Python API
 net-wireless/kismet_shootout 0.0_p20190717 9999: Kismet WiFi data source shootout
 net-wireless/kismetdb 2019.05.05 9999: Kismetdb database log helper library
@@ -734,7 +725,6 @@ net-wireless/libfreefare 0.4.0: a library for high level manipulation of MIFARE 
 net-wireless/libm2k 9999: A C++ library for interfacing with the ADALM2000
 net-wireless/md380tools 9999: Python tools and patched firmware for the TYT-MD380
 net-wireless/mdk4 4.2_p20220118: Wireless injection tool tool to exploit common IEEE 802.11 protocol weaknesses
-net-wireless/mjackit 20190606-r1: Demo tool for Logitech Unifying vulnerabilities
 net-wireless/mmdvmhost 9999: The host program for MMDVM
 net-wireless/mousejack 9999: Firmware and research tools for nRF24LU1+ based USB dongles and breakout boards
 net-wireless/mt7610u_ulli-kroll 9999: Modified usb wifi driver for TP_link TL-WDN5200

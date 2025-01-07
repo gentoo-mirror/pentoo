@@ -1,6 +1,6 @@
 DEFINED_PHASES=install prepare
 DESCRIPTION=A Simple ELF crypter
-EAPI=7
+EAPI=8
 HOMEPAGE=https://github.com/droberson/ELFcrypt
 INHERIT=toolchain-funcs
 KEYWORDS=~amd64 ~x86
@@ -8,4 +8,4 @@ LICENSE=MIT
 SLOT=0
 SRC_URI=https://github.com/droberson/ELFcrypt/archive/f3c0121dc153d49756403cad83cbd160933edf78.tar.gz -> elfcrypt-20200224.tar.gz
 _eclasses_=toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96
-_md5_=7e699b0b935b4dc6c0c6a691486481a4
+_md5_=15259ed60672abbfe31ab3834afd5dc1

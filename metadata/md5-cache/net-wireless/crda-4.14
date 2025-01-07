@@ -1,4 +1,4 @@
-BDEPEND=|| ( dev-lang/python:3.12 dev-lang/python:3.11 dev-lang/python:3.10 ) || ( ( dev-lang/python:3.12 dev-python/m2crypto[python_targets_python3_12(-)] ) ( dev-lang/python:3.11 dev-python/m2crypto[python_targets_python3_11(-)] ) ( dev-lang/python:3.10 dev-python/m2crypto[python_targets_python3_10(-)] ) ) virtual/pkgconfig virtual/pkgconfig
+BDEPEND=|| ( dev-lang/python:3.13 dev-lang/python:3.12 dev-lang/python:3.11 ) || ( ( dev-lang/python:3.13 dev-python/m2crypto[python_targets_python3_13(-)] ) ( dev-lang/python:3.12 dev-python/m2crypto[python_targets_python3_12(-)] ) ( dev-lang/python:3.11 dev-python/m2crypto[python_targets_python3_11(-)] ) ) virtual/pkgconfig virtual/pkgconfig
 DEFINED_PHASES=compile install postinst postrm prepare setup test
 DEPEND=!gcrypt? ( dev-libs/openssl:0= ) gcrypt? ( dev-libs/libgcrypt:0= ) dev-libs/libnl:3 net-wireless/wireless-regdb
 DESCRIPTION=Central Regulatory Domain Agent for wireless networks
@@ -12,4 +12,4 @@ RDEPEND=!gcrypt? ( dev-libs/openssl:0= ) gcrypt? ( dev-libs/libgcrypt:0= ) dev-l
 SLOT=0
 SRC_URI=https://git.kernel.org/pub/scm/linux/kernel/git/mcgrof/crda.git/snapshot/crda-4.14.tar.gz
 _eclasses_=toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	multiprocessing	1e32df7deee68372153dca65f4a7c21f	python-utils-r1	42c5abe4a656a4993a06a4fc61dbdd12	python-any-r1	6ddb5e75c10db046f89ebe39c85e1d82	udev	f3d9a4376ebd22131726a68e1a0a058f
-_md5_=617e7caa65dc634633caa02548474fa8
+_md5_=81f4563d5c2d07db6dba05b1e8e6a711
