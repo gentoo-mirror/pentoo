@@ -1,0 +1,16 @@
+BDEPEND=sys-devel/bc llvm-core/clang llvm-core/llvm
+DEFINED_PHASES=compile install setup
+DEPEND=virtual/linux-sources >=sys-kernel/linux-headers-5.5
+DESCRIPTION=eBPF process monitor module for opensnitch
+EAPI=8
+HOMEPAGE=https://github.com/evilsocket/opensnitch
+INHERIT=linux-info
+IUSE=dist-kernel
+KEYWORDS=amd64
+LICENSE=GPL-3
+RDEPEND=dist-kernel? ( virtual/dist-kernel:= ) ~app-admin/opensnitch-1.6.7
+RESTRICT=strip test
+SLOT=0
+SRC_URI=https://github.com/evilsocket/opensnitch/archive/refs/tags/v1.6.7.tar.gz -> opensnitch-1.6.7.gh.tar.gz
+_eclasses_=toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	linux-info	ea4122ba1d8791a12b78e53f9510a2e3
+_md5_=a489ca8baf7b839e66e646e5b72ace3a
