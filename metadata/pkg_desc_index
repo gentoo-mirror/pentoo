@@ -184,7 +184,7 @@ dev-libs/libvmdk 20210807 20221022: Library and tools to access the VMware Virtu
 dev-libs/libwrc 20240421: Library to access the Windows Resource Compiler (WRC) format
 dev-libs/memprocfs 5.0 5.8: The Memory Process File System
 dev-libs/nanopb 0.4.7 0.4.8: plain-C Protocol Buffers for embedded/memory-constrained systems
-dev-libs/openssl-bad 1.0.2_p20250104: full-strength general purpose cryptography library (including SSL and TLS)
+dev-libs/openssl-bad 1.0.2_p20220901-r1 1.0.2_p20250104: full-strength general purpose cryptography library (including SSL and TLS)
 dev-libs/serialDV 1.1.4: C++ library to encode/decode audio with AMBE3000
 dev-perl/Encoding-BER 1.02: Perl module for encoding/decoding data using ASN.1 Basic Encoding Rules (BER)
 dev-perl/Imager-SkinDetector 0.05: Manipulate perl strings through tied array
