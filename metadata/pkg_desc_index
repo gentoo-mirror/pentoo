@@ -118,6 +118,7 @@ app-misc/mat2 0.13.3: A handy tool to trash your metadata
 app-misc/mrz 0.6.2: Machine readable zone generator and checker for passports, visas, id cards
 app-misc/radexreader 1.2.4: Reader for the RADEX RD1212 and the RADEX ONE Geiger counters
 app-misc/siglo 0.9.9: GTK app to sync InfiniTime watch with PinePhone
+app-misc/sstelfox-dotfiles 9999: Sam Stelfox's dotfiles
 app-pda/ideviceinstaller 1.1.1-r1: A tool to interact with the installation_proxy of an Apple's iDevice
 app-pda/ifuse 1.1.4-r1: Mount Apple iPhone/iPod Touch file systems for backup purposes
 app-pda/libplist 2.5.0 2.6.0-r1: Support library to deal with Apple Property Lists (Binary & XML)
