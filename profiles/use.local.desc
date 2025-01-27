@@ -258,6 +258,7 @@ pentoo/pentoo:rce - Pull in pentoo metapackage pentoo-rce
 pentoo/pentoo:voip - Pull in pentoo metapackage pentoo-voip
 pentoo/pentoo:wireless - Pull in pentoo metapackage pentoo-wireless
 pentoo/pentoo-cinnamon:gdm - GNOME Display Manager
+pentoo/pentoo-core:firmware - Pull in firmware needed for non-virtual hardware
 pentoo/pentoo-cracking:dict - Install some larger dictionaries
 pentoo/pentoo-desktop:enlightenment - Support the enlightenment desktop environment
 pentoo/pentoo-desktop:firefox - Install firefox
