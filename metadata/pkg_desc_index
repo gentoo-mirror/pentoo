@@ -795,7 +795,7 @@ sci-electronics/litex 2022.04 20180718-r1: Information gathering tool designed f
 sci-electronics/migen 0.7-r1: A Python toolbox for building complex digital hardware
 sys-apps/fchroot 1.0.0: Funtoo's franken-chroot tool
 sys-apps/magic-pax 0.0.1: Attempt at applying pax marks effectively
-sys-devel/gcc-arm-none-eabi 12.2_p1-r1 13.2_p1-r1: GNU Arm Embedded Toolchain
+sys-devel/gcc-arm-none-eabi 12.2_p1-r1 13.2_p1-r1 14.2_p1: GNU Arm Embedded Toolchain
 sys-devel/gdb-dashboard 0.11.4-r1 9999: Modular visual interface for GDB in Python
 sys-fs/ext4-crypt 20170216 99999999: A userspace tool to create ext4 encrypted directories
 sys-kernel/nvidia-bl 0.17.3: Driver to adjust display backlight on legacy mobile NVidia graphics adapters
