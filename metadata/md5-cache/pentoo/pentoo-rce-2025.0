@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=Pentoo RCE meta ebuild
+EAPI=8
+HOMEPAGE=https://www.pentoo.org
+IUSE=hardened pentoo-extra pentoo-full X
+KEYWORDS=amd64 ~arm64 x86
+LICENSE=GPL-3
+PDEPEND=hardened? ( sys-apps/paxctl ) app-arch/upx dev-debug/gdb dev-debug/gef sys-devel/gdb-dashboard amd64? ( || ( dev-util/jd-gui-bin dev-util/jd-gui ) ) dev-util/jadx-bin X? ( app-editors/wxhexeditor ) pentoo-full? ( app-editors/dhex dev-util/vbindiff X? ( app-editors/gedit app-editors/ghex ) !arm? ( dev-lang/nasm dev-debug/edb-debugger ) amd64? ( dev-util/cutter ) dev-debug/ltrace dev-debug/strace ) pentoo-extra? ( amd64? ( dev-util/radare2 ) dev-debug/dwarf-debugger )
+SLOT=0
+_md5_=96cf7f697c53225be1c0e2dda9695319
