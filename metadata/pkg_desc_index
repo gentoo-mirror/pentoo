@@ -708,9 +708,9 @@ net-wireless/gr-ham 20240130: collection of GNU Radio blocks useful for amateur 
 net-wireless/gr-mixalot 0.0_p20230121-r2 9999: a set of GNU Radio blocks/utilities to encode pager messages
 net-wireless/gr-sdrplay3 9999 20230421-r1: GNU Radio OOT module for SDRplay RSP devices - SRDPlay API v3
 net-wireless/hackrf-firmware 9999: Hardware designs and software for HackRF
-net-wireless/hcxdumptool 6.3.4: Small tool to capture packets from wlan devices
+net-wireless/hcxdumptool 6.3.4 6.3.5: Small tool to capture packets from wlan devices
 net-wireless/hcxkeys 6.2.1-r2: Generate plainmasterkeys (rainbowtables) and hashes for hashcat/JTR
-net-wireless/hcxtools 6.2.9 6.3.4: Portable solution for capturing wlan traffic and conversion to hashcat formats
+net-wireless/hcxtools 6.3.4 6.3.5: Portable solution for capturing wlan traffic and conversion to hashcat formats
 net-wireless/hostapd 2.10-r3: IEEE 802.11 wireless LAN Host AP daemon
 net-wireless/hostapd-mana 2.6.5_p20230803 9999: SensePost's modified hostapd for wifi attacks
 net-wireless/ice9-bluetooth-sniffer 23.06.0 9999: Wireshark Bluetooth sniffer for HackRF, BladeRF, and USRP
