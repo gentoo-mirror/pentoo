@@ -3,7 +3,7 @@ acct-group/neo4j 0: Group for neo4j-community
 acct-group/sonar 0: Group for SonarQube
 acct-user/davmail 0: User for Davmail
 acct-user/sonar 0: User for SonarQube
-app-admin/genmenu 0.0_p20230623 9999: a tool for generating freedesktop-compliant menus
+app-admin/genmenu 0.0_p20250321 9999: a tool for generating freedesktop-compliant menus
 app-admin/opensnitch 1.6.6-r3 1.6.7: Desktop application firewall
 app-admin/opensnitch-ebpf-module 1.6.6-r1 1.6.7: eBPF process monitor module for opensnitch
 app-admin/system-config-printer 1.5.18-r1: Graphical user interface for CUPS administration
