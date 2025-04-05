@@ -331,7 +331,7 @@ dev-python/jsonfield 2.0.2: A reusable Django field that allows you to store val
 dev-python/kaleido 0.2.1: Static image export for web-based visualization libraries
 dev-python/la-panic 0.5.0: iPhone kernel panic parser
 dev-python/langdetect 1.0.8: Port of Nakatani Shuyo's language-detection library
-dev-python/ldapdomaindump 0.9.4_p20240213: Active Directory information dumper via LDAP
+dev-python/ldapdomaindump 0.9.4_p20240213 0.10.0: Active Directory information dumper via LDAP
 dev-python/leather 0.3.3: Python charting for 80% of humans
 dev-python/libsast 1.5.2 2.0.3 3.1.6: A generic SAST core built on top of semgrep and regex
 dev-python/limits 3.7.0: Rate limiting utilities
