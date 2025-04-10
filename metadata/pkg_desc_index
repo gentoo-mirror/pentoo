@@ -575,7 +575,7 @@ dev-util/plasma 20190304: An interactive disassembler for x86/ARM/MIPS
 dev-util/recaf-bin 2.21.14: A modern Java bytecode editor
 dev-util/reflutter 0.7.2 0.7.8: Flutter apps reverse engineering
 dev-util/semgrep-core-bin 1.66.0 1.75.0: Lightweight static analysis for many languages
-dev-util/soapui 5.7.0 5.7.2: The Swiss-Army Knife for SOAP Testing
+dev-util/soapui-bin 5.7.2 5.8.0: The Swiss-Army Knife for SOAP Testing
 dev-util/sonarqube-bin 7.9.3 8.3.1.34397 8.4.1.35646 8.7.0.41497: SonarQube Community Edition is an open platform to manage code quality
 dev-util/sonarscanner-bin 4.4.0.2170: SonarQube Command-Line Scanner
 dev-util/valabind 1.7.1 1.7.2: Valabind is a tool to parse vala or vapi files to transform them into swig files
