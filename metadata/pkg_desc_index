@@ -288,8 +288,8 @@ dev-python/flask-classful 0.14.2: Class based views for Flask
 dev-python/flask-datepicker 0.14: Simple integration of Flask and WTForms
 dev-python/flask-jwt 0.3.2: JWT (JSON Web Tokens) for Flask applications
 dev-python/flask-jwt-extended 3.24.1: An open source Flask extension that provides JWT support
+dev-python/flask-restful 0.2.12: Flask-RESTful provides the building blocks for creating a great REST API
 dev-python/flask-restless 0.17.0: A Flask extension for easy ReSTful API generation
-dev-python/flask-restx 0.5.1: Fully featured framework for fast, easy and documented API development
 dev-python/flask-session 0.3.1: Adds server-side session support to your Flask application
 dev-python/flask-socketio 4.3.1-r1: Socket.IO integration for Flask applications
 dev-python/fpdf 1.7.2: Simple PDF generation for Python
@@ -760,7 +760,7 @@ net-wireless/soapy_power 1.6.1-r1: Obtain power spectrum from SoapySDR devices
 net-wireless/srsran 23.11 9999: Open source SDR 4G software suite from Software Radio Systems
 net-wireless/srsran2 20231020: Open source SDR 4G software suite from Software Radio Systems
 net-wireless/trunk-recorder 4.7.1 5.0.0 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
-net-wireless/wifipumpkin3 1.1.7-r1: Framework for Rogue Wi-Fi Access Point Attack
+net-wireless/wifipumpkin3 1.1.7-r2: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifite 2.7.0: An automated wireless attack tool
 net-wireless/wireless-regdb 20230503-r2 20240508: Wireless Regulatory database for Linux
 pentoo/pentoo 2023.2: Pentoo meta ebuild to install all apps
