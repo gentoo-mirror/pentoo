@@ -148,6 +148,10 @@ net-mail/libpst:shared - Enable libpst shared object
 net-proxy/zaproxy:plugins - Install plugins
 net-vpn/kcptun:server - Enable server side daemon
 net-vpn/udp2raw-tunnel:iptables - include support for iptables filtering
+net-wireless/aircrack-ng:airdrop-ng - Build airdrop-ng
+net-wireless/aircrack-ng:airgraph-ng - Build airgraph-ng
+net-wireless/aircrack-ng:experimental - Build the "experimental" tools which may randomly fail to run properly
+net-wireless/aircrack-ng:netlink - Use netlink for channel control instead of WEXT
 net-wireless/airgeddon:opencl - enable opencl based cracking using app-crypt/hashcat
 net-wireless/b43-tools:assembler - Build and install assembler
 net-wireless/b43-tools:disassembler - Build and install disassembler
