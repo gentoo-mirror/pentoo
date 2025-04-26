@@ -133,10 +133,6 @@ net-analyzer/set:wireless - Add support for wifi attacks
 net-analyzer/testssl:bundled-openssl - Install precompiled versions of OpenSSL for greater testing coverage
 net-analyzer/twa:testssl - Install net-analyzer/testssl to check TLS/SSL cipher
 net-analyzer/whatweb:json - Enable json support
-net-dialup/freeradius:memcached - Include dev-libs/libmemcached in caching drivers
-net-dialup/freeradius:mongodb - Include support for MongoDB database
-net-dialup/freeradius:redis - Include support for Redis database
-net-dialup/freeradius:wpe - Include support for WPE hacking
 net-libs/libosmocore:pcsc-lite - Enable smartcard support with sys-apps/pcsc-lite
 net-libs/libtins:ack-tracker - TCP ACK tracking support
 net-libs/libtins:cxx11 - C++11 support

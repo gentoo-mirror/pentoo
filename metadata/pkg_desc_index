@@ -27,8 +27,8 @@ app-dicts/raft-wordlists 20110803-r1: Raft wordlists
 app-dicts/seclists 2024.4 2025.1: A collection of multiple types of lists used during security assessments
 app-editors/rehex 0.62.0 0.62.1: Reverse Engineers' Hex Editor
 app-eselect/eselect-metasploit 0.20: eselect module for metasploit
-app-exploits/deathstar 20201217-r1 20210519: A tool to gain Domain Admin rights with a push of a button
-app-exploits/empire 6.0.0 6.0.2: A post-exploitation framework
+app-exploits/deathstar 20210519: A tool to gain Domain Admin rights with a push of a button
+app-exploits/empire 6.0.2: A post-exploitation framework
 app-exploits/exploitdb 20231222 99999999: All exploits from exploit-db.com
 app-exploits/exploitdb-papers 20221122 99999999: Exploit database's papers
 app-exploits/getsploit 0.3.3_p20190530 9999: Command line utility for searching and downloading exploits
@@ -92,7 +92,6 @@ app-forensics/mxtract 1.1: A memory extractor & analyzer
 app-forensics/mysql-magic 9999: dump mysql client password from memory
 app-forensics/oletools 0.60.1: A python tools to analyze MS OLE2 files and MS Office documents
 app-forensics/openscap 1.3.6-r1: Framework which enables integration with Security Content Automation Protocol
-app-forensics/openscap-daemon 0.1.10-r1: Manages continuous scans of your infrastructure
 app-forensics/origami-pdf 2.1.0: A Ruby framework designed to parse, analyze, and forge PDF documents
 app-forensics/pcileech 4.17 4.18 4.19: Direct Memory Access (DMA) Attack Software
 app-forensics/pdf-parser 0.7.6 0.7.8: This tool will parse a PDF document to identify the fundamental elements used
@@ -306,8 +305,8 @@ dev-python/gpxpy 1.6.1 1.6.2: GPX file parser and GPS track manipulation library
 dev-python/graphene 3.0.0_beta7: GraphQL Framework for Python
 dev-python/graphql-core 3.1.5: GraphQL for Python
 dev-python/graphql-relay 3.1.0: Relay library for graphql-core-next
-dev-python/grpcio-testing 1.62.0: Testing utilities for gRPC Python
-dev-python/grpcio-tools 1.67.0 1.71.0: Protobuf code generator for gRPC
+dev-python/grpcio-testing 1.71.0: Testing utilities for gRPC Python
+dev-python/grpcio-tools 1.71.0: Protobuf code generator for gRPC
 dev-python/hexdump 3.3: Dump binary data to hex format and restore from there
 dev-python/hrt 0.1.0: HTTP Request Translator (hrt) translates raw HTTP requests to different scripts
 dev-python/htmlentities 0.3.0: Easy-to-use data handling for SQL data stores
@@ -382,6 +381,7 @@ dev-python/pyaxmlparser 0.3.26: Parser for Android XML file and get Application 
 dev-python/pycrashreport 1.2.5: Pure python3 for parsing Apple's crash reports
 dev-python/pycups 2.0.1-r1: Python bindings for the CUPS API
 dev-python/pydispatcher 2.0.5: Multi-producer-multi-consumer signal dispatching mechanism
+dev-python/pydub 0.25.1: Manipulate audio with an simple and easy high level interface
 dev-python/pyee 8.1.0 8.2.2: A port of node.js's EventEmitter to python.
 dev-python/pygeoif 0.7: A basic implementation of the __geo_interface__
 dev-python/pygexf 0.2.2: A python library to generate gexf file format
@@ -549,7 +549,6 @@ dev-util/apktool 2.11.0 2.11.1: A tool for reengineering 3rd party, closed, bina
 dev-util/appmon 0.5_p20221108: Monitoring and tampering API calls of MacOS and iOS/Android apps
 dev-util/chipsec 1.13.3 1.13.8: Platform Security Assessment Framework
 dev-util/cpu_rec_rs 1.0.1: Determine which CPU architecture is used in a binary file
-dev-util/dependency-check-bin 5.3.2 6.2.2: A utility that detects vulnerabilities in application dependencies
 dev-util/dex2jar 2.3 2.4: Tools to work with android .dex and java .class files
 dev-util/electron-bin 6.0.11: Cross platform application development framework based on web technologies
 dev-util/electron-packager 14.2.1: Six Degrees of Domain Admin
@@ -583,7 +582,7 @@ dev-util/wabt 1.0.34: The WebAssembly Binary Toolkit
 dev-vcs/gitleaks 8.18.0: Audit git repos for secrets
 media-libs/mbelib 1.3.0-r1 9999: P25 Phase 1 and ProVoice vocoder
 media-radio/fldigi 4.2.05: Sound card based multimode software modem for Amateur Radio use
-media-radio/icad-tone-detection 1.3: library for extracting scanner radio tones from scanner audio
+media-radio/icad-tone-detection 1.4: library for extracting scanner radio tones from scanner audio
 media-radio/rdio-scanner-bin 6.6.3: Software police-like scanner with its own touch
 media-sound/deinvert 9999: A voice inversion descrambler
 net-analyzer/GyoiThon 9999: GyoiThon is a growing penetration test tool using Machine Learning
@@ -653,7 +652,6 @@ net-analyzer/wfuzz 3.1.0-r1: Wfuzz is a tool designed for bruteforcing Web Appli
 net-analyzer/whatweb 0.5.5: Next generation web scanner, identifies what software websites are running
 net-analyzer/wpscan 3.8.27 3.8.28: Wordpress security scanner
 net-analyzer/xsstrike 3.1.5 9999: Advanced XSS detection suite
-net-dialup/freeradius 3.2.3: Highly configurable free RADIUS server
 net-dialup/minimodem 0.24: General-purpose software audio FSK modem.
 net-libs/libosmocore 1.9.3: Utility functions for OsmocomBB, OpenBSC and related projects
 net-libs/libpfring 8.4.0 8.6.1: A new type of network socket that improves packet capture speed.
@@ -771,7 +769,7 @@ pentoo/pentoo-core 2025.0-r1: Pentoo minimum core requirements
 pentoo/pentoo-cracking 2022.2: Pentoo cracking meta ebuild
 pentoo/pentoo-database 2022.2: Pentoo database attack meta ebuild
 pentoo/pentoo-desktop 2025.2: Pentoo meta ebuild to install all X and WM/DE related things
-pentoo/pentoo-exploit 2024.1: Pentoo exploit meta ebuild
+pentoo/pentoo-exploit 2025.0: Pentoo exploit meta ebuild
 pentoo/pentoo-footprint 2023.3: Pentoo footprint meta ebuild
 pentoo/pentoo-forensics 2024.1: Pentoo forensics meta ebuild
 pentoo/pentoo-forging 2022.2: Pentoo forging meta ebuild
