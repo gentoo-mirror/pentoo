@@ -702,7 +702,7 @@ net-wireless/dump1090_sdrplus 20200921: Mode S decoder for (SDR) devices includi
 net-wireless/eaphammer 1.14.0: Targeted evil twin attacks against WPA2-Enterprise networks
 net-wireless/editcp-bin 1.0.31: Codeplug editor for the MD-380/MD-390/MD40/MD-UV380/MD-UV390 DMR radios
 net-wireless/fern-wifi-cracker 3.4-r1: Wireless tool for WEP/WPA cracking and WPS keys recovery
-net-wireless/fosphor_knob 0.11-r1 0.12: A visualization we use for the RF Village
+net-wireless/fosphor_knob 0.13 9999: A visualization we use for the RF Village
 net-wireless/gps-sdr-sim 9999: GPS Spoofing tool for transmit capable SDR's like the HackRF, bladeRF and USRP
 net-wireless/gr-dsd 9999: GNU Radio block for Digital Speech Decoder
 net-wireless/gr-gsm 20210505-r1: Set of tools for receiving information transmitted by GSM equipment/devices
@@ -757,7 +757,7 @@ net-wireless/soapy-sdrplay3 9999 20230421: Soapy SDR module for SRDPlay API v3
 net-wireless/soapy_power 1.6.1-r1: Obtain power spectrum from SoapySDR devices
 net-wireless/srsran 23.11 9999: Open source SDR 4G software suite from Software Radio Systems
 net-wireless/srsran2 20231020: Open source SDR 4G software suite from Software Radio Systems
-net-wireless/trunk-recorder 4.7.1 5.0.0 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
+net-wireless/trunk-recorder 5.0.2 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
 net-wireless/wifipumpkin3 1.1.7-r2: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifite 2.7.0: An automated wireless attack tool
 net-wireless/wireless-regdb 20230503-r2 20240508: Wireless Regulatory database for Linux
@@ -780,7 +780,7 @@ pentoo/pentoo-misc 2024.2: Pentoo misc meta ebuild
 pentoo/pentoo-mitm 2022.2: Pentoo mitm meta ebuild
 pentoo/pentoo-mobile 2024.3-r1: Pentoo mobile meta ebuild
 pentoo/pentoo-nfc 2022.2: Collection of NFC tools
-pentoo/pentoo-opencl 0-r4: Virtual for pulling in appropriate opencl stuffs
+pentoo/pentoo-opencl 0-r5: Virtual for pulling in appropriate opencl stuffs
 pentoo/pentoo-proxies 2025.0: Pentoo proxy meta ebuild
 pentoo/pentoo-radio 2024.1-r2: Radio tools for pentoo
 pentoo/pentoo-rce 2025.0: Pentoo RCE meta ebuild

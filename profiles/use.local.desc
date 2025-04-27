@@ -165,6 +165,7 @@ net-wireless/dump1090_sdrplus:hackrf - Support the GSG hackrf
 net-wireless/dump1090_sdrplus:rtlsdr - Support the rtlsdr
 net-wireless/dump1090_sdrplus:sdrplay - Support the sdrplay
 net-wireless/fern-wifi-cracker:dict - Add support sys-apps/cracklib-words (large set of crack/cracklib dictionaries)
+net-wireless/fosphor_knob:rsa - Install scrolly.png for RSA2025
 net-wireless/hcxdumptool:gpio - Turns Raspberry Pi off via GPIO switch
 net-wireless/hostapd:internal-tls - Use internal TLSv1 implementation instead of depending on OpenSSL, LibreSSL or GnuTLS
 net-wireless/hostapd:netlink - Adding support for using netlink to create VLANs
