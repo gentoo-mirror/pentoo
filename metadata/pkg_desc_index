@@ -276,7 +276,7 @@ dev-python/exifread 2.3.1 2.3.2: Read Exif metadata from tiff and jpeg files
 dev-python/face 20.1.1: Straightforward CLI parsing and dispatching microframework
 dev-python/fake-useragent 0.1.11: Up to date simple useragent faker with real world database
 dev-python/faraday-plugins 1.0.1-r1: No project description provided
-dev-python/fastapi 0.109.2: High performance framework, easy to learn, fast to code, ready for production
+dev-python/fastapi 0.109.2 0.115.12: High performance framework, easy to learn, fast to code, ready for production
 dev-python/fastkml 0.11: Fast KML processing in python
 dev-python/filedepot 0.7.1: Toolkit for storing files and attachments in web applications
 dev-python/filteralchemy-fork 0.1.0: Declarative query builder for SQLAlchemy
@@ -389,7 +389,7 @@ dev-python/pygnuutils 0.1.1: A python implementation for GNU utils
 dev-python/pygtail 0.11.0: Reads log file lines that have not been read
 dev-python/pyhunter 1.7 9999: An (unofficial) Python wrapper for the Hunter.io API
 dev-python/pyimg4 0.8.6: A Python library/CLI tool for parsing Apple's Image4 format
-dev-python/pyinstaller 6.2.0-r1: Program converting Python programs into stand-alone executables
+dev-python/pyinstaller 6.2.0-r1 6.13.0: Program converting Python programs into stand-alone executables
 dev-python/pyinstaller-hooks-contrib 2023.10: Community maintained hooks for PyInstaller
 dev-python/pyjsparser 2.7.1: Fast javascript parser (based on esprima.js)
 dev-python/pykcs11 1.5.10: A complete PKCS#11 wrapper for Python
@@ -416,7 +416,7 @@ dev-python/python-oauth2 1.1.1-r1: OAuth 2.0 provider for python
 dev-python/python-obfuscator 0.0.2: made good code to make bad code
 dev-python/python-pcapng 2.1.1: Python library to parse the pcap-ng format
 dev-python/python-pptx 0.6.18: Create Open XML PowerPoint documents in Python
-dev-python/python-socketio 5.11.2: Python implementation of the Socket.IO realtime server.
+dev-python/python-socketio 5.11.2 5.13.0: Python implementation of the Socket.IO realtime server.
 dev-python/python-whois 0.9.4: Whois querying and parsing of domain registration information
 dev-python/python3-openid 3.1.0: Python 3 port of the python-openid library
 dev-python/python3-saml 1.16.0: OneLogin's SAML Python Toolkit
