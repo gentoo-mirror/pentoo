@@ -103,7 +103,7 @@ app-forensics/samhain 4.3.3 4.4.0: Advanced file integrity and intrusion detecti
 app-forensics/stegoveritas 1.8: Automatic image steganography analysis tool
 app-forensics/tcpxtract 1.0.1: Extracts files from network packet captures
 app-forensics/zsteg 0.2.13: Detect stegano-hidden data in PNG & BMP
-app-fuzz/0d1n 2.6 9999: Web security tool to make fuzzing at HTTP/S
+app-fuzz/0d1n 3.8 9999: Web security tool to make fuzzing at HTTP/S
 app-fuzz/bed 0.5: BED is a multi-protocol fuzzer written in perl
 app-fuzz/fuzzdb 1.09_p20200226: Attack and Discovery Pattern Database for Application Fuzz Testing
 app-fuzz/http-fuzz 0.1: A http fuzzer
