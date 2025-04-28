@@ -3,7 +3,7 @@ DESCRIPTION=Pentoo kernel sources (kernel series 6.12)
 EAPI=8
 HOMEPAGE=https://github.com/pentoo/pentoo-overlay/tree/master/sys-kernel/pentoo-sources
 INHERIT=kernel-2
-IUSE=experimental +lts symlink build
+IUSE=experimental +lts footgun symlink build
 KEYWORDS=amd64 arm arm64 x86
 LICENSE=GPL-2
 RDEPEND=!build? ( app-alternatives/cpio dev-lang/perl app-alternatives/bc dev-build/make sys-devel/bison sys-devel/flex >=sys-libs/ncurses-5.2 virtual/libelf virtual/pkgconfig )
@@ -11,4 +11,4 @@ RESTRICT=binchecks strip
 SLOT=6.12.9
 SRC_URI=https://www.kernel.org/pub/linux/kernel/v6.x/linux-6.12.tar.xz https://dev.gentoo.org/~alicef/dist/genpatches/genpatches-6.12-12.base.tar.xz https://dev.gentoo.org/~mpagano/dist/genpatches/genpatches-6.12-12.base.tar.xz https://dev.gentoo.org/~alicef/dist/genpatches/genpatches-6.12-12.extras.tar.xz https://dev.gentoo.org/~mpagano/dist/genpatches/genpatches-6.12-12.extras.tar.xz experimental? ( https://dev.gentoo.org/~alicef/dist/genpatches/genpatches-6.12-12.experimental.tar.xz https://dev.gentoo.org/~mpagano/dist/genpatches/genpatches-6.12-12.experimental.tar.xz )
 _eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	crossdev	f04338ff78f213a4a55c5c37b3c6563e	estack	c61c368a76fdf3a82fdf8dbaebea3804	multiprocessing	1e32df7deee68372153dca65f4a7c21f	optfeature	538bce96e5589935b57e178e8635f301	kernel-2	0e01377cce73a7a06321d0ef97388d31
-_md5_=d302384fc8f4a4737f115b31e2e8defc
+_md5_=dc847ed0c5a0516a21c59782fc98d118
