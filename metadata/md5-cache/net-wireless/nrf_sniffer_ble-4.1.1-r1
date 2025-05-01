@@ -12,5 +12,5 @@ RDEPEND=net-analyzer/wireshark python_targets_python3_11? ( dev-lang/python:3.11
 REQUIRED_USE=|| ( python_targets_python3_11 python_targets_python3_12 python_targets_python3_13 )
 SLOT=0
 SRC_URI=https://nsscprodmedia.blob.core.windows.net/prod/software-and-other-downloads/desktop-software/nrf-sniffer/sw/nrf_sniffer_for_bluetooth_le_4.1.1.zip -> nrf_sniffer_ble-4.1.1.zip
-_eclasses_=out-of-source-utils	dbf9e34ee8964084651e25907fa8f52c	multibuild	4650a65187015567b4e041bb9bfdb364	multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	python-utils-r1	974462533ec80cd68e5f366ad8a86002	python-r1	0e15b2ab9cfc87d7474678201d6bca38
+_eclasses_=out-of-source-utils	dbf9e34ee8964084651e25907fa8f52c	multibuild	4650a65187015567b4e041bb9bfdb364	multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	python-utils-r1	b6ad054ea5bb201ed2fec9cac7a8d12b	python-r1	0e15b2ab9cfc87d7474678201d6bca38
 _md5_=3215e56a6105c561c9c5581eac2aeb37
