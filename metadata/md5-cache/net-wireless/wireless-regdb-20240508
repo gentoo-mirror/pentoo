@@ -10,5 +10,5 @@ LICENSE=ISC
 REQUIRED_USE=kernel_linux
 SLOT=0
 SRC_URI=https://mirrors.edge.kernel.org/pub/software/network/wireless-regdb/wireless-regdb-2024.05.08.tar.xz
-_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	linux-info	ea4122ba1d8791a12b78e53f9510a2e3	multiprocessing	1e32df7deee68372153dca65f4a7c21f	python-utils-r1	b6ad054ea5bb201ed2fec9cac7a8d12b
+_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	linux-info	ea4122ba1d8791a12b78e53f9510a2e3	multiprocessing	1e32df7deee68372153dca65f4a7c21f	python-utils-r1	de71d9571aa267f353b9e8ab4666732e
 _md5_=1c5d27f55ef6f8df47fcb0a2e3d0a83f
