@@ -10,5 +10,5 @@ PDEPEND=crda? ( net-wireless/crda )
 REQUIRED_USE=kernel_linux
 SLOT=0
 SRC_URI=https://mirrors.edge.kernel.org/pub/software/network/wireless-regdb/wireless-regdb-2023.05.03.tar.xz
-_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	linux-info	ea4122ba1d8791a12b78e53f9510a2e3	multiprocessing	1e32df7deee68372153dca65f4a7c21f	python-utils-r1	de71d9571aa267f353b9e8ab4666732e
+_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	linux-info	ea4122ba1d8791a12b78e53f9510a2e3	multiprocessing	1e32df7deee68372153dca65f4a7c21f	python-utils-r1	e6fe2c451b7e577e827165580e5bdd64
 _md5_=23bee7c268b2ecb64fff360599e026ee

@@ -10,5 +10,5 @@ LICENSE=LGPL-3 GPL-3 MIT
 RDEPEND=python_targets_python3_11? ( dev-lang/python:3.11[sqlite] ) python_targets_python3_12? ( dev-lang/python:3.12[sqlite] ) python_targets_python3_13? ( dev-lang/python:3.13[sqlite] ) dev-python/pyasn1[python_targets_python3_11(-)?,python_targets_python3_12(-)?,python_targets_python3_13(-)?] dev-python/psutil[python_targets_python3_11(-)?,python_targets_python3_12(-)?,python_targets_python3_13(-)?]
 SLOT=0
 SRC_URI=https://github.com/AlessandroZ/LaZagne/archive/2.4.3.tar.gz -> lazagne-2.4.3.tar.gz
-_eclasses_=out-of-source-utils	dbf9e34ee8964084651e25907fa8f52c	multibuild	4650a65187015567b4e041bb9bfdb364	multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	python-utils-r1	de71d9571aa267f353b9e8ab4666732e	python-r1	0e15b2ab9cfc87d7474678201d6bca38
+_eclasses_=out-of-source-utils	dbf9e34ee8964084651e25907fa8f52c	multibuild	4650a65187015567b4e041bb9bfdb364	multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	python-utils-r1	e6fe2c451b7e577e827165580e5bdd64	python-r1	0e15b2ab9cfc87d7474678201d6bca38
 _md5_=d2f7b7c7573e19a8d64bd80cef9136e1
