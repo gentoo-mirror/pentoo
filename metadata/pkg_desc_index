@@ -431,7 +431,7 @@ dev-python/qt-py 1.4.1-r1: Minimal Python 2 & 3 shim around all Qt bindings
 dev-python/quark-engine 22.9.1 23.3.1 23.7.1: An Obfuscation-Neglect Android Malware Scoring System
 dev-python/queuelib 1.5.0: Collection of persistent (disk-based) queues
 dev-python/rangeparser 0.1.3-r1: A python package to parse ranges easily
-dev-python/rcssmin 1.0.6: RCSSmin is a CSS minifier
+dev-python/rcssmin 1.2.1: RCSSmin is a CSS minifier
 dev-python/readchar 4.0.5: Library to easily read single chars and key strokes
 dev-python/remotezip 0.12.1: Access zip file content hosted remotely without downloading the full file.
 dev-python/remotezip2 0.0.2: Access zip file content hosted remotely without downloading the full file.
