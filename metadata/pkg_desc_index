@@ -159,12 +159,12 @@ dev-libs/libcsystem 20150629: Library for cross-platform C locale functions
 dev-libs/libcthreads 20240413: Library for cross-platform C threads functions
 dev-libs/libdwarf 0.4.1: The DWARF Debugging Information Format
 dev-libs/libfcache 20240112: Library for cross-platform C cache functions
-dev-libs/libfcrypto 20191231 20200104: Library for encryption formats
+dev-libs/libfcrypto 20240414: Library for encryption formats
 dev-libs/libfdata 20240114: Library for cross-platform C file data functions
 dev-libs/libfdatetime 20240415: Library for date and time formats
 dev-libs/libfguid 20240415: Library for GUID/UUID format
 dev-libs/libfmapi 20180714 20220114: Library for MAPI data types
-dev-libs/libfmos 20220811: Library for Mac OS data types
+dev-libs/libfmos 20240415: Library for Mac OS data types
 dev-libs/libfole 20240119 20240416: Library for Object Linking and Embedding (OLE) data types
 dev-libs/libfplist 20210404 20220116: Library for plist format
 dev-libs/libftxf 20180815 20220116: Library for Transactional NTFS (TxF) data types
