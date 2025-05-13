@@ -176,6 +176,14 @@ net-wireless/hostapd:wps - Add support for Wi-Fi Protected Setup
 net-wireless/hostapd-mana:crackapd - Install crackap daemon
 net-wireless/hostapd-mana:internal-tls - Use internal tls implementation instead of openssl
 net-wireless/hostapd-mana:netlink - Use netlink to talk to wireless devices
+net-wireless/kismet:libusb - Support libusb based capture sources such as mousejack, cc2540(ble), and nrf51822(ble)
+net-wireless/kismet:mqtt - Enable MQTT support
+net-wireless/kismet:pcre - Build with pcre support
+net-wireless/kismet:protobuf - Support old protobuf message passing in case of remote capture sources which are not up to date.
+net-wireless/kismet:rtlsdr - Enable rtlsdr based kismet capture sources
+net-wireless/kismet:suid - Install a setuid root helper binary with limited functionality; this allows running kismet as a normal user, significantly reducing security risks
+net-wireless/kismet:ubertooth - Enable capture source for ubertooth to sniff bluetooth low energy
+net-wireless/kismet:wext - Enable building kismet with support for the deprecated Linux Wireless Extensions. This is required for some out of tree and staging drivers, and kismet has not been well tested with it disabled, so it defaults to on.
 net-wireless/mmdvmhost:dmr-access-control - MMDVMhost only allows amateur ids by default, disable use flag to allow all
 net-wireless/portapack-mayhem:sdcard-files - Install files meant for the sdcard of the portapack
 net-wireless/proxmark3:bluez - Use bluez to support connection to blueshark accessory
