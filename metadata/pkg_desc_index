@@ -721,7 +721,7 @@ net-wireless/jackit 0.0_p20170918-r1: Exploit Code for Mousejack
 net-wireless/kalibrate-hackrf 20160704 20220321: Calculate the local oscillator frequency offset using GSM stations
 net-wireless/karmetasploit 0.1-r3: KARMA + Metasploit 3 == Karmetasploit
 net-wireless/killerbee 3.0.0_beta1: Framework and Tools for Attacking ZigBee and IEEE 802.15.4 networks
-net-wireless/kismet 2023.07.1-r3: IEEE 802.11 wireless LAN sniffer
+net-wireless/kismet 2023.07.1-r3 9999 20250512: IEEE 802.11 wireless LAN sniffer
 net-wireless/kismet-rest 2019.05.02 9999: Kismet REST Python API
 net-wireless/kismet_shootout 0.0_p20190717 9999: Kismet WiFi data source shootout
 net-wireless/kismetdb 2019.05.05 9999: Kismetdb database log helper library
