@@ -199,7 +199,7 @@ dev-python/PTP 0.4.2-r1: Pentester's Tools Parser
 dev-python/Protego 0.2.1: robots.txt parser with support for modern conventions
 dev-python/Scrapy 2.6.3 2.11.1: A high-level Web Crawling and Web Scraping framework
 dev-python/aardwolf 0.2.11: Asynchronous RDP protocol implementation
-dev-python/acora 2.2: Fast multi-keyword search engine for text strings
+dev-python/acora 2.5: Fast multi-keyword search engine for text strings
 dev-python/adblockparser 0.7: Parser for Adblock Plus rules
 dev-python/aesedb 0.1.4 0.1.6: async parser for JET
 dev-python/aggdraw 1.3.11: High quality drawing interface for PIL
@@ -297,7 +297,7 @@ dev-python/frida-python 16.0.19 16.1.8: Dynamic instrumentation toolkit for reve
 dev-python/future 0.18.3: Easy, clean, reliable Python 2/3 compatibility
 dev-python/gatt-python 0.2.6-r1: Bluetooth GATT SDK for Python
 dev-python/geoip2-python 3.0.0: Python bindings for GeoIP2
-dev-python/glom 22.1.0: A declarative object transformer for conglomerating nested data
+dev-python/glom 24.11.0: A declarative object transformer for conglomerating nested data
 dev-python/google-play-scraper 0.0.2.3 0.1.2 0.2.1: APIs to easily crawl the Google Play Store for Python
 dev-python/googlesearch 3.0.0-r1: Google search from Python
 dev-python/gpapi 0.4.4-r1: Unofficial python api for google play
@@ -393,7 +393,7 @@ dev-python/pyimg4 0.8.6: A Python library/CLI tool for parsing Apple's Image4 fo
 dev-python/pyinstaller 6.2.0-r1 6.13.0: Program converting Python programs into stand-alone executables
 dev-python/pyinstaller-hooks-contrib 2023.10: Community maintained hooks for PyInstaller
 dev-python/pyjsparser 2.7.1: Fast javascript parser (based on esprima.js)
-dev-python/pykcs11 1.5.10: A complete PKCS#11 wrapper for Python
+dev-python/pykcs11 1.5.17: A complete PKCS#11 wrapper for Python
 dev-python/pykdebugparser 1.2.4: Python parser for kdebug events
 dev-python/pylnk3 0.4.2: Python library for reading and writing Windows shortcut files
 dev-python/pylzma 0.5.0: Platform independent python bindings for the LZMA compression library.
