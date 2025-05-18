@@ -811,7 +811,7 @@ sys-kernel/wireless-testing 9999: Wireless integration testing tree
 virtual/libyal-tools 0: Virtual for all command line forensics tools provided by libyal
 virtual/linux-sources 3-r108: Virtual for Linux kernel sources
 virtual/secret-service 0-r1: Virtual for a freedesktop.org Secret Service API provider
-www-apps/BloodHound 4.3.0 4.3.1: Six Degrees of Domain Admin
+www-apps/BloodHound 4.3.1: Six Degrees of Domain Admin
 www-apps/Tiredful-API 9999: An intentionally designed broken web application based on REST API
 www-apps/beef 0.5.4.0: Browser exploitation framework
 www-plugins/hackplugins-meta 20231006: Collection of browser's plugins for application security testing
