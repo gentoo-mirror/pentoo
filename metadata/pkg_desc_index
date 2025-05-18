@@ -95,8 +95,8 @@ app-forensics/oletools 0.60.1: A python tools to analyze MS OLE2 files and MS Of
 app-forensics/openscap 1.4.2: Framework which enables integration with Security Content Automation Protocol
 app-forensics/origami-pdf 2.1.0: A Ruby framework designed to parse, analyze, and forge PDF documents
 app-forensics/pcileech 4.18 4.19: Direct Memory Access (DMA) Attack Software
-app-forensics/pdf-parser 0.7.6 0.7.8: This tool will parse a PDF document to identify the fundamental elements used
-app-forensics/pdfid 0.2.7 0.2.8: This tool will scan a PDF document looking for certain keyword
+app-forensics/pdf-parser 0.7.8: This tool will parse a PDF document to identify the fundamental elements used
+app-forensics/pdfid 0.2.8: This tool will scan a PDF document looking for certain keyword
 app-forensics/pytsk 20210801 20211111: Python bindings for The Sleuth Kit (libtsk)
 app-forensics/reglookup 1.0.1-r1 9999: An utility for reading and querying Windows NT/2K/XP registries
 app-forensics/s3tk 0.3.0 9999: A security toolkit for Amazon S3
