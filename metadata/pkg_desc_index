@@ -266,7 +266,7 @@ dev-python/dnslib 0.9.19 0.9.22: Simple library to encode/decode DNS wire-format
 dev-python/docopt-ng 0.9.0: Jazzband-maintained fork of docopt
 dev-python/donut-shellcode 1.1: Donut Python C extension
 dev-python/dotty 1.5: EFILTER query language
-dev-python/dploot 2.7.3 2.7.4: DPAPI looting remotely in Python
+dev-python/dploot 2.7.4 3.1.2: DPAPI looting remotely in Python
 dev-python/dropbox-sdk 10.1.1 11.36.1: A Python SDK for integrating with the Dropbox API v2.
 dev-python/dsinternals 1.2.4: Directory Services Internals Library
 dev-python/dtfabric 20240211: YAML-based definition language to specify format and data types
@@ -353,7 +353,7 @@ dev-python/msoffcrypto-tool 5.0.0 5.3.1: Decrypting MS Office files with passwor
 dev-python/mutf8 1.0.6: Fast MUTF-8 encoder & decoder
 dev-python/nanobind 1.7.0_p20231019: tiny and efficient C++/Python bindings
 dev-python/nassl 5.0.1 5.1.0 5.2.0 5.3.0: Experimental OpenSSL wrapper for Python 3.7+ and SSLyze
-dev-python/neo4j 4.2.1 5.22.0: Neo4j Bolt driver for Python
+dev-python/neo4j 4.2.1 5.22.0 5.28.1: Neo4j Bolt driver for Python
 dev-python/neobolt 1.7.17: Neo4j Bolt Connector for Python
 dev-python/neotime 1.7.4: Nanosecond resolution temporal types
 dev-python/nessrest 20180806: A high-level Web Crawling and Web Scraping framework
@@ -370,7 +370,7 @@ dev-python/parsel 1.5.1: Extract data from HTML and XML using XPath and CSS sele
 dev-python/pcodedmp 1.2.6: A VBA p-code disassembler
 dev-python/playsound 1.2.2: Single function module with no dependencies for playing sounds
 dev-python/playwright-bin 1.42.0: Automate Chromium, Firefox and WebKit browsers with a single API
-dev-python/poetry-dynamic-versioning 1.4.0: Plugin for Poetry to enable dynamic versioning based on VCS tags
+dev-python/poetry-dynamic-versioning 1.4.0 1.8.2: Plugin for Poetry to enable dynamic versioning based on VCS tags
 dev-python/promise 2.3.0: Promises/A+ implementation for Python
 dev-python/proxy-db 0.2.5-r1: Manage free and private proxies on local db for Python Projects
 dev-python/publicsuffixlist 0.7.8: publicsuffixlist implement
@@ -401,6 +401,7 @@ dev-python/pylzss 0.3.1: LZSS compression algorithm
 dev-python/pymisp 2.4.124-r1 2.4.152: A python library for using the MISP Rest API
 dev-python/pymodbus 3.6.9: A fully featured modbus protocol stack in python
 dev-python/pymodbus-repl 2.0.3: REPL (Read-Eval-Print Loop) tool for working with Modbus devices using the Pymodbus library.
+dev-python/pynfsclient 0.1.5_p20250302: A library to simulate NFS client
 dev-python/pypax 0.9.5-r2: Python module to get or set either PT_PAX and/or XATTR_PAX flags
 dev-python/pypcapfile 0.12.0: Pure Python package for reading and parsing libpcap savefiles
 dev-python/pyppeteer 1.0.2-r1: Headless chrome/chromium automation library
@@ -473,7 +474,7 @@ dev-python/vulners 1.5.5: Python API wrapper for the Vulners Database
 dev-python/w3lib 1.22.0: Library of web-related functions
 dev-python/webargs 5.5.2: Declarative parsing and validation of HTTP request objects
 dev-python/whitenoise 5.2.0 6.9.0: Radically simplified static file serving for WSGI applications
-dev-python/winacl 0.1.7 0.1.8: ACL/ACE/Security Descriptor manipulation library
+dev-python/winacl 0.1.8 0.1.9: ACL/ACE/Security Descriptor manipulation library
 dev-python/winsspi 0.0.9: Windows SSPI library in pure Python
 dev-python/xonsh 0.14.2: Python-powered, cross-platform, Unix-gazing shell
 dev-python/xtract 0.1_alpha3: Library to (un)pack archives and (de)compress files
@@ -587,7 +588,7 @@ media-radio/icad-tone-detection 1.4: library for extracting scanner radio tones 
 media-radio/rdio-scanner-bin 6.6.3: Software police-like scanner with its own touch
 media-sound/deinvert 9999: A voice inversion descrambler
 net-analyzer/GyoiThon 9999: GyoiThon is a growing penetration test tool using Machine Learning
-net-analyzer/NetExec 1.3.0-r1 1.4.0: A swiss army knife for pentesting Windows/Active Directory environments
+net-analyzer/NetExec 1.3.0-r1 1.4.0-r1: A swiss army knife for pentesting Windows/Active Directory environments
 net-analyzer/amass 4.2.0: Subdomain OSINT Enumeration
 net-analyzer/bettercap 2.33.0-r1: A complete, modular, portable and easily extensible MITM framework
 net-analyzer/bonesi 0.3.1 9999: BoNeSi - the DDoS botnet simulator
