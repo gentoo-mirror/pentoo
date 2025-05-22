@@ -9,4 +9,4 @@ LICENSE=GPL-2+ LGPL-2.1+
 RESTRICT=!test? ( test )
 SLOT=0/4
 SRC_URI=https://github.com/libimobiledevice/libplist/releases/download/2.7.0/libplist-2.7.0.tar.bz2
-_md5_=697e31f38521109d8fa6a2dda4e4c8c8
+_md5_=dae46a5aa0181d0dfef3f3ee5780205b
