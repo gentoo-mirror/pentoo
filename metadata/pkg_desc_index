@@ -629,7 +629,7 @@ net-analyzer/pwncat 0.1.2-r1: Netcat with IDS/IPS evasion, bind reverse shell an
 net-analyzer/rdp-sec-check 20181109: Remote Desktop Protocol security settings checker
 net-analyzer/responder 3.1.5.0: LLMNR, NBT-NS and MDNS poisoner, HTTP/SMB/MSSQL/FTP/LDAP rogue authentication
 net-analyzer/ruler 2.4.1: A tool to abuse Exchange services
-net-analyzer/s3scanner 3.0.1: Scan for open AWS S3 buckets and dump the contents
+net-analyzer/s3scanner 3.0.1 3.1.1: Scan for open AWS S3 buckets and dump the contents
 net-analyzer/scamper 20191102b: Actively probes the Internet in order to analyze topology and performance
 net-analyzer/serialusb 0.7: A cheap USB proxy for input devices
 net-analyzer/set 8.0.3-r1: A social engineering framework
