@@ -157,7 +157,7 @@ dev-libs/libcsplit 20240414: Library for cross-platform C split string functions
 dev-libs/libcstring 20150101: Library for cross-platform C string functions
 dev-libs/libcsystem 20150629: Library for cross-platform C locale functions
 dev-libs/libcthreads 20240413: Library for cross-platform C threads functions
-dev-libs/libdwarf 0.4.1: The DWARF Debugging Information Format
+dev-libs/libdwarf 0.4.1 2.0.0: The DWARF Debugging Information Format
 dev-libs/libfcache 20240112: Library for cross-platform C cache functions
 dev-libs/libfcrypto 20240414: Library for encryption formats
 dev-libs/libfdata 20240114: Library for cross-platform C file data functions

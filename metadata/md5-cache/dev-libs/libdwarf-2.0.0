@@ -1,9 +1,9 @@
-DEFINED_PHASES=configure install
+DEFINED_PHASES=configure
 DESCRIPTION=The DWARF Debugging Information Format
 EAPI=8
 HOMEPAGE=https://www.prevanders.net/dwarf.html
 KEYWORDS=amd64 arm64 x86
 LICENSE=LGPL-2.1
 SLOT=0
-SRC_URI=https://www.prevanders.net/libdwarf-0.4.1.tar.xz
-_md5_=d0cba8c4aada3f4129b7e1bea9b5627a
+SRC_URI=https://www.prevanders.net/libdwarf-2.0.0.tar.xz
+_md5_=7da895292aeac4a761306f249c3d1c29
