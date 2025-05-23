@@ -699,7 +699,7 @@ net-wireless/crda 4.14: Central Regulatory Domain Agent for wireless networks
 net-wireless/csdr 9999: a simple DSP library and cli for SDR
 net-wireless/dsd 1.7.0_pre20211213 9999: Digital Speech Decoder
 net-wireless/dsd-fme 9999: Digital Speech Decoder
-net-wireless/dsdcc 1.9.3 9999: Digital Speech Decoder rewritten as a C++ library
+net-wireless/dsdcc 1.9.3 1.9.5 9999: Digital Speech Decoder rewritten as a C++ library
 net-wireless/dump1090_sdrplus 20200921: Mode S decoder for (SDR) devices including RTL SDR, HackRF, Airspy and SDRplay
 net-wireless/eaphammer 1.14.0: Targeted evil twin attacks against WPA2-Enterprise networks
 net-wireless/editcp-bin 1.0.31: Codeplug editor for the MD-380/MD-390/MD40/MD-UV380/MD-UV390 DMR radios
@@ -802,7 +802,7 @@ sci-electronics/migen 0.7-r1: A Python toolbox for building complex digital hard
 sys-apps/fchroot 1.0.0: Funtoo's franken-chroot tool
 sys-apps/magic-pax 0.0.1: Attempt at applying pax marks effectively
 sys-devel/gcc-arm-none-eabi 12.2_p1-r1 13.2_p1-r1 14.2_p1: GNU Arm Embedded Toolchain
-sys-devel/gdb-dashboard 0.11.4-r1 9999: Modular visual interface for GDB in Python
+sys-devel/gdb-dashboard 0.11.4-r1 0.17.4 9999: Modular visual interface for GDB in Python
 sys-fs/ext4-crypt 20170216 99999999: A userspace tool to create ext4 encrypted directories
 sys-kernel/nvidia-bl 0.17.3: Driver to adjust display backlight on legacy mobile NVidia graphics adapters
 sys-kernel/pentoo-lts-sources 2: Pentoo kernel sources (kernel series .)
