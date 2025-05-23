@@ -466,7 +466,7 @@ dev-python/stone 3.3.1 3.3.8: The Official Api Spec Language for Dropbox
 dev-python/svgutils 0.3.4: utility package that helps to edit and concatenate SVG files
 dev-python/syslog-rfc5424-formatter 1.2.2: Logging formatter which produces well-formatted RFC5424 Syslog Protocol messages
 dev-python/tk 0.1.0: TensorKit is a deep learning helper between Python and C++
-dev-python/tls_parser 2.0.1: Small library to parse TLS records.
+dev-python/tls_parser 2.0.1 2.0.2: Small library to parse TLS records.
 dev-python/unicrypto 0.0.9 0.0.10: Unified interface for cryptographic libraries
 dev-python/vaderSentiment 3.3.2: VADER Sentiment Analysis
 dev-python/validators 0.14.0: Python Data Validation for Humans
