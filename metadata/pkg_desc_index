@@ -206,7 +206,7 @@ dev-python/aggdraw 1.3.11: High quality drawing interface for PIL
 dev-python/aiocmd 0.1.5: Coroutine-based CLI generator using prompt_toolkit
 dev-python/aioconsole 0.7.0: Asynchronous console and interfaces for asyncio
 dev-python/aiomultiprocess 0.8.0 0.9.0: asyncio version of the standard multiprocessing module
-dev-python/aiosmb 0.4.8 0.4.10: Asynchronous SMB protocol implementation
+dev-python/aiosmb 0.4.11: Asynchronous SMB protocol implementation
 dev-python/aiowinreg 0.0.9 0.0.10: Windows registry file reader
 dev-python/altgraph 0.17 0.17.3: A constructing graphs, BFS and DFS traversals, etc
 dev-python/ansicolors 1.1.8: Add ANSI colors and decorations to your strings
@@ -224,7 +224,7 @@ dev-python/asn1 2.7.0: a simple ASN.1 encoder and decoder
 dev-python/asn1tools 0.163.0: ASN.1 parsing, encoding and decoding
 dev-python/aspectlib 1.5.2-r1: Aspect-oriented programming, monkey-patch and decorators library
 dev-python/asyauth 0.0.18 0.0.20: asyauth by skilsec
-dev-python/asysocks 0.2.9 0.2.11: Socks5 / Socks4 client and server library
+dev-python/asysocks 0.2.13: Socks5 / Socks4 client and server library
 dev-python/banal 1.0.1: Commons of banal micro-functions for Python.
 dev-python/base58 2.1.1: Base58 and Base58Check implementation compatible with the bitcoin network
 dev-python/beautifultable 0.8.0: Print ASCII tables for terminals
@@ -267,7 +267,7 @@ dev-python/docopt-ng 0.9.0: Jazzband-maintained fork of docopt
 dev-python/donut-shellcode 1.1: Donut Python C extension
 dev-python/dotty 1.5: EFILTER query language
 dev-python/dploot 2.7.4 3.1.2-r1: DPAPI looting remotely in Python
-dev-python/dropbox-sdk 10.1.1 11.36.1: A Python SDK for integrating with the Dropbox API v2.
+dev-python/dropbox-sdk 12.0.2: A Python SDK for integrating with the Dropbox API v2.
 dev-python/dsinternals 1.2.4: Directory Services Internals Library
 dev-python/dtfabric 20240211: YAML-based definition language to specify format and data types
 dev-python/dunamai 1.19.0 1.22.0: Dynamic versioning library and CLI
@@ -345,10 +345,10 @@ dev-python/matlink-gpapi 0.4.4.5: Unofficial python api for google play
 dev-python/maxminddb 1.5.2: A Python module for reading MaxMind DB files
 dev-python/mechanize 0.4.5: Stateful programmatic web browsing in Python
 dev-python/minidump 0.0.24: parse Windows minidump file format
-dev-python/minikerberos 0.4.2 0.4.4: Kerberos manipulation library in pure Python
+dev-python/minikerberos 0.4.4: Kerberos manipulation library in pure Python
 dev-python/mitm6 0.2.2: pwning IPv4 via IPv6
 dev-python/mockito 1.2.0: Spying framework based on Mockito java library
-dev-python/msldap 0.5.10 0.5.14: Python library to play with MS LDAP
+dev-python/msldap 0.5.14: Python library to play with MS LDAP
 dev-python/msoffcrypto-tool 5.0.0 5.3.1: Decrypting MS Office files with passwords or other keys
 dev-python/mutf8 1.0.6: Fast MUTF-8 encoder & decoder
 dev-python/nanobind 1.7.0_p20231019: tiny and efficient C++/Python bindings
