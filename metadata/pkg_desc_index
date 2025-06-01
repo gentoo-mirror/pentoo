@@ -195,7 +195,7 @@ dev-perl/Tie-CharArray 1.00: Manipulate perl strings through tied array
 dev-php/evalhook 0.1_p20231013: Decode/Deobfuscate PHP Scripts
 dev-python/IP2Location 8.10.2 8.10.5: Python API for IP2Location database
 dev-python/Js2Py 0.67_p20200212: JavaScript to Python Translator & JavaScript interpreter
-dev-python/PTP 0.4.2-r1: Pentester's Tools Parser
+dev-python/PTP 0.4.3: Pentester's Tools Parser
 dev-python/Protego 0.2.1: robots.txt parser with support for modern conventions
 dev-python/Scrapy 2.6.3 2.11.1: A high-level Web Crawling and Web Scraping framework
 dev-python/aardwolf 0.2.11: Asynchronous RDP protocol implementation
@@ -239,7 +239,7 @@ dev-python/cached-property 1.5.2: A cached-property for decorating methods in cl
 dev-python/captcha 0.4 0.5.0: Library that generates audio and image CAPTCHAs
 dev-python/cc2538-bsl 9999: upload firmware via the serial boot loader onto the CC13xx, CC2538 and CC26xx
 dev-python/cement 2.10: Application Framework for Python
-dev-python/censys 2.1.8: Python library for interacting with Censys Search Engine (censys.io)
+dev-python/censys 2.2.17: Python library for interacting with Censys Search Engine (censys.io)
 dev-python/cfscrape 2.1.1: A module to bypass Cloudflare's anti-bot page
 dev-python/cherrypy-cors 1.6: CORS handling as a cherrypy tool.
 dev-python/click-option-group 0.5.3: Option groups missing in Click
@@ -310,11 +310,11 @@ dev-python/grpcio-testing 1.71.0: Testing utilities for gRPC Python
 dev-python/grpcio-tools 1.72.0: Protobuf code generator for gRPC
 dev-python/hexdump 3.3: Dump binary data to hex format and restore from there
 dev-python/hrt 0.1.0: HTTP Request Translator (hrt) translates raw HTTP requests to different scripts
-dev-python/htmlentities 0.3.0: Easy-to-use data handling for SQL data stores
+dev-python/htmlentities 0.3.0: HTML Entities for Python
 dev-python/http_tools 5.0.0: Capture, repeat and live intercept HTTP requests
 dev-python/httpagentparser 1.9.1: Extracts OS Browser etc information from http user agent string
 dev-python/hupper 1.9.1: Integrated process monitor for developing and reloading daemons
-dev-python/impacket 0.11.0 0.12.0 0.12.0_p20250516: A collection of Python classes focused on providing access to network packets
+dev-python/impacket 0.12.0 0.12.0_p20250516: A collection of Python classes focused on providing access to network packets
 dev-python/inotify 0.2.10-r2: an efficient and elegant inotify
 dev-python/inquirer3 0.4.0 0.6.1: Collection of common interactive command line user interfaces
 dev-python/invoke 2.2.0: Pythonic task execution
@@ -372,20 +372,19 @@ dev-python/playsound 1.2.2: Single function module with no dependencies for play
 dev-python/playwright-bin 1.42.0: Automate Chromium, Firefox and WebKit browsers with a single API
 dev-python/poetry-dynamic-versioning 1.4.0 1.8.2: Plugin for Poetry to enable dynamic versioning based on VCS tags
 dev-python/promise 2.3.0: Promises/A+ implementation for Python
-dev-python/proxy-db 0.2.5-r1: Manage free and private proxies on local db for Python Projects
+dev-python/proxy-db 0.3.1 9999: Manage free and private proxies on local db for Python Projects
 dev-python/publicsuffixlist 0.7.8: publicsuffixlist implement
 dev-python/py2neo 3.1.2 4.3.0-r1: A simple and pragmatic library which accesses the Neo4j graph database
 dev-python/pyFFTW 0.13.1_p20240117 9999: A pythonic python wrapper around FFTW
 dev-python/pyaff4 0.27: Python Advanced Forensic Format Version 4 library
 dev-python/pyasn 1.6.2: Python IP address to Autonomous System Number lookup module
-dev-python/pyaxmlparser 0.3.26: Parser for Android XML file and get Application Name without using Androguard
+dev-python/pyaxmlparser 0.3.31: Parser for Android XML file and get Application Name without using Androguard
 dev-python/pycrashreport 1.2.5: Pure python3 for parsing Apple's crash reports
 dev-python/pycups 2.0.1-r1: Python bindings for the CUPS API
 dev-python/pydispatcher 2.0.5: Multi-producer-multi-consumer signal dispatching mechanism
 dev-python/pydub 0.25.1: Manipulate audio with an simple and easy high level interface
 dev-python/pyee 8.1.0 8.2.2: A port of node.js's EventEmitter to python.
 dev-python/pygeoif 0.7: A basic implementation of the __geo_interface__
-dev-python/pygexf 0.2.2: A python library to generate gexf file format
 dev-python/pygnuutils 0.1.1: A python implementation for GNU utils
 dev-python/pygtail 0.11.0: Reads log file lines that have not been read
 dev-python/pyhunter 1.7 9999: An (unofficial) Python wrapper for the Hunter.io API
