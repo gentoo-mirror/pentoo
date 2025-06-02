@@ -306,9 +306,8 @@ dev-python/gpxpy 1.6.1 1.6.2: GPX file parser and GPS track manipulation library
 dev-python/graphene 3.0.0_beta7: GraphQL Framework for Python
 dev-python/graphql-core 3.1.5: GraphQL for Python
 dev-python/graphql-relay 3.1.0: Relay library for graphql-core-next
-dev-python/grpcio 1.68.1: HTTP/2-based RPC framework
-dev-python/grpcio-testing 1.71.0: Testing utilities for gRPC Python
-dev-python/grpcio-tools 1.68.1 1.72.0-r1: Protobuf code generator for gRPC
+dev-python/grpcio-testing 1.72.0: Testing utilities for gRPC Python
+dev-python/grpcio-tools 1.72.0-r1: Protobuf code generator for gRPC
 dev-python/hexdump 3.3: Dump binary data to hex format and restore from there
 dev-python/hrt 0.1.0: HTTP Request Translator (hrt) translates raw HTTP requests to different scripts
 dev-python/htmlentities 0.3.0: HTML Entities for Python
