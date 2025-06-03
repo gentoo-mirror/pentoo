@@ -121,9 +121,7 @@ app-misc/siglo 0.9.9: GTK app to sync InfiniTime watch with PinePhone
 app-misc/sstelfox-dotfiles 9999: Sam Stelfox's dotfiles
 app-pda/ideviceinstaller 1.1.1-r1: A tool to interact with the installation_proxy of an Apple's iDevice
 app-pda/ifuse 1.1.4-r1: Mount Apple iPhone/iPod Touch file systems for backup purposes
-app-pda/libplist 2.5.0 2.6.0-r1 2.7.0: Support library to deal with Apple Property Lists (Binary & XML)
 app-pda/pymobiledevice3 2.30.0 4.16.7 4.20.17: python3 implementation for working with iDevices
-app-pda/usbmuxd 1.1.1_p20231011: USB multiplex daemon for use with Apple iPhone/iPod Touch devices
 app-text/cewl 6.2 6.2.1 9999: A custom word list generator
 app-text/endesive 2.0.2: Sign and verify digital signatures in mail, PDF and XML documents
 dev-db/neo4j-community 4.2.2: High-performance, mature and robust NOSQL graph database
