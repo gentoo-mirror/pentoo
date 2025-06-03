@@ -558,7 +558,7 @@ dev-util/ghidra 11.2.1-r1 11.3.1-r1 11.3.2: A software reverse engineering frame
 dev-util/hbctool 0.1.5: Disassembling and assembling the Hermes Bytecode
 dev-util/hermes-dec 20240407: decompiling and disassembling the React Native Hermes bytecode
 dev-util/itstool 2.0.7 2.0.7-r1: Translation tool for XML documents that uses gettext files and ITS rules
-dev-util/jadx-bin 1.5.0 1.5.1: A standalone graphical Java Decompiler
+dev-util/jadx-bin 1.5.1 1.5.2: A standalone graphical Java Decompiler
 dev-util/jd-cli 1.2.1: Command line Java Decompiler
 dev-util/jd-cli-bin 1.2.1: Command line Java Decompiler
 dev-util/jd-gui 1.6.6-r5: A standalone Java Decompiler GUI
