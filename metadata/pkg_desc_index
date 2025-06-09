@@ -316,7 +316,7 @@ dev-python/impacket 0.12.0 0.12.0_p20250516: A collection of Python classes focu
 dev-python/inotify 0.2.10-r2: an efficient and elegant inotify
 dev-python/inquirer3 0.6.1: Collection of common interactive command line user interfaces
 dev-python/invoke 2.2.0: Pythonic task execution
-dev-python/ipparser 0.3.5: Parse IP address information
+dev-python/ipparser 1.0.2: Parse IP address information
 dev-python/ipsw-parser 1.4.1 1.4.3: Utility for parsing and extracting data from IPSW
 dev-python/ipwhois 1.0.0 1.2.0: Retrieve and parse whois data for IPv4 and IPv6 addresses
 dev-python/isc_dhcp_leases 0.9.1: Small python module for reading /var/lib/dhcp/dhcpd.leases from isc-dhcp-server
@@ -400,14 +400,14 @@ dev-python/pymodbus 3.6.9: A fully featured modbus protocol stack in python
 dev-python/pymodbus-repl 2.0.3: REPL (Read-Eval-Print Loop) tool for working with Modbus devices using the Pymodbus library.
 dev-python/pynfsclient 0.1.5_p20250302: A library to simulate NFS client
 dev-python/pypax 0.9.5-r2: Python module to get or set either PT_PAX and/or XATTR_PAX flags
-dev-python/pypcapfile 0.12.0: Pure Python package for reading and parsing libpcap savefiles
+dev-python/pypcapfile 0.12.1_p20240530: Pure Python package for reading and parsing libpcap savefiles
 dev-python/pyppeteer 1.0.2-r1: Headless chrome/chromium automation library
 dev-python/pypsrp 0.8.1: PowerShell Remoting Protocol and WinRM for Python
 dev-python/pysecretsocks 20221201 20231104: A python SOCKS server for tunneling connections over another channel.
 dev-python/pystache 0.5.4: Mustache in Python
 dev-python/pytest-benchmark 3.4.1-r1: py.test fixture for benchmarking code
 dev-python/python-cas-haiwen 20180411: Python CAS client library
-dev-python/python-crontab 20191023: Crontab module for accessing system crontabs
+dev-python/python-crontab 3.2.0: Crontab module for accessing system crontabs
 dev-python/python-docx 0.8.10: Create and modify Word documents with Python
 dev-python/python-iptools 0.7.0: A package is a collection of utilities for dealing with IP addresses
 dev-python/python-libnmap 0.7.3-r1: A python library enabling python developers to manipulate nmap process and data
@@ -416,7 +416,7 @@ dev-python/python-obfuscator 0.0.2: made good code to make bad code
 dev-python/python-pcapng 2.1.1: Python library to parse the pcap-ng format
 dev-python/python-pptx 0.6.18: Create Open XML PowerPoint documents in Python
 dev-python/python-socketio 5.11.2 5.13.0: Python implementation of the Socket.IO realtime server.
-dev-python/python-whois 0.9.4: Whois querying and parsing of domain registration information
+dev-python/python-whois 0.9.5: Whois querying and parsing of domain registration information
 dev-python/python3-openid 3.1.0: Python 3 port of the python-openid library
 dev-python/python3-saml 1.16.0: OneLogin's SAML Python Toolkit
 dev-python/pytimeparse 1.1.8: A small Python module to parse various kinds of time expressions
