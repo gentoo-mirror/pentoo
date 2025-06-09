@@ -9,5 +9,5 @@ LICENSE=GPL-3
 RDEPEND=net-libs/libpcap net-libs/libtirpc
 SLOT=0
 SRC_URI=https://downloads.sourceforge.net/voiphopper/voiphopper-2.04.tar.gz
-_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	linux-info	497f53bf03541c9ee8d103e895ba7b3d	flag-o-matic	b892042b2667b8ac69ec8a2571dc290a
+_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	linux-info	efd923656513c879204fec6638eadee5	flag-o-matic	b892042b2667b8ac69ec8a2571dc290a
 _md5_=4c3bb1c99009620b6f27401552d2cb30
