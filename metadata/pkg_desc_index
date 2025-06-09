@@ -510,7 +510,6 @@ dev-ruby/metasploit_payloads-mettle 1.0.17: Compiled binaries for Metasploit's n
 dev-ruby/mini_exiftool 2.10.0: wrapper for exiftool
 dev-ruby/msfrpc-client 1.1.2: Ruby client API to access the Rapid7 Metasploit Pro RPC service
 dev-ruby/opt_parse_validator 1.10.0 1.10.1: OptionParser lib in ruby
-dev-ruby/orm_adapter 0.5.0: Provides a single point of entry for using basic features of ruby ORMs
 dev-ruby/otr-activerecord 2.1.2: Off The Rails ActiveRecord: Use ActiveRecord with Grape, Sinatra, Rack
 dev-ruby/parseconfig 1.1.2: Provides simple parsing of standard *nix style config files.
 dev-ruby/patch_finder 1.0.2: Generic Patch Finder
