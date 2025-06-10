@@ -283,12 +283,11 @@ dev-python/flask-bootstrap 3.3.7.1: Simple integration of Flask and WTForms
 dev-python/flask-caching 1.10.1: Continuation of the Flask-Cache Extension
 dev-python/flask-classful 0.14.2: Class based views for Flask
 dev-python/flask-datepicker 0.14: Simple integration of Flask and WTForms
-dev-python/flask-jwt 0.3.2: JWT (JSON Web Tokens) for Flask applications
-dev-python/flask-jwt-extended 3.24.1: An open source Flask extension that provides JWT support
+dev-python/flask-jwt-extended 4.7.1: An open source Flask extension that provides JWT support
 dev-python/flask-restful 0.2.12: Flask-RESTful provides the building blocks for creating a great REST API
 dev-python/flask-restless 0.17.0: A Flask extension for easy ReSTful API generation
 dev-python/flask-session 0.3.1: Adds server-side session support to your Flask application
-dev-python/flask-socketio 4.3.1-r1: Socket.IO integration for Flask applications
+dev-python/flask-socketio 5.5.1: Socket.IO integration for Flask applications
 dev-python/fpdf 1.7.2: Simple PDF generation for Python
 dev-python/frida 16.1.8-r1 17.1.2: Dynamic instrumentation toolkit for reverse-engineers and security researchers
 dev-python/frida-bin 17.1.2: Dynamic instrumentation toolkit for reverse-engineers and security researchers
