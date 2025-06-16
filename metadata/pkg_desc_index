@@ -289,8 +289,8 @@ dev-python/flask-restless 0.17.0: A Flask extension for easy ReSTful API generat
 dev-python/flask-session 0.3.1: Adds server-side session support to your Flask application
 dev-python/flask-socketio 5.5.1: Socket.IO integration for Flask applications
 dev-python/fpdf 1.7.2: Simple PDF generation for Python
-dev-python/frida 16.1.8-r1 17.1.2: Dynamic instrumentation toolkit for reverse-engineers and security researchers
-dev-python/frida-bin 17.1.2: Dynamic instrumentation toolkit for reverse-engineers and security researchers
+dev-python/frida 16.1.8-r2 17.1.2-r1: Dynamic instrumentation toolkit for reverse-engineers and security researchers
+dev-python/frida-bin 17.1.2-r1: Dynamic instrumentation toolkit for reverse-engineers and security researchers
 dev-python/future 0.18.3: Easy, clean, reliable Python 2/3 compatibility
 dev-python/gatt-python 0.2.6-r1: Bluetooth GATT SDK for Python
 dev-python/geoip2-python 3.0.0: Python bindings for GeoIP2
