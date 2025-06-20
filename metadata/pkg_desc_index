@@ -754,7 +754,7 @@ net-wireless/signalhound-spike 3.5.9: Spectrum analyzer software for Signal Houn
 net-wireless/soapy-sdrplay3 9999 20230421: Soapy SDR module for SRDPlay API v3
 net-wireless/soapy_power 1.6.1-r1: Obtain power spectrum from SoapySDR devices
 net-wireless/srsran 23.11 9999: Open source SDR 4G software suite from Software Radio Systems
-net-wireless/srsran2 20231020: Open source SDR 4G software suite from Software Radio Systems
+net-wireless/srsran2 20231020 20240929: Open source SDR 4G software suite from Software Radio Systems
 net-wireless/trunk-recorder 5.0.2 9999: Records calls from a Trunked Radio System (P25 & SmartNet)
 net-wireless/wifipumpkin3 1.1.7-r2: Framework for Rogue Wi-Fi Access Point Attack
 net-wireless/wifite 2.7.0: An automated wireless attack tool

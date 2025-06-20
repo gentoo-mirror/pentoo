@@ -1,0 +1,16 @@
+BDEPEND=virtual/pkgconfig app-alternatives/ninja >=dev-build/cmake-3.20.5
+DEFINED_PHASES=compile configure install prepare test
+DEPEND=dev-libs/boost:= dev-libs/elfutils dev-libs/libconfig:=[cxx] net-misc/lksctp-tools net-libs/mbedtls:= sci-libs/fftw:3.0=[cpu_flags_x86_avx=,cpu_flags_x86_fma3=,cpu_flags_x86_sse=] bladerf? ( net-wireless/bladerf:= ) simcard? ( sys-apps/pcsc-lite ) soapysdr? ( net-wireless/soapysdr:= ) uhd? ( net-wireless/uhd:= ) zeromq? ( net-libs/zeromq:= )
+DESCRIPTION=Open source SDR 4G software suite from Software Radio Systems
+EAPI=8
+HOMEPAGE=https://github.com/hdtuanss/srsRAN2
+INHERIT=cmake flag-o-matic
+IUSE=bladerf cpu_flags_x86_avx cpu_flags_x86_avx2 cpu_flags_x86_avx512f cpu_flags_x86_fma3 cpu_flags_x86_sse simcard soapysdr test uhd zeromq
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=dev-libs/boost:= dev-libs/elfutils dev-libs/libconfig:=[cxx] net-misc/lksctp-tools net-libs/mbedtls:= sci-libs/fftw:3.0=[cpu_flags_x86_avx=,cpu_flags_x86_fma3=,cpu_flags_x86_sse=] bladerf? ( net-wireless/bladerf:= ) simcard? ( sys-apps/pcsc-lite ) soapysdr? ( net-wireless/soapysdr:= ) uhd? ( net-wireless/uhd:= ) zeromq? ( net-libs/zeromq:= )
+RESTRICT=!test? ( test )
+SLOT=0
+SRC_URI=https://github.com/hdtuanss/srsRAN2/archive/0acc79d3fe5b153a18b62e8ef5af1a0fb2327a18.tar.gz -> srsran2-20240929.gh.tar.gz
+_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	flag-o-matic	b892042b2667b8ac69ec8a2571dc290a	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	90d8ee8393c5c815637fd3cb87828c9b
+_md5_=4bcaca3cf495633399fda6b16a7b5bd0
