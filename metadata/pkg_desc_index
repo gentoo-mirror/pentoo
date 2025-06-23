@@ -476,7 +476,7 @@ dev-python/xonsh 0.14.2: Python-powered, cross-platform, Unix-gazing shell
 dev-python/xtract 0.1_alpha3: Library to (un)pack archives and (de)compress files
 dev-python/yara-python 4.5.1: Python interface for a malware identification and classification tool
 dev-python/yaswfp 0.9.3: Yet Another SWF Parser.
-dev-python/youtokentome 1.0.6: Unsupervised text tokenizer focused on computational efficiency
+dev-python/youtokentome 1.0.7 9999: Unsupervised text tokenizer focused on computational efficiency
 dev-python/zap-api-python 0.0.15: OWASP ZAP Python API
 dev-python/zlib_wrapper 0.1.3: Wrapper around zlib with custom header crc32.
 dev-ruby/cms_scanner 0.14.3 0.15.0: Framework to provide an easy way to implement CMS Scanners
