@@ -274,7 +274,7 @@ dev-python/exifread 2.3.1 2.3.2: Read Exif metadata from tiff and jpeg files
 dev-python/face 20.1.1: Straightforward CLI parsing and dispatching microframework
 dev-python/fake-useragent 0.1.11: Up to date simple useragent faker with real world database
 dev-python/faraday-plugins 1.0.1-r1: No project description provided
-dev-python/fastapi 0.109.2 0.115.12: High performance framework, easy to learn, fast to code, ready for production
+dev-python/fastapi 0.115.12 0.115.14: High performance framework, easy to learn, fast to code, ready for production
 dev-python/fastkml 0.11: Fast KML processing in python
 dev-python/filedepot 0.7.1: Toolkit for storing files and attachments in web applications
 dev-python/filteralchemy-fork 0.1.0: Declarative query builder for SQLAlchemy
