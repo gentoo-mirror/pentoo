@@ -391,7 +391,7 @@ dev-python/pyinstaller-hooks-contrib 2023.10: Community maintained hooks for PyI
 dev-python/pyjsparser 2.7.1: Fast javascript parser (based on esprima.js)
 dev-python/pykcs11 1.5.17: A complete PKCS#11 wrapper for Python
 dev-python/pykdebugparser 1.2.4 1.2.7: Python parser for kdebug events
-dev-python/pylnk3 0.4.2: Python library for reading and writing Windows shortcut files
+dev-python/pylnk3 0.4.3: Python library for reading and writing Windows shortcut files
 dev-python/pylzma 0.5.0: Platform independent python bindings for the LZMA compression library.
 dev-python/pylzss 0.3.1: LZSS compression algorithm
 dev-python/pymisp 2.4.124-r1 2.4.152: A python library for using the MISP Rest API
