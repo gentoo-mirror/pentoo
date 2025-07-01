@@ -277,3 +277,5 @@ www-apps/beef:msf - add integration for net-analyzer/metasploit
 www-apps/beef:notifications - enable notification plugin
 www-apps/beef:qrcode - enable qrcode generation support
 x11-libs/qwt-multiaxes:designer - Installs dev-qt/designer plugin.
+xfce-base/xfdesktop:pentoo-release - Default to the release backdrop/wallpaper instead of the beta backdrop
+xfce-base/xfdesktop:thunar - Build support for desktop icons (for example, launchers and folders)
