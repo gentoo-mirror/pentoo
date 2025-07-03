@@ -111,6 +111,7 @@ dev-python/simplespectral:fastest - Use dev-python/pyFFTW to speed up drawing to
 dev-python/slowapi:redis - redis, memcached and memory backends to track your limits
 dev-python/social-auth-core:saml - Use SAML
 dev-python/stegoveritas-binwalk:graph - Enable support for generating entropy graphs
+dev-util/androguard:show - QT is required for this function
 dev-util/apktool:tools - Add Android SDK build tools support
 dev-util/chipsec:chipsec-driver - Install kernel driver
 dev-util/mobsf:genymotion - Add app-emulation/genymotion-bin support
