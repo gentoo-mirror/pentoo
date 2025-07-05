@@ -11,5 +11,5 @@ LICENSE=GPL-2
 RDEPEND=>=net-wireless/hackrf-tools-2015.07.2-r1 >=app-mobilephone/dfu-util-0.7
 SLOT=0
 SRC_URI=https://github.com/portapack-mayhem/mayhem-firmware/releases/download/v2.0.1/mayhem_v2.0.1_FIRMWARE.zip https://github.com/portapack-mayhem/mayhem-firmware/archive/refs/tags/v2.0.1.tar.gz -> portapack-mayhem-2.0.1.tar.gz sdcard-files? ( https://github.com/portapack-mayhem/mayhem-firmware/releases/download/v2.0.1/mayhem_v2.0.1_COPY_TO_SDCARD.zip )
-_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	python-utils-r1	5ffe8ec396a751540949b565de0f048c
+_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	a6df79c1e9bc84369dbf3d44206ac772	python-utils-r1	5ffe8ec396a751540949b565de0f048c
 _md5_=af5f891ab9735c0c07b2da91ce3d59ce
