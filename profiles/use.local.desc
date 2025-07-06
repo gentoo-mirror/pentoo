@@ -262,8 +262,8 @@ pentoo/rfctf-client:rfctf-sdr - Packages needed to run the SDR for the rfctf
 pentoo/rfctf-client:rfctf-virtual - Packages needed for playing the virtual rfctf
 pentoo/rfctf-client:rfctf-visuals - Packages needed to show gr-fosphor visuals during rfctf
 pentoo/rfctf-client:rfctf-wifi - Packages needed to run the WiFi for the RFCTF
-pentoo/zero-system:dev - Packages for doing gentoo dev work
-pentoo/zero-system:naga - Packages for my main laptop
+pentoo/zero-system:desktop - Random desktop stuff I want
+pentoo/zero-system:dev - Packages for doing gentoo and other dev work
 pentoo/zero-system:nu - Packages for the build machine
 pentoo/zero-system:printer - Packages for printing
 sys-kernel/pentoo-sources:experimental - Apply experimental patches; for more information, see "https://wiki.gentoo.org/wiki/Project:Kernel/Experimental".
