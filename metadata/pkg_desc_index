@@ -682,7 +682,7 @@ net-vpn/udp2raw-tunnel 20200727.0 20200818.0 99999999: A tunnel which turns UDP 
 net-wireless/LTESniffer 2.1.0: LTE Downlink/Uplink Eavesdropper
 net-wireless/Sniffle 1.9.3 1.10.0: A sniffer for Bluetooth 5 and 4.x LE
 net-wireless/aircrack-ng 1.7-r3 9999: WLAN tools for breaking 802.11 WEP/WPA keys
-net-wireless/airgeddon 11.41-r1: bash script for Linux systems to audit wireless networks
+net-wireless/airgeddon 11.50-r1: bash script for Linux systems to audit wireless networks
 net-wireless/airspyhf 1.6.8 9999: User mode driver for Airspy HF+
 net-wireless/b43-openfwwf 5.2: OpenBroadcom Firmware
 net-wireless/b43-tools 9999: Tools for developers working on broadcom drivers/firmware
