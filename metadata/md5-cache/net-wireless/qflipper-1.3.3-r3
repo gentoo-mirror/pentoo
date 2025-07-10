@@ -10,4 +10,4 @@ RDEPEND=>=dev-libs/nanopb-0.4.5[pb-malloc] dev-qt/qtbase:6=[concurrent,evdev,gui
 SLOT=0
 SRC_URI=https://github.com/flipperdevices/qFlipper/archive/refs/tags/1.3.3.tar.gz -> qflipper-1.3.3.tar.gz
 _eclasses_=toolchain-funcs	a6df79c1e9bc84369dbf3d44206ac772	qmake-utils	a8dd17b1d94586164f5e3fc12b1c6b81
-_md5_=267f823511e6244f45a9ee0442944c66
+_md5_=d2ce483a90d3e470db425e5410cf7d67

@@ -545,7 +545,7 @@ dev-util/AndroidProjectCreator-bin 1.5 1.5.2: Decompile an APK to an Android Stu
 dev-util/androguard 4.1.3-r1: Read Android's binary format for XML files (AXML) and a decompiler for DEX
 dev-util/android-sdk-build-tools 30.0.3 31 33 34: Android SDK Build Tools
 dev-util/apkInspector 1.2.0 1.2.1: A tool designed to provide detailed insights into the zip structure of APK files
-dev-util/apktool 2.11.0 2.11.1: A tool for reengineering 3rd party, closed, binary Android apps
+dev-util/apktool 2.11.1 2.12.0: A tool for reengineering 3rd party, closed, binary Android apps
 dev-util/appmon 0.5_p20221108: Monitoring and tampering API calls of MacOS and iOS/Android apps
 dev-util/chipsec 1.13.3 1.13.8: Platform Security Assessment Framework
 dev-util/cpu_rec_rs 1.0.1: Determine which CPU architecture is used in a binary file
@@ -642,7 +642,7 @@ net-analyzer/takeover 20250129: Sub-Domain TakeOver Vulnerability Scanner
 net-analyzer/testssl 3.2_rc4 3.2.0 3.2.1: Tool to check TLS/SSL cipher support
 net-analyzer/thc-pptp-bruter 0.1.4: A brute force program that works against pptp vpn endpoints
 net-analyzer/thc-ssl-dos 1.4: THC-SSL-DOS is a tool to verify the performance of SSL servers
-net-analyzer/theHarvester 4.7.1 4.8.0: The Harvester is a tool designed to collect email accounts of the target domain
+net-analyzer/theHarvester 4.8.0 4.8.1: The Harvester is a tool designed to collect email accounts of the target domain
 net-analyzer/tplmap 20211014: Server-Side Template Injection and code injection tool
 net-analyzer/twa 1.9.3 1.10.0 9999: A tiny web auditor with strong opinions
 net-analyzer/voiphopper 2.04-r3: VoIP Hopper is a tool that rapidly runs a VLAN Hop into the Voice VLAN
@@ -669,8 +669,8 @@ net-misc/pwnedornot 1.2.8_p20200602: OSINT Tool for Finding Passwords of Comprom
 net-misc/sippts 3.4: set of tools to audit VoIP servers and devices using SIP protocol
 net-misc/t50 5.8.5 5.8.7: Mixed Packet Injector & Network Stress Testing Tool
 net-misc/voipong 2.0_p20111230: detect all VoIP calls on a pipeline and dump actual conversation
-net-proxy/burpsuite 2025.3.1_rc 2025.5.3 2025.5.4 9999: Interactive proxy for attacking and debugging web applications
-net-proxy/burpsuite-pro 2025.5.3 2025.5.4: Interactive proxy for attacking and debugging web applications
+net-proxy/burpsuite 2025.3.1_rc 2025.5.4 2025.5.6 9999: Interactive proxy for attacking and debugging web applications
+net-proxy/burpsuite-pro 2025.5.4 2025.5.6: Interactive proxy for attacking and debugging web applications
 net-proxy/insomnia-bin 11.1.0 11.2.0: REST API client, a postman alternative
 net-proxy/shadowsocks-rust 1.17.1 1.20.0: Shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
 net-proxy/sshttp 0.35_p2-r1 0.35_p20191108: An easy to use OSI-Layer5 switching daemon
@@ -741,7 +741,7 @@ net-wireless/pixiewps 1.4.2: Bruteforce offline the WPS pin exploiting the low o
 net-wireless/portapack-firmware 99999999: Portability Add-On for the HackRF Software-Defined Radio
 net-wireless/portapack-mayhem 2.0.1-r1 9999: Custom firmware for the HackRF SDR + PortaPack H1 addon
 net-wireless/proxmark3 4.20142 4.20469 9999: A general purpose RFID tool for Proxmark3 hardware
-net-wireless/qflipper 1.3.3-r1 1.3.3-r2: Desktop application for updating Flipper Zero firmware via PC
+net-wireless/qflipper 1.3.3-r3: Desktop application for updating Flipper Zero firmware via PC
 net-wireless/qspectrumanalyzer 2.2.0: vendor and platform neutral SDR support library
 net-wireless/reaver-wps-fork-t6x 1.6.6: Utilise Pixie Dust Attack to find the correct WPS PIN.
 net-wireless/rfcat 2.0.1-r1: The swiss army knife of subGHz
