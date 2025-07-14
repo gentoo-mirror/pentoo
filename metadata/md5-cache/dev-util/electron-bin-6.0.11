@@ -11,5 +11,5 @@ RDEPEND=dev-libs/atk dev-libs/expat dev-libs/glib:2 dev-libs/nss media-gfx/graph
 RESTRICT=mirror
 SLOT=6.0
 SRC_URI=amd64? ( https://github.com/electron/electron/releases/download/v6.0.11/electron-v6.0.11-linux-x64.zip -> electron-bin-6.0.11-x64.zip ) arm? ( https://github.com/electron/electron/releases/download/v6.0.11/electron-v6.0.11-linux-armv7l.zip -> electron-bin-6.0.11-armv7l.zip ) arm64? ( https://github.com/electron/electron/releases/download/v6.0.11/electron-v6.0.11-linux-arm64.zip -> electron-bin-6.0.11-arm64.zip ) x86? ( https://github.com/electron/electron/releases/download/v6.0.11/electron-v6.0.11-linux-ia32.zip -> electron-bin-6.0.11-ia32.zip )
-_eclasses_=toolchain-funcs	a6df79c1e9bc84369dbf3d44206ac772	linux-info	efd923656513c879204fec6638eadee5	chromium-2	3bebf8c71f3acd4070d63b098c45a7f1
+_eclasses_=toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	linux-info	efd923656513c879204fec6638eadee5	chromium-2	3bebf8c71f3acd4070d63b098c45a7f1
 _md5_=caf72ab52f2646667ce61438b133486f

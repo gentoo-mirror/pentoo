@@ -12,5 +12,5 @@ RDEPEND=php_targets_php8-2? ( dev-lang/php:8.2 )
 REQUIRED_USE=|| ( php_targets_php8-2 )
 SLOT=0
 SRC_URI=https://github.com/extremecoders-re/php-eval-hook/archive/25e4e2a9b84b4f4c45f3d2dfa35121ed7938b889.tar.gz -> evalhook-0.1_p20231013-r1.gh.tar.gz
-_eclasses_=gnuconfig	ddeb9f8caff1b5f71a09c75b7534df79	toolchain-funcs	a6df79c1e9bc84369dbf3d44206ac772	libtool	c81bd096be5f4c82f4e8f156ef112402	autotools	955b29ccd82c1df4755e5f37748d2fa6	php-ext-source-r3	57493651a3540d6ef7bff5e1c97c8dd3
+_eclasses_=gnuconfig	ddeb9f8caff1b5f71a09c75b7534df79	toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	libtool	c81bd096be5f4c82f4e8f156ef112402	autotools	955b29ccd82c1df4755e5f37748d2fa6	php-ext-source-r3	57493651a3540d6ef7bff5e1c97c8dd3
 _md5_=8aa989231e103b065e5fc1dc65fc5dcd
