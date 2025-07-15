@@ -6,7 +6,7 @@ app-admin/opensnitch:bpf - Enable bpf support
 app-admin/opensnitch:iptables - Enable iptables support
 app-admin/opensnitch:nftables - Enable nftables support
 app-antivirus/veil:tools - Install extra tools
-app-crypt/lxqt_wallet:kwallet - Build with KWallet support
+app-crypt/lxqt-wallet:kwallet - Build with KWallet support
 app-crypt/sirikali:kwallet - Build with KWallet support
 app-crypt/sirikali:pwquality - Install password quality checking library
 app-exploits/empire:powershell - Enable a PowerShell Windows agent
