@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=Pentoo wireless meta ebuild
+EAPI=8
+HOMEPAGE=https://www.pentoo.org
+IUSE=gps livecd-stage1 pentoo-extra pentoo-full +wpe radius
+KEYWORDS=~amd64 ~arm ~x86
+LICENSE=GPL-3
+PDEPEND=|| ( net-wireless/hostapd[wpe] net-wireless/hostapd[karma_cli] ) net-wireless/aircrack-ng net-wireless/kismet >=sys-apps/util-linux-2.31_rc1 || ( net-wireless/mdk4 net-wireless/mdk ) !livecd-stage1? ( net-wireless/wifite ) gps? ( sci-geosciences/gpsd ) || ( net-wireless/reaver-wps-fork-t6x net-wireless/reaver ) pentoo-extra? ( net-wireless/kismetmobiledashboard ) pentoo-full? ( app-crypt/asleap net-wireless/bully net-wireless/cowpatty net-wireless/hcxtools net-wireless/hcxdumptool net-wireless/hcxtools net-wireless/nrf52840-mdk-usb-dongle radius? ( net-dialup/freeradius[wpe] ) )
+SLOT=0
+_md5_=778e760fbadf2f9563f098be6b955d0d

@@ -258,7 +258,6 @@ pentoo/pentoo-radio:uhd - Support NI Ettus uhd/usrp devices
 pentoo/pentoo-system:2fa - Include support for yubikey
 pentoo/pentoo-system:qemu - install virt-manager and usermode-utilities
 pentoo/pentoo-system:windows-compat - Install wine
-pentoo/pentoo-wireless:drivers - Support for out of kernel drivers which are semi-usable
 pentoo/pentoo-wireless:wpe - Support for Wireless Pwnage Edition attacks for freeradius and/or hostapd
 pentoo/rfctf-client:rfctf-minimal - Do not require packages which are only used for debugging
 pentoo/rfctf-client:rfctf-sdr - Packages needed to run the SDR for the rfctf
