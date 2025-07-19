@@ -681,6 +681,7 @@ net-proxy/zaproxy 2.15.0 2.16.1: The OWASP Zed Attack Proxy for finding vulnerab
 net-vpn/hiddify-bin 2.5.7: Multi-platform auto-proxy client
 net-vpn/kcptun 20241227: A Stable & Secure Tunnel Based On KCP with N:M Multiplexing
 net-vpn/kcptun-plugins 20190313: SIP003-compatible KCPTUN and UDP2RAW plugins for Shadowsocks
+net-vpn/outline-vpn-api 6.3.0: A Python API wrapper for Outline VPN
 net-vpn/tuntox 0.0.10 9999: Tunnel TCP connections over the Tox protocol
 net-vpn/udp2raw-tunnel 20200727.0 20200818.0 99999999: A tunnel which turns UDP traffic into encrypted FakeTCP/UDP/ICMP traffic
 net-wireless/LTESniffer 2.1.0: LTE Downlink/Uplink Eavesdropper
