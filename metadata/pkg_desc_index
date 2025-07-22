@@ -707,7 +707,7 @@ net-wireless/dump1090_sdrplus 20200921: Mode S decoder for (SDR) devices includi
 net-wireless/eaphammer 1.14.0: Targeted evil twin attacks against WPA2-Enterprise networks
 net-wireless/editcp-bin 1.0.31: Codeplug editor for the MD-380/MD-390/MD40/MD-UV380/MD-UV390 DMR radios
 net-wireless/fern-wifi-cracker 3.4-r1: Wireless tool for WEP/WPA cracking and WPS keys recovery
-net-wireless/fosphor_knob 0.13 9999: A visualization we use for the RF Village
+net-wireless/fosphor_knob 0.14 9999: A visualization we use for the RF Village
 net-wireless/gps-sdr-sim 9999: GPS Spoofing tool for transmit capable SDR's like the HackRF, bladeRF and USRP
 net-wireless/gr-dsd 9999: GNU Radio block for Digital Speech Decoder
 net-wireless/gr-gsm 20210505-r1: Set of tools for receiving information transmitted by GSM equipment/devices
@@ -795,7 +795,7 @@ pentoo/pentoo-system 2025.1: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2025.2: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2025.2-r1: Pentoo wireless meta ebuild
 pentoo/rfctf-client 2024.2: Packages needed to power the client and SDR devices for RFCTF events
-pentoo/zero-system 2025.2: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
+pentoo/zero-system 2025.2-r1: The ZERO (Zoning & Emotional Range Omitted) System is a technology for interfacing the brain of the pilot with the mobile suit's computer.
 sci-electronics/litedram 20180514: Small footprint and configurable DRAM core
 sci-electronics/liteeth 20180719: Small footprint and configurable Ethernet core
 sci-electronics/litepcie 20180530-r1: Small footprint and configurable PCIe core
