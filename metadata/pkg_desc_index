@@ -646,7 +646,7 @@ net-analyzer/takeover 20250129: Sub-Domain TakeOver Vulnerability Scanner
 net-analyzer/testssl 3.2_rc4 3.2.0 3.2.1: Tool to check TLS/SSL cipher support
 net-analyzer/thc-pptp-bruter 0.1.4: A brute force program that works against pptp vpn endpoints
 net-analyzer/thc-ssl-dos 1.4: THC-SSL-DOS is a tool to verify the performance of SSL servers
-net-analyzer/theHarvester 4.8.0 4.8.1: The Harvester is a tool designed to collect email accounts of the target domain
+net-analyzer/theHarvester 4.8.0 4.8.2: The Harvester is a tool designed to collect email accounts of the target domain
 net-analyzer/tplmap 20211014: Server-Side Template Injection and code injection tool
 net-analyzer/twa 1.9.3 1.10.0 9999: A tiny web auditor with strong opinions
 net-analyzer/voiphopper 2.04-r3: VoIP Hopper is a tool that rapidly runs a VLAN Hop into the Voice VLAN
@@ -756,7 +756,7 @@ net-wireless/rtl8852bu_morrownr 9999: RTL88{3,5}2BU driver with monitor mode and
 net-wireless/rtl88x2bu_morrownr 9999: RTL88{1,2}2BU driver with monitor mode and frame injection
 net-wireless/rtl_power_fftw 0.0_p20200601 9999: power spectrum for RTLSDR dongles
 net-wireless/rx_tools 1.0.3_p20190331 9999: rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs
-net-wireless/sdrangel 7.22.0 7.22.7: SDR Rx/Tx software
+net-wireless/sdrangel 7.22.0 7.22.7-r1: SDR Rx/Tx software
 net-wireless/sdrtrunk 0.5.2-r1 9999: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/sdrtrunk-bin 0.6.1: Decode, monitor, record and stream trunked mobile and related radio protocols
 net-wireless/signalhound-spike 3.5.9: Spectrum analyzer software for Signal Hound test equipment
