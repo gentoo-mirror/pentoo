@@ -5,11 +5,10 @@ DESCRIPTION=A visualization we use for the RF Village
 EAPI=8
 HOMEPAGE=http://rfhackers.com
 INHERIT=git-r3
-IUSE=rsa
 LICENSE=GPL-3 Apache-2.0
 PROPERTIES=live
 RDEPEND=net-wireless/gnuradio:= net-wireless/gr-paint net-wireless/uhd:= net-analyzer/gr-fosphor x11-misc/wmctrl x11-misc/xtrlock
 RESTRICT=strip
 SLOT=0
 _eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81
-_md5_=d1ef406f85d44108cace91759b5841e4
+_md5_=f32bbb04da5b3ff15c95e59139fe13cd

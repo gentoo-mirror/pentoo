@@ -3,10 +3,9 @@ DEPEND=net-wireless/gnuradio:= net-wireless/gr-paint
 DESCRIPTION=A visualization we use for the RF Village
 EAPI=8
 HOMEPAGE=http://rfhackers.com
-IUSE=rsa
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3 Apache-2.0
 RDEPEND=net-wireless/gnuradio:= net-wireless/gr-paint net-wireless/uhd:= net-analyzer/gr-fosphor x11-misc/wmctrl x11-misc/xtrlock
 SLOT=0
-SRC_URI=https://github.com/rfhs/fosphor_knob/archive/refs/tags/0.14.tar.gz -> fosphor_knob-0.14.gh.tar.gz
-_md5_=d1ef406f85d44108cace91759b5841e4
+SRC_URI=https://github.com/rfhs/fosphor_knob/archive/refs/tags/0.15.tar.gz -> fosphor_knob-0.15.gh.tar.gz
+_md5_=f32bbb04da5b3ff15c95e59139fe13cd
