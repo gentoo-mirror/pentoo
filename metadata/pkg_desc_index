@@ -578,7 +578,7 @@ dev-util/objection 1.11.0-r3: Runtime mobile exploration
 dev-util/pentoo-udev-rules 0.0.1: udev rules to assist in some way with hardware commonly used in pentoo
 dev-util/plasma 20190304: An interactive disassembler for x86/ARM/MIPS
 dev-util/recaf-bin 2.21.14: A modern Java bytecode editor
-dev-util/reflutter 0.7.8 0.8.5: Flutter apps reverse engineering
+dev-util/reflutter 0.7.8 0.8.5 0.8.5-r1: Flutter apps reverse engineering
 dev-util/semgrep-core-bin 1.66.0 1.75.0: Lightweight static analysis for many languages
 dev-util/soapui-bin 5.7.2 5.8.0: The Swiss-Army Knife for SOAP Testing
 dev-util/sonarqube-bin 7.9.3 8.3.1.34397 8.4.1.35646 8.7.0.41497: SonarQube Community Edition is an open platform to manage code quality

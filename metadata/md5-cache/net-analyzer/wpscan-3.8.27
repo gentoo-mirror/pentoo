@@ -1,17 +1,17 @@
-BDEPEND=ruby_targets_ruby32? ( dev-ruby/bundler:2[ruby_targets_ruby32(-)] ) test? ( ruby_targets_ruby32? ( >=dev-ruby/cms_scanner-0.13.9[ruby_targets_ruby32(-)] ) ) ruby_targets_ruby32? ( dev-lang/ruby:3.2 ) ruby_targets_ruby32? ( doc? ( dev-ruby/rdoc[ruby_targets_ruby32(-)] ) ) ruby_targets_ruby32? ( test? ( dev-ruby/rake[ruby_targets_ruby32(-)] ) ) ruby_targets_ruby32? ( virtual/rubygems[ruby_targets_ruby32(-)] ) test? ( ruby_targets_ruby32? ( virtual/rubygems[ruby_targets_ruby32(-)] ) )
+BDEPEND=ruby_targets_ruby32? ( dev-ruby/bundler:2[ruby_targets_ruby32(-)] ) ruby_targets_ruby33? ( dev-ruby/bundler:2[ruby_targets_ruby33(-)] ) test? ( ruby_targets_ruby32? ( >=dev-ruby/cms_scanner-0.13.9[ruby_targets_ruby32(-)] ) ruby_targets_ruby33? ( >=dev-ruby/cms_scanner-0.13.9[ruby_targets_ruby33(-)] ) ) ruby_targets_ruby32? ( dev-lang/ruby:3.2 ) ruby_targets_ruby33? ( dev-lang/ruby:3.3 ) ruby_targets_ruby32? ( doc? ( dev-ruby/rdoc[ruby_targets_ruby32(-)] ) ) ruby_targets_ruby33? ( doc? ( dev-ruby/rdoc[ruby_targets_ruby33(-)] ) ) ruby_targets_ruby32? ( test? ( dev-ruby/rake[ruby_targets_ruby32(-)] ) ) ruby_targets_ruby33? ( test? ( dev-ruby/rake[ruby_targets_ruby33(-)] ) ) ruby_targets_ruby32? ( virtual/rubygems[ruby_targets_ruby32(-)] ) ruby_targets_ruby33? ( virtual/rubygems[ruby_targets_ruby33(-)] ) test? ( ruby_targets_ruby32? ( virtual/rubygems[ruby_targets_ruby32(-)] ) ruby_targets_ruby33? ( virtual/rubygems[ruby_targets_ruby33(-)] ) )
 DEFINED_PHASES=compile configure install prepare setup test unpack
-DEPEND=ruby_targets_ruby32? ( dev-lang/ruby:3.2 ) ruby_targets_ruby32? ( virtual/rubygems[ruby_targets_ruby32(-)] )
+DEPEND=ruby_targets_ruby32? ( dev-lang/ruby:3.2 ) ruby_targets_ruby33? ( dev-lang/ruby:3.3 ) ruby_targets_ruby32? ( virtual/rubygems[ruby_targets_ruby32(-)] ) ruby_targets_ruby33? ( virtual/rubygems[ruby_targets_ruby33(-)] )
 DESCRIPTION=Wordpress security scanner
 EAPI=8
 HOMEPAGE=https://wpscan.org/
 INHERIT=ruby-fakegem
-IUSE=test ruby_targets_ruby32 doc test test
+IUSE=test ruby_targets_ruby32 ruby_targets_ruby33 doc test test
 KEYWORDS=~amd64
 LICENSE=GPL-2
-RDEPEND=ruby_targets_ruby32? ( >=dev-ruby/cms_scanner-0.13.9[ruby_targets_ruby32(-)] ) ruby_targets_ruby32? ( dev-lang/ruby:3.2 ) ruby_targets_ruby32? ( virtual/rubygems[ruby_targets_ruby32(-)] )
-REQUIRED_USE=|| ( ruby_targets_ruby32 )
+RDEPEND=ruby_targets_ruby32? ( >=dev-ruby/cms_scanner-0.13.9[ruby_targets_ruby32(-)] ) ruby_targets_ruby33? ( >=dev-ruby/cms_scanner-0.13.9[ruby_targets_ruby33(-)] ) ruby_targets_ruby32? ( dev-lang/ruby:3.2 ) ruby_targets_ruby33? ( dev-lang/ruby:3.3 ) ruby_targets_ruby32? ( virtual/rubygems[ruby_targets_ruby32(-)] ) ruby_targets_ruby33? ( virtual/rubygems[ruby_targets_ruby33(-)] )
+REQUIRED_USE=|| ( ruby_targets_ruby32 ruby_targets_ruby33 )
 RESTRICT=!test? ( test ) !test? ( test ) !test? ( test )
 SLOT=0
 SRC_URI=https://github.com/wpscanteam/wpscan/archive/v3.8.27.tar.gz -> wpscan-3.8.27.tar.gz
 _eclasses_=toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	multilib	b2a329026f2e404e9e371097dda47f96	ruby-utils	cb2cdbbce7fae7a6b2b1021219b0680d	ruby-ng	960d5adaf301da1ef0ab9bdba5018a6d	ruby-fakegem	bc37b1e2fa23e795fae856dd70a23846
-_md5_=c0d7b0bdd3473ab509180fe3a1a1eb53
+_md5_=362d84e8d4cc86f3e1a9dae0f0f538bc

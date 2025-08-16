@@ -1,16 +1,16 @@
-BDEPEND=ruby_targets_ruby32? ( dev-ruby/bundler[ruby_targets_ruby32(-)] ) test? ( ruby_targets_ruby32? ( dev-ruby/nokogiri[ruby_targets_ruby32(-)] dev-ruby/spider[ruby_targets_ruby32(-)] dev-ruby/mini_exiftool[ruby_targets_ruby32(-)] dev-ruby/rubyzip:*[ruby_targets_ruby32(-)] >=dev-ruby/mime-types-3.3.1:*[ruby_targets_ruby32(-)] dev-ruby/rexml[ruby_targets_ruby32(-)] dev-ruby/rubyzip[ruby_targets_ruby32(-)] ) ) ruby_targets_ruby32? ( dev-lang/ruby:3.2 ) >=dev-vcs/git-1.8.2.1[curl]
+BDEPEND=ruby_targets_ruby32? ( dev-ruby/bundler[ruby_targets_ruby32(-)] ) ruby_targets_ruby33? ( dev-ruby/bundler[ruby_targets_ruby33(-)] ) test? ( ruby_targets_ruby32? ( dev-ruby/nokogiri[ruby_targets_ruby32(-)] dev-ruby/spider[ruby_targets_ruby32(-)] dev-ruby/mini_exiftool[ruby_targets_ruby32(-)] dev-ruby/rubyzip:*[ruby_targets_ruby32(-)] >=dev-ruby/mime-types-3.3.1:*[ruby_targets_ruby32(-)] dev-ruby/rexml[ruby_targets_ruby32(-)] dev-ruby/rubyzip[ruby_targets_ruby32(-)] ) ruby_targets_ruby33? ( dev-ruby/nokogiri[ruby_targets_ruby33(-)] dev-ruby/spider[ruby_targets_ruby33(-)] dev-ruby/mini_exiftool[ruby_targets_ruby33(-)] dev-ruby/rubyzip:*[ruby_targets_ruby33(-)] >=dev-ruby/mime-types-3.3.1:*[ruby_targets_ruby33(-)] dev-ruby/rexml[ruby_targets_ruby33(-)] dev-ruby/rubyzip[ruby_targets_ruby33(-)] ) ) ruby_targets_ruby32? ( dev-lang/ruby:3.2 ) ruby_targets_ruby33? ( dev-lang/ruby:3.3 ) >=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=compile configure install prepare setup test unpack
-DEPEND=ruby_targets_ruby32? ( dev-lang/ruby:3.2 )
+DEPEND=ruby_targets_ruby32? ( dev-lang/ruby:3.2 ) ruby_targets_ruby33? ( dev-lang/ruby:3.3 )
 DESCRIPTION=A custom word list generator
 EAPI=8
 HOMEPAGE=http://www.digininja.org/projects/cewl.php
 INHERIT=ruby-ng git-r3
-IUSE=test ruby_targets_ruby32
+IUSE=test ruby_targets_ruby32 ruby_targets_ruby33
 LICENSE=GPL-2
 PROPERTIES=live
-RDEPEND=ruby_targets_ruby32? ( dev-ruby/nokogiri[ruby_targets_ruby32(-)] dev-ruby/spider[ruby_targets_ruby32(-)] dev-ruby/mini_exiftool[ruby_targets_ruby32(-)] dev-ruby/rubyzip:*[ruby_targets_ruby32(-)] >=dev-ruby/mime-types-3.3.1:*[ruby_targets_ruby32(-)] dev-ruby/rexml[ruby_targets_ruby32(-)] dev-ruby/rubyzip[ruby_targets_ruby32(-)] ) ruby_targets_ruby32? ( dev-lang/ruby:3.2 )
-REQUIRED_USE=|| ( ruby_targets_ruby32 )
+RDEPEND=ruby_targets_ruby32? ( dev-ruby/nokogiri[ruby_targets_ruby32(-)] dev-ruby/spider[ruby_targets_ruby32(-)] dev-ruby/mini_exiftool[ruby_targets_ruby32(-)] dev-ruby/rubyzip:*[ruby_targets_ruby32(-)] >=dev-ruby/mime-types-3.3.1:*[ruby_targets_ruby32(-)] dev-ruby/rexml[ruby_targets_ruby32(-)] dev-ruby/rubyzip[ruby_targets_ruby32(-)] ) ruby_targets_ruby33? ( dev-ruby/nokogiri[ruby_targets_ruby33(-)] dev-ruby/spider[ruby_targets_ruby33(-)] dev-ruby/mini_exiftool[ruby_targets_ruby33(-)] dev-ruby/rubyzip:*[ruby_targets_ruby33(-)] >=dev-ruby/mime-types-3.3.1:*[ruby_targets_ruby33(-)] dev-ruby/rexml[ruby_targets_ruby33(-)] dev-ruby/rubyzip[ruby_targets_ruby33(-)] ) ruby_targets_ruby32? ( dev-lang/ruby:3.2 ) ruby_targets_ruby33? ( dev-lang/ruby:3.3 )
+REQUIRED_USE=|| ( ruby_targets_ruby32 ruby_targets_ruby33 )
 RESTRICT=!test? ( test )
 SLOT=0
 _eclasses_=toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	multilib	b2a329026f2e404e9e371097dda47f96	ruby-utils	cb2cdbbce7fae7a6b2b1021219b0680d	ruby-ng	960d5adaf301da1ef0ab9bdba5018a6d	git-r3	875eb471682d3e1f18da124be97dcc81
-_md5_=78bb9a9057602ff136672809f79f8d2b
+_md5_=2363c2b25c7a4242ae19204676e54de4
