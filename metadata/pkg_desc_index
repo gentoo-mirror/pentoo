@@ -795,7 +795,7 @@ pentoo/pentoo-proxies 2025.0: Pentoo proxy meta ebuild
 pentoo/pentoo-radio 2025.2: Radio tools for pentoo
 pentoo/pentoo-rce 2025.2: Pentoo RCE meta ebuild
 pentoo/pentoo-scanner 2025.2: Pentoo scanner meta ebuild
-pentoo/pentoo-system 2025.1: Pentoo meta ebuild to install system
+pentoo/pentoo-system 2025.2: Pentoo meta ebuild to install system
 pentoo/pentoo-voip 2025.2: Pentoo voip meta ebuild
 pentoo/pentoo-wireless 2025.2-r1: Pentoo wireless meta ebuild
 pentoo/rfctf-client 2024.2: Packages needed to power the client and SDR devices for RFCTF events
