@@ -245,6 +245,7 @@ dev-python/cement 2.10: Application Framework for Python
 dev-python/censys 2.2.17: Python library for interacting with Censys Search Engine (censys.io)
 dev-python/cfscrape 2.1.1: A module to bypass Cloudflare's anti-bot page
 dev-python/cherrypy-cors 1.6: CORS handling as a cherrypy tool.
+dev-python/chromadb 1.0.20: Embedding database for LLM apps
 dev-python/click-option-group 0.5.3: Option groups missing in Click
 dev-python/cmake-converter 2.2.0: CMake converter for Visual Studio projects
 dev-python/codegen 1.0: Extension to ast that allow ast -> python code generation
@@ -389,6 +390,7 @@ dev-python/pydub 0.25.1: Manipulate audio with an simple and easy high level int
 dev-python/pyee 8.1.0 8.2.2: A port of node.js's EventEmitter to python.
 dev-python/pygeoif 0.7: A basic implementation of the __geo_interface__
 dev-python/pyghidra 2.2.0: a Python library that provides direct access to the Ghidra API
+dev-python/pyghidra-mcp 0.1.8: Python Command-Line Ghidra MCP
 dev-python/pygnuutils 0.1.1: A python implementation for GNU utils
 dev-python/pygtail 0.11.0: Reads log file lines that have not been read
 dev-python/pyhunter 1.7 9999: An (unofficial) Python wrapper for the Hunter.io API
