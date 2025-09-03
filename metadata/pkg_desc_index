@@ -32,7 +32,7 @@ app-editors/rehex 0.63.0 0.63.2: Reverse Engineers' Hex Editor
 app-emulation/cloud-init 23.4-r1: Cloud instance initialisation magic
 app-eselect/eselect-metasploit 0.20: eselect module for metasploit
 app-exploits/deathstar 20210519: A tool to gain Domain Admin rights with a push of a button
-app-exploits/empire 6.1.2 6.1.3: A post-exploitation framework
+app-exploits/empire 6.1.3 6.2.0: A post-exploitation framework
 app-exploits/exploitdb 20231222 99999999: All exploits from exploit-db.com
 app-exploits/exploitdb-papers 20221122 99999999: Exploit database's papers
 app-exploits/getsploit 0.3.3_p20190530 9999: Command line utility for searching and downloading exploits
@@ -281,7 +281,7 @@ dev-python/exifread 2.3.1 2.3.2: Read Exif metadata from tiff and jpeg files
 dev-python/face 20.1.1: Straightforward CLI parsing and dispatching microframework
 dev-python/fake-useragent 0.1.11: Up to date simple useragent faker with real world database
 dev-python/faraday-plugins 1.0.1-r1: No project description provided
-dev-python/fastapi 0.115.14 0.116.0: High performance framework, easy to learn, fast to code, ready for production
+dev-python/fastapi 0.115.14 0.116.0 0.116.1: High performance framework, easy to learn, fast to code, ready for production
 dev-python/fastkml 0.11: Fast KML processing in python
 dev-python/filedepot 0.7.1: Toolkit for storing files and attachments in web applications
 dev-python/filteralchemy-fork 0.1.0: Declarative query builder for SQLAlchemy
@@ -463,6 +463,7 @@ dev-python/sqlalchemy_utc 0.14.0: SQLAlchemy type to store aware datetime values
 dev-python/srptools 1.0.1: Tools to implement Secure Remote Password (SRP) authentication
 dev-python/sslcrypto 5.3: ECIES, AES and RSA OpenSSL-based implementation with fallback
 dev-python/sslpsk-pmd3 1.0.3: Fork of sslpsk with support for latest python versions (=<3_12)
+dev-python/stamina 25.1.0: Production-grade Retries Made Easy
 dev-python/stegoveritas-binwalk 2.1.2: Binwalk release specifically for stegoveritas
 dev-python/stegoveritas-pfp 0.2.3: An 010 template interpreter for Python
 dev-python/stegoveritas-py010parser 0.1.10: A modified pycparser to parse 010 templates
@@ -606,7 +607,7 @@ net-analyzer/crackmapexec 5.4.0: A swiss army knife for pentesting Windows/Activ
 net-analyzer/davtest 1.2_p20230307-r1: tests WebDAV enabled servers
 net-analyzer/dirb 2.22: A Web Content Scanner to look for existing/hidden content
 net-analyzer/dirhunt 0.7.0-r1: Dirhunt is a web crawler optimized for searching and analyzing web directories.
-net-analyzer/dnsrecon 1.3.1 1.4.0: DNS Enumeration Script
+net-analyzer/dnsrecon 1.4.0 1.5.1: DNS Enumeration Script
 net-analyzer/enum4linux 0.9.1: A tool for enumerating information from Windows and Samba systems
 net-analyzer/evilgrade 2.0.9: A modular framework that takes advantage of poor upgrade implementations by injecting fake updates.
 net-analyzer/fierce 1.5.0 1.6.0 9999: A DNS reconnaissance tool for locating non-contiguous IP space
