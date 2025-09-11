@@ -662,7 +662,7 @@ net-analyzer/wfuzz 3.1.0-r2: Wfuzz is a tool designed for bruteforcing Web Appli
 net-analyzer/whatweb 0.5.5 0.6.2: Next generation web scanner, identifies what software websites are running
 net-analyzer/wpscan 3.8.27 3.8.28: Wordpress security scanner
 net-analyzer/xsstrike 3.1.5 9999: Advanced XSS detection suite
-net-dialup/minimodem 0.24: General-purpose software audio FSK modem.
+net-dialup/minimodem 0.24-r1: General-purpose software audio FSK modem.
 net-libs/libosmocore 1.9.3: Utility functions for OsmocomBB, OpenBSC and related projects
 net-libs/libpfring 8.6.1 9.0.0: A new type of network socket that improves packet capture speed.
 net-libs/libtins 4.3: High-level, multiplatform C++ network packet sniffing and crafting library.
@@ -732,7 +732,6 @@ net-wireless/jackit 0.0_p20170918-r1: Exploit Code for Mousejack
 net-wireless/kalibrate-hackrf 20160704 20220321: Calculate the local oscillator frequency offset using GSM stations
 net-wireless/karmetasploit 0.1-r3: KARMA + Metasploit 3 == Karmetasploit
 net-wireless/killerbee 3.0.0_beta1: Framework and Tools for Attacking ZigBee and IEEE 802.15.4 networks
-net-wireless/kismet 9999 20250512: IEEE 802.11 wireless LAN sniffer
 net-wireless/kismet-rest 2019.05.02 9999: Kismet REST Python API
 net-wireless/kismet_shootout 0.0_p20190717 9999: Kismet WiFi data source shootout
 net-wireless/kismetdb 2019.05.05 9999: Kismetdb database log helper library
@@ -816,7 +815,7 @@ sys-devel/gdb-dashboard 0.11.4-r1 0.17.4 9999: Modular visual interface for GDB 
 sys-fs/ext4-crypt 20170216 99999999: A userspace tool to create ext4 encrypted directories
 sys-kernel/nvidia-bl 0.17.3: Driver to adjust display backlight on legacy mobile NVidia graphics adapters
 sys-kernel/pentoo-lts-sources 2: Pentoo kernel sources (kernel series .)
-sys-kernel/pentoo-sources 6.6.71 6.12.38 6.15.6 6.16.3: Pentoo kernel sources (kernel series 6.16)
+sys-kernel/pentoo-sources 6.6.71 6.12.38 6.15.6 6.16.6: Pentoo kernel sources (kernel series 6.16)
 sys-kernel/pf_ring-kmod 7.8.0_p20210421: High-speed packet processing framework (kernel modules for)
 sys-kernel/wireless-testing 9999: Wireless integration testing tree
 virtual/frida 17.1.0 17.2.0: Virtual for Frida
