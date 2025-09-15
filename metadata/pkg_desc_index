@@ -567,7 +567,7 @@ dev-util/ghidra 11.3.2 11.4.1 11.4.2: A software reverse engineering framework
 dev-util/hbctool 0.1.5: Disassembling and assembling the Hermes Bytecode
 dev-util/hermes-dec 20240407: decompiling and disassembling the React Native Hermes bytecode
 dev-util/itstool 2.0.7 2.0.7-r1: Translation tool for XML documents that uses gettext files and ITS rules
-dev-util/jadx-bin 1.5.1 1.5.2: A standalone graphical Java Decompiler
+dev-util/jadx-bin 1.5.2 1.5.3: A standalone graphical Java Decompiler
 dev-util/jd-cli 1.2.1: Command line Java Decompiler
 dev-util/jd-cli-bin 1.2.1: Command line Java Decompiler
 dev-util/jd-gui 1.6.6-r5: A standalone Java Decompiler GUI
@@ -575,7 +575,7 @@ dev-util/jd-gui-bin 1.6.6-r1: A standalone Java Decompiler GUI
 dev-util/jnitrace 3.3.1-r1: A Frida based tool that traces usage of the JNI API in Android apps.
 dev-util/jnitrace-engine 20230402: Engine used by jnitrace to intercept JNI API calls.
 dev-util/kaleido-bin 0.2.1: Static image export for web-based visualization libraries
-dev-util/lief 0.16.5 0.16.6: Library to instrument executable formats
+dev-util/lief 0.16.6 0.17.0: Library to instrument executable formats
 dev-util/memfetch 0.05b: A simple utility to dump all memory of a running process
 dev-util/mobsf 4.3.2-r1 4.4.2: Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing
 dev-util/objection 1.11.0-r3: Runtime mobile exploration
