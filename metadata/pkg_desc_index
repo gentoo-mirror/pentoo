@@ -628,6 +628,7 @@ net-analyzer/metasploit 9999: Advanced framework for developing, testing, and us
 net-analyzer/ncrack 0.7-r1: Ncrack is a high-speed network authentication cracking tool
 net-analyzer/nmap-vulners 1.2 1.4_beta 9999: NSE script based on Vulners.com API
 net-analyzer/ntlmrecon 0.4_beta: A tool to enumerate information from NTLM authentication enabled web endpoints
+net-analyzer/nuclei-bin 3.4.10: High-performance vulnerability based on YAML templates
 net-analyzer/onesixtyone 0.7: An efficient SNMP scanner
 net-analyzer/padbuster 20110928: Automated script for performing Padding Oracle attacks
 net-analyzer/plecost 9999: Wordpress finger printing tool, retrieve information about the plugins and versions installed
