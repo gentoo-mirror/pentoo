@@ -9,5 +9,5 @@ LICENSE=GPL-2
 RDEPEND=dev-libs/openssl:= net-libs/libpcap
 SLOT=0
 SRC_URI=http://dev.pentoo.ch/~zero/distfiles/SIPcrack-0.4.tar.gz
-_eclasses_=toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0
+_eclasses_=toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db
 _md5_=2a30db79e03a6bb5ac69a3db6ece8dbf
