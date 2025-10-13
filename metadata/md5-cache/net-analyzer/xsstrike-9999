@@ -1,15 +1,15 @@
 BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=install prepare setup unpack
-DEPEND=python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 )
+DEPEND=python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) python_single_target_python3_14? ( dev-lang/python:3.14 )
 DESCRIPTION=Advanced XSS detection suite
 EAPI=8
 HOMEPAGE=https://github.com/s0md3v/XSStrike
 INHERIT=python-single-r1 wrapper git-r3
-IUSE=python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13
+IUSE=python_single_target_python3_12 python_single_target_python3_13 python_single_target_python3_14
 LICENSE=GPL-3
 PROPERTIES=live
-RDEPEND=python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) python_single_target_python3_11? ( dev-python/tld[python_targets_python3_11(-)] dev-python/fuzzywuzzy[python_targets_python3_11(-)] dev-python/requests[python_targets_python3_11(-)] dev-python/selenium[python_targets_python3_11(-)] ) python_single_target_python3_12? ( dev-python/tld[python_targets_python3_12(-)] dev-python/fuzzywuzzy[python_targets_python3_12(-)] dev-python/requests[python_targets_python3_12(-)] dev-python/selenium[python_targets_python3_12(-)] ) python_single_target_python3_13? ( dev-python/tld[python_targets_python3_13(-)] dev-python/fuzzywuzzy[python_targets_python3_13(-)] dev-python/requests[python_targets_python3_13(-)] dev-python/selenium[python_targets_python3_13(-)] )
-REQUIRED_USE=^^ ( python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13 )
+RDEPEND=python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) python_single_target_python3_14? ( dev-lang/python:3.14 ) python_single_target_python3_12? ( dev-python/tld[python_targets_python3_12(-)] dev-python/fuzzywuzzy[python_targets_python3_12(-)] dev-python/requests[python_targets_python3_12(-)] ) python_single_target_python3_13? ( dev-python/tld[python_targets_python3_13(-)] dev-python/fuzzywuzzy[python_targets_python3_13(-)] dev-python/requests[python_targets_python3_13(-)] ) python_single_target_python3_14? ( dev-python/tld[python_targets_python3_14(-)] dev-python/fuzzywuzzy[python_targets_python3_14(-)] dev-python/requests[python_targets_python3_14(-)] )
+REQUIRED_USE=^^ ( python_single_target_python3_12 python_single_target_python3_13 python_single_target_python3_14 )
 SLOT=0
 _eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	python-utils-r1	0b620dd604ab8af0bc9cd1bcc66d4f7c	python-single-r1	47d8ac9be330c9366112b78fd4f8ce57	wrapper	11a2a3bd712784986679b60a0cab34a0	git-r3	875eb471682d3e1f18da124be97dcc81
-_md5_=4ab1a02b0af6408688c305956c8cdb17
+_md5_=e5508e90ae6ea153be151e3c78b923be

@@ -1,17 +1,17 @@
-BDEPEND=dev-util/pahole sys-apps/kmod[tools] modules-sign? ( dev-libs/openssl virtual/pkgconfig ) python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 ) python_targets_python3_13? ( dev-lang/python:3.13 ) >=dev-python/gpep517-16[python_targets_python3_11(-)?,python_targets_python3_12(-)?,python_targets_python3_13(-)?] >=dev-python/setuptools-78.1.0[python_targets_python3_11(-)?,python_targets_python3_12(-)?,python_targets_python3_13(-)?]
+BDEPEND=dev-util/pahole sys-apps/kmod[tools] modules-sign? ( dev-libs/openssl virtual/pkgconfig ) python_targets_python3_12? ( dev-lang/python:3.12 ) python_targets_python3_13? ( dev-lang/python:3.13 ) python_targets_python3_14? ( dev-lang/python:3.14 ) >=dev-python/gpep517-16[python_targets_python3_12(-)?,python_targets_python3_13(-)?,python_targets_python3_14(-)?] >=dev-python/setuptools-78.1.0[python_targets_python3_12(-)?,python_targets_python3_13(-)?,python_targets_python3_14(-)?]
 DEFINED_PHASES=compile configure install postinst prepare setup test
-DEPEND=app-arch/brotli[python_targets_python3_11(-)?,python_targets_python3_12(-)?,python_targets_python3_13(-)?] virtual/linux-sources python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 ) python_targets_python3_13? ( dev-lang/python:3.13 )
+DEPEND=app-arch/brotli[python_targets_python3_12(-)?,python_targets_python3_13(-)?,python_targets_python3_14(-)?] virtual/linux-sources python_targets_python3_12? ( dev-lang/python:3.12 ) python_targets_python3_13? ( dev-lang/python:3.13 ) python_targets_python3_14? ( dev-lang/python:3.14 )
 DESCRIPTION=Platform Security Assessment Framework
 EAPI=8
 HOMEPAGE=https://github.com/chipsec/chipsec
 IDEPEND=sys-apps/kmod[tools]
 INHERIT=linux-mod-r1 distutils-r1 pypi
-IUSE=+chipsec-driver dist-kernel modules-compress modules-sign +strip python_targets_python3_11 python_targets_python3_12 python_targets_python3_13 debug
+IUSE=+chipsec-driver dist-kernel modules-compress modules-sign +strip python_targets_python3_12 python_targets_python3_13 python_targets_python3_14 debug
 KEYWORDS=amd64 ~arm64 ~x86
 LICENSE=GPL-2
-RDEPEND=app-arch/brotli[python_targets_python3_11(-)?,python_targets_python3_12(-)?,python_targets_python3_13(-)?] sys-apps/kmod[tools] dist-kernel? ( virtual/dist-kernel:= ) python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 ) python_targets_python3_13? ( dev-lang/python:3.13 )
-REQUIRED_USE=|| ( python_targets_python3_11 python_targets_python3_12 python_targets_python3_13 ) || ( python_targets_python3_11 python_targets_python3_12 python_targets_python3_13 )
+RDEPEND=app-arch/brotli[python_targets_python3_12(-)?,python_targets_python3_13(-)?,python_targets_python3_14(-)?] sys-apps/kmod[tools] dist-kernel? ( virtual/dist-kernel:= ) python_targets_python3_12? ( dev-lang/python:3.12 ) python_targets_python3_13? ( dev-lang/python:3.13 ) python_targets_python3_14? ( dev-lang/python:3.14 )
+REQUIRED_USE=|| ( python_targets_python3_12 python_targets_python3_13 python_targets_python3_14 ) || ( python_targets_python3_12 python_targets_python3_13 python_targets_python3_14 )
 SLOT=0
 SRC_URI=https://files.pythonhosted.org/packages/source/c/chipsec/chipsec-1.13.8.tar.gz
 _eclasses_=mount-boot-utils	2551bac1a772f4b6beacb494a750ae92	toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	dist-kernel-utils	a40de3638d3f7a89f4c45d1a62b90e20	edo	a5e294016aa84979fcb2459749eb80b2	linux-info	efd923656513c879204fec6638eadee5	multiprocessing	1e32df7deee68372153dca65f4a7c21f	linux-mod-r1	2b1749a4ea9e1aea780b1b54dd2f65f1	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	out-of-source-utils	dbf9e34ee8964084651e25907fa8f52c	multibuild	4650a65187015567b4e041bb9bfdb364	multilib	a199af442898963433d6f038a88cce9c	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	python-utils-r1	0b620dd604ab8af0bc9cd1bcc66d4f7c	python-r1	0e15b2ab9cfc87d7474678201d6bca38	distutils-r1	37143302bc375f4878f7b5f7497da8cc	pypi	464727a3e8a18884f71fe2368cac3197
-_md5_=540feb739ce8cb4eec28d7762dfed97b
+_md5_=97e5f17c66fb0aef3aeeaff99aa87ba8

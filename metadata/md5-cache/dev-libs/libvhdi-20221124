@@ -1,16 +1,16 @@
 BDEPEND=virtual/pkgconfig sys-devel/gnuconfig >=app-portage/elt-patches-20250306 || ( >=dev-build/automake-1.18:1.18 >=dev-build/automake-1.17-r1:1.17 ) || ( >=dev-build/autoconf-2.72-r1:2.72 ) >=dev-build/libtool-2.4.7-r3
 DEFINED_PHASES=configure install prepare setup
-DEPEND=python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) fuse? ( sys-fs/fuse:0=[static-libs?] )
+DEPEND=python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) python_single_target_python3_14? ( dev-lang/python:3.14 ) fuse? ( sys-fs/fuse:0=[static-libs?] )
 DESCRIPTION=Library and tools to access the Virtual Hard Disk (VHD) image format
 EAPI=8
 HOMEPAGE=https://github.com/libyal/libvhdi
 INHERIT=autotools python-single-r1
-IUSE=debug +fuse unicode python nls static static-libs python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13
+IUSE=debug +fuse unicode python nls static static-libs python_single_target_python3_12 python_single_target_python3_13 python_single_target_python3_14
 KEYWORDS=amd64 ~hppa ~ppc x86
 LICENSE=LGPL-3
-RDEPEND=python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) fuse? ( sys-fs/fuse:0=[static-libs?] )
-REQUIRED_USE=static? ( static-libs ) ^^ ( python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13 )
+RDEPEND=python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) python_single_target_python3_14? ( dev-lang/python:3.14 ) fuse? ( sys-fs/fuse:0=[static-libs?] )
+REQUIRED_USE=static? ( static-libs ) ^^ ( python_single_target_python3_12 python_single_target_python3_13 python_single_target_python3_14 )
 SLOT=0
 SRC_URI=https://github.com/libyal/libvhdi/releases/download/20221124/libvhdi-alpha-20221124.tar.gz -> libvhdi-20221124.tar.gz
 _eclasses_=gnuconfig	ddeb9f8caff1b5f71a09c75b7534df79	toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	libtool	c81bd096be5f4c82f4e8f156ef112402	autotools	955b29ccd82c1df4755e5f37748d2fa6	multiprocessing	1e32df7deee68372153dca65f4a7c21f	python-utils-r1	0b620dd604ab8af0bc9cd1bcc66d4f7c	python-single-r1	47d8ac9be330c9366112b78fd4f8ce57
-_md5_=6bb8688c08af21c892e6ccd50336f117
+_md5_=8f2348c6862a8a8bc4fd2dc7f0aa416b

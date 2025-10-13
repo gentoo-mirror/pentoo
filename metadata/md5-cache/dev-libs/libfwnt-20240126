@@ -4,12 +4,12 @@ DESCRIPTION=Library for Windows NT data types
 EAPI=8
 HOMEPAGE=https://github.com/libyal/libfwnt
 INHERIT=python-single-r1
-IUSE=debug nls python +threads python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13
+IUSE=debug nls python +threads python_single_target_python3_12 python_single_target_python3_13 python_single_target_python3_14
 KEYWORDS=amd64 ~arm64 x86
 LICENSE=LGPL-3
-RDEPEND=dev-libs/libcdata[nls=] dev-libs/libcerror[nls=] dev-libs/libcnotify[nls=] dev-libs/libcthreads[nls=] nls? ( virtual/libiconv virtual/libintl ) python? ( dev-lang/python:* ) python? ( python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) )
-REQUIRED_USE=python? ( ^^ ( python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13 ) )
+RDEPEND=dev-libs/libcdata[nls=] dev-libs/libcerror[nls=] dev-libs/libcnotify[nls=] dev-libs/libcthreads[nls=] nls? ( virtual/libiconv virtual/libintl ) python? ( dev-lang/python:* ) python? ( python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) python_single_target_python3_14? ( dev-lang/python:3.14 ) )
+REQUIRED_USE=python? ( ^^ ( python_single_target_python3_12 python_single_target_python3_13 python_single_target_python3_14 ) )
 SLOT=0
 SRC_URI=https://github.com/libyal/libfwnt/releases/download/20240126/libfwnt-alpha-20240126.tar.gz
 _eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	python-utils-r1	0b620dd604ab8af0bc9cd1bcc66d4f7c	python-single-r1	47d8ac9be330c9366112b78fd4f8ce57
-_md5_=42d9dfd28bb1d0ec6e1bfcd9bf38ec0f
+_md5_=4877aced2f582cfc631fd3c2007ae1d0

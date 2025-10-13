@@ -1,16 +1,16 @@
-BDEPEND=python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) >=dev-build/meson-1.2.3 app-alternatives/ninja dev-build/meson-format-array
+BDEPEND=python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) python_single_target_python3_14? ( dev-lang/python:3.14 ) >=dev-build/meson-1.2.3 app-alternatives/ninja dev-build/meson-format-array
 DEFINED_PHASES=compile configure install postinst postrm preinst setup test
 DESCRIPTION=GTK app to sync InfiniTime watch with PinePhone
 EAPI=8
 HOMEPAGE=https://github.com/alexr4535/siglo
 IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
 INHERIT=gnome2-utils python-single-r1 meson xdg
-IUSE=python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13
+IUSE=python_single_target_python3_12 python_single_target_python3_13 python_single_target_python3_14
 KEYWORDS=~amd64 ~arm64 ~x86
 LICENSE=MPL-2.0
-RDEPEND=python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) python_single_target_python3_11? ( dev-python/dbus-python[python_targets_python3_11(-)] dev-python/gatt-python[python_targets_python3_11(-)] dev-python/requests[python_targets_python3_11(-)] dev-python/pyxdg[python_targets_python3_11(-)] ) python_single_target_python3_12? ( dev-python/dbus-python[python_targets_python3_12(-)] dev-python/gatt-python[python_targets_python3_12(-)] dev-python/requests[python_targets_python3_12(-)] dev-python/pyxdg[python_targets_python3_12(-)] ) python_single_target_python3_13? ( dev-python/dbus-python[python_targets_python3_13(-)] dev-python/gatt-python[python_targets_python3_13(-)] dev-python/requests[python_targets_python3_13(-)] dev-python/pyxdg[python_targets_python3_13(-)] )
-REQUIRED_USE=^^ ( python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13 )
+RDEPEND=python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) python_single_target_python3_14? ( dev-lang/python:3.14 ) python_single_target_python3_12? ( dev-python/dbus-python[python_targets_python3_12(-)] dev-python/gatt-python[python_targets_python3_12(-)] dev-python/requests[python_targets_python3_12(-)] dev-python/pyxdg[python_targets_python3_12(-)] ) python_single_target_python3_13? ( dev-python/dbus-python[python_targets_python3_13(-)] dev-python/gatt-python[python_targets_python3_13(-)] dev-python/requests[python_targets_python3_13(-)] dev-python/pyxdg[python_targets_python3_13(-)] ) python_single_target_python3_14? ( dev-python/dbus-python[python_targets_python3_14(-)] dev-python/gatt-python[python_targets_python3_14(-)] dev-python/requests[python_targets_python3_14(-)] dev-python/pyxdg[python_targets_python3_14(-)] )
+REQUIRED_USE=^^ ( python_single_target_python3_12 python_single_target_python3_13 python_single_target_python3_14 )
 SLOT=0
 SRC_URI=https://github.com/alexr4535/siglo/archive/refs/tags/v0.9.9.tar.gz -> siglo-0.9.9.tar.gz
 _eclasses_=toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	gnome2-utils	a8cf148ec7f5ae0b1f1d33ae5f7f9e88	multiprocessing	1e32df7deee68372153dca65f4a7c21f	python-utils-r1	0b620dd604ab8af0bc9cd1bcc66d4f7c	python-single-r1	47d8ac9be330c9366112b78fd4f8ce57	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	meson	99466844dd8d4fcfb07578a76f5a9922	xdg	3ef49a87c52c8b77c476351195dfe575
-_md5_=e07cb49e92dc85618a365660a9cac407
+_md5_=f9b1b0e111695aed9a809da0f2b273b2

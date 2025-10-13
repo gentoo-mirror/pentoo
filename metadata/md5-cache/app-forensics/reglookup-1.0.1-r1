@@ -1,4 +1,4 @@
-BDEPEND=|| ( ( dev-lang/python:3.13 >=dev-build/scons-4.4.0[python_targets_python3_13(-)] ) ( dev-lang/python:3.12 >=dev-build/scons-4.4.0[python_targets_python3_12(-)] ) ( dev-lang/python:3.11 >=dev-build/scons-4.4.0[python_targets_python3_11(-)] ) )
+BDEPEND=|| ( ( dev-lang/python:3.14 >=dev-build/scons-4.4.0[python_targets_python3_14(-)] ) ( dev-lang/python:3.13 >=dev-build/scons-4.4.0[python_targets_python3_13(-)] ) ( dev-lang/python:3.12 >=dev-build/scons-4.4.0[python_targets_python3_12(-)] ) )
 DEFINED_PHASES=compile install prepare setup
 DESCRIPTION=An utility for reading and querying Windows NT/2K/XP registries
 EAPI=8
@@ -9,4 +9,4 @@ RDEPEND=sys-libs/talloc virtual/libiconv
 SLOT=0
 SRC_URI=http://projects.sentinelchicken.org/data/downloads/reglookup-src-1.0.1.tar.gz
 _eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	python-utils-r1	0b620dd604ab8af0bc9cd1bcc66d4f7c	python-any-r1	891415dfe39ad9b41b461f2b86354af0	scons-utils	87365f855ad8a7c4572ad0f0adcb8eee
-_md5_=ae60d833af52ba1cc214f43891f4b287
+_md5_=4bb1b53c4ff16048e78b4c84f5bf5ff6

@@ -1,16 +1,16 @@
 BDEPEND=app-alternatives/ninja >=dev-build/cmake-3.28.5
 DEFINED_PHASES=compile configure install prepare setup test
-DEPEND=python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) >=net-wireless/gnuradio-3.7:=[vocoder] sci-libs/itpp dev-libs/libfmt:= dev-libs/spdlog:= net-libs/libpcap sci-libs/volk:= dev-util/cppunit sci-libs/volk:=
+DEPEND=python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) python_single_target_python3_14? ( dev-lang/python:3.14 ) >=net-wireless/gnuradio-3.7:=[vocoder] sci-libs/itpp dev-libs/libfmt:= dev-libs/spdlog:= net-libs/libpcap sci-libs/volk:= dev-util/cppunit sci-libs/volk:=
 DESCRIPTION=software-defined analyzer for APCO P25 signals
 EAPI=8
 HOMEPAGE=http://osmocom.org/projects/op25/wiki
 INHERIT=cmake python-single-r1
-IUSE=python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13
+IUSE=python_single_target_python3_12 python_single_target_python3_13 python_single_target_python3_14
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
-RDEPEND=python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) >=net-wireless/gnuradio-3.7:=[vocoder] sci-libs/itpp dev-libs/libfmt:= dev-libs/spdlog:= net-libs/libpcap sci-libs/volk:=
-REQUIRED_USE=^^ ( python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13 )
+RDEPEND=python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) python_single_target_python3_14? ( dev-lang/python:3.14 ) >=net-wireless/gnuradio-3.7:=[vocoder] sci-libs/itpp dev-libs/libfmt:= dev-libs/spdlog:= net-libs/libpcap sci-libs/volk:=
+REQUIRED_USE=^^ ( python_single_target_python3_12 python_single_target_python3_13 python_single_target_python3_14 )
 SLOT=0
 SRC_URI=https://github.com/boatbod/op25/archive/563d5e8431620d75e8592bcbcb93c41ded41679e.tar.gz -> op25-20240327.tar.gz
 _eclasses_=toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	cf95ad72ab207889c1668fc0d1bee181	python-utils-r1	0b620dd604ab8af0bc9cd1bcc66d4f7c	python-single-r1	47d8ac9be330c9366112b78fd4f8ce57
-_md5_=3d0aa59ddc9e556c459cc2b37313e3a7
+_md5_=e023b05f57423e8f573905a38fff64cd

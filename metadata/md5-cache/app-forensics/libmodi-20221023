@@ -5,12 +5,12 @@ DESCRIPTION=Library and tools to access the Mac OS disk image formats
 EAPI=8
 HOMEPAGE=https://github.com/libyal/libmodi
 INHERIT=autotools python-single-r1
-IUSE=nls unicode python +fuse +threads debug python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13
+IUSE=nls unicode python +fuse +threads debug python_single_target_python3_12 python_single_target_python3_13 python_single_target_python3_14
 KEYWORDS=amd64 ~arm64 x86
 LICENSE=LGPL-3
-RDEPEND=nls? ( virtual/libiconv virtual/libintl ) python? ( dev-lang/python:* ) app-forensics/libbfio[nls=,unicode=,threads=] dev-libs/libcaes[nls=,python=] dev-libs/libcdata[nls=] dev-libs/libcdirectory[nls=,unicode=] dev-libs/libcerror[nls=] dev-libs/libcfile[nls=,unicode=] dev-libs/libclocale[nls=,unicode=] dev-libs/libcnotify[nls=] dev-libs/libcpath[nls=,unicode=] dev-libs/libcsplit[nls=,unicode=] dev-libs/libcthreads[nls=] dev-libs/libfcache[nls=] dev-libs/libfdata[nls=,threads=] dev-libs/libfguid[nls=] dev-libs/libfmos[nls=,threads=,python=] dev-libs/libfplist[nls=,threads=] dev-libs/libfvalue[nls=] dev-libs/libhmac[nls=,unicode=,threads=] dev-libs/libuna[nls=,unicode=] sys-libs/zlib dev-libs/openssl app-arch/bzip2 app-arch/xz-utils python? ( python_single_target_python3_11? ( dev-lang/python:3.11 ) python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) ) fuse? ( sys-fs/fuse )
-REQUIRED_USE=python? ( ^^ ( python_single_target_python3_11 python_single_target_python3_12 python_single_target_python3_13 ) )
+RDEPEND=nls? ( virtual/libiconv virtual/libintl ) python? ( dev-lang/python:* ) app-forensics/libbfio[nls=,unicode=,threads=] dev-libs/libcaes[nls=,python=] dev-libs/libcdata[nls=] dev-libs/libcdirectory[nls=,unicode=] dev-libs/libcerror[nls=] dev-libs/libcfile[nls=,unicode=] dev-libs/libclocale[nls=,unicode=] dev-libs/libcnotify[nls=] dev-libs/libcpath[nls=,unicode=] dev-libs/libcsplit[nls=,unicode=] dev-libs/libcthreads[nls=] dev-libs/libfcache[nls=] dev-libs/libfdata[nls=,threads=] dev-libs/libfguid[nls=] dev-libs/libfmos[nls=,threads=,python=] dev-libs/libfplist[nls=,threads=] dev-libs/libfvalue[nls=] dev-libs/libhmac[nls=,unicode=,threads=] dev-libs/libuna[nls=,unicode=] sys-libs/zlib dev-libs/openssl app-arch/bzip2 app-arch/xz-utils python? ( python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) python_single_target_python3_14? ( dev-lang/python:3.14 ) ) fuse? ( sys-fs/fuse )
+REQUIRED_USE=python? ( ^^ ( python_single_target_python3_12 python_single_target_python3_13 python_single_target_python3_14 ) )
 SLOT=0
 SRC_URI=https://github.com/libyal/libmodi/releases/download/20221023/libmodi-experimental-20221023.tar.gz
 _eclasses_=gnuconfig	ddeb9f8caff1b5f71a09c75b7534df79	toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	libtool	c81bd096be5f4c82f4e8f156ef112402	autotools	955b29ccd82c1df4755e5f37748d2fa6	multiprocessing	1e32df7deee68372153dca65f4a7c21f	python-utils-r1	0b620dd604ab8af0bc9cd1bcc66d4f7c	python-single-r1	47d8ac9be330c9366112b78fd4f8ce57
-_md5_=de38df5417d2dfa3f3eb22445f3989f5
+_md5_=e12182150838716369fa6cf6083700a6

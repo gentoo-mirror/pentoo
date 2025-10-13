@@ -1,0 +1,15 @@
+DEFINED_PHASES=install prepare setup
+DEPEND=python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) python_single_target_python3_14? ( dev-lang/python:3.14 )
+DESCRIPTION=Advanced XSS detection suite
+EAPI=8
+HOMEPAGE=https://github.com/s0md3v/XSStrike
+INHERIT=python-single-r1 wrapper
+IUSE=python_single_target_python3_12 python_single_target_python3_13 python_single_target_python3_14
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=python_single_target_python3_12? ( dev-lang/python:3.12 ) python_single_target_python3_13? ( dev-lang/python:3.13 ) python_single_target_python3_14? ( dev-lang/python:3.14 ) python_single_target_python3_12? ( dev-python/tld[python_targets_python3_12(-)] dev-python/fuzzywuzzy[python_targets_python3_12(-)] dev-python/requests[python_targets_python3_12(-)] ) python_single_target_python3_13? ( dev-python/tld[python_targets_python3_13(-)] dev-python/fuzzywuzzy[python_targets_python3_13(-)] dev-python/requests[python_targets_python3_13(-)] ) python_single_target_python3_14? ( dev-python/tld[python_targets_python3_14(-)] dev-python/fuzzywuzzy[python_targets_python3_14(-)] dev-python/requests[python_targets_python3_14(-)] )
+REQUIRED_USE=^^ ( python_single_target_python3_12 python_single_target_python3_13 python_single_target_python3_14 )
+SLOT=0
+SRC_URI=https://github.com/s0md3v/XSStrike/archive/3.1.6.tar.gz -> xsstrike-3.1.6.tar.gz
+_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	python-utils-r1	0b620dd604ab8af0bc9cd1bcc66d4f7c	python-single-r1	47d8ac9be330c9366112b78fd4f8ce57	wrapper	11a2a3bd712784986679b60a0cab34a0
+_md5_=c3b7642a7721df942d5428a8fef7fa27

@@ -1,15 +1,15 @@
 BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=install unpack
-DEPEND=net-analyzer/wireshark python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 ) python_targets_python3_13? ( dev-lang/python:3.13 )
+DEPEND=net-analyzer/wireshark python_targets_python3_12? ( dev-lang/python:3.12 ) python_targets_python3_13? ( dev-lang/python:3.13 ) python_targets_python3_14? ( dev-lang/python:3.14 )
 DESCRIPTION=nRF-based 802.15.4 sniffer
 EAPI=8
 HOMEPAGE=https://github.com/NordicSemiconductor/nRF-Sniffer-for-802.15.4
 INHERIT=python-r1 git-r3
-IUSE=python_targets_python3_11 python_targets_python3_12 python_targets_python3_13
+IUSE=python_targets_python3_12 python_targets_python3_13 python_targets_python3_14
 LICENSE=Nordic-5
 PROPERTIES=live
-RDEPEND=net-analyzer/wireshark python_targets_python3_11? ( dev-lang/python:3.11 ) python_targets_python3_12? ( dev-lang/python:3.12 ) python_targets_python3_13? ( dev-lang/python:3.13 ) || ( ( dev-lang/python:3.13 dev-python/pyserial[python_targets_python3_13(-)] ) ( dev-lang/python:3.12 dev-python/pyserial[python_targets_python3_12(-)] ) ( dev-lang/python:3.11 dev-python/pyserial[python_targets_python3_11(-)] ) )
-REQUIRED_USE=|| ( python_targets_python3_11 python_targets_python3_12 python_targets_python3_13 )
+RDEPEND=net-analyzer/wireshark python_targets_python3_12? ( dev-lang/python:3.12 ) python_targets_python3_13? ( dev-lang/python:3.13 ) python_targets_python3_14? ( dev-lang/python:3.14 ) || ( ( dev-lang/python:3.14 dev-python/pyserial[python_targets_python3_14(-)] ) ( dev-lang/python:3.13 dev-python/pyserial[python_targets_python3_13(-)] ) ( dev-lang/python:3.12 dev-python/pyserial[python_targets_python3_12(-)] ) )
+REQUIRED_USE=|| ( python_targets_python3_12 python_targets_python3_13 python_targets_python3_14 )
 SLOT=0
 _eclasses_=out-of-source-utils	dbf9e34ee8964084651e25907fa8f52c	multibuild	4650a65187015567b4e041bb9bfdb364	multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	python-utils-r1	0b620dd604ab8af0bc9cd1bcc66d4f7c	python-r1	0e15b2ab9cfc87d7474678201d6bca38	git-r3	875eb471682d3e1f18da124be97dcc81
-_md5_=8b482186fba406dbae4932d848f901de
+_md5_=dd324637567f1841029cb968a9d81c76
