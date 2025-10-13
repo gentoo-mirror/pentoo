@@ -1,0 +1,10 @@
+BDEPEND=app-arch/unzip
+DEFINED_PHASES=install
+DESCRIPTION=Multiprotocol credentials bruteforcer/password
+EAPI=8
+HOMEPAGE=https://github.com/evilsocket/legba
+KEYWORDS=amd64 ~arm64 ~arm
+LICENSE=GPL-3
+SLOT=0
+SRC_URI=amd64? ( fetch+https://github.com/evilsocket/legba/releases/download/1.2.0/legba-1.2.0-linux-x86_64.tar.gz ) arm64? ( fetch+https://github.com/evilsocket/legba/releases/download/1.2.0/legba-1.2.0-linux-arm64.tar.gz ) arm? ( fetch+https://github.com/evilsocket/legba/releases/download/1.2.0/legba-1.2.0-linux-armv7.tar.gz )
+_md5_=02a6dcd145f096bcd8ce790e26ee7cb6
